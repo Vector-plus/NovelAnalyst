@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0054",
+  "kind": "index",
+  "revision": 3,
+  "safe_through": 15,
+  "title": "法明 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 15,
+        "end": 15
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0038.json",
+        "record_id": "rel-0038"
+      },
+      "kind": "relationship",
+      "title": "法明×玄奘",
+      "summary": "与法明×玄奘的关系",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0054/index.json",
+          "record_id": "char-0054"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0039.json",
+        "record_id": "rel-0039"
+      },
+      "kind": "relationship",
+      "title": "天杨×法明",
+      "summary": "与天杨×法明的关系",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0054/index.json",
+          "record_id": "char-0054"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 15
+    }
+  ]
+}

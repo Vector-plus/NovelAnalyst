@@ -1,0 +1,943 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "stage_range": {
+    "start": 1,
+    "end": 10
+  },
+  "as_of": 10,
+  "arc_summary": {
+    "doc_id": "doc-arc-001",
+    "front_matter": {
+      "title": "取经路上·林中之变",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第1—10章（as_of 10）。本阶段自密林前取经队伍争吵开场，至唐僧身死、孙悟空离队赴地府、小白龙请假离去收束。所有材料均来自本 stage 的已提取事件与陈述，未读原文。\n\n## 起始局面\n队伍在密林前，内部摩擦先行（第1章四人争吵，ev-local-1）。唐僧是被服侍的师父；各成员以西行解咒为共同前提，猪八戒自述“诅咒—西天”的绑定关系（claim-local-6，reported）。孙悟空一侧的动机更个人化：自述“只有看晚霞才能坚持向西走”（claim-local-4），并在第4章自述捕妖是为“积功德分”（claim-local-2）。\n\n## 核心目标与冲突\n- 表层目标：西行、捕妖、积功德、解咒。\n- 主要冲突一：师徒之间的服从关系破裂——唐僧赌气独行（第1章）、被困呼救（第2章），其“独行”与“依赖”反复交替。\n- 主要冲突二：孙悟空遭遇“我是谁”的外部陈述——女子声称等了几万年、并说“他已记不得一切”（第4—5章），直接牵动其判断。\n- 硬约束：西天之门仅僧人可开、诅咒无法解除（claim-local-13，reported）。\n\n## 关键转折\n1. 第1章 唐僧赌气独自入林、僧袍扯破（ev-local-2），为后续安危的起点。\n2. 第2—3章 怪树搭话并以藤蔓困住唐僧（ev-local-1/2 ch2）；随后唐僧与绿衣女孩论佛，直触小乘/大乘与金蝉子传说（ev-local-3、claim-local-14/15）；怪树与怪兽化为白烟，孙悟空凌空赶到（claim-local-9 ch3、ev-local-4 ch3）。\n3. 第4—5章 女子认出孙悟空、自述等了几万年（claim-local-14 ch4/ch5），并说出被打断的“你就是……”（claim-local-12）；孙悟空举棒未落、放过她（ev-local-2 ch5），是本阶段最重要的自我克制。\n4. 第6章 孙悟空以“她说了我是谁，也说了我们每一个人是谁”为由击杀唐僧（ev-local-1、claim-local-8、claim-local-11 直述证据），随即闪电引燃森林、纵身离去（ev-local-2）。此为本阶段最大转折，队伍实际解体。\n5. 第8章 孙悟空归来追问师父下落，得知唐僧已死且有人冒充他行凶（ev-local-1 ch8、claim-local-12 ch8），与猪八戒互骂、八戒仰天痛哭（ev-local-2 ch8）。\n6. 第10章 孙悟空离队赴地府取唐僧魂魄（ev-local-1 ch10），小白龙请假离去（ev-local-2 ch10），离散状态明确。\n\n## 阶段结果\n- 唐僧身死，肉身被烧坏只剩半边（claim-local-3，由猪八戒转述）。\n- 取经队伍由“摩擦中同行”转为实际离散：师父身死、护法者离队、成员各自离开。\n- 身世与记忆线索成串出现，但均未确证：金蝉子（第3章他人质疑）、四大魔王名号含“齐天大圣美猴王”（第5章 claim-local-10）、天蓬造月与“银河”命名（第7章）、阿瑶蟠桃园初遇（第9章）、密林答话者（第10章，未命名）。\n\n## 下一阶段承接与未决问题\n- 唐僧之死的真凶：孙悟空自认行凶，第8章又出现“有人冒充孙悟空行凶”的推断（claim-local-12 ch8），二者关系未在本阶段澄清。\n- 女子“你是谁”的完整内容被截断，孙悟空记忆缺口的性质未解。\n- “天蓬—月”前史与猪八戒的前世关系、以及阿瑶与第3—5章“绿衣女孩/林中女子”是否同一存在，本阶段均未明示，不作身份合并。\n- 队伍是否重新聚合、如何继续西行，本阶段未交代（仅知孙悟空赴地府取魂）。"
+  },
+  "character_stages": [
+    {
+      "candidate_name": "唐僧",
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第1章取经队伍在密林前争吵，唐僧作为被服侍的师父在场（ev-local-1）。同章他赌气脱离队伍独自入林、僧袍被扯破（ev-local-2），构成本阶段第一个行动起点：由被服侍者转为主动行动方。\n\n## 目标与动机\n- 自述所修为“大乘”“圆满”，但对具体所求“还没想好”（claim-local-14，reported），自我定位是自信而含糊的。\n- 对队内关系的态度表现为赌气式对抗：以“别以为我离了你们就不行”式的独行进入林中（ev-local-2 ch1）。\n\n## 关键选择与经历\n1. 第1章 独自入林 → 第2章 与怪树搭话后被藤蔓与暗伏存在困住，以大喊救命收尾（ev-local-1/2 ch2、claim-local-18）。此处与第1章的独行宣言形成行为重复点。\n2. 第3章 与绿衣女孩论佛，直接交锋小乘/大乘与“金蝉子走火入魔陷万劫”的传说（ev-local-3、claim-local-14、claim-local-15）。\n3. 第4章 在万年老树残躯前发出迟暮/孤独的叹语（claim-local-22），是全阶段唯一的抒情性自我表达。\n4. 第6章 被孙悟空以“既知你是谁”为由击杀（ev-local-1 ch6；claim-local-11 为直述证据）。\n5. 第10章 肉身被烧坏、只剩半边（claim-local-3，由猪八戒转述）。\n\n## 身份与能力变化\n- 关系位置变化：由队伍中的“师父/被保护者”变为被本队护法者处死的对象，第10章确认为肉身损毁、需取魂魄。\n- 第3章出现“金蝉子”一说，但只是他人质疑中的传说，本阶段**未明示**金蝉子与唐僧是否同一，故不作身份合并。\n\n## 认知与性格表现\n- 对自身佛法定位自信（修大乘、修圆满），但在实际危险面前立刻转为呼救，独行与依赖交替出现。\n- 缺乏对林中风险的判断，被陌生存在以对话拖住；面对怪树的自述（几千年猴群、三百年前被吃）未有反向质询记录。\n\n## 阶段终点\n身死：第6章被击杀，第10章肉身只剩半边，魂魄待取（孙悟空离队赴地府，ev-local-1 ch10）。\n\n## 证据不足与补读入口\n- 本 doc 仅依据 stage_buffer 中的事件/陈述 Ref 组织，未读原文；ev-local-* 为 stage 内局部 id，需落库层解析到 ledger。\n- “绿衣女孩”“林中女子”是否为同一存在，以及与阿瑶的关系，本阶段无证据，不作合并。\n- claim-local-14“还没想好”的完整语境、以及第6章“你是谁”所指，均需补读第3—6章。"
+      },
+      "current_summary_update": "第1—10章：《面见》阶段起点为密林前队伍争吵，唐僧赌气独自入林（僧袍扯破）→ 第2章被怪树困缚呼救 → 第3章与绿衣女孩论佛（自述修大乘、修圆满而“还没想好”；小乘/金蝉子传说）→ 第4章老树残躯前叹语 → 第6章被孙悟空以“既知你是谁”为由击杀 → 第10章肉身只剩半边，魂魄待取。金蝉子关联未明示，不作身份合并。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "孙悟空",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "stage_doc_id": "doc-char-0002-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第1章密林前队伍争吵中在场（ev-local-1）。其动机从一开始就带有个人化执念：自述“只有看晚霞才能坚持向西走”（claim-local-4，reported）。\n\n## 目标与动机\n- 显性目标：捕妖换取“功德分”（claim-local-2，reported），行动理由直白而功利。\n- 自述五百年关押与“赎罪三件事”的框架（ev-local-1 ch5、claim-local-8，reported）。\n- 以金箍为由自述不自由（claim-local-15，ch8）。\n\n## 关键选择与经历\n1. 第3章 凌空赶到林中之变现场（ev-local-4 ch3），衔接唐僧被困的危机。\n2. 第4—5章 与认出他的女子对话：女子称已等数万年、“逃不出他的掌心”（claim-local-14），并说“他已记不得一切”（claim-local-12）；其“你就是……”被打断。\n3. 第5章 举棒未落、放过女子（ev-local-2 ch5）——本阶段最重要的自我克制，也是人物转折点。\n4. 第6章 以“她说了我是谁，也说了我们每一个人是谁”为由击杀唐僧（ev-local-1、claim-local-8），随即闪电引燃森林、纵身离去（ev-local-2）；同章自述“又犯了一桩天条”（claim-local-12），暗示此前已有前科。\n5. 第8章 归来追问师父下落，得知唐僧已死且有人冒充他行凶（ev-local-1 ch8、claim-local-12 ch8）；与猪八戒林中争吵互骂（ev-local-2 ch8）。\n6. 第10章 离队赴地府取唐僧魂魄（ev-local-1 ch10）。\n\n## 身份与能力变化\n- 第5章“四大魔王名号清单”中被列入“齐天大圣美猴王”（claim-local-10，reported）——属名号层面的身份信息，本阶段未观察到新能力。\n- 金箍的约束性被本人明言（claim-local-15）：行动自由受限是其自我认知的一部分。\n\n## 认知与性格表现\n- 自保与杀伐并存：放过女子（第5章）与击杀师父（第6章）相邻发生，判断依据是自己听到的“身份”陈述，处置果断且不留缓冲。\n- 对“我是谁”的答案依赖外部叙述，自身记忆存在缺口（女子“他已记不得一切”），这一缺口直接影响其行为选择。\n- 对师父之死的反应以“追问—推断”为主，情绪表现弱于猪八戒一侧。\n\n## 阶段终点\n脱离取经队伍，独自赴地府取唐僧魂魄（第10章），本阶段末处于离队状态。\n\n## 证据不足与补读入口\n- 女子所称“你是谁”的具体内容本阶段未给出（claim-local-8 为角色自述且被截断），需补读第5—6章。\n- 第4章“积功德分”与第5章“赎罪三件事”之间的关系未在 buffer 中说明。\n- ev-local-* 为 stage 内局部 id，需落库层解析到 ledger。"
+      },
+      "current_summary_update": "第1—10章：以“捕妖积功德分”和“赎罪三件事”为动机登场；第3章赶到林中之变救场；第5章举棒未落放过认出他的女子（女子自述等了几万年、“他已记不得一切”）；第6章以“既知你是谁”为由击杀唐僧、纵身离去；第8章归来追问师父下落、得知冒充者推断并与猪八戒互骂；第10章离队赴地府取唐僧魂魄。受金箍约束、自述不自由。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "猪八戒",
+      "entity_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "stage_doc_id": "doc-char-0003-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第1章队伍争吵中在场（ev-local-1），并自述“诅咒—西天”的绑定关系（claim-local-6，reported）：西行与解咒是其行动前提。\n\n## 目标与动机\n- 表面目标是走完西行以解咒（claim-local-6；第8章另有“西天之门仅僧人可开、诅咒无法解除”的规则陈述 claim-local-13）。\n- 第10章给出其真实坚持：“不肯忘记前世而宁愿承受痛苦”（claim-local-13 ch10），这是本阶段的人物转折点，优先级高于解咒的功利诉求。\n\n## 关键选择与经历\n1. 第1章 队伍争吵（ev-local-1），与唐僧独行形成同场景的摩擦背景。\n2. 第8章 得知唐僧死讯，与孙悟空林中互骂争吵，随后仰天痛哭（ev-local-2 ch8）；并转述“有人冒充孙悟空行凶”的推断（claim-local-12 ch8）。\n3. 第10章 转述唐僧肉身已被烧坏、只剩半边（claim-local-3）；与无名答话者围绕“前世/旧名”对话（ev-local-2 ch10）。\n\n## 身份与能力变化\n- 本阶段未提取到确定的能力变化。\n- 前世线索（**未确认**）：第7章“天蓬—月”前史（银核成月、天河改名银河，`银河`之名由天蓬提出 claim-local-17、`月`由女子以己名命名 claim-local-18、几亿颗银尘散落天河 claim-local-12、八十年万级守候 claim-local-3、天蓬曾在无光的天河中独自生活 claim-local-4）与第9章“天蓬为天河守护神、掌银河巨闸”（claim-local-3）在文本中紧邻猪八戒的“前世”话题，但“天蓬=猪八戒”本阶段**尚未明示**，故不作身份合并。\n\n## 认知与性格表现\n- 以抱怨、玩笑包裹执着；对“记忆/前世”的坚持强于对解咒的功利诉求。\n- 情绪外显：听到师父死讯后由互骂转为仰天痛哭，是全阶段最强烈的一次情绪爆发。\n\n## 阶段终点\n队伍离散过程中留守，明言宁愿承受痛苦也不肯忘记前世（第10章）。\n\n## 证据不足与补读入口\n- 第10章答话者身份未明（buffer 记为可能为阿瑶，待身份明示），影响对八戒该段对话动机的归属。\n- 天蓬前史与猪八戒的关联需在后续章节取得明示依据后再考虑身份合并。\n- ev-local-* 为 stage 内局部 id，需落库层解析到 ledger。"
+      },
+      "current_summary_update": "第1—10章：以“诅咒—西天”绑定关系为行动前提；第8章得知唐僧死讯后与孙悟空互骂并仰天痛哭，转述“有人冒充孙悟空行凶”；第10章转述唐僧肉身只剩半边，并与无名答话者谈论前世/旧名，明言“不肯忘记前世而宁愿承受痛苦”。第7、9章“天蓬”前史与其前世话题相邻，但未明示同一，未作身份合并。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "怪树",
+      "entity_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "stage_doc_id": "doc-char-0005-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 2,
+              "end": 3
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            },
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第2章正式出场，主动与独自入林的唐僧搭话（ev-local-1 ch2），本阶段即与唐僧建立起敌对的图谋关系。\n\n## 目标与动机\n以对话拖住猎物并实施困缚（见第2章困缚行为）。本阶段其自述未给出自身目的，动机只能从其行为推断，不作补充设定。\n\n## 关键选择与经历\n- 自述几千年前有猴群在其身上戏耍（claim-local-4，reported，无旁证）。\n- 自述三百年前有人在此被吃、留下人嘴（claim-local-9，reported）。\n- 第2章 以藤蔓与暗伏存在困住唐僧，致其大喊救命（ev-local-2 ch2、claim-local-18）。\n- 第3章 与怪兽一同化为白烟消失（claim-local-9 ch3），为场景结算事实。\n\n## 身份与能力变化\n本范围尚未提取到依据。其“几千年前猴群”自述仅作线索记录，**不**据此与孙悟空或万灵之森设定建立身份/前史合并。\n\n## 认知与性格表现\n以叙述施压、语调戏弄；一旦遇到更强外力（孙悟空赶到）即整体消解，未见对抗记录。\n\n## 阶段终点\n第3章化为白烟，本阶段内退场，无后续经历记录。\n\n## 证据不足与补读入口\n- 两处自述（几千年猴群、三百年前被吃）本阶段均无旁证，需补读对应原文核实是否为他处伏笔。\n- 本实体既有 stage 文件曾标注为“第4–5章”，与本阶段实际出场章（第2—3章）不一致，需 audit 校正。"
+      },
+      "current_summary_update": "第2—3章：在密林主动与独行的唐僧搭话，自述几千年前有猴群在其身上戏耍、三百年前有人在此被吃留下人嘴；以藤蔓与暗伏存在困住唐僧致其呼救；第3章与怪兽一同化为白烟消失，本阶段内退场。其自述无旁证，未与孙悟空建立前史合并。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "阿瑶",
+      "entity_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "stage_doc_id": "doc-char-0021-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 9,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第9章首次进入叙事：蟠桃园中与一只猴子的初遇，双方第一句话为“小姑娘，俺可不好吃”（ev-local-4 ch9）。\n\n## 目标与动机\n本范围尚未提取到明确目标。其行为驱动力集中于对那次相遇的记忆（见下）。\n\n## 关键选择与经历\n- 第9章 蟠桃园初遇（ev-local-4）；叙述称“这是他和她说的第一句话”“她的一生就此改变了”（claim-local-12）。\n- 第9章 五百年后在万灵之森追忆并落泪（ev-local-5），将天界线时间与当下取经时间线连接。\n\n## 身份与能力变化\n本范围尚未提取到依据。桃树上猴子即孙悟空的判断依据为第9章“孙悟空曾坐过的那棵树”（claim-local-16，属推断依据而非明示）。\n\n## 认知与性格表现\n以记忆与守候为行为主线：初遇的一句话构成其人生转向，五百年后仍在原地追忆并落泪。\n\n## 阶段终点\n处于追忆状态；第10章密林中出现的无名答话者“可能为阿瑶”（buffer 记为 unresolved identity），本阶段未明示。\n\n## 证据不足与补读入口\n- “老太太……你认错人了”一句的说话者未指名（claim-local-14），对象与语境需核对。\n- 本阶段的“绿衣女孩”（第3章）与“林中女子”（第4—5章）是否为阿瑶，buffer 未提供证据，**不作合并**；第4—5章女子“等了几万年”的自述与阿瑶五百年时间线亦不一致，需补读核实。\n- ev-local-* 为 stage 内局部 id，需落库层解析到 ledger。"
+      },
+      "current_summary_update": "第9—10章：第9章在蟠桃园与猴子初遇（第一句话“小姑娘，俺可不好吃”，叙述称“她的一生就此改变了”），五百年后在万灵之森追忆落泪；第10章密林中的无名答话者可能为其本人，但未明示。与第3章“绿衣女孩”、第4—5章“林中女子”是否同一存在，本阶段无证据。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "小白龙",
+      "entity_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "stage_doc_id": "doc-char-0017-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 8,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第8章首次登场，在对话中亦被称作“死马”（entity_first_appearance，ch8）。\n\n## 目标与动机\n本范围尚未提取到依据。\n\n## 关键选择与经历\n- 第8章 首次登场并进入队伍相关对话（ch8）。\n- 第10章 请假离去（ev-local-2 ch10），与孙悟空赴地府、成员各自离开共同构成队伍离散。\n\n## 身份与能力变化\n本范围尚未提取到依据。\n\n## 认知与性格表现\n本范围尚未提取到依据（台词与行为记录不足，不作推断）。\n\n## 阶段终点\n已请假离队，去向与理由本阶段未说明。\n\n## 证据不足与补读入口\n- 第8—10章间材料单薄，仅有登场称谓与一次离队行为，需补读对应章节了解其立场与去向。"
+      },
+      "current_summary_update": "第8—10章：第8章首次登场（对话中被称“死马”）；第10章请假离去，构成取经队伍离散的一部分，去向与理由未说明。其余经历本阶段尚未提取到依据。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_stages": [
+    {
+      "candidate_name": "取经队伍",
+      "entity_ref": {},
+      "stage_doc_id": "doc-faction-pilgrims-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "取经路上·林中之变",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第1章密林前四人争吵（ev-local-1），队伍以“服侍与被服侍”“彼此不服”的内部摩擦开场；唐僧随即赌气独自入林（ev-local-2）。\n\n## 目标与动机\n- 共同前提是西行解咒：猪八戒自述“诅咒—西天”的绑定关系（claim-local-6）；孙悟空以捕妖“积功德分”（claim-local-2）为个人化补充动机。\n- 硬约束：西天之门仅僧人可开、诅咒无法解除（claim-local-13，第8章）。\n\n## 关键选择与经历\n1. 第1章 争吵 → 唐僧独自离队 → 第2章 唐僧被困呼救。\n2. 第3章 孙悟空赶到，危机解除，队伍短暂恢复功能。\n3. 第4—5章 孙悟空与认出他的女子对峙，举棒未落、放其生路。\n4. 第6章 孙悟空击杀唐僧、闪电引燃森林并纵身离去（ev-local-1/2 ch6），队伍作为行动单元实际解体。\n5. 第8章 孙悟空归来追问师父下落，出现“有人冒充孙悟空行凶”的推断（claim-local-12 ch8），队内互骂、八戒痛哭。\n6. 第10章 孙悟空赴地府取唐僧魂魄，小白龙请假离去（ev-local-1/2 ch10）。\n\n## 身份与能力变化\n本范围尚未提取到依据：编制未见明文变更，但作为组织的实际功能（护送取经人西行）在本阶段末失效。\n\n## 认知与性格表现\n目标一致而互信不足：面临危机时无法形成统一行动，成员以各自判断单独行动（唐僧独行、孙悟空离队、小白龙请假）。\n\n## 阶段终点\n队伍名存实亡：师父身死、护法者离队、成员各自离开；后续是否重新聚合本阶段未交代。\n\n## 证据不足与补读入口\n- 缺少队伍正式编制、隶属与戒律关系材料（仅由对话中的称谓与规则陈述间接反映）。\n- “冒充孙悟空行凶”的推断尚无旁证，需补读第6—8章判断真凶归属。"
+      },
+      "current_summary_update": "第1—10章：以密林前争吵开场，唐僧独行被困、孙悟空救场后短暂恢复功能；第6章孙悟空击杀唐僧并离去，组织实际解体；第8章归队追问死讯并出现冒充者推断；第10章孙悟空赴地府取魂、小白龙请假，成员离散。目标（西行解咒）一致但互信不足，无正式编制材料。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "本阶段（第1—10章）势力活动以取经队伍内部摩擦与林中遭遇为主，天庭/西天仅以规则与传说形式被提及（西天之门仅僧人可开、玉帝的咒、金蝉子传说），缺少相互对抗或结盟的势力实体材料；产出格局 Markdown 会引入未经提取的推断，故不生成。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "唐僧",
+            "孙悟空"
+          ],
+          "kind": "师徒/护送关系"
+        }
+      },
+      "stage_doc_id": "doc-rel-tangseng-sunwukong-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "唐僧—孙悟空：从护送到处决",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n第1—10章内，这一对关系由“名义师徒/护送”走到实际终止。第1章争吵与唐僧独行是低起点；第3章孙悟空救场一度修复；第6章击杀使关系断裂；第8章孙悟空归来追问死讯，第10章为取魂魄离队。\n\n## 双方态度\n- 唐僧 → 孙悟空：公开宣称不依赖而独行（第1章），遇险后立刻呼救（第2章）——依赖与赌气交替，态度不自洽。\n- 孙悟空 → 唐僧：第3章救护；第6章以听到的“身份”陈述为据直接处决并离去；第8章归来追问下落，情绪表现为追问与推断而非追悔。\n- 两端态度**不对称**：唐僧一侧只有依赖/赌气两种表达，孙悟空一侧则由救护转为处决，中间没有可见的犹豫记录。\n\n## 关键转折\n1. 第1章 密林前争吵、唐僧独自入林（ev-local-2 ch1）。\n2. 第3章 孙悟空凌空赶到（ev-local-4 ch3）。\n3. 第6章 以“她说了我是谁，也说了我们每一个人是谁”为由击杀唐僧（claim-local-8、claim-local-11），并“又犯了一桩天条”（claim-local-12）。\n4. 第8章 归来追问师父下落，得知死讯与冒充者推断（claim-local-12 ch8）。\n\n## 证据与边界\n- 击杀为直述证据（claim-local-11，explicit），但“冒充孙悟空行凶”的推断（第8章）与之关系本阶段未澄清，故不作真凶判定。\n- 本阶段未见双方任何情感化表态，不构成感情定性依据。"
+      },
+      "facets": [
+        {
+          "name": "依赖与赌气并存",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "公开宣称不依赖对方而独行，遇险后立即呼救；两者交替出现，未见稳定信任",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-2@ch1"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-18@ch2"
+            }
+          ]
+        },
+        {
+          "name": "救护转为处决",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "第3章赶到救场；第6章以“既知你是谁”为由击杀对方后纵身离去；第8章归来追问其下落",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-4@ch3"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-11@ch6"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-8@ch6"
+            }
+          ]
+        },
+        {
+          "name": "关系性质",
+          "direction": "symmetric",
+          "attitude": "名义上的师徒/护送关系在第6章实际终止；本阶段末双方已不在同一行动单元",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-1@ch6"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-1@ch10"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-1@ch6"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-1@ch8"
+        }
+      ],
+      "safe_through": 10
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "孙悟空",
+            "阿瑶"
+          ],
+          "kind": "旧识/前缘（未定性）"
+        }
+      },
+      "stage_doc_id": "doc-rel-sunwukong-ayao-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空—阿瑶：蟠桃园初遇与五百年后的追忆",
+          "chapter_ranges": [
+            {
+              "start": 9,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n第9章建立：蟠桃园初遇（“小姑娘，俺可不好吃”），叙述称“这是他和她说的第一句话”“她的一生就此改变了”；五百年后她在万灵之森追忆落泪。第10章密林中的无名答话者可能为她，但未明示，故不计入本快照。\n\n## 双方态度\n- 阿瑶 → 孙悟空：明确的记忆与守候，情绪强度高（五百年后仍在原地追忆、落泪）。\n- 孙悟空 → 阿瑶：本阶段**未提取到**其对阿瑶的任何对等表达；初遇时的台词不构成态度证据。故**不添加**该方向 facet，不对称。\n\n## 关键转折\n1. 第9章 蟠桃园初遇（ev-local-4）与其“第一句话”（claim-local-12）。\n2. 第9章 五百年后万灵之森追忆落泪（ev-local-5），把天界线接上取经时间线。\n\n## 证据与边界\n- 桃树上猴子即孙悟空，依据为“孙悟空曾坐过的那棵树”的推断（claim-local-16），属推断而非明示，需补读确认。\n- 第4—5章“林中女子”承认等了几万年、认识孙悟空，与阿瑶的时间线（五百年）不一致，本阶段**不认定**为同一人。"
+      },
+      "facets": [
+        {
+          "name": "记忆与守候",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0021/index.json",
+            "record_id": "char-0021"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "初遇的一句话被叙述为改变她一生的节点；五百年后在万灵之森追忆并落泪",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-12@ch9"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-5@ch9"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-4@ch9"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-5@ch9"
+        }
+      ],
+      "safe_through": 10
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "孙悟空",
+            "猪八戒"
+          ],
+          "kind": "同队师兄弟"
+        }
+      },
+      "stage_doc_id": "doc-rel-sunwukong-bajie-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空—猪八戒：同队者的互骂与痛哭",
+          "chapter_ranges": [
+            {
+              "start": 1,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n第1章同处争吵场景（ev-local-1）；第8章孙悟空归来追问师父下落，两人在林中互骂争吵，猪八戒随后仰天痛哭（ev-local-2 ch8）。关系以“同队但摩擦不断”为基调，本阶段未见合作性事件。\n\n## 双方态度\n- 猪八戒 → 孙悟空：言语冲撞，并因师父死讯而痛哭；其情绪与“冒充孙悟空行凶”的推断交织（claim-local-12 ch8）。\n- 孙悟空 → 猪八戒：追问师父下落，未见安抚或解释动机的记录。\n- 态度**不对称**：一方有明显的情绪爆发，另一方在本阶段表现为信息索取。\n\n## 关键转折\n- 第8章 林中争吵与八戒仰天痛哭（ev-local-2 ch8）。\n\n## 证据与边界\n- 未提取到二人此前的结义/旧交材料，本阶段不作前史补写。\n- 猪八戒痛哭的完整动因（师徒情/恐惧/其他）需补读第8章原文。"
+      },
+      "facets": [
+        {
+          "name": "争执与互骂",
+          "direction": "symmetric",
+          "attitude": "第1章争吵中同处一队；第8章在林中互骂争吵，冲突外显且双向",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-1@ch1"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-2@ch8"
+            }
+          ]
+        },
+        {
+          "name": "师父之死的情绪落差",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0003/index.json",
+            "record_id": "char-0003"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "得知唐僧死讯后由互骂转为仰天痛哭，情绪指向孙悟空一侧",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-2@ch8"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-12@ch8"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-2@ch8"
+        }
+      ],
+      "safe_through": 10
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "唐僧",
+            "怪树"
+          ],
+          "kind": "敌对图谋"
+        }
+      },
+      "stage_doc_id": "doc-rel-tangseng-guaishu-stage-001",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "唐僧—怪树：一次性的困缚与消散",
+          "chapter_ranges": [
+            {
+              "start": 2,
+              "end": 3
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n第2章建立即敌对：怪树主动搭话、以藤蔓与暗伏存在困住唐僧（ev-local-2 ch2）；第3章孙悟空赶到后怪树与怪兽化为白烟消失（claim-local-9 ch3），关系在本阶段内终结。\n\n## 双方态度\n- 怪树 → 唐僧：图谋性、戏弄性的接近与困缚，并配合“此地曾有被吃者”的自述施压。\n- 唐僧 → 怪树：未见警觉与反击记录，被拖入对话后转为呼救。\n\n## 关键转折\n1. 第2章 搭话与困缚（ev-local-2、claim-local-18）。\n2. 第3章 化白烟消散（claim-local-9 ch3）。\n\n## 证据与边界\n- 怪树的自述（几千年猴群、三百年前被吃）无旁证，不据此推断其身份或与孙悟空的前史关系。\n- 本关系仅一次遭遇，不构成情感/立场上的长期线索。"
+      },
+      "facets": [
+        {
+          "name": "困缚与图谋",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0005/index.json",
+            "record_id": "char-0005"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "以对话拖住后施行藤蔓困缚，并自述此地曾有被吃者",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-2@ch2"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-9@ch2"
+            }
+          ]
+        },
+        {
+          "name": "警觉缺失与论辩",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0005/index.json",
+            "record_id": "char-0005"
+          },
+          "attitude": "回应其搭话、听其自述，被缚后转为呼救；未见对抗性反击",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-local-18@ch2"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "ev-local-1@ch2"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "ev-local-2@ch2"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-local-9@ch3"
+        }
+      ],
+      "safe_through": 10
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emotion": {
+          "pair_names": [
+            "孙悟空",
+            "阿瑶"
+          ],
+          "label": "前缘未明（单向记忆）"
+        }
+      },
+      "new_assessment": {
+        "id": "em-char-0002-char-0021-001",
+        "category": "uncertain",
+        "label": "前缘未明",
+        "as_of": 10,
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/char-0002__char-0021/stages/stage-001.md",
+            "record_id": "doc-rel-sunwukong-ayao-stage-001"
+          }
+        ],
+        "summary": "阿瑶一侧存在明确的人生转向与五百年后的追忆落泪（claim-local-12 ch9、ev-local-5 ch9）；孙悟空一侧本阶段未提取到任何对等表达，且其记忆本身存在缺口。原文未明示恋爱关系，故定为 uncertain。",
+        "basis_refs": [
+          {
+            "path": "events/block-0001.json",
+            "record_id": "claim-local-12@ch9"
+          },
+          {
+            "path": "events/block-0001.json",
+            "record_id": "ev-local-5@ch9"
+          },
+          {
+            "path": "events/block-0001.json",
+            "record_id": "claim-local-12@ch5"
+          }
+        ]
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空—阿瑶：第1—10章感情阶段分析",
+          "chapter_ranges": [
+            {
+              "start": 9,
+              "end": 10
+            }
+          ],
+          "as_of": 10,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n第9章形成一条**单向强度**的情感线：阿瑶一侧有明确的人生转向（“她的一生就此改变了”）与五百年后的追忆落泪；孙悟空一侧本阶段没有任何对等表达。据此定为 `uncertain`（前缘/旧识，未明示恋爱），**不**升级为 romantic。\n\n## 变化解释\n- 起点（第9章）：蟠桃园初遇，仅一句“小姑娘，俺可不好吃”（claim-local-12），但叙述赋予其“第一句话/改变一生”的重量。\n- 变化（第9章后段）：五百年后在万灵之森追忆并落泪（ev-local-5），情绪强度显著上升，但仍停留在单方记忆层面。\n- 提示但不采用：第4—5章林中女子自述“等了几万年”“逃不出他的掌心”、并说出被打断的“你就是……”，以及孙悟空“他已记不得一切”（claim-local-12 ch5）——这条线若与阿瑶为同一人，会把关系强度推高；但时间量级（几万年 vs 五百年）与身份均未明示，本阶段**不计入结论**。\n\n## 关系阶段引用\n- 关系阶段快照：doc-rel-sunwukong-ayao-stage-001（仅一条 directed facet：阿瑶→孙悟空）。\n- 相关但未定性的线索：doc-rel-tangseng-sunwukong-stage-001 中“她说了我是谁”一句，说明孙悟空本阶段的判断被外部叙述牵引。\n\n## 推断边界\n- 孙悟空一侧态度缺失即“无意”无法证明：本阶段仅能说**无记录**。\n- 第10章密林无名答话者是否为阿瑶未明示（buffer 记为 unresolved），不影响本 assessment 的 `uncertain` 结论。\n- 本定性仅覆盖第1—10章；后续若有明示线索需另立 stage 评估，不回填本段。"
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "action": "upsert",
+      "title": "唐僧之死与冒充者的真凶",
+      "status": "open",
+      "summary": "第6章唐僧被孙悟空以“既知你是谁”为由击杀（claim-local-11 直述证据）；第8章又出现“有人冒充孙悟空行凶”的推断（claim-local-12 ch8）；第10章唐僧肉身只剩半边，孙悟空赴地府取魂魄。二者关系本阶段未澄清。",
+      "record_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ]
+    },
+    {
+      "action": "upsert",
+      "title": "孙悟空的身份与记忆缺口",
+      "status": "open",
+      "summary": "第4—5章女子自述等了几万年、“他已记不得一切”，其“你就是……”被截断；第5章四大魔王名号清单含“齐天大圣美猴王”（claim-local-10，reported）；第8章以金箍为由自述不自由（claim-local-15）。身份答案在本阶段始终由外部叙述供给，未获自身确认。",
+      "record_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ]
+    },
+    {
+      "action": "upsert",
+      "title": "阿瑶（密林答话者）的身份归属",
+      "status": "open",
+      "summary": "第9章蟠桃园初遇与五百年后追忆落泪；第10章密林中的无名答话者“可能为阿瑶”但未明示。是否与第3章“绿衣女孩”、第4—5章“林中女子”为同一存在，本阶段无证据（时间量级不一致），不作合并。",
+      "record_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ]
+    },
+    {
+      "action": "upsert",
+      "title": "取经队伍的离散与重聚",
+      "status": "advanced",
+      "summary": "第1章争吵与唐僧独行 → 第3章孙悟空救场 → 第6章孙悟空击杀唐僧并离去 → 第8章归来追问后互骂 → 第10章孙悟空赴地府取魂、小白龙请假离去。队伍作为行动单元在本阶段末失效，重聚未交代。",
+      "record_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "fetch_event_detail(events/block-0001.json) 返回 not found（no_match），因此关系快照 basis_refs 中的 claim-local-*/ev-local-* 只能沿用 stage_buffer 提供的局部 id（含以 @chN 标注章号的形式），需落库层解析到 ledger 记录；不得视为已验证引用。",
+    "本阶段未读原文（按流程禁止 read_source），所有 Markdown 均只组织 stage_buffer 中的事件/陈述 Ref。",
+    "沙和尚（char-0004）与冷面沙（char-0018）在本阶段无逐条 character_beat：char-0004 仅在第1章“四人争吵”中群体在场，char-0018 仅由猪八戒口中被提及称谓，故未产出 stage.md（避免空阶段）。",
+    "天蓬/“月”前史（第7、9章）未与猪八戒、林中女子建立明示的同一关系，未作身份合并；相关材料暂作为猪八戒 stage 的“未确认前世线索”记录。",
+    "怪树（char-0005）既有 stage-001.md 索引标题为“（第4–5章）”，与本阶段实际出场章（第2—3章）不一致，建议 audit 校正。",
+    "char-0001 / char-0002 / char-0003 / char-0005 / char-0021 已存在 stage-001.md，本次提交沿用同名 stage_doc_id（doc-<entity>-stage-001），请落库层确认覆盖语义并避免重复条目。",
+    "阿瑶本阶段仅第9章有两处事件；若只按出场章计（9—10），其 chapter_ranges 已相应收窄为 [9,10]，怪树为 [2,3]，小白龙为 [8,10]。"
+  ],
+  "notes_for_audit": [
+    "relationship_snapshots 共 4 对，均为 new_rel（fetch_entity_current 实测 relationships/pairs/*.json 不存在）：唐僧—孙悟空（师徒，双向不对称，含处决转折）、孙悟空—阿瑶（单向记忆）、孙悟空—猪八戒（同队摩擦）、唐僧—怪树（一次性敌对）。",
+    "孙悟空—阿瑶 关系快照仅保留 directed facet（阿瑶→孙悟空），孙悟空一侧因无任何对等表达而未添加 facet，遵守“两端态度不自动对称”。",
+    "emotional_stages 仅 1 条：pair 孙悟空—阿瑶，category=uncertain（原文未明示恋爱，五百年守候/落泪不足以升为 romantic）；relationship_links 指向 doc-rel-sunwukong-ayao-stage-001。未为他对产出 assessment（唐僧—孙悟空、孙悟空—猪八戒的互动无情感化表态可依）。",
+    "arc_summary 使用 6 个固定小节；faction_landscape.produce=false，因本阶段势力材料只有规则/传说形式（西天之门仅僧人可开、玉帝的咒、金蝉子传说），不足以生成格局。",
+    "取经队伍 faction_stage 的 candidate_name 为“取经队伍”，entity_ref 留空（既有 faction 档案未提供可核实 ref），依赖落库层名字消解；若落库层要求实体已存在，可丢弃此条。",
+    "identity_notes_appends 全部为空：buffer 中的 claim id 形式不统一（claim-local-8 与 claim-0008 混用，且 events/block-0001.json 不可读），无法安全构造 IdentityNote 的 claim_refs，相关身份/名号线索（齐天大圣美猴王、金蝉子、天蓬）只写入 stage 正文供后续补引。",
+    "所有文档 safe_through / as_of 均为 10，未超出 stage 尾章；无跨 stage 回填。"
+  ]
+}

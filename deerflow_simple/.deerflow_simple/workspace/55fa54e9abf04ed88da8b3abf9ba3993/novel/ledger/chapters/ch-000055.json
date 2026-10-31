@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000055",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000055",
+    "chapter_order": 55
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-2168",
+    "claim-2169",
+    "claim-2170",
+    "claim-2171",
+    "claim-2172",
+    "claim-2173",
+    "claim-2174",
+    "claim-2175",
+    "claim-2176",
+    "claim-2177",
+    "claim-2178",
+    "claim-2179",
+    "ev-0270",
+    "ev-0271"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第55章精读完成",
+    "record_ids": [
+      "claim-2168",
+      "claim-2169",
+      "claim-2170",
+      "claim-2171",
+      "claim-2172",
+      "claim-2173",
+      "claim-2174",
+      "claim-2175",
+      "claim-2176",
+      "claim-2177",
+      "claim-2178",
+      "claim-2179",
+      "ev-0270",
+      "ev-0271"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

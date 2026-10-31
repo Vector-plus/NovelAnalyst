@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0071",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "花果山被封禁（监狱化）与旧部反抗诉求",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0071-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "conflict",
+      "status": "active",
+      "role": "background",
+      "summary": "头颅称花果山现为监狱、天神不容一棵草生长，并问孙悟空是否来砸破诸天；孙悟空沉默离去，未作承诺。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1512"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1513"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1514"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1515"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

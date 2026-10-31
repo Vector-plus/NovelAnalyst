@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0002",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "林中重伤女子的身份与孙悟空失去的「从前」",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0002-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "summary": "女子坚称与孙悟空旧识、两人初见在蟠桃树下，并纠正「五岳山/五行山」；她低念「他已记不得一切，也记不得你了」，正要说「你就是……」时被剧痛打断。孙悟空全程否认。她最终被放走，仍活着并向悟空伸手。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0091"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0093"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0095"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0100"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0101"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0104"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0030",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 10,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0030-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "师徒",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "信任与倚重；倚重：明知其不肯随行，仍以其名义立誓镇妖",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "保护与利用并存；第 3 章出手相救，第 4 章以之为饵，第 6 章亲手棒杀，第 8、10 章追查真相并赴地府相救",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "日常摩擦；就取食方式反复不合，第 1 章即起争执",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

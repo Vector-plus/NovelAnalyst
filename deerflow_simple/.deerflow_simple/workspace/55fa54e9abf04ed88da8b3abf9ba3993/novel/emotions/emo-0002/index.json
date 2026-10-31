@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0002",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 10,
+  "label": "取经路上·林中之变",
+  "introduced_at": 1,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 10
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 10
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0002-001",
+      "revealed_at": 10,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "pair_names": [
+            "天蓬",
+            "月"
+          ],
+          "stage_doc_id": "doc-rel-tianpeng-yue-stage-001"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0002/stages/stage-001.md",
+        "record_id": "doc-emo-0002-stage-001"
+      },
+      "kind": "emotional_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

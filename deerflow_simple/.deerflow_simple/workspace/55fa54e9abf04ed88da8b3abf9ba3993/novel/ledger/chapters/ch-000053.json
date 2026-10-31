@@ -1,0 +1,56 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000053",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000053",
+    "chapter_order": 53
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-2140",
+    "claim-2141",
+    "claim-2142",
+    "claim-2143",
+    "claim-2144",
+    "claim-2145",
+    "claim-2146",
+    "claim-2147",
+    "claim-2148",
+    "claim-2149",
+    "claim-2150",
+    "claim-2151",
+    "claim-2152",
+    "ev-0266",
+    "ev-0267"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第53章精读完成",
+    "record_ids": [
+      "claim-2140",
+      "claim-2141",
+      "claim-2142",
+      "claim-2143",
+      "claim-2144",
+      "claim-2145",
+      "claim-2146",
+      "claim-2147",
+      "claim-2148",
+      "claim-2149",
+      "claim-2150",
+      "claim-2151",
+      "claim-2152",
+      "ev-0266",
+      "ev-0267"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

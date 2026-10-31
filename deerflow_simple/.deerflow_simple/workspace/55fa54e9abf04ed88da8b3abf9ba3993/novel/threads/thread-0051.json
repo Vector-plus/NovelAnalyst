@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0051",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "林中女子自称与孙悟空有旧识前缘，身份未明",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0051-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "summary": "女子称两人在蟠桃树下初见、等了几万年，说孙悟空“已记不得一切，也记不得你了”，并欲说出“你就是……”却被剧痛打断；孙悟空坚称从未见过她。女子最终未死，孙悟空离去。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1102"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1111"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1113"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1116"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

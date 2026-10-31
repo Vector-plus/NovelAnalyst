@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0061",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 52,
+  "introduced_at": 52,
+  "subjects": [
+    {
+      "path": "characters/char-0139/index.json",
+      "record_id": "char-0139"
+    },
+    {
+      "path": "characters/char-0140/index.json",
+      "record_id": "char-0140"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0061-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "as_of": 52,
+      "revealed_at": 52,
+      "summary": "大鸟把躲在身后的小鸟阿笨推出来，向松鼠介绍他叫阿笨、今年才生、第一次回老家、怕生。原文未明示二者血缘关系。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "大鸟把躲在身后的小鸟阿笨推出来，向松鼠介绍他叫阿笨、今年才生、第一次回老家、怕生。原文未明示二者血缘关系。",
+          "basis_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2117"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0011",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 5,
+  "title": "林中女子（本章未具名） 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 5,
+        "end": 5
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0011/index.json",
+        "record_id": "char-0011"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0009.json",
+        "record_id": "rel-0009"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×林中女子（本章未具名）",
+      "summary": "与孙悟空×林中女子（本章未具名）的关系",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0011/index.json",
+          "record_id": "char-0011"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    }
+  ]
+}

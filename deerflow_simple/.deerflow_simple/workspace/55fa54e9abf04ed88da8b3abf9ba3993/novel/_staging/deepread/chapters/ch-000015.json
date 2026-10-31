@@ -1,0 +1,1355 @@
+{
+  "chapter_order": 15,
+  "chapter_id": "ch-000015",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "玄奘将小白龙放进水缸，小白龙趁机化人形",
+      "introduced_at": 15,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 15,
+            "end": 15
+          }
+        ],
+        "revealed_at": 15,
+        "status": "completed",
+        "story_time": null,
+        "summary": "一个和尚把怀中的小白龙带回山中寺院，把她放进院中一口水缸。他先是戏言\"清蒸呢，还是红烧\"，又对屋旁的花说话。有人喊他去大殿看洪洲佑民寺天杨禅师与法明师父论法，他交代小白龙\"我回来再放你回家\"并提醒她别让玄淇和他的猫看见，然后离开。小白龙随即自水缸化出人形，因水太少不能变龙，只能化作白衣女子，再变成纯白百灵飞到大殿窗边观察他。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0056/index.json",
+              "record_id": "char-0056"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-7"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-6",
+          "claim-local-9",
+          "claim-local-12",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天杨赴金山寺与法明论法",
+      "introduced_at": 15,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 15,
+            "end": 15
+          }
+        ],
+        "revealed_at": 15,
+        "status": "completed",
+        "story_time": null,
+        "summary": "大殿中坐满僧人，中间是持禅杖、带包袱的天杨与本院住持法明。天杨自称\"久闻金山寺佛法昌盛，特来请教\"，以\"放下\"\"两手皆空\"等机锋步步追问，再连问\"如何是禅\"\"如何是正法眼\"\"如何悟证虚空\"，法明答后语塞脸红。天杨大笑\"原来你就这两下子\"，并称\"金山寺空有虚名，我云游四海，不见真人\"。论答间两位老僧头上起了白烟，四周僧众哗然。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0054/index.json",
+              "record_id": "char-0054"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "玄奘插言对阵天杨，令其认输，一战成名",
+      "introduced_at": 15,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 15,
+            "end": 15
+          }
+        ],
+        "revealed_at": 15,
+        "status": "completed",
+        "story_time": null,
+        "summary": "天杨贬斥金山寺时，人群中玄奘笑出声。天杨质问，玄奘称因看见门外树上两兔子厮打而笑，又反问\"那在树上的是什么呢\"使天杨语塞。旁边僧人说玄奘是寺里最懒的一个、从不好好听讲诵经。玄奘随后称自己\"还看见一只会脸红的白色百灵\"。天杨问\"什么是佛\"，玄奘四看，天杨判定其答为\"无处不是佛\"；再问\"如何悟证虚空\"，玄奘答\"打破顽冥\"，并以\"不是还问——欠揍\"相对。天杨长叹\"你说得极是。我败了\"。叙述称玄奘一战成名，被全寺众僧围住要他讲解。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0054/index.json",
+              "record_id": "char-0054"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-24",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-29",
+          "claim-local-30"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "法明欲传衣钵，玄奘自陈所求",
+      "introduced_at": 15,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 15,
+            "end": 15
+          }
+        ],
+        "revealed_at": 15,
+        "status": "completed",
+        "story_time": null,
+        "summary": "天杨走后，法明当众对玄奘说\"你聪慧过人，今后就在我身边修行，我将毕生所学传授予你\"。玄奘推说还是像以前在执事堂好，可以养花看天，背不来佛经。法明以\"你不苦学，怎能得我衣钵\"追问，一旁众僧听得眼红，认为这等于把住持之位相传。玄奘答\"其实我要学的，你又教不了我\"，使法明摇晃不稳。法明问他想学什么，玄奘望云说出\"我要这天，再遮不住我眼\"等四句。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0054/index.json",
+              "record_id": "char-0054"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "recipient"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-31"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-32",
+          "claim-local-34"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-35"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "章首出现无明确归属的旁白式诘问：\"五百年有多漫长？\"\"以前你说的话还算不算？\"\"你忘了／为何我还记得？\"，原文未指明说话者与所指对象。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "五百年有多漫长"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "小白龙被一个和尚抱在怀里奔跑，她闻到和尚身上的男子气息，叙述写到她\"有种心醉的感觉\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "男子气息"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "和尚停下脚步，把小白龙丢入水中（\"扑通\"），她打了个转才发觉自己在一口水缸里，和尚随后坐在旁边呼呼直喘。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "才发现自己在一口水缸里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "和尚起身到水缸边看她，并伸手逗了逗她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "伸手逗了逗她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "和尚看着缸中的小白龙喃喃念道\"清蒸呢，还是红烧？\"，随后笑道\"哈哈哈，瞧把你吓的！\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "清蒸呢，还是红烧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "和尚的手轻触到小白龙身体时，她\"有种麻酥酥的感觉\"，连忙躲开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "连忙躲开了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "和尚转而对屋旁的花说话：问它们自己不在时乖不乖、蚂蚁有没有来欺负，自称\"我昨天和他们谈判了\"，并要花以后见了蚂蚁不要再向它们吐口水。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我昨天和他们谈判了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "有人高喊\"玄奘！洪洲佑民寺的天杨禅师和法明师父在大殿论法，快去看看！\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "天杨禅师和法明师父在大殿论法"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "叙述随后以\"那个叫玄奘的\"称呼抱小白龙回寺的这个和尚，即该和尚名为玄奘。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "那个叫玄奘的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "玄奘应\"收到\"，走前又回来对小白龙说\"你在这儿慢慢玩，我回来再放你回家，小心别让玄淇和他的猫看见你哟\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "小心别让玄淇和他的猫看见你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "小白龙心里打算\"你前脚走我后脚也就走啦\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "你前脚走我后脚也就走啦"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "玄奘跑出屋后，水缸中一道金光飞出、水溅一地，小白龙已站在屋中；因水太少\"她不能变龙，只好变成了一个人\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "水太少她不能变龙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "小白龙的人形是\"白衣的绝美女子\"；叙述说明她在宫中也一直是这个人形，\"龙生下来就有人形，她这也是本相\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "她这也是本相"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "小白龙探头看屋外，确认这是一座宽广的山中寺院，远处大殿传来诵经声，四下安静。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "这是一座宽广的山中寺院"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "小白龙化成一只纯白百灵，飞到大殿窗边观察，并自述不屑变成山雀那种\"俗鸟\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "化成一只纯白百灵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "大殿内坐了一地僧人，中间有两位老僧：一个持禅杖、身边有包袱，像外地云游到此；另一个是本寺住持。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "中间有两个老的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "持禅杖的老僧对法明长老说\"久闻金山寺佛法昌盛，特来请教\"，法明答\"不敢\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "久闻金山寺佛法昌盛，特来请教"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "天杨以\"什么不敢？敢做不敢应么？\"\"放下！\"步步追问，法明答\"敢应不敢放\"\"我两手皆空，放什么\"，天杨再问\"那为什么还抓着\"，法明答\"心有灵犀\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我两手皆空，放什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "天杨连问\"如何是禅\"\"如何是正法眼\"\"如何悟证虚空\"，法明分别答\"是\"\"不是\"\"心无杂念\"后语塞脸红；天杨大笑\"原来你就这两下子\"，并称\"金山寺空有虚名，我云游四海，不见真人\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "金山寺空有虚名"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "论答到关键时刻，两位老和尚头上都起了白烟，四周僧众一面哗然。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "两个老和尚头上都起了白烟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "人群中忽然也有人笑，笑的人是玄奘，所有人都回头看他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "笑的人正是玄奘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "天杨质问玄奘自己有何可笑之处，玄奘答因\"刚刚看门外树上两兔子厮打\"而笑；天杨驳\"兔子怎会在树上\"，玄奘反问\"那在树上的是什么呢？\"，天杨语塞，改口称\"小小年纪，便有如此功力\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "兔子怎会在树上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "一旁有僧人说玄奘\"是我们这儿最懒的一个，从不好好听讲诵经\"，法明喝止他，并让玄奘有话尽管说。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "最懒的一个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "玄奘说\"我刚才真的看见兔子了，我还看见一只会脸红的白色百灵\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我还看见一只会脸红的白色百灵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "窗边的小白龙听到这句\"吓得差点从窗上栽下去\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "差点从窗上栽下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "天杨问\"什么是佛\"，玄奘看看头上、脚下、门外，天杨据此判定他已回答\"无处不是佛\"，并说\"小师父，真有你的\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "无处不是佛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "天杨再问\"如何悟证虚空\"，玄奘脱口答\"打破顽冥\"；天杨问\"是么？\"，玄奘答\"不是！\"，天杨斥\"不是还答！找打！\"，玄奘回\"不是还问！欠揍！\"，两人大眼瞪小眼，众僧惊呆。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "打破顽冥"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "良久后，天杨长叹\"你说得极是。我败了\"，向玄奘认输。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我败了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "叙述称\"玄奘一战成名\"；天杨走后，玄奘被全寺众僧围住，要他讲解最后一招如何接住、那句\"欠揍\"有何深意。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "玄奘一战成名"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "玄奘解释：\"他说我答错了要打我，我说我答错了又怎样你敢打我我便打你，他一看我年轻想想打不过我所以就认输了。\"听完，寺院里倒了一片。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "他一看我年轻想想打不过我所以就认输了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "法明对玄奘说\"你聪慧过人，今后就在我身边修行，我将毕生所学传授予你\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我将毕生所学传授予你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "玄奘回说法明：\"其实我觉得还是像以前在执事堂好，有时间可以养养花，看看天，我背不来那些佛经。\"",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "我背不来那些佛经"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "法明问\"你不苦学，怎能得我衣钵？\"，一旁众僧听得眼红，视之为把住持之位相传。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "怎能得我衣钵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "玄奘对法明说\"其实我要学的，你又教不了我\"，众僧一片惊呼，法明也禁不住摇晃一下才站稳。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "其实我要学的，你又教不了我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "法明问玄奘想学什么，玄奘抬头望云答道：\"我要这天，再遮不住我眼，要这地，再埋不了我心，要这众生，都明白我意，要那诸佛，都烟消云散！\"",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 15,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000015.txt",
+          "chapter_id": "ch-000015",
+          "chapter_order": 15,
+          "locator": null,
+          "anchor": "要那诸佛，都烟消云散"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "金山寺",
+      "category": "place",
+      "introduced_at": 15,
+      "notes": "山中寺院，院落里有水缸与花木，大殿可容全寺僧人聚集。天杨在对话中两次称\"金山寺\"，法明为其住持；本章玄奘在此出家为僧。名称来自对话，未由叙述直接点明。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-31"
+      ]
+    },
+    {
+      "label": "洪洲佑民寺",
+      "category": "place",
+      "introduced_at": 15,
+      "notes": "仅见于传话僧人的喊话\"洪洲佑民寺的天杨禅师\"，据此天杨与该寺有关联。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "执事堂",
+      "category": "place",
+      "introduced_at": 15,
+      "notes": "玄奘自称\"以前在执事堂\"时更有时间养花看天，据此他此前在寺中执事堂当差。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-32"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_kind": "same_person",
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "certainty": "uncertain",
+      "summary": "本章新登场并被称呼为\"玄奘\"的年轻和尚（char-0053）与已建档的\"唐僧\"（char-0001）名号同源，疑为同一人物不同阶段的称谓，但本章原文未作任何关联表述。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-29"
+      ],
+      "notes": "按身份谨慎原则不合并，仅登记候选，交后续章节或 StageCommit 判定。"
+    },
+    {
+      "candidate_kind": "alias_of_same_person",
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "candidate_name": "白衣绝美女子（小白龙人形）"
+      },
+      "certainty": "explicit",
+      "summary": "本章明确：小白龙化出的人形即\"白衣的绝美女子\"，且叙述称此即她的\"本相\"。",
+      "evidence_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "此条为原文直述，非推测；登记以便下游把\"白衣女子/白色百灵\"形态归入 char-0017。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "收留/照看与被暗中观察"
+      },
+      "certainty": "explicit",
+      "summary": "玄奘把小白龙带回寺中放进水缸，戏言要清蒸红烧，又承诺\"我回来再放你回家\"，并提醒她小心玄淇和他的猫。小白龙等他离开便化出人形，再变纯白百灵去大殿窗边观察他；玄奘当场说\"我还看见一只会脸红的白色百灵\"，小白龙吓得差点从窗上栽下去。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-15",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "notes": "原文叙述含\"心醉\"\"脸要红\"等感受描写，此处只记录互动与言语事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "subject_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "住持与弟子／欲传衣钵"
+      },
+      "certainty": "explicit",
+      "summary": "论法取胜后，法明当众表示要玄奘留在身边修行并\"将毕生所学传授予你\"，又追问\"你不苦学，怎能得我衣钵\"，众僧视为住持之位相传；玄奘以\"其实我要学的，你又教不了我\"回应，法明摇晃不稳，仍问他想学什么。",
+      "source_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "subject_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "论法交锋，以天杨认输收场"
+      },
+      "certainty": "explicit",
+      "summary": "天杨先质问玄奘发笑之由，被\"那在树上的是什么呢\"问到语塞；再以\"什么是佛\"\"如何悟证虚空\"试探，玄奘答\"打破顽冥\"、并回敬\"不是还问！欠揍！\"，天杨最终长叹\"你说得极是。我败了\"。",
+      "source_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "subject_b": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "外来讲法者与本院住持论法"
+      },
+      "certainty": "explicit",
+      "summary": "天杨自述\"久闻金山寺佛法昌盛，特来请教\"，以\"放下\"等机锋连环追问使法明语塞脸红，随后大笑\"原来你就这两下子\"，并贬称\"金山寺空有虚名，我云游四海，不见真人\"。",
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0056/index.json",
+        "record_id": "char-0056"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅被提及的同寺关系"
+      },
+      "certainty": "reported",
+      "summary": "玄奘叮嘱小白龙\"小心别让玄淇和他的猫看见你\"，据此同寺有名为玄淇者且养猫。",
+      "source_claim_local_ids": [
+        "claim-local-10"
+      ],
+      "notes": "玄淇本章未出场，仅经玄奘口述提及。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "opens",
+      "subject": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "summary": "玄奘在金山寺大殿论法中插言对阵云游禅师天杨并令其认输，\"一战成名\"；随即拒绝住持法明传授衣钵，自陈所求为\"众生都明白我意、诸佛都烟消云散\"。",
+      "source_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35"
+      ]
+    },
+    {
+      "category": "relationship",
+      "status": "ongoing",
+      "role": "opens",
+      "subject": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "summary": "小白龙被玄奘带在身边养在水缸，她趁其离开化出白衣人形、变纯白百灵潜入大殿窗边暗中观察玄奘，并因玄奘说出\"会脸红的白色百灵\"而受惊。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-15",
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第15章：金山寺论法·玄奘一战成名",
+    "front_matter": {
+      "as_of": 15,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0055/index.json",
+          "record_id": "char-0055"
+        },
+        {
+          "path": "characters/char-0054/index.json",
+          "record_id": "char-0054"
+        },
+        {
+          "path": "characters/char-0056/index.json",
+          "record_id": "char-0056"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-24",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-33",
+        "claim-local-35"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首是四行无归属的旁白式诘问——\"五百年有多漫长？\"\"以前你说的话还算不算？\"，原文未点明说话者与所指对象（见 [[claim-local-1]]）。\n\n正文转入小白龙：她被一个和尚抱在怀里奔跑，闻到对方身上的男子气息，叙述写到她\"有种心醉的感觉\"。和尚停下脚步，把她丢入水中，她才发觉自己在一口水缸里，和尚坐到一旁呼呼喘气。\n\n## 关键行动\n\n- 和尚（后文以\"那个叫玄奘的\"称之，见 [[claim-local-9]]）到缸边看她，念道\"清蒸呢，还是红烧？\"，又笑\"瞧把你吓的\"，伸手逗她（见 [[claim-local-3]]）。\n- 他随即对屋旁的花说话，问花乖不乖、蚂蚁有没来欺负，自称\"我昨天和他们谈判了\"。\n- 有人高喊\"玄奘！洪洲佑民寺的天杨禅师和法明师父在大殿论法\"，玄奘应\"收到\"，走前叮嘱小白龙\"我回来再放你回家，小心别让玄淇和他的猫看见你\"。\n- 玄奘离开后，水缸中一道金光飞出，小白龙因水太少不能变龙，只化成一个人：\"白衣的绝美女子\"，叙述并说明\"她这也是本相\"（见 [[claim-local-12]]、[[claim-local-13]]）。她再化成纯白百灵飞到大殿窗边观察他（见 [[claim-local-15]]）。\n\n## 转折与新信息\n\n大殿内坐满僧人，中间是两位老僧：一位持禅杖、带包袱，像外地云游而来；另一位是本寺住持（见 [[claim-local-16]]）。持禅杖者自称天杨，对法明长老说\"久闻金山寺佛法昌盛，特来请教\"（见 [[claim-local-17]]），并以\"放下\"\"两手皆空\"等机锋连环追问；再问\"如何是禅\"\"如何是正法眼\"\"如何悟证虚空\"，法明应答后语塞脸红，天杨大笑\"原来你就这两下子\"，贬称\"金山寺空有虚名，我云游四海，不见真人\"（见 [[claim-local-19]]）。论答间两位老僧头上起了白烟。\n\n人群中忽然有人笑，是玄奘。天杨质问，玄奘称因看门外树上两兔子厮打而笑，反问\"那在树上的是什么呢？\"使天杨语塞；旁边僧人说他是寺里\"最懒的一个，从不好好听讲诵经\"。玄奘随后说\"我还看见一只会脸红的白色百灵\"（见 [[claim-local-24]]）——窗边的小白龙吓得差点从窗上栽下去。\n\n天杨问\"什么是佛\"，玄奘上下四看，天杨判定其答为\"无处不是佛\"；再问\"如何悟证虚空\"，玄奘脱口答\"打破顽冥\"，并以\"不是还问！欠揍！\"相对，众僧惊呆。良久，天杨长叹\"你说得极是。我败了\"（见 [[claim-local-28]]）。\n\n## 本章结果\n\n叙述称\"玄奘一战成名\"（见 [[claim-local-29]]）。天杨走后，玄奘被全寺众僧围住要讲解最后一招与\"欠揍\"的深意，他解释为\"他说我答错了要打我……他一看我年轻想想打不过我所以就认输了\"，寺院里倒了一片。\n\n法明当众表示\"你聪慧过人，今后就在我身边修行，我将毕生所学传授予你\"，并以\"你不苦学，怎能得我衣钵\"追问；众僧听得眼红，视之为住持之位相传（见 [[claim-local-33]]）。玄奘先推说还是像以前在执事堂好、\"我背不来那些佛经\"，再答\"其实我要学的，你又教不了我\"，使法明摇晃不稳。最后他抬头望云说出四句：\"我要这天，再遮不住我眼，要这地，再埋不了我心，要这众生，都明白我意，要那诸佛，都烟消云散！\"（见 [[claim-local-35]]）。\n\n## 未决问题与补读入口\n\n- 章首四行诘问的说话者与所指对象均未落地，需后续章节回填。\n- 玄奘（char-0053）与已建档\"唐僧\"（char-0001）是否同一人物的不同阶段称谓，本章无任何关联明示，已登记身份链接候选。\n- 玄奘说\"看见一只会脸红的白色百灵\"，是否确已识破百灵即小白龙，原文未点明；小白龙只是受惊而未现身。\n- 天杨自称来自洪洲佑民寺、\"云游四海\"，其去向本章未交代。\n- 玄淇仅被提及（同寺、养猫），本章未出场。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 15,
+      "reason": "玄奘首次在公开场合展示机锋与胆识，令云游禅师认输，\"一战成名\"，是其人物线的起点事件"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-35",
+      "chapter_order": 15,
+      "reason": "玄奘自陈所求的核心宣言（天遮不住眼、诸佛烟消云散），后续人物走向的关键锚点"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-24",
+      "chapter_order": 15,
+      "reason": "玄奘称看见\"会脸红的白色百灵\"，是否识破小白龙身份存疑，跨章悬念"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-13",
+      "chapter_order": 15,
+      "reason": "小白龙人形\"白衣绝美女子\"且为\"本相\"，形态设定的定锚"
+    },
+    {
+      "kind": "identity_link_candidate",
+      "ref_or_local_id": "identity-link-local-1",
+      "chapter_order": 15,
+      "reason": "玄奘(char-0053) 与 唐僧(char-0001) 疑为同一人物的不同阶段，待后续判定"
+    },
+    {
+      "kind": "setting",
+      "ref_or_local_id": "setting-candidate-金山寺",
+      "chapter_order": 15,
+      "reason": "本章主要场景与玄奘所属寺院，后续章节点可能复用"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "章首四行诘问（\"五百年有多漫长？\"\"以前你说的话还算不算？\"\"你忘了／为何我还记得？\"）为无归属旁白，说话者与所指对象均不明，无法归属任何角色。",
+      "chapter_order": 15,
+      "related_claim_local_ids": [
+        "claim-local-1"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章登场的\"玄奘\"(char-0053) 与已建档\"唐僧\"(char-0001) 名号同源，是否同一人物本章未明示，暂不合并。",
+      "chapter_order": 15,
+      "related_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-29"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "玄奘称\"我还看见一只会脸红的白色百灵\"，是否确已识破百灵即小白龙，原文未点明，仅写到小白龙受惊差点栽下窗。",
+      "chapter_order": 15,
+      "related_claim_local_ids": [
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "金山寺之名只出现在天杨的对话中（\"久闻金山寺佛法昌盛\"\"金山寺空有虚名\"），叙述仅称\"一座宽广的山中寺院\"，寺院与本寺住持法明之间的归属关系为归纳所得。",
+      "chapter_order": 15,
+      "related_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-17",
+        "claim-local-19"
+      ]
+    }
+  ],
+  "warnings": [
+    "章首四行诘问为无归属旁白，已按 uncertain 处理并登记 identity_ambiguity，未强行归属角色。",
+    "玄奘/唐僧 的同一性未在本章明示，仅登记 identity_link_candidates，未合并 char-0053 与 char-0001。",
+    "本章多处涉及小白龙对玄奘的感受描写（\"心醉\"\"麻酥酥\"\"脸要红\"），按要求只记录互动与言语事实，未作感情类别定性。",
+    "thread_update_candidates 的 category 取值（character_arc / relationship）为按语义推定，若下游有受控词表请归一。"
+  ]
+}

@@ -1,0 +1,49 @@
+{"kind": "event", "local_id": "ev-local-1", "note": "stage-007 首章即回退至五百年前，交代天宫被破的原始场面（破炉→诸宫碎毁→灵霄殿倒→呼救如来）", "chapter_order": 61}
+{"kind": "event", "local_id": "ev-local-2", "note": "紫霞与孙悟空的正面相遇与「你是谁」对话，为本章情感/记忆线索的关键节点", "chapter_order": 61}
+{"kind": "claim", "local_id": "claim-local-13", "note": "孙悟空不认得紫霞的直接台词证据，后续记忆/身份线索的基准点", "chapter_order": 61}
+{"kind": "claim", "local_id": "claim-local-15", "note": "紫霞自述“他记忆中只有刻骨仇恨”“世上再没有人想起我”，为记忆主题的关键转述", "chapter_order": 61}
+{"kind": "claim", "local_id": "claim-local-20", "note": "玉帝呼救如来，天界最高战力介入的起点，交接后续章节", "chapter_order": 61}
+{"kind": "character", "candidate_name": "奎木郎", "note": "本章视角人物，其对玉帝应对的质疑可作 character_arc 追踪起点", "chapter_order": 61}
+{"kind": "event", "ref_local_id": "ev-local-1", "why": "宝象国线本章最高强度转折：唐僧被外力变作猛虎", "chapter_order": 62}
+{"kind": "event", "ref_local_id": "ev-local-4", "why": "孙悟空\"不保唐僧\"后首次直接向观音求解紧箍咒被拒，并接受除四魔任务", "chapter_order": 62}
+{"kind": "event", "ref_local_id": "ev-local-5", "why": "观音与如来密谈确认上级已知\"边界\"问题，阶段级权力线证据", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-35", "why": "师徒关系断裂的直接起因（界限不可破）转述", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-36", "why": "观音称\"我的师兄\"发现边界，同门关系线索", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-38", "why": "紧箍咒不可解 + 除四魔任务的约束条件", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-43", "why": "如来对西行受控的明确表态\"他走不出去\"", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-25", "why": "孙悟空指认天庭天将皆妖精所扮、场景是布景，世界观线索", "chapter_order": 62}
+{"kind": "claim", "ref_local_id": "claim-local-20", "why": "孙悟空与\"齐天大圣\"自认错位，阶段内身份谜题关键证据", "chapter_order": 62}
+{"kind": "event", "local_id": "ev-local-1", "reason": "孙悟空与牛魔王在齐天大圣旗杆前对峙，章内以血腥气收束，是群妖线的关键节点", "chapter_order": 63}
+{"kind": "event", "local_id": "ev-local-3", "reason": "齐天大圣大旗转手大鹏王，并以唐僧性命为条件封锁孙悟空成正果之路", "chapter_order": 63}
+{"kind": "event", "local_id": "ev-local-4", "reason": "金角银角现身狮驼岭，与大鹏王结成借宝约定，指向下一段冲突", "chapter_order": 63}
+{"kind": "claim", "local_id": "claim-local-25", "reason": "白晶晶明确表态「孙悟空绝不可以成佛」，是本阶段妖众立场的直接表述", "chapter_order": 63}
+{"kind": "claim", "local_id": "claim-local-32", "reason": "大鹏王宣称必杀唐僧，构成对唐僧一行的直接威胁", "chapter_order": 63}
+{"kind": "claim", "local_id": "claim-local-37", "reason": "大鹏王借金角银角之宝要「收拾另外三个」，预示下一段冲突", "chapter_order": 63}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "「杀他的人已去狮驼王处」牵连狮驼线与牛魔王死因", "chapter_order": 63}
+{"kind": "claim", "local_id": "claim-local-26", "reason": "牛魔王死亡为推断结论，后续章节若明示需回填", "chapter_order": 63}
+{"kind": "character_turn", "local_id": "claim-local-30", "reason": "大鹏王点出孙悟空「忘记了很多事」，属记忆缺失线索的反复出现", "chapter_order": 63}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 64, "reason": "本 stage 核心场景：黄袍怪与老虎关于神仙/妖精、定义与笼子的论道，并互换笼内外位置；可能对应后续多章的\"边界\"主题"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 64, "reason": "孙悟空\"五百年\"身份裂口与旧识回声（白晶晶、牛魔王、黄袍怪语句），为本 stage 关键人物转折证据"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 64, "reason": "黄袍怪自称神仙、自认使老虎\"恢复本相\"——其身份与能力定性关键陈述（reported）"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 64, "reason": "黄袍怪称唐僧\"刚走\"，唐僧下落线索"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 64, "reason": "黄袍怪与孙悟空旧识相认线索，涉及孙悟空过去阵营"}
+{"kind": "claim", "local_id": "claim-local-32", "chapter_order": 64, "reason": "叙述者\"这个世界上，其实并没有我\"——本卷视角/身份议题关键句"}
+{"kind": "event", "local_id": "ev-local-3", "reason": "猪八戒本章的核心转折：拒受“点拨”、识破幻象、怒吼退敌后倒地痛哭", "chapter_order": 65}
+{"kind": "event", "local_id": "ev-local-1", "reason": "黄袍怪对孙悟空的“成佛/界限”质问，立起冲突线索", "chapter_order": 65}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "猪八戒所述“答应过你”“到了西天就不能再记着你”的约定，重要伏笔", "chapter_order": 65}
+{"kind": "setting", "label": "界限（神所设决定命运方向的屏障）", "reason": "本章由猪八戒与母猪对话给出的世界规则表述，后续可能复用", "chapter_order": 65}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "沙僧主线转折：被无名声音劝行后进入通天河被卷走", "chapter_order": 66}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "玄奘拒皇帝取经之命并自陈永世到不了西天，随后被静潭深漩吸入", "chapter_order": 66}
+{"ref_or_local_id": "claim-local-7", "kind": "claim", "note": "无名声音指「琉璃盏分明是孙悟空打碎的」——身世/罪责真相关键陈述", "chapter_order": 66}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "note": "沙僧在追问下仍自认打碎琉璃盏（与其被指认说谎并存）", "chapter_order": 66}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "note": "林中有人喊「玄奘」、潭中映出少年面容——身份线索", "chapter_order": 66}
+{"ref_or_local_id": "claim-local-32", "kind": "claim", "note": "玄奘自陈自度/度人两难，永世到不了西天——人物核心立场", "chapter_order": 66}
+{"ref_or_local_id": "claim-local-34", "kind": "claim", "note": "静潭深漩吞没玄奘，章末悬念", "chapter_order": 66}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 67, "note": "狮驼岭百万妖众聚于「齐天大圣」旗下，是本阶段「群妖聚啸」的核心场景证据"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 67, "note": "三藏师徒三人被收入葫芦玉净瓶并交至大鹏王，为取经受阻的关键节点"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 67, "note": "大鹏王以「杀结拜兄弟」为名清算孙悟空，孙悟空否认旧日身份，百万妖众默立"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 67, "note": "黄袍怪被唤名摄入幻境，幻境中现出天界旧人与「等一个人」的僧人"}
+{"kind": "claim", "local_id": "claim-27", "chapter_order": 67, "note": "金角当面称黄袍怪为「奎木郎」「天界的叛徒」，身份关联的关键口证"}
+{"kind": "claim", "local_id": "claim-28", "chapter_order": 67, "note": "银角以「奎木郎」唤名生效，玉净瓶的能力展示与身份关联的实证"}
+{"kind": "claim", "local_id": "claim-33", "chapter_order": 67, "note": "自称如来座下二弟子金蝉的僧人称此处是西天、天蓬与沙僧已得道"}
+{"kind": "claim", "local_id": "claim-34", "chapter_order": 67, "note": "「所以我在等一个人」——本阶段收束处留下的核心悬念口证"}

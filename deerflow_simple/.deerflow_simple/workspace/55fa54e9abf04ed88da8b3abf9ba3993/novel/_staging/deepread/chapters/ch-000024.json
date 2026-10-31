@@ -1,0 +1,1293 @@
+{
+  "chapter_order": 24,
+  "chapter_id": "ch-000024",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天宫广场石柱上的头颅向孙悟空警示花果山被封",
+      "introduced_at": 24,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 24,
+            "end": 24
+          }
+        ],
+        "revealed_at": 24,
+        "status": "completed",
+        "story_time": "孙悟空离开蟠桃园后",
+        "summary": "孙悟空在天宫大殿前广场见到石柱上挂着的一颗头颅。头颅自称是当年跟随孙悟空的老妖、因反叛天帝被斩首悬挂，称花果山如今是监狱、天神不容一棵草生长，并问孙悟空是否来砸破诸天；孙悟空沉默后离去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石柱上的头颅"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-c2",
+          "claim-local-c3",
+          "claim-local-c4",
+          "claim-local-c5",
+          "claim-local-c6",
+          "claim-local-c7",
+          "claim-local-c8"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-c2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-c4",
+          "claim-local-c5",
+          "claim-local-c6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-c7"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "紫霞与巨灵神争执，孙悟空棒打巨灵神",
+      "introduced_at": 24,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 24,
+            "end": 24
+          }
+        ],
+        "revealed_at": 24,
+        "status": "completed",
+        "story_time": "同日，孙悟空返回蟠桃园时",
+        "summary": "孙悟空返回蟠桃园，听见巨灵神要紫霞离开、并指其与妖猴厮混。紫霞当面护孙悟空，被巨灵神讥讽喜欢猴子时答“正是，如何？”。巨灵神见孙悟空走来即刻找借口要走，被孙悟空一棒击在屁股上，化成星星消失。随后紫霞对孙悟空说自己好久没见他笑、第一次见到美猴王、希望以后常见，称他是自己心里的英雄。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-c9",
+          "claim-local-c10",
+          "claim-local-c11",
+          "claim-local-c12",
+          "claim-local-c13",
+          "claim-local-c14",
+          "claim-local-c15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-c9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-c11",
+          "claim-local-c13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-c14",
+          "claim-local-c15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "紫霞赠孙悟空旧日战袍，被当场挥飞丢弃",
+      "introduced_at": 24,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 24,
+            "end": 24
+          }
+        ],
+        "revealed_at": 24,
+        "status": "completed",
+        "story_time": "争执之后三天",
+        "summary": "三天后紫霞再到蟠桃园，把绸布包裹交给孙悟空：金色战甲、红色战袍、紫金冠，即他当年为魔王与天兵大战的装束。紫霞自述由太阳海水映影提炼金黄、神龙汗血提炼赤红、日月之光为线、五色云彩为锦织成。孙悟空挥手将袍甲全部挥飞，暴叫自己已是齐天大圣不用再上战场，并讥讽披巾紫色难看。紫霞蹲身捡起折好抱在胸前，走出蟠桃园，在云层边把袍冠全部丢下并流泪。此后孙悟空愈发不安烦躁，自认不属于此处。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-c16",
+          "claim-local-c17",
+          "claim-local-c18",
+          "claim-local-c19",
+          "claim-local-c20",
+          "claim-local-c21",
+          "claim-local-c22",
+          "claim-local-c23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-c16"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-c19",
+          "claim-local-c20",
+          "claim-local-c22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-c23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空得知蟠桃大会未邀自己，动身前往灵霄宝殿",
+      "introduced_at": 24,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 24,
+            "end": 24
+          }
+        ],
+        "revealed_at": 24,
+        "status": "completed",
+        "story_time": "蟠桃大会当日",
+        "summary": "孙悟空在天宫遍寻不见人影，一名小童子告知当天是天宫蟠桃大会、诸神都去灵霄宝殿饮宴；被反问“他们没有请你么”后，孙悟空自称仍是妖精、指众神都是骗子、喊出“我要回家”，随后纵身飞往灵霄宝殿。途中飞过落霞宫，见紫霞倚栏，邀她同去未果，只答“等我办完一件事再回来看”便飞去；紫霞独自留下看晚霞自语。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "小童子"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-c24",
+          "claim-local-c25",
+          "claim-local-c26",
+          "claim-local-c27",
+          "claim-local-c28",
+          "claim-local-c29",
+          "claim-local-c30",
+          "claim-local-c31",
+          "claim-local-c32",
+          "claim-local-c33"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-c24",
+          "claim-local-c25"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-c27",
+          "claim-local-c28",
+          "claim-local-c31"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-c33"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-c1",
+      "text": "孙悟空翻出蟠桃园，来到天宫大殿前的广场。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "孙悟空翻出蟠桃园，来到天宫大殿前的广场。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c2",
+      "text": "天宫大殿前的石柱上挂着一颗头颅。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "却是石柱上挂着的一个头颅"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c3",
+      "text": "头颅自称是当年跟随孙悟空的老妖，因反叛天帝而被斩了头颅挂在石柱上。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "我是当年跟随你的老妖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c4",
+      "text": "头颅称花果山现在是监狱，天神不容许有一棵草在花果山长出来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "那里现在就是监狱。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c5",
+      "text": "头颅问孙悟空是否来砸破诸天，并称自己已无手脚，否则定会相助。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "可惜俺已经没有手脚了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c6",
+      "text": "头颅对孙悟空说“有些人宁愿死，也不想卑贱地乞讨生存”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "有些人宁愿死，也不想卑贱地乞讨生存"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c7",
+      "text": "孙悟空听完头颅的话沉默了一会儿，慢慢远去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "孙悟空沉默了一会儿，慢慢远去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c8",
+      "text": "孙悟空对头颅自称“我不是美猴王，是齐天大圣”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "我不是美猴王，是齐天大圣"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c9",
+      "text": "孙悟空回到蟠桃园，听见巨灵神要紫霞离开蟠桃园，并指责她与一只妖猴待在一起。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "和一只妖猴在一起"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c10",
+      "text": "紫霞当面反驳巨灵神，说孙悟空虽是猴子却比他强得多。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "他是一只猴子，却也比你强得多"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c11",
+      "text": "巨灵神讥讽紫霞是否喜欢上了那只猴子，紫霞答“正是，如何？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "正是，如何？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c12",
+      "text": "巨灵神见孙悟空走过来便顿住话头，称“突然想起家里煮汤忘了关火”要离开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "我突然想起家里煮汤忘了关火了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c13",
+      "text": "孙悟空说“我送你”，一棒击在巨灵神屁股上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "孙悟空一棒击在巨灵神屁股上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c14",
+      "text": "巨灵神被击后“化成星星”，原文未明示其此后状态（是否身死或只是离去）。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "巨灵化成星星。"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_order": 24,
+          "note": "原文仅写“巨灵化成星星”，无进一步说明"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c15",
+      "text": "紫霞对孙悟空说好久没见他笑过，称久闻美猴王之名今日第一次见到、希望以后常见，并说他是自己心里的英雄。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "久闻美猴王孙悟空的大名，今日第一次见到"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c16",
+      "text": "三天后紫霞又到蟠桃园，把一个绸布包裹交给孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "三天后紫霞又来到了蟠桃园中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c17",
+      "text": "包裹内是金色战甲、红色战袍、紫金冠，即孙悟空当年作为魔王与天兵大战时的装束。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "这是他作为魔王与天兵大战时的装束"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c18",
+      "text": "紫霞自述：从太阳在海水的映影中提炼金黄，从神龙汗血中提炼赤红，取日月之光作线，以五色云彩为锦，织成这套袍甲。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "我从太阳在海水的映影中提炼出金黄"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c19",
+      "text": "孙悟空沉默半晌后挥手，将紫霞手中的袍甲全部挥飞出去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "忽地将手一挥，紫霞手中的袍甲全飞了出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c20",
+      "text": "孙悟空暴叫说自己已经是齐天大圣、不用再上战场，并讥讽袍甲做得差劲、披巾是紫色难看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "我已经是齐天大圣了，不用再上战场了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c21",
+      "text": "紫霞呆立一会儿后蹲下身，把地上的袍甲一件件捡起、折好，紧紧抱在胸前，一步步走出蟠桃园。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "默默地把地上的袍甲一件件地捡起来、折好"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c22",
+      "text": "紫霞走到云层边站了很久，把手中的袍冠全部丢了下去，泪从眼中流下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "然后把手中的袍冠全部丢了下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c23",
+      "text": "此后孙悟空越来越不安烦躁，叙述明确他“知道自己不属于这里”、无法习惯当神仙。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "他知道自己不属于这里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c24",
+      "text": "孙悟空在天宫转了十七八遍不见一个人影，大叫“人都到哪儿去了？”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "在天宫转了十七八遍，一个人影也没看见"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c25",
+      "text": "一个小童子告知孙悟空：当天是天宫蟠桃大会的日子，诸神都去灵霄宝殿饮宴了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "小童子"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "今天是天宫蟠桃大会的日子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c26",
+      "text": "小童子反问孙悟空“他们……他们没有请你么？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "小童子"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "他们没有请你么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c27",
+      "text": "孙悟空冷笑称他们不会请自己，说在诸神眼里自己还是妖精，笑称“终于又是妖精了”，并说众神都是骗子、“我是孙悟空！我要回家！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "但在他们眼里，我还是个妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c28",
+      "text": "孙悟空纵身飞向灵霄宝殿。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "孙悟空纵身向灵霄宝殿而去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c29",
+      "text": "孙悟空飞过落霞宫时，看见紫霞倚在宫外栏杆旁。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "他飞过落霞宫的时候，看见紫霞倚在宫外的栏杆旁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c30",
+      "text": "孙悟空问紫霞是否也没被请，邀她一起去找他们；紫霞说喜欢在这里看晚霞，请他留下陪她一起看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "你不如也留下来陪我一齐看吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c31",
+      "text": "孙悟空答“等我办完一件事再回来看”，话未落便又飞去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "等我办完一件事再回来看"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c32",
+      "text": "紫霞摇头，自语“晚霞的绚丽是不会久的，灿烂过后，便是漫漫的黑暗了”，并长叹“为什么，为什么要去得那么急？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "晚霞的绚丽是不会久的，灿烂过后，便是漫漫的黑暗了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-c33",
+      "text": "本章结尾叙述点明“大闹天宫，这一天终于来了”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 24,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000024.txt",
+          "chapter_id": "ch-000024",
+          "chapter_order": 24,
+          "locator": null,
+          "anchor": "大闹天宫，这一天终于来了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "石柱上的头颅",
+      "introduced_at": 24,
+      "alias_texts": [
+        "老妖"
+      ],
+      "identity_notes": "挂在天宫大殿前广场石柱上的一颗头颅。自称是当年跟随孙悟空的老妖，因反叛天帝被斩首悬挂于此；原文未给出姓名，未与任何已建档实体匹配。",
+      "evidence_claim_local_ids": [
+        "claim-local-c2",
+        "claim-local-c3",
+        "claim-local-c4",
+        "claim-local-c5",
+        "claim-local-c6"
+      ]
+    },
+    {
+      "label": "小童子",
+      "introduced_at": 24,
+      "alias_texts": [],
+      "identity_notes": "天宫中传话的童子，怯怯告知孙悟空当天是蟠桃大会、诸神皆赴灵霄宝殿；被孙悟空大笑惊吓后隐入云中。原文未给出姓名或所属。",
+      "evidence_claim_local_ids": [
+        "claim-local-c25",
+        "claim-local-c26"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "诸神/天宫众神",
+      "introduced_at": 24,
+      "notes": "本章中作为群体被提及：都去灵霄宝殿饮宴，未邀请孙悟空。仅为群体描述，未涉组织结构，暂不建档亦可。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-c25",
+        "claim-local-c27"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "蟠桃大会",
+      "category": "event",
+      "introduced_at": 24,
+      "notes": "小童子称当天是天宫蟠桃大会的日子，诸神都去灵霄宝殿饮宴；孙悟空未被邀请。（由角色口述得知）",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-c25"
+      ]
+    },
+    {
+      "label": "落霞宫",
+      "category": "place",
+      "introduced_at": 24,
+      "notes": "天宫中一处宫殿，紫霞倚在宫外栏杆旁看晚霞；孙悟空飞过此处。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-c29",
+        "claim-local-c30"
+      ]
+    },
+    {
+      "label": "灵霄宝殿",
+      "category": "place",
+      "introduced_at": 24,
+      "notes": "诸神饮宴之处，孙悟空纵身前往的方向（若已建档则复用）。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-c25",
+        "claim-local-c28"
+      ]
+    },
+    {
+      "label": "花果山被封禁（监狱化）",
+      "category": "world_rule",
+      "introduced_at": 24,
+      "notes": "头颅称花果山现为监狱、天神不容许一棵草在花果山长出来。仅为角色陈述，未经他证。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-c4"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_or_ref_a": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "candidate_or_ref_b": null,
+      "link_type": "unresolved_identity",
+      "certainty": "uncertain",
+      "summary": "头颅自称“当年跟随你的老妖”，但原文未给出其姓名或过往具体事迹，无法与任何已建档角色对应，亦不能排除其为已知妖类角色。",
+      "source_claim_local_ids": [
+        "claim-local-c3"
+      ],
+      "notes": "按规则不作为身份合并，仅登记待后续章节信息补足。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "石柱上的头颅"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "旧部/追随关系（由头颅单方面自称）"
+      },
+      "certainty": "reported",
+      "summary": "头颅自称是当年跟随孙悟空的老妖，向孙悟空通报花果山被封禁的处境并问他是否来砸破诸天。",
+      "source_claim_local_ids": [
+        "claim-local-c3",
+        "claim-local-c4",
+        "claim-local-c5",
+        "claim-local-c6"
+      ],
+      "notes": "该关系性质仅来自头颅自述。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "巨灵神背后讥讽孙悟空为“妖猴”，见其走来立即借口要走；孙悟空说“我送你”，一棒击在他屁股上，巨灵神化成星星消失。",
+      "source_claim_local_ids": [
+        "claim-local-c9",
+        "claim-local-c12",
+        "claim-local-c13",
+        "claim-local-c14"
+      ],
+      "notes": "未查到既有关系对，登记为新候选。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "巨灵神要紫霞离开蟠桃园、指其与妖猴厮混并出言讥讽；紫霞当面反驳说他虽是一只猴子却比巨灵神强得多，并答“正是，如何？”。",
+      "source_claim_local_ids": [
+        "claim-local-c9",
+        "claim-local-c10",
+        "claim-local-c11"
+      ],
+      "notes": "未查到既有关系对，登记为新候选。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "互动事实：紫霞赠礼、孙悟空拒绝、紫霞丢弃；双方言语往来"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞对外维护孙悟空、承认对他有意（对巨灵神答“正是，如何？”）、称他是自己心里的英雄；她耗时织成他旧日战袍相赠，被孙悟空挥飞并讥讽后，捡起袍甲在云层边全部丢下并落泪；孙悟空飞赴灵霄宝殿途中经落霞宫邀她同去，她婉拒并请他留下看晚霞，孙答“等我办完一件事再回来看”即离去。",
+      "source_claim_local_ids": [
+        "claim-local-c10",
+        "claim-local-c11",
+        "claim-local-c15",
+        "claim-local-c16",
+        "claim-local-c18",
+        "claim-local-c19",
+        "claim-local-c20",
+        "claim-local-c21",
+        "claim-local-c22",
+        "claim-local-c30",
+        "claim-local-c31",
+        "claim-local-c32"
+      ],
+      "notes": "仅记录互动事实与对话，不作感情定性；未查到既有关系对。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "conflict",
+      "status": "escalating",
+      "role": "main",
+      "title": "孙悟空与天界的对立走向大闹天宫",
+      "summary": "孙悟空因未被邀参加蟠桃大会而自称“终于又是妖精”，指众神都是骗子并喊“我要回家”，随后纵身飞往灵霄宝殿；章末叙述点明“大闹天宫，这一天终于来了”。",
+      "source_claim_local_ids": [
+        "claim-local-c25",
+        "claim-local-c26",
+        "claim-local-c27",
+        "claim-local-c28",
+        "claim-local-c33"
+      ],
+      "notes": "下一章（第25章）开场即在灵霄大殿由王母质问摘桃之事，可直接衔接。"
+    },
+    {
+      "category": "conflict",
+      "status": "active",
+      "role": "background",
+      "title": "花果山被封禁（监狱化）与旧部反抗诉求",
+      "summary": "头颅称花果山现为监狱、天神不容一棵草生长，并问孙悟空是否来砸破诸天；孙悟空沉默离去，未作承诺。",
+      "source_claim_local_ids": [
+        "claim-local-c4",
+        "claim-local-c5",
+        "claim-local-c6",
+        "claim-local-c7"
+      ],
+      "notes": "该设定目前仅由头颅口述提供，需后续章节验证。"
+    },
+    {
+      "category": "identity",
+      "status": "active",
+      "role": "main",
+      "title": "孙悟空的身份认同：齐天大圣 vs 妖精",
+      "summary": "孙悟空对头颅自陈“是齐天大圣”，对赠袍则称“我已经是齐天大圣了，不用再上战场了”；得知未被邀请后笑称“终于又是妖精了”，叙述亦明其“知道自己不属于这里”。",
+      "source_claim_local_ids": [
+        "claim-local-c8",
+        "claim-local-c20",
+        "claim-local-c23",
+        "claim-local-c27"
+      ],
+      "notes": "身份自我定位在本章出现前后摇摆，属可用证据。"
+    },
+    {
+      "category": "relationship",
+      "status": "active",
+      "role": "subplot",
+      "title": "紫霞与孙悟空的往来：赠袍被拒",
+      "summary": "紫霞在巨灵神面前维护孙悟空并承认对他有意，织成其旧日战袍相赠；孙悟空挥飞并出言讥讽，紫霞捡起后于云层边丢弃落泪；后续她在落霞宫独自看晚霞并自语。",
+      "source_claim_local_ids": [
+        "claim-local-c10",
+        "claim-local-c11",
+        "claim-local-c16",
+        "claim-local-c19",
+        "claim-local-c22",
+        "claim-local-c30",
+        "claim-local-c32"
+      ],
+      "notes": "仅记录事实，不作感情定性。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第24章：紫霞赠袍被拒·孙悟空赴蟠桃会",
+    "front_matter": {
+      "as_of": 24,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        },
+        {
+          "candidate_name": "石柱上的头颅"
+        },
+        {
+          "candidate_name": "小童子"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-c13",
+        "claim-local-c22",
+        "claim-local-c33"
+      ]
+    },
+    "body_markdown": "## 开始局面\n孙悟空翻出蟠桃园，独自来到天宫大殿前的广场，抱怨甩开了“小丫头”却仍觉烦躁。上一章他与紫霞在蟠桃园谈及花果山，末尾紫霞低头沉默、孙悟空已不见。\n\n## 关键行动\n- 广场石柱上挂着一颗被斩首的头颅，自称是当年跟随孙悟空的老妖，因反叛天帝而落此下场；它称花果山如今是监狱、天神不容一棵草生长，并问孙悟空是否来砸破诸天。孙悟空沉默后离去（[[ev-local-1]]）。\n- 返回蟠桃园，孙悟空撞见巨灵神驱赶紫霞、讥其与“妖猴”厮混；紫霞当面回护并答“正是，如何？”。巨灵神见孙悟空走来即借口“家里煮汤忘了关火”要走，孙悟空说“我送你”，一棒击其屁股，巨灵神化成星星消失（[[ev-local-2]]，[[claim-local-c13]]）。\n- 三天后紫霞再至蟠桃园，把金色战甲、红色战袍、紫金冠交给孙悟空——正是他当年作为魔王与天兵大战的装束；紫霞自述以太阳映影、神龙汗血、日月之光、五色云彩织成。孙悟空挥手将袍甲全部挥飞，暴叫自己已是齐天大圣、不用再上战场，并讥讽披巾紫色难看。紫霞蹲身捡起折好抱在胸前，走出蟠桃园，在云层边把袍冠全部丢下并落泪（[[ev-local-3]]，[[claim-local-c22]]）。\n\n## 转折与新信息\n- 孙悟空此后愈发不安烦躁，叙述明确他“知道自己不属于这里”、无法习惯当神仙。\n- 他在天宫转了十七八遍不见人影，一名小童子告以当天是天宫蟠桃大会、诸神皆赴灵霄宝殿饮宴，并被反问“他们没有请你么？”。孙悟空冷笑称他们不会请、在诸神眼里自己还是妖精，笑称“终于又是妖精了”，指众神都是骗子，喊出“我是孙悟空！我要回家！”（[[ev-local-4]]）。\n- 孙悟空纵身飞往灵霄宝殿；飞过落霞宫时见紫霞倚栏，邀她同去找“他们”未果，只答“等我办完一件事再回来看”便飞去。紫霞独自自语晚霞不会长久、灿烂过后是漫漫黑暗，并长叹他为何去得那么急。\n- 章末叙述点明“大闹天宫，这一天终于来了”（[[claim-local-c33]]）。\n\n## 本章结果\n- 孙悟空明确得知蟠桃大会将自己排除在外，并以“妖精”自居离开蟠桃园，动身赴灵霄宝殿；大闹天宫由此进入实施阶段。\n- 紫霞织赠的旧日战袍被拒并被丢下云层；她此后留在落霞宫看晚霞。\n- 巨灵神被一棒击后“化成星星”消失，其后续状态原文未明示。\n- 头颅所述的“花果山变监狱”“天神不容一棵草生长”，为孙悟空提供了另一条与天界对立的动因线索。\n\n## 未决问题与补读入口\n- 石柱上的头颅究竟是谁（自称“跟随你的老妖”），原文未给出姓名，暂列候选实体。\n- 巨灵神“化成星星”究竟是身亡还是被驱离，需后续章节确认。\n- 紫霞丢弃的袍冠是否会再被寻回/再出现，本章无交代。\n- 孙悟空赴灵霄宝殿后的直接冲突，从第25章灵霄大殿王母质问“谁摘来的桃子！这么小！”接续，可从此处补读。\n- 本章结尾原文字符存在乱码（“她长叹麆。⫀�长叹��”），引文时需以可靠版本复核。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-4",
+      "chapter_order": 24,
+      "note": "孙悟空得知蟠桃大会未邀自己并动身赴灵霄宝殿，为 stage-003 高潮（大闹天宫）的直接触发"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-3",
+      "chapter_order": 24,
+      "note": "紫霞赠袍被拒，孙悟空自我定位“齐天大圣”的关键证据"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-1",
+      "chapter_order": 24,
+      "note": "头颅所述花果山被封禁/监狱化，为对立动因背景证据（口述）"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-c33",
+      "chapter_order": 24,
+      "note": "章末叙述点明大闹天宫当即发生"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "chapter_order": 24,
+      "summary": "石柱上的头颅自称“当年跟随孙悟空的老妖”，但本章未给出姓名、过往事迹或可核对线索，无法与已建档实体对应。",
+      "related_claim_local_ids": [
+        "claim-local-c3"
+      ],
+      "suggested_action": "留待后续章节补足，不并入任何已知角色"
+    },
+    {
+      "category": "identity_ambiguity",
+      "chapter_order": 24,
+      "summary": "小童子仅以“一个小童子”出现，无姓名、无归属说明；其是否为后续再出现的角色不明。",
+      "related_claim_local_ids": [
+        "claim-local-c25",
+        "claim-local-c26"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "chapter_order": 24,
+      "summary": "本章末尾原文存在乱码字符（“她长叹麆。⫀�长叹��”），影响该处引文与锚点的可靠性；相关 claim 已避开该片段取锚点。",
+      "related_claim_local_ids": [
+        "claim-local-c32"
+      ],
+      "suggested_action": "以 source-v1 原始文件核对或标记该段为不可靠文本"
+    },
+    {
+      "category": "fact_conflict",
+      "chapter_order": 24,
+      "summary": "巨灵神被棒击后“化成星星”，原文未说明是身死、被驱离还是变化术，不宜直接记作死亡。",
+      "related_claim_local_ids": [
+        "claim-local-c14"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章多处关键信息由角色口述（头颅自称身份与花果山现状、紫霞自述织造材料、小童子告知蟠桃大会），均标为 reported，未经他证。",
+    "原文结尾存在乱码（“她长叹麆。⫀�长叹��”），该处未作为锚点使用。",
+    "紫霞与孙悟空之间的往来仅记录互动事实与对话，未作感情定性。",
+    "孙悟空“知道自己不属于这里”等内心描写属叙述者直接陈述，标 explicit 但非第三方可验证事实，下游如需可降级为 inferred。"
+  ]
+}

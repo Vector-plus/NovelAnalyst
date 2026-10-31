@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0014",
+  "kind": "entity_index",
+  "revision": 3,
+  "safe_through": 67,
+  "entity_type": "character",
+  "label": "沙僧",
+  "introduced_at": 6,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0014/stages/stage-001.md",
+        "record_id": "doc-char-0014-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0014/stages/stage-007.md",
+        "record_id": "doc-char-0014-stage-007"
+      },
+      "kind": "character_stage",
+      "title": "被劝行、被卷走：不肯改口的认罪者",
+      "summary": "被劝行、被卷走：不肯改口的认罪者（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0100",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 45,
+  "label": "阿月在桂花树下守候天蓬",
+  "introduced_at": 45,
+  "updates": [
+    {
+      "id": "update-thread-0100-001",
+      "revealed_at": 45,
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "category": "relationship_arc",
+      "status": "advanced",
+      "role": "introduction",
+      "summary": "阿月自述暴风毁家园后仍守在原处，每天用星星排图画等天蓬回来；猪八戒拒绝露面奔逃，最终折返扑火，阿月从背后抱住他唤「天蓬」，火焰吞没其笑容。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

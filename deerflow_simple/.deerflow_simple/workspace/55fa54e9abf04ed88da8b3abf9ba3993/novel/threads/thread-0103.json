@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0103",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 49,
+  "label": "金箍断裂与金箍棒失踪的线索",
+  "introduced_at": 49,
+  "updates": [
+    {
+      "id": "update-thread-0103-001",
+      "revealed_at": 49,
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "天宫大火后只余烧焦的石头与烧断的金箍；如来将石头抛落尘世，阿瑶把它埋在花果山焦土；二郎神却发现花果山上孙悟空扔下的金箍棒不见了。石、箍、棒的最终去向与关联在本章结束处仍未明示。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2046"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2055"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2056"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2071"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2072"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

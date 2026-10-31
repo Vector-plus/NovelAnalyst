@@ -1,0 +1,115 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0001",
+  "kind": "entity_index",
+  "revision": 6,
+  "safe_through": 67,
+  "entity_type": "character",
+  "label": "唐僧",
+  "introduced_at": 1,
+  "identity_notes": [
+    {
+      "id": "in-char-0001-001",
+      "revealed_at": 1,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0002"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0006"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0011"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0014"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0001/stages/stage-001.md",
+        "record_id": "doc-char-0001-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0001/stages/stage-006.md",
+        "record_id": "doc-char-0001-stage-006"
+      },
+      "kind": "character_stage",
+      "title": "西行途中·界限：无欲者与穿界者",
+      "summary": "西行途中·界限：无欲者与穿界者（第56—60章）",
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "characters/char-0001/stages/stage-007.md",
+        "record_id": "doc-char-0001-stage-007"
+      },
+      "kind": "character_stage",
+      "title": "变虎、拒命与坠入深漩：取经人的三重失去",
+      "summary": "变虎、拒命与坠入深漩：取经人的三重失去（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

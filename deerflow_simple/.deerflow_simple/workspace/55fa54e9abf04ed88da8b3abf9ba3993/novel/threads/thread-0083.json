@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0083",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 39,
+  "label": "孙悟空所指「丢尽妖精脸的家伙」未具名",
+  "introduced_at": 39,
+  "updates": [
+    {
+      "id": "update-thread-0083-001",
+      "revealed_at": 39,
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "章末孙悟空脸色沉下，称有个「早该死了的家伙，丢尽了我们妖精的脸」，奎木郎追问「他是谁」而无答。本章未给名字与线索。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

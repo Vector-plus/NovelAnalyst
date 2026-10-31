@@ -1,0 +1,1404 @@
+{
+  "chapter_order": 66,
+  "chapter_id": "ch-000066",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "沙僧夜行至通天河，被无名声音叫停追问，终被河水卷走",
+      "introduced_at": 66,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 66,
+            "end": 66
+          }
+        ],
+        "revealed_at": 66,
+        "status": "closed_for_chapter",
+        "story_time": "夜很深时",
+        "summary": "沙僧不问缘由地一直向前走，越过深谷、密林、峭壁，在无光空旷中走向轰鸣之处；一个声音喝「停」后从其背后走出，问他是否知道前面是什么地方并劝阻；两人就沙僧行走的缘由、琉璃盏旧事反复问答；声音最后劝他顺大河前行可重归天界，沙僧眼中露出憧憬而前行，被狂涛卷走。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "无名声音（第66章与沙僧对话者）"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-6",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "唐僧登高山变回人形，山顶独坐后循声入林见古潭",
+      "introduced_at": 66,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 66,
+            "end": 66
+          }
+        ],
+        "revealed_at": 66,
+        "status": "ongoing",
+        "story_time": "不明确（承接第65章之后）",
+        "summary": "唐僧走上高山，魔法消除变回人形；见白云山冈与山下绿色平原，自称终于迷路，在山顶久坐，自语三个家伙跟着自己无用、自问是否没人能跳出「你」的掌心；有人在林中喊「玄奘」，他循声深入林地，来到空地上的幽深古潭，潭水映出清秀少年面容。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "少年玄奘在金山寺潭边与老方丈问答造化与潭水",
+      "introduced_at": 66,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 66,
+            "end": 66
+          }
+        ],
+        "revealed_at": 66,
+        "status": "closed_for_chapter",
+        "story_time": "少年时期（回溯/幻境式叙述）",
+        "summary": "金山寺钟声响起，少年玄奘坐在潭边看自己倒影，老方丈在背后问他能从潭水看出什么；玄奘接连追问潭从何来、造化从何来、自己会成海还是泥坑、自己的源头是什么；老方丈以「江流」唤他，说他年纪小不要多想；玄奘则称自己「已经出世了一万年」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老方丈"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "黑暗中宏远声音以「金蝉子」相称并问其法论，回应者拒以语言论道",
+      "introduced_at": 66,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 66,
+            "end": 66
+          }
+        ],
+        "revealed_at": 66,
+        "status": "closed_for_chapter",
+        "story_time": null,
+        "summary": "黑暗中有宏远声音称玄奘为「金蝉子」，问他在世间游历已久是否准备好法论；一个声音答称突然不想论什么，认为语言无法表述一棵树的生长与一朵花的全貌，只问「生命的真义是什么」并请勿用语言回答；玄奘听到这个声音后微笑。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "宏远声音（第66章称玄奘为金蝉子者）"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "玄奘于宝殿拒皇帝取经之命，自陈永世到不了西天，被静潭深漩吸入",
+      "introduced_at": 66,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 66,
+            "end": 66
+          }
+        ],
+        "revealed_at": 66,
+        "status": "closed_for_chapter",
+        "story_time": null,
+        "summary": "四周忽然全亮，玄奘处于一座宝殿中；金殿上皇帝称观音大士现身、命他寻玄奘去西天取经，玄奘以「我不去」「我没时间」拒绝，并称「我心自在佛」；皇帝许以国师之位、万乘车马与黄金宝器，玄奘称那是出使经商而非取佛法；双方就取经、灵山所在与修行方式反复辩驳；玄奘最后自陈若自度弃不下尘世众生、若度人则永不能极乐，故永世到不了西天；他回头时背后又已是一片黑暗，静潭再现并化为深漩将他吸进去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "皇帝"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "无名声音（金殿黑暗中的叹声者）"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-29",
+          "claim-local-32"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-33",
+          "claim-local-34"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "沙僧在深夜一直向前走、不停下（因无人叫他停下），越过深谷、踩倒密林树木、撞穿石壁钻出隧道，在无一点光线的空旷中走向轰鸣声，直到一个声音喝「停」才站住。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "沙僧一直向前走，也不停下，因为没有人叫他停下。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "一个声音从沙僧背后走出，问他知不知道前面是什么地方，沙僧想了想答「通天河」，那声音说「原来你是知道地理的」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "沙僧想了想：“通天河。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "沙僧自称「曾在天空俯视大地的一切」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "我曾在天空俯视大地的一切。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "那声音说沙僧也该知道没有什么能在通天河里浮起来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "你也该知道没有什么能在通天河里浮起来。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "沙僧称娶媳妇、养娃娃、种玉米这些事「不能做」，理由是不知道那是不是神让他做的事、神会不会喜欢他这样。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "你不知道那是不是神让你做的事，你不知道神会不会喜欢你这样。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "沙僧称自己走路是因为「有人让你走」，并说自己有自己的方向也到不了西天，到了西天可以赎罪，赎了罪可以重新做卷帘大将。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "可以重新做卷帘大将。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "那声音问沙僧「琉璃盏真的是你打碎的么」，并称「分明是孙悟空打碎的」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "分明是孙悟空打碎的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "沙僧沉默很久后回答「是的，是我打碎的」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“是的，是我打碎的。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "那声音称沙僧在说谎，理由是「她惩治不了孙悟空」，而对沙僧来说「要你反抗比要你一辈子受罚更痛苦」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "分明是孙悟空打碎的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "沙僧称自己西游的动力是「不断地寻找痛苦，比我更深的痛苦」，这样他就知足、宽心，并领悟到神的力量——使追求越多的人越痛苦，而安卧于他脚下的人得极乐。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "不断地寻找痛苦，比我更深的痛苦。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "那声音叫沙僧「你走吧」，说前面的大河一直通到天上，顺它向前走可以重归天界。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "向前走，顺着它，你可以重归天界。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "沙僧眼中露出对「天界」的憧憬，于是向前走去，河水漫到脚边，狂涛扑过来把他卷走。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "狂涛扑过来卷走了他。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "唐僧走上高山，魔法消除，重新变回人形；他看见山下白云山冈与隐隐显出的一片绿色平原，并在山顶坐下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "唐僧走上高山，魔法消除，他又变回了人形。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "唐僧喃喃说「我终于迷路了啊」，并疑惑「那三个家伙」是否找到他们的破界之处、只跟着他有什么用。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "不知那三个家伙找到他们的破界之处没有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "唐僧在山顶久坐、看云海之后喃喃自问「真的没有人能跳出你的掌心么」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "真的没有人能跳出你的掌心么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "有人喊「玄奘」，唐僧猛回头问「谁」却无人应答；他循声向林深处走去，层层树木移开，最终来到林中最深处的空地，看见一口幽深古潭，潭水中映出一张清秀的少年面容。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "潭水中映出一张清秀的少年面容。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "金山寺的钟声响起，少年玄奘坐在潭边，看波纹一点点刷过自己的倒影；老方丈不知何时站在他背后，合掌长叹。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "金山寺的钟声惊动了林中的潭水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "老方丈问玄奘看着潭水能看出什么；玄奘答「我在想，它是从哪里来的」，老方丈答「从造化中来」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老方丈"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“从造化中来。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "玄奘追问造化又从哪里来；一滴叶上露珠落到他掌心，他倾掌使水珠顺指尖落入潭中溅起涟漪，长老说「造化就在掌心吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老方丈"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“造化就在掌心吧。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "玄奘追问这潭是谁掌心上的一滴水、它日后会变成大海还是泥坑、江水滔滔的源头是什么、他自己的源头是什么、他成为海还是泥坑又是谁的造化；老方丈以「江流」称呼他，说他还小不要想得太多。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“江流，”老方丈说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "玄奘对师父说「我总觉得，自己已经出世了一万年」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "自己已经出世了一万年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "黑暗中有宏远的声音称玄奘为「金蝉子」，问他在世间游历这么久是否准备好他的法论。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "宏远声音（第66章称玄奘为金蝉子者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“金蝉子，你在世间游历了这么久？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "玄奘听到那个回答的声音后微笑了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "玄奘听到这个声音，微笑了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "一个声音说「我突然不想论什么了」，称自己永远无法用语言表述一棵树的生长、一朵花的全貌，只问「生命的真义是什么」并请求不要用语言来回答。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "答者声音（第66章拒以语言论道者）"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "生命的真义是什么，请不要用语言来告诉我。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "四周忽然全亮，玄奘身处于一座宝殿之中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "忽然四周全亮了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "金殿上的皇帝说「观音大士现身，命朕寻你去西天取经」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "皇帝"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "观音大士现身，命朕寻你去西天取经"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "玄奘回答皇帝「我不去」「我没时间」，并称「可是佛不让我去」，把自己所说的佛称作「我心自在佛」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "“我心自在佛。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "皇帝提出：玄奘若西去，便封他为国师、率万乘车马、带黄金宝器、一路抚国纳贡、弘我国威，使诸国知大唐盛名。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "皇帝"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "我封你为国师"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "玄奘说皇帝所说的差事是出使经商、不如派个经营大臣，佛法取不来；并称自己「已在取经的路上」，不愿再被人好心告知答案以致自己不再思索。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "我已在取经的路上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "玄奘请求让他自在游于天地，快可百年、迟可千万年以得真义；并说若心中不明了，取回万卷经文也无异白纸几箱，三年五载可取回的经卷换不来可得的无上法。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "取回万卷经文，也无异白纸几箱"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "皇帝说玄奘也该去灵山见佛祖受他点拨，并称经在西天、想必一直向西便是；玄奘反问「何处是灵山」「西天在何处」，并表示若找不到西天自然不配受此经。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "皇帝"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "想必一直向西便是了吧。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "玄奘说能达极乐者没有几人；他若自度便弃不下尘世众生，他若度人自己便永不能极乐，所以他「永世到不了西天」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "所以我永世到不了西天的！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "玄奘回头时背后又已是一片黑暗，那声音叹道「你既想得通，又何必回头呢」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "你既想得通，又何必回头呢？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "黑暗中又出现了那静潭，亘古平静的潭水变成了一个深漩，将玄奘吸了进去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 66,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000066.txt",
+          "chapter_id": "ch-000066",
+          "chapter_order": 66,
+          "locator": null,
+          "anchor": "将玄奘吸了进去。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "老方丈",
+      "introduced_at": 66,
+      "alias_texts": [
+        "长老",
+        "师父"
+      ],
+      "identity_notes": "金山寺老方丈；本章以「江流」称呼少年玄奘，称只有静心长谈时才叫他小名。本章未出现法号或姓名。",
+      "evidence_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    {
+      "label": "皇帝",
+      "introduced_at": 66,
+      "alias_texts": [
+        "朕",
+        "陛下"
+      ],
+      "identity_notes": "金殿上的皇帝，自称「朕」；对玄奘称观音大士现身命朕寻玄奘去西天取经，许以国师之位；本章未指明是哪一朝皇帝或姓名。",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-28",
+        "claim-local-31"
+      ]
+    },
+    {
+      "label": "无名声音（第66章与沙僧对话者）",
+      "introduced_at": 66,
+      "alias_texts": [
+        "那声音"
+      ],
+      "identity_notes": "在沙僧面前出现并叫「停」的存在，知道通天河与琉璃盏旧事，劝沙僧顺河重归天界；章内未交代身份与形体。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-11"
+      ]
+    },
+    {
+      "label": "宏远声音（第66章称玄奘为金蝉子者）",
+      "introduced_at": 66,
+      "alias_texts": [
+        "一个宏远的声音"
+      ],
+      "identity_notes": "黑暗中以「金蝉子」称呼玄奘、询问其法论是否准备好的声音；与金殿前后出现的「那声音」是否为同一存在，章内未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-33"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "通天河",
+      "category": "place",
+      "introduced_at": 66,
+      "notes": "沙僧被叫停处前方的大河，八百里河水滔滔；那声音说没有什么能在其中浮起来，且称河一直通到天上。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-11"
+      ]
+    },
+    {
+      "label": "金山寺",
+      "category": "place",
+      "introduced_at": 66,
+      "notes": "少年玄奘所在寺院，寺中有潭，钟声惊动林中的潭水。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-17"
+      ]
+    },
+    {
+      "label": "林中幽深古潭（静潭）",
+      "category": "place",
+      "introduced_at": 66,
+      "notes": "林中最深处空地上的古潭，唐僧见潭水映出清秀少年面容；章末该静潭再现在黑暗中，潭水化作深漩将玄奘吸入。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-34"
+      ]
+    },
+    {
+      "label": "宝殿（金殿）",
+      "category": "place",
+      "introduced_at": 66,
+      "notes": "四周忽然全亮后玄奘所处的宝殿，皇帝在其金殿上与之对话。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-25"
+      ]
+    },
+    {
+      "label": "破界之处",
+      "category": "unknown",
+      "introduced_at": 66,
+      "notes": "唐僧自语中提到「那三个家伙」在找的「破界之处」；本章未解释其所指与位置。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "candidate_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "relation": "疑似同一人／同名承接（未明示）",
+      "certainty": "uncertain",
+      "summary": "章内有人在林中喊「玄奘」，唐僧猛回头问「谁」；紧接着叙述转入金山寺「少年玄奘」在潭边的场景，且唐僧所见潭中影像为「清秀的少年面容」。本章未直接说明二者为同一人，也未明示该场景是回溯、幻境还是回忆。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "candidate_b": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "relation": "疑似同一人（被以「金蝉子」相称，未明示）",
+      "certainty": "uncertain",
+      "summary": "黑暗中宏远声音对玄奘说「金蝉子，你在世间游历了这么久」，直接以「金蝉子」称呼玄奘；但章内没有说明少年玄奘即金蝉子本人，也未交代称呼的来由。",
+      "source_claim_local_ids": [
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "candidate_b": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "relation": "对话对象（身份未明，不做合并）",
+      "certainty": "uncertain",
+      "summary": "该声音了解沙僧旧事（琉璃盏、俯视大地）并对其下达去留建议，但章内未给出身份线索，不得与任何已知角色合并。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "subject_b": {
+        "candidate_name": "无名声音（第66章与沙僧对话者）"
+      },
+      "facet": {
+        "type": "other",
+        "note": "叫停、追问与劝行"
+      },
+      "certainty": "explicit",
+      "summary": "该声音喝「停」叫住沙僧，就他的行走缘由、琉璃盏旧事与西游意义逐层追问，最后劝他顺通天河前行可重归天界。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-11"
+      ],
+      "notes": "仅记录互动事实；该声音身份未明，未与任何已知实体合并。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "老方丈"
+      },
+      "subject_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "师授／问答"
+      },
+      "certainty": "explicit",
+      "summary": "老方丈在潭边以「江流」称玄奘小名，就潭水、造化与源头与其问答，并说他年纪小不要想得太多。",
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "candidate_name": "皇帝"
+      },
+      "subject_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "facet": {
+        "type": "other",
+        "note": "召令与拒绝"
+      },
+      "certainty": "explicit",
+      "summary": "皇帝以观音大士之命与国师之位、车马宝器为条件要玄奘西天取经；玄奘以「我不去」「我没时间」「我心自在佛」等理由拒绝，并辩称万卷经文不如亲得真义。",
+      "source_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-31"
+      ],
+      "notes": "仅在宝殿场景中记录的对话互动。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "sand_monk_river_disappearance",
+      "category": "character_arc",
+      "status": "open",
+      "role": "escalation",
+      "summary": "沙僧在通天河边被无名声音劝行后走进河水，被狂涛卷走，去向与生死本章未交代。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    {
+      "thread_key": "true_owner_of_liuli_cup",
+      "category": "mystery",
+      "status": "open",
+      "role": "escalation",
+      "summary": "无名声音指「琉璃盏分明是孙悟空打碎的」，沙僧沉默后仍自认是自己打碎；真相与沙僧说谎的缘由本章未定论。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    },
+    {
+      "thread_key": "tang_monk_lost_and_companions",
+      "category": "quest",
+      "status": "open",
+      "role": "escalation",
+      "summary": "唐僧自称迷路，自问「那三个家伙」是否找到破界之处、只跟着他有何用，并自问是否无人能跳出「你」的掌心。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    {
+      "thread_key": "xuanzang_refuses_scripture_mission",
+      "category": "quest",
+      "status": "open",
+      "role": "escalation",
+      "summary": "皇帝以观音之命要求玄奘西天取经，玄奘拒绝并称自己已在取经路上、永世到不了西天；该冲突未解决。",
+      "source_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-32"
+      ]
+    },
+    {
+      "thread_key": "xuanzang_swallowed_by_pool",
+      "category": "mystery",
+      "status": "open",
+      "role": "escalation",
+      "summary": "静潭再现在黑暗中，潭水化为深漩将玄奘吸入，其后果与去向本章未交代（第67章未见承接说明）。",
+      "source_claim_local_ids": [
+        "claim-local-34"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第66章：沙僧与通天河·玄奘拒经",
+    "front_matter": {
+      "as_of": 66,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "candidate_name": "老方丈"
+        },
+        {
+          "candidate_name": "皇帝"
+        },
+        {
+          "candidate_name": "无名声音（第66章与沙僧对话者）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "claim-local-1",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-12",
+        "claim-local-16",
+        "claim-local-21",
+        "claim-local-26",
+        "claim-local-32",
+        "claim-local-34"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n本章由两条互不交汇的线索构成。其一：沙僧在深夜一直向前走，「因为没有人叫他停下」，越过深谷、踩倒密林树木、一路撞穿石壁，在无一点光线的空旷中走向前方的轰鸣（[[claim-local-1]]，见 [[ev-local-1]]）。其二：唐僧走上高山，魔法消除，重新变回人形，看见山下白云山冈与绿色平原，在山顶坐下（见 [[ev-local-2]]）。\n\n## 关键行动\n\n- 沙僧线：一个声音喝「停」，从其背后走出，问他知道前面是什么地方；沙僧答「通天河」。那声音说没有什么能在通天河里浮起来，并劝他去娶媳妇、养娃娃、种玉米，沙僧称这些「不能做」，理由是「不知道那是不是神让你做的事」。他自陈走路只因「有人让你走」，自己的方向到不了西天，到西天可以赎罪、赎罪后可以重新做卷帘大将（[[ev-local-1]]）。\n- 琉璃盏旧事的对峙：那声音问「琉璃盏真的是你打碎的么」，并称「分明是孙悟空打碎的」（[[claim-local-7]]）；沙僧沉默很久后仍答「是的，是我打碎的」（[[claim-local-8]]）。那声音指他在说谎，理由是他惩治不了孙悟空，而要他反抗比要他一辈子受罚更痛苦。\n- 唐僧线：他喃喃「我终于迷路了啊」，疑惑「那三个家伙」是否找到破界之处、只跟着他有什么用；久坐后自问「真的没有人能跳出你的掌心么」。有人喊「玄奘」，他回头问「谁」却无人，循声入林，最终在林中最深的空地处看见一口幽深古潭，潭水映出一张清秀的少年面容（[[claim-local-16]]）。\n- 少年玄奘场景：金山寺钟声响起，少年玄奘在潭边看自己的倒影，老方丈在背后问他能看出什么，并答「从造化中来」「造化就在掌心吧」，随后以「江流」唤他小名，说他还小不要想得太多；玄奘则说自己「已经出世了一万年」（[[claim-local-21]]，见 [[ev-local-3]]）。\n- 宝殿场景：四周忽然全亮，玄奘身处于一座宝殿之中，金殿上皇帝称「观音大士现身，命朕寻你去西天取经」（[[claim-local-26]]）；玄奘答「我不去」「我没时间」，并称是「我心自在佛」不让他去。皇帝许以国师之位、万乘车马与黄金宝器，玄奘说那是出使经商、佛法取不来，并称自己「已在取经的路上」（见 [[ev-local-5]]）。\n\n## 转折与新信息\n\n- 沙僧被告知自己的方向到不了西天，唯有赎罪才可能重做卷帘大将；那声音进一步指认琉璃盏并非他所打碎，而沙僧仍自认其罪（[[claim-local-7]]、[[claim-local-8]]）。\n- 沙僧自述西游的动力是「不断地寻找痛苦，比我更深的痛苦」，并由此知足宽心、领悟神的力量；那声音最后叫他顺前面通到天上的大河前行、可重归天界。\n- 玄奘被以「金蝉子」相称并被问「准备好你的法论了么」（见 [[ev-local-4]]）；一个声音拒绝再论，只说愿以非语言方式追问「生命的真义是什么」，玄奘听到这个声音后微笑（[[claim-local-21]] 场景内的同一段叙述，参见该事件）。\n- 玄奘对取经的立场：他称若心中不明，取回万卷经文「无异白纸几箱」，并说自己若自度则弃不下尘世众生、若度人则永不能极乐，所以「永世到不了西天」（[[claim-local-32]]）。\n\n## 本章结果\n\n- 沙僧在「天界」的憧憬中向前走去，河水漫到脚边，狂涛扑过来把他卷走（[[claim-local-12]]）。\n- 唐僧已深入林中、见到映着少年面容的古潭，此后叙述转入玄奘的经历（[[claim-local-16]]）。\n- 玄奘回头时背后又已是一片黑暗，那声音叹「你既想得通，又何必回头呢」；黑暗中静潭再现，潭水化为深漩将他吸了进去（[[claim-local-34]]）。\n\n## 未决问题与补读入口\n\n- 与沙僧对话的无名声音身份未明，也未与任何已知实体合并；其对琉璃盏的指认与沙僧的自认构成本章未定论的疑点。\n- 唐僧所见的潭中「清秀的少年面容」与随后的少年玄奘场景之间的关系未明示；「玄奘」与唐僧是否为同一人的直接说明在本章未给出。\n- 唐僧自语中的「那三个家伙」与「破界之处」在本章无具体所指。\n- 金殿上的皇帝未具名；「观音大士现身」之说出自该皇帝之口，属转述。\n- 章末玄奘被深漩吸入后的去向本章未交代；第67章开篇转入狮驼岭场景。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "note": "沙僧主线转折：被无名声音劝行后进入通天河被卷走"
+    },
+    {
+      "ref_or_local_id": "ev-local-5",
+      "kind": "event",
+      "note": "玄奘拒皇帝取经之命并自陈永世到不了西天，随后被静潭深漩吸入"
+    },
+    {
+      "ref_or_local_id": "claim-local-7",
+      "kind": "claim",
+      "note": "无名声音指「琉璃盏分明是孙悟空打碎的」——身世/罪责真相关键陈述"
+    },
+    {
+      "ref_or_local_id": "claim-local-8",
+      "kind": "claim",
+      "note": "沙僧在追问下仍自认打碎琉璃盏（与其被指认说谎并存）"
+    },
+    {
+      "ref_or_local_id": "claim-local-16",
+      "kind": "claim",
+      "note": "林中有人喊「玄奘」、潭中映出少年面容——身份线索"
+    },
+    {
+      "ref_or_local_id": "claim-local-32",
+      "kind": "claim",
+      "note": "玄奘自陈自度/度人两难，永世到不了西天——人物核心立场"
+    },
+    {
+      "ref_or_local_id": "claim-local-34",
+      "kind": "claim",
+      "note": "静潭深漩吞没玄奘，章末悬念"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章原文存在乱码字符（如「有一个人从他的�停！⻀他的背后走了过来」「少年玄奘坐在潭边，�个宻��边」），相关句子不能安全用作 anchor，已改用未损坏句子定位。",
+      "evidence": "第66章第9段、第26段"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "与沙僧对话的无名声音身份未明；其与金殿场景后「那声音」是否为同一存在，章内无任何说明。",
+      "related_local_ids": [
+        "claim-local-2",
+        "claim-local-7",
+        "claim-local-33"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "金殿上的「皇帝」（自称朕）未具名，本章未交代其身份、朝代或与已有势力/人物档案的对应关系。",
+      "related_local_ids": [
+        "claim-local-26",
+        "claim-local-28"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "「玄奘」与「唐僧」的关系：章内有人喊「玄奘」而唐僧回头，尚未明确叙述二者为同一人；已仅登记 identity_link_candidate，未合并实体。",
+      "related_local_ids": [
+        "claim-local-16"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "黑暗声音称玄奘为「金蝉子」；玄奘与已建档的「金蝉子」是否为同一人，本章未明示。",
+      "related_local_ids": [
+        "claim-local-22"
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "唐僧自语中的「那三个家伙」与「他们的破界之处」在本章无具体所指，无法对应具体实体。",
+      "related_local_ids": [
+        "claim-local-14"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章末玄奘被静潭深漩吸入后的结果在本章未交代，紧接的第67章开头转入狮驼岭场景，缺少衔接说明。",
+      "related_local_ids": [
+        "claim-local-34"
+      ]
+    }
+  ],
+  "warnings": [
+    "工具调用接近上限（约19次），未能对每条新 Claim 逐个调用 dedupe_claim；仅对事件做了 dedupe_event 核对（均 no_match）与名字解析，新 Claim 可能与既有 Claim 存在语义重复，需下游再校。",
+    "本章叙事在多场景之间切换（沙僧线、唐僧线、少年玄奘回溯、金蝉子问法、金殿取经对话、被深漩吸入），场景间的时空关系原文明示不足，相关归属按「章内顺序」处理，未做文学解读式判定。",
+    "第66章第9段、第26段存在原文乱码字符，未用作 anchor。",
+    "未与任何已知角色合并化名/称呼：「老方丈」「皇帝」「无名声音」「宏远声音」均仅登记为新候选。"
+  ]
+}

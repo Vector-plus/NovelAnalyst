@@ -1,0 +1,56 @@
+{"kind": "event", "local_id_or_ref": "ev-local-1", "note": "stage-001开篇事件：密林前四人争吵，确立取经队伍内部互动基调", "chapter_order": 1}
+{"kind": "event", "local_id_or_ref": "ev-local-2", "note": "唐僧赌气独自入林、僧袍扯破，是本章末悬念，后续章节安危由此展开", "chapter_order": 1}
+{"kind": "claim", "local_id_or_ref": "claim-local-6", "note": "八戒自述“诅咒—西天”绑定关系，为本stage可能反复引用的设定性陈述（reported）", "chapter_order": 1}
+{"kind": "claim", "local_id_or_ref": "claim-local-4", "note": "悟空自述“只有看晚霞才能坚持向西走”，人物动机线索（reported）", "chapter_order": 1}
+{"kind": "character_beat", "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "唐僧在本章由被服侍者转为赌气独自入林的行动方", "chapter_order": 1}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 2, "note": "本stage首次出现会说话的怪树与唐僧对话，含怪树自述的关键信息"}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 2, "note": "唐僧首次被藤蔓与暗伏存在困住并呼救，与第1章独自入林的行动直接接续"}
+{"ref_or_local_id": "claim-local-4", "kind": "claim", "chapter_order": 2, "note": "怪树自述几千年前有猴群在其身上戏耍（reported，尚无旁证）"}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "chapter_order": 2, "note": "怪树自称三百年前有人在此被吃、留下人嘴（reported）"}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "chapter_order": 2, "note": "唐僧以大喊救命收尾，与第1章\"别以为我离了你们就不行\"形成人物行为重复点"}
+{"ref_or_local_id": "characters/char-0005/index.json", "kind": "entity", "chapter_order": 2, "note": "怪树（char-0005）本章正式出场并与唐僧建立敌对图谋关系"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "本 stage 首次出现「绿衣女孩」实体与唐僧论佛直接交锋，含小乘/大乘、金蝉子两条关键信息。", "chapter_order": 3}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "唐僧自称修大乘、修圆满且「还没想好」，为人物自我定位的关键自述（reported）。", "chapter_order": 3}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "note": "金蝉子质疑小乘佛法、走火入魔陷万劫的传说，是后续身份线索的关键陈述（reported）。", "chapter_order": 3}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "怪树与怪兽化为白烟，本 stage 内一次性消失，属场景结算事实。", "chapter_order": 3}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "孙悟空凌空赶到，为下一章接续点。", "chapter_order": 3}
+{"record_local_id": "ev-local-1", "kind": "event", "reason": "本 stage 内首次出现“女妖认出孙悟空”的核心转折事件", "signal": "plot_turn", "chapter_order": 4}
+{"record_local_id": "claim-local-14", "kind": "claim", "reason": "首次出现“玉帝的咒”线索，指向女子身份与变貌缘由", "signal": "identity_mystery", "chapter_order": 4}
+{"record_local_id": "claim-local-8", "kind": "claim", "reason": "女子自称在此地活了几万年、等孙悟空出现，涉及其与孙悟空的前史", "signal": "backstory_hint", "chapter_order": 4}
+{"record_local_id": "claim-local-2", "kind": "claim", "reason": "孙悟空自述捕妖动机为“积功德分”，是其当前行动目标的关键证据", "signal": "character_goal", "chapter_order": 4}
+{"record_local_id": "claim-local-22", "kind": "claim", "reason": "唐僧在万年老树残躯前的叹语，集中于本章迟暮/孤独意象", "signal": "theme_evidence", "chapter_order": 4}
+{"record_ref": {"path": "events/block-0001.json", "record_id": "ev-local-1"}, "kind": "event", "note": "本章核心对话事件，含孙悟空自述五百年关押与三件事，为 stage-001 主线关键证据", "chapter_order": 5}
+{"record_ref": {"path": "events/block-0001.json", "record_id": "ev-local-2"}, "kind": "event", "note": "孙悟空举棒未落、放过女子，人物转折点", "chapter_order": 5}
+{"local_claim_ref": "claim-local-8", "kind": "claim", "note": "赎罪三件事的框架性陈述（reported，出自孙悟空）", "chapter_order": 5}
+{"local_claim_ref": "claim-local-10", "kind": "claim", "note": "四大魔王名号清单（reported），含齐天大圣美猴王，后续可能展开", "chapter_order": 5}
+{"local_claim_ref": "claim-local-14", "kind": "claim", "note": "女子“等了几万年”“逃不出他的掌心”，女性角色身份线关键证据", "chapter_order": 5}
+{"local_claim_ref": "claim-local-12", "kind": "claim", "note": "女子“他已记不得一切”及被打断的“你就是……”，记忆缺失线线索", "chapter_order": 5}
+{"ref_local_id": "ev-local-1", "ref_type": "event", "chapter_order": 6, "note": "阶段内关键转折：孙悟空以“既知你是谁”为由击杀唐僧", "local_id_alias": "ev-local-1"}
+{"ref_local_id": "ev-local-2", "ref_type": "event", "chapter_order": 6, "note": "闪电引燃森林、孙悟空纵身离去，队伍解体状态开始"}
+{"ref_local_id": "claim-local-11", "ref_type": "claim", "chapter_order": 6, "note": "击杀的直述证据（explicit），可作为身份/立场变化锚点"}
+{"ref_local_id": "claim-local-8", "ref_type": "claim", "chapter_order": 6, "note": "“她说了我是谁，也说了我们每一个人是谁”——身份揭示线索的唯一来源，仍为角色自述"}
+{"ref_local_id": "claim-local-12", "ref_type": "claim", "chapter_order": 6, "note": "“又犯了一桩天条”——暗示此前已有前科，属角色自述"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 7, "note": "天蓬/月前史核心事件：银核成月、天河改名银河"}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "chapter_order": 7, "note": "八十年万级守候与十亿亿万银尘，量级证据"}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 7, "note": "造月未竟：几亿颗银尘散落天河"}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "chapter_order": 7, "note": "「银河」之名由天蓬提出（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 7, "note": "「月」之名由女子以己名命名（reported），身份线索"}
+{"kind": "claim", "ref_or_local_id": "claim-local-4", "chapter_order": 7, "note": "天蓬前史：曾在无光的天河中独自生活"}
+{"kind": "event", "local_id": "ev-local-1", "title": "孙悟空归来追问师父下落，得知唐僧已死且有人冒充他行凶", "introduced_at": 8, "reason": "本章核心状态变化：师父死讯与冒充者推断", "chapter_order": 8}
+{"kind": "event", "local_id": "ev-local-2", "title": "孙悟空与猪八戒林中争吵互骂，猪八戒仰天痛哭", "introduced_at": 8, "reason": "主要人物互动与猪八戒情绪转折点", "chapter_order": 8}
+{"kind": "claim", "local_id": "claim-local-12", "note": "冒充孙悟空杀害唐僧的推断（reported）", "introduced_at": 8, "chapter_order": 8}
+{"kind": "claim", "local_id": "claim-local-13", "note": "西天之门仅僧人可开、诅咒无法解除的规则陈述（reported）", "introduced_at": 8, "chapter_order": 8}
+{"kind": "claim", "local_id": "claim-local-15", "note": "孙悟空以金箍为由自述不自由", "introduced_at": 8, "chapter_order": 8}
+{"kind": "entity_first_appearance", "entity_ref": {"path": "characters/char-0017/index.json", "record_id": "char-0017"}, "label": "小白龙", "note": "第8章首次登场（对话中亦被称「死马」）", "introduced_at": 8, "chapter_order": 8}
+{"kind": "entity_first_mention", "entity_ref": {"path": "characters/char-0018/index.json", "record_id": "char-0018"}, "label": "冷面沙", "note": "第8章经猪八戒口中首次出现，仅为其称谓", "introduced_at": 8, "chapter_order": 8}
+{"kind": "event", "local_id": "ev-local-4", "note": "阿瑶与猴子的初遇（蟠桃园，第一句话\"小姑娘，俺可不好吃\"），为阿瑶线起点", "chapter_order": 9}
+{"kind": "event", "local_id": "ev-local-5", "note": "五百年后阿瑶在万灵之森追忆并落泪，连接天界线与当下取经时间线", "chapter_order": 9}
+{"kind": "claim", "local_id": "claim-local-12", "note": "原文称\"这是他和她说的第一句话\"、\"她的一生就此改变了\"，阿瑶转折点关键证据", "chapter_order": 9}
+{"kind": "claim", "local_id": "claim-local-14", "note": "回忆中\"老太太……你认错人了\"一句，说话者未指名，需后续核对", "chapter_order": 9}
+{"kind": "claim", "local_id": "claim-local-16", "note": "桃树上猴子即孙悟空的推断依据（五百年后\"孙悟空曾坐过的那棵树\"）", "chapter_order": 9}
+{"kind": "claim", "local_id": "claim-local-3", "note": "天蓬为天河守护神、掌银河巨闸，天庭职务信息", "chapter_order": 9}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "chapter_order": 10, "note": "阶段末章：孙悟空离队赴地府取唐僧魂魄，队伍开始离散"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 10, "note": "小白龙请假离去；猪八戒与无名答话者围绕“前世/旧名”对话"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-3", "chapter_order": 10, "note": "猪八戒转述唐僧肉身烧坏只剩半边"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-13", "chapter_order": 10, "note": "猪八戒自述“不肯忘记前世而宁愿承受痛苦”，人物转折点"}
+{"kind": "unresolved_identity", "ref_or_local_id": "char-0021", "chapter_order": 10, "note": "密林答话者可能为阿瑶，待身份明示"}

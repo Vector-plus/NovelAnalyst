@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0120",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 69,
+  "label": "师徒二人重新上路",
+  "introduced_at": 69,
+  "updates": [
+    {
+      "id": "update-thread-0120-001",
+      "revealed_at": 69,
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "category": "journey_progress",
+      "status": "advanced",
+      "role": "setup",
+      "summary": "孙悟空唤「师父，走吧」，唐僧应允后动身，西行继续。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2611"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2612"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

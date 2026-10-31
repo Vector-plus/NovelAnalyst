@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0150",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 60,
+  "entity_type": "character",
+  "label": "百花羞",
+  "introduced_at": 60,
+  "identity_notes": [
+    {
+      "id": "in-char-0150-001",
+      "revealed_at": 60,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2329"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2330"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2331"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2333"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

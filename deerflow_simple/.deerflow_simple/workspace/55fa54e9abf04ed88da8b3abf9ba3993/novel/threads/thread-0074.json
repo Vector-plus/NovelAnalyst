@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0074",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 26,
+  "label": "大闹灵霄殿：孙悟空与天庭正式开战",
+  "introduced_at": 26,
+  "updates": [
+    {
+      "id": "update-thread-0074-001",
+      "revealed_at": 26,
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "category": "main_plot",
+      "status": "escalating",
+      "role": "turning_point",
+      "summary": "第26章孙悟空现身灵霄大殿认下偷桃、掀翻王母宝座、自报姓名并向诸天众神挥棒，四大天王及二十八宿等天将合围，战斗爆发。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1566"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1569"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1575"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1578"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1582"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

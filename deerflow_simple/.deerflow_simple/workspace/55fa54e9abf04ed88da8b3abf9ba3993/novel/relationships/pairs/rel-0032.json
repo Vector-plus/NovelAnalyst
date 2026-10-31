@@ -1,0 +1,58 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0032",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 10,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0035/index.json",
+      "record_id": "char-0035"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0032-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "旧识纠葛（身份未定）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "等待与倾诉；认出他、哭诉几万年等待，被打断后仍继续交代关键情报，章末伸手无言",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "敌对与迟疑；以唐僧为饵将其引出并一击打倒，随后「偏要过会儿再打」，当章未下杀手",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

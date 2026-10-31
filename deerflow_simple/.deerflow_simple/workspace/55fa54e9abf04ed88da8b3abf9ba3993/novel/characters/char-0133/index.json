@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0133",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 50,
+  "entity_type": "character",
+  "label": "果子熊",
+  "introduced_at": 50,
+  "identity_notes": [
+    {
+      "id": "in-char-0133-001",
+      "revealed_at": 50,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2098"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

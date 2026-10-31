@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0109",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 55,
+  "label": "群叶与众生的告别",
+  "introduced_at": 55,
+  "updates": [
+    {
+      "id": "update-thread-0109-001",
+      "revealed_at": 55,
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "category": "theme_motif",
+      "status": "advanced",
+      "role": "subject",
+      "summary": "天地忽静、山海金黄、众叶飘落，叶子以\"我在，记住我，我曾经在\"向松鼠告别，并约定明年在枝头叫它的名字。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2174"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2175"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2176"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2177"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2179"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

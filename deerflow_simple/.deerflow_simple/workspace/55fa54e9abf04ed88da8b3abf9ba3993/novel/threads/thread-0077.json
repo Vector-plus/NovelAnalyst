@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0077",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 35,
+  "label": "天顶被击破后的三界灾殃",
+  "introduced_at": 35,
+  "updates": [
+    {
+      "id": "update-thread-0077-001",
+      "revealed_at": 35,
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "category": "event_consequence",
+      "status": "ongoing",
+      "role": "raised",
+      "summary": "孙悟空击破天顶，火流入燃着天际；紫霞警告「这样三界都会有大灾殃」。天宫诸神大乱、王母吓晕，火越烧越大而天宫越来越冷。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1746"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1748"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1752"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1754"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

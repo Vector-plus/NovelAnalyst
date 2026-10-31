@@ -1,0 +1,862 @@
+{
+  "chapter_order": 4,
+  "chapter_id": "ch-000004",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "林中丑面女妖认出孙悟空，被孙悟空震飞吐血",
+      "introduced_at": 4,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 4,
+            "end": 4
+          }
+        ],
+        "revealed_at": 4,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空在林中围着已被他打倒的女妖，声称以唐僧为诱饵是为积功德分。女子醒转后认出孙悟空并抱住其双腿，自称在此地活了几万年只为等他出现。孙悟空运内力将她震飞，撞断一棵两人合抱的大树。女子吐血称自己受了玉帝的咒、再不能变回从前样子，话未说完即惨叫喷血，未能说出身份；唐僧猜测她受咒法所制。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "丑面女妖"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空表态暂不杀女妖，唐僧独自踱步出林",
+      "introduced_at": 4,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 4,
+            "end": 4
+          }
+        ],
+        "revealed_at": 4,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空叫唐僧让开、说要结果女子；唐僧称自己并未挡着他并让他打，孙悟空随即改口说偏要过会儿再打。唐僧整理破烂衣裳，踱步向林外走去，说要去幽深的雨巷散步，临走在万年老树残躯前叹“不要死，也不要孤独地生活”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空在林中围着地上那个被他打倒的女妖转悠。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "孙悟空围着地上这个被他打倒的女妖转悠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空对唐僧称，用唐僧做诱饵“一点儿错也没有”，这样“俺老孙的功德分很快就能积够”，并抱怨追唐僧的女妖精一个比一个难看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "用你做诱饵真是一点儿错也没有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空自称“有些青光眼外加散光，迎风流泪还见不得太阳”，并说这是在地下待了太久退化所致。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "青光眼外加散光"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "唐僧称该女子“这么美丽”，并反问孙悟空“猴眼看人，又如何识得美丑”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "猴眼看人，又如何识得美丑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空举起金箍棒要打那女子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "孙悟空举起了金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "那女子此时醒转，抬眼正看见孙悟空举棒要打，随即一把抱住他的双腿。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "女子一把抱住他的双腿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "女子喊出“孙悟空……你是孙悟空！”，并问他是否真的是他、自己是不是在做梦。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "丑面女妖"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "你是孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "女子称自己“在这里活了几万年”，就是为了想着有一天孙悟空会出现在她面前，并说“没有人能锁得住你”，问他“你终于自由了么”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "丑面女妖"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "我在这里活了几万年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "被女子抱住后，孙悟空浑身一颤，“好似五脏六腑都跳动了一下”，自觉有千钧之力却一点也用不上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "好似五脏六腑都跳动了一下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空暗运内力，一声“起”，将那女子震飞出去，撞在一棵两人才能合抱的大树上，把树撞得应声而折。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "把两人才能合抱的大树撞得应声而折"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空对女子说“你以为这套对老孙有用么？哭也没用，老孙杀人就没眨过眼”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "老孙杀人就没眨过眼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "女子摔在地上，鲜血从口中流出来，仍强撑着看孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "鲜血从口中流出来，却还强撑着看孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "女子对孙悟空说“你不认得我了……我变成这个样子，你自然认不出来”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "丑面女妖"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "你不认得我了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "女子自称“受了玉帝的咒，再也不能变回从前的样子”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "丑面女妖"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "可我受了玉帝的咒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "女子话未说完即惨叫一声，一口血直喷出来，在地上痛苦挣扎，双手紧紧攥住泥土。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "女子突然惨叫一声，一口血直喷出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "唐僧推测该女子“也受了咒法”，因此再不能说出自己是谁。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "莫不是你也受了咒法，再不能说出自己是谁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空叫唐僧别信她，说“妖怪我见的多了，什么招都使得出来”，让他让开、要结果她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "让开，让我结果了她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧回称“我并没有挡着你呀，你打呀”，孙悟空改口说“偏要过会儿再打”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "偏要过会儿再打"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "唐僧整了整已烂得不成样子的衣裳，踱着步向林外走去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "踱着步向林外走去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "唐僧说要去“那幽深的雨巷散步”，期盼“再相逢一个丁香花样的妖精”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "期盼再相逢一个丁香花样的妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "唐僧停步看了看万年老树的残躯。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "他又停步看了看万年老树的残躯"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "唐僧缓缓叹道：“不要死，也不要孤独地生活。几十万年就是为了这一天么？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 4,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000004.txt",
+          "chapter_id": "ch-000004",
+          "chapter_order": 4,
+          "locator": null,
+          "anchor": "不要死，也不要孤独地生活"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "丑面女妖",
+      "introduced_at": 4,
+      "alias_texts": [
+        "女妖",
+        "女子",
+        "小美人"
+      ],
+      "identity_notes": "本章被孙悟空打倒于林中、尚未具名的女妖，容貌被孙悟空评为一比一个难看（唐僧则称其美丽）。醒后认出孙悟空并抱住其双腿，自称在此地活了几万年、只为等孙悟空出现，并称自己“受了玉帝的咒，再也不能变回从前的样子”，正要说出身份时惨叫喷血中断。章内未出现真实姓名，也未与任何已知人物合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "功德分",
+      "category": "system",
+      "introduced_at": 4,
+      "notes": "孙悟空自称用唐僧作诱饵捕女妖可“攒功德分”，仅出于孙悟空自述，原文未解释其规则或来源。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "玉帝的咒",
+      "category": "rule",
+      "introduced_at": 4,
+      "notes": "丑面女子自称“受了玉帝的咒，再也不能变回从前的样子”，且说到身份时被打断；唐僧推测同一种咒法使她不能说出自己是谁。原文未正面叙述该咒的设置过程。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "取经同伴间的合作与斗嘴"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空用唐僧作诱饵诱捕女妖，并当面抱怨唐僧招来的妖精难看；唐僧以“幻化无穷，明镜在心”“猴眼看人，如何识得美丑”回他，并称女妖美丽。孙悟空要打女妖时叫唐僧让开，唐僧反说“我并没有挡着你呀，你打呀”，孙悟空遂改口暂不动手。唐僧随后独自踱步出林。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "关系性质（同伴/合作）仅按本章互动事实记录，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "丑面女妖"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "单向声称的旧识关系 vs 对方完全不认得"
+      },
+      "certainty": "reported",
+      "summary": "女子认出孙悟空并抱住其双腿，称在此地活了几万年只为等他出现、问他是否已得自由；孙悟空认不出她，运内力将她震飞撞断大树，并称“你不认得我了”一句出自女子之口、孙悟空本人未承认与其相识。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-10",
+        "claim-local-13"
+      ],
+      "notes": "“相识”完全依赖女子单方陈述，孙悟空反应为不认识且动手，故 certainty 记为 reported。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "丑面女妖"
+      },
+      "subject_b": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "受咒关系（单方陈述）"
+      },
+      "certainty": "reported",
+      "summary": "女子自称受了玉帝的咒，再也不能变回从前的样子，且说到自己身份时被打断。玉帝本章未出场，未有任何叙述侧印证。",
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": "仅凭女子自述建立，玉帝本人在本章无言行。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key_hint": "丑面女妖的身份之谜",
+      "category": "mystery",
+      "status": "open",
+      "role": "introduced",
+      "summary": "女子认出孙悟空、自称等了几万年、受玉帝的咒不能变回原样，但名字被咒打断，孙悟空也认不出她；本章未揭示其真实身份。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "evidence_anchors": [
+        "可我受了玉帝的咒"
+      ]
+    },
+    {
+      "thread_key_hint": "孙悟空的功德分与取经任务动机",
+      "category": "character_goal",
+      "status": "open",
+      "role": "introduced",
+      "summary": "孙悟空自述以唐僧作诱饵捕女妖是为了让“功德分很快就能积够”，本章仅见其自述，未说明功德分的规则与来源。",
+      "source_claim_local_ids": [
+        "claim-local-2"
+      ],
+      "evidence_anchors": [
+        "俺老孙的功德分很快就能积够了"
+      ]
+    },
+    {
+      "thread_key_hint": "孙悟空被囚/失自由的过往",
+      "category": "backstory",
+      "status": "open",
+      "role": "hinted",
+      "summary": "女子提到“你自由了，你终于自由了么？没有人能锁得住你”，孙悟空自称因在地下待太久而身体退化（青光眼、散光、迎风流泪、见不得太阳）——自由与被囚往事在本章仅以对话形式被提及。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-8"
+      ],
+      "evidence_anchors": [
+        "在地下待了太久退化了"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第4章：林中女妖认出孙悟空",
+    "front_matter": {
+      "as_of": 4,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "candidate_name": "丑面女妖"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n林中，孙悟空围着地上那个被他打倒的女妖转悠（[[claim-local-1]]）。他对唐僧说自己用唐僧做诱饵“一点儿错也没有”，这样“俺老孙的功德分很快就能积够”，并抱怨追唐僧的女妖精一个比一个难看（[[claim-local-2]]）。唐僧反驳说这女子“这么美丽”，并说“幻化无穷，明镜在心，你猴眼看人，又如何识得美丑”（[[claim-local-4]]）。孙悟空则自称有青光眼、散光、迎风流泪、见不得太阳，是“在地下待了太久退化了”，反对唐僧拿他的生理缺陷取笑（[[claim-local-3]]）。\n\n## 关键行动\n\n孙悟空举起金箍棒要打那女子（[[claim-local-5]]），女子此时醒转，抬眼看见举棒，一把抱住他的双腿（[[claim-local-6]]），喊出“孙悟空……你是孙悟空！”，问是不是真的、自己是不是在做梦（[[claim-local-7]]）。被抱住后孙悟空浑身一颤，“好似五脏六腑都跳动了一下”，自觉有千钧之力却一点也用不上（[[claim-local-9]]）。随后他暗运内力一声“起”，将女子震飞，撞在一棵两人才能合抱的大树上，把树撞得应声而折（[[claim-local-10]]）；并说“你以为这套对老孙有用么？哭也没用，老孙杀人就没眨过眼”（[[claim-local-11]]）。\n\n## 转折与新信息\n\n女子摔在地上，鲜血从口流出，仍强撑着看孙悟空（[[claim-local-12]]），说“你不认得我了……我变成这个样子，你自然认不出来”（[[claim-local-13]]），并自称“受了玉帝的咒，再也不能变回从前的样子”（[[claim-local-14]]）；她此前已说自己“在这里活了几万年”，只为等孙悟空出现，并问他“你终于自由了么”（[[claim-local-8]]）。话未说完，她惨叫一声、喷出血来，在地上痛苦挣扎（[[claim-local-15]]），未能说出自己是谁。唐僧由此推测她“也受了咒法，再不能说出自己是谁”（[[claim-local-16]]）。\n\n## 本章结果\n\n孙悟空叫唐僧别信她、说妖怪什么招都使得出来，让他让开要结果她（[[claim-local-17]]）；唐僧回说“我并没有挡着你呀，你打呀”，孙悟空改口“偏要过会儿再打”（[[claim-local-18]]）。唐僧整了整烂得不成样子的衣裳，踱步向林外走去（[[claim-local-19]]），说要去幽深的雨巷散步、期盼再相逢一个丁香花样的妖精（[[claim-local-20]]）。临走他停步看了看万年老树的残躯（[[claim-local-21]]），叹“不要死，也不要孤独地生活。几十万年就是为了这一天么？”（[[claim-local-22]]）。女妖仍在原地痛苦挣扎，孙悟空未再动手。\n\n## 未决问题与补读入口\n\n- 女妖的真实身份与她与孙悟空（[[claim-local-13]]、[[claim-local-8]]）的过往关系：本章被咒打断，未说出名字。\n- “玉帝的咒”的内容与施加缘由：仅女子自称（[[claim-local-14]]）与唐僧推测（[[claim-local-16]]），玉帝本章未出场、无叙述侧印证。\n- 孙悟空所称“功德分”的规则与来源（[[claim-local-2]]），以及他“在地下待了太久”所指的往事（[[claim-local-3]]）。\n- 唐僧独自出林后的去向（[[claim-local-19]]、[[claim-local-20]]），与女妖、孙悟空二人后续对峙的结果。"
+  },
+  "stage_buffer_appends": [
+    {
+      "record_local_id": "ev-local-1",
+      "kind": "event",
+      "reason": "本 stage 内首次出现“女妖认出孙悟空”的核心转折事件",
+      "signal": "plot_turn",
+      "chapter_order": 4
+    },
+    {
+      "record_local_id": "claim-local-14",
+      "kind": "claim",
+      "reason": "首次出现“玉帝的咒”线索，指向女子身份与变貌缘由",
+      "signal": "identity_mystery",
+      "chapter_order": 4
+    },
+    {
+      "record_local_id": "claim-local-8",
+      "kind": "claim",
+      "reason": "女子自称在此地活了几万年、等孙悟空出现，涉及其与孙悟空的前史",
+      "signal": "backstory_hint",
+      "chapter_order": 4
+    },
+    {
+      "record_local_id": "claim-local-2",
+      "kind": "claim",
+      "reason": "孙悟空自述捕妖动机为“积功德分”，是其当前行动目标的关键证据",
+      "signal": "character_goal",
+      "chapter_order": 4
+    },
+    {
+      "record_local_id": "claim-local-22",
+      "kind": "claim",
+      "reason": "唐僧在万年老树残躯前的叹语，集中于本章迟暮/孤独意象",
+      "signal": "theme_evidence",
+      "chapter_order": 4
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "description": "本章女妖始终未被点名，自称认识孙悟空、受玉帝的咒变貌、活了几万年，说到身份即被打断；孙悟空本人认不出她。已登记为候选实体“丑面女妖”，未与任何已知人物合并，需后续章节确认。",
+      "chapter_order": 4,
+      "evidence_claims": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "description": "已有实体档案 char-0012（玉帝）标注 introduced_at=5，但第4章文本中已由女子说出“玉帝的咒”。此差异或为“出场”与“被提及”的计法不同，建议下游核对口径。",
+      "chapter_order": 4,
+      "evidence_claims": [
+        "claim-local-14"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "description": "本章“女子认出孙悟空”为重大关系揭示，但孙悟空反应为不认识并动手，缺少可作为双向相识定论的原文；关系仅以单方陈述登记为 reported。",
+      "chapter_order": 4,
+      "evidence_claims": [
+        "claim-local-6",
+        "claim-local-10",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "warnings": [
+    "source 原文存在 OCR 残缺：描述女子落泪的一句为“眼中竟有泪滹得�扟有泪�落下来”，该句未用于任何锚点与结论。",
+    "本章为纯对话/动作短章，未出现新地名或新势力；玉帝仅被提及而未出场，未产出其参与的事件。",
+    "孙悟空与唐僧、孙悟空与女妖之间调用 find_similar_relationship 均 no_match，故以 relationship_candidates 形式新建，等待下游分配 rel-* ID。",
+    "thread_update_candidates 中的 category/status/role 使用了常见受控词（mystery / character_goal / backstory，open / introduced / hinted），如与下游词表不符请按词表映射。"
+  ]
+}

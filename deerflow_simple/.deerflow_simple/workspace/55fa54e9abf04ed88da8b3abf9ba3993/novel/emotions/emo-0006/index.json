@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0006",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 10,
+  "label": "孙悟空—阿瑶：第1—10章感情阶段分析",
+  "introduced_at": 1,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 10
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 10
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0006-001",
+      "revealed_at": 10,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/char-0002__char-0021/stages/stage-001.md",
+          "record_id": "doc-rel-sunwukong-ayao-stage-001"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0006/stages/stage-001.md",
+        "record_id": "doc-emo-0006-stage-001"
+      },
+      "kind": "emotional_stage",
+      "title": "孙悟空—阿瑶：第1—10章感情阶段分析",
+      "summary": "孙悟空—阿瑶：第1—10章感情阶段分析（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

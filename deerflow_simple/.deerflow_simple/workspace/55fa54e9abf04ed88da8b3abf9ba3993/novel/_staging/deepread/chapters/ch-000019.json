@@ -1,0 +1,1172 @@
+{
+  "chapter_order": 19,
+  "chapter_id": "ch-000019",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "蟠桃园夜间：孙悟空吃桃、定住阿瑶，阿瑶闻其名而逃",
+      "introduced_at": 19,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 19,
+            "end": 19
+          }
+        ],
+        "revealed_at": 19,
+        "status": "resolved",
+        "story_time": "某日夜间（紫霞自天边返回落霞宫途中）",
+        "summary": "紫霞行至蟠桃园上空，见园上悬着几颗大星、园中有女子哭声。哭泣者是阿瑶，孙悟空围着她上蹿下跳。阿瑶指控孙悟空吃光了她们采的桃子并用定身法定住她，扬言要去王母娘娘处告状；孙悟空自称只是开玩笑，说困了要关园子，又提议带她回花果山赔她成筐的桃子，阿瑶拒绝，称没采到蟠桃回去定被王母打死。阿瑶问他是谁，孙悟空自报「俺就是孙悟空」，阿瑶愣住后尖叫逃走。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "紫霞与孙悟空蟠桃园夜谈，紫霞推断其师为菩提祖师",
+      "introduced_at": 19,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 19,
+            "end": 19
+          }
+        ],
+        "revealed_at": 19,
+        "status": "resolved",
+        "story_time": "同夜，阿瑶逃走后",
+        "summary": "紫霞从林中走出，笑称齐天大圣威名无人不知，并说自己不怕孙悟空。两人由蟠桃园的树、御马监的马谈到「满天神佛有无灵性」，孙悟空提到师父教他「要升仙成佛，先得无欲无求」，但师父不许他提名字。紫霞依次排出如来、金蝉子、散仙菩提祖师三人，断言孙悟空之师必是菩提祖师，并推测菩提只教法术不领悟道故禁其提名。孙悟空否认此推测，说师父未教他「永不遁灭之道」，他未得真传，师父还说能教他的真师父在凡世。紫霞自陈没有家、是从西天的紫霞中化出来的；提出以后来找他玩，孙悟空拒绝并说会吃了她，紫霞一笑隐入白云离去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0063/index.json",
+              "record_id": "char-0063"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-15"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-22",
+          "claim-local-25",
+          "claim-local-27",
+          "claim-local-29"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23",
+          "claim-local-30"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "紫霞独自站在云层边缘自言自语，说天空是一片荒漠，天宫里精美的东西在成为天宫一部分时就已被剥夺了灵魂。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "这天空就是一片荒漠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "紫霞只在众神散去、无人时会独自说话，她说众神称她为「永远微笑的紫霞」，但她认为没有人会永远微笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "他们叫我‘永远微笑的紫霞’"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "紫霞的独白中还提到，若有人听她说话，不要像二郎神那样不耐烦地冷笑，也不要像天蓬那样语重心长地反驳。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "不要像二郎神那样不耐烦地冷笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "这天紫霞在天边站久后往回走，加快速度想回到落霞宫的炉火边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "想回到落霞宫那炉火边的梦里去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "这个夜里蟠桃园上空悬着几颗大星，园内很亮并传出女子哭声；叙述称星辰不能随便移动，紫霞因而疑惑是谁如此大胆。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "园子上空正悬着几颗大星"
+        },
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "星辰是不能随便移动的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "园中哭泣的女孩子是阿瑶，一只猴子围着她上蹿下跳。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "正是阿瑶，围着她上蹿下跳的那个东西"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "阿瑶哭着指控孙悟空吃光了她们采的桃子，还用定身法定住她，并说要到王母娘娘那里告他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "你吃光了我们的桃子，还用定身法定住人家"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空说自己只是跟阿瑶开玩笑，自称「俺老孙」不怕她去告，说自己已经很困、要关园子了，让她到园外去哭。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "麻烦看猴子的小朋友明天再来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空提议让阿瑶跟他回花果山，赔她十筐直至一千筐桃子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "你跟老孙回花果山，赔你十筐也有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "阿瑶说她不要凡间的破烂桃子，没采到蟠桃回去一定会被王母娘娘打死，随后放声大哭。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "我没采到蟠桃，回去一定被王母娘娘打死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空还反问阿瑶：王母打她，她不会咬王母吗。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "她打你，你不会咬她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "阿瑶问对方是谁，孙悟空自称「俺就是孙悟空」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "俺就是孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "阿瑶听到「孙悟空」之名后哭声立止、愣住，随后尖叫一声消失不见；孙悟空抱怨为什么所有人听了他的名字就跑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "然后尖叫一声没影了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "叙述称「孙悟空」之名是天界的噩梦，总与神妖连年战争中的血腥及天庭惨败相连；无人打败过他，交手后能活着回来的只有三太子等寥寥几个天界佼佼者。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "只有三太子那样的寥寥几个天界佼佼者而已"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "关于孙悟空的传说包括：他每天都吃一万人、他有一座山那样高大、他走过的地方没有东西能活下来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "传说他每天都吃一万人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "紫霞从林间走出，笑着对孙悟空说齐天大圣的威名谁能不知，并回答自己不怕他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "齐天大圣的威名，谁能不知啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空说他整天待在园子里种树，若天界神仙都像紫霞这样想，他就不用待在园子里种树了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "俺老孙也不用整天待在园子里种树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空说天上带灵气的东西不多，一是蟠桃园里的树，一是御马监的马，都该当作朋友看待。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "一是蟠桃园里的树，一是御马监的马"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空说「要升仙成佛，先得无欲无求」是师父对他说的，他自己认为那如同死人一般。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "要升仙成佛，先得无欲无求"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "紫霞问孙悟空师承，孙悟空说师父吩咐过不得提他名字。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "他老人家说了，不得提他名字"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "紫霞说当今三界功力法术最高者皆在天界，首推西方极乐世界的如来；第二是如来二弟子金蝉子，因质疑如来佛法、自行修炼欲超越如来，被如来施法致走火入魔、灵魂坠入尘世而不知所处。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "被如来施法使得其走火入魔，灵魂坠入尘世"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "紫霞说第三位是散仙菩提祖师，据说是金蝉子的师弟，因生性散漫好玩离了灵山、在海外隐居，收弟子只看资质不问品德，收得少、能出师的更少。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "因生性散漫好玩而离了灵山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "紫霞据上述三人推断，孙悟空之师必是菩提祖师。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "便是那散仙菩提祖师"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "孙悟空对紫霞的推断保持沉默，未出言否认。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "悟空沉默"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空之师为菩提祖师这一事实依据为：紫霞的推断、孙悟空的沉默，以及孙悟空随后以「师父说」叙述师门禁规。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "只因师父说"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "record_id": "claim-local-23"
+        },
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "record_id": "claim-local-24"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "紫霞长叹推测：菩提祖师教了孙悟空法术却不领他悟道，因道不可道、要他自己开悟，又怕他痴迷入歧途，才吩咐他不可说出名字。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "想必道不可道，是要你自行开悟才是"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "孙悟空否认紫霞的推测，说师父不许他报师门是因为他想学的「永不遁灭之道」师父并未教他、他未得真传；师父还说能教他的真师父便在凡世，叫他自去找。孙悟空自己认为是师父教不了才用这话哄他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "能教我的真师父便在凡世"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "孙悟空翻到另一棵树上，让紫霞快回家去，否则她父母要骂她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "猴子翻到另一棵树上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "紫霞说她没有家，是从西天的紫霞中化出来的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "我是从西天的紫霞中化出来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "孙悟空反问：没家、从石头里蹦出来，算不算了不起、是不是叛逆的借口。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "石头里蹦出来的了不起吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "紫霞提出以后来找孙悟空玩；孙悟空拒绝，说和女孩子没啥好玩、她来了他会吃了她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "我以后来找你玩，可好"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "紫霞一笑，隐在白云中离去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 19,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000019.txt",
+          "chapter_id": "ch-000019",
+          "chapter_order": 19,
+          "locator": null,
+          "anchor": "紫霞一笑，隐在白云中去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "金蝉子",
+      "introduced_at": 19,
+      "alias_texts": [
+        "如来的二弟子"
+      ],
+      "identity_notes": "仅在紫霞的讲述中出现（reported）：如来二弟子，质疑如来佛法、自行修炼欲超越如来，被如来施法致走火入魔，灵魂坠入尘世而不知所处。resolve_name 命中既有实体 char-0009，此处仅记录导航候选，不新建档案。",
+      "evidence_claim_local_ids": [
+        "claim-local-21"
+      ]
+    },
+    {
+      "label": "三太子",
+      "introduced_at": 19,
+      "alias_texts": [],
+      "identity_notes": "叙述提及（第19章）：与孙悟空交手后能活着回来的寥寥几个天界佼佼者之一。resolve_name 命中既有实体 char-0065。",
+      "evidence_claim_local_ids": [
+        "claim-local-14"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "落霞宫",
+      "category": "place",
+      "introduced_at": 19,
+      "notes": "紫霞的居处，文中提到其中有炉火。若有既有档案应合并而非新建。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-4"
+      ]
+    },
+    {
+      "label": "蟠桃园",
+      "category": "place",
+      "introduced_at": 19,
+      "notes": "天界桃园，园中树被孙悟空视为有灵气之物；孙悟空夜间在此看园、种树、关园子。可能已有既有档案，需合并。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-18"
+      ]
+    },
+    {
+      "label": "御马监",
+      "category": "place",
+      "introduced_at": 19,
+      "notes": "孙悟空提到的天界马厩，称其中马匹与蟠桃园之树为天上少数有灵气之物。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-18"
+      ]
+    },
+    {
+      "label": "西天的紫霞",
+      "category": "unknown",
+      "introduced_at": 19,
+      "notes": "紫霞自称「我是从西天的紫霞中化出来的」，指向其来历设定，性质未明。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-29"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "note": "初见与交谈"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞在蟠桃园目睹孙悟空欺压阿瑶后主动走出与他交谈，表明自己不怕他；两人谈树、谈马、谈修行与师承。紫霞提出以后来找他玩，孙悟空口头拒绝并说会吃了她，紫霞笑着离去。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-31",
+        "claim-local-32"
+      ],
+      "notes": "仅记录互动事实，不作关系性质定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "单方施压/指控"
+      },
+      "certainty": "explicit",
+      "summary": "阿瑶指控孙悟空吃光她们采的桃子并用定身法定住她，扬言去王母处告状；孙悟空称只是开玩笑，提出带她回花果山赔桃，最后自报姓名，阿瑶尖叫逃走。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "冲突事实均有原文支持；「吃桃」「定身」来自阿瑶指控（reported）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0063/index.json",
+        "record_id": "char-0063"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "师徒（经推断）"
+      },
+      "certainty": "inferred",
+      "summary": "孙悟空以「师父」称菩提祖师风格的师门禁规：师父曾告知「要升仙成佛，先得无欲无求」，并禁止他提师父名字；孙悟空称师父未教他「永不遁灭之道」故不许他自称徒弟，还说真师父在凡世。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-23",
+        "claim-local-25",
+        "claim-local-27"
+      ],
+      "notes": "菩提祖师为孙悟空之师系推断（紫霞推断+悟空沉默+其「师父说」叙述），本章未由悟空明言师名。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "subject_b": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "facet": {
+        "type": "membership",
+        "note": "下属/受罚关系（据阿瑶自述）"
+      },
+      "certainty": "reported",
+      "summary": "阿瑶称若没采到蟠桃回去一定会被王母娘娘打死，并扬言要去王母处告孙悟空。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-10"
+      ],
+      "notes": "全部依据阿瑶本人说法。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "identity",
+      "status": "open",
+      "role": "new",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0063/index.json",
+          "record_id": "char-0063"
+        }
+      ],
+      "summary": "孙悟空师承：紫霞推断其师为散仙菩提祖师，孙悟空沉默未否；但悟空说师父未教他「永不遁灭之道」、自己未得真传，并称能教他的真师父在凡世——真师父身份未明。",
+      "source_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-27"
+      ],
+      "notes": "可作为 stage-003 的主线谜题之一。"
+    },
+    {
+      "category": "conflict",
+      "status": "open",
+      "role": "new",
+      "subject_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "summary": "阿瑶被孙悟空吃桃、定身，哭着要去王母娘娘处告状，本章未演出告状结果。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-10"
+      ],
+      "notes": "悬念：告状是否发生、王母是否处置阿瑶。"
+    },
+    {
+      "category": "world_rule",
+      "status": "open",
+      "role": "new",
+      "subject_refs": [],
+      "summary": "叙述提出星辰不可随便移动；蟠桃园夜里有大星悬于园上，紫霞疑惑谁如此大胆——移动星辰者身份本章未交代。",
+      "source_claim_local_ids": [
+        "claim-local-5"
+      ],
+      "notes": "悬念：星辰异常与移动者。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第19章：前因（原文标题作「．」，首段标「前因」）",
+    "front_matter": {
+      "as_of": 19,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0063/index.json",
+          "record_id": "char-0063"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-32"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章节首段标为「前因」。开场是紫霞独自站在云层边缘的自言自语：天空如荒漠，天宫的华美之物在成为天宫一部分时就被剥夺了灵魂（[[claim-local-1]]）；她说众神称她「永远微笑的紫霞」，但无人会永远微笑（[[claim-local-2]]），并提到若有人听她说话，不要像二郎神那样冷笑、不要像天蓬那样反驳（[[claim-local-3]]）。叙述明确她只在众神散去、无人理会她时才独自说话。\n\n这天她在天边站久后往回赶，想回落霞宫的炉火边（[[claim-local-4]]）。\n\n## 关键行动\n\n途经蟠桃园时，园中反常明亮：上空悬着几颗大星，园里有女子哭声；叙述称星辰不能随便移动，紫霞疑惑谁这么大胆（[[claim-local-5]]）。哭泣者是阿瑶，一只猴子围着她上蹿下跳（[[claim-local-6]]）。\n\n阿瑶指控对方吃光了她们采的桃子、还用定身法定住她，扬言去王母娘娘处告状（[[claim-local-7]]）；孙悟空自称「俺老孙」，说只是开玩笑，不怕她告，称自己困了要关园子（[[claim-local-8]]），提议带她回花果山赔她十筐乃至更多桃子（[[claim-local-9]]）；阿瑶拒绝凡间桃子，说没采到蟠桃回去定被王母打死（[[claim-local-10]]）；孙悟空反问「她打你，你不会咬她」（[[claim-local-11]]）。阿瑶问他是谁，孙悟空自报「俺就是孙悟空」（[[claim-local-12]]），阿瑶当即愣住，随后尖叫消失，孙悟空抱怨所有人听名就跑（[[claim-local-13]]）。\n\n## 转折与新信息\n\n叙述补出孙悟空在天界的名声：其名是天界噩梦，与神妖战争的血腥和天庭惨败相连；无人打败过他，交手中能活着回来的只有三太子等寥寥几个（[[claim-local-14]]）；传说他每日吃一万人、有山那样高大、走过之处无物能活（[[claim-local-15]]）。\n\n紫霞从林间走出，笑称齐天大圣威名无人不知，并说自己不怕他（[[claim-local-16]]）。谈话信息量大：孙悟空自述整天在园子里种树（[[claim-local-17]]），说天上带灵气者只有蟠桃园的树与御马监的马，该作朋友看待（[[claim-local-18]]）；并引师父的话「要升仙成佛，先得无欲无求」，自评那如死人一般（[[claim-local-19]]），且师父不许他提名字（[[claim-local-20]]）。\n\n紫霞由此排出三界功力前三：首推如来；次为如来二弟子金蝉子，因质疑如来佛法、自立修法欲超越如来，被如来施法致走火入魔、灵魂坠入尘世（[[claim-local-21]]）；第三为散仙菩提祖师，金蝉子师弟，离灵山隐居海外，收徒只看资质不问品德（[[claim-local-22]]）。她据此断定孙悟空之师必是菩提祖师（[[claim-local-23]]）；悟空沉默（[[claim-local-24]]），由此可推断其师承（[[claim-local-25]]）。紫霞再推测菩提只教法术不领悟道，故禁他提名（[[claim-local-26]]）。\n\n## 本章结果\n\n孙悟空否认紫霞的后半推测：师父不让他报师门，是因为他想学的「永不遁灭之道」师父并未教他、他未得真传；师父还说能教他的真师父在凡世，让他自去找——悟空自己认为那是师父教不了才拿来哄他的说法（[[claim-local-27]]）。随后他翻到另一棵树上，赶紫霞回家（[[claim-local-28]]）。\n\n紫霞说她没有家，是从西天的紫霞中化出来的（[[claim-local-29]]）；悟空反问没家、石头里蹦出来是否就算了不起、是否是叛逆的借口（[[claim-local-30]]）。紫霞提出以后来找他玩（[[claim-local-31]]），悟空口头拒绝并说「你来这儿，我会吃了你」，紫霞一笑隐入白云离去（[[claim-local-32]]）。\n\n本章两起核心事件为：蟠桃园中孙悟空与阿瑶的冲突（[[ev-local-1]]）、紫霞与孙悟空的首次长谈及师承推断（[[ev-local-2]]）。\n\n## 未决问题与补读入口\n\n- 阿瑶扬言去王母处告状，本章未写告状是否发生、王母如何处置（依据 [[claim-local-7]]、[[claim-local-10]]）。\n- 悟空真正的「真师父在凡世」指谁，本章只有其本人转述，未点明（[[claim-local-27]]）。\n- 蟠桃园上空大星被人移动、是谁所为，本章仅有紫霞的疑问（[[claim-local-5]]）。\n- 本章题为「前因」，与第18章开篇「五百年后」的时间关系未在正文交代，涉及读取顺序问题的补读入口见 issue 记录。\n- 下一章开头（第20章）孙悟空仍在蟠桃园树上睡不着、翻出园外见紫霞在云边出神，可与本章结尾直接衔接。"
+  },
+  "stage_buffer_appends": [
+    {
+      "buffer_kind": "key_event",
+      "local_ref": "ev-local-2",
+      "chapter_order": 19,
+      "note": "紫霞与孙悟空首次长谈；师承线开启"
+    },
+    {
+      "buffer_kind": "key_claim",
+      "local_ref": "claim-local-23",
+      "chapter_order": 19,
+      "note": "紫霞点出孙悟空之师为菩提祖师（reported，需与 claim-local-25 一并看）"
+    },
+    {
+      "buffer_kind": "key_claim",
+      "local_ref": "claim-local-27",
+      "chapter_order": 19,
+      "note": "悟空自述未得真传、真师父在凡世——本 stage 主线悬念"
+    },
+    {
+      "buffer_kind": "key_claim",
+      "local_ref": "claim-local-21",
+      "chapter_order": 19,
+      "note": "金蝉子的来历（如来二弟子、走火入魔、灵魂坠入尘世）为后续身份线提供 reported 依据"
+    },
+    {
+      "buffer_kind": "character_turn",
+      "local_ref": "claim-local-16",
+      "chapter_order": 19,
+      "note": "紫霞主动接近孙悟空并表明不怕他；众神避之而她不避"
+    },
+    {
+      "buffer_kind": "faction_move",
+      "local_ref": "claim-local-7",
+      "chapter_order": 19,
+      "note": "阿瑶扬言向王母告状，天庭内部告发线埋点"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章元信息标题为「．」（空标题），首段「前因」疑为小标题或章节题名被误切。",
+      "evidence": "read_source 返回头部：ch-000019 | 标题:．；正文第 1 段为「前因」",
+      "suggested_action": "核对 source-v1 第19章标题字段与第1段归属"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "第18章开篇标「五百年后」，第19章却标「前因」，正文未说明本章是否为倒叙/回溯，时间关系缺乏依据。",
+      "evidence": "第18章开头「五百年后 孙悟空一个筋斗来到了天庭」；第19章首段「前因」",
+      "suggested_action": "补读第17—18章确认时间线，或在叙事层元数据标注倒叙标记"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "菩提祖师与孙悟空为师徒关系系推断成立（紫霞推断+悟空沉默+其「师父说」），正文未由悟空明言师名，建议保持 inferred 直至后文明确。",
+      "evidence": "claim-local-23、claim-local-24、claim-local-27",
+      "suggested_action": "在后续章节出现明确师徒叙述时补正 certainty"
+    }
+  ],
+  "warnings": [
+    "本章原文标题字段为「．」，摘要标题按首段「前因」拟定，可能与源数据标题不一致。",
+    "孙悟空与菩提祖师的师徒关系在本章只有推断与间接自述支持，已全部按 reported/inferred 记录，未使用后文知识补全。",
+    "阿瑶「吃桃被定身」「将被王母打死」等情节均出自其本人指控或自述，已标 reported；叙述层仅确认她在园中哭泣、被猴子围着、闻孙悟空之名后逃走。",
+    "resolve_name 显示菩提祖师(char-0063)、二郎神(char-0064)、三太子(char-0065) 已由其他批次建档，本次未重复新建角色档案，仅在 new_character_candidates 中保留导航记录。"
+  ]
+}

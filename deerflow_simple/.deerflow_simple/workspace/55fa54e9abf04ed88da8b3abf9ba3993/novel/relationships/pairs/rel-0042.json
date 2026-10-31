@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0042",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 26,
+  "introduced_at": 19,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0023/index.json",
+      "record_id": "char-0023"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0042-stage-003",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "as_of": 26,
+      "revealed_at": 26,
+      "summary": "羁绊（相识—倾心—立场分裂）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "双方均主动长谈",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "紫霞一方明示喜欢（对话口述）",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "第23章起公开对立",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "拒收示好物、不作情感回应",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

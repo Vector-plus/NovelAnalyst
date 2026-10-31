@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0062",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 52,
+  "introduced_at": 52,
+  "subjects": [
+    {
+      "path": "characters/char-0137/index.json",
+      "record_id": "char-0137"
+    },
+    {
+      "path": "characters/char-0142/index.json",
+      "record_id": "char-0142"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0062-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "as_of": 52,
+      "revealed_at": 52,
+      "summary": "众猴在潭边以“谁能进水帘再出来就服他”叫阵，彼此推搡嬉闹散去；石头独自站着，没有猴来问他敢不敢。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "众猴在潭边以“谁能进水帘再出来就服他”叫阵，彼此推搡嬉闹散去；石头独自站着，没有猴来问他敢不敢。",
+          "basis_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2123"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2126"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

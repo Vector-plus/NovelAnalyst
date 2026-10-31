@@ -1,0 +1,75 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-001.md",
+          "record_id": "doc-arc-001"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 3,
+      "summary": "从饥饿之国到北京：被召集的西亚代表团（第3章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-001.md",
+        "record_id": "doc-arc-001"
+      },
+      "title": "从饥饿之国到北京：被召集的西亚代表团"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-002.md",
+          "record_id": "doc-arc-002"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第7章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-002.md",
+        "record_id": "doc-arc-002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "idx-plot",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 3,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 3,
+        "start": 3
+      },
+      {
+        "end": 7,
+        "start": 7
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "章节剧情"
+}

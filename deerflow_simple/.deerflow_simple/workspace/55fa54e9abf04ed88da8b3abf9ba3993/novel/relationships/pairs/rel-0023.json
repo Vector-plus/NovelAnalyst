@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0023",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 11,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0029/index.json",
+      "record_id": "char-0029"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0023-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "as_of": 11,
+      "revealed_at": 11,
+      "summary": "幽冥王在孙悟空离开后庆幸并讥笑他；孙悟空随即现身质问，抓住其手腕将他掷飞撞上陷空山。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "hostility",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "幽冥王在孙悟空离开后庆幸并讥笑他；孙悟空随即现身质问，抓住其手腕将他掷飞撞上陷空山。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0227"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0230"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0233"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0234"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

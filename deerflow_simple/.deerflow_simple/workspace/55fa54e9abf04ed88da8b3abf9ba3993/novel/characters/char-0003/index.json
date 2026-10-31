@@ -1,0 +1,132 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0003",
+  "kind": "entity_index",
+  "revision": 7,
+  "safe_through": 67,
+  "entity_type": "character",
+  "label": "猪八戒",
+  "introduced_at": 1,
+  "identity_notes": [
+    {
+      "id": "in-char-0003-001",
+      "revealed_at": 1,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0006"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0008"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0003/stages/stage-001.md",
+        "record_id": "doc-char-0003-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0003/stages/stage-004.md",
+        "record_id": "doc-char-0003-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "五百年后的同行者与被唤作天蓬的人",
+      "summary": "五百年后的同行者与被唤作天蓬的人（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "characters/char-0003/stages/stage-006.md",
+        "record_id": "doc-char-0003-stage-006"
+      },
+      "kind": "character_stage",
+      "title": "西行途中·界限：醉闹者与「那一天」的听者",
+      "summary": "西行途中·界限：醉闹者与「那一天」的听者（第56—60章）",
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "characters/char-0003/stages/stage-007.md",
+        "record_id": "doc-char-0003-stage-007"
+      },
+      "kind": "character_stage",
+      "title": "拒受点拨、识破幻象：说出「记着」代价的人",
+      "summary": "拒受点拨、识破幻象：说出「记着」代价的人（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0160",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 66,
+  "entity_type": "character",
+  "label": "老方丈",
+  "introduced_at": 66,
+  "identity_notes": [
+    {
+      "id": "in-char-0160-001",
+      "revealed_at": 66,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2506"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2507"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2508"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2509"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

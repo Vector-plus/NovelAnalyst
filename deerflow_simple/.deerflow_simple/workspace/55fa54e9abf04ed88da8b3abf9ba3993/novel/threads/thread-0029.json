@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0029",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "花果山现状与旧部反叛天廷",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0029-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "plot_thread",
+      "status": "ongoing",
+      "role": "setup",
+      "summary": "头颅称花果山如今是监狱、天神不容许那儿长草，其同类仍在与天兵作战，孙悟空此前以为已谈和。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0768"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0769"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0771"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

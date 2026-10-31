@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 4
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第4—7章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0002/stages/stage-002.md",
+        "record_id": "doc-emo-0002-stage-002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "emo-0002",
+  "introduced_at": 4,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 7,
+  "schema_version": "2.0"
+}

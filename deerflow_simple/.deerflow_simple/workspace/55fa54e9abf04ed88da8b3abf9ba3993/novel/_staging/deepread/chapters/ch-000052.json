@@ -1,0 +1,1068 @@
+{
+  "chapter_order": 52,
+  "chapter_id": "ch-000052",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "春天候鸟归乡，松鼠与小鸟阿笨初识",
+      "introduced_at": 52,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 52,
+            "end": 52
+          }
+        ],
+        "revealed_at": 52,
+        "status": "completed",
+        "story_time": "春天",
+        "summary": "春天，成千上万只背蓝腹白的宽翼大鸟落在大青树上。一只大鸟自称这里是它们的家，并把躲在身后的小鸟阿笨推出来介绍给松鼠。松鼠称赞阿笨帅气，阿笨则说自己比父母长得丑。石头在旁看着，显得有些忧郁。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "松鼠（char-0112）",
+              "role": "participant"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "阿笨"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "大鸟"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石头"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-8"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "众猴在潭边叫阵，是石头敢跳进水帘",
+      "introduced_at": 52,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 52,
+            "end": 52
+          }
+        ],
+        "revealed_at": 52,
+        "status": "completed",
+        "story_time": "白天（春季某日）",
+        "summary": "众猴在潭边叫阵：谁能进水帘再出来，大家就服他。一只猴蹦出去假跳了一下便折回，众猴嬉笑推搡散去。一个微弱的声音说“我”，但没人听见。石头独自站着，没有猴子来问他敢不敢，他仰头看着潭那头巨声吼叫的水帘。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石头"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "众猴"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "石头夜里独跳水帘失败，与松鼠月下夜谈",
+      "introduced_at": 52,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 52,
+            "end": 52
+          }
+        ],
+        "revealed_at": 52,
+        "status": "ongoing",
+        "story_time": "同一夜（春季）",
+        "summary": "入夜后石头独自来到潭边，两次跳向水帘都落在离水帘很远处，淹得半死才爬上来，跪在潭边说“我做不到”。暗处有个声音回应“这个世界有很多事本是做不到的啊”。松鼠从树上跳下来，与他谈起跳瀑布和“做到”的意义。石头说出自己的疑问：看得见摸不到的东西能否触摸，永远不可到达的地方是否还存在。松鼠举起小爪说月亮正握着她的手，石头看见她掌上的蓝色月光而怔住。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石头"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "未明身份的说话者"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-20",
+          "claim-local-24"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-25"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "春天，成千上万只背上有大海之蓝、腹上有云之白的宽翼大鸟落在大青树上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "春天是“扑啦啦”拍动翅膀的声音"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "一只翅膀展开如云彩的大鸟对松鼠说“这是我们的家”，并说自己也没见过松鼠这个小家伙。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "大鸟"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "这是我们的家啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "大鸟把躲在身后的小鸟推出来，向松鼠介绍他叫阿笨，是今年才生的，第一次回老家，怕生。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "大鸟"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "他叫阿笨，也是今年才生的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "松鼠对阿笨说“你好帅啊”，并说“你好漂亮”这个说法是布袋熊他们教给她的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "这是布袋熊他们说我的词"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "阿笨自称比爸爸妈妈长得丑，没有他们那么大的翅膀和那么漂亮的羽毛，为此难过了好几次。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "阿笨"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "可是我比我爸爸妈妈长得都丑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "松鼠对阿笨说他会长大，会长成这里最大最漂亮的鸟。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "你会长成这里最大最漂亮的鸟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "阿笨听后在旁拍着翅膀大叫“我会长大的”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "石头坐在一边看着候鸟与松鼠的互动，显得好像有些忧郁。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "石头也坐在一边看着，不知为什么好像有些忧郁"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "anchor": "石头也坐在一边看着"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "众猴在潭边叫道：谁能进那水帘里再出来，我们就服了他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "众猴"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "谁能进去了再出来，我们就服了他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "一只猴蹦出来，到了潭边只做个跳的样子就嬉笑着折回来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "可刚到潭边做个跳的样子就嬉笑着折回来了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "有一个微弱的声音说“我”，但众猴跳闹推搡四下散开，没人听见这声音。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "没人听见这声音"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "石头独自站在那儿，没有猴来问他敢不敢；他仰头看着潭那头巨声吼叫的水帘，风起时水雾扑面。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "没有猴来问他敢不敢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "入夜后，一个小小身影来到潭边，看了瀑布很久，忽然跳出去，落在离水帘老远的地方，淹得半死才爬上来；他又看了很久，第二次跳出，结果一样，扑腾更久才爬上来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "一个小小的身影来到了潭边"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "那身影跪在潭边，看着水从头上滴落打湿石面，说“我做不到”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "我做不到"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "暗处有一个声音说“这个世界有很多事本是做不到的啊”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "未明身份的说话者"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "这个世界有很多事本是做不到的啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "石头四下张望并抬头，问是不是月亮在说话。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "月亮，是你么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "松鼠从树上跳下来，来到月光下的大石潭边，把大尾巴抱贴在脸边，说“笨猴”，并问自己长得像不像月亮。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "松鼠从树上跳了下来，来到月光下的大石潭边"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "石头回答松鼠：自己不是为吃的，只是想知道自己能不能做到。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "只是想知道自己能不能做到"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "石头说“做到了，就快乐”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "做到了，就快乐"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "松鼠说“那世上有那么多不能做到的事”，问石头岂不是总是不能快乐。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "那世上有那么多不能做到的事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "石头说：世上有太阳、月亮、远山、云彩这些看得到摸不到的东西，如果触摸不到，怎么知道它们是不是真的在那里。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "我怎么知道它们是不是真的在那里呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "石头说：如果一个地方是永远不可到达的，那个地方还存在么；一想到世上有永远不可能碰到的东西、永远不可能做到的事，他就悲伤。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "如果一个地方是永远不可到达的，那个地方还存在么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "松鼠回应“可以啊，可以触到啊”，懒洋洋地举起小爪说月亮正握着她的手。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "现在月亮不正在握着我的手么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "猴子回头，看见松鼠掌上的蓝色月光仿佛在那小小掌心流动，怔住了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "看见松鼠掌上的蓝色月光"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "松鼠问石头跳潭是不是在学游泳，并说觉得他“好奇怪”，问瀑布里有没有吃的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 52,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000052.txt",
+          "chapter_id": "ch-000052",
+          "chapter_order": 52,
+          "locator": null,
+          "anchor": "你为什么要往潭里跳啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "石头",
+      "introduced_at": 52,
+      "alias_texts": [
+        "猴子",
+        "小小的身影",
+        "小家伙"
+      ],
+      "identity_notes": "花果山的猴子，文中以“石头”称呼，亦被松鼠唤作“笨猴”。本章夜里独跳水帘瀑布两次皆落水，并说出关于“能否触到看得到摸不到之物”的疑问。是否即 stage-plan 中 50~55 章的“石猴”，本章未明示，未与 char-0067 合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-24"
+      ]
+    },
+    {
+      "label": "阿笨",
+      "introduced_at": 52,
+      "alias_texts": [
+        "傻小鸟",
+        "小鸟"
+      ],
+      "identity_notes": "今年才生的宽翼大鸟幼鸟，第一次随群回老家（大青树），被大鸟从身后推出来介绍给松鼠；自称比爸爸妈妈长得丑。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-7"
+      ]
+    },
+    {
+      "label": "大鸟",
+      "introduced_at": 52,
+      "alias_texts": [
+        "一只大鸟"
+      ],
+      "identity_notes": "春天落在大青树上的宽翼候鸟之一，翅膀展开像一片云彩，自称这里是它们的家；把阿笨推出来向松鼠介绍。原文称其为“她”，未明示其与阿笨的血缘关系。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ]
+    },
+    {
+      "label": "未明身份的说话者",
+      "introduced_at": 52,
+      "alias_texts": [
+        "有声音"
+      ],
+      "identity_notes": "石头跪在潭边说“我做不到”后，暗处有人回应“这个世界有很多事本是做不到的啊”，随即松鼠从树上跳下。该声音在原文中未被指明说话者（石头先误以为是月亮）。",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    },
+    {
+      "label": "众猴",
+      "introduced_at": 52,
+      "alias_texts": [
+        "众猴",
+        "猴"
+      ],
+      "identity_notes": "花果山的一群猴子，本章白天在潭边叫阵要求谁进水帘再出来，随后嬉笑推搡散去。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "花果山众猴",
+      "introduced_at": 52,
+      "notes": "本章出现的猴群集体：在潭边以“谁能进水帘再出来就服他”为约定叫阵，互相推搡嬉闹，无人真正下水，也无人邀石头参与。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "花果山潭与水帘瀑布",
+      "category": "place",
+      "introduced_at": 52,
+      "notes": "潭那头有巨声吼叫的水帘（瀑布），风起时水雾扑面令人透不过气；夜里水帘轰鸣，把潭中月影击成银屑迸起。众猴以“进水帘再出来”为试胆之约，石头独自反复尝试跳入而未能靠近。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-13"
+      ]
+    },
+    {
+      "label": "大青树（候鸟归乡所在）",
+      "category": "place",
+      "introduced_at": 52,
+      "notes": "春天成千上万只宽翼大鸟落脚的大树，被大鸟称为“我们的家”；松鼠在树上把“好漂亮”的说法转述给阿笨。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "石头"
+      },
+      "candidate_b": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "status": "uncertain",
+      "reason": "第52章正文以“石头”“猴子”称呼这只猴，并在同章出现“石猴”所属的 50~55 章名词；但本章未出现“石猴”这一称呼，也无明确的身份等同叙述。为遵守身份谨慎原则未合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-24"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "未明身份的说话者"
+      },
+      "candidate_b": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "status": "uncertain",
+      "reason": "暗处那句“这个世界有很多事本是做不到的啊”之后松鼠立刻从树上跳下，但原文未说明该声音来自松鼠，石头当时以为是月亮。",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "阿笨"
+      },
+      "facet": {
+        "type": "friendship",
+        "notes": "初识/友善互动"
+      },
+      "certainty": "explicit",
+      "summary": "松鼠称阿笨“你好帅啊”，并把“你好漂亮”这个说法送给他；又对阿笨说他会长大，长成这里最大最漂亮的鸟。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-6"
+      ],
+      "notes": "阿笨为本章新候选人，尚未建档。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "石头"
+      },
+      "subject_b": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "facet": {
+        "type": "friendship",
+        "notes": "夜间交谈、松鼠以自身体验回应石头的疑问"
+      },
+      "certainty": "explicit",
+      "summary": "石头夜里独自尝试跳水帘失败后，松鼠从树上跳下来与他对话：石头说想跳进瀑布是为知道自己能不能做到，松鼠反问“做不到的事那么多你岂不总不快乐”，最后举起小爪说月亮正握着她的手，石头看着她掌上的蓝色月光怔住。",
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-20",
+        "claim-local-23",
+        "claim-local-24"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "candidate_name": "大鸟"
+      },
+      "subject_b": {
+        "candidate_name": "阿笨"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同群归乡；大鸟把阿笨推出介绍给松鼠"
+      },
+      "certainty": "explicit",
+      "summary": "大鸟把躲在身后的小鸟阿笨推出来，向松鼠介绍他叫阿笨、今年才生、第一次回老家、怕生。原文未明示二者血缘关系。",
+      "source_claim_local_ids": [
+        "claim-local-3"
+      ],
+      "notes": "血缘关系不明，未作 kinship 定性。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "众猴"
+      },
+      "subject_b": {
+        "candidate_name": "石头"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "众猴叫阵试胆，未邀请石头"
+      },
+      "certainty": "explicit",
+      "summary": "众猴在潭边以“谁能进水帘再出来就服他”叫阵，彼此推搡嬉闹散去；石头独自站着，没有猴来问他敢不敢。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "plot_thread",
+      "status": "open",
+      "role": "advance",
+      "subject": {
+        "candidate_name": "石头"
+      },
+      "summary": "石头执意要跳进水帘（瀑布）里，反复尝试失败，动机是“想知道自己能不能做到”而非求食，并由此提出“触摸不到的东西是否真的存在”的疑问。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-22"
+      ],
+      "notes": "与 stage-005 “石猴出海/众生之问”主题连贯。"
+    },
+    {
+      "category": "plot_thread",
+      "status": "open",
+      "role": "advance",
+      "subject": {
+        "candidate_name": "未明身份的说话者"
+      },
+      "summary": "石头独自说出“我做不到”后，暗处一个未被指明的声音回应“这个世界有很多事本是做不到的啊”，说话者身份在本章未揭示。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": ""
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第52章：春天·阿笨与月下的潭边",
+    "front_matter": {
+      "as_of": 52,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "石头"
+        },
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "candidate_name": "阿笨"
+        },
+        {
+          "candidate_name": "大鸟"
+        },
+        {
+          "candidate_name": "众猴"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-18",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24"
+      ]
+    },
+    "body_markdown": "## 开始局面\n春天到来，成千上万只背蓝腹白的宽翼大鸟落在大青树上，松鼠在树上与它们打招呼（[[claim-local-1]]）。一只翅膀展开如云彩的大鸟称“这是我们的家”，并说自己也没见过松鼠。随后大鸟把躲在身后的小鸟推出来介绍：他叫阿笨，今年才生，第一次回老家，怕生（[[claim-local-3]]）。\n\n## 关键行动\n- 松鼠称赞阿笨“你好帅啊”，并说“你好漂亮”这个说法是布袋熊他们教给她的。\n- 阿笨自称比爸爸妈妈长得丑，没有他们那么大的翅膀和漂亮的羽毛，为此难过过好几次（[[claim-local-5]]）；松鼠说他会长成这里最大最漂亮的鸟，阿笨拍翅大叫“我会长大的”。\n- 石头坐在一边看着，显得有些忧郁。\n- 众猴在潭边叫阵：谁能进那水帘里再出来，大家就服他（[[claim-local-9]]）。一只猴只做了个跳的样子便折回，众猴嬉笑推搡散去；有个微弱的声音说“我”，但没人听见。石头独自站着，没有猴来问他敢不敢（[[claim-local-12]]）。\n\n## 转折与新信息\n入夜后，一个小小的身影来到潭边，两次跳向水帘都落在很远的水面，淹得半死才爬上来（[[claim-local-13]]）。他跪在潭边说“我做不到”（[[claim-local-14]]），暗处有个声音回应“这个世界有很多事本是做不到的啊”（[[claim-local-15]]）——该说话者身份原文未指明，石头先误以为是月亮。\n\n松鼠从树上跳下来，在月下的大石潭边与石头对话。石头说跳瀑布不为吃的，只是想知道自己能不能做到，做到了就快乐（[[claim-local-18]]）；松鼠反问世上做不到的事那么多，他岂不总是不能快乐。石头接着说：太阳、月亮、远山、云彩看得到却触摸不到，若触摸不到又怎么知道它们真的在那里；若一个地方永远不可到达，那个地方是否还存在——想到这些他就悲伤（[[claim-local-22]]）。\n\n## 本章结果\n松鼠回应“可以啊，可以触到啊”，举起小爪说月亮正握着她的手（[[claim-local-23]]）。猴子回头，看见松鼠掌上的蓝色月光仿佛在掌心流动，怔住了（[[claim-local-24]]）。石头仍未进入水帘，夜间尝试以失败告终。\n\n## 未决问题与补读入口\n- 暗处那个回应“很多事本是做不到的”的声音是谁？石头以为是月亮，原文未给出答案。\n- 石头与阿笨是否会继续往来、候鸟是否会离开大青树，本章无交代。\n- 石头“想知道自己能不能做到”的执念是否会驱动他真正闯入水帘，需看后续章节。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "note": "石头夜跳水帘失败 + 与松鼠关于“可及与不可及”的对话，是 stage-005 “众生之问/石猴出海”主题的核心情节"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-22",
+      "note": "石头关于“永远不可到达之处是否存在”的疑问，日后转变的关键动机陈述"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-24",
+      "note": "松鼠掌上蓝色月光，石头“怔住”——对“触摸”问题的具象回应"
+    },
+    {
+      "kind": "character",
+      "candidate_name": "石头",
+      "note": "本章唯一行动主体，与 char-0067“石猴”疑似同一但当章未明示，待后续确认"
+    },
+    {
+      "kind": "faction",
+      "candidate_name": "花果山众猴",
+      "note": "以“进水帘再出来”为试胆约定的猴群集体，排除石头在外"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "暗处回应“这个世界有很多事本是做不到的啊”的说话者未被指明（石头误以为月亮），下一段松鼠随即从树上跳下，但原文未确认二者同一。",
+      "related_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章“石头/猴子”与 stage-plan 中 50~55 章的“石猴”（char-0067）疑似同一实体，但本章未出现“石猴”称呼，未合并，待确认。",
+      "related_local_ids": [
+        "claim-local-13",
+        "claim-local-24"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章原文第 29 段附近含排版噪声（“0pt笨猴□松鼠从树上跳了下来”），已以“松鼠从树上跳了下来，来到月光下的大石潭边”作锚点，仍建议校对源文。",
+      "related_local_ids": [
+        "claim-local-17"
+      ]
+    }
+  ],
+  "warnings": [
+    "“石头”未解析到唯一实体（resolve_name 返回 no_match），已作为新角色候选登记，并按身份谨慎原则未与 char-0067“石猴”合并。",
+    "“阿笨”“大鸟”“众猴”“未明身份的说话者”均为临时候选，尚无实体档案。",
+    "为避免越界定性，大鸟与阿笨未标注为 kinship，仅记录“把阿笨推出来介绍”的互动事实。",
+    "本章原文存在轻微排版噪声，已在 issue_candidates 中登记 source_locator。"
+  ]
+}

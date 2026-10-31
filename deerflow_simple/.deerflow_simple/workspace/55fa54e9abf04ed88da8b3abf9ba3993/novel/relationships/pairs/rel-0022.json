@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0022",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 11,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0027/index.json",
+      "record_id": "char-0027"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0022-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "as_of": 11,
+      "revealed_at": 11,
+      "summary": "判官先为孙悟空引路、讲解地府与生死簿旧事，并把他带到地府深处悬崖；其后在孙悟空离开后与幽冥王一同讥笑他像被驯服的狗。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "判官先为孙悟空引路、讲解地府与生死簿旧事，并把他带到地府深处悬崖；其后在孙悟空离开后与幽冥王一同讥笑他像被驯服的狗。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0212"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0220"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0224"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0225"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0230"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

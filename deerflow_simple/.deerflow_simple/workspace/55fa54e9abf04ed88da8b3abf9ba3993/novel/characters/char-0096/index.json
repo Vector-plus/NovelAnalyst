@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0096",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 30,
+  "entity_type": "character",
+  "label": "太白金星",
+  "introduced_at": 30,
+  "identity_notes": [
+    {
+      "id": "in-char-0096-001",
+      "revealed_at": 30,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1642"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1643"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1644"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1645"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1646"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1653"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

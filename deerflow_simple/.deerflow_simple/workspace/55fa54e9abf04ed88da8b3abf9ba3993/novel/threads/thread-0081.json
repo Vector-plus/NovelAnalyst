@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0081",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 36,
+  "label": "天降赤红火光与飞雪、妖精嘶号",
+  "introduced_at": 36,
+  "updates": [
+    {
+      "id": "update-thread-0081-001",
+      "revealed_at": 36,
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "category": "world_event",
+      "status": "active",
+      "role": "advance",
+      "summary": "万灵之森上空东面一片赤红如血，满空火光却有雪飘落，林中妖精齐声嘶号；猪八戒称这样的场面只在五百年前见过一次。与天囚塔锁链颤动同处一章。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1755"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1756"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1757"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1758"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,1667 @@
+{
+  "chapter_order": 41,
+  "chapter_id": "ch-000041",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空入洞后失去身体与法力，坠入无边黑暗",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空进入洞中后感觉不到自己的身体、也用不出法力，触觉无边伸展只触到虚无。一个像松鼠的声音传来，喊他一定要回来，并在他的思想中追问“你说你是谁”，他答不出，一路向黑暗深处坠落到感觉完全消失。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "石猴到菩提祖师处求道，被棒槌击头三下并跪守寺门外",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空在异境中看见与自己相像、只系草编腰裙的赤足猴子。该猴寻菩提祖师拜师，先遇会说话的酒壶，酒壶唱歌后化为大肚胖熊、天上大嘴，最后成白发童颜的黄衣老者；老者自夸只有这猴子没被吓跑还笑逐颜开，猴子叩拜。老者问其姓氏父母，猴子自称“无性”、无父母、石中生，并拒学参禅打坐诵经念佛，说出“我有一个梦”的一段话。老者称教不了他，转身化为棒槌在他头上击三下，棒槌生翅飞入高墙寺院，猴子追至门外跪守。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0114/index.json",
+              "record_id": "char-0114"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0113/index.json",
+              "record_id": "char-0113"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-9",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "孙悟空越墙只见白茫茫大地，被不现身的声音追问名字与来历",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空等得不耐，判断那猴并非“假悟空”，从另一边飞进寺院，越墙后却只见白茫茫大地空无一物；奔走数万里、连翻十几个筋斗仍是空旷。一个不现身的声音说他“走的路不对”，并追问他的名字是谁取的、他从何而生，孙悟空头痛大叫“我不知道”。声音呢喃“紧箍咒。观音你够狠”，随后大声提醒他说过什么，随即响起“我要天下再无我战不胜之物”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-40",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-40",
+          "claim-local-16"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "白衣人为跪门猴子演示变化之术（聚雨成银柱、草木开花）",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "一名白衣年轻人在猴子跪守门外时到来，猴子问他身未至何以能传声，白衣人答“我身未至，意达即可”。猴子讲述花果山时在洞中独语、一棵老树以松鼠之心听见他的话。白衣人讲这个世界正被“他们”注视着、有时借人说话，并说“唵嘛呢叭咪吽就是……七十二变”，随后聚雨成银柱、使绿草繁花开放，最后点出“这个死菩提啊”和“他在等天下雪……你是要求道，还等道来见你么”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0114/index.json",
+              "record_id": "char-0114"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "金蝉子现身，与须菩提重逢论法并抛还金箍棒",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "菩提化出身来，却见孙悟空仍在地上挣扎，而声音来自他身后；转头看见系草裙的猴子，听其自称“我踢开了门进来的”，心中暗想“历史不是这样的”。白衣人开口调侃“须菩提，别来无恙”，须菩提叫出“金蝉子”。金蝉子自称来自灵山、师弟妹正备第四次结集修订三藏经，自己偷溜下山，并掏出路上拣到的金箍棒；孙悟空夺不过来，草裙猴却说“这东西又不能吃”。金蝉子提议做朋友，草裙猴问其会不会翻筋斗，又讨要菩提做师父，菩提允教七十二变但不许称师父。金蝉子表示须赶回灵山参加结集论法大会，批评师尊之法不能解其惑，不顾菩提劝阻要与师尊问明白，笑称“我为如来，又有何惧”，把金箍棒抛给孙悟空后大笑离去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0113/index.json",
+              "record_id": "char-0113"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0114/index.json",
+              "record_id": "char-0114"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-25"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-33",
+          "claim-local-34"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-34",
+          "claim-local-35"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-6",
+      "title": "须菩提为石猴赐姓“孙”名“悟空”，孙悟空身影融化消失",
+      "introduced_at": 41,
+      "update": {
+        "local_id": "update-local-6",
+        "chapter_ranges": [
+          {
+            "start": 41,
+            "end": 41
+          }
+        ],
+        "revealed_at": 41,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "菩提依金蝉子所诵“鸿蒙初辟原无姓，打破顽冥须悟空”，为石中生的猴子赐姓孙、取名悟空，猴子当场高呼“自今就叫孙悟空也”。一旁看金箍棒的孙悟空听到“孙悟空”三字，心中如裂开，一道雪亮光芒照来，身体融化在明亮之中；菩提回头已不见他，转而对欢跃的猴子向天长叹“我终不能改变那个开始，何不忘了那个结局呢”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0113/index.json",
+              "record_id": "char-0113"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0114/index.json",
+              "record_id": "char-0114"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-36",
+          "claim-local-37",
+          "claim-local-38",
+          "claim-local-39"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-36"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-36",
+          "claim-local-37"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-38",
+          "claim-local-39"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空一进入洞中便失去身体感与法力，触觉无边伸展只触到虚无，一路向黑暗深处坠落直至感觉完全消失。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "他自己也没有了边界"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "一个像松鼠的声音说：“猴子，你一定要回来啊——”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "猴子，你一定要回来啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "那声音在孙悟空的思想中追问“猴子，你说你是谁？”，孙悟空自称“齐天大圣孙悟空”的喊声只在思想里回荡，随后答不出“我是……”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "你说你是谁？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空在黑暗之后看见一处“方寸中的世界”：烟霞散彩、日月摇光，千株老柏、万节修篁，门外奇花、桥边瑶草，仙鹤凤凰翔集。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "烟霞散彩，日月摇光"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空在该处看见一个与他相像的猴子，即叙述所称的“假悟空”：无金冠金甲，只在腰前系了一条草编腰裙，赤足，满脸稚气，狂傲凶顽之态不见。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "只在腰前系了一条草编的腰裙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空发现自己手中没有金箍棒，于是隐身到一边观察那猴子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "没有金箍棒，如何斗得过他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "那猴子自言自语“那打柴的说是这儿，怎不见一座寺院？”，又说“我要拜师，找菩提祖师。”；地上一个会说话的酒壶答话，称这里没有菩提祖师，只有酒壶一提。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我要拜师，找菩提祖师"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "酒壶唱歌后从地上弹起，变作一只大肚子胖熊拍肚作乐，又变为天上一张大嘴，最后化为一名白发童颜的黄衣老者。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "却化为一黄衣老者，白发童颜"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "老者说“来找我者甚多，没被吓跑，还能笑逐颜开的，只你一个！”，猴子大喜叩拜称“师父在上，受俺一拜！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "没被吓跑，还能笑逐颜开的，只你一个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "老者问其姓名，猴子答“我无性，人若骂我，我也不恼；若打我，我也不嗔……一生无性”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "一生无性"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "猴子自称无父母，生时身前一片大海、身后群山，只他一人孤立，入山后“天地便是家，万物皆当兄弟”；菩提问“难道你还会是石头里蹦出来的不成？”，猴子反问“咦？你怎知的？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "难道你还会是石头里蹦出来的不成"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "猴子说“我只想学道，却又不知，道是什么？”，并拒学参禅打坐、诵经念佛，称“看来，我想学的，你却教不了我”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我只想学道，却又不知，道是什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "猴子说出自己的梦：“我想我飞起时，那天也让开路；我入海时，水也分成两边，众仙诸神，见我也称兄弟，无忧无虑，天下再无可拘我之物，再无可管我之人，再无我到不了之处，再无我做不成之事”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我想我飞起时，那天也让开路"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "菩提说“我却教不了你”并转身便走，随即化为一根棒槌在猴头上击了三下，棒槌生出双翅飞入一座高墙寺院。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "在猴头上击了三下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "猴子追到寺院门外，因寺门紧闭而跪在门外等候；叙述称他“已跪了六天了”时一片树叶落在他头上，而他本人对白衣人自称“我在这儿跪了七天了”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "已跪了六天了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空越过寺墙后只见一片白茫茫大地什么也没有，一口气跑出几万里、翻十来个筋斗再落地仍是空旷，遂继续向远方纵去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "是一边白茫茫的大地，什么也没有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "一名白衣年轻人从山那边行来，步履轻盈如脚不沾泥，笑着站在猴子身后；猴子问他为何身未至却能传声，他答“我身未至，意达即可啊”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我身未至，意达即可"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "猴子说他在花果山因从石中生、无父无母、常受人欺，夜深时独自在洞里说话，一棵老树能用心听见；那树本来无心，有只松鼠在它身上出生，它把身子予她住，她便做它的心帮它思想。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "它把身子予她住，她便做它的心"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "白衣人说这个世界正被“他们”注视着，有时“他们”会借人的口说出想说的话；万物可被随意变幻，要想不被变幻掉，就要先知道自己是什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "就要先知道自己是什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "白衣人说“唵嘛呢叭咪吽就是……七十二变！”，随后将满天水珠聚成一根垂直银柱立于掌心，雨停后大地又穿出绿草、开出千万朵花。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "七十二变"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "白衣人说“这个死菩提啊，喜欢玩些这个东西”，指出菩提不肯出来是“因为他在等天下雪”，并反问“你是要求道，还等道来见你么？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "因为他在等天下雪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "一个不现身的声音对孙悟空说“你走的路不对，累死也枉然”，称“本来没有庙”，并追问他的名字是谁给取的、他从何而生；孙悟空捂住头大叫“我不知道不知道不知道”，那声音呢喃“唉，紧箍咒。观音你够狠”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "紧箍咒。观音你够狠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "叙述称“那是孙悟空的声音大声道：‘我要天下再无我战不胜之物！’”，该声音出现在菩提身后。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我要天下再无我战不胜之物"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "菩提以为孙悟空醒来，心中一喜化出身来问“你醒了么”，却见孙悟空仍在地上挣扎、发声者来自他身后；菩提转头看见那只赤足、围草叶、满面稚气的猴子。猴子答“我踢开了门进来的”，菩提心想“不对啊？历史不是这样的”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "历史不是这样的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "有人笑道“这猴子真不会说谎。须菩提，别来无恙？”，须菩提一见大叫“金蝉子？”；白衣人回称“须菩提，几千年不见，还是喜欢装腔作势作弄人！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "须菩提，别来无恙？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "金蝉子自称与师弟妹在灵山静心苦修，准备灵山第四次结集，将记颂修订三藏经；他觉得自己在世间山水走走、沾沾尘土染染生气更好，所以偷偷溜出来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "将记颂修订三藏经"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "金蝉子从怀中掏出金箍棒，自称“我在路上拣到这个，也不知是谁丢下的”；孙悟空伸手去抢、一把抓住却夺不过来，金蝉子单手轻握金箍棒一头。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我在路上拣到这个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "金蝉子问系草裙的猴子金箍棒是不是他的，那猴子撇嘴说“这东西又不能吃，我要它作甚？”，孙悟空摔倒在地。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "这东西又不能吃，我要它作甚"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "金蝉子提议“不如我们做个朋友，有空一起玩耍”，草裙猴反问他会不会翻筋斗，金蝉子说不会、菩提说自己会；草裙猴要菩提做师父，菩提答“师父是做不得的，我可以教你七十二变，却不准你叫我师父”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我可以教你七十二变，却不准你叫我师父"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "草裙猴说“好，我就交你们这两个朋友了”；孙悟空被晾在一旁，忽然有种心酸酸的感觉。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我就交你们这两个朋友了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "金蝉子说结集论法大会就要举行、自己须赶回灵山，并问须菩提是否回去；须菩提答宁愿留在山野对山野唱歌、与花草松鼠说话，佛法经论已忘，去了讲不出来怕师尊生气。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "结集论法大会就要举行了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "金蝉子正色说“人只为自己解脱，却不能算得成果”，称一路见众生懵懂、丢不下爱恨痴缠，师尊的法不能解他心中疑惑，此次回灵山不只是诵经还想请师尊解惑；菩提劝其请教可以但不可与师尊争论，并说“师尊是不会有错的。你想不通，定是你自己错了”，金蝉子答“我不争论，怎解我心中疑惑？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我不争论，怎解我心中疑惑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "金蝉子问“如来是什么？”，菩提答“是如实道来”；金蝉子仰天笑道“鸿蒙初辟原无姓，打破顽冥须悟空”，并称“我为如来，又有何惧？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我为如来，又有何惧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "金蝉子将手中的金箍棒抛向孙悟空，孙悟空跳起接住；金蝉子问他可知金箍棒做什么用，说“将来若是有人脑袋不开窍，你就用它敲醒它！”，随后转身大笑而去，尘沙大起却没有一粒沙沾到他身上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "将手中的金箍棒抛向孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "草裙猴问“这人是谁？你叫他什么子？”，并说“将来我若有他这种气派，也不枉此生”；菩提答这是个了不起的人物，以二人心气倒适合做师徒，只是他痴迷于大道总说自己未通，并说“他的名字，你不知道也罢，也许这个名字很快就要被人忘记了。若是有缘，将来有一天，你们自会相见”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "也许这个名字很快就要被人忘记了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-36",
+      "text": "菩提依金蝉子所诵“鸿蒙初辟原无姓，打破顽冥须悟空”，对石中生的猴子说“你像个猢狲，不如便姓孙吧”，为其取名为“孙悟空”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "你便叫做孙——悟——空吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-37",
+      "text": "那猴子欢喜应道“好！好！自今就叫孙悟空也！”，在天地间蹦跳。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "自今就叫孙悟空也"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-38",
+      "text": "正在看金箍棒的孙悟空听到“孙悟空”三字后，心中如什么裂开一般，一道雪亮光芒自天而降又像自心而出将他射得通明，身体融化在这片明亮之中，菩提回头时已不见了孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "身体便融化在这一片明亮之中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-39",
+      "text": "菩提望着尽情欢跃的猴子向天长叹：“我终不能改变那个开始，何不忘了那个结局呢？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "我终不能改变那个开始，何不忘了那个结局呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-40",
+      "text": "孙悟空在等待中判断“这却不是假悟空，也许天下猴子都长得有几分像吧”，于是直接从另一边飞进寺院去找菩提。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 41,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000041.txt",
+          "chapter_id": "ch-000041",
+          "chapter_order": 41,
+          "locator": null,
+          "anchor": "这却不是假悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "花果山的老树",
+      "introduced_at": 41,
+      "alias_texts": [
+        "老树",
+        "它"
+      ],
+      "identity_notes": "仅由系草裙的猴子口述提及：原本无心，有只松鼠在其身上出生，它把身子予她住，她便做它的心帮它思想。章内未出场，仅存在于角色说法中。",
+      "evidence_claim_local_ids": [
+        "claim-local-18"
+      ]
+    },
+    {
+      "label": "师尊（金蝉子之师）",
+      "introduced_at": 41,
+      "alias_texts": [
+        "师尊"
+      ],
+      "identity_notes": "仅由金蝉子与须菩提的对话提及，未出场、未点名；金蝉子称其法不能解自己心中疑惑、欲回灵山请其解惑，须菩提则称“师尊是不会有错的”。章内金蝉子另有“如来是什么”“我为如来”之语，但原文未将二者明确等同。",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-32",
+        "claim-local-33"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "灵山（师弟妹苦修、第四次结集之所）",
+      "introduced_at": 41,
+      "notes": "由金蝉子口述：他与师弟妹在灵山静心苦修，准备灵山第四次结集、记颂修订三藏经；结集论法大会即将举行。属角色说法，未在章内直接呈现。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-31"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "高墙寺院及其墙后的白茫茫大地",
+      "category": "location",
+      "introduced_at": 41,
+      "notes": "菩提化棒槌后飞入的高墙寺院，大门紧闭；孙悟空从另一边越墙而入，墙后是一片白茫茫什么也没有的大地，奔走数万里、翻十数个筋斗仍无边无际。原文未给出该地名称。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-16"
+      ]
+    },
+    {
+      "label": "方寸中的世界（烟霞散彩、老柏修篁之地）",
+      "category": "location",
+      "introduced_at": 41,
+      "notes": "孙悟空在黑暗中坠落之后所见之境，有赞语描述千株老柏、万节修篁、仙鹤凤凰；原文以“他看见了那方寸中的世界”称之，未给出正式地名。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-4"
+      ]
+    },
+    {
+      "label": "灵山第四次结集论法大会",
+      "category": "event",
+      "introduced_at": 41,
+      "notes": "金蝉子口述：师弟妹正备结集，将记颂修订三藏经，结集论法大会即将举行，他须赶回灵山。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-31"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "菩提祖师"
+      },
+      "subject_b": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "relation": "alias_or_same",
+      "certainty": "inferred",
+      "summary": "章内“菩提祖师”（猴子所求之师）、“菩提”（叙述简称）、“黄衣老者”“大肚子胖熊”“酒壶”“棒槌”（其变化之形）与金蝉子口称的“须菩提”为同一存在。",
+      "basis_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-14",
+        "claim-local-25"
+      ],
+      "notes": "resolve_name('菩提') 无命中，resolve_name('须菩提') 唯一命中 char-0113；变化之形到本体的归并依叙述“化出身来／变为／化为”推得。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "relation": "disputed_or_unknown",
+      "certainty": "uncertain",
+      "summary": "章内在异境中系草裙的猴子被叙述初称“假悟空”，后被菩提命名为“孙悟空”；而齐天大圣孙悟空在旁旁观，听到该名字后身影融化消失。两者是否同一人，章内只有暗示与并置，未明示。",
+      "basis_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-36",
+        "claim-local-37",
+        "claim-local-38",
+        "claim-local-40"
+      ],
+      "notes": "另有相反线索：孙悟空自己判断“这却不是假悟空，也许天下猴子都长得有几分像吧”。本候选仅登记，不作合并。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "白衣人（山那边行来的年轻人）"
+      },
+      "subject_b": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "relation": "alias_or_same",
+      "certainty": "explicit",
+      "summary": "叙述中的“白衣人／白衣年轻人”即须菩提口中的“金蝉子”，其言行由同一段叙述连续承接。",
+      "basis_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-25"
+      ],
+      "notes": "名字来源为须菩提的称呼（角色说法），叙述随即以“那白衣人笑道”继续承接同一人。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "subject_b": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "求道者与其师的互动"
+      },
+      "certainty": "reported",
+      "summary": "猴子登门求拜菩提祖师为师并叩拜，菩提当面拒绝其师徒名分（“师父是做不得的”），称可教他七十二变但不准称师父；此前菩提化身酒壶、胖熊、老者试他，后化棒槌击其头三下而走，猴子跪守门外。最终菩提为其赐姓孙、名悟空。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-29",
+        "claim-local-36"
+      ],
+      "notes": "“教七十二变”与“不准称师父”均为菩提口述内容，属角色说法。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "subject_b": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "facet": {
+        "type": "friendship",
+        "note": "初见即以朋友相交"
+      },
+      "certainty": "reported",
+      "summary": "金蝉子赞“我就喜欢你这天生的猴子”，提议做朋友、有空一起玩耍；草裙猴反问他会不会翻筋斗，随后应下“好，我就交你们这两个朋友了”。",
+      "source_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30"
+      ],
+      "notes": "以“朋友”相称系双方口述，未涉及感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "subject_b": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "facet": {
+        "type": "other",
+        "note": "同门/师兄弟相称"
+      },
+      "certainty": "reported",
+      "summary": "须菩提称金蝉子为“师兄”，金蝉子直呼其“须菩提”，二人以师兄弟相称、互开玩笑；金蝉子问其是否回灵山，须菩提称宁愿留在此处。",
+      "source_claim_local_ids": [
+        "claim-local-25",
+        "claim-local-29",
+        "claim-local-31"
+      ],
+      "notes": "师兄弟关系来自二人口称，章内未交代具体门派谱系。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "facet": {
+        "type": "other",
+        "note": "赠还法器与叮嘱"
+      },
+      "certainty": "explicit",
+      "summary": "金蝉子掏出金箍棒，孙悟空抢夺不得；金蝉子调侃“你想要么，你想要就说嘛”，最终将金箍棒抛向孙悟空，由其跳起接住，并嘱他将来“用它敲醒”不开窍之人。",
+      "source_claim_local_ids": [
+        "claim-local-27",
+        "claim-local-34"
+      ],
+      "notes": "金蝉子称金箍棒为“路上拣到”，属其自述。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "facet": {
+        "type": "other",
+        "note": "旁观与并置"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空隐身旁观该猴子求道全过程，判断其“不是假悟空”；听到菩提为对方取名“孙悟空”后，孙悟空身体融化于光芒中而消失。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-38",
+        "claim-local-40"
+      ],
+      "notes": "两人是否同一人章内未明示，此处只记录互动事实。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "label": "孙悟空之名与来历之谜",
+      "category": "mystery",
+      "status": "developing",
+      "role": "updates_existing_thread",
+      "summary": "章内呈现“孙悟空”之名由菩提依金蝉子所诵之语赐给石生的猴子，且齐天大圣孙悟空闻此名后身形融化消失；名字来源与“我从何而生”的追问同时被提出而未解答。",
+      "related_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-22",
+        "claim-local-36",
+        "claim-local-38"
+      ],
+      "notes": "“你的名字是谁给取的”“那你又是从何而生”由不现身的声音提出，追问者身份未明。"
+    },
+    {
+      "label": "紧箍咒与观音",
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "孙悟空头痛时，不现身的声音呢喃“唉，紧箍咒。观音你够狠……”，为本卷后文埋下线头。",
+      "related_claim_local_ids": [
+        "claim-local-22"
+      ],
+      "notes": "章内未交代紧箍咒来历、亦未出现观音本人。"
+    },
+    {
+      "label": "金蝉子欲向师尊问难、“我为如来”",
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "金蝉子称师尊之法不能解其疑惑，坚持回灵山请教并与师尊问明白，须菩提劝阻无效；金蝉子自问自答“如来是什么”“我为如来，又有何惧”。",
+      "related_claim_local_ids": [
+        "claim-local-32",
+        "claim-local-33"
+      ],
+      "notes": "师尊身份未点名，与“如来”的对应关系章内未明示。"
+    },
+    {
+      "label": "须菩提“历史不是这样的”",
+      "category": "mystery",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "草裙猴自称踢门而入，菩提心中暗想“不对啊？历史不是这样的”，章末又叹“我终不能改变那个开始，何不忘了那个结局呢”，暗示其对既定进程的预知与改变企图。",
+      "related_claim_local_ids": [
+        "claim-local-24",
+        "claim-local-39"
+      ],
+      "notes": "原文仅呈现内心活动与感叹，未解释“历史”所指。"
+    },
+    {
+      "label": "金蝉子之名将被遗忘",
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "菩提评金蝉子“痴迷于大道，总说自己未通”，并称其名字“也许这个名字很快就要被人忘记了。若是有缘，将来有一天，你们自会相见”。",
+      "related_claim_local_ids": [
+        "claim-local-35"
+      ],
+      "notes": "为“日后相见”预留线索。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第41章：黑暗尽头——菩提门下、金蝉子与“孙悟空”之名的来历",
+    "front_matter": {
+      "as_of": 41,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0114/index.json",
+          "record_id": "char-0114"
+        },
+        {
+          "path": "characters/char-0113/index.json",
+          "record_id": "char-0113"
+        },
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        },
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "ev-local-6",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-37",
+        "claim-local-38",
+        "claim-local-39",
+        "claim-local-40"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空一入洞中便失去身体感与法力，触觉无边伸展只触到虚无，一路向黑暗深处坠落至感觉完全消失（claim-local-1）。一个像松鼠的声音在他思想里喊“猴子，你一定要回来啊——”，又追问“猴子，你说你是谁？”；他喊出“我是齐天大圣孙悟空”，声音只在思想中回荡，最终答不上“我是……”（claim-local-2、claim-local-3）。\n\n黑暗中随后浮现一处“方寸中的世界”：烟霞散彩、日月摇光，千株老柏、万节修篁，仙鹤凤凰翔集（claim-local-4）。\n\n## 关键行动\n\n孙悟空在那里看见一个与自己相像、却只系草编腰裙、赤足、满脸稚气的猴子（叙述初称“假悟空”），并发现自己手中没有金箍棒，遂隐身旁观（claim-local-5、claim-local-6）。\n\n那猴子为寻菩提祖师拜师而来，先遇一个会说话的酒壶；酒壶唱歌后弹地变为大肚子胖熊，又化天上一张大嘴，最后成白发童颜的黄衣老者，自称“没被吓跑，还能笑逐颜开的，只你一个”，猴子叩拜称师（claim-local-7、claim-local-8、claim-local-9）。老者问其姓氏父母，猴子以“一生无性”作答，又自称无父母、石中生“万物皆当兄弟”；菩提追问他是否石头里蹦出来的（claim-local-10、claim-local-11）。他拒学参禅打坐诵经念佛，只说“我只想学道”，并称“我想学的，你却教不了我”（claim-local-12），随即说出自己的梦：“我想我飞起时，那天也让开路……天下再无可拘我之物，再无可管我之人”（claim-local-13）。\n\n菩提称教不了他，转身化为棒槌在其头上击三下，棒槌生翅飞入高墙寺院；猴子追至门外跪守（claim-local-14、claim-local-15）。\n\n孙悟空越墙寻找菩提，却只见白茫茫大地空无一物，奔走数万里、连翻十数个筋斗仍无边（claim-local-16）；他此前已判断“这却不是假悟空，也许天下猴子都长得有几分像吧”（claim-local-40）。\n\n寺门外，一名白衣年轻人行来，猴子问他身未至何以传声，他答“我身未至，意达即可”；他讲这个世界正被“他们”注视着、有时借人说话，要想不被变幻掉“就要先知道自己是什么”，并说“唵嘛呢叭咪吽就是……七十二变”，当场聚雨成银柱、使草木开花（claim-local-17、claim-local-19、claim-local-20、claim-local-21）。猴子则讲述花果山时独语、老树以松鼠为心听见他的话（claim-local-18）。\n\n## 转折与新信息\n\n菩提化出身来，以为孙悟空醒了，却见孙悟空仍在地上挣扎、发声者在他身后；转头看见系草裙的猴子。猴子答“我踢开了门进来的”，菩提心中暗想“不对啊？历史不是这样的”（claim-local-24）。此前不现身的声音追问孙悟空“你的名字是谁给取的”“那你又是从何而生”，令他抱头痛叫“我不知道”，并呢喃“唉，紧箍咒。观音你够狠”，又引出“我要天下再无我战不胜之物”（claim-local-22、claim-local-23）。\n\n白衣人被须菩提认出是“金蝉子”，二人以师兄弟相称、笑谈“几千年不见”（claim-local-25）。金蝉子自述与师弟妹在灵山苦修、备第四次结集修订三藏经，自己偷溜下山（claim-local-26）；他掏出金箍棒称是路上拣到，孙悟空抢夺不得，草裙猴却说“这东西又不能吃，我要它作甚”，孙悟空摔倒在地（claim-local-27、claim-local-28）。\n\n金蝉子提议做朋友，草裙猴反问他会不会翻筋斗；草裙猴还讨要菩提做师父，菩提答“师父是做不得的，我可以教你七十二变，却不准你叫我师父”，草裙猴遂说“我就交你们这两个朋友了”，孙悟空被晾在一旁心酸（claim-local-29、claim-local-30）。\n\n金蝉子表示须赶回灵山参加结集论法大会，须菩提则宁愿留在山野、称佛法经论已忘（claim-local-31）。金蝉子说师尊的法不能解他心中疑惑，坚持要与师尊问明白，菩提劝其不可争论、称“师尊是不会有错的”（claim-local-32）；金蝉子问“如来是什么”，自答“是如实道来”，诵“鸿蒙初辟原无姓，打破顽冥须悟空”，笑称“我为如来，又有何惧”（claim-local-33）。\n\n他把金箍棒抛向孙悟空，孙悟空跳起接住，被告知将来“有人脑袋不开窍，你就用它敲醒它”，金蝉子大笑而去（claim-local-34）。菩提评他痴迷于大道、说其名字“也许很快就要被人忘记了……若是有缘，将来有一天，你们自会相见”（claim-local-35）。\n\n## 本章结果\n\n菩提依金蝉子所诵之语，为石中生的猴子赐姓“孙”、取名“悟空”；猴子当场高呼“自今就叫孙悟空也”（claim-local-36、claim-local-37）。\n\n一旁看着金箍棒的孙悟空听到“孙悟空”三字，心中如什么裂开，一道雪亮光芒自天而降又似自心而出，身体融化在明亮之中；菩提回头已不见他（claim-local-38）。菩提转望欢跃的猴子，向天长叹“我终不能改变那个开始，何不忘了那个结局呢？”（claim-local-39）。\n\n## 未决问题与补读入口\n\n- 与孙悟空对话的不现身声音究竟属谁（菩提本人、还是系草裙的猴子），章内未明示，已在 issue 中登记。\n- “我要天下再无我战不胜之物”叙述称是“孙悟空的声音”，但发声位置在菩提身后，归属存疑。\n- 孙悟空听名后身影融化消失的机制未解释；他与系草裙的猴子（初称“假悟空”）是否同一人，本章仅给出并置与暗示（他本人还判断“这却不是假悟空”）。\n- 猴子跪候天数叙述为“六天”，其本人后称“七天”，存在内部不一致。\n- 部分文本有乱码缺字（方寸世界赞语段、“你若真有面子……你也不是须菩提”处），影响逐字引用。\n- 金蝉子口中的“师尊”未在章内点名，与“如来”的对应关系仅有其自问自答的“如来是什么／我为如来”作线索。"
+  },
+  "stage_buffer_appends": [
+    {
+      "local_id": "ev-local-6",
+      "kind": "event",
+      "note": "本卷核心节点：菩提依金蝉子所诵之语为石猴赐名“孙悟空”，齐天大圣孙悟空闻名后身形融化消失。对“孙悟空”身份/来历线索价值极高。"
+    },
+    {
+      "local_id": "ev-local-5",
+      "kind": "event",
+      "note": "金蝉子正式登场并自报灵山身份、抛还金箍棒、称“我为如来，又有何惧”，为后续灵山与师尊线埋点。"
+    },
+    {
+      "local_id": "claim-local-33",
+      "kind": "claim",
+      "note": "金蝉子“如来是什么—是如实道来—我为如来，又有何惧”的关键陈述，属角色说法。"
+    },
+    {
+      "local_id": "claim-local-24",
+      "kind": "claim",
+      "note": "菩提内心“历史不是这样的”：对既定进程的预知/异变暗示，值得后续回查。"
+    },
+    {
+      "local_id": "claim-local-38",
+      "kind": "claim",
+      "note": "孙悟空闻“孙悟空”之名后身形融化的叙述事实，为身份谜团关键证据。"
+    },
+    {
+      "local_id": "claim-local-22",
+      "kind": "claim",
+      "note": "“紧箍咒。观音你够狠”：紧箍咒线头首次在本段出现，需与后文观音出场段落对照。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "同一章内对猴子跪守寺门的天数给出两个数字：叙述称“猴子在寺门口，已跪了六天了”，其后猴子对白衣人自称“我在这儿跪了七天了”。",
+      "evidence_claim_local_ids": [
+        "claim-local-15"
+      ],
+      "anchors": [
+        "已跪了六天了",
+        "我在这儿跪了七天了"
+      ],
+      "notes": "两处均在同一场景、相隔数段，无法判定为时间推进，倾向为原文内部不一致。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章原文存在多处乱码/缺字：方寸世界赞语段（“带雨半空青冉冉”之后）、金蝉子“你若真有面子，你也…你…不是须菩提”一句、以及结尾“金蝉子注视着须菩提”前的姓名处，均有非正常字符，影响逐字引用与锚点选取。",
+      "evidence_claim_local_ids": [],
+      "anchors": [],
+      "notes": "建议核对源文本编码，避免以此类片段作为 anchor。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "与孙悟空在空白大地上对话的不现身声音身份未明：它说“你走的路不对”，知道孙悟空的名字与他当年说过的话，还提及紧箍咒与观音；随后“菩提心中一喜，化出身来”，但叙述又称发声者来自菩提身后。可能指向菩提，也可能指向系草裙的猴子，章内未定。",
+      "evidence_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24"
+      ],
+      "anchors": [
+        "回家不是这样的"
+      ],
+      "notes": "锚点以“历史不是这样的”定位该段；此处仅登记歧义，未做归并。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "“我要天下再无我战不胜之物”一句的归属存疑：叙述说“那是孙悟空的声音大声道”，但同一段又称该声音来自菩提身后（即系草裙的猴子所在方向），无法确定是齐天大圣本人发声还是草裙猴发声。",
+      "evidence_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-24"
+      ],
+      "anchors": [
+        "那是孙悟空的声音大声道"
+      ],
+      "notes": "两种理解并存：同一声音／同源嗓音的并置效果。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "孙悟空听到“孙悟空”三字后“身体便融化在这一片明亮之中”、菩提回头已不见他，原文未说明其原因与去向；此段与“假悟空”身份问题相互关联但无解释。",
+      "evidence_claim_local_ids": [
+        "claim-local-38"
+      ],
+      "anchors": [
+        "身体便融化在这一片明亮之中"
+      ],
+      "notes": "需后续章节补读确认。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "金蝉子与须菩提反复提到的“师尊”在章内未点名；金蝉子另有“如来是什么”“我为如来”之语，但原文未将“师尊”与“如来”明确等同。",
+      "evidence_claim_local_ids": [
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-26"
+      ],
+      "anchors": [
+        "师尊是不会有错的"
+      ],
+      "notes": "已登记为新生角色候选“师尊（金蝉子之师）”，待后文确认。"
+    }
+  ],
+  "warnings": [
+    "本章为“名场面”级章节，包含大量角色口头说法（菩提、金蝉子、草裙猴），已全部标为 reported；叙述性动作与场景变化标为 explicit。",
+    "原文存在明显乱码/缺字段落，部分锚点改取相邻完整语句，逐字引用需谨慎。",
+    "resolve_name('菩提') 返回 no_match、resolve_name('须菩提') 唯一命中 char-0113；章内“菩提祖师/菩提/黄衣老者”的归并依据叙述中的变身与“化出身来”，已作为 identity_link_candidate 登记而非直接合并。",
+    "系草裙的猴子与齐天大圣孙悟空是否同一人，章内仅有暗示与相互矛盾的一句内心判断（“这却不是假悟空”），未作身份合并。",
+    "跪守天数存在“六天/七天”内部矛盾，已登记 fact_conflict。"
+  ]
+}

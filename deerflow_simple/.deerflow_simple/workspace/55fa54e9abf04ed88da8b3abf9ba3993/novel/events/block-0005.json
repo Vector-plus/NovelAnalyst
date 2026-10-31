@@ -1,0 +1,3003 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "block-0005",
+  "kind": "event_collection",
+  "revision": 7,
+  "safe_through": 55,
+  "events": [
+    {
+      "id": "ev-0258",
+      "kind": "event",
+      "title": "大青树下老树讲古，松鼠立志远行",
+      "introduced_at": 50,
+      "safe_through": 50,
+      "updates": [
+        {
+          "id": "update-0258",
+          "chapter_ranges": [
+            {
+              "start": 50,
+              "end": 50
+            }
+          ],
+          "revealed_at": 50,
+          "status": "completed",
+          "story_time": "松鼠出生十一个月时的某日",
+          "summary": "九百岁老树向松鼠讲述“很久很久以前只有一片大海”，并说自己想看大海、听说爬到这块大地最高处便知道世界是什么样。松鼠当即跳下树枝出发，答应旅行后回来把所见告诉老树；布袋熊与飞行猪呼唤不及。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0131/index.json",
+                "record_id": "char-0131"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0132/index.json",
+                "record_id": "char-0132"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2077",
+              "text": "老树说，很久很久以前没有山、没有树，什么都没有，只有一片无边的大海。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "只有一片大海，无边的大海"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2078",
+              "text": "老树自称身上年轮有九百圈，也曾是一颗种子、一棵小苗。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "我身上的年轮有九百圈了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2079",
+              "text": "松鼠问自己是否也是从地里长出来的，并因自己没有叶子而难过。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "为什么我没有叶子呢"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2080",
+              "text": "老树对松鼠说，松鼠能摆脱泥土的羁绊、自由奔跑，这一点让它羡慕。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2081",
+              "text": "老树说它很想看到大海，每年都有海鸟的羽毛飘落带来海洋的气息。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "我是多么想看到大海啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2082",
+              "text": "老树说，听说一直爬到这块大地最高的地方，就可以知道世界是什么样的。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "你一直爬到这块大地最高的地方"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2083",
+              "text": "松鼠答应老树：会每天去旅行，把看见的回来告诉老树。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "我会每天去旅行，然后把我看见的回来告诉你"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2084",
+              "text": "松鼠说完“我这就去”便在巨大树枝间三纵两纵离去，布袋熊与飞行猪的呼唤没来得及叫住她。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "可松鼠已经在巨大的树枝间三纵两纵没影了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2085",
+              "text": "松鼠爬下大青树，跑过树荫下的星星草一家、复兰花一家、野翠儿一家等花草虫儿的地界。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "她爬下巨大的大青树"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2086",
+              "text": "松鼠跑出大青树的影子，发现世界由无数影子组成、影子之间有闪耀的边界，随后自行选了一个方向跑去。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "她发现原来世界是由无数的影子组成的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2082"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2083"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2084"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2085"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2086"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0259",
+      "kind": "event",
+      "title": "松鼠登上石峰，初见大海",
+      "introduced_at": 50,
+      "safe_through": 50,
+      "updates": [
+        {
+          "id": "update-0259",
+          "chapter_ranges": [
+            {
+              "start": 50,
+              "end": 50
+            }
+          ],
+          "revealed_at": 50,
+          "status": "completed",
+          "story_time": "同日，松鼠奔跑一日后",
+          "summary": "松鼠沿途向细红果追问世界边界，回头发现九百岁老树仍在身后；随后奔至一座自大地长出的高耸石峰，登上峰顶，看见森林之外金色带子环绕、远处无边蓝色大海，并自认听见海的呼吸。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0136/index.json",
+                "record_id": "char-0136"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0116/index.json",
+                "record_id": "char-0116"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2087",
+              "text": "叙述交代松鼠此时只出生了十一个月，而她自己觉得已跑了上千里，认为快跑到世界的尽头。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "她今天跑的路比她这一辈子跑的加起来还要多"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2088",
+              "text": "松鼠问路边的细红果世界的边界在哪里；细红果回答自己那里是世界的中心，并反问松鼠从哪跑来。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0136/index.json",
+                "record_id": "char-0136"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "我这里是世界的中心啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2089",
+              "text": "松鼠反驳说它那里才是世界的中心，自己从大青树跑了很长的路而来。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "我那儿才是世界的中心啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2090",
+              "text": "松鼠回头看见层层树冠之上九百岁的老树仍立着，自己仿佛还在他脚下。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "九百岁的老树正立着"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2091",
+              "text": "松鼠看见一座像树一样从大地中长出的奇特石峰，高耸入云，便向山脚奔去。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "那座奇特的石峰"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2092",
+              "text": "松鼠登上峰顶悬崖边缘，看见巨木变成小草、森林之外有金色带子环绕，远处是无边无际的蓝色，认出那是海。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "那是……海"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2093",
+              "text": "松鼠自认听到了海的声音，觉得“呼——呼——”像夜间风声，认为海在呼吸，并为此欢呼蹦跳。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "它在呼吸"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2094",
+              "text": "松鼠发现峰顶没有一个人，追问谁来过这里、有谁知道她的幸福，声音消散在雾气中。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "忽然发现自己站的地方没有一个人"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2088"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2091"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2092"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2093"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2094"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0260",
+      "kind": "event",
+      "title": "峰顶孤石前的一道贯穿天地的光",
+      "introduced_at": 50,
+      "safe_through": 50,
+      "updates": [
+        {
+          "id": "update-0260",
+          "chapter_ranges": [
+            {
+              "start": 50,
+              "end": 50
+            }
+          ],
+          "revealed_at": 50,
+          "status": "ongoing",
+          "story_time": "紧接前事，峰顶",
+          "summary": "峰顶平地中央立着一块不与山体相连的孤立石头。松鼠对石头连番提问，石头不答；松鼠把脸贴在石上聆听良久，缓缓退开，退出一百步时一道光贯穿天地。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "affected"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2095",
+              "text": "山顶平地中间只立着一块石头，它与山体不相连，仿佛不是大山的一部分。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "只有一块石头立在平地中间"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2096",
+              "text": "松鼠绕着石头连问它为何独自站着、是否在听海声、在此多久、是否发闷，石头不说话。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "而石头不说话"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2097",
+              "text": "松鼠把脸贴在石头上听了很久，慢慢退开，退到一百步时一道光贯穿了天地。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 50,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000050.txt",
+                  "chapter_id": "ch-000050",
+                  "chapter_order": 50,
+                  "locator": null,
+                  "anchor": "一道光贯穿了天地"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2096"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2096"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2097"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2097"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0261",
+      "kind": "event",
+      "title": "大青树上石猴、松鼠与一片叶子谈论“我是谁”与名字",
+      "introduced_at": 51,
+      "safe_through": 51,
+      "updates": [
+        {
+          "id": "update-0261",
+          "chapter_ranges": [
+            {
+              "start": 51,
+              "end": 51
+            }
+          ],
+          "revealed_at": 51,
+          "status": "completed",
+          "story_time": "某日乘凉时（承接第50章）",
+          "summary": "石猴与松鼠坐在大青树上乘凉，石猴问“我是谁”，说自己虽从石头里出来却是猴子、与别的猴子不一样，和他们在一起就忘了自己并因此恐惧。一片叶子开口，自称“一片叶子”，说自己闭眼时世上只有自己会害怕、睁眼看见许多自己才安心，怕被忘记，求人叫她的名字。松鼠答应每天叫他俩。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2100",
+              "text": "某日石猴与松鼠坐在大青树上乘凉，石猴开口问“我是谁”，松鼠答“你是石头啊”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我是谁？”这一天他们坐在大青树上乘凉，石头说"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2101",
+              "text": "石猴问“我不是一只猴子么”，松鼠回答“是啊”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我不是一只猴子么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2102",
+              "text": "松鼠说她只知道世界上有很多松鼠但都不是自己，猴子的事她不清楚。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我只知道这世界上有很多松鼠，但他们都不是我"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2103",
+              "text": "石猴说自己与别的猴子不一样：他虽然是石头里出来的，可还是一只猴子；和他们在一起就不记得自己，常莫名停下来发现他们在跑而自己不动，就感到恐惧。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "因为我和他们不一样。我虽然是石头里出来的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2104",
+              "text": "石猴自述：他与别的猴子“不一样”，因此不与他们一起玩；和他们在一起他会不记得自己，且别人跑动而自己不动时他会恐惧。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "和他们在一起，我就不记得自己了"
+                }
+              ],
+              "basis_refs": [
+                {
+                  "local_id": "claim-local-4"
+                }
+              ],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2105",
+              "text": "松鼠说她曾想做青树下那朵花、想做一只鹿，都没能成，目前也只有做松鼠。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我目前也只有做松鼠"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2106",
+              "text": "一片叶子在石猴与松鼠对话中开口，自称“我是一片叶子”，并强调“我是我这一片，不是其他任何一片”。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我是我这一片，不是其他任何一片"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2107",
+              "text": "一片叶子说她一闭眼世上便只有自己、因此害怕，一睁眼看见许多自己就安心；风把叶子吹得沙沙响时，她在这声音里知道自己的存在并安心睡去；很多叶子不见了又有新的叶子出现，她怕忘了自己、怕别人不知道有她。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我一闭上眼睛，世界上就只有我自己"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2108",
+              "text": "一片叶子表示希望有人叫她的名字、她答应一声，就能知道自己还在便可幸福入睡；松鼠答应每天早上起床和回来时都叫她，并问石猴要不要也叫他，石猴说不用，因为他要睡懒觉。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我希望能有人叫我的名字"
+                },
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "我要睡懒觉"
+                }
+              ],
+              "basis_refs": [
+                {
+                  "local_id": "claim-local-8"
+                }
+              ],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2100"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2103"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2106"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2107"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2108"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2108"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0262",
+      "kind": "event",
+      "title": "松鼠清晨呼唤“石头”与“一片叶子”，却认不出是哪片叶子",
+      "introduced_at": 51,
+      "safe_through": 51,
+      "updates": [
+        {
+          "id": "update-0262",
+          "chapter_ranges": [
+            {
+              "start": 51,
+              "end": 51
+            }
+          ],
+          "revealed_at": 51,
+          "status": "completed",
+          "story_time": "次日早晨（同一场景的次日）",
+          "summary": "松鼠一早醒来先叫“石头”，再叫“一片叶子”，听到一声“哎”应答；但应答的叶子反问“你叫我干什么”，松鼠发现自己忘记是哪片叶子，抬头只看见满树无边无际抖动的叶子。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2109",
+              "text": "次日松鼠一早醒来先叫“石头”，随后笑着叫“一片叶子”，并听到一声“哎”作为应答。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "“哎。”有人答应了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2110",
+              "text": "应答的那片叶子反问“你叫我干什么”，并否认是自己要求松鼠叫它名字。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "你叫我干什么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2111",
+              "text": "松鼠发现自己忘记是哪片叶子，并自问“换了树枝就会找不到她了么”。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "糟了，我忘记是哪片叶子了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2112",
+              "text": "章末场景：松鼠抬头，大青树满天的叶子在抖动，像无边无际的绿色海。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 51,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000051.txt",
+                  "chapter_id": "ch-000051",
+                  "chapter_order": 51,
+                  "locator": null,
+                  "anchor": "像绿色的海，无边无际"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2108"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2109"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2110"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2111"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0263",
+      "kind": "event",
+      "title": "春天候鸟归乡，松鼠与小鸟阿笨初识",
+      "introduced_at": 52,
+      "safe_through": 52,
+      "updates": [
+        {
+          "id": "update-0263",
+          "chapter_ranges": [
+            {
+              "start": 52,
+              "end": 52
+            }
+          ],
+          "revealed_at": 52,
+          "status": "completed",
+          "story_time": "春天",
+          "summary": "春天，成千上万只背蓝腹白的宽翼大鸟落在大青树上。一只大鸟自称这里是它们的家，并把躲在身后的小鸟阿笨推出来介绍给松鼠。松鼠称赞阿笨帅气，阿笨则说自己比父母长得丑。石头在旁看着，显得有些忧郁。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0143/index.json",
+                "record_id": "char-0143"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0140/index.json",
+                "record_id": "char-0140"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2115",
+              "text": "春天，成千上万只背上有大海之蓝、腹上有云之白的宽翼大鸟落在大青树上。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "春天是“扑啦啦”拍动翅膀的声音"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2116",
+              "text": "一只翅膀展开如云彩的大鸟对松鼠说“这是我们的家”，并说自己也没见过松鼠这个小家伙。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0140/index.json",
+                "record_id": "char-0140"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "这是我们的家啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2117",
+              "text": "大鸟把躲在身后的小鸟推出来，向松鼠介绍他叫阿笨，是今年才生的，第一次回老家，怕生。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0140/index.json",
+                "record_id": "char-0140"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "他叫阿笨，也是今年才生的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2118",
+              "text": "松鼠对阿笨说“你好帅啊”，并说“你好漂亮”这个说法是布袋熊他们教给她的。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "这是布袋熊他们说我的词"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2119",
+              "text": "阿笨自称比爸爸妈妈长得丑，没有他们那么大的翅膀和那么漂亮的羽毛，为此难过了好几次。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "可是我比我爸爸妈妈长得都丑"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2120",
+              "text": "松鼠对阿笨说他会长大，会长成这里最大最漂亮的鸟。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "你会长成这里最大最漂亮的鸟"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2121",
+              "text": "阿笨听后在旁拍着翅膀大叫“我会长大的”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2122",
+              "text": "石头坐在一边看着候鸟与松鼠的互动，显得好像有些忧郁。",
+              "certainty": "inferred",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "石头也坐在一边看着，不知为什么好像有些忧郁"
+                }
+              ],
+              "basis_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "anchor": "石头也坐在一边看着"
+                }
+              ],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2115"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2117"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2118"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2122"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0264",
+      "kind": "event",
+      "title": "众猴在潭边叫阵，是石头敢跳进水帘",
+      "introduced_at": 52,
+      "safe_through": 52,
+      "updates": [
+        {
+          "id": "update-0264",
+          "chapter_ranges": [
+            {
+              "start": 52,
+              "end": 52
+            }
+          ],
+          "revealed_at": 52,
+          "status": "completed",
+          "story_time": "白天（春季某日）",
+          "summary": "众猴在潭边叫阵：谁能进水帘再出来，大家就服他。一只猴蹦出去假跳了一下便折回，众猴嬉笑推搡散去。一个微弱的声音说“我”，但没人听见。石头独自站着，没有猴子来问他敢不敢，他仰头看着潭那头巨声吼叫的水帘。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0142/index.json",
+                "record_id": "char-0142"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2123",
+              "text": "众猴在潭边叫道：谁能进那水帘里再出来，我们就服了他。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0142/index.json",
+                "record_id": "char-0142"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "谁能进去了再出来，我们就服了他"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2124",
+              "text": "一只猴蹦出来，到了潭边只做个跳的样子就嬉笑着折回来。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "可刚到潭边做个跳的样子就嬉笑着折回来了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2125",
+              "text": "有一个微弱的声音说“我”，但众猴跳闹推搡四下散开，没人听见这声音。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "没人听见这声音"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2126",
+              "text": "石头独自站在那儿，没有猴来问他敢不敢；他仰头看着潭那头巨声吼叫的水帘，风起时水雾扑面。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "没有猴来问他敢不敢"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2123"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2124"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2125"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2126"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0265",
+      "kind": "event",
+      "title": "石头夜里独跳水帘失败，与松鼠月下夜谈",
+      "introduced_at": 52,
+      "safe_through": 52,
+      "updates": [
+        {
+          "id": "update-0265",
+          "chapter_ranges": [
+            {
+              "start": 52,
+              "end": 52
+            }
+          ],
+          "revealed_at": 52,
+          "status": "ongoing",
+          "story_time": "同一夜（春季）",
+          "summary": "入夜后石头独自来到潭边，两次跳向水帘都落在离水帘很远处，淹得半死才爬上来，跪在潭边说“我做不到”。暗处有个声音回应“这个世界有很多事本是做不到的啊”。松鼠从树上跳下来，与他谈起跳瀑布和“做到”的意义。石头说出自己的疑问：看得见摸不到的东西能否触摸，永远不可到达的地方是否还存在。松鼠举起小爪说月亮正握着她的手，石头看见她掌上的蓝色月光而怔住。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0141/index.json",
+                "record_id": "char-0141"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2127",
+              "text": "入夜后，一个小小身影来到潭边，看了瀑布很久，忽然跳出去，落在离水帘老远的地方，淹得半死才爬上来；他又看了很久，第二次跳出，结果一样，扑腾更久才爬上来。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "一个小小的身影来到了潭边"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2128",
+              "text": "那身影跪在潭边，看着水从头上滴落打湿石面，说“我做不到”。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "我做不到"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2129",
+              "text": "暗处有一个声音说“这个世界有很多事本是做不到的啊”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0141/index.json",
+                "record_id": "char-0141"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "这个世界有很多事本是做不到的啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2130",
+              "text": "石头四下张望并抬头，问是不是月亮在说话。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "月亮，是你么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2131",
+              "text": "松鼠从树上跳下来，来到月光下的大石潭边，把大尾巴抱贴在脸边，说“笨猴”，并问自己长得像不像月亮。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "松鼠从树上跳了下来，来到月光下的大石潭边"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2132",
+              "text": "石头回答松鼠：自己不是为吃的，只是想知道自己能不能做到。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "只是想知道自己能不能做到"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2133",
+              "text": "石头说“做到了，就快乐”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "做到了，就快乐"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2134",
+              "text": "松鼠说“那世上有那么多不能做到的事”，问石头岂不是总是不能快乐。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "那世上有那么多不能做到的事"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2135",
+              "text": "石头说：世上有太阳、月亮、远山、云彩这些看得到摸不到的东西，如果触摸不到，怎么知道它们是不是真的在那里。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "我怎么知道它们是不是真的在那里呢"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2136",
+              "text": "石头说：如果一个地方是永远不可到达的，那个地方还存在么；一想到世上有永远不可能碰到的东西、永远不可能做到的事，他就悲伤。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "如果一个地方是永远不可到达的，那个地方还存在么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2137",
+              "text": "松鼠回应“可以啊，可以触到啊”，懒洋洋地举起小爪说月亮正握着她的手。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "现在月亮不正在握着我的手么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2138",
+              "text": "猴子回头，看见松鼠掌上的蓝色月光仿佛在那小小掌心流动，怔住了。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "看见松鼠掌上的蓝色月光"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2139",
+              "text": "松鼠问石头跳潭是不是在学游泳，并说觉得他“好奇怪”，问瀑布里有没有吃的。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 52,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000052.txt",
+                  "chapter_id": "ch-000052",
+                  "chapter_order": 52,
+                  "locator": null,
+                  "anchor": "你为什么要往潭里跳啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2127"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2127"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2134"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2138"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2128"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2135"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2136"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2139"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0266",
+      "kind": "event",
+      "title": "老虎阿明求食猴群，石头的「没有选择」与阿明的「可以不做」",
+      "introduced_at": 53,
+      "safe_through": 53,
+      "updates": [
+        {
+          "id": "update-0266",
+          "chapter_ranges": [
+            {
+              "start": 53,
+              "end": 53
+            }
+          ],
+          "revealed_at": 53,
+          "status": "completed",
+          "story_time": "某日（入秋之前）",
+          "summary": "一只老虎怯怯走近猴群，问「我可以吃你么」，松鼠问它是否第一次捕食，老虎承认只吃过奶，并说自己不想成为吃人的老虎，但母亲已不在，必须活下去；在场者指出「你吃我们，我们也会死的」。一个声音插话说「有时候你没有选择的」，松鼠转头叫它「石头」，那声音接着说自己幻想一个没有危险、可以不做自己不愿做的事也能快乐生活的地方，但好像没人能做到。老虎阿明想了想说「可以的」「你可以不做自己不想做的事情」，看了在场动物一眼后转身走了。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0144/index.json",
+                "record_id": "char-0144"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2140",
+              "text": "某日一只老虎轻轻走过来，怯怯地问「请问我可以吃你么」；松鼠歪头问它是不是第一次出来捕食，其余猴儿早蹿上树，老虎红着脸点头。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "请问我可以吃你么？"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2141",
+              "text": "面对松鼠追问以前吃什么，老虎回答「吃奶」，并说「我不想成为一只吃人的老虎，可是……我妈妈不在了，我必须活下去」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0144/index.json",
+                "record_id": "char-0144"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "我不想成为一只吃人的老虎"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2142",
+              "text": "在场者回应老虎的请求说「可是你吃我们，我们也会死的」（叙述未标明具体说话者）。",
+              "certainty": "reported",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "可是你吃我们，我们也会死的。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2143",
+              "text": "老虎说「我真想能像你们一样吃果子」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0144/index.json",
+                "record_id": "char-0144"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "我真想能像你们一样吃果子。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2144",
+              "text": "一个声音说「有时候你没有选择的」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "有时候你没有选择的。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2145",
+              "text": "松鼠转头惊讶地以「石头」称呼刚才说话的那个声音，表明该声音的发出者是松鼠认识的对象（本章未交代「石头」是谁）。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "松鼠转头惊讶地说"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2146",
+              "text": "被称作「石头」的声音说，自己也时常幻想有一个没有任何危险、可以不用做自己不愿做的事也能快乐生活的地方，但好像没有人能做到这一点。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "但好像没有人能做到这一点。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2147",
+              "text": "老虎阿明想了想说「可以的」「你可以不做自己不想做的事情。我想那可以」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0144/index.json",
+                "record_id": "char-0144"
+              },
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "你可以不做自己不想做的事情。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2148",
+              "text": "阿明说完看了在场的动物们一眼，转身走了，众动物追问「他怎么能做到呢？」",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "他看了在场的动物们一眼，转身走了。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2140"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2141"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2142"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2143"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2144"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2146"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2147"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2148"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0267",
+      "kind": "event",
+      "title": "老虎阿明不吃人而活、入秋安静死去",
+      "introduced_at": 53,
+      "safe_through": 53,
+      "updates": [
+        {
+          "id": "update-0267",
+          "chapter_ranges": [
+            {
+              "start": 53,
+              "end": 53
+            }
+          ],
+          "revealed_at": 53,
+          "status": "completed",
+          "story_time": "此后直到入秋",
+          "summary": "此后有人看见老虎阿明经常静静趴在草地看蝴蝶，小鸟停在他身上，还有一次帮一只不会游泳的鸭子过了河；大家说他「这不是活得很幸福么」。入秋的日子，阿明看着蝴蝶飞舞安静地死了，小鸟仍停在他身上；大家问「这么幸福的日子为什么要死呢？」",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0144/index.json",
+                "record_id": "char-0144"
+              },
+              "role": "affected"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2149",
+              "text": "此后的日子里，有人看见阿明经常静静趴在草地看蝴蝶，小鸟停在他身上，还有一次他帮助一只不会游泳的鸭子过了河。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "有一次他还帮助一只不会游泳的鸭子过了河"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2150",
+              "text": "入秋的日子里，阿明看着蝴蝶飞舞，安静地死了；小鸟仍停在他身上，他已不会用尾巴去逗它。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "安静地死了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2151",
+              "text": "在场动物评说阿明「他这不是活得很幸福么？」",
+              "certainty": "reported",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "他这不是活得很幸福么？"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2152",
+              "text": "阿明死后，在场动物问「这么幸福的日子为什么要死呢？」",
+              "certainty": "reported",
+              "attributed_to_ref": null,
+              "revealed_at": 53,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000053.txt",
+                  "chapter_id": "ch-000053",
+                  "chapter_order": 53,
+                  "locator": null,
+                  "anchor": "这么幸福的日子为什么要死呢？"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2148"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2149"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2150"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0268",
+      "kind": "event",
+      "title": "狂欢之夜老猴离群独谈与“得到”之饮",
+      "introduced_at": 54,
+      "safe_through": 54,
+      "updates": [
+        {
+          "id": "update-0268",
+          "chapter_ranges": [
+            {
+              "start": 54,
+              "end": 54
+            }
+          ],
+          "revealed_at": 54,
+          "status": "concluded",
+          "story_time": "花果山狂欢之夜（石头沉默之后的一段时期）",
+          "summary": "石头由沉默转为疯狂游玩。狂欢夜里一只老猴默默离开猴群走向山深处，石头坐黑暗中追问。老猴谈及每个生灵都会去的地方、让石头珍惜遇见之物，并说传说山外大海中有不死的神龙。老猴把椰壶递给石头，说里面是“得到”，石头喝下后自称“我就是天，我就是所有”，攀上石台加入猴群狂舞；老猴看着他说他已得到了一切。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0137/index.json",
+                "record_id": "char-0137"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0146/index.json",
+                "record_id": "char-0146"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2153",
+              "text": "石头越来越沉默，忽然有一天他开始疯狂地游玩，山林间满是他的声音。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "石头越来越沉默了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2154",
+              "text": "一个狂欢的夜里，一只老猴默默离开人群，往山深处走去；石头坐在黑暗中问他去哪儿。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "一只老猴默默地离开人群"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2155",
+              "text": "老猴自称“我去我该去的地方”，并说每个生灵都会去那个地方，那里很安静、适合他这样的老家伙，说石头年轻，应在月光下狂呼高叫。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "我去我该去的地方"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2156",
+              "text": "石头说“声音最终是要消散的”；老猴说不会停，并引特写林间石台上猴子们的欢叫连成一片。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "可声音最终是要消散的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2157",
+              "text": "老猴对石头说“你是从石头中蹦出来的吧”，说他总是忧虑，因为几万年的沉寂使他还害怕林间的跳跃与扑面而来的事物；并说石头能自由思考的时间极短，要他珍惜生命中所出现的一切。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "你是从石头中蹦出来的吧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2158",
+              "text": "老猴说传说山外的大海中有不死的神龙，但它们大多数时间孤独地沉在海底；并说纵然能留住自己，也留不住身边的东西，只剩自己的沉重没有人能承受。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "传说山外的大海中有不死的神龙"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2159",
+              "text": "石头说“我会变得很强，强到可以承受一切”；老猴反问是否真有那样顽强的生命，说那样的人也会被越来越沉重的自己所压倒，随后承认自己搞不清这些道理。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "我会变得很强，强到可以承受一切"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2160",
+              "text": "老猴把一个椰壶递给石头，说“这是‘得到’，它是果实消失形体后变成的东西”，说它能让人忘记自己、与世界合成一体，喝下会觉得自已就是这森林、这月亮、这河。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0145/index.json",
+                "record_id": "char-0145"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "它是果实消失形体后变成的东西"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2161",
+              "text": "石头喝下椰壶中之物后站起高兴地笑；老猴问“你是谁”，石头答“我就是天，我就是所有！我最大！”，随后伸臂狂啸，攀上石台加入猴群的狂舞；老猴对他说“你不就是已得到了一切么”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "我就是天，我就是所有！我最大！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2154"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2159"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2160"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2160"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2161"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0269",
+      "kind": "event",
+      "title": "秋深翔鸟启程：阿笨与松鼠告别",
+      "introduced_at": 54,
+      "safe_through": 54,
+      "updates": [
+        {
+          "id": "update-0269",
+          "chapter_ranges": [
+            {
+              "start": 54,
+              "end": 54
+            }
+          ],
+          "revealed_at": 54,
+          "status": "concluded",
+          "story_time": "深秋（同章第二段情节）",
+          "summary": "秋更深，翔鸟一家准备启程迁徙。松鼠挽留阿笨，阿笨说明年还会回来，并说翔鸟必须追着太阳飞、一生都在奔波，且没有翔鸟死在窝里，飞不动便掉入大洋。阿笨握住松鼠的手，说自己是从知道会长大那天起懂了这些。松鼠没听懂，觉得难过而盼望。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2162",
+              "text": "秋更深了，翔鸟一家要启程离开。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "翔鸟一家要启程了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2163",
+              "text": "松鼠对阿笨说“小笨不要走，我会难过的”；阿笨说“我明年还会回来的”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "小笨不要走，我会难过的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2164",
+              "text": "阿笨说翔鸟要追着太阳飞、不能离它太远，注定一生花在奔波上，真正能停下来生活的日子只有一会儿；说自己路上会一直想着，为相聚的时光尽力飞翔。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "我们要追着太阳"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2165",
+              "text": "阿笨说迁徙路上有许多鸟不能到达，那不会是他，但父母飞不动时会掉进大海；没有翔鸟死在窝里，他们在大洋上空飞越，直到最后投入大洋。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0139/index.json",
+                "record_id": "char-0139"
+              },
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "没有翔鸟是死在窝里的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2166",
+              "text": "阿笨握住松鼠的手，说自己懂得这些是从知道会长大那天起，并说“我们都 会 长大的”，说漫长旅途会让他们衰老，但会不后悔地奔向生命中最绚丽的年华。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "从我知道我会长大的那一天起吧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2167",
+              "text": "松鼠挠了挠头，似乎没听懂阿笨的话，原文叙述她“觉得难过而又盼望着”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 54,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000054.txt",
+                  "chapter_id": "ch-000054",
+                  "chapter_order": 54,
+                  "locator": null,
+                  "anchor": "她好像没懂，但她觉得难过而又盼望着"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2162"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2163"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2166"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2167"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0270",
+      "kind": "event",
+      "title": "石猴告别松鼠，乘木筏出海",
+      "introduced_at": 55,
+      "safe_through": 55,
+      "updates": [
+        {
+          "id": "update-0270",
+          "chapter_ranges": [
+            {
+              "start": 55,
+              "end": 55
+            }
+          ],
+          "revealed_at": 55,
+          "status": "completed",
+          "story_time": null,
+          "summary": "石猴向松鼠告别，说出要去找那力量的心愿，随后上了木筏离开花果山；松鼠在高山上目送他变成海上的一个小点，抱住尾巴哭了。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2168",
+              "text": "石猴对松鼠说\"我也要走了，终于那一天\"。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "我也要走了，终于那一天"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2169",
+              "text": "松鼠看着石猴没有说\"话\"，并奇怪自己好像早知道这一天会来到。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2170",
+              "text": "石猴自述不愿因失去而忧伤、不愿为时光短暂而忧愁，说要去找到那力量，让所有生命超越界限、让所有的花同时在大地上开放、让想飞的就能自由飞翔、让所有人和他们喜欢的永远地在一起。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0067/index.json",
+                "record_id": "char-0067"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "我要去找到那力量"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2171",
+              "text": "松鼠对石猴说\"可是，我喜欢的却都要离开我\"。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "可是，我喜欢的却都要离开我"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2172",
+              "text": "石猴已经上了木筏离开，松鼠在当初她初见石头的那座高山上看着他变成海上的一个小点。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "石猴已经上了木筏"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2173",
+              "text": "松鼠抱住自己的尾巴哭了，并自问\"这就是长大么？为什么要去得那么急？\"",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "松鼠抱住自己的尾巴"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2168"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2170"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2171"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2172"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2173"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0271",
+      "kind": "event",
+      "title": "天地忽静、群叶飘落，松鼠听见叶子的告别",
+      "introduced_at": 55,
+      "safe_through": 55,
+      "updates": [
+        {
+          "id": "update-0271",
+          "chapter_ranges": [
+            {
+              "start": 55,
+              "end": 55
+            }
+          ],
+          "revealed_at": 55,
+          "status": "completed",
+          "story_time": null,
+          "summary": "松鼠醒来发现天地忽然安静、山海变成金黄、大量叶子飘落；她听见细声说\"再见了\"，追问之下无数声音回答\"我在这儿\"\"记住我\"，她追着叶子喊\"一片叶子\"，最后跳到枝头挥手告别。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2174",
+              "text": "某一天松鼠醒来，天地忽然变得安静，没有翔鸟的扑翅声，也没有众猴的吵闹。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "天地忽然变得安静"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2175",
+              "text": "松鼠抬头看到那一片海已变成金黄，很多叶子飘然而下，落向遥远的大地。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "那一片海已变成金黄"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2176",
+              "text": "松鼠听见一个声音轻声说\"再见了\"，追问\"你是谁？你在哪儿？\"，对方回答\"我是一片叶子啊，你看见我了吗？我在这儿。\"",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "我是一片叶子啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2177",
+              "text": "无数声音齐声说\"我在这儿。我在这儿。\"\"我在，记住我，我曾经在……\"，松鼠转着身子四周看着，无数叶子从她身边飘过。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "无数的声音说道"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2178",
+              "text": "松鼠猛地跳起来，在树枝间飞快地往下追着，大喊\"一片叶子，一片叶子！\"",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0112/index.json",
+                "record_id": "char-0112"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "在树枝间飞快地往下追着"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2179",
+              "text": "那细细的声音道谢，并说\"我知道我在，明年，你再在枝头上叫我的名字吧\"；松鼠追不上他们，跳到枝头向下挥手道别\"再见了，再见——\"。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0138/index.json",
+                "record_id": "char-0138"
+              },
+              "revealed_at": 55,
+              "source_refs": [
+                {
+                  "path": "source/vol-002/ch-000055.txt",
+                  "chapter_id": "ch-000055",
+                  "chapter_order": 55,
+                  "locator": null,
+                  "anchor": "明年，你再在枝头上叫我的名字吧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2174"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2175"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2178"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2179"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    }
+  ]
+}

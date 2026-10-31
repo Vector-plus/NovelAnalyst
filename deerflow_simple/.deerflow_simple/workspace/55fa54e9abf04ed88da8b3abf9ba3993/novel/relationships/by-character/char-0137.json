@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0137",
+  "kind": "index",
+  "revision": 4,
+  "safe_through": 54,
+  "title": "峰顶孤石 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 52,
+        "end": 54
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0137/index.json",
+        "record_id": "char-0137"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0062.json",
+        "record_id": "rel-0062"
+      },
+      "kind": "relationship",
+      "title": "众猴×石头",
+      "summary": "与众猴×石头的关系",
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0137/index.json",
+          "record_id": "char-0137"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 52
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0063.json",
+        "record_id": "rel-0063"
+      },
+      "kind": "relationship",
+      "title": "阿明×石头",
+      "summary": "与阿明×石头的关系",
+      "chapter_ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0137/index.json",
+          "record_id": "char-0137"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 53
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0064.json",
+        "record_id": "rel-0064"
+      },
+      "kind": "relationship",
+      "title": "老猴×石头",
+      "summary": "与老猴×石头的关系",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0137/index.json",
+          "record_id": "char-0137"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 54
+    }
+  ]
+}

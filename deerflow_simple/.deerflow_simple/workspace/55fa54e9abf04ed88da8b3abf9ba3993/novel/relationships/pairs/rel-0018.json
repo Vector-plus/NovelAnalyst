@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0018",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 9,
+  "introduced_at": 9,
+  "subjects": [
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    },
+    {
+      "path": "characters/char-0023/index.json",
+      "record_id": "char-0023"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0018-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "as_of": 9,
+      "revealed_at": 9,
+      "summary": "众仙女邀紫霞同去桃园时紫霞在场（阿瑶亦为众仙女之一），紫霞以“我还想在这待一会儿”拒绝同往，仙女们笑说她看晚霞时不做任何事。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "众仙女邀紫霞同去桃园时紫霞在场（阿瑶亦为众仙女之一），紫霞以“我还想在这待一会儿”拒绝同往，仙女们笑说她看晚霞时不做任何事。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0178"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0179"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

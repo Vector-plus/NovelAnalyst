@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0052",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "孙悟空的棒第一次打不下去",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0052-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "character_turn",
+      "status": "open",
+      "role": "core",
+      "summary": "面对女子“死在你手中”的话，孙悟空举棒却让金箍棒凝在空中，自己问“怎么就打不下去呢”，最后以“今天老孙突然不想杀人”为由饶她一命离去。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1113"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1114"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1115"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

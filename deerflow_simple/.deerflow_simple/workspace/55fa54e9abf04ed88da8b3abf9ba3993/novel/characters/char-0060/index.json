@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0060",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "沙悟净",
+  "introduced_at": 18,
+  "identity_notes": [
+    {
+      "id": "in-char-0060-001",
+      "revealed_at": 18,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0642"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0643"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0649"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0650"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0654"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0060/stages/stage-004.md",
+        "record_id": "doc-char-0060-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "补盏五百年：以物证求归位",
+      "summary": "补盏五百年：以物证求归位（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0060/index.json",
+          "record_id": "char-0060"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

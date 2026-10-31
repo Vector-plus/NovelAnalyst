@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0010",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 5,
+  "introduced_at": 5,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0012/index.json",
+      "record_id": "char-0012"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0010-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "as_of": 5,
+      "revealed_at": 5,
+      "summary": "据孙悟空自述：玉帝先将其罚入「五岳」关五百年，后开恩，命他完成三件事即可赎前罪（保唐僧上西天、杀四个魔王、第三件待前两件完成后告知）。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "据孙悟空自述：玉帝先将其罚入「五岳」关五百年，后开恩，命他完成三件事即可赎前罪（保唐僧上西天、杀四个魔王、第三件待前两件完成后告知）。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0096"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0097"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

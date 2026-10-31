@@ -1,0 +1,87 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0069",
+  "kind": "relationship",
+  "revision": 3,
+  "safe_through": 69,
+  "introduced_at": 56,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0147/index.json",
+      "record_id": "char-0147"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0069-stage-006",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 60
+        }
+      ],
+      "as_of": 60,
+      "revealed_at": 60,
+      "summary": "旧识／未明的等待关系",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "自称因等待「他」而成为妖精；当面明言孙悟空不该受铁箍拘束（「绝不！」），并主动提出带他超出界限。",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "第57章一击打碎其身躯；第60章对她「超出界限」的邀约未作回应——本阶段未提取到他任何态度表达，故不填其他态度维度。",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0069-stage-008",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-008"
+      },
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "as_of": 69,
+      "revealed_at": 69,
+      "summary": "旧识",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "关系状态终止（一方形散）；双方态度本范围均未提取到依据",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

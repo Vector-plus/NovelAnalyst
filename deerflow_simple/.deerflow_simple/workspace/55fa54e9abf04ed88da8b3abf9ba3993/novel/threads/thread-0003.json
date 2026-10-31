@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0003",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 8,
+  "label": "唐僧遇害与冒充孙悟空行凶者",
+  "introduced_at": 8,
+  "updates": [
+    {
+      "id": "update-thread-0003-001",
+      "revealed_at": 8,
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "category": "mystery",
+      "status": "active",
+      "role": "setup",
+      "summary": "本章首次明确唐僧已死（尸身在侧、猪八戒拟明日天葬），孙悟空认定行凶者系冒充自己的人，行凶动机被其解释为阻止自己西天求得正果，冒充者身份未明。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0153"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0158"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0159"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0160"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

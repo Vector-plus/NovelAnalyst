@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0162",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 66,
+  "entity_type": "character",
+  "label": "无名声音（第66章与沙僧对话者）",
+  "introduced_at": 66,
+  "identity_notes": [
+    {
+      "id": "in-char-0162-001",
+      "revealed_at": 66,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2491"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2493"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2496"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2498"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2500"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

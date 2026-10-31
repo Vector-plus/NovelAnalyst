@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000013",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000013",
+    "chapter_order": 13
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1261",
+    "claim-1262",
+    "claim-1263",
+    "claim-1264",
+    "claim-1265",
+    "claim-1266",
+    "claim-1267",
+    "claim-1268",
+    "claim-1269",
+    "claim-1270",
+    "claim-1271",
+    "claim-1272",
+    "claim-1273",
+    "claim-1274",
+    "claim-1275",
+    "claim-1276",
+    "ev-0155"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第13章精读完成",
+    "record_ids": [
+      "claim-1261",
+      "claim-1262",
+      "claim-1263",
+      "claim-1264",
+      "claim-1265",
+      "claim-1266",
+      "claim-1267",
+      "claim-1268",
+      "claim-1269",
+      "claim-1270",
+      "claim-1271",
+      "claim-1272",
+      "claim-1273",
+      "claim-1274",
+      "claim-1275",
+      "claim-1276",
+      "ev-0155"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

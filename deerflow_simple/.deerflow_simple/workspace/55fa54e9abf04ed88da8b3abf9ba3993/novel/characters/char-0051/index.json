@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0051",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 14,
+  "entity_type": "character",
+  "label": "和尚（第14章河边看风景的僧人）",
+  "introduced_at": 14,
+  "identity_notes": [
+    {
+      "id": "in-char-0051-001",
+      "revealed_at": 14,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0552"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0553"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0554"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0561"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0563"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0565"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0566"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

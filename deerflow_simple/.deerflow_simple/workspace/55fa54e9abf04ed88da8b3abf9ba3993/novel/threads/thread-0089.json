@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0089",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 41,
+  "label": "紧箍咒与观音",
+  "introduced_at": 41,
+  "updates": [
+    {
+      "id": "update-thread-0089-001",
+      "revealed_at": 41,
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "孙悟空头痛时，不现身的声音呢喃“唉，紧箍咒。观音你够狠……”，为本卷后文埋下线头。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0006",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "取经队伍的散与重组：唐僧身死、悟空赴地府、小白龙请假",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0006-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "quest",
+      "status": "active",
+      "role": "main",
+      "summary": "唐僧身死（据对话）、孙悟空离队赴地府取魂、沙和尚已被称“走人”、小白龙请假回家，只剩猪八戒留在林中看守行李尸首，队伍实际处于分散状态。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0194"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0195"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0196"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0198"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0200"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0202"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

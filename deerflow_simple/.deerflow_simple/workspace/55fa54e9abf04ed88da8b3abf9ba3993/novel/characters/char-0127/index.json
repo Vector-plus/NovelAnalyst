@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0127",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 48,
+  "entity_type": "character",
+  "label": "青衣女孩",
+  "introduced_at": 48,
+  "identity_notes": [
+    {
+      "id": "in-char-0127-001",
+      "revealed_at": 48,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2035"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

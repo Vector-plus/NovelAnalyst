@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0123",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 49,
+  "title": "没戴金箍的猴子 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0123/index.json",
+        "record_id": "char-0123"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0059.json",
+        "record_id": "rel-0059"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×没戴金箍的猴子",
+      "summary": "与孙悟空×没戴金箍的猴子的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0123/index.json",
+          "record_id": "char-0123"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

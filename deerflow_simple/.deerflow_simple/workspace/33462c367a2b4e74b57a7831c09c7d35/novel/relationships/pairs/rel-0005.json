@@ -1,0 +1,50 @@
+{
+  "id": "rel-0005",
+  "introduced_at": 1,
+  "kind": "relationship",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 1,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "格兰特向会英语的拾荒者询问辛妮的情况，对方逐项解答；格兰特还称赞其英语讲得好",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "other"
+        }
+      ],
+      "id": "rel-0005-stage-001",
+      "revealed_at": 1,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "summary": "格兰特向会英语的拾荒者询问辛妮的情况，对方逐项解答；格兰特还称赞其英语讲得好",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0008/index.json",
+      "record_id": "char-0008"
+    }
+  ]
+}

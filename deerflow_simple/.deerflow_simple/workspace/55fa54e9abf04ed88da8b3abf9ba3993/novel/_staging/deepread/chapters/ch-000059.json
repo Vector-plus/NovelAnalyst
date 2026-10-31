@@ -1,0 +1,1215 @@
+{
+  "chapter_order": 59,
+  "chapter_id": "ch-000059",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-006"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "第四天白屋问答：唐僧与白晶晶论“流放者”，白屋散成烟雾",
+      "introduced_at": 59,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 59,
+            "end": 59
+          }
+        ],
+        "revealed_at": 59,
+        "status": "closed",
+        "story_time": "取经途中第四天",
+        "summary": "唐僧围兽皮衣去化缘，到一栋冒炊烟的白屋前，白晶晶正在补他丢掉的袈裟。两人从徒弟话题谈到“家”与“流放者”：唐僧说世上有些人是没有地方可去的流放者，对他是任何地方都是家；白晶晶先邀他留下聊天，后追问他“你没有这样的牵挂么”，最终喊出“你简直就不是人！你什么都能抛弃，什么都能忘记！”，白色小屋散成烟雾，她转身奔去。红色袈裟飘上天空落在唐僧手中，唐僧望着她奔去的路，脸色平静，说“我不是忘记一切，我是一无所有”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "五百年前花果山海风季节：牛魔王救起白晶晶，二人遥望孙悟空与天兵交战",
+      "introduced_at": 59,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 59,
+            "end": 59
+          }
+        ],
+        "revealed_at": 59,
+        "status": "closed",
+        "story_time": "五百年前（花果山）",
+        "summary": "五百年前的花果山遭遇海风季节的巨风与雷电，海水被劈成巨坑，百丈狂涛席卷孤岛。白晶晶在风暴中抱树、踏石求生，被水下龙王的火龙攻击，大喊“牛魔王”，随后被一股力量提出水面。牛魔王问她属哪个部族、斥她碍手碍脚；白晶晶自称“我是仙……现在不是了”“我没有地方可去了”。牛魔王说花果山是极乐园，但现在是每隔几年一次的海风季节，风暴过后一切会长出来；并称妖族是自然的顺从者，生于海水、泥土、落叶，不想控制天地力量，“但我们并不是没有令人畏惧的力量”。其间牛魔王俯冲穿越闪电、避过火球爆炸，天地静下后红光贯穿黑云，他落在乱石地面长出一口气，北方铁铸黑云后传来天兵喊杀声。牛魔王指向天际说“是他，看哪。他在战斗”，云涛上映出一个巨大舞动兵器的身影，地上众人惊叹，牛魔王还学着那身影摆姿势、自嘲做不到他的造型那么帅，白晶晶笑起来。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0037/index.json",
+              "record_id": "char-0037"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-26",
+          "claim-local-29"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-30",
+          "claim-local-31"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "黑松林夜：白晶晶追忆孙悟空、称其不该受铁箍拘束，显露原形",
+      "introduced_at": 59,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 59,
+            "end": 59
+          }
+        ],
+        "revealed_at": 59,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "叙述转入白晶晶的第一人称自述：她答应过会等他回来、因为不肯放弃而成为妖精，漫长等待中风化身体，只剩下一个等待的姿势，用没有眼球的黑洞望向天涯；她追问“他”是否已倒在这世界的某一个角落，或已不再记得某处是家。在黑松林没有月光的夜里，她沉浸在回忆里，喃喃念“孙悟空……”，脸上的笑容渐渐消失，说“孙悟空。这样的一个人怎么能被铁箍拘束！绝不！”，随后走上高岩，夜风吹动衣衫，月光照见她可怖的原形。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35",
+          "claim-local-36"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-32"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-35",
+          "claim-local-36"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-36"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "第四天，唐僧围着兽皮衣去化缘，看见远处一栋白屋正冒出炊烟。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "唐僧围着兽皮衣去化缘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "白晶晶在白屋招呼唐僧，手里正捧着一件衣服在补，那是唐僧丢掉的袈裟。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "那是他丢掉的袈裟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "唐僧对白晶晶说，他以前见过一个很像她的小姑娘，但被他的大徒弟打死了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "不过被我的大徒弟打死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "唐僧自述他的大徒弟从前仇家太多、总是杀来杀去，恩怨情恨纠缠，他做师父的受了不少连累。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "我做师父的很是受了不少连累"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "唐僧自述他照顾徒弟，说“没我他早死多少回了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "没我他早死多少回了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "白晶晶提议让唐僧的徒弟们走，唐僧留在她这里好好聊聊天。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "不如让他们走啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧说这世上有的人没有地方可去、是流放者，让他们回去也找不到来时的路和过去的家园，就会死在某一个角落。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": {
+            "paragraph": 12
+          },
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "白晶晶问唐僧有没有家，唐僧答“有，这就是我家”；白晶晶嚷道“胡说！这是我家！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "胡说！这是我家！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "唐僧说他来说任何一个地方都是家，可有的人却把家放在世界某一个地方。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "对我来说，任何一个地方都是家"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧说世上有些事不是想通了就能做到，有些人宁愿一辈子在路上走。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "有些人宁愿一辈子在路上走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "唐僧说恋家的人反而要流浪，是因为这世上没有能永远不失去的东西，有些人不相信，所以失去的就要不停地找回来、找一辈子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "他们要不停地找回来，找一辈子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "唐僧回答白晶晶他没有那样的牵挂；白晶晶对他说“你简直就不是人！你什么都能抛弃，什么都能忘记！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "你简直就不是人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "白晶晶喊叫后，白色小屋散成烟雾，她转身奔去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "白色小屋散成烟雾"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "红色袈裟飘上天空，缓缓落在唐僧手中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "红色袈裟飘上天空，缓缓落在唐僧的手中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "唐僧望向白晶晶奔去的路，脸色依旧平静。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "还是脸色平静"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "唐僧说“你错了。我不是忘记一切，我是一无所有。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "我不是忘记一切，我是一无所有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "回忆段落以“五百年前 花果山”为时间地点标记，风暴场景发生在五百年前的花果山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "五百年前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "五百年前的花果山遭巨变：乌云垂下触角、赤红膨胀炸开，巨大闪电击在海中把海水分开成巨坑，黑色风暴卷起百丈高的狂涛席卷花果山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "黑色风暴卷起的百丈高的狂涛席卷着花果山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "风暴中白晶晶死死抱住一棵大树，树将被拔起时她逆风扑向巨石、在石块上左点右跃，地面升起、水柱直冲，她惊恐万分，看见一个黑色身影在高空掠过。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "白晶晶在风暴中死死抱住一棵大树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "白晶晶大喊“牛魔王！”，海水灌进她嘴里，水中附着龙王的魔咒，几条火龙向她射来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "海水灌进了她嘴里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "一股力量把白晶晶提出了水面。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "一股力量把她提出了水面"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "牛魔王问白晶晶是哪个部族的，说她不是挑选出来的妖军、这点修行也敢待在这儿、碍手碍脚。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "你是哪个部族的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "白晶晶对牛魔王说“我不是妖精，我是仙……现在不是了”，并说自己没有地方可去了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "我是仙……现在不是了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "牛魔王说白晶晶很聪明、知道来花果山，这是极乐园，但她来得不是时候；现在是海风季节，每隔几年就要来一次，风暴过去后一切还会长出来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "现在是海风季节"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "白晶晶说这里要沉了、神的力量无法抗拒，并说妖族永远也掌握不了这么大的力量。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "妖族永远也掌握不了这么大的力量"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "牛魔王说妖族总是自然的顺从者，在海水、泥土、落叶中而生，不会想到控制天地力量、把风雨雷电据为己用，但妖族并不是没有令人畏惧的力量。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "我们总是自然的顺从者"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "天地间闪过巨大电光后，牛魔王向下俯冲，数十道闪电在他身边掠过，他左右横晃在闪电中穿梭；头顶黑云膨胀炸出几百里宽的巨大火球，爆炸收缩的气浪把地上大石吸上天。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "他向下俯冲下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "天地忽然静下来后，一道红光贯穿满天黑云、一连串巨响从东炸到西；牛魔王落在乱石纵横的地面上长出一口气，北方铁铸的黑云后传来天兵的喊杀声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "牛魔王落在乱石纵横的地面上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "牛魔王指向天际说“是他，看哪。”“他在战斗。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "牛魔王指向天际"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "一道巨大电光把云层映亮，云涛上映出一个巨大的舞动兵器的身影，地上的人惊叹。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "一个巨大的舞动兵器的身影被映在滚滚云涛上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "牛魔王学着云中身影摆姿势，自嘲“我永远都做不到他的造型那么帅”，白晶晶笑起来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "我永远都做不到他的造型那么帅"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "叙述以白晶晶第一人称自述：她知道自己答应过会等他回来，因为傻、不肯放弃而成为妖精；漫长等待中风吹散头发、吹朽皮肤、吹化身体，只剩下一个等待的姿势，用没有眼球的黑洞望向天涯。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "只剩下一个等待的姿势"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "白晶晶的自述中追问“他”是否真的已倒在这世界的某一个角落，或者已不再记得这世上的某一个地方是家。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "他真的已倒在这世界的某一个角落"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "在黑松林没有月光的夜里，白晶晶沉浸在回忆里，喃喃念“孙悟空……”，脸上的笑容渐渐消失。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "在黑松林没有月光的夜里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "白晶晶说“孙悟空。这样的一个人怎么能被铁箍拘束！绝不！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "怎么能被铁箍拘束"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-36",
+      "text": "白晶晶走上高岩，夜风吹动她的衣衫，月光从云中露出，照见她可怖的原形。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 59,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000059.txt",
+          "chapter_id": "ch-000059",
+          "chapter_order": 59,
+          "locator": null,
+          "anchor": "照见她可怖的原形"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "白屋",
+      "category": "location",
+      "introduced_at": 59,
+      "notes": "唐僧第四天化缘时所见、白晶晶所在的白色小屋。原文叙述白晶晶喊叫后“白色小屋散成烟雾”，其后红袈裟飘上天空落回唐僧手中。该屋是否为白晶晶幻化，原文未明言（可作 inferred 假设，未在此断言）。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-13",
+        "claim-local-14"
+      ]
+    },
+    {
+      "label": "花果山海风季节",
+      "category": "natural_phenomenon",
+      "introduced_at": 59,
+      "notes": "牛魔王（reported）称花果山每隔几年会出现一次海风季节，伴随狂风、雷电与狂涛，风暴过后植被会长回来；本章五百年前场景正处该季节。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-24"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "第四天，白晶晶在其白屋招呼来化缘的唐僧，手中正补唐僧丢掉的袈裟；她邀唐僧留下聊天，并追问唐僧有没有牵挂，末了喊“你简直就不是人！”后转身奔去，白屋散成烟雾。唐僧望其奔去的路，脸色平静，说“我不是忘记一切，我是一无所有”。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": "仅记录互动事实，不作情感定性。双方此前是否相识，本章未明写。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "subject_b": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "五百年前花果山海风季节风暴中，白晶晶呼救“牛魔王”，随后被一股力量提出水面；牛魔王问她属哪个部族、斥她碍手碍脚，并向她说明花果山是极乐园、此时是海风季节；随后牛魔王在雷火中穿梭，白晶晶同他一起在乱石地带遥望云中与天兵交战的身影，听他说“他在战斗”，并因他学着那身影摆姿势而笑起来。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31"
+      ],
+      "notes": "发生于五百年前回忆段。提出水面者原文未点名，据上下文与白晶晶喊名、牛魔王随即发问，归为牛魔王（inferred 层，未在此断言为唯一解释）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶在回忆中遥望云涛上映出的巨大舞动兵器身影（牛魔王称之为“他”、“他在战斗”）并沉浸其中；在黑松林夜里她喃喃念“孙悟空……”，笑容渐渐消失，并说“这样的一个人怎么能被铁箍拘束！绝不！”；其第一人称自述中提到她答应过会等“他”回来，因不肯放弃而成为妖精。",
+      "source_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35"
+      ],
+      "notes": "云中身影身份由牛魔王指认，本章未直接点明姓名，仅由白晶晶随后念出“孙悟空”。仅记互动与言语事实，不作情感定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_thread",
+      "status": "open",
+      "role": "setup",
+      "title": "白晶晶不肯放弃的等待：等“他”回来，并认为孙悟空不该被铁箍拘束",
+      "summary": "白晶晶第一人称自述：她答应过会等他回来，因不肯放弃而成为妖精，等待到身体风化、只剩等待的姿势；在黑松林夜里念出“孙悟空”，并称“这样的一个人怎么能被铁箍拘束！绝不！”，随后显露可怖原形。',",
+      "source_claim_local_ids": [
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35",
+        "claim-local-36"
+      ]
+    },
+    {
+      "category": "setting_thread",
+      "status": "open",
+      "role": "setup",
+      "title": "唐僧与白晶晶的“流放者/家”之辩留下的立场分歧",
+      "summary": "唐僧主张世上有些人是无家可归的流放者、对他任何地方都是家，并自称“我不是忘记一切，我是一无所有”；白晶晶认为他在抛弃与忘记，喊“你简直就不是人！”后离去。双方立场对立未解。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第59章：白屋问答与五百年前的风暴",
+    "front_matter": {
+      "as_of": 59,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        },
+        {
+          "path": "characters/char-0037/index.json",
+          "record_id": "char-0037"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-14",
+        "claim-local-16",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-32",
+        "claim-local-35",
+        "claim-local-36"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n第四天，唐僧围着兽皮衣去化缘，见远处一栋白屋冒出炊烟（[[claim-local-1]]）。白晶晶在白屋招呼他，手中正补一件衣服——那是唐僧丢掉的袈裟（[[claim-local-2]]）。两人由此开始一段关于徒弟、家与“流放者”的问答（[[ev-local-1]]）。\n\n## 关键行动\n\n- 唐僧自述大徒弟从前仇家太多、总在杀来杀去，做师父的受了不少连累，并说“没我他早死多少回了”（[[claim-local-4]]、[[claim-local-5]]）；他又提到曾见过一个很像白晶晶的小姑娘被大徒弟打死（[[claim-local-3]]）。\n- 白晶晶提议让徒弟们走、唐僧留下聊天（[[claim-local-6]]）。\n- 唐僧抛出“流放者”之说：世上有些人是没有地方可去的，让他们回去也找不到来时的路与过去的家园，会死在某个角落（[[claim-local-7]]）。\n- 白晶晶问“你有家吗”，唐僧答“这就是我家”，白晶晶嚷“胡说！这是我家！”（[[claim-local-8]]）；唐僧说对他来说任何地方都是家，有的人却把家放在世界某一个地方（[[claim-local-9]]）；又说恋家的人反而流浪，是因为失去的要一辈子不停找回来（[[claim-local-11]]）。\n- 白晶晶质问他“你简直就不是人！你什么都能抛弃，什么都能忘记！”，随后白色小屋散成烟雾，她转身奔去（[[claim-local-12]]、[[claim-local-13]]）；红色袈裟飘上天空，落在唐僧手中（[[claim-local-14]]）。唐僧望着她奔去的路，脸色平静，说“我不是忘记一切，我是一无所有”（[[claim-local-15]]、[[claim-local-16]]）。\n\n## 转折与新信息\n\n叙述转入白晶晶的第一人称自述：她因答应过“等他回来”、不肯放弃而成为妖精，漫长等待中身体风化，只剩一个等待的姿势（[[claim-local-32]]）；她追问“他”是否已倒在世界的某个角落，或已不记得某处是家（[[claim-local-33]]）。\n\n随后场景标为“五百年前 花果山”（[[claim-local-17]]、[[ev-local-2]]）：花果山遭海风季节的巨风雷电，百丈狂涛席卷孤岛（[[claim-local-18]]）；白晶晶在风暴中呼救“牛魔王”，被水中龙王魔咒所化的火龙攻击（[[claim-local-20]]），被一股力量提出水面（[[claim-local-21]]）；她对牛魔王说“我不是妖精，我是仙……现在不是了”“我没有地方可去了”（[[claim-local-23]]）；牛魔王称花果山是极乐园，现在是每隔几年一次的海风季节，风暴过后一切会长回来（[[claim-local-24]]），并说妖族是自然的顺从者、不想控制天地力量，但并非没有令人畏惧的力量（[[claim-local-26]]）。\n\n风暴暂歇后，牛魔王指向天际说“是他，看哪。他在战斗”，云涛上映出一个巨大的舞动兵器的身影，地上众人惊叹（[[claim-local-29]]、[[claim-local-30]]）；牛魔王学着那身影摆姿势、自嘲做不到他的造型那么帅，白晶晶笑起来（[[claim-local-31]]）。\n\n## 本章结果\n\n在黑松林没有月光的夜里，白晶晶沉浸在回忆中，喃喃念“孙悟空……”，笑容渐渐消失（[[claim-local-34]]）；她说“这样的一个人怎么能被铁箍拘束！绝不！”（[[claim-local-35]]），走上高岩，月光照见她可怖的原形（[[claim-local-36]]、[[ev-local-3]]）。同章之内，唐僧一方仅带走被送回的红袈裟，与白晶晶的对话以她的离去收场。\n\n## 未决问题与补读入口\n\n- “他/孙悟空”与白晶晶之间的往事本章只由回忆与自述呈现，具体约定与分离经过未写明，需回看第57章白晶晶初登场处核对。\n- 白晶晶自称“我是仙……现在不是了”，但原为哪位仙、为何失去仙籍，本章未明示。\n- “铁箍”所指（孙悟空所受的束缚）仅由白晶晶一句提及，未展开。\n- 白晶晶从白屋奔去与“黑松林”夜色的时空衔接，本章未写过渡，存在理解不确定处。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-2",
+      "stage_id": "stage-006",
+      "note": "首次给出五百年前花果山海风季节场景，交代白晶晶与牛魔王结识，以及孙悟空与天兵交战被远观的画面"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-23",
+      "stage_id": "stage-006",
+      "note": "白晶晶自述曾是仙、现已不是、无处可去——身份线索，待后续章节验证"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-32",
+      "stage_id": "stage-006",
+      "note": "白晶晶自述因等待“他”而成为妖精，是本卷角色动机的核心陈述"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-35",
+      "stage_id": "stage-006",
+      "note": "白晶晶明确表示孙悟空不该受铁箍拘束（“绝不！”），构成后续行动意向的伏笔"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-16",
+      "stage_id": "stage-006",
+      "note": "唐僧“我不是忘记一切，我是一无所有”的自述，与其“流放者”论配套，属角色立场关键陈述"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-36",
+      "stage_id": "stage-006",
+      "note": "白晶晶显露可怖原形，形体属性线索"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "description": "白晶晶对牛魔王自述“我不是妖精，我是仙……现在不是了”，其原本仙籍身份与失去身份的原因本章未明示，不应用后文或常识补齐。",
+      "related_refs": [
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-23"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "description": "白晶晶所说“铁箍”具体指孙悟空所受何种束缚，本章仅一句提及，未展开说明。",
+      "source_claim_local_ids": [
+        "claim-local-35"
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "description": "白晶晶从白屋散成烟雾后奔去，与随后“在黑松林没有月光的夜里”场景之间的时间与地点衔接，原文无过渡叙述。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-34"
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "description": "提出白晶晶出水面者原文未点名，此处据上下文（白晶晶喊“牛魔王”、牛魔王随即发问）归为牛魔王，属解释性判断，若后续章节给出其他行动者需修正。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "description": "唐僧“流放者”一段引语在章内出现两次（首次对话、后文重复），无法给出唯一 anchor，故该 claim 仅用段落 locator 定位。",
+      "source_claim_local_ids": [
+        "claim-local-7"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章标题原文为占位符“．”，未提供有效章题，摘要标题由提取者据内容概括，非原文标题。",
+    "本章含“五百年前 花果山”回忆段，story_time 与主线（取经途中第四天/夜）不同，事件 ev-local-2 的 story_time 标记为“五百年前（花果山）”。",
+    "关系定性：本章仅提取互动与言语事实，关系 candidate 统一使用 facet.type=other，未作情感类别判断。",
+    "孙悟空在本章仅以“云中舞动兵器的身影”（由牛魔王指认“他在战斗”）与白晶晶口中之名出现，未直接登场行动；未将其身形认定为该身影的唯一解释，仅记录原文的指认关系。",
+    "白屋是否为白晶晶幻化：原文有“白色小屋散成烟雾”一句，但未明言屋为幻化，故未作为显式陈述提交。"
+  ]
+}

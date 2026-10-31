@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0207",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 58,
+  "label": "护体袈裟",
+  "category": "other",
+  "introduced_at": 58,
+  "updates": [
+    {
+      "id": "update-setting-0207-001",
+      "revealed_at": 58,
+      "chapter_ranges": [
+        {
+          "start": 58,
+          "end": 58
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2258"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2259"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

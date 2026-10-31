@@ -1,0 +1,58 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0043",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 26,
+  "introduced_at": 19,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0015/index.json",
+      "record_id": "char-0015"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0043-stage-003",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "as_of": 26,
+      "revealed_at": 26,
+      "summary": "旧敌（交手后息怨）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "双方正面交手",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "天蓬单方宣布不再记恨",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

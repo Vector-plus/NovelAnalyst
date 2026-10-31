@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0216",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 62,
+  "label": "灵霄殿玉阶（三千三百级）",
+  "category": "other",
+  "introduced_at": 62,
+  "updates": [
+    {
+      "id": "update-setting-0216-001",
+      "revealed_at": 62,
+      "chapter_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2376"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2377"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

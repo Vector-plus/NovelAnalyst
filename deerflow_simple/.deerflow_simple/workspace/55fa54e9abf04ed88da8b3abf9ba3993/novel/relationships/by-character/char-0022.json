@@ -1,0 +1,80 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0022",
+  "kind": "index",
+  "revision": 3,
+  "safe_through": 26,
+  "title": "王母 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0020.json",
+        "record_id": "rel-0020"
+      },
+      "kind": "relationship",
+      "title": "王母×阿瑶",
+      "summary": "与王母×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0045.json",
+        "record_id": "rel-0045"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×王母",
+      "summary": "与孙悟空×王母的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "chapter_order": 5,
+  "chapter_id": "ch-000005",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "林中女子与孙悟空对话：女子称识得他，孙悟空自述五百年关押与赎罪三件事",
+      "introduced_at": 5,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 5,
+            "end": 5
+          }
+        ],
+        "revealed_at": 5,
+        "status": "completed",
+        "story_time": null,
+        "summary": "唐僧离开后，孙悟空跳上树闲荡。被打倒的女子问他是否还记得自己与蟠桃树下的初见，孙悟空否认认识她，自称五年前刚从五岳山地牢放出、一心想杀妖积功德抵罪；女子纠正应是五行山，并质疑天庭不会因杀妖放过他。孙悟空为让她死个明白，说出玉帝要他做的三件事，并列出四大魔王名号，其中包括东胜神洲齐天大圣美猴王。女子闻之惊疑，喃喃说孙悟空已记不得一切，也记不得“你”，随后剧痛几乎晕厥。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "林中女子"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空举棒未落，扫树后饶女子一命离去",
+      "introduced_at": 5,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 5,
+            "end": 5
+          }
+        ],
+        "revealed_at": 5,
+        "status": "completed",
+        "story_time": null,
+        "summary": "女子忍痛说等了几万年却要死在他手中、逃不出“他”的掌心后，孙悟空举棒欲打，金箍棒凝在空中未落下；他转而将棒扫向旁边树木，扫出半径几十丈的扇形，自称今天突然不想杀人、饶她一命，收棒入耳后头也不回走向林外。女子伸手向他却疼得发不出声，孙悟空没有看见。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "林中女子"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "唐僧离开后，孙悟空跳到树上，被打倒的女子在地上打滚哀鸣，孙悟空自在地打着秋千，半晌后女子才渐渐平复。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "唐僧走了，孙悟空跳到树上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空对女子说：不是可怜她，只是不杀没还手之力的人，让她现在出招。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "只是老孙不杀没还手之力的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "女子对孙悟空说“你还是老样子”，问他是否还记得两人第一次见面，说她当时他也在树上那样躺着，是蟠桃树。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "林中女子"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "是蟠桃树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空回称自己从没见过她，也没见过蟠桃树，要她随便亮个招数让他打死，不要浪费时间。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "大婶我从没见过你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "女子追问孙悟空是否不记得她是谁、是否已忘了从前的一切。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "林中女子"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "你难道已忘了从前的一切"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空自称五年前刚从五岳山地牢被放出来，一心想多杀几个妖怪积功德值，好让上天销了前罪，没准还封个土地山神。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "五年前刚从五岳山地牢被放出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "女子反问“五岳山？是五行山才对呀”，并质疑：既然孙悟空记得自己做的事，又怎是杀几个妖天庭就会放过他的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "林中女子"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "销前罪？你也记得你做的事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空自称本是花果山一妖猴，因不敬天帝而被天帝罚入五岳关了五百年，后蒙玉帝开恩，说只要他完成三件事就赎了前罪，并说自己以前的事记得清清楚楚。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "我本是花果山一妖猴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "女子追问是哪三件事，孙悟空答第一件是保“刚才那个秃头上西天”，第二件是杀四个魔王，第三件要等前两事做完上天才会告诉他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "要我保刚才那个秃头上西天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空列出四个魔王：西贺牛洲平天大圣牛魔王、北俱芦洲混天大圣鹏魔王、南瞻部洲通天大圣猕猴王，以及东胜神洲齐天大圣美猴王。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "西贺牛洲平天大圣牛魔王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "女子听到“美猴王”之名后现出惊疑神色，反问孙悟空是否认识他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "美……美猴王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "女子喃喃念道“是了，他已记不得一切，也记不得你了”，又扬起脸说“但有一件事你要知道，你就是……”，话未说完。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "林中女子"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "他已记不得一切，也记不得你了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "女子忽然又一阵剧痛，几乎晕厥过去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "她忽然又一阵剧痛，几乎晕厥过去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "女子忍痛抬头说不会记错、记得所有的事会永远记住，并说没想到等了几万年，等来的却是死在他手中，他们终究逃不出“他”的掌心。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "林中女子"
+      },
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "等来的却是死在你手中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空举起棒来，金箍棒凝在空中没有落下；他猛地将棒扫向旁边的树木，在林中扫出半径几十丈的扇形。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "金箍棒就那样凝在空中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空自问“怎么就打不下去呢”，把金箍棒收入耳中，说自己今天突然不想杀人、就饶她一命，随后头也不回向林外走去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "今天老孙突然不想杀人，就饶你一命"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空没有看见身后女子将手伸向他、却又疼得发不出声来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 5,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000005.txt",
+          "chapter_id": "ch-000005",
+          "chapter_order": 5,
+          "locator": null,
+          "anchor": "他没有看见后面女子将手伸向他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "林中女子",
+      "introduced_at": 5,
+      "alias_texts": [
+        "女子",
+        "女妖",
+        "大婶",
+        "老太太"
+      ],
+      "identity_notes": "第4章被孙悟空打倒的女妖，第5章在林中与孙悟空对话。她自称与孙悟空在蟠桃树下有过初见、记得所有的事、等了几万年，并说孙悟空“已记不得一切，也记不得你了”；她的话被剧痛打断，未说出孙悟空“就是”什么。本章未出现其姓名或明确身份，resolve_name('女妖') 无命中，暂立候选，不并入任何已有实体。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "四大魔王",
+      "certainty": "reported",
+      "introduced_at": 5,
+      "notes": "据孙悟空自述，玉帝要他做的第二件事是杀四个魔王，并列出名号：西贺牛洲平天大圣牛魔王、北俱芦洲混天大圣鹏魔王、南瞻部洲通天大圣猕猴王、东胜神洲齐天大圣美猴王。此处仅作为孙悟空口中的名目集合，未在本章明确成组织。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "五岳山（孙悟空称被罚关押之地）",
+      "category": "place",
+      "introduced_at": 5,
+      "notes": "孙悟空自述因不敬天帝被天帝罚入五岳、关了五百年，五年前从“五岳山地牢”被放出；女子当场反问“五岳山？是五行山才对呀”，两处地名表述不一致。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "花果山",
+      "category": "place",
+      "introduced_at": 5,
+      "notes": "孙悟空自称“我本是花果山一妖猴”。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "蟠桃树",
+      "category": "object",
+      "introduced_at": 5,
+      "notes": "女子称她与孙悟空第一次见面时他也在树上那样躺着，“是蟠桃树”；孙悟空同时声称自己没见过蟠桃树。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "林中女子"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "link_type": "unknown_prior_acquaintance",
+      "certainty": "uncertain",
+      "summary": "女子声称两人在蟠桃树下初见、她等了几万年，并以“你还是老样子”相认；孙悟空明确否认认识她。章节未给出任何身份确认或姓名，仅存“她自称与他有旧”的对立说法，不作任何身份合并。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-12",
+        "claim-local-14"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "林中女子"
+      },
+      "candidate_b": {
+        "candidate_name": "已知实体：阿瑶 / 紫霞 / 白晶晶等（未定）"
+      },
+      "link_type": "possible_identity",
+      "certainty": "uncertain",
+      "summary": "女子提及“蟠桃树”“等了几万年”“逃不出他的掌心”，以及对“美猴王”之名的强烈反应，构成身份线索，但本章未出现任何姓名，禁止据此与任何已有实体合并，仅登记为待考线索。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-14"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "护送任务"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空称玉帝交代的第一件事是“保刚才那个秃头上西天”，即保护唐僧西行取经。",
+      "source_claim_local_ids": [
+        "claim-local-9"
+      ],
+      "notes": "该关系内容来自孙悟空本人的陈述（reported），本章未出现唐僧对任务的表态。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "林中女子"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "战斗中放过对方，未成形关系"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空打倒女子后一度举棒欲杀，棒在半空凝住未落，转而扫倒林中树木，自称不想杀人、饶她一命并离开；女子伸手向他而他未看见。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "notes": "双方对彼此身份的说法相互矛盾（女子称旧识，孙悟空称从未见过），未作定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "sun-wukong-three-tasks",
+      "category": "quest",
+      "status": "introduced",
+      "role": "core",
+      "title": "玉帝要孙悟空完成的三件事（赎前罪）",
+      "summary": "孙悟空自述：因不敬天帝被罚入五岳关五百年，后蒙玉帝开恩，只要完成三件事就赎前罪。第一件保唐僧上西天；第二件杀四个魔王（平天大圣牛魔王、混天大圣鹏魔王、通天大圣猕猴王、齐天大圣美猴王）；第三件待前两事做完由上天告知。",
+      "certainty": "reported",
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-6"
+      ]
+    },
+    {
+      "thread_key": "forest-woman-unresolved-identity",
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "title": "林中女子自称与孙悟空有旧识前缘，身份未明",
+      "summary": "女子称两人在蟠桃树下初见、等了几万年，说孙悟空“已记不得一切，也记不得你了”，并欲说出“你就是……”却被剧痛打断；孙悟空坚称从未见过她。女子最终未死，孙悟空离去。",
+      "certainty": "reported",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-17"
+      ]
+    },
+    {
+      "thread_key": "sun-wukong-blow-withheld",
+      "category": "character_turn",
+      "status": "open",
+      "role": "core",
+      "title": "孙悟空的棒第一次打不下去",
+      "summary": "面对女子“死在你手中”的话，孙悟空举棒却让金箍棒凝在空中，自己问“怎么就打不下去呢”，最后以“今天老孙突然不想杀人”为由饶她一命离去。",
+      "certainty": "explicit",
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第5章：棒落不下",
+    "front_matter": {
+      "as_of": 5,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "candidate_name": "林中女子"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n唐僧走后，孙悟空跳到树上打秋千，被打倒的女子在地上打滚哀鸣，好半晌才渐渐平复。孙悟空架着腿晃悠，让她“现在没事了？出招吧”，并说自己不是可怜她，只是不杀没还手之力的人（[[claim-local-1]]、[[claim-local-2]]）。\n\n## 关键行动\n\n1. 女子试图认人：她说“你还是老样子”，问孙悟空是否记得两人第一次见面，“那时……你也在树上这样躺着，是蟠桃树”（[[claim-local-3]]）。孙悟空回称“大婶我从没见过你，也没见过蟠桃树是什么样子”，要她随便亮个招数让他打死（[[claim-local-4]]）。女子追问是否连她是谁都不记得、是否忘了从前一切（[[claim-local-5]]）。\n2. 孙悟空自述来历：自称五年前刚从五岳山地牢被放出来，一心多杀妖怪积功德值以销前罪（[[claim-local-6]]）；又称本是花果山一妖猴，因不敬天帝被罚入五岳关了五百年，后蒙玉帝开恩，完成三件事即赎前罪（[[claim-local-8]]）。\n3. 三件事与四魔王：第一件保“刚才那个秃头上西天”，第二件杀四个魔王，第三件待前两事做完再由上天告知（[[claim-local-9]]）。四魔王为西贺牛洲平天大圣牛魔王、北俱芦洲混天大圣鹏魔王、南瞻部洲通天大圣猕猴王、东胜神洲齐天大圣美猴王（[[claim-local-10]]）。\n\n## 转折与新信息\n\n- 地名对不上：孙悟空说“五岳山”，女子当场反问“五岳山？是五行山才对呀”，并质疑杀几个妖不可能让天庭放过他（[[claim-local-7]]）。\n- 女子听完“齐天大圣美猴王”之名现出惊疑神色，反问“怎么，你认识他？”（[[claim-local-11]]）。\n- 女子喃喃“是了，他已记不得一切，也记不得你了”，扬脸要说“但有一件事你要知道，你就是……”却忽然剧痛几乎晕厥，话未说完（[[claim-local-12]]、[[claim-local-13]]）。\n- 女子忍痛说不会记错、会永远记住，并称“我等了几万年，等来的却是死在你手中，我们终究还是逃不出他的掌心”（[[claim-local-14]]）。\n\n## 本章结果\n\n孙悟空举棒，金箍棒凝在空中未落下；他猛地把棒扫向旁边树木，扫出半径几十丈的扇形，自问“怎么就打不下去呢”（[[claim-local-15]]）。随后收棒入耳，说“今天老孙突然不想杀人，就饶你一命”，头也不回向林外走去。他未看见身后女子伸手向他、却疼得发不出声（[[claim-local-16]]、[[claim-local-17]]）。女子性命得存，二人未分出胜负，孙悟空的护经与杀魔王任务已由其本人说出。\n\n## 未决问题与补读入口\n\n- 女子究竟是谁？她所称的“蟠桃树初见”“等了几万年”“逃不出他的掌心”指向未知旧事，本章无姓名，未与任何已有实体合并。\n- 孙悟空为何“记不得一切”却又自称“以前的事我记得清清楚楚”？两种自述并存，待后文辨析。\n- 关押地为“五岳山”还是“五行山”，本章文本内存在分歧表述。\n- 第三件事内容尚未揭晓；四魔王中“东胜神洲齐天大圣美猴王”与孙悟空自身名号的关联待考。"
+  },
+  "stage_buffer_appends": [
+    {
+      "record_ref": {
+        "path": "events/block-0001.json",
+        "record_id": "ev-local-1"
+      },
+      "kind": "event",
+      "note": "本章核心对话事件，含孙悟空自述五百年关押与三件事，为 stage-001 主线关键证据"
+    },
+    {
+      "record_ref": {
+        "path": "events/block-0001.json",
+        "record_id": "ev-local-2"
+      },
+      "kind": "event",
+      "note": "孙悟空举棒未落、放过女子，人物转折点"
+    },
+    {
+      "local_claim_ref": "claim-local-8",
+      "kind": "claim",
+      "note": "赎罪三件事的框架性陈述（reported，出自孙悟空）"
+    },
+    {
+      "local_claim_ref": "claim-local-10",
+      "kind": "claim",
+      "note": "四大魔王名号清单（reported），含齐天大圣美猴王，后续可能展开"
+    },
+    {
+      "local_claim_ref": "claim-local-14",
+      "kind": "claim",
+      "note": "女子“等了几万年”“逃不出他的掌心”，女性角色身份线关键证据"
+    },
+    {
+      "local_claim_ref": "claim-local-12",
+      "kind": "claim",
+      "note": "女子“他已记不得一切”及被打断的“你就是……”，记忆缺失线线索"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "孙悟空自称被罚入“五岳山”关五百年，女子反问“是五行山才对呀”，同章内关押地名存在两种表述。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章原文中女子反问一处存在编码乱码（“五行”前后夹杂无法辨认的字符），已用后段可唯一匹配片段“销前罪？你也记得你做的事”作锚点，地点名“五行山”判读存在不确定性。",
+      "evidence_claim_local_ids": [
+        "claim-local-7"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "林中女子身份未明：自称与孙悟空有蟠桃树下旧识、等了几万年，但本章无姓名，resolve_name 无命中，未与任何已有实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-12",
+        "claim-local-14"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "女子欲说“你就是……”时被剧痛打断，句意所指（孙悟空即齐天大圣美猴王？）无原文直接证据，仅登记为 uncertain。",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章原文存在编码乱码（第 9 段前后“五行”附近），涉及女子对“五行山/五岳山”的反问，地点判读标注为不确定。",
+    "孙悟空自述“以前的事我记得清清楚楚”与女子所言“他已记不得一切”在章内构成未被解释的对立，未做任何裁决。",
+    "林中女子在本章无姓名，仅以候选实体建单，禁止据后文线索并入阿瑶/紫霞等任何已有实体。",
+    "本章所有关于三件事、四魔王、关押缘由的内容均出自孙悟空或女子之口，全部记 reported。"
+  ]
+}

@@ -1,0 +1,2494 @@
+{
+  "events": [
+    {
+      "id": "ev-0001",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "撤离前夜的垃圾场：格兰特救助昏倒的辛妮",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0004"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0006"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0007"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0001",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "明天，他们这些联合国留在西亚的最后一批人员将撤离",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国留在西亚的最后一批人员将于次日撤离，后天或更晚战争将再次降临该国。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0002",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "这个被封锁了十七年的国家已在饥饿中奄奄一息",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "西亚共和国已被封锁十七年，国民在饥饿中奄奄一息。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0003",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "格兰特先生开着一辆装满垃圾的小卡车",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "格兰特是联合国人道主义救援基地的人员，由于雇用的西亚工人走光，他自己开装满垃圾的小卡车到垃圾场倒垃圾。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0004",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她跑到垃圾堆旁，腿一软跌坐在地",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮是一名十几岁的西亚女孩，皮肤黝黑，穿着破旧的运动背心和短裤，跑到垃圾堆旁腿一软跌坐在地。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0005",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "辛妮，你又来晚了，别再指望别人给你留吃的",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名拾荒者对辛妮说“辛妮，你又来晚了，别再指望别人给你留吃的”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0006",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她只找到一个开了口的鱼罐头盒",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在垃圾中只找到一个开了口的鱼罐头盒，嚼吞里面的鱼骨后昏倒在垃圾堆旁。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0007",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "站起身从驾驶室中拿出了一瓶牛奶蹲下来喂她",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "格兰特把昏倒的辛妮抱起放到地上，并从驾驶室拿出牛奶喂她。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0008",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她是个哑巴",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "会说英语的拾荒者对格兰特说“她是个哑巴”。"
+            }
+          ],
+          "id": "update-0001",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0006"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0008"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "联合国人道主义救援基地撤离前一天清晨，格兰特开车到垃圾场倒垃圾，拾荒者在垃圾中翻找食物；一名奔跑而来的瘦削女孩辛妮跑到垃圾场后跌坐、只捡到鱼罐头盒嚼鱼骨，随即昏倒，格兰特把她抱起并喂牛奶。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0002",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "拾荒者教授讲述辛妮的马拉松身份与看奥运开幕式的愿望",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0009"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0014"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0009",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "但她每天早晨都要从这里跑到河边",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "拾荒者说辛妮住在附近的难民营，每天早晨从那里跑到河边再跑回来，来回有十多公里。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0010",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她是西亚共和国的马拉松冠军",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "拾荒者说辛妮是西亚共和国的马拉松冠军，她的奔跑是在训练。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0011",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我曾是西亚大学的英美文学教授",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "戴眼镜、留杂乱大胡子的拾荒者自称曾是西亚大学的英美文学教授，称十七年的制裁和封锁让他们丢失了所有梦想。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0012",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "他就是个逃兵",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "该教授指着一名头发蓬乱、在垃圾堆中专心翻找的年轻人说他是逃兵。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0013",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "抬起一支枯瘦的手臂指着不远处联合国救援基地",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮抬起枯瘦的手臂，指着不远处联合国救援基地的白色临时建筑，并用两手比划。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0014",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她想进去在你们的电视上看奥运会开幕式",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "教授解读辛妮的意思：她想进救援基地在电视上看奥运会开幕式。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0015",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "奥运会开幕推迟了一天",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "格兰特说奥运会开幕推迟了一天；在场拾荒者称对奥运会一无所知。"
+            }
+          ],
+          "id": "update-0002",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0015"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "一名自称原西亚大学英美文学教授的拾荒者用英语向格兰特说明：辛妮是哑巴，住在附近难民营，每天跑到河边训练十余公里，是西亚共和国的马拉松冠军；辛妮指画联合国基地，教授解读为她想到基地电视上看奥运会开幕式。格兰特告知奥运会开幕推迟了一天。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0003",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "克雷尔乘车到垃圾场寻找并接走辛妮",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0016"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0017"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0016",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "辛妮在这儿吗？威弟娅．辛妮",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一辆旧式大客车停在垃圾场边，一名五十多岁、头发花白的男子下车大喊“辛妮在这儿吗？威弟娅．辛妮”，辛妮点头回应并被他扶起。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0017",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我是克雷尔，国家体育运动局局长",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "该男子自称“我是克雷尔，国家体育运动局局长”，并扶辛妮向大客车走去。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0018",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "西亚共和国什么都有",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "面对格兰特“这个国家还有体育运动局”的疑问，克雷尔回答“西亚共和国什么都有，先生，至少将会什么都有的”。"
+            }
+          ],
+          "id": "update-0003",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0018"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "一辆旧式大客车驶到垃圾场旁，一名五十多岁、头发花白的男子下车高喊辛妮的全名，自称克雷尔、国家体育运动局局长，把辛妮扶上大客车；他对格兰特“这个国家还有体育运动局”的疑问回答“西亚共和国什么都有”。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0004",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "一年前克雷尔在首都体育场见证辛妮跑完一百零五圈",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0020"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0019",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "请您看我跑一次马拉松",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一年前的一个傍晚，辛妮在克雷尔下班时抓住他的胳膊要求上他的车，按她指的方向到了首都体育场，她在地上写“请您看我跑一次马拉松”，并脱下宽大长衫露出运动衫短裤准备跑。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0020",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "跑完了第一百零五圈",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "当晚在荒废的首都体育场，辛妮在月光下一圈又一圈奔跑，跑完第一百零五圈到达终点。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0021",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "两小时十六分三十秒",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔当场给出的判断是“两小时十六分三十秒，考虑场内和场外道路的差别，再加三分钟，仍是迄今为止的全国最好成绩”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0022",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "孩子，你生错了时候",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔对辛妮说“孩子，你生错了时候”，辛妮平静地点头。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0023",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "她说自己没有父母，也没有家",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮用手势向克雷尔表示自己没有父母也没有家，接过长衫后转身离去，消失在体育场的阴影中。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0024",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "裹着一件肮脏的囚服",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "车上的萨里骨瘦如柴、苍白脸上有几道伤疤，裹着肮脏的囚服瑟瑟发抖；辛妮认出他是曾获射击金牌的亚力克．萨里。"
+            }
+          ],
+          "id": "update-0004",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0021"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0022"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0023"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": "一年前",
+          "summary": "克雷尔在车上回忆：一年前下班时辛妮抓住他的胳膊要求上车，引他到首都体育场，在地上写字请他看自己跑一次马拉松；她在废弃体育场的月光下跑完一百零五圈，克雷尔给出“两小时十六分三十秒，再加三分钟仍是全国最好成绩”的估算，并说“孩子，你生错了时候”；辛妮表示自己没有父母也没有家，转身离去。这段回忆中还交代国家体育运动局仅剩四名工作人员、随时可能被撤销。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0005",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "大客车沿途召集西亚原国家队运动员前往首都机场",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0026"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0028"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0033"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0025",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "四年前的世界射击锦标赛",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "亚力克．萨里是西亚在封锁期间在国际大赛中获得奖牌的三个运动员之一，曾在四年前的世界射击锦标赛上获得男子飞碟双多向射击金牌，成为全国英雄。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0026",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我不想饿死",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔说萨里去给一个走私集团头目当保镖、被看中枪法；萨里回答“我不想饿死”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0027",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我们只是奉命召集各个运动项目原国家队的队员",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔说他把萨里从监狱保释出来救了他一命，此行是奉命去机场召集各个运动项目原国家队的队员，具体去做什么他也不知道。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0028",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "辛妮很快认出这都是原国家男篮的球员",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "车又上来好几个人，辛妮认出他们都是原国家男篮的球员，个子很高、面黄肌瘦、衣服破旧。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0029",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我们一天的配给，只够吃一顿的",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "男篮队员向克雷尔诉苦说一天的配给只够吃一顿、人道主义救援已经停止，并要求先让大家吃一顿早餐。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0030",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "他死了，死了有半年了",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "男篮队员说加里．穆拉德（被称作西亚共和国的乔丹）已经死了半年。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0031",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "他们死在一起",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "男篮队员说原国家女篮队员伊西娅是穆拉德的妻子，两人死在一起。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0032",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "天亮后，邻居发现他们不知吃了什么毒药一起死在床上",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "男篮队员讲述：穆拉德夫妇的孩子出生后只活了三个月，死于营养不良；孩子死后当晚两人吃光了后半月的配给，天亮后邻居发现他们服毒一起死在床上。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0033",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "我主要为联合国维和部队服务",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名染红发、衣着俗艳暴露的女郎上车，自称“我主要为联合国维和部队服务”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0034",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "你应该多少知道些廉耻",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔厉声对女郎说“莱丽，你应该多少知道些廉耻”，女郎不以为然地回应后坐到辛妮身边。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0035",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "世界体操锦标赛铜牌",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮认出这名女郎就是温德尔．莱丽——曾获得世界体操锦标赛铜牌、被称为西亚体育之花的体操运动员。"
+            }
+          ],
+          "id": "update-0005",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0030"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0031"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0032"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0034"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0035"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "大客车向市郊行驶，车上原射击运动员萨里（穿囚服、被克雷尔保释出来）讲述自己去做走私集团头目保镖，原国家男篮队员上车诉苦配给不足，并告知穆拉德已死、其妻伊西娅与他同死、二人孩子因营养不良死亡后二人服毒自尽；俗艳女郎莱丽上车自称主要为联合国维和部队服务，被克雷尔斥责。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0006",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "首都机场：国际奥委会主席宣布接西亚运动员参加第二十九届奥运会",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0038"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0036",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "共有七十多人",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "汽车开进首都机场停机坪时已有两辆大客车先到，合计七十多名前国家队运动员，其中包括一支男子篮球队、一支男子足球队和十一个其它竞赛项目的运动员。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0037",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "国家体育运动局仅剩四名工作人员",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "战前西亚共和国体育曾有辉煌时代，十七年前的战争及随后的封锁制裁使体育成为奢侈，国家体育运动局仅剩四名工作人员、随时可能被撤销。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0010/index.json",
+                "record_id": "char-0010"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0038",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "来接你们参加第二十九届奥运会",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "从舱门走出的一位外国人是国际奥林匹克委员会主席，他喊话后由克雷尔翻译为“各位，我代表国际社会到西亚共和国来，来接你们参加第二十九届奥运会”。"
+            }
+          ],
+          "id": "update-0006",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0036"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0010/index.json",
+                "record_id": "char-0010"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "汽车开进首都机场停机坪，连同先到的两辆大客车共聚集七十多名前国家队运动员（含男子篮球队、男子足球队和十一个其它竞赛项目）。跑道起点停着一架波音客机，几名西装外国人走下舱门，其中一人被认出是国际奥林匹克委员会主席，克雷尔翻译其喊话：“我代表国际社会到西亚共和国来，来接你们参加第二十九届奥运会！”",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0007",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "西亚代表团车队进入北京并被异常警戒方式送入奥运村",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0046"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0047"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0048"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0039",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "色彩灰暗的武侠片",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮对北京的了解仅限于小时候看过的一部色彩灰暗的武侠片，她想象中的北京是古老而宁静的，并曾无数次梦到奥运会与北京，但两者从未在同一个梦中出现。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0040",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "车队进入北京市区后，辛妮看到的是崭新的现代化高层建筑群，她想象中的胡同和城墙并未出现。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0046",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "飞机在北京机场降落后等了足有两个小时，换上统一服装的西亚体育代表团才走出机舱。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0047",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "抵达大厅挤满记者，围堵着代表团不断拍照，但没有人提问，且始终与代表团保持约两米距离，只余闪光灯声和鞋底摩擦地板声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0048",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "机场上空有三架小型直升机悬停，运送代表团的大客车只有两辆却有十几辆警车护送并配武装警察摩托车队，机场到市区的公路被清空封闭，看不到一辆车。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0049",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "那些旗杆上没有国旗",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "抵达奥运村时天已黑，几十幢公寓楼大多黑着灯，小广场中央一排旗杆上没有国旗，辛妮打了个寒战并觉得这里像陵墓。"
+            }
+          ],
+          "id": "update-0007",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0049"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "role": "unknown"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "抵达北京当日下午至天黑",
+          "summary": "车队进入北京市区，辛妮看到的是崭新的现代化高楼而非想象中的胡同城墙；抵达大厅被记者围堵却无人提问；三架直升机在空中盘旋，十几辆警车与武装武警摩托车队护送两辆客车，机场到市区的公路被清空封闭；抵达奥运村时公寓楼大多黑灯，中央旗杆上没有国旗，辛妮感到这里像陵墓。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0008",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "飞机上一等舱密谈结束，克雷尔神色异常，辛妮判断事情不对",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0043"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0041",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "西亚共和国运动员得知自己将参加奥运会时并没有兴奋和喜悦，甚至没有人提出任何问题，只是沉默地走上飞机静观事态。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0042",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "在飞机上，国际奥委会主席把克雷尔和西亚代表团的几位官员召集到一等舱，一个多小时过去仍没有任何动静。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0043",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "用空着的一只手去开紧闭着的舱门",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔走出后没有说什么，只拿着一张纸核对名单；返回一等舱时他用空着的一只手去摸索紧闭的舱门把手，却始终平视前方没有向下看。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0044",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "这平静是第一个征兆",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮根据克雷尔平静的神色与摸索舱门的举动这两个征兆，证实了自己的预感：事情不对。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0045",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "在机舱里代表团吃了一顿饱饭，每人吃了两到三份航空餐，其饭量令几名中国空姐吃惊。"
+            }
+          ],
+          "id": "update-0008",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0044"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "从西亚飞往北京的航程中",
+          "summary": "西亚运动员得知将参加奥运会时毫无兴奋、无人提问，只是沉默登机；国际奥委会主席将克雷尔与西亚代表团官员召入一等舱一个多小时；克雷尔出来后仅以平静的神色核对名单，返回时用手摸索舱门却始终没有低头看，辛妮由此证实自己的预判：事情不对。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0009",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "克雷尔在奥运村接待厅宣布开幕式安排与当夜禁足令",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0051"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0050",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "身为代表团团长的克雷尔",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔是西亚共和国体育代表团的团长。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0051",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "今天晚上任何人不得外出",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔在运动员公寓接待厅对运动员说：请大家到各自房间，晚饭一小时后送到房间，今天晚上任何人不得外出，必须好好休息，明天上午九点代表西亚共和国参加第二十九届奥林匹克运动会开幕式。"
+            }
+          ],
+          "id": "update-0009",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "role": "recipient"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "抵达奥运村当夜",
+          "summary": "身为代表团团长的克雷尔在运动员公寓接待厅向运动员讲话：各自回房间，晚饭一小时后送到房间，今晚任何人不得外出，次日上午九点代表西亚共和国参加第二十九届奥林匹克运动会开幕式。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0010",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "萨里在电梯中追问真相与“和平视窗设想”，克雷尔以“明天你就会明白一切”回避",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0054"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0052",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮与克雷尔、萨里同乘一部电梯。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0053",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "和平视窗设想真要实现了",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里低声问团长克雷尔是否真的不打算告诉他们真相，并提出“和平视窗设想”是否真要实现了。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0054",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "明天你就会明白一切",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔回答萨里：“明天你就会明白一切，我们应该让大家至少有一个晚上能睡好。”"
+            }
+          ],
+          "id": "update-0010",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "ongoing",
+          "story_time": "抵达奥运村当夜，乘电梯时",
+          "summary": "辛妮与克雷尔、萨里同乘一部电梯，萨里低声问团长是否真的不打算告诉他们真相，并提到“和平视窗设想”是否真要实现；克雷尔回答“明天你就会明白一切，我们应该让大家至少有一个晚上能睡好”。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0053"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0011",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "西亚代表团车队从奥运村前往奥林匹克体育场",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0057"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0055",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮仰望奥林匹克体育场时，短暂的幸福与陶醉暂时掩盖了她的紧张与恐惧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0056",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "人群中没有鲜花彩旗和气球",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "代表团车队前往体育场途中，公路旁聚集的成千上万人沉默目送，没有鲜花、彩旗、气球与欢呼，辛妮觉得这像葬礼。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0057",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥林匹克体育场外有两道森严的警戒线，车队驶过时武警士兵整齐敬礼；体育场内部一片寂静。"
+            }
+          ],
+          "id": "update-0011",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0056"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "早晨西亚共和国代表团车队由奥运村驶往奥林匹克体育场，公路旁成千上万人沉默目送，没有鲜花彩旗、气球与欢呼；体育场外有两道警戒线，武警士兵整齐敬礼，场内一片寂静。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0012",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "克雷尔在东大门分配国旗，当众越过莱丽",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0058"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0058",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "把国旗从莱丽手中拉了出来",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔在东大门取出西亚共和国国旗，先招呼萨里和另外两名较有建树的运动员各持一角；轮到第四人时莱丽自行出列，克雷尔摇头把国旗从她手中拉出，递给他随便选中的一名女运动员。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0059",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "这巨大的羞辱使莱丽涨红了脸",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "莱丽因当众被拒而涨红了脸，恼怒地盯了克雷尔几秒钟，随后转身回到队列中。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0060",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "西亚的孩子们，振作起来",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔对运动员方阵讲话，称大家现在代表苦难的祖国进入第二十九届奥林匹克运动会主会场，并要西亚的孩子们振作起来。"
+            }
+          ],
+          "id": "update-0012",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0059"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0060"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0016/index.json",
+                "record_id": "char-0016"
+              },
+              "role": "recipient"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "克雷尔召集代表团成员在东大门站成方阵，取出西亚共和国国旗分给萨里等三人；轮到第四人时莱丽自行出列，克雷尔摇头把国旗从她手中拉出，递给随意选中的一名女运动员，莱丽涨红脸恼怒盯视后回队；随后四名运动员展旗，克雷尔对方阵讲话，方阵在国旗引导下行进会场。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0013",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "第二十九届奥运会开幕式入场：完全空旷的体育场与美西两国方阵",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0061"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0062"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0061",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "他们面对着一个完全空旷的体育场",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮通过入口看到体育场全景时浑身僵住，所见是面对着一个完全空旷的体育场，只有脚步声在荒凉世界中回荡。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0062",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "那是一面星条旗",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "运动场另一侧相向行进的是另一支由四名运动员抬旗的方阵，旗帜是星条旗，美国运动员方阵整齐成一个整体方块，节奏威严如进攻中的古罗马军团。"
+            }
+          ],
+          "id": "update-0013",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "西亚方阵进入会场后面对完全空旷的体育场，另一侧由四名运动员抬星条旗的美国方阵相向行进，两个方阵在距主席台几十米处转向停下，全场陷入死寂。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0014",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "联合国秘书长在开幕式上宣布和平视窗计划的规则与条款",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0064"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0065"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0066"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0067"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0070"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0071"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0063",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "而是联合国秘书长",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "走向主席台的来人不是国际奥委会主席，而是联合国秘书长，是一名瘦削的巴西老人，他沉默半分钟后才开始讲话。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0064",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "将只有美利坚合众国和西亚共和国两个国家参加",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长宣布：第二十九届奥林匹克运动会将只有美利坚合众国和西亚共和国两个国家参加，它将代替这两国间即将爆发的战争。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0065",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "将被分解为三个独立的国家",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：如果美国获胜，西亚共和国必须履行最后通牒中的条款，将被彻底解除武装并分解为三个独立的国家，原西亚政府中的战犯将受到国际法庭审判。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0066",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "联合国将取消对西亚共和国的经济制裁",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：如果西亚共和国获胜，战争将中止，处于对西亚攻击状态的美国及其盟国军队将全部撤离，联合国将取消对西亚共和国的经济制裁并欢迎其回到国际社会。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0067",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "仅以一块金牌之差负于美国",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：若西亚体育代表团仅以一块金牌之差负于美国，西亚虽仍算战败，但国家不会被肢解、现政府可继续存在并保留常备军队，只需销毁生化武器并支付最后通牒中数量三分之一的战争赔款。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0068",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "都能为失败的西亚争得一定的权利",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：西亚运动员在每个单项上获得的每一块金牌，都能为失败的西亚争得一定的权利；美西两国在联合国框架下经艰难谈判达成的协议对这些制定了详细条款。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0069",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "就分别在射击和体操上占有一定的优势",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：西亚获得金牌的希望并非完全没有，亚力克·萨里和温德尔·莱丽分别在射击和体操上占有一定的优势。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0070",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "和平视窗计划的名称来自于尊敬的比尔．盖茨先生",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：和平视窗计划之名来自比尔·盖茨，他主持开发了用于以数字方式再现战争、以数字战争代替真实战争的巨型模拟软件「和平视窗」；该设想因软件技术未达要求，以及国际政治条件下初始数据输入与交战国对模拟结果的认可等障碍而失败，但其思路被联合国以和平视窗计划重新启动。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0071",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "这就使得奥运会成为模拟战争最理想的工具",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "联合国秘书长称：和平视窗计划需要一个能忠实反映交战各国综合国力、又在各方认可规则下进行的战争替代物，研究者因而选择奥林匹克运动会，因奥运会众多项目作为整体能较准确反映国家综合国力，且奥运规则已被全人类认可。"
+            }
+          ],
+          "id": "update-0014",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0068"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0069"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "recipient"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "联合国秘书长走上主席台，沉默半分钟后讲话，宣布本届奥运会只有美国与西亚两国参加并代替两国间即将爆发的战争，逐条说明胜负对应的处置条款，并介绍和平视窗计划的来源、失败原因与以奥运会为模拟工具的原理。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0015",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "韦斯特将军点燃奥运圣火",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0073"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0072",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "我是乔治．韦斯特，美国陆军上将",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "手持火炬的军人自称乔治·韦斯特，美国陆军上将、美军西亚战场司令官；他称再过五分钟最后通牒就将到期，若无和平视窗他将下令对西亚共和国开始第一波空中打击，现在改为点燃奥运圣火。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0073",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "肩上有四颗将星",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "这名军人身穿迷彩服、肩上有四颗将星、举着燃烧的火炬走上主席台，向刚升起的五环旗敬礼，随后以军人步伐登上通向大火炬的长阶梯，在火炬台顶端点燃了奥运圣火。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0074",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "没有欢呼，没有鸽群",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "圣火点燃后没有欢呼也没有鸽群，在死一般的寂静中只有那团巨火呼呼作响。"
+            }
+          ],
+          "id": "update-0015",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0074"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "国际奥委会主席与一名身穿迷彩服、肩有四颗将星的军人一同走向主席台；该军人自称乔治·韦斯特、美国陆军上将、美军西亚战场司令官，称若无和平视窗他将在五分钟后下令第一波空中打击，随后向五环旗敬礼、登上阶梯点燃奥运圣火，全场没有欢呼与鸽群。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0072"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "block-0001",
+  "kind": "event_collection",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 4,
+  "safe_through": 3,
+  "schema_version": "2.0"
+}

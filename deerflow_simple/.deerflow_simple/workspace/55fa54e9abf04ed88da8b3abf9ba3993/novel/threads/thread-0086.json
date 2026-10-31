@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0086",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 40,
+  "label": "金箍棒被遗落在山中",
+  "introduced_at": 40,
+  "updates": [
+    {
+      "id": "update-thread-0086-001",
+      "revealed_at": 40,
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "category": "other",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空奔入山中时把金箍棒忘在地上，与松鼠对话时摸身发现不见并因此恼恨；本章未交代其去向或寻回。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1837"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1842"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1843"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

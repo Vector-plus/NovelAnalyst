@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0016",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 69,
+  "label": "旧识之散：不足以定性的终局",
+  "introduced_at": 68,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 69
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 69
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0016-008",
+      "revealed_at": 69,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/sunwukong__baijingjing.json",
+          "record_id": "doc-rel-sunwukong-baijingjing-stage-008"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0016/stages/stage-008.md",
+        "record_id": "doc-emo-0016-stage-008"
+      },
+      "kind": "emotional_stage",
+      "title": "旧识之散：不足以定性的终局",
+      "summary": "旧识之散：不足以定性的终局（第68—69章）",
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 69
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0008",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 4,
+  "introduced_at": 4,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0010/index.json",
+      "record_id": "char-0010"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0008-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "as_of": 4,
+      "revealed_at": 4,
+      "summary": "女子一见孙悟空即喊出他的名字、抱住其双腿落泪，并自称在林中活了几万年只为等他出现、问他是否已自由；孙悟空表示不认得她，运内力将她甩飞撞断大树，并称要结果她。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "女子一见孙悟空即喊出他的名字、抱住其双腿落泪，并自称在林中活了几万年只为等他出现、问他是否已自由；孙悟空表示不认得她，运内力将她甩飞撞断大树，并称要结果她。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0075"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0076"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0077"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0079"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

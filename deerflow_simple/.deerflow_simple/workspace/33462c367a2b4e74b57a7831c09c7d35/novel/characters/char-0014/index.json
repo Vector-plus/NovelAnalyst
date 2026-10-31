@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "敌方统帅；第4章私访辛妮并赠其定做跑鞋，同时称「我害怕她的眼睛」，个人动机仍悬置。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第4—7章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0014/stages/stage-002.md",
+        "record_id": "doc-char-0014-stage-002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "char-0014",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 3,
+  "kind": "entity_index",
+  "label": "乔治·韦斯特",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 7,
+  "schema_version": "2.0"
+}

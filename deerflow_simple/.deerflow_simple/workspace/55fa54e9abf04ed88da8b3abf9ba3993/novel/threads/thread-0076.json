@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0076",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 35,
+  "label": "紫霞五百年记忆的真伪",
+  "introduced_at": 35,
+  "updates": [
+    {
+      "id": "update-thread-0076-001",
+      "revealed_at": 35,
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "raised",
+      "summary": "紫霞自问「哪些是真，哪些是假」：孙悟空是否真死过、他与自己说过的话是真是假、骸骨手上是否真的握过紫纱巾。本章未给出解答。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1732"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1744"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

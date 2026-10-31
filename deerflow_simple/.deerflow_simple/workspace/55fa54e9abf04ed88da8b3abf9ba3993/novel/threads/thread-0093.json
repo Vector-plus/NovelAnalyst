@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0093",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 42,
+  "label": "金蝉子与如来的赌胜",
+  "introduced_at": 42,
+  "updates": [
+    {
+      "id": "update-thread-0093-001",
+      "revealed_at": 42,
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "category": "conflict",
+      "status": "open",
+      "role": "new",
+      "summary": "金蝉子以千年修行赌众神是否真能控制世人命运；胜则神佛不再现身世间，败则金蝉子散道行重坠轮回。本章只议定赌约与后果，胜负未决。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1913"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1914"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1915"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1916"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

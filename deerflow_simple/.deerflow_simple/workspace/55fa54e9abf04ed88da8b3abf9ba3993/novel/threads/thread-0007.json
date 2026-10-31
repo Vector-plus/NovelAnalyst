@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0007",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "猪八戒与阿瑶的前世记忆",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0007-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "mystery",
+      "status": "active",
+      "role": "main",
+      "summary": "猪八戒在密林中呼唤“阿瑶”，对方反问他是谁、怎么知道自己以前的名字；猪八戒自称同为不肯忘记前世而宁愿承受痛苦之人，旧世关系线在本章开启。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0203"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0204"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0205"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0206"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

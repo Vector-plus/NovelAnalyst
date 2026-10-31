@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0034",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 26,
+  "label": "阿瑶在天庭中的处境（蟠桃之事被追责）",
+  "introduced_at": 26,
+  "updates": [
+    {
+      "id": "update-thread-0034-001",
+      "revealed_at": 26,
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "category": "predicament",
+      "status": "shifted",
+      "role": "supporting",
+      "summary": "第25章阿瑶被拽上大殿追责，本章她随孙悟空进殿、被让座、并当众笑称王母「变色大白薯」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0814"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0822"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0826"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

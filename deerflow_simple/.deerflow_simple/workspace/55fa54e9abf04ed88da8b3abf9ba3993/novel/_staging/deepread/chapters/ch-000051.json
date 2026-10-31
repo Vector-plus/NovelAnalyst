@@ -1,0 +1,693 @@
+{
+  "chapter_order": 51,
+  "chapter_id": "ch-000051",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "大青树上石猴、松鼠与一片叶子谈论“我是谁”与名字",
+      "introduced_at": 51,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 51,
+            "end": 51
+          }
+        ],
+        "revealed_at": 51,
+        "status": "completed",
+        "story_time": "某日乘凉时（承接第50章）",
+        "summary": "石猴与松鼠坐在大青树上乘凉，石猴问“我是谁”，说自己虽从石头里出来却是猴子、与别的猴子不一样，和他们在一起就忘了自己并因此恐惧。一片叶子开口，自称“一片叶子”，说自己闭眼时世上只有自己会害怕、睁眼看见许多自己才安心，怕被忘记，求人叫她的名字。松鼠答应每天叫他俩。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0067/index.json",
+              "record_id": "char-0067"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "一片叶子"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "松鼠清晨呼唤“石头”与“一片叶子”，却认不出是哪片叶子",
+      "introduced_at": 51,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 51,
+            "end": 51
+          }
+        ],
+        "revealed_at": 51,
+        "status": "completed",
+        "story_time": "次日早晨（同一场景的次日）",
+        "summary": "松鼠一早醒来先叫“石头”，再叫“一片叶子”，听到一声“哎”应答；但应答的叶子反问“你叫我干什么”，松鼠发现自己忘记是哪片叶子，抬头只看见满树无边无际抖动的叶子。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "一片叶子"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0067/index.json",
+              "record_id": "char-0067"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-1"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "某日石猴与松鼠坐在大青树上乘凉，石猴开口问“我是谁”，松鼠答“你是石头啊”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我是谁？”这一天他们坐在大青树上乘凉，石头说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "石猴问“我不是一只猴子么”，松鼠回答“是啊”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我不是一只猴子么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "松鼠说她只知道世界上有很多松鼠但都不是自己，猴子的事她不清楚。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我只知道这世界上有很多松鼠，但他们都不是我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "石猴说自己与别的猴子不一样：他虽然是石头里出来的，可还是一只猴子；和他们在一起就不记得自己，常莫名停下来发现他们在跑而自己不动，就感到恐惧。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "因为我和他们不一样。我虽然是石头里出来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "石猴自述：他与别的猴子“不一样”，因此不与他们一起玩；和他们在一起他会不记得自己，且别人跑动而自己不动时他会恐惧。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "和他们在一起，我就不记得自己了"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-4"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "松鼠说她曾想做青树下那朵花、想做一只鹿，都没能成，目前也只有做松鼠。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我目前也只有做松鼠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "一片叶子在石猴与松鼠对话中开口，自称“我是一片叶子”，并强调“我是我这一片，不是其他任何一片”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "一片叶子"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我是我这一片，不是其他任何一片"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "一片叶子说她一闭眼世上便只有自己、因此害怕，一睁眼看见许多自己就安心；风把叶子吹得沙沙响时，她在这声音里知道自己的存在并安心睡去；很多叶子不见了又有新的叶子出现，她怕忘了自己、怕别人不知道有她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "一片叶子"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我一闭上眼睛，世界上就只有我自己"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "一片叶子表示希望有人叫她的名字、她答应一声，就能知道自己还在便可幸福入睡；松鼠答应每天早上起床和回来时都叫她，并问石猴要不要也叫他，石猴说不用，因为他要睡懒觉。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我希望能有人叫我的名字"
+        },
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "我要睡懒觉"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-8"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "次日松鼠一早醒来先叫“石头”，随后笑着叫“一片叶子”，并听到一声“哎”作为应答。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "“哎。”有人答应了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "应答的那片叶子反问“你叫我干什么”，并否认是自己要求松鼠叫它名字。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "一片叶子"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "你叫我干什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "松鼠发现自己忘记是哪片叶子，并自问“换了树枝就会找不到她了么”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "糟了，我忘记是哪片叶子了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "章末场景：松鼠抬头，大青树满天的叶子在抖动，像无边无际的绿色海。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "像绿色的海，无边无际"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "本章中松鼠口中的“石头”与叙述中的“石猴”指同一对象：首段写作“石头说”，紧接的叙述与对话则写明“石猴低了头道”。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "石猴低了头道"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-1"
+        },
+        {
+          "local_id": "claim-local-4"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "“叫名字并得到应答”的约定在实际执行中失效：松鼠虽得到应答，却无法在满树叶子中认出当初那片叶子。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 51,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000051.txt",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "locator": null,
+          "anchor": "换了树枝就会找不到她了么"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-10"
+        },
+        {
+          "local_id": "claim-local-11"
+        },
+        {
+          "local_id": "claim-local-12"
+        },
+        {
+          "local_id": "claim-local-13"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "一片叶子",
+      "introduced_at": 51,
+      "alias_texts": [
+        "叶子",
+        "那片叶子"
+      ],
+      "identity_notes": "大青树上的一片叶子，能说话，自称“我是一片叶子”，强调自己是唯一的这一片；请求松鼠叫她的名字以便确认自己存在。与第50章起出现的松鼠、石猴处于同一场景。未与任何已建档实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-11"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "大青树",
+      "category": "place",
+      "introduced_at": 51,
+      "notes": "石猴与松鼠乘凉、与一片叶子对话所在的大树，叶子“满天的叶子”、形如“无边无际”的绿色海；第52章亦有鸟群落脚于此。若“大青树”与既有“老树”条目为同一对象，请由下游合并。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "facet": {
+        "type": "friendship"
+      },
+      "certainty": "explicit",
+      "summary": "松鼠与石猴在大青树上并坐交谈；松鼠以“石头”称呼他，答应每天起床和回来时叫他的名字，石猴以要睡懒觉为由说不用。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-9",
+        "claim-local-10"
+      ],
+      "notes": "仅记录互动事实，不作情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "一片叶子"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "一片叶子向松鼠与石猴讲述自己的恐惧并提出被呼唤名字的请求，松鼠答应叫她；次日松鼠呼唤“一片叶子”并得到应答，却认不出是哪片叶子，被应答的叶子反问叫它做什么。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "关系性质（承诺与失联）按原文互动事实记录，不作情感定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_thread",
+      "role": "primary",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-5"
+      ],
+      "source_refs": [
+        {
+          "anchor": "我虽然是石头里出来的",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "path": "source/vol-002/ch-000051.txt"
+        }
+      ],
+      "status": "ongoing",
+      "summary": "石猴开始直接追问“我是谁”，自述与别的猴子不一样、与他们在一起会不记得自己、并在别人跑动而自己不动时感到恐惧。此线索尚未解决。",
+      "thread_id_or_label": "石猴对“我是谁”的自我认知困惑"
+    },
+    {
+      "category": "plot_thread",
+      "role": "primary",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-15"
+      ],
+      "source_refs": [
+        {
+          "anchor": "我希望能有人叫我的名字",
+          "chapter_id": "ch-000051",
+          "chapter_order": 51,
+          "path": "source/vol-002/ch-000051.txt"
+        }
+      ],
+      "status": "ongoing",
+      "summary": "一片叶子请求松鼠每日叫她的名字以获得存在确认，松鼠答应并执行，但次日已无法辨认是哪片叶子，约定在执行中失效。",
+      "thread_id_or_label": "名字与存在确认（被叫名字并应答）的约定"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第51章：我是谁，与叫名字的约定",
+    "front_matter": {
+      "as_of": 51,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0067/index.json",
+          "record_id": "char-0067"
+        },
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "candidate_name": "一片叶子"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-4",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-15"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n某日，石猴与松鼠并坐在大青树上乘凉。石猴开口问“我是谁”，松鼠答“你是石头啊”，并说猴子的事她不清楚——她自己只知世上有很多松鼠，但都不是她（[[claim-local-1]]、[[claim-local-3]]）。\n\n## 关键行动\n\n石猴追问“我不是一只猴子么”，松鼠给出肯定回答（[[claim-local-2]]）。石猴自述：他虽是石头里出来的，可还是一只猴子；他和别的猴子不一样，与他们在一起就不记得自己，常常莫名停下来发现他们在跑而自己不动，为此感到恐惧（[[claim-local-4]]、[[claim-local-5]]）。松鼠则说自己曾想做树下的花、想做鹿，都没能成，目前也只有做松鼠（[[claim-local-6]]）。\n\n## 转折与新信息\n\n一个声音插入对话——一片叶子开口，自我介绍“我是一片叶子”，并强调“我是我这一片，不是其他任何一片”（[[claim-local-7]]）。她说自己闭眼时世上只剩自己，所以害怕；睁眼看到许多自己才安心；风吹叶响时她在这声音里知道自己存在。她讲到许多叶子消失、又有新叶出现，她怕忘了自己、怕别人不知道有她，因此希望有人叫她的名字、她应一声便知道自己还在（[[claim-local-8]]）。松鼠随即答应：起床时叫、回来时也叫；她问石猴要不要也叫，石猴说不用，因为他要睡懒觉（[[claim-local-9]]）。\n\n## 本章结果\n\n次日早晨，松鼠醒来先叫“石头”，再笑着叫“一片叶子”，并听到一声“哎”的应答（[[claim-local-10]]）。但应答的叶子反问“你叫我干什么”，且否认是自己要求被叫名字；松鼠这才发现自己忘记是哪片叶子，并自问“换了树枝就会找不到她了么”（[[claim-local-11]]、[[claim-local-12]]）。她抬头，大青树满天的叶子在抖动，像无边无际的绿色海（[[claim-local-13]]）。据此可归纳：叫名字的约定在实际执行中失效，松鼠无法在满树叶子中认出当初那片（[[claim-local-15]]）。\n\n## 未决问题与补读入口\n\n- “我是谁”的自我认知困惑在本章被首次直接提出并悬置，石猴与别的猴子“不一样”的具体含义未交代（[[claim-local-4]]、[[claim-local-5]]）。\n- 一片叶子是否被松鼠再次辨认、约定是否继续执行，本章未说明（[[claim-local-15]]）。\n- 「石头」是松鼠对石猴的称呼；首段为“石头说”，紧接叙述写“石猴低了头道”，据此判为同一对象（[[claim-local-1]]、[[claim-local-14]]）。\n- 衔接：第50章末松鼠贴近石头、随后“一道光贯穿天地”；本章开篇即为乘凉对话，章末为满树叶子，第52章转入鸟群落在大青树。若要确认光与石猴的关系，建议补读第50章承接段。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "石猴首次直接追问“我是谁”，自述与猴群不同且因此恐惧——本 stage 人物主线起点",
+      "subject_ref_or_candidate": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      }
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "note": "叫名字的约定首次执行即失效，松鼠无法辨认那片叶子",
+      "subject_ref_or_candidate": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      }
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-8",
+      "note": "一片叶子关于存在、消失与被记住的自述——新角色核心陈述"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-9",
+      "note": "松鼠答应每日呼唤名字的约定（对象为石猴与一片叶子）"
+    },
+    {
+      "candidate_name": "一片叶子",
+      "kind": "entity_candidate",
+      "note": "本 stage 新出场说话角色，待建档"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "related_refs_or_local_ids": [
+        "claim-local-14",
+        "characters/char-0067/index.json"
+      ],
+      "suggested_action": "由下游在写入时确认“石头”作为 char-0067 的别名是否登记到 alias 列表。",
+      "summary": "“石头”（松鼠对石猴的称呼）与已建档实体 char-0067「石猴」为同一对象，但 char-0067 当前 safe_through 为 22，本章仅凭名字/叙述交替认定，未做实体引用层面的合并确认。"
+    },
+    {
+      "category": "missing_evidence",
+      "related_refs_or_local_ids": [
+        "ev-local-1"
+      ],
+      "suggested_action": "如需确定，补读第50章末段与第52章开头做跨章核对。",
+      "summary": "第50章末“一道光贯穿天地”与本章石猴开口问“我是谁”之间无明示因果，本章未交代光与石猴的关系，不做事前推测。"
+    }
+  ],
+  "warnings": [
+    "本章为高度对话/哲思型章节，几乎没有情节推进与动作描写，事件以对话场景为单位登记，claim 以“谁说了什么”的形式提取；凡角色自述内容（石猴身份、一片叶子的说法）一律标为 reported。",
+    "“石头”在本章是松鼠口中对石猴的称呼，叙述随即改用“石猴”，已作为推断性 claim（claim-local-14）记录，并登记 identity_ambiguity 供下游确认别名，未直接改动实体引用。",
+    "「一片叶子」为新出现的可说话角色，resolve_name 返回 no_match，已登记为 new_character_candidate，未与任何既有叶子/花木对象合并。",
+    "new_setting_candidate「大青树」可能与既有“老树”条目为同一对象，本章未明示二者关系，交下游去重。"
+  ]
+}

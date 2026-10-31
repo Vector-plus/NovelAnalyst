@@ -1,0 +1,41 @@
+{
+  "coverage_status": "complete",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 7,
+      "summary": "第1—7章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-001/index.json",
+        "record_id": "source-vol-001"
+      },
+      "title": "第1卷"
+    }
+  ],
+  "id": "idx-source",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 7,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "原文清单"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0092",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 24,
+  "entity_type": "character",
+  "label": "石柱上的头颅",
+  "introduced_at": 24,
+  "identity_notes": [
+    {
+      "id": "in-char-0092-001",
+      "revealed_at": 24,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1510"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1511"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1512"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1513"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1514"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

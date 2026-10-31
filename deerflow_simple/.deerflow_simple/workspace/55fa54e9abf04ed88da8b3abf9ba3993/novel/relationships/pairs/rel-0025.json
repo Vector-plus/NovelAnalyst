@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0025",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 11,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0031/index.json",
+      "record_id": "char-0031"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0025-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "as_of": 11,
+      "revealed_at": 11,
+      "summary": "判官称“看来观世音的主意真的起作用了”，与幽冥王一同认定孙悟空如今如被驯服的狗，即孙悟空当前状态被认为与观世音的“主意”有关。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "判官称“看来观世音的主意真的起作用了”，与幽冥王一同认定孙悟空如今如被驯服的狗，即孙悟空当前状态被认为与观世音的“主意”有关。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0230"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

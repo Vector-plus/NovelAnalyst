@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0012",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "取经队伍内部对救师不上心",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0012-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "plot_thread",
+      "status": "active",
+      "role": "advance",
+      "summary": "孙悟空说“别理他”、照样吃食，与猪八戒扭打；沙和尚在睡梦中说“砍死他”；只有猪八戒反复报师父呼救的次数。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

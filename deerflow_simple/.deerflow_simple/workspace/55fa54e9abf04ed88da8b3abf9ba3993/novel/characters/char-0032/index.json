@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0032",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 18,
+  "entity_type": "character",
+  "label": "敖广",
+  "introduced_at": 12,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0032/stages/stage-002.md",
+        "record_id": "doc-char-0032-stage-002"
+      },
+      "kind": "character_stage",
+      "title": "龙宫重逢与后殿之变",
+      "summary": "龙宫重逢与后殿之变（第11—18章）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 18
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0049",
+  "kind": "relationship",
+  "revision": 3,
+  "safe_through": 49,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0049-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "旧识/前缘（未定性）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "初遇的一句话被叙述为改变她一生的节点；五百年后在万灵之森追忆并落泪",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0049-stage-004",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "as_of": 49,
+      "revealed_at": 49,
+      "summary": "guardian_ward",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "即时出手相救，并承诺带她离开下界",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "只要「没有神的地方」；拒绝以「赐」换取归位，不肯招供妖精去向",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "以「不后悔」的对话后强行将其送走——保护行为同时也是单方面安排",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "在其死后埋下焦石、割腕洒血求雨",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

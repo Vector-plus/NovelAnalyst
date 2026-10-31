@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0067",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 23,
+  "label": "孙悟空为何选择做神仙：'不让命运握在他人之手'",
+  "introduced_at": 23,
+  "updates": [
+    {
+      "id": "update-thread-0067-001",
+      "revealed_at": 23,
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "category": "character_arc",
+      "status": "open",
+      "role": "developing",
+      "summary": "本章孙悟空向紫霞自述做神仙的动机是自保与掌握自身命运（claim-local-8），并称'现在我只想救我自己'（claim-local-9）、'如果老孙再斗下去，我想最终有一天我也是一样'（claim-local-25）。与其在 stage-003 后续章节（24—26）的走向相关。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1490"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1491"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1507"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0117",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 69,
+  "label": "孙悟空「齐天大圣」身份在百万妖众前重新确立",
+  "introduced_at": 69,
+  "updates": [
+    {
+      "id": "update-thread-0117-001",
+      "revealed_at": 69,
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "category": "identity_revelation",
+      "status": "advanced",
+      "role": "climax",
+      "summary": "金箍遗留在地、大旗重展、众妖重呼「齐天大圣」，大鹏王彻底崩溃。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2588"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2589"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2600"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2601"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

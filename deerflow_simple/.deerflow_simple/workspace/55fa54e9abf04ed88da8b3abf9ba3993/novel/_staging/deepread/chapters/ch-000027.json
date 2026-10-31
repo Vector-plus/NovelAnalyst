@@ -1,0 +1,366 @@
+{
+  "chapter_order": 27,
+  "chapter_id": "ch-000027",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空以风火焚毁天宫诸殿",
+      "introduced_at": 27,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 27,
+            "end": 27
+          }
+        ],
+        "revealed_at": 27,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "一股挟着烈火的狂风在天际纵横，朝会殿、凌虚殿、通明殿接连碎裂，神殿玉石柱粉碎、图腾化为尘土；众神失去对风火雷电的掌握，这股力量全部围绕在那个战斗者——孙悟空身旁。孙悟空狂笑着殴打神仙、毁灭一切，明知神杀不完、天宫无边无际，战斗无法终止，直到倒下仍狂笑至流泪。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天宫（天庭）"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天宫众神"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "一股狂风挟着烈火在天际纵横驰骋，无人能看清踪迹、无人能阻挡，只见高楼殿宇在火中崩朽，傲然的笑声摇撼天地。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "只看见那高楼殿宇在火中崩朽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "朝会殿、凌虚殿、通明殿三座殿宇接连碎裂。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "凌虚殿碎了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "天宫神殿的玉石柱粉碎、图腾化为尘土，众神失去对风火雷电的掌握，这些力量全部围绕在那个战斗者身旁。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "现在这力量全围绕在那个战斗者身旁。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "那个在天宫中战斗、摧毁殿宇的战斗者被点明为孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "孙悟空！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空狂笑着殴打神仙、毁灭一切，他知神永远杀不完、天宫无边无际，认为这战斗将无法终止，直到他倒下仍狂笑，笑出了眼泪。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "直到他倒下，他仍然狂笑，笑出了眼泪。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "章末出现一段第一人称自白：「这个天地，我来过，我奋战过，我深爱过，我不在乎结局。」原文未标明说话者。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 27,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "locator": null,
+          "anchor": "这个天地，我来过，我奋战过，我深爱过，我不在乎结局。"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "anchor": "孙悟空！"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "天宫众神",
+      "introduced_at": 27,
+      "alias_texts": [
+        "神仙"
+      ],
+      "identity_notes": "本章仅作为被殴打、失去风火雷电掌握的集体出现，无个体名；与既有神祇个体档案（玉帝、太上老君等）关系未在本章说明。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天宫（天庭）",
+      "introduced_at": 27,
+      "category": "势力/统治机构",
+      "certainty": "explicit",
+      "notes": "本章叙述提到天宫殿宇（朝会殿、凌虚殿、通明殿）被毁、玉石柱与图腾崩坏，并出现「天宫无边无际」的说法。若档案中已有对应势力条目，应合并而非新建。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "朝会殿",
+      "category": "place",
+      "introduced_at": 27,
+      "notes": "天宫殿宇之一，本章在火中碎裂。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "凌虚殿",
+      "category": "place",
+      "introduced_at": 27,
+      "notes": "天宫殿宇之一，本章碎裂。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "通明殿",
+      "category": "place",
+      "introduced_at": 27,
+      "notes": "天宫殿宇之一，本章碎裂。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "天宫（天庭）"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空焚毁天宫朝会殿、凌虚殿、通明殿，殴打众神；叙述称战斗将无法终止直至他倒下。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5"
+      ],
+      "notes": "主体 B 为本章出现的集体候选，非个体实体；已有关系对未能确认，需下游判重。"
+    }
+  ],
+  "thread_update_candidates": [],
+  "chapter_summary_markdown": {
+    "title": "第27章：天宫在火中碎裂",
+    "front_matter": {
+      "as_of": 27,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "天宫（天庭）"
+        },
+        {
+          "candidate_name": "天宫众神"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n一股狂风挟着烈火在天际纵横驰骋，无人能看清其踪迹，也无人能阻挡它的道路（[[claim-local-1]]）。火中的高楼殿宇持续崩朽，一个傲然一切的笑声摇撼天地（[[claim-local-1]]）。\n\n## 关键行动\n\n朝会殿、凌虚殿、通明殿接连碎裂（[[claim-local-2]]）。天宫神殿巨大的玉石柱粉碎，高贵的图腾化为尘土，神的威严被践踏（[[claim-local-3]]）。众神失去了对风火雷电的掌握，这股力量全部围绕在那个战斗者身旁（[[claim-local-3]]）。\n\n## 转折与新信息\n\n本章明确点出该战斗者的身份：**孙悟空**（[[claim-local-4]]）。他狂笑着殴打神仙、狂笑着毁灭一切；他知道神永远杀不完，也知道天宫无边无际，判断这战斗将无法终止，直到他倒下仍继续狂笑，笑出了眼泪（[[claim-local-5]]）。\n\n本章由此确认：被摧毁的殿宇、被夺取的风火雷电之力、被殴打的天宫众神，其对手方是孙悟空（[[ev-local-1]]）。\n\n## 本章结果\n\n本章未出现任何和局或收束：殿宇已成废墟，众神失去风火雷电的掌握，孙悟空仍在战斗并狂笑（[[ev-local-1]]、[[claim-local-5]]）。章末出现一段未标明说话者的第一人称自白：「这个天地，我来过，我奋战过，我深爱过，我不在乎结局。」（[[claim-local-6]]）\n\n## 未决问题与补读入口\n\n- 章末第一人称自白的归属：原文未标明说话者，本章仅在叙述中点名孙悟空（[[claim-local-6]]、[[claim-local-4]]）。\n- 「天宫众神」在本章仅以集体出现（被殴打、失去风火雷电掌握），未指名任何个体；与既有神祇个体档案的对应关系需回查前章（[[claim-local-3]]）。\n- 该场战斗的起始经过不在本章内；章首直接承接既成战局，需回查第26章结尾（叙述以「齐天大圣孙悟空」作结）。\n- 章末无收束，第28章开头即为巨灵神抓阿瑶、孙悟空现身，本章与该段动作的衔接需以第28章为准。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "stage-004（27–49）开篇即为天宫被焚的既成战局，可作为本阶段起点事件"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-4",
+      "note": "孙悟空身份的叙述级点明（锚点「孙悟空！」）"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-5",
+      "note": "孙悟空自认战斗无法终止、笑至流泪的关键陈述，可用于后续人物转折判断"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-2",
+      "note": "天宫三殿被毁：势力受创的具体证据"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "本章标题字段为「．」，疑为原文空缺或抽取异常，无法据标题命名章节；摘要标题为本流程拟名。",
+      "refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27
+        }
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "章末第一人称自白未标明说话者，仅能依本章上下文推测为孙悟空，未采用确定归属。",
+      "refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27,
+          "anchor": "这个天地，我来过，我奋战过，我深爱过，我不在乎结局。"
+        }
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "本章仅 8 段、无对白，全部为叙述性战斗描写；战局起点在前章，第28章即转入阿瑶被擒等动作，跨章衔接事实需在相邻章单独提取。",
+      "refs": [
+        {
+          "path": "source/vol-001/ch-000027.txt",
+          "chapter_id": "ch-000027",
+          "chapter_order": 27
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "本章标题为「．」，章节标题缺失/异常，摘要标题为推断拟名。",
+    "本章为纯叙述性短章（8 段），无对白、无新命名角色；「天宫众神」仅作为集体候选登记，未与既有神祇个体档案合并。",
+    "事件 ev-local-1 未挂接既有事件：本章战局明显承接第26章结尾（「齐天大圣孙悟空」），但 dedupe_event 未命中，related_event_refs 留空，需下游核对第26章事件后补挂。",
+    "not merged：天文地名（朝会殿/凌虚殿/通明殿）与「天宫（天庭）」势力条目均为候选，可能与既有档案重复，需判重。"
+  ]
+}

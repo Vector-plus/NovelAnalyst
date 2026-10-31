@@ -1,0 +1,691 @@
+{
+  "chapter_order": 31,
+  "chapter_id": "ch-000031",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天庭审问阿瑶：玉帝以“赐”为条件索要妖精去向",
+      "introduced_at": 31,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 31,
+            "end": 31
+          }
+        ],
+        "revealed_at": 31,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "神将押阿瑶上殿，禀报擒住妖猴后在花果山巡视时发现她独自在山上。玉帝认出阿瑶，问她为何去做妖精，并提出若如实说出残余妖精逃往何处便赐她重回天界。阿瑶神色平静，讲出与妖精相处时被问“以后想做什么”的经历，并说自己明白了妖精为何愿在地上挨饿——没人对他们说“赐”字。玉帝作出沉痛表情，称孙悟空把纯洁无瑕的仙女诱入罪恶之土。阿瑶复述妖精的话为“闭上你的鸟嘴”（没有“请”字），神将中有人忍不住笑出声，玉帝大声喝问是谁笑，殿上无人吭声，众神仙都努力作悲痛状。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "押解阿瑶的神将"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "殿上众神仙"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-5",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天蓬被投入谪仙井，阿瑶含泪答“这些，是神仙啊”",
+      "introduced_at": 31,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 31,
+            "end": 31
+          }
+        ],
+        "revealed_at": 31,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "正当阿瑶受审时，一旁正被押去投入谪仙井的天蓬发问“这些是什么啊？”。阿瑶转头看见他，一惊，眼中有了泪光，含泪答道“这些，是神仙啊。”天蓬在下坠途中仰天大笑。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "一名神将带着阿瑶走上殿来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "一个神将带着一个女孩走了上来，那是阿瑶"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "神将向玉帝禀报：擒住妖猴后在花果山巡视时，发现阿瑶一人在山上，不知在找些什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "押解阿瑶的神将"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "擒住妖猴后，在花果山巡视时，发现她一人在山上，不知找些什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "玉帝认出阿瑶，问她好好的为什么要去做妖精，并称若她如实说出那些残余妖精逃去了哪里，可以赐她重回天界。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "你如实说出那些残余妖精都逃去了哪里，我可以赐你重回天界"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "阿瑶在玉帝面前表现平静，原先脸上的惶恐消失了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "阿瑶很平静，惶恐从她的脸上消失了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "阿瑶自述刚才和一群妖精在一起，并说他们什么脏话都说。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "刚才我和一群妖精在一起"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "阿瑶说妖精们曾问她“以后想做什么”，她说这是第一次听到有人问她自己想做什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "我第一次听到有人问我我自己想做什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "阿瑶说她由此明白为什么那些妖精愿意在地上挨饿：因为没有人对他们说“赐”字，他们也不靠“赐”活着。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "因为没有人对他们说‘赐’字，他们也不靠‘赐’活着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "玉帝作出沉痛的表情，称孙悟空把一个纯洁无瑕的仙女诱入罪恶之土，并表示对阿瑶变成这样感到痛心。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "孙悟空究竟用什么将一个纯洁无瑕的仙女诱入罪恶之土"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "阿瑶回忆妖精们说的那句话是“闭上你的鸟嘴”，并强调没有“请”字，说自己老学不像。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "我老学不像"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "神将中有人忍不住笑出声（“哧——”）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "神将中有人忍不住笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "玉帝大叫，追问“是谁！谁笑！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "是谁！谁笑！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "殿上没有人吭声，每一个神仙都努力作出悲痛的样子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "每一个神仙都努力作悲痛状"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "天蓬开口问“这些是什么啊？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "这些是什么啊？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "阿瑶转头看见天蓬，一惊，眼中不由有了泪光。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "阿瑶转头看见他，一惊。眼中不由有了泪光。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "阿瑶噙着泪回答天蓬：“这些，是神仙啊。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "这些，是神仙啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "天蓬在往下坠去的途中仰天大笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "当天蓬往下坠去的时候，他仰天大笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "审问进行时，天蓬正被押去投入谪仙井。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 31,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000031.txt",
+          "chapter_id": "ch-000031",
+          "chapter_order": 31,
+          "locator": null,
+          "anchor": "却是一边正要被投入谪仙井的天蓬"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "谪仙井",
+      "category": "place",
+      "introduced_at": 31,
+      "notes": "天界用于处置/贬落神仙的处所，本章天蓬正被押去投入其中。原文仅以“一边正要被投入谪仙井的天蓬”一句提及，未描述形制与机制。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "审问—拒绝合作的对峙互动"
+      },
+      "certainty": "explicit",
+      "summary": "玉帝在本章以“赐你重回天界”为条件向阿瑶索要残余妖精的去向，阿瑶未招供，转而讲述妖精处“没人说赐字”的感受；玉帝随即以“孙悟空诱骗仙女”作沉痛表态。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "notes": "仅记录本章可见的互动事实，不作立场或情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "短暂对视与一句问答"
+      },
+      "certainty": "explicit",
+      "summary": "天蓬在被投井途中问“这些是什么啊？”，阿瑶转头看他、一惊并眼中有了泪光，含泪答“这些，是神仙啊。”",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": "本章未交代二人过往关系，仅登记本次互动。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "subject",
+      "subject": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "summary": "阿瑶被神将押到玉帝面前，面对“赐重回天界”的交换条件没有招供妖精去向，反而陈述妖精处“没人问你想做什么”“没人说赐字”的感受；她的公开态度从惶恐转为平静。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "以本章事实为准，不推定后续走向。"
+    },
+    {
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "subject",
+      "subject": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "summary": "天蓬在本章正被押去投入谪仙井，途中向阿瑶发问，并在下坠时仰天大笑。",
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-13",
+        "claim-local-16"
+      ],
+      "notes": "受罚结果（是否落入人间、去向）本章未述。"
+    },
+    {
+      "category": "world_state",
+      "status": "ongoing",
+      "role": "context",
+      "subject": {
+        "candidate_name": "花果山妖精残余"
+      },
+      "summary": "玉帝向阿瑶追问“那些残余妖精都逃去了哪里”，说明天庭仍在追查妖猴被擒后散逃的妖精去向；本章未得到答案。",
+      "source_claim_local_ids": [
+        "claim-local-3"
+      ],
+      "notes": "阿瑶未作答，去向仍空缺。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第31章：天庭审阿瑶，天蓬坠井",
+    "front_matter": {
+      "as_of": 31,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n一名神将带着阿瑶走上殿来（[[claim-local-1]]）。神将向玉帝禀报：擒住妖猴之后在花果山巡视，发现阿瑶独自在山上，不知在找些什么（[[claim-local-2]]，此为神将所述）。\n\n## 关键行动\n\n玉帝认出阿瑶，露出笑意，问她好好的为什么要去做妖精，并以「如实说出那些残余妖精都逃去了哪里」为条件，许诺「可以赐你重回天界」（[[claim-local-3]]）。\n\n阿瑶没有招供。她神色平静，脸上的惶恐消失（[[claim-local-4]]），转而自述刚才和一群妖精在一起、听他们说过脏话（[[claim-local-5]]）；她说妖精们问她「以后想做什么」，这是第一次有人问她自己想做什么（[[claim-local-6]]）；她由此明白妖精为何愿意在地上挨饿——没有人对他们说「赐」字，他们也不靠「赐」活着（[[claim-local-7]]）。\n\n玉帝作出沉痛的表情，称孙悟空把一个纯洁无瑕的仙女诱入罪恶之土，说自己对阿瑶变成这样感到痛心（[[claim-local-8]]）；阿瑶努力回忆妖精那句话，复述为「闭上你的鸟嘴」，并强调没有「请」字（[[claim-local-9]]）。\n\n## 转折与新信息\n\n神将中有人忍不住笑出声（[[claim-local-10]]）；玉帝大叫追问「是谁！谁笑！」（[[claim-local-11]]），殿上无人吭声，每一个神仙都努力作出悲痛状（[[claim-local-12]]）。\n\n与之并行的是天蓬的处境：审问进行时，他正被押去投入谪仙井（[[claim-local-17]]）。他开口问「这些是什么啊？」（[[claim-local-13]]）；阿瑶转头看见他，一惊，眼中不由有了泪光（[[claim-local-14]]），噙泪答道「这些，是神仙啊。」（[[claim-local-15]]）。\n\n## 本章结果\n\n天蓬在往下坠去的途中仰天大笑（[[claim-local-16]]）。阿瑶对妖精去向的追问始终未给出答案；玉帝的「赐」字条件未获回应。\n\n## 未决问题与补读入口\n\n- 阿瑶是否被处置、以何种方式处置，本章未写。\n- 天蓬投入谪仙井后的落点与结果，本章止于坠井一笑。\n- 花果山残余妖精的去向仍是天庭追问而阿瑶回避的问题。\n- 天蓬与阿瑶之间的既有关系本章未交代，仅有对视与一句问答。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "chapter_order": 31,
+      "note": "天庭审问阿瑶：玉帝以“赐重回天界”交换妖精去向，阿瑶未招供并陈述妖精处“没人说赐字”"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "chapter_order": 31,
+      "note": "天蓬被投入谪仙井，问“这些是什么啊”，阿瑶含泪答“这些，是神仙啊”，天蓬坠井大笑"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-7",
+      "chapter_order": 31,
+      "note": "阿瑶关于“赐”字的表述，本章核心对照句"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-3",
+      "chapter_order": 31,
+      "note": "玉帝提出的交换条件（reported）"
+    },
+    {
+      "kind": "setting",
+      "label": "谪仙井",
+      "chapter_order": 31,
+      "note": "天界贬落/处置神仙的处所首次点名出现"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章第4段存在编码损坏字符，原文“那些�天蓬颫��些�妖精愿意在地上挨饿”中有乱码，影响阿瑶该句的确切字面，本提取仅采信可辨部分并已单独立 claim 覆盖清晰文句。",
+      "chapter_order": 31,
+      "evidence": "那些�天蓬颫��些�妖精愿意在地上挨饿"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章题在源文件中显示为“．”（空标题/占位符），本章实际内容为天庭审阿瑶与天蓬坠井，摘要标题由本提取据正文拟定，后续如需以源题为准请回查。",
+      "chapter_order": 31,
+      "evidence": "[ch-000031 | 标题:．]"
+    }
+  ],
+  "warnings": [
+    "本章“神将”“众神仙”均为无名集体称谓，未登记为角色候选；claim-local-2 的 attributed_to 使用 candidate_name “押解阿瑶的神将” 仅作归属标记，未建档。",
+    "本章未出现新命名的具体人物（阿瑶、天蓬、玉帝都命中唯一既有实体 Ref：char-0021 / char-0015 / char-0012）。",
+    "cross-chapter：第30章结尾阿瑶让天蓬吞药后奔去，本章开头即阿瑶被神将押至玉帝前、天蓬正被投井，两者之间的行动未在本章叙述，未做推断填补。",
+    "本章极短（14段），未调用 dedupe 命中的既有事件/陈述（全部 no_match），亦无既有关系对可归并。"
+  ]
+}

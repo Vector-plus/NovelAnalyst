@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0017",
+  "kind": "index",
+  "revision": 9,
+  "safe_through": 49,
+  "title": "小白龙 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0014.json",
+        "record_id": "rel-0014"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×小白龙",
+      "summary": "与猪八戒×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0026.json",
+        "record_id": "rel-0026"
+      },
+      "kind": "relationship",
+      "title": "敖广×小白龙",
+      "summary": "与敖广×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0027.json",
+        "record_id": "rel-0027"
+      },
+      "kind": "relationship",
+      "title": "小白龙×唐僧",
+      "summary": "与小白龙×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0029.json",
+        "record_id": "rel-0029"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×小白龙",
+      "summary": "与孙悟空×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0035.json",
+        "record_id": "rel-0035"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×小白龙",
+      "summary": "与猪八戒×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0053.json",
+        "record_id": "rel-0053"
+      },
+      "kind": "relationship",
+      "title": "小白龙×敖广",
+      "summary": "与小白龙×敖广的关系",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0054.json",
+        "record_id": "rel-0054"
+      },
+      "kind": "relationship",
+      "title": "小白龙×玄奘",
+      "summary": "与小白龙×玄奘的关系",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0060.json",
+        "record_id": "rel-0060"
+      },
+      "kind": "relationship",
+      "title": "唐僧×小白龙",
+      "summary": "与唐僧×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0017",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 15,
+  "label": "小白龙是否被玄奘识破化身",
+  "introduced_at": 15,
+  "updates": [
+    {
+      "id": "update-thread-0017-001",
+      "revealed_at": 15,
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "category": "identity_suspicion",
+      "status": "open",
+      "role": "supporting",
+      "summary": "玄奘在大殿当众说\"我还看见一只会脸红的白色百灵\"，小白龙惊得差点从窗上栽下；他是否真看见她、是否知道她能听懂人话，文中只写\"他不知道\"（小白龙的判断），未由玄奘本人确认。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0584"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0585"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0571"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

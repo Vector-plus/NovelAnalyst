@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0024",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 9,
+  "title": "桃树上的猴子 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0024/index.json",
+        "record_id": "char-0024"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0019.json",
+        "record_id": "rel-0019"
+      },
+      "kind": "relationship",
+      "title": "阿瑶×桃树上的猴子",
+      "summary": "与阿瑶×桃树上的猴子的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    }
+  ]
+}

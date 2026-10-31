@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0034",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 14,
+  "label": "金色鲤鱼（小白龙所化原形，被叙述为少见之物）",
+  "category": "other",
+  "introduced_at": 14,
+  "updates": [
+    {
+      "id": "update-setting-0034-001",
+      "revealed_at": 14,
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0556"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0557"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0558"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

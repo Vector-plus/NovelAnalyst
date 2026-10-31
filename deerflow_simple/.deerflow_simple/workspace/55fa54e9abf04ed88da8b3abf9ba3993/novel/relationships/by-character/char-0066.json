@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0066",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 26,
+  "title": "阿月 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0044.json",
+        "record_id": "rel-0044"
+      },
+      "kind": "relationship",
+      "title": "天蓬×阿月",
+      "summary": "与天蓬×阿月的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

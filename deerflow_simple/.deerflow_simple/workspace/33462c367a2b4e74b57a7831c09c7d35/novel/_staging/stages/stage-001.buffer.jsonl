@@ -1,0 +1,16 @@
+{"local_id": "ev-local-6", "kind": "event", "note": "stage-001 起点事件：奥委会主席宣布接西亚运动员参加第二十九届奥运会，是后续整个 stage 的出发条件", "importance": "high", "chapter_order": 1}
+{"local_id": "ev-local-4", "kind": "event", "note": "辛妮马拉松能力首次展示（105圈、全国最好成绩），是她的能力基线证据", "importance": "high", "chapter_order": 1}
+{"local_id": "claim-local-17", "kind": "claim", "note": "克雷尔自述身份为国家体育运动局局长（reported，待后文印证）", "importance": "medium", "chapter_order": 1}
+{"local_id": "claim-local-2", "kind": "claim", "note": "封锁十七年、禁飞区、战争再临的国度背景基线", "importance": "high", "chapter_order": 1}
+{"local_id": "claim-local-32", "kind": "claim", "note": "穆拉德与伊西娅死亡经过，运动员群体凋零的典型例证", "importance": "medium", "chapter_order": 1}
+{"kind": "event_ref", "local_id": "ev-local-2", "note": "克雷尔受国际奥委会主席密谈后神态异常，隐瞒真相被明确提出，是 stage-001 的核心悬念起点", "chapter_order": 2}
+{"kind": "event_ref", "local_id": "ev-local-4", "note": "“和平视窗设想”首次由萨里说出口，克雷尔推迟至次日说明", "chapter_order": 2}
+{"kind": "claim_ref", "local_id": "claim-local-13", "note": "开幕式时间（次日上午九点）与“代表西亚共和国参加第二十九届奥运会”的公开宣布", "chapter_order": 2}
+{"kind": "claim_ref", "local_id": "claim-local-6", "note": "辛妮首次基于外部征兆作出“事情不对”的判断，属人物认知转折点", "chapter_order": 2}
+{"kind": "event", "ref_local_id": "ev-local-4", "chapter_order": 3, "note": "本站规则的核心设定来源（和平视窗计划与胜负条款），stage 收束关键证据"}
+{"kind": "event", "ref_local_id": "ev-local-5", "chapter_order": 3, "note": "美国军方高层首次出场并点燃圣火"}
+{"kind": "claim", "ref_local_id": "claim-local-10", "chapter_order": 3, "note": "仅美西两国参加、奥运会代替战争的规则总纲"}
+{"kind": "claim", "ref_local_id": "claim-local-13", "chapter_order": 3, "note": "一块金牌之差对应的差别待遇条款，后续胜负判定的依据线索"}
+{"kind": "claim", "ref_local_id": "claim-local-15", "chapter_order": 3, "note": "萨里（射击）与莱丽（体操）被点为西亚夺金希望"}
+{"kind": "claim", "ref_local_id": "claim-local-18", "chapter_order": 3, "note": "韦斯特的自我介绍（reported）与最后通牒倒计时信息"}
+{"kind": "claim", "ref_local_id": "claim-local-5", "chapter_order": 3, "note": "克雷尔与莱丽之间的当众冲突事实"}

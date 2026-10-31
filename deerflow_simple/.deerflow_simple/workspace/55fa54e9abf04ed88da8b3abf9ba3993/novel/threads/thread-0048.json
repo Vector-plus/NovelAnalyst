@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0048",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "唐僧自称修「大乘」而尚未想好",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0048-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "character_declaration",
+      "status": "open",
+      "role": "introduced",
+      "summary": "唐僧对女孩称别人修小乘、自己修大乘（修圆满），但承认大乘「因为我还没想好呢」，为本阶段新提出的自我定位。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1072"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

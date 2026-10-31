@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0108",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 55,
+  "label": "石猴出海求真",
+  "introduced_at": 55,
+  "updates": [
+    {
+      "id": "update-thread-0108-001",
+      "revealed_at": 55,
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "category": "character_goal",
+      "status": "advanced",
+      "role": "subject",
+      "summary": "石猴在章内明确说明离山目标：去找那力量，让所有生命超越界限、让花同时开放、让想飞的自由飞翔；随后上了木筏离开花果山，松鼠在高山上目送。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2168"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2170"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2172"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

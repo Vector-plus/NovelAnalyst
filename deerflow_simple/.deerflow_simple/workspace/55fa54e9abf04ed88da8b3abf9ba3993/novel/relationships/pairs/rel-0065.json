@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0065",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 55,
+  "introduced_at": 50,
+  "subjects": [
+    {
+      "path": "characters/char-0067/index.json",
+      "record_id": "char-0067"
+    },
+    {
+      "path": "characters/char-0112/index.json",
+      "record_id": "char-0112"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0065-stage-005",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 55
+        }
+      ],
+      "as_of": 55,
+      "revealed_at": 55,
+      "summary": "companionship",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠主动承担每日叫名字的义务",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "两端就「可及与不可及」相互对话",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠以掌上蓝色月光回应「触摸」之问；石猴被「怔住」（受触动的瞬时反应，不代表长期态度）",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠以「石头」称呼该声音，形成固定称法",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

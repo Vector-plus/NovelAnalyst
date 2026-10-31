@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0165",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 67,
+  "entity_type": "character",
+  "label": "卷帘大将",
+  "introduced_at": 67,
+  "identity_notes": [
+    {
+      "id": "in-char-0165-001",
+      "revealed_at": 67,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2554"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2555"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

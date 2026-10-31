@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0053",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 18,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    },
+    {
+      "path": "characters/char-0032/index.json",
+      "record_id": "char-0032"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0053-stage-002",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "revealed_at": 18,
+      "summary": "familial",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "亲缘/父子",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "求助与允准",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "禁令传达",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "后殿之变后的关系状态",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

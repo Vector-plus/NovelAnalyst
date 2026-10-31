@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0147",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 29,
+  "label": "花果山（暗无天日的黑色焦土）",
+  "category": "other",
+  "introduced_at": 29,
+  "updates": [
+    {
+      "id": "update-setting-0147-001",
+      "revealed_at": 29,
+      "chapter_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1610"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1636"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1637"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0073",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "大乘",
+  "category": "other",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-setting-0073-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0928"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0929"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

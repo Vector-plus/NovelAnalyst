@@ -1,0 +1,974 @@
+{
+  "chapter_order": 3,
+  "chapter_id": "ch-000003",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "唐僧林中反复呼救，两个徒弟在远处打闹不理会",
+      "introduced_at": 3,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 3,
+            "end": 3
+          }
+        ],
+        "revealed_at": 3,
+        "status": "closed",
+        "story_time": null,
+        "summary": "唐僧在紫色丛林中按怪树要求喊「救命」，猪八戒告知孙悟空，孙悟空表示「别理他」并吃猪腿，引两人厮打；沙僧在睡梦中说「砍死他」后继续睡死。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0004/index.json",
+              "record_id": "char-0004"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-4"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-5"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "唐僧与怪树周旋立誓，出谜语令怪树与怪兽化作白烟",
+      "introduced_at": 3,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 3,
+            "end": 3
+          }
+        ],
+        "revealed_at": 3,
+        "status": "closed",
+        "story_time": null,
+        "summary": "怪树索要唐僧多叫几声，唐僧以「大徒弟孙悟空」名义发誓留下；怪树称不记得孙悟空。唐僧后提出谜语「莲花未出生时是什么」，怪树与怪兽惨叫后化为白烟。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "怪树"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "丛林中的怪兽"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "绿衣女孩现身救下唐僧，随即论佛反目现妖相欲吃唐僧",
+      "introduced_at": 3,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 3,
+            "end": 3
+          }
+        ],
+        "revealed_at": 3,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "唐僧回头看见绿衣女孩，女孩接出谜底「莲花未出生时，还是莲花」；双方就外貌、修行（小乘/大乘）、金蝉子等议题反复争执，女孩脸色转厉，将美丽面孔变得恐怖狰狞要吃掉唐僧。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "绿衣女孩"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空凌空赶到女孩面前",
+      "introduced_at": 3,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 3,
+            "end": 3
+          }
+        ],
+        "revealed_at": 3,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "女孩欲吃唐僧之际，一道身影凌空越过，叙述点明来者是孙悟空。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "绿衣女孩"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "猪八戒对孙悟空说「师父又在叫救命了」，孙悟空答「别理他，老这样，总玩不腻」，看完晚霞后从怀里掏出一只腿来吃。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "师父又在叫救命了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "猪八戒问孙悟空在吃什么，孙悟空答「猪腿」，猪八戒大喝「我——宰——了——你！！」扑上去一把抱住猴子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "我——宰——了——你！！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "沙和尚在睡梦中翻身，说出「砍……砍死他……」后又睡死过去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "砍……砍死他……"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "怪树对唐僧说「你叫了十七句了。我只让你说一句的」，并问他为什么流泪。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "怪树"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "你叫了十七句了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "唐僧对怪树自称「才活了二十几年」，说当人要几百次轮回才能修到一次，求怪树让他多活几百年；怪树回应自己活了几十万年才有一双眼。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "当人是要几百次轮回才能修到一次的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "怪树称若放唐僧走，唐僧还会离开它、剩它一个人，因此不肯放。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "怪树"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "我要放你，你还会离开我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧以「我大徒弟孙悟空」的名义发誓，说一辈子留在这里直到怪树死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "我以我大徒弟孙悟空的名义发誓"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "怪树称「孙悟空」这名字好像听过但不记得，并追问唐僧还有徒弟；唐僧答二徒弟猪八戒很胖。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "我二徒弟猪八戒很胖的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "怪树与「后面的怪兽」发出惨叫，嘶嘶地变成一团白烟。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "忽然怪树和怪兽发出惨叫"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧在怪树索要更多呼喊后提出谜语「莲花未出生时是什么？」；怪树与怪兽惨叫化烟后，唐僧问它们怎么了，并说自己出的题是难了点。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "莲花未出生时是什么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "一个女孩的声音接出谜底「莲花未出生时，还是莲花」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "莲花未出生时，还是莲花。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "唐僧回头看见一个绿衣女孩笑嘻嘻站在那里，有一头飘然的长发，衣服用最细的银丝草编成、闪闪发亮。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": {
+            "para": 45
+          },
+          "anchor": "银丝草编成"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "绿衣女孩称唐僧「是个好色的和尚」，并说他若不是光头一定很讨女孩子喜欢、油嘴滑舌不能修成正果；唐僧辩解出家人不能说谎。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "原来你是个好色的和尚"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "唐僧对绿衣女孩说自己的修行与别人不同：「他们修小乘，我修大乘；他们修虚空，我修圆满」，并说大乘「因为我还没想好呢」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "他们修小乘，我修大乘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "绿衣女孩称只听说过有个叫金蝉子的曾质疑小乘佛法、想自行通悟，结果走火入魔陷于万劫之中。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "有个叫金蝉子的曾质疑小乘佛法"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "唐僧评论金蝉子「他笨嘛！」，绿衣女孩随即变脸，称金蝉子一根手指也能点破穹天，骂唐僧只是个在妖怪面前像狗一样求饶的凡夫俗子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "他一根手指，也能点破穹天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "唐僧称「因为我想活着，我不能掩藏我心中的本欲」，并说自己「心中爱你美丽」，又反问母猪也有美丑何必自卑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "我心中爱你美丽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "绿衣女孩斥唐僧犯嗔戒、妄语不断、心意杂乱，说「你不配论佛」，并称刚才听他说了句偈语以为他有道行才出手相救，随后叫他滚；唐僧反问「生死在天」、若是有道高僧佛祖自会保佑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "绿衣女孩"
+      },
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "你不配论佛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "绿衣女孩将身一转，美丽面孔变得恐怖狰狞，说「你既是一俗物，不如让我吃了你吧」；唐僧长叹妖怪吃他之前总要那么多废话，随后一道身影凌空越过，叙述点明来者是孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 3,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000003.txt",
+          "chapter_id": "ch-000003",
+          "chapter_order": 3,
+          "locator": null,
+          "anchor": "一张美丽面孔顿时变得恐怖狰狞"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "绿衣女孩",
+      "introduced_at": 3,
+      "alias_texts": [
+        "女施主",
+        "姑娘",
+        "秃子"
+      ],
+      "identity_notes": "本章以「一个女孩子的声音」出现，绿衣、飘然长发、衣服以最细银丝草编成；接出唐僧谜底并自称因听到唐僧说偈语、以为他有道行才出手相救（reported）。本章内未明示其姓名或与本阶段其他角色的同一性，第4章开头叙述另称「女妖」，但本输出不做合并。神态据原文由笑嘻嘻转为「恐怖狰狞」并扬言吃掉唐僧。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "怪树",
+      "introduced_at": 3,
+      "alias_texts": [
+        "树爷爷"
+      ],
+      "identity_notes": "会说话的老树，被唐僧称为「树爷爷」；自称活了几十万年才有一双眼、不记得孙悟空，要求唐僧留在原处；听唐僧谜语后与怪兽一同惨叫化为白烟。第2章中已有会说话的怪树出场，本章是否为同一实体未做 resolve 校验。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "丛林中的怪兽",
+      "introduced_at": 3,
+      "alias_texts": [
+        "后面的怪兽"
+      ],
+      "identity_notes": "在怪树旁出现的怪兽，参与对话（说怕徒弟早跑了、要先吃唐僧再去找徒弟），随怪树一同惨叫化为白烟。未给出外形或名称。",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "小乘佛法与「大乘」修行",
+      "category": "doctrine",
+      "introduced_at": 3,
+      "notes": "唐僧对绿衣女孩称「他们修小乘，我修大乘；他们修虚空，我修圆满」，并承认大乘「因为我还没想好呢」（reported）；绿衣女孩则称金蝉子曾质疑小乘佛法、想自行通悟而走火入魔（reported）。本章未由叙述给出教义定义。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    {
+      "label": "紫色丛林中的怪树与怪兽",
+      "category": "location_entity",
+      "introduced_at": 3,
+      "notes": "本章场景标注为「丛林中」，怪树与怪兽会说话、困住唐僧并以「嫌我孤单／要吃你」为动机；二者在唐僧提出谜语后化为白烟，原因原文未解释。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "绿衣女孩"
+      },
+      "candidate_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "relation_guess": "救援者与被救者（本章内已转为冲突）",
+      "certainty": "explicit",
+      "notes": "仅为互动关系记录，不涉及同一性合并；绿衣女孩本身未与任何已知角色作身份合并。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "绿衣女孩"
+      },
+      "candidate_b": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "relation_guess": "疑似知情者/关联者（该女孩主动提及金蝉子的往事故事并为其辩解）",
+      "certainty": "uncertain",
+      "notes": "原文只写女孩「只听说有个叫金蝉子的」及其反应，未明示二人身份关系；此处仅登记关联候选，禁止合并。",
+      "basis_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "membership",
+        "notes": "师徒（唐僧称孙悟空为「大徒弟」）"
+      },
+      "certainty": "reported",
+      "summary": "唐僧以「我大徒弟孙悟空」的名义向怪树发誓；唐僧呼喊救命时，孙悟空说「别理他」并继续与猪八戒厮打，直到章末凌空赶到女孩面前。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-7",
+        "claim-local-19"
+      ],
+      "notes": "师徒称谓来自唐僧自述，属 reported；「赶到」为叙述事实。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "membership",
+        "notes": "师徒（唐僧称猪八戒为「二徒弟」）"
+      },
+      "certainty": "reported",
+      "summary": "唐僧向怪树介绍「我二徒弟猪八戒很胖的」；猪八戒则向孙悟空转述「师父又在叫救命了」「师父已经在叫第一百三十四句了」。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-8"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同伴间的打闹与口角（同门师兄弟语境未在本章明说）"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空吃猪腿被猪八戒发现，猪八戒扑上去抱住猴子，两人持续厮打并以「你先叫爷爷」等言语互相较劲。",
+      "source_claim_local_ids": [
+        "claim-local-2"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "candidate_name": "绿衣女孩"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "由出手相救转为言语争执，最终现身欲吃唐僧"
+      },
+      "certainty": "explicit",
+      "summary": "绿衣女孩化去怪树与怪兽救下唐僧，随后因论佛争执骂唐僧不配论佛并要他滚，最后将面孔变得恐怖狰狞说要吃掉他。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "关系终点为未完成冲突（孙悟空凌空赶到），不预测结果。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "tangkai_seng_vs_green_girl",
+      "title": "绿衣女孩与唐僧的冲突待收束",
+      "category": "open_conflict",
+      "status": "open",
+      "role": "introduced",
+      "summary": "绿衣女孩现出妖相欲吃唐僧，孙悟空已凌空赶到，冲突结果未在本章交代。",
+      "source_claim_local_ids": [
+        "claim-local-19"
+      ],
+      "certainty": "explicit"
+    },
+    {
+      "thread_key": "tangkai_seng_dacheng_claim",
+      "title": "唐僧自称修「大乘」而尚未想好",
+      "category": "character_declaration",
+      "status": "open",
+      "role": "introduced",
+      "summary": "唐僧对女孩称别人修小乘、自己修大乘（修圆满），但承认大乘「因为我还没想好呢」，为本阶段新提出的自我定位。",
+      "source_claim_local_ids": [
+        "claim-local-14"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "thread_key": "jinchanzi_legend",
+      "title": "金蝉子质疑小乘佛法的往事故事",
+      "category": "background_revelation",
+      "status": "open",
+      "role": "introduced",
+      "summary": "绿衣女孩称金蝉子曾质疑小乘佛法、欲自行通悟，结果走火入魔陷于万劫之中，并极力为其辩护；唐僧则评「他笨嘛」。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "certainty": "reported"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第3章：林中呼救、绿衣女孩与「莲花」之谜（原文标题为「．」）",
+    "front_matter": {
+      "as_of": 3,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        },
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        },
+        {
+          "candidate_name": "绿衣女孩"
+        },
+        {
+          "candidate_name": "怪树"
+        },
+        {
+          "candidate_name": "丛林中的怪兽"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n唐僧陷在紫色丛林中，被会说话的怪树困住，按它的要求反复喊「救命」。远处，猪八戒对孙悟空说「师父又在叫救命了」，孙悟空答「别理他，老这样，总玩不腻」，看完晚霞后从怀里掏出一只腿来吃（[[claim-local-1]]、[[ev-local-1]]）。丛林这边，怪树质问唐僧已叫了十七句、为什么流泪（[[claim-local-4]]）；唐僧自称「才活了二十几年」，求怪树让他多活几百年（[[claim-local-5]]）。\n\n## 关键行动\n\n- 孙悟空答在吃「猪腿」，猪八戒大喝一声扑上去抱住猴子，二人厮打不止，孙悟空还让他「你先叫爷爷」（[[claim-local-2]]）；沙和尚在睡梦中翻了个身说「砍……砍死他……」又睡死过去（[[claim-local-3]]）。\n- 怪树不肯放人，理由是放了唐僧他还会离开、剩自己一个（[[claim-local-6]]）。唐僧便以「我大徒弟孙悟空」的名义发誓一辈子留下直到它死，并向它介绍二徒弟猪八戒很胖（[[claim-local-7]]、[[claim-local-8]]）。\n- 唐僧提出谜语「莲花未出生时是什么？」（[[claim-local-10]]）。怪树与「后面的怪兽」随即发出惨叫，嘶嘶地化成一团白烟（[[claim-local-9]]、[[ev-local-2]]）。\n\n## 转折与新信息\n\n- 一个女孩的声音接出谜底「莲花未出生时，还是莲花」；唐僧回头，看见一个绿衣女孩笑嘻嘻站在那里，长发飘然，衣服用最细的银丝草编成、闪闪发亮（[[claim-local-11]]、[[claim-local-12]]）。\n- 两人围绕外貌与修行来回争执：女孩称他是「好色的和尚」、油嘴滑舌不能修成正果，唐僧自称「他们修小乘，我修大乘；他们修虚空，我修圆满」，并说大乘「因为我还没想好呢」（[[claim-local-13]]、[[claim-local-14]]、[[ev-local-3]]）。\n- 女孩提到「有个叫金蝉子的曾质疑小乘佛法，想自行通悟，结果走火入魔，陷于万劫之中」，并在他批评金蝉子后变脸，称其「一根手指，也能点破穹天」（[[claim-local-15]]、[[claim-local-16]]）。\n- 唐僧回应「因为我想活着，我不能掩藏我心中的本欲」，并说自己「心中爱你美丽」（[[claim-local-17]]）。女孩斥他犯嗔戒、妄语不断，说「你不配论佛」，并称刚才是听他说了句偈语、以为他有道行才出手相救（[[claim-local-18]]）。\n\n## 本章结果\n\n女孩将身一转，一张美丽面孔顿时变得恐怖狰狞，说「你既是一俗物，不如让我吃了你吧」；唐僧长叹妖怪吃他之前总要那么多废话，此时一道身影凌空越过——来者是孙悟空（[[claim-local-19]]、[[ev-local-4]]）。怪树与怪兽已化为白烟，唐僧对二者的消失只以「我出的题是难了点」作解（[[claim-local-10]]）。\n\n## 未决问题与补读入口\n\n- 孙悟空赶到后与绿衣女孩的冲突如何了结，本章未写（[[ev-local-4]]）。\n- 绿衣女孩的姓名与身份未明示，叙述只给外形与言语；与已知角色的同一性不作推定。\n- 怪树与怪兽为何在听到谜语后化为白烟，原文未给解释。\n- 唐僧自称的「大乘」修行与其未想好的状态，是否与本阶段后续照应，需后续章节核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-3",
+      "kind": "event",
+      "note": "本 stage 首次出现「绿衣女孩」实体与唐僧论佛直接交锋，含小乘/大乘、金蝉子两条关键信息。"
+    },
+    {
+      "ref_or_local_id": "claim-local-14",
+      "kind": "claim",
+      "note": "唐僧自称修大乘、修圆满且「还没想好」，为人物自我定位的关键自述（reported）。"
+    },
+    {
+      "ref_or_local_id": "claim-local-15",
+      "kind": "claim",
+      "note": "金蝉子质疑小乘佛法、走火入魔陷万劫的传说，是后续身份线索的关键陈述（reported）。"
+    },
+    {
+      "ref_or_local_id": "claim-local-9",
+      "kind": "claim",
+      "note": "怪树与怪兽化为白烟，本 stage 内一次性消失，属场景结算事实。"
+    },
+    {
+      "ref_or_local_id": "ev-local-4",
+      "kind": "event",
+      "note": "孙悟空凌空赶到，为下一章接续点。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章「银丝草」一句存在乱码（原文：用最细�僧儚�最细�银丝草编成），第2章开头亦有类似乱码，anchor 只能截取后半段。",
+      "evidence": "source/vol-001/ch-000003.txt 第45段"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "绿衣女孩姓名/身份未明示，第4章开头叙述改称「女妖」；本输出仅登记为候选实体，未与任何已知角色合并。",
+      "evidence": "claim-local-12, claim-local-19"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "怪树与怪兽听到谜语后化为白烟的原因，原文未给出任何解释或叙述交代。",
+      "evidence": "claim-local-9, claim-local-10"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "唐僧在高声呼救时，孙悟空/猪八戒在丛林外的位置与距离本章未交代，仅以「丛林中」分段切换场景。",
+      "evidence": "claim-local-1, claim-local-4"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "「怪树」在第2章已有会说话的怪树出场，本次未调用 resolve_name 核对其是否同实体（工具预算限制），新建候选可能与第2章实体重复。",
+      "evidence": "claim-local-4"
+    }
+  ],
+  "warnings": [
+    "工具调用预算已超（约24次），怪树/怪兽是否已有实体档案未做 resolve_name 核对，存在重复建档风险。",
+    "本章原文标题为「．」，标题疑似缺失，摘要在标题中注明原文标题。",
+    "原文存在编码乱码段（银丝草一处），相关 anchor 仅取可唯一匹配的片段。"
+  ]
+}

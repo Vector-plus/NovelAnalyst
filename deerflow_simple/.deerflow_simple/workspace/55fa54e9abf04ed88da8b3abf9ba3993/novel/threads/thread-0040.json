@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0040",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "唐僧与绿衣女孩的论佛争执及其真实身份",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0040-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "绿衣女孩熟知金蝉子旧事、为其辩护，并因唐僧一句“他笨嘛”动怒；其身份与金蝉子的关系本章未明。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0930"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0931"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0932"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0029",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 12,
+  "introduced_at": 12,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0029-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "as_of": 12,
+      "revealed_at": 12,
+      "summary": "孙悟空在龙宫门外与白衣女子（小白龙）擦肩而过，心想似在何处见过；后得知定颜珠被给了「自己女儿」，扬言回去先结果了她。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "hostility",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "孙悟空在龙宫门外与白衣女子（小白龙）擦肩而过，心想似在何处见过；后得知定颜珠被给了「自己女儿」，扬言回去先结果了她。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0245"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0254"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

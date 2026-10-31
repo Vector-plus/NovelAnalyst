@@ -1,0 +1,996 @@
+{
+  "chapter_order": 50,
+  "chapter_id": "ch-000050",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "大青树下老树讲古，松鼠立志远行",
+      "introduced_at": 50,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 50,
+            "end": 50
+          }
+        ],
+        "revealed_at": 50,
+        "status": "completed",
+        "story_time": "松鼠出生十一个月时的某日",
+        "summary": "九百岁老树向松鼠讲述“很久很久以前只有一片大海”，并说自己想看大海、听说爬到这块大地最高处便知道世界是什么样。松鼠当即跳下树枝出发，答应旅行后回来把所见告诉老树；布袋熊与飞行猪呼唤不及。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老树"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "布袋熊"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "飞行猪"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "松鼠登上石峰，初见大海",
+      "introduced_at": 50,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 50,
+            "end": 50
+          }
+        ],
+        "revealed_at": 50,
+        "status": "completed",
+        "story_time": "同日，松鼠奔跑一日后",
+        "summary": "松鼠沿途向细红果追问世界边界，回头发现九百岁老树仍在身后；随后奔至一座自大地长出的高耸石峰，登上峰顶，看见森林之外金色带子环绕、远处无边蓝色大海，并自认听见海的呼吸。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "细红果"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老树"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "峰顶孤石前的一道贯穿天地的光",
+      "introduced_at": 50,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 50,
+            "end": 50
+          }
+        ],
+        "revealed_at": 50,
+        "status": "ongoing",
+        "story_time": "紧接前事，峰顶",
+        "summary": "峰顶平地中央立着一块不与山体相连的孤立石头。松鼠对石头连番提问，石头不答；松鼠把脸贴在石上聆听良久，缓缓退开，退出一百步时一道光贯穿天地。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "峰顶孤石"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "老树说，很久很久以前没有山、没有树，什么都没有，只有一片无边的大海。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "只有一片大海，无边的大海"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "老树自称身上年轮有九百圈，也曾是一颗种子、一棵小苗。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "我身上的年轮有九百圈了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "松鼠问自己是否也是从地里长出来的，并因自己没有叶子而难过。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "为什么我没有叶子呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "老树对松鼠说，松鼠能摆脱泥土的羁绊、自由奔跑，这一点让它羡慕。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "老树说它很想看到大海，每年都有海鸟的羽毛飘落带来海洋的气息。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "我是多么想看到大海啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "老树说，听说一直爬到这块大地最高的地方，就可以知道世界是什么样的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "你一直爬到这块大地最高的地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "松鼠答应老树：会每天去旅行，把看见的回来告诉老树。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "我会每天去旅行，然后把我看见的回来告诉你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "松鼠说完“我这就去”便在巨大树枝间三纵两纵离去，布袋熊与飞行猪的呼唤没来得及叫住她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "可松鼠已经在巨大的树枝间三纵两纵没影了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "松鼠爬下大青树，跑过树荫下的星星草一家、复兰花一家、野翠儿一家等花草虫儿的地界。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "她爬下巨大的大青树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "松鼠跑出大青树的影子，发现世界由无数影子组成、影子之间有闪耀的边界，随后自行选了一个方向跑去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "她发现原来世界是由无数的影子组成的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "叙述交代松鼠此时只出生了十一个月，而她自己觉得已跑了上千里，认为快跑到世界的尽头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "她今天跑的路比她这一辈子跑的加起来还要多"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "松鼠问路边的细红果世界的边界在哪里；细红果回答自己那里是世界的中心，并反问松鼠从哪跑来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "细红果"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "我这里是世界的中心啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "松鼠反驳说它那里才是世界的中心，自己从大青树跑了很长的路而来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "我那儿才是世界的中心啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "松鼠回头看见层层树冠之上九百岁的老树仍立着，自己仿佛还在他脚下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "九百岁的老树正立着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "松鼠看见一座像树一样从大地中长出的奇特石峰，高耸入云，便向山脚奔去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "那座奇特的石峰"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "松鼠登上峰顶悬崖边缘，看见巨木变成小草、森林之外有金色带子环绕，远处是无边无际的蓝色，认出那是海。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "那是……海"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "松鼠自认听到了海的声音，觉得“呼——呼——”像夜间风声，认为海在呼吸，并为此欢呼蹦跳。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "它在呼吸"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "松鼠发现峰顶没有一个人，追问谁来过这里、有谁知道她的幸福，声音消散在雾气中。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "忽然发现自己站的地方没有一个人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "山顶平地中间只立着一块石头，它与山体不相连，仿佛不是大山的一部分。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "只有一块石头立在平地中间"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "松鼠绕着石头连问它为何独自站着、是否在听海声、在此多久、是否发闷，石头不说话。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "而石头不说话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "松鼠把脸贴在石头上听了很久，慢慢退开，退到一百步时一道光贯穿了天地。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "一道光贯穿了天地"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "老树与布袋熊都把松鼠称作“小鹿”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老树"
+      },
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "小鹿你不要打岔"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "松鼠跑出大青树地界前，树荫下蜗牛反复爬树、爬到剑兰高度便与她说话而后滑落的日常仍在继续。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 50,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000050.txt",
+          "chapter_id": "ch-000050",
+          "chapter_order": 50,
+          "locator": null,
+          "anchor": "蜗牛又在忙爬树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "老树",
+      "introduced_at": 50,
+      "alias_texts": [
+        "大青树",
+        "九百岁的老树"
+      ],
+      "identity_notes": "大青树下的老树，自称年轮九百圈、曾为种子与幼苗；向松鼠讲述远古只有大海，并表达想看大海的愿望。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-14",
+        "claim-local-22"
+      ]
+    },
+    {
+      "label": "布袋熊",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "与松鼠同在大青树一带的同伴，在松鼠离去时呼唤“小鹿，等等我”。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-22"
+      ]
+    },
+    {
+      "label": "飞行猪",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "与布袋熊一同呼唤松鼠的同伴，仅出现名字与呼唤动作。",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "果子熊",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "称松鼠为“小鹿”、说松鼠那时也还是一颗种子。与后文“布袋熊”称谓不同，是否同一只当章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-22"
+      ]
+    },
+    {
+      "label": "蜗牛",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "在大青树上反复爬树，每爬到剑兰高度便与她说话、随后不知不觉滑落；自叹羡慕松鼠一天在大青树上爬二十个来回。",
+      "evidence_claim_local_ids": [
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "剑兰",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "大青树树荫下的花草之一，总抬着高傲的头说蜗牛烦，但每日清晨仍抬头等蜗牛来说话。",
+      "evidence_claim_local_ids": [
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "细红果",
+      "introduced_at": 50,
+      "alias_texts": [],
+      "identity_notes": "路边的一棵细红果，与松鼠争论何处是世界中心，自称自己那里是世界的中心。",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "峰顶孤石",
+      "introduced_at": 50,
+      "alias_texts": [
+        "石头"
+      ],
+      "identity_notes": "立于石峰峰顶平地中央、不与山体相连的孤立石头。松鼠对其连番发问它不出声；松鼠贴耳聆听后退开一百步时一道光贯穿天地。当章未说明其来历或是否为活物。",
+      "evidence_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "大青树",
+      "category": "place",
+      "introduced_at": 50,
+      "notes": "巨大的树，九百岁老树所居；树荫下是松鼠、布袋熊、飞行猪等所认定的“王国”，其下有星星草、复兰花、野翠儿等花草虫儿。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-14",
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "石峰",
+      "category": "place",
+      "introduced_at": 50,
+      "notes": "像树一样从大地中长出的奇特石峰，高耸入云，被松鼠视为“这块大地最高的地方”；峰顶为一片空旷平地，中央立着孤立石头。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "海",
+      "category": "place",
+      "introduced_at": 50,
+      "notes": "森林之外、金色带子（崖缘/滩带）环外的一片无边无际的蓝色水域；老树口中“很久很久以前只有大海”，松鼠在峰顶首次实地看见并自认听见其呼吸般的声音。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "峰顶孤石"
+      },
+      "candidate_b": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "relation_hint": "疑似相关/同一",
+      "status": "unresolved",
+      "certainty": "uncertain",
+      "basis": "本章峰顶孤立石头被松鼠连番呼唤而不出声，章末“一道光贯穿天地”后即止；第51章开篇“石头”开始说话并自问“我不是一只猴子么”。当章未明示该石头即编号 char-0067 的「石猴」，此处仅登记候选关联。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "老树"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "讲述者与听众：老树向松鼠讲古老往事与自己的愿望"
+      },
+      "certainty": "explicit",
+      "summary": "老树在大青树下向松鼠讲述“很久以前只有大海”等往事与想见海的愿望；松鼠答应旅行后把所见回来告诉它，并随即出发。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-14"
+      ],
+      "notes": "仅记录互动与承诺事实，不做感情定性"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "峰顶孤石"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "单方面发问与聆听"
+      },
+      "certainty": "explicit",
+      "summary": "松鼠在峰顶绕着孤立石头连番提问（为何独站、是否在听海、是否发闷），石头不说话；松鼠把脸贴在石上聆听良久后缓缓退开。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "notes": "石头是否应答或是否活物当章未明示"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "label": "松鼠远行的承诺（把所见带回告诉老树）",
+      "category": "foreshadowing",
+      "status": "open",
+      "role": "setup",
+      "summary": "松鼠答应老树“我会每天去旅行，然后把我看见的回来告诉你”，本章刚开始远行并首次看见海，尚未返回兑现。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-16"
+      ]
+    },
+    {
+      "label": "峰顶孤石与贯穿天地的光",
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "峰顶不与山体相连的孤立石头对松鼠的呼唤全无回应，松鼠贴耳聆听后退开一百步，一道光贯穿天地；光起之后情形未叙。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-21"
+      ]
+    },
+    {
+      "label": "老树想看大海的愿望",
+      "category": "character_goal",
+      "status": "open",
+      "role": "setup",
+      "summary": "老树自述“我是多么想看到大海”，但它已长不动、无法离开，愿望由松鼠的远行间接承接。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-14"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第50章：老树讲古与松鼠初见大海",
+    "front_matter": {
+      "as_of": 50,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "candidate_name": "老树"
+        },
+        {
+          "candidate_name": "峰顶孤石"
+        },
+        {
+          "candidate_name": "布袋熊"
+        },
+        {
+          "candidate_name": "飞行猪"
+        },
+        {
+          "candidate_name": "细红果"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n大青树树荫下的“王国”里，松鼠（老树与布袋熊口中的“小鹿”）缠着老树讲故事。老树以「很久很久以前，没有山，没有树，什么都没有，只有一片大海」开篇（[[claim-local-1]]），并自称年轮已九百圈、当年也只是一颗种子（[[claim-local-2]]）。松鼠问自己是否也从地里长出来、为什么没有叶子（[[claim-local-3]]）；老树则说松鼠能摆脱泥土的羁绊、自由奔跑（[[claim-local-4]]）。老树的叙述里也埋着自己的愿望：它很想看到大海，每年海鸟羽毛飘落带来海洋气息（[[claim-local-5]]）。\n\n## 关键行动\n\n老树给出方向——「听说，你一直爬到这块大地最高的地方，就可以知道世界是什么样的了」（[[claim-local-6]]）。松鼠当即应下「我这就去」，并承诺「我会每天去旅行，然后把我看见的回来告诉你」（[[claim-local-7]]），随后在树枝间三纵两纵离去，布袋熊与飞行猪呼唤不及（[[claim-local-8]]）。她爬下大青树，跑过树荫下星星草、复兰花、野翠儿等地界（[[claim-local-9]]），跑出大青树的影子，发现世界由无数影子组成、影子之间有闪耀的边界，自选一个方向跑去（[[claim-local-10]]）。途中蜗牛仍在反复爬树、每爬到剑兰高度便与她说话又滑落（[[claim-local-23]]）。出发当日她只出生了十一个月，却自觉已跑了上千里、快跑到世界尽头（[[claim-local-11]]）。\n\n## 转折与新信息\n\n- 松鼠问路边细红果“世界的边界在哪里”，细红果答“我这里是世界的中心啊”并反问（[[claim-local-12]]）；松鼠反驳说自己那儿才是世界的中心、自己从大青树跑了很长的路（[[claim-local-13]]）。\n- 转折在于松鼠回头看见层层树冠之上九百岁的老树仍立着，自己仿佛还在他脚下（[[claim-local-14]]）——她的“上千里”并未真正离开大青树的范围。\n- 她望见一座像树一样从大地长出的奇特石峰、高耸入云，便向山脚奔去（[[claim-local-15]]）。\n- 登上峰顶悬崖边缘后，青色的云散开，巨木变成小草，森林之外有金色带子环绕，远处一片无边无际的蓝色向她汹涌而来——那是海（[[claim-local-16]]）；她自认听到海的声音、觉得它“在呼吸”，为此欢呼蹦跳（[[claim-local-17]]）。\n\n## 本章结果\n\n欢呼之后松鼠发现峰顶没有一个人，追问谁来过这里、有谁知道她的幸福，声音消散在雾气中（[[claim-local-18]]）。山顶空旷平地中央只立着一块不与山体相连的石头，仿佛不属于这座山（[[claim-local-19]]）。松鼠绕着石头连问它为何独自站着、是否在听海的声音、在此多久、是否发闷，石头不说话（[[claim-local-20]]）。她把脸贴在石头上听了很久，慢慢退开、蹑手蹑脚，退出一百步时，一道光贯穿了天地（[[claim-local-21]]）。\n\n## 未决问题与补读入口\n\n1. 那道贯穿天地的光因何而起、之后发生了什么——章末止于光起，需读第51章。\n2. 峰顶孤石是何来历、是否即已建档的石猴（char-0067）：本章石头全程不出声，第51章开篇“石头”开始说话并自问“我不是一只猴子么”；本章未明示身份，已登记为身份关联候选（identity_ambiguity）。\n3. 松鼠“把所见回来告诉老树”的承诺尚未兑现，而老树自称已长不动、无法亲见大海。\n4. 老树“很久以前只有一片大海”的说法在本章仅为老树所述（reported），未经其他来源印证。\n5. 本章前半段称“果子熊”、后半段称“布袋熊”，是否同一只未明示，建议下章核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-2",
+      "note": "本 stage（花果山·众生之问与石猴出海）首章关键进展：松鼠登峰初见大海，是把“众生之问”推向海外的起点"
+    },
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-3",
+      "note": "峰顶孤石 + 光贯穿天地，可能是石猴线的启动节点；需在第51章确认石头是否开口"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-16",
+      "note": "松鼠首次看见海（关键证据，anchor：那是……海）"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-19",
+      "note": "峰顶不与山体相连的孤立石头（石猴候选载体的首次描写）"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-6",
+      "note": "“爬到大地最高处便知世界是什么样”——推动松鼠出走的直接动因（reported by 老树）"
+    },
+    {
+      "kind": "thread",
+      "name": "松鼠把所见带回告诉老树的承诺",
+      "note": "跨章伏笔，需在 stage-005 后续章节跟踪是否兑现"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "峰顶孤石是否为已建档的石猴（char-0067）当章未明示，仅登记 identity_link_candidate，未合并引用。",
+      "evidence": "本章“而石头不说话”“一道光贯穿了天地”；第51章开篇石头开口自称“我不是一只猴子么”",
+      "related_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "summary": "同一场景内先称“果子熊”、后称“布袋熊”，二者是否为同一角色当章未明示，暂分别登记为角色候选。",
+      "evidence": "“小鹿你不要打岔……果子熊说。” / “布袋熊和飞行猪叫着”",
+      "related_local_ids": [
+        "claim-local-8",
+        "claim-local-22"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "原文两处存在字符损坏（如“直到���� f���法每天赶回来”“f����松鼠开始了她漫长的奔跑”“仿佛并不是大山的一部���山的�分”），相关段落的锚点已避开这些损坏片段，若需逐字引用请回查源文件编码。",
+      "evidence": "ch-000050 第 12、17、34 段左右的乱码字符",
+      "related_local_ids": [
+        "claim-local-2",
+        "claim-local-10",
+        "claim-local-19"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章原文标题为空符号“．”，摘要标题按内容自拟为“老树讲古与松鼠初见大海”，不含任何未在原文出现的专名。",
+    "老树、布袋熊、飞行猪、果子熊、蜗牛、剑兰、细红果在实体库中均无命中，已全部登记为角色候选，未与任何已知实体合并。",
+    "松鼠被老树/布袋熊唤作“小鹿”“松鼠小鹿”，当章语境明确指向同一角色，仅以 claim 记录称呼事实，未新建别名实体。",
+    "“没有山没有树只有大海”“年轮九百圈”等均为角色口述（reported），未提升为 explicit 世界事实。",
+    "松鼠“已跑了上千里”是其自身判断，仅与叙述给出的“出生十一个月”一并记录，未作为客观距离事实。"
+  ]
+}

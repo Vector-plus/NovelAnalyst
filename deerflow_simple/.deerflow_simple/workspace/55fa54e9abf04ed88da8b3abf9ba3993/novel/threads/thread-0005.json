@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0005",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 8,
+  "label": "孙悟空自述可能忘记了一些事",
+  "introduced_at": 8,
+  "updates": [
+    {
+      "id": "update-thread-0005-001",
+      "revealed_at": 8,
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "category": "mystery",
+      "status": "active",
+      "role": "setup",
+      "summary": "孙悟空在被指为凶手后说「也许我真的忘记了些什么」，其记忆是否缺失章内未进一步说明。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0156"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

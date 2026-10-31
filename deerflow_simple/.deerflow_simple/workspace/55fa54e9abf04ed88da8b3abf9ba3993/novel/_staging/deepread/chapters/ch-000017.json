@@ -1,0 +1,505 @@
+{
+  "chapter_order": 17,
+  "chapter_id": "ch-000017",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "大江边放生：玄奘与小白龙分别",
+      "introduced_at": 17,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 17,
+            "end": 17
+          }
+        ],
+        "revealed_at": 17,
+        "status": "completed",
+        "story_time": "取经启程之初（五百年后叙事段之前）",
+        "summary": "玄奘在大江边捧钵盂，自述当年即从此处来，随后将金色鲤鱼（小白龙）放入江中，屡次劝其离去。鱼盘旋不去，最终小白龙未现真身表白，摆头游向出海口，一颗珍珠沉入江底。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-8",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "玄奘在大江边捧着钵盂说：“当年，我就是从这里来的。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "当年，我就是从这里来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "大江上白雾弥漫，疾风卷起玄奘的衣裳；这句话他好像在对小白龙说，又好像在对自己说。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "江上白雾弥漫，疾风卷起他的衣裳"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "玄奘对小白龙说：“万物生成皆神圣，一草一木总关情，你也有你的家，你的自在，我不能再留住你，你去吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "我不能再留住你，你去吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "玄奘把金色鲤鱼放入江中，那鱼打了几个盘旋，却不离去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "他把金色鲤鱼放入江中，那鱼打了几个盘旋，却不离去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "玄奘对鱼说：“你也是有情谊的么？我心领了，去吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "你也是有情谊的么？我心领了，去吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "这些天小白龙没说一句话，只是听和尚说话、看和尚读书、扫地，看和尚思索时紧锁的眉头、入睡时平和的面容。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "这些天她没说一句话，只是听和尚说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "小白龙觉得自己已离不开这些，并想到龙宫里没有这样一个人，万里东海没有这样一个人，茫茫尘世也只有一个这样的人。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "她觉得她已离不开这些"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "玄奘继续劝她：“相遇皆是缘，缘尽莫强求，我要去天边，你又跟不得我，去吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "相遇皆是缘，缘尽莫强求"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "小白龙忽然有种冲动，想现出真身把这一切告诉和尚，并陪他一起走遍天涯。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "她要现出真身，告诉和尚这一切"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "小白龙最终没有现出真身，也没有说出一切；她一摆头，向出海口游去了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "她一摆头，向出海口游去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "小白龙离去时，水中一颗晶莹的珍珠缓缓沉入江底。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "一颗晶莹的珍珠缓缓沉入江底"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "本章中玄奘放入江中的金色鲤鱼即小白龙（章内以鱼的形态与“小白龙”并列叙述，且写其想“现出真身”）。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 17,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000017.txt",
+          "chapter_id": "ch-000017",
+          "chapter_order": 17,
+          "locator": null,
+          "anchor": "小白龙忽然觉得自己要哭了"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-4"
+        },
+        {
+          "local_id": "claim-local-9"
+        },
+        {
+          "local_id": "claim-local-6"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "大江出海口",
+      "category": "location",
+      "introduced_at": 17,
+      "notes": "章首场景为“大江边”，江上白雾弥漫；玄奘自述当年从此处来；小白龙最终向“出海口”游去。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-10"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "candidate_name": "金色鲤鱼"
+      },
+      "relation": "same_entity_suspected",
+      "certainty": "inferred",
+      "summary": "原文先写玄奘“好像在对小白龙说”，紧接写他把金色鲤鱼放入江中，随后以“小白龙”写其心理并提及其可“现出真身”，可推断金色鲤鱼即小白龙非真身之形。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": "章内未直接以一句话明示“金色鲤鱼就是小白龙”，故仅登记候选，不改动既有实体引用。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同行数日、放归与不愿分离的互动事实"
+      },
+      "certainty": "explicit",
+      "summary": "玄奘在大江边数次劝小白龙离去、还其自在，并将金色鲤鱼放入江中；小白龙数日来默随其侧，盘旋不去，最终未表露身份而离去。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10"
+      ],
+      "notes": "仅记录互动事实，不作感情类别定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_trajectory",
+      "status": "open",
+      "role": "setup",
+      "summary": "小白龙在大江出海口与玄奘分开，未坦露身份与心意，珍珠沉江；其后续是否重返玄奘身边待后续章节确认。",
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11"
+      ],
+      "notes": "珍珠沉江为原文叙述事实，含义未在章内说明。"
+    },
+    {
+      "category": "location_marker",
+      "status": "open",
+      "role": "background",
+      "summary": "玄奘自述“当年，我就是从这里来的”，将大江边与其来历关联；章内未展开具体来历。",
+      "source_claim_local_ids": [
+        "claim-local-1"
+      ],
+      "notes": "仅为角色自述（reported）。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第17章：大江边放生",
+    "front_matter": {
+      "as_of": 17,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n大江边，白雾弥漫，疾风卷起玄奘的衣裳。他捧着钵盂，说道“当年，我就是从这里来的”——这话像在对小白龙说，也像在对自己说（[[claim-local-1]]、[[claim-local-2]]）。\n\n## 关键行动\n\n- 玄奘以“万物生成皆神圣，一草一木总关情”“你也有你的家，你的自在”为由，表示不能再留住小白龙，让她离去（[[claim-local-3]]）。\n- 他把金色鲤鱼放入江中；鱼打了几个盘旋却不离去（[[claim-local-4]]）。\n- 玄奘又说“你也是有情谊的么？我心领了，去吧”，再次劝其离去（[[claim-local-5]]）。\n- 他继续以“相遇皆是缘，缘尽莫强求，我要去天边，你又跟不得我”相劝（[[claim-local-8]]）。\n\n## 转折与新信息\n\n- 叙述转入小白龙一侧：这些天她一句话没说，只是听和尚说话、看他读书扫地，看他思索时紧锁的眉头、入睡时平和的面容（[[claim-local-6]]）。\n- 她觉得已离不开这些，并想到龙宫、万里东海、茫茫尘世也没有第二个这样的人（[[claim-local-7]]）。\n- 她一度有种冲动，要现出真身把这一切告诉和尚，并陪他走遍天涯（[[claim-local-9]]）。\n- 章内以鱼的形态与“小白龙”并列叙述，且提及“现出真身”，据此推断被放归江中的金色鲤鱼即小白龙（[[claim-local-12]]，已登记同一性候选，未改写实体引用）。\n\n## 本章结果\n\n小白龙最终没有现出真身、也没有说出一切；她一摆头，向出海口游去。水中一颗晶莹的珍珠缓缓沉入江底（[[claim-local-10]]、[[claim-local-11]]）。整章作为“玄奘与小白龙分别”的事件收束（[[ev-local-1]]）。\n\n## 未决问题与补读入口\n\n- 小白龙离开后的去向与是否会重返玄奘身边，本章未交代。\n- 沉入江底的珍珠含义，章内没有任何解释。\n- 玄奘“当年，我就是从这里来的”所指的具体来历，章内未展开。\n- 下一章（第18章）开篇转入“五百年后/孙悟空上天庭”，时间线大幅跳转，需注意与本章的叙事层差异。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 17,
+      "note": "玄奘放归小白龙，小白龙未表露身份离去"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-10",
+      "chapter_order": 17,
+      "note": "小白龙向出海口游去，珍珠沉江"
+    },
+    {
+      "kind": "character_turn",
+      "ref_or_local_id": "claim-local-9",
+      "chapter_order": 17,
+      "note": "小白龙欲现真身相伴而最终未行"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-1",
+      "chapter_order": 17,
+      "note": "玄奘自述当年从此处来（reported）"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章“金色鲤鱼”与“小白龙”之间的关系未经原文一句话明示，仅由叙述并列与“现出真身”推得。",
+      "related_local_ids": [
+        "claim-local-12"
+      ],
+      "suggested_action": "保持候选状态，待后续章明确后再合并引用。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "“一颗晶莹的珍珠缓缓沉入江底”在章内无任何解释性叙述。",
+      "related_local_ids": [
+        "claim-local-11"
+      ],
+      "suggested_action": "后续章节若出现珍珠相关线索，再回溯补挂。"
+    }
+  ],
+  "warnings": [
+    "本章仅 12 段，篇幅极短，事件单一；未调用 read_source_window 之外的工具，kit 使用在预算内。",
+    "玄奘、小白龙均为已有唯一实体（char-0053 / char-0017），未新建角色候选。",
+    "本章涉及小白龙“离不开”“有情谊”等叙述呈现心理，仅按原文事实提取，未作任何感情类别定性。"
+  ]
+}

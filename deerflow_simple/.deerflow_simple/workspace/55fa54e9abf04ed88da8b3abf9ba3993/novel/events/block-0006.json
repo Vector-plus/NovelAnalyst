@@ -1,0 +1,4516 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "block-0006",
+  "kind": "event_collection",
+  "revision": 6,
+  "safe_through": 60,
+  "events": [
+    {
+      "id": "ev-0272",
+      "kind": "event",
+      "title": "孙悟空在被一句问话惊醒于路上民舍",
+      "introduced_at": 56,
+      "safe_through": 56,
+      "updates": [
+        {
+          "id": "update-0272",
+          "chapter_ranges": [
+            {
+              "start": 56,
+              "end": 56
+            }
+          ],
+          "revealed_at": 56,
+          "status": "closed",
+          "story_time": "西行途中某夜",
+          "summary": "章首一个声音惊问「唐僧死了，谁干的？」，孙悟空由此从梦中醒来，头痛，一时忘记自己是谁、身在何处，随后想起自己正躺在路上某间民舍的墙角草堆里，屋内猪八戒正与村民喧闹饮酒。他走出屋外，站在天井中向篱笆外的夜色望去。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2180",
+              "text": "章首一个声音惊问「唐僧死了，谁干的？」；该声音的来源在章内未指明。",
+              "certainty": "reported",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "唐僧死了，谁干的？"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2181",
+              "text": "孙悟空因这句问话从梦里醒来，头还有些痛，一时忘了自己是谁、现在身处何处。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "孙悟空于是从梦里醒了过来"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2182",
+              "text": "孙悟空重新想起自己叫孙悟空，正躺在路上的某间民舍的墙角草堆里。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "正躺在路上的某间民舍的墙角草堆里"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2183",
+              "text": "草屋中酒碗碰撞、喧闹声不断，猪八戒满脸通红地喊着「再来一碗！」，把碗里的酒和饭混在一起稀里呼噜喝下去，不顾旁边村民正看着他。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "满脸通红的猪八戒喊着"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2184",
+              "text": "孙悟空走到屋外，站在天井中，向篱笆外的一片夜色望着。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "站在屋外的天井中"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2180"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2181"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2184"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2182"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0273",
+      "kind": "event",
+      "title": "民舍夜饮：猪八戒醉闹与沙僧摔碗发作",
+      "introduced_at": 56,
+      "safe_through": 56,
+      "updates": [
+        {
+          "id": "update-0273",
+          "chapter_ranges": [
+            {
+              "start": 56,
+              "end": 56
+            }
+          ],
+          "revealed_at": 56,
+          "status": "closed",
+          "story_time": "西行途中某夜",
+          "summary": "草屋内猪八戒满脸通红、喊「再来一碗」，把碗里的酒和饭混在一起大口喝下，不顾旁边村民看着；沙僧因竹筒丢失、见碗杯即手抖，屋内瓷碗摔碎，沙僧惨叫抱头在地上打滚，猪八戒狂笑称碎碗声好听；孙悟空冷冷问「又发作了吗？」。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2187",
+              "text": "孙悟空对唐僧说「睁着眼也是黑，闭着眼也是黑，我可不可以站在这儿等天亮？」，并反问唐僧「你居然也喝酒么？」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "我可不可以站在这儿等天亮"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2188",
+              "text": "唐僧自称「我是出家人，出家人不能喝酒，只喝水」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "出家人不能喝酒，只喝水"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2189",
+              "text": "孙悟空质疑猪八戒喝了二十碗也全是水；唐僧回答「他既然只求一醉，又有什么不可以呢？」，随即多次把空碗凑到嘴边装做一饮而尽，并呷着空碗说「啊，好酒」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "他既然只求一醉"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2190",
+              "text": "猪八戒所饮之物是否为酒在章内存在两种表述：叙述写他碗里「酒和饭混在一起」，唐僧则称他喝的水也能「只求一醉」，本章未给出定论。",
+              "certainty": "uncertain",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "碗里酒和饭混在一起"
+                },
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "那猪八戒干了二十碗也全是水"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2191",
+              "text": "唐僧说沙僧「一看见碗啊杯子之类的手就发抖，杯子也端不起来」，并说这次沙僧吃饭的竹筒丢了，明天要去再弄一段。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "一看见碗啊杯子之类的手就发抖"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2188"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2183"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2189"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2190"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0274",
+      "kind": "event",
+      "title": "天井夜谈：唐僧自述无欲望故无弱点",
+      "introduced_at": 56,
+      "safe_through": 56,
+      "updates": [
+        {
+          "id": "update-0274",
+          "chapter_ranges": [
+            {
+              "start": 56,
+              "end": 56
+            }
+          ],
+          "revealed_at": 56,
+          "status": "closed",
+          "story_time": "西行途中某夜",
+          "summary": "唐僧走出屋外与天井中的孙悟空搭话，自称出家人只喝水、用空碗也能「想一想就醉」，并说众人不能用那种痛苦挟制他，因为他没有那样的欲望、命运找不到他的弱点，所以才能当师父；孙悟空冷笑以「呸」回应，随后独自站在屋外毫无睡意，心想上天与宿命正在黑暗里等待明天。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2185",
+              "text": "唐僧从屋里走出来，笑着向屋里人扬手，转头看见孙悟空后与他搭话；孙悟空也向唐僧搭话，就夜色、天亮与自己是否也喝酒发问。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "唐僧从屋里走了出来"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2186",
+              "text": "唐僧对孙悟空说「一片漆黑能看见些什么呢？」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "一片漆黑能看见些什么呢"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2192",
+              "text": "屋里传来瓷碗摔碎的声音，沙僧一声惨叫；猪八戒狂笑道「碎了，这声音好听！破了，破成一片、一片、一片一片一片……」；沙僧抱着头在屋里地上打起滚来。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "沙僧抱着头在屋里地上打起滚来"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2193",
+              "text": "孙悟空冷冷地问「又发作了吗？」，随后问唐僧「我头痛发作的时候，样子是不是比他还难看？」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "又发作了吗"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2194",
+              "text": "唐僧回答孙悟空说「我总在想，什么东西可以把人变成那个样子」，并称「他们不能用那种痛苦来挟制我，因为……我没那样的欲望」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "什么东西可以把人变成那个样子"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2195",
+              "text": "唐僧自称「命运找不到我的弱点，所以——我才能当你们师父」，以此解释他为何能作孙悟空等人的师父。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "命运找不到我的弱点"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2196",
+              "text": "孙悟空冷笑着问「你从不痛苦的吧？」，并以咬牙说「呸！」回应唐僧。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "你从不痛苦的吧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2197",
+              "text": "唐僧自称「我只要想一想，自然就醉了，长夜漫漫，太清醒不是会很难受？」，并说「我醉了，我要回去睡」，要明天下午再上路，理由是孙悟空喜欢看落日、没有看日出的习惯；孙悟空说「用空碗都能喝醉？我真是服了你，师父」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "我只要想一想，自然就醉了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2198",
+              "text": "屋里灯灭后孙悟空仍在屋外站着，一点儿睡意也没有，他想：上天永远不会睡去，宿命一定也和他一样正在黑暗里静静等待明天。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 56,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000056.txt",
+                  "chapter_id": "ch-000056",
+                  "chapter_order": 56,
+                  "locator": null,
+                  "anchor": "宿命一定也和他一样正在黑暗里静静等待明天"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2185"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2196"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2198"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0275",
+      "kind": "event",
+      "title": "白晶晶在风草中等待，师兄弟三人边行边吵打",
+      "introduced_at": 57,
+      "safe_through": 57,
+      "updates": [
+        {
+          "id": "update-0275",
+          "chapter_ranges": [
+            {
+              "start": 57,
+              "end": 57
+            }
+          ],
+          "revealed_at": 57,
+          "status": "resolved",
+          "story_time": "取经途中（章内标为“第一天”）",
+          "summary": "白晶晶在风草飞扬处长久等待，黑白轮换后见孙悟空自森林边缘出现（如折翼之鸟、拄棍、神情疲惫）。猪八戒从悟空背后树林晃出，以“找一棵大树用尾巴倒吊着睡”调侃他，并问这与推倒五庄观人参果树有何关系；悟空答那树被神仙改造过，所以想给它断根。八戒扛钉耙打悟空头，沙僧加入，三人互相动兵器吵打成一团。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2199",
+              "text": "白晶晶在风草飞扬处长期等待，黑颈鸟与雨云出现、风停之后，看见孙悟空从森林边缘出现，其状如一只折了翅膀的鸟，一跳一跳穿行灌木，拄着棍子、歪着头，眼神懒散，像很累了。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "她看见一只折了翅膀的鸟"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2200",
+              "text": "猪八戒说孙悟空现在一定想找一棵树，能用尾巴倒吊在上面睡觉；孙悟空答“是一棵大树，我一辈子都在找这么一棵树”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "你现在一定想找一棵树"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2201",
+              "text": "猪八戒问孙悟空，找大树睡觉这件事和他推倒五庄观的人参果树有什么关系，说明八戒知道悟空推倒人参果树一事。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "这和你推倒五庄观的人参果树有什么关系呢"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2202",
+              "text": "孙悟空说五庄观那棵大树被神仙改造过，长满神仙爱吃的古怪果子和金色叶子，已经不是一棵树，他见了就难受，就想给它一个断根。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "就想给他一个断根"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2203",
+              "text": "猪八戒扛起钉耙打孙悟空头，沙僧加入喊“打架么？好！”，三人以“讨厌不背行李不洗碗的师弟”“最讨厌找不着大树要站在地上睡觉的猴子”“不准提想当年/五百年前”等话互相抄兵器杵着吵打成一团。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "三个家伙拿兵器互相杵着"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2203"
+            }
+          ],
+          "outcome_refs": [],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0276",
+      "kind": "event",
+      "title": "女子上前请食，被孙悟空当面识破为妖精",
+      "introduced_at": 57,
+      "safe_through": 57,
+      "updates": [
+        {
+          "id": "update-0276",
+          "chapter_ranges": [
+            {
+              "start": 57,
+              "end": 57
+            }
+          ],
+          "revealed_at": 57,
+          "status": "resolved",
+          "story_time": "取经途中（第一天）",
+          "summary": "唐僧牵着驮行李的白马出现，说三人打闹也不怕前面的妖精姑娘看笑话。孙悟空抬头才发现前方有人，唐僧以此夸他境界又高一层；八戒则提议下注这女妖精会不会又像前几个那样“疯狂爱上和尚”。女子笑盈盈上前，以“云游僧人”招待用饭。唐僧意味深长笑着看她，孙悟空直接说“师父，白骨啊”，唐僧回“我知道美人即白骨，你就不能有点儿礼貌”。女子气极跺脚欲发作，被孙悟空一把扭住；悟空称自己火眼金睛不会看走眼，八戒则借“压在地底下五百年”说悟空眼神不好。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2204",
+              "text": "唐僧牵着驮着行李的白马出现，说他们这样闹也不怕前面的那位妖精姑娘看笑话。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "也不怕前面的那位妖精姑娘看笑话"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2205",
+              "text": "孙悟空此前未注意前方有人，抬头后说还以为那是一棵枯树；唐僧道“魔不入寸心，你的境界又高了一层”，猪八戒则说他“近视又高了一层”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我还以为那是一棵枯树"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2206",
+              "text": "猪八戒提议下注，赌前面这个女妖精会不会又像前几个那样“疯狂地爱上和尚”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "现在我们来下注前面这个女妖精"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2207",
+              "text": "女子笑盈盈走到近前，以“长老，是云游僧人么？走得累了，随便用点饭食吧”招呼唐僧一行。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "是云游僧人么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2208",
+              "text": "唐僧意味深长地笑着看那女子，女子不好意思地转过脸去。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "唐僧意味深长地笑着看她"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2209",
+              "text": "孙悟空对唐僧说“师父，白骨啊”，即指眼前女子是妖精；唐僧回说“我知道美人即白骨，你就不能有点儿礼貌，不要说出来吗”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "师父，白骨啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2210",
+              "text": "女子被戏耍气极，一跺脚想要发作，却被孙悟空一把扭住。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "却被孙悟空一把扭住"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2211",
+              "text": "孙悟空对女子说他们几个都是妖精，让她别指望收饭钱、最好跑远点，免得他们忍不住把她也吃掉。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我们可都是妖精"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2212",
+              "text": "孙悟空自称“天生火眼金睛，什么时候看走眼过”，并说那女子若不是妖精，猪八戒就是帅哥；猪八戒则回说悟空在地底下压了五百年，还拿鼹鼠的眼神打趣他。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我孙悟空天生火眼金睛"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2204"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2211"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2210"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0277",
+      "kind": "event",
+      "title": "林中散步：唐僧自述来历与“为什么”，白晶晶三度欲下手未成",
+      "introduced_at": 57,
+      "safe_through": 57,
+      "updates": [
+        {
+          "id": "update-0277",
+          "chapter_ranges": [
+            {
+              "start": 57,
+              "end": 57
+            }
+          ],
+          "revealed_at": 57,
+          "status": "resolved",
+          "story_time": "取经途中（第一天，同一时段）",
+          "summary": "唐僧起身说要到林中散步，少女跳上前跟去，三人混战顾不上他。林中白晶晶自报姓名“白晶晶”，唐僧说“我们好像见过”，并说自己只为知道西天在哪儿、承认很傻。白晶晶三次在唐僧背后现出杀机伸手，均被打断或自行收回；唐僧背向她说自己并不阻止妖精吃人，只要给个理由，并自述把猴子从山底挖出并有泥土恐惧症、遇到为逃婚（小姑娘追求）而混入队伍的自卑猪、在河里救起被天帝罚在流沙河当妖精的沙僧，称他们每个人都恨他。随后唐僧抓她手大喊“为什么”，她恐惧大叫“不要啊”，唐僧却放手称“只是个玩笑”。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2213",
+              "text": "唐僧从地上站起来说“我要到美丽的林中去散散步”，少女跳上前说“我跟你去”，三人正打成一团顾不上唐僧。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我要到美丽的林中去散散步"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2214",
+              "text": "少女向唐僧自报姓名“我叫白晶晶”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我叫白晶晶"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2215",
+              "text": "唐僧对白晶晶说“我们好像见过”，并说自己只在林子里走时才不用去想哪边才是西边。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我们好像见过"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2216",
+              "text": "唐僧说去西天是因为太多人问过他，他“只是想知道它在哪儿”，并自认很傻。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我只是想知道它在哪儿"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2217",
+              "text": "白晶晶看着唐僧背影时眼中忽现杀机，将手伸向他的背；唐僧忽然转回身，她低头装作修指甲——如此三度出手，均在中途收回或被打断。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "眼中忽现杀机"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2218",
+              "text": "唐僧背向白晶晶说，他并不是不让他们吃，只不过要他们给他一个“理由”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我只不过是要他们给我个理由"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2219",
+              "text": "唐僧自述：当年他把猴子从山底挖出来时，猴子有泥土恐惧症、最大愿望是脚不沾地在树上挂着，他用三个月逼猴子重新拿出勇气在地上走路。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我用了三个月逼他重新拿出勇气在地上走路"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2220",
+              "text": "唐僧自述：一年后他遇上一只自卑的猪，当时那猪正因一个小姑娘疯狂想嫁给他、要和他一起去做妖精而痛苦，为了逃跑就混进了取经队伍。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "一个小姑娘疯狂地想嫁给他"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2221",
+              "text": "唐僧自述：他在河里救起沙僧，这沙僧五百年都没学会游泳，天帝却罚他在流沙河里当妖精，他只敢在河中心一块石头上站了五百年。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "可是天帝罚他在流沙河里当妖精"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2222",
+              "text": "唐僧说三个徒弟现在每一个人都恨他，并推测自己若死了他们就会解脱。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "而现在他们每一个人都恨我"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2223",
+              "text": "唐僧说所有的妖精都想杀他，他每次都问“为什么”，可每次对方还没说出答案就死了；因此他认为想杀死一个妖精，只要问他“为什么”就够了。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "他们还没说出答案的时候就死了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2224",
+              "text": "唐僧忽然一把抓住白晶晶的手，盯着她的眼睛大声喊“为什么”，白晶晶恐惧地大叫起来。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "唐僧忽然一把抓住白晶晶的手"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2225",
+              "text": "白晶晶自述这是她成为妖精以来没被人这样注视过，觉得自己忽然又变回当年活着的那个小姑娘、在那眼神下透明；随后唐僧放开手，说“对不起，只是个玩笑”，并边走边说“没错，就当这一切只是个玩笑好了”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "对不起，只是个玩笑"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2215"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2217"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2224"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2225"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0278",
+      "kind": "event",
+      "title": "孙悟空制止白晶晶，闻“花果山”后剧痛倒地，一击打碎其身",
+      "introduced_at": 57,
+      "safe_through": 57,
+      "updates": [
+        {
+          "id": "update-0278",
+          "chapter_ranges": [
+            {
+              "start": 57,
+              "end": 57
+            }
+          ],
+          "revealed_at": 57,
+          "status": "resolved",
+          "story_time": "取经途中（第一天，同段）",
+          "summary": "白晶晶将手变成利爪，孙悟空已站在她背后。她指出悟空“本也是妖怪”，让他杀了自己以成正果；悟空称“我不是，我要成正果了”，并说自己早就知道她换了人形、刚才已放她一马，而她仍想杀唐僧。悟空抬棒时，白晶晶颤声说“如果有雨水，花果山就能长出花草来吧”，悟空愣住并喊痛，丢棒蹦起又摔在地上抱头狂喊。白晶晶怒视唐僧质问“紧箍咒”，但唐僧并未念什么。她冲上前要杀唐僧，被悟空跳起抓住；唐僧出声阻止“不要”，但那一击落下，白晶晶身躯粉碎。孙悟空如苍老之人弓腰低头走过，唐僧让他把解开的行李整好搬上马，他低声应“知道了”。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2226",
+              "text": "白晶晶定神后仍将手变成利爪，但手在半空定住——孙悟空已站在她的背后。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "孙悟空站在了她的背后"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2227",
+              "text": "白晶晶与孙悟空对视后镇定下来，指出“孙悟空，你本也是妖怪”，并让他杀了自己去成正果。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "你本也是妖怪"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2228",
+              "text": "孙悟空说“我不是，我要成正果了”，并说自己知道她换了人形、刚才已放她一马，而她仍想杀唐僧。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我刚才放你一马"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2229",
+              "text": "白晶晶反问“你知道我是谁？杀我之前能不能告诉我？”，孙悟空抬起棒来时，她忽然向他伸出手。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "杀我之前能不能告诉我"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2230",
+              "text": "白晶晶颤声说“如果有雨水，花果山就能长出花草来吧”，孙悟空愣住并念出“花果山”，随后只说出一个“痛”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "如果有雨水，花果山就能长出花草来吧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2231",
+              "text": "孙悟空忽然丢掉棒子，直蹦起来又摔在地上，抱头狂喊“痛，痛啊！”。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "抱头狂喊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2232",
+              "text": "白晶晶抬头怒视唐僧质问“紧箍咒？”，但唐僧并没有念什么，只是平静地看着。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "唐僧并没有念什么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2233",
+              "text": "白晶晶说“孙悟空你忍住，我这就杀了唐僧”，冲上前去。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "我这就杀了唐僧"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2234",
+              "text": "孙悟空跳起来一把抓住冲上前的白晶晶，白晶晶惊疑回头问“为什么”；唐僧出声喊“不要”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "但是孙悟空跳起来一把抓住了她"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2235",
+              "text": "孙悟空的一击落在白晶晶身上，她的身躯在瞬间粉碎。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "瞬间那身躯也粉碎了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2236",
+              "text": "孙悟空像苍老的人一样弓着腰、低头从唐僧身边走过；唐僧叹气让他把解开的行李整好搬上马，他低声应“知道了”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 57,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000057.txt",
+                  "chapter_id": "ch-000057",
+                  "chapter_order": 57,
+                  "locator": null,
+                  "anchor": "把解开的行李整好搬上马"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2230"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2233"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2235"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2235"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2236"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0279",
+      "kind": "event",
+      "title": "草原遭遇黑羽怪鸟群与白龙马突围",
+      "introduced_at": 58,
+      "safe_through": 58,
+      "updates": [
+        {
+          "id": "update-0279",
+          "chapter_ranges": [
+            {
+              "start": 58,
+              "end": 58
+            }
+          ],
+          "revealed_at": 58,
+          "status": "concluded",
+          "story_time": "第二天",
+          "summary": "第二天行路途中天色转暗，天空出现成群血红嘴、锋利羽毛的黑色怪鸟。孙悟空先喊「有妖气」，随即看见鸟群后精神失常倒地抽搐。唐僧、猪八戒、沙僧与白马躲进土坑，怪鸟见唐僧冲出便如得令般俯冲。唐僧先后甩出袈裟（喝「万佛朝宗，破！」）与布衫（喊「金蝉脱壳！」）惊退、诱开怪鸟，猪八戒挥钉耙卷起狂风搅落羽毛；随后白龙马驮唐僧与孙悟空疾驰，怪鸟的羽箭追之不及。白龙马猛停，二人摔在草丛中。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0148/index.json",
+                "record_id": "char-0148"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2239",
+              "text": "孙悟空喊「有妖气！」；猪八戒反驳说那是一群大鸟，并描述其血红的嘴、如刀锋利的羽毛与燃烧的眼睛。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "有妖气！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2240",
+              "text": "唐僧、猪八戒、沙僧连着白马跳进一个土坑露出头来，只有孙悟空一人独立在漫天飞旋的黑色羽翼下。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2241",
+              "text": "孙悟空望着满天黑色飞鸟四肢僵硬，大喊「这……不会……这不会是你们……不！！！」并抱住头倒在地上抽搐。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "抱住了头倒在地上抽搐"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2242",
+              "text": "猪八戒想去取小白马身上的包袱，被踹了回来；唐僧从土坑中一跃而出，冲向地上的孙悟空。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2243",
+              "text": "唐僧把身上袈裟一甩，一道红光直冲天空，喝「万佛朝宗，破！」，怪鸟受惊俯冲后又惊鸣着飞起、交错划过他们头顶。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "万佛朝宗，破！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2244",
+              "text": "唐僧抱住孙悟空就跑，并说「笨鸟！你们什么时候见过唐僧会法术？」——唐僧自称不会法术。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "你们什么时候见过唐僧会法术"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2245",
+              "text": "唐僧又扯下身上布衫一抛，喊「金蝉脱壳！」，无数黑光在布袍上穿梭，布袍未落地已成碎片，唐僧因此多跑出几丈。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "金蝉脱壳！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2246",
+              "text": "猪八戒摆动钉耙，卷起呼呼狂风，搅下无数黑色羽毛并在四周旋转。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2247",
+              "text": "无边黑色中射进一道白色闪电，唐僧带着孙悟空骑白龙马飞驰，黑色羽箭在后面疾飞却追不上白马的骄影。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "忽然射进了一道白色闪电"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2248",
+              "text": "白龙马猛地一停，马上二人向前栽出摔在草丛中。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2239"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2243"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2244"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2245"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2246"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2247"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2248"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0280",
+      "kind": "event",
+      "title": "白龙马将唐僧与孙悟空带到长安城下",
+      "introduced_at": 58,
+      "safe_through": 58,
+      "updates": [
+        {
+          "id": "update-0280",
+          "chapter_ranges": [
+            {
+              "start": 58,
+              "end": 58
+            }
+          ],
+          "revealed_at": 58,
+          "status": "concluded",
+          "story_time": "第二天（怪鸟袭击之后）",
+          "summary": "白龙马把唐僧与孙悟空带到一处城墙下。唐僧认出城墙像女儿国，再看城楼所写，惊觉是长安，坐地大笑，说「我走了七八年，原来在你眼里不过是这么短的路程。」小白马轻嘶，用头轻碰他，好像在安慰。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0148/index.json",
+                "record_id": "char-0148"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2249",
+              "text": "唐僧站起后认出城墙像女儿国，城楼上写的却是长安，惊问「你怎么跑回长安来了！」",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "你怎么跑回长安来了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2250",
+              "text": "唐僧坐地大笑，说「我走了七八年，原来在你眼里不过是这么短的路程。」——唐僧自述已西行走过七八年。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "我走了七八年"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2251",
+              "text": "小白马轻嘶一声，走过来用头轻碰唐僧，好像在安慰他一般。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0148/index.json",
+                "record_id": "char-0148"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [],
+          "action_refs": [],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2249"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0281",
+      "kind": "event",
+      "title": "孙悟空旧忆发作与唐僧摸头引发的冲突",
+      "introduced_at": 58,
+      "safe_through": 58,
+      "updates": [
+        {
+          "id": "update-0281",
+          "chapter_ranges": [
+            {
+              "start": 58,
+              "end": 58
+            }
+          ],
+          "revealed_at": 58,
+          "status": "concluded",
+          "story_time": "第二天（雨后，白天）",
+          "summary": "孙悟空在地上昏迷呓语「我的花果山」，随即翻身擎出金箍棒，吼「如来！出来与我大战三百回合！」唐僧以「你又在做梦么？」回应。澄清理后唐僧伸手抚摸孙悟空的头，孙悟空如遭雷击跳起举棒怒吼，称没有人敢碰他的头。唐僧缩手，记起眼前这只猴并非他少年时山中常抚摸的猴子同类，并低声说「从没有人……是的，你没有父母，我忘了。」孙悟空举棒愣住，白马长嘶。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2252",
+              "text": "孙悟空在地上昏迷呓语「不是我……不是……我的花果山……」，忽然翻身蹦起擎出金箍棒，吼「如来！出来与我大战三百回合！」",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "如来！出来与我大战三百回合！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2253",
+              "text": "唐僧说「你又在做梦么？」，孙悟空醒转后问自己刚才喊了什么、天为何这么冷、唐僧为何光膀子；唐僧答「我最后的一套衣服送去洗了还没干。」",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2254",
+              "text": "玄奘看着孙悟空，伸出手在他的头上抚摸了一下。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "在他的头上抚摸了一下"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2255",
+              "text": "孙悟空像被雷劈一样跳起，举着棒子对唐僧怒吼「你干什么！」，冷雨浇在他身上冒出丝丝白气。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2256",
+              "text": "孙悟空咆哮称没有人敢碰他的头，质问唐僧是否因此轻视他；唐僧缩回手，并记起眼前这只猴并不是他少年时在山中常抚摸的那些猴子的同类。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "没有人敢碰我的头"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2257",
+              "text": "唐僧低头轻声说「从没有人……是的，你没有父母，我忘了。」并说了抱歉；孙悟空举着金箍棒愣在那里，白马长嘶一声。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "你没有父母，我忘了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2252"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2254"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2256"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2257"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0282",
+      "kind": "event",
+      "title": "夜晚火堆旁关于袈裟、紧箍咒与「那一天」的对话",
+      "introduced_at": 58,
+      "safe_through": 58,
+      "updates": [
+        {
+          "id": "update-0282",
+          "chapter_ranges": [
+            {
+              "start": 58,
+              "end": 58
+            }
+          ],
+          "revealed_at": 58,
+          "status": "concluded",
+          "story_time": "夜间（同一日）",
+          "summary": "夜间火堆边，猪八戒问唐僧是否把观音给的护体袈裟丢了，唐僧答袈裟特别吸引妖精、丢了就能护体，是宝物；猪八戒抱怨唐僧每夜拿袈裟给他盖上，蚊子全叮自己。孙悟空在睡梦中说「好沉，好沉！」手脚乱挥，猪八戒说这猴子在五行山下被压出毛病。猪八戒问紧箍咒能压他多久、紧箍儿怎能压住这样的人，并提到还有那么多愿意用自己的命换他自由的人，说迟早有一天那人会消灭面前的所有东西，包括你和我。唐僧答「我也在等那一天」，并说「我知道，但我会等那一天。」",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2258",
+              "text": "夜间火堆边，猪八戒问唐僧是否把袈裟丢了，并说那是观音给他的护体袈裟。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "那可是观音给你的护体袈裟"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2259",
+              "text": "唐僧答说袈裟「特别吸引妖精，丢了它就能护体，真是宝物」。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "特别吸引妖精"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2260",
+              "text": "猪八戒抱怨唐僧每夜拿袈裟给他盖上，结果所有蚊子全叮他。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2261",
+              "text": "孙悟空躺着说梦话「好沉，好沉！」手在空中乱挥；猪八戒说「这猴子在五行山下被压出毛病来了」，唐僧说「何止是毛病！」。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "这猴子在五行山下被压出毛病来了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2262",
+              "text": "猪八戒说「紧箍咒能压着他多久？紧箍儿怎么可能压住这样的一个人？还有那么多愿意用自己的命换他的自由的人。我想，迟早有一天……」",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "紧箍儿怎么可能压住这样的一个人"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2263",
+              "text": "猪八戒说「那一天他会消灭所有他面前的东西，包括你和我。」",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "包括你和我"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2264",
+              "text": "唐僧两次表示在等「那一天」：先答「我也在等那一天」，又说「我知道，但我会等那一天。」",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 58,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000058.txt",
+                  "chapter_id": "ch-000058",
+                  "chapter_order": 58,
+                  "locator": null,
+                  "anchor": "我也在等那一天"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [],
+          "action_refs": [],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2263"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2264"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0283",
+      "kind": "event",
+      "title": "第四天白屋问答：唐僧与白晶晶论“流放者”，白屋散成烟雾",
+      "introduced_at": 59,
+      "safe_through": 59,
+      "updates": [
+        {
+          "id": "update-0283",
+          "chapter_ranges": [
+            {
+              "start": 59,
+              "end": 59
+            }
+          ],
+          "revealed_at": 59,
+          "status": "closed",
+          "story_time": "取经途中第四天",
+          "summary": "唐僧围兽皮衣去化缘，到一栋冒炊烟的白屋前，白晶晶正在补他丢掉的袈裟。两人从徒弟话题谈到“家”与“流放者”：唐僧说世上有些人是没有地方可去的流放者，对他是任何地方都是家；白晶晶先邀他留下聊天，后追问他“你没有这样的牵挂么”，最终喊出“你简直就不是人！你什么都能抛弃，什么都能忘记！”，白色小屋散成烟雾，她转身奔去。红色袈裟飘上天空落在唐僧手中，唐僧望着她奔去的路，脸色平静，说“我不是忘记一切，我是一无所有”。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "initiator"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2265",
+              "text": "第四天，唐僧围着兽皮衣去化缘，看见远处一栋白屋正冒出炊烟。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "唐僧围着兽皮衣去化缘"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2266",
+              "text": "白晶晶在白屋招呼唐僧，手里正捧着一件衣服在补，那是唐僧丢掉的袈裟。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "那是他丢掉的袈裟"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2267",
+              "text": "唐僧对白晶晶说，他以前见过一个很像她的小姑娘，但被他的大徒弟打死了。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "不过被我的大徒弟打死了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2268",
+              "text": "唐僧自述他的大徒弟从前仇家太多、总是杀来杀去，恩怨情恨纠缠，他做师父的受了不少连累。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "我做师父的很是受了不少连累"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2269",
+              "text": "唐僧自述他照顾徒弟，说“没我他早死多少回了”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "没我他早死多少回了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2270",
+              "text": "白晶晶提议让唐僧的徒弟们走，唐僧留在她这里好好聊聊天。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "不如让他们走啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2271",
+              "text": "唐僧说这世上有的人没有地方可去、是流放者，让他们回去也找不到来时的路和过去的家园，就会死在某一个角落。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": {
+                    "paragraph": 12
+                  },
+                  "anchor": null
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2272",
+              "text": "白晶晶问唐僧有没有家，唐僧答“有，这就是我家”；白晶晶嚷道“胡说！这是我家！”。",
+              "certainty": "reported",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "胡说！这是我家！"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2273",
+              "text": "唐僧说他来说任何一个地方都是家，可有的人却把家放在世界某一个地方。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "对我来说，任何一个地方都是家"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2274",
+              "text": "唐僧说世上有些事不是想通了就能做到，有些人宁愿一辈子在路上走。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "有些人宁愿一辈子在路上走"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2275",
+              "text": "唐僧说恋家的人反而要流浪，是因为这世上没有能永远不失去的东西，有些人不相信，所以失去的就要不停地找回来、找一辈子。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "他们要不停地找回来，找一辈子"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2276",
+              "text": "唐僧回答白晶晶他没有那样的牵挂；白晶晶对他说“你简直就不是人！你什么都能抛弃，什么都能忘记！”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "你简直就不是人"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2277",
+              "text": "白晶晶喊叫后，白色小屋散成烟雾，她转身奔去。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "白色小屋散成烟雾"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2278",
+              "text": "红色袈裟飘上天空，缓缓落在唐僧手中。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "红色袈裟飘上天空，缓缓落在唐僧的手中"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2279",
+              "text": "唐僧望向白晶晶奔去的路，脸色依旧平静。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "还是脸色平静"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2280",
+              "text": "唐僧说“你错了。我不是忘记一切，我是一无所有。”",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "我不是忘记一切，我是一无所有"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2265"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2266"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2277"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2278"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2277"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2278"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2279"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2280"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0284",
+      "kind": "event",
+      "title": "五百年前花果山海风季节：牛魔王救起白晶晶，二人遥望孙悟空与天兵交战",
+      "introduced_at": 59,
+      "safe_through": 59,
+      "updates": [
+        {
+          "id": "update-0284",
+          "chapter_ranges": [
+            {
+              "start": 59,
+              "end": 59
+            }
+          ],
+          "revealed_at": 59,
+          "status": "closed",
+          "story_time": "五百年前（花果山）",
+          "summary": "五百年前的花果山遭遇海风季节的巨风与雷电，海水被劈成巨坑，百丈狂涛席卷孤岛。白晶晶在风暴中抱树、踏石求生，被水下龙王的火龙攻击，大喊“牛魔王”，随后被一股力量提出水面。牛魔王问她属哪个部族、斥她碍手碍脚；白晶晶自称“我是仙……现在不是了”“我没有地方可去了”。牛魔王说花果山是极乐园，但现在是每隔几年一次的海风季节，风暴过后一切会长出来；并称妖族是自然的顺从者，生于海水、泥土、落叶，不想控制天地力量，“但我们并不是没有令人畏惧的力量”。其间牛魔王俯冲穿越闪电、避过火球爆炸，天地静下后红光贯穿黑云，他落在乱石地面长出一口气，北方铁铸黑云后传来天兵喊杀声。牛魔王指向天际说“是他，看哪。他在战斗”，云涛上映出一个巨大舞动兵器的身影，地上众人惊叹，牛魔王还学着那身影摆姿势、自嘲做不到他的造型那么帅，白晶晶笑起来。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2281",
+              "text": "回忆段落以“五百年前 花果山”为时间地点标记，风暴场景发生在五百年前的花果山。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "五百年前"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2282",
+              "text": "五百年前的花果山遭巨变：乌云垂下触角、赤红膨胀炸开，巨大闪电击在海中把海水分开成巨坑，黑色风暴卷起百丈高的狂涛席卷花果山。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "黑色风暴卷起的百丈高的狂涛席卷着花果山"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2283",
+              "text": "风暴中白晶晶死死抱住一棵大树，树将被拔起时她逆风扑向巨石、在石块上左点右跃，地面升起、水柱直冲，她惊恐万分，看见一个黑色身影在高空掠过。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "白晶晶在风暴中死死抱住一棵大树"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2284",
+              "text": "白晶晶大喊“牛魔王！”，海水灌进她嘴里，水中附着龙王的魔咒，几条火龙向她射来。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "海水灌进了她嘴里"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2285",
+              "text": "一股力量把白晶晶提出了水面。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "一股力量把她提出了水面"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2286",
+              "text": "牛魔王问白晶晶是哪个部族的，说她不是挑选出来的妖军、这点修行也敢待在这儿、碍手碍脚。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "你是哪个部族的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2287",
+              "text": "白晶晶对牛魔王说“我不是妖精，我是仙……现在不是了”，并说自己没有地方可去了。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "我是仙……现在不是了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2288",
+              "text": "牛魔王说白晶晶很聪明、知道来花果山，这是极乐园，但她来得不是时候；现在是海风季节，每隔几年就要来一次，风暴过去后一切还会长出来。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "现在是海风季节"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2289",
+              "text": "白晶晶说这里要沉了、神的力量无法抗拒，并说妖族永远也掌握不了这么大的力量。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "妖族永远也掌握不了这么大的力量"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2290",
+              "text": "牛魔王说妖族总是自然的顺从者，在海水、泥土、落叶中而生，不会想到控制天地力量、把风雨雷电据为己用，但妖族并不是没有令人畏惧的力量。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "我们总是自然的顺从者"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2291",
+              "text": "天地间闪过巨大电光后，牛魔王向下俯冲，数十道闪电在他身边掠过，他左右横晃在闪电中穿梭；头顶黑云膨胀炸出几百里宽的巨大火球，爆炸收缩的气浪把地上大石吸上天。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "他向下俯冲下去"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2292",
+              "text": "天地忽然静下来后，一道红光贯穿满天黑云、一连串巨响从东炸到西；牛魔王落在乱石纵横的地面上长出一口气，北方铁铸的黑云后传来天兵的喊杀声。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "牛魔王落在乱石纵横的地面上"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2293",
+              "text": "牛魔王指向天际说“是他，看哪。”“他在战斗。”",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "牛魔王指向天际"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2294",
+              "text": "一道巨大电光把云层映亮，云涛上映出一个巨大的舞动兵器的身影，地上的人惊叹。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "一个巨大的舞动兵器的身影被映在滚滚云涛上"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2295",
+              "text": "牛魔王学着云中身影摆姿势，自嘲“我永远都做不到他的造型那么帅”，白晶晶笑起来。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "我永远都做不到他的造型那么帅"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2281"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2282"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2283"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2284"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2290"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2293"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2291"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2294"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2295"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0285",
+      "kind": "event",
+      "title": "黑松林夜：白晶晶追忆孙悟空、称其不该受铁箍拘束，显露原形",
+      "introduced_at": 59,
+      "safe_through": 59,
+      "updates": [
+        {
+          "id": "update-0285",
+          "chapter_ranges": [
+            {
+              "start": 59,
+              "end": 59
+            }
+          ],
+          "revealed_at": 59,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "叙述转入白晶晶的第一人称自述：她答应过会等他回来、因为不肯放弃而成为妖精，漫长等待中风化身体，只剩下一个等待的姿势，用没有眼球的黑洞望向天涯；她追问“他”是否已倒在这世界的某一个角落，或已不再记得某处是家。在黑松林没有月光的夜里，她沉浸在回忆里，喃喃念“孙悟空……”，脸上的笑容渐渐消失，说“孙悟空。这样的一个人怎么能被铁箍拘束！绝不！”，随后走上高岩，夜风吹动衣衫，月光照见她可怖的原形。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2296",
+              "text": "叙述以白晶晶第一人称自述：她知道自己答应过会等他回来，因为傻、不肯放弃而成为妖精；漫长等待中风吹散头发、吹朽皮肤、吹化身体，只剩下一个等待的姿势，用没有眼球的黑洞望向天涯。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "只剩下一个等待的姿势"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2297",
+              "text": "白晶晶的自述中追问“他”是否真的已倒在这世界的某一个角落，或者已不再记得这世上的某一个地方是家。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "他真的已倒在这世界的某一个角落"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2298",
+              "text": "在黑松林没有月光的夜里，白晶晶沉浸在回忆里，喃喃念“孙悟空……”，脸上的笑容渐渐消失。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "在黑松林没有月光的夜里"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2299",
+              "text": "白晶晶说“孙悟空。这样的一个人怎么能被铁箍拘束！绝不！”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "怎么能被铁箍拘束"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2300",
+              "text": "白晶晶走上高岩，夜风吹动她的衣衫，月光从云中露出，照见她可怖的原形。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 59,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000059.txt",
+                  "chapter_id": "ch-000059",
+                  "chapter_order": 59,
+                  "locator": null,
+                  "anchor": "照见她可怖的原形"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2296"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2299"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2300"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2300"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0286",
+      "kind": "event",
+      "title": "第五天：唐僧坚持北行，师徒四人在方向上争执",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0286",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "completed",
+          "story_time": "取经途中第五天",
+          "summary": "唐僧朝北走，孙悟空指出西在那边、师父带错了路，唐僧只说“没错”。沙僧以“老天说”为由坚持向西，猪八戒主张往东以便回高老庄，三人争吵。唐僧对三人说完“当有一天你们终于知道哪里才是你们真正想去的地方，才会想起我这个师父的”，转身向北走去，白龙马跟着他，三人随后追上。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0148/index.json",
+                "record_id": "char-0148"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2301",
+              "text": "第五天行进中，孙悟空对唐僧说“师父，你又带错路了”，并指出西在那边；唐僧只回答“没错”，仍往北走。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "师父，你又带错路了。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2302",
+              "text": "孙悟空称是观音让他跟着唐僧的，否则他早飞到西天去了；并说要把唐僧送到才能成正果。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "是观音让俺跟着你的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2303",
+              "text": "唐僧说“你不信我你可以走。我没让你跟着我”，并反问徒弟们：这些年一直往西走，难道不想试一试往北走会发生什么。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "你们难道不想试一试往北走会发生什么"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2304",
+              "text": "沙僧说“往北走是错的”，理由是“老天”这么说，并坚决表示“我的方向就是向西”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "往北走是错的。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2305",
+              "text": "猪八戒建议往东走，说这样他还能回趟高老庄。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我建议我们往东走"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2306",
+              "text": "唐僧问“没有人愿意跟着我走么”，没人理他；他静静看着争吵的三人，对他们说“当有一天你们终于知道哪里才是你们真正想去的地方，才会想起我这个师父的”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "才会想起我这个师父的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2307",
+              "text": "唐僧说完转身向北走去，白龙马跟着他；孙悟空等三人吵完后发现“唐僧跑了”，追上去穿过密林小溪。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "白龙马忠实地跟着他"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2301"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2303"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2304"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2305"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2307"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2306"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0287",
+      "kind": "event",
+      "title": "唐僧在林中揭示“界限”（透明的墙）并独自穿界",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0287",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "completed",
+          "story_time": "取经途中第五天",
+          "summary": "唐僧停在林中指点前方，三人看不见任何东西。猪八戒的鼻子碰到不可见之物，孙悟空猛跳撞上一堵透明的墙。唐僧称“这就是界限”，并说“是界限选择你，事实上你没有任何选择”。孙悟空怒撞界限，唐僧迈步穿过界限，回头招呼徒弟跟随。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2308",
+              "text": "三人追上时见唐僧站在前面林中，静静望着前方树林与远处山峦；他一摆手不让他们出声。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "穿过密林小溪"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2309",
+              "text": "唐僧伸手指着一处不动说“它，它就在那儿”；三个徒弟放眼远眺、定睛看眼前，却说“什么也没有啊”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "什么也没有啊"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2310",
+              "text": "猪八戒凑近时长鼻子碰到了某物，缩回后却看不见东西；孙悟空猛地跳出去，立刻重重撞在什么上面——他们面前如有一堵透明的墙。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "竟然如有一堵透明的墙"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2311",
+              "text": "唐僧说“这就是界限”，并解释：这个世界有你不能到达的地方、有你不应到达的地方、有一辈子也不会去的地方，世界并不如你想象的那么大，界限也许就在身边。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "这就是界限。"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2312",
+              "text": "唐僧回答猪八戒：只能选择一个方向而那恰是界限规定好的，那就叫选择，“是界限选择你，事实上你没有任何选择”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "事实上你没有任何选择"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2313",
+              "text": "猪八戒问“界限是由谁来定的呢”，孙悟空冷冷地说“是他”，随后变得狂躁不已，一次次猛撞那透明的界限。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "他突然变得狂躁不已"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2314",
+              "text": "孙悟空转身怒视唐僧，质问“为什么要告诉我们它的存在”，并说“你告诉我们又能怎么样呢？我们什么也做不了”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "为什么要告诉我们它的存在"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2315",
+              "text": "唐僧平静地正视孙悟空的怒目说“是我的错”，称自己想了很久终于决定告诉他们，“哪怕……我会后悔”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我想了很久，终于决定要告诉你们"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2316",
+              "text": "唐僧向前迈步，迈出那一步时已穿过了那条界限，回头说“要做我的徒弟，就跟我来吧”，转身大步向远方走去。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "已穿过了那条界限"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2317",
+              "text": "猪八戒大喊“他们会杀了你的”；被问“外面是什么”时答：“是真正的恐惧。是我们诞生的地方。那儿有花果山和高老庄，还有……真正的妖魔。”",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "是真正的恐惧。是我们诞生的地方"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2318",
+              "text": "唐僧的声音从远处传来：“你跳不出这个世界，是因为你不知道这个世界有多大，一旦你知道了，你就超出了它。”",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "一旦你知道了，你就超出了它"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2319",
+              "text": "孙悟空说自己翻了无数筋斗也翻不出去、反问唐僧用脚怎么还能走出去；唐僧笑着说“可是边界并不一定在远处啊”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我翻了无数筋斗也翻不出去"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2308"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2309"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2310"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2311"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2313"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2316"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2317"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2318"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0288",
+      "kind": "event",
+      "title": "白晶晶现身高崖，声称边界在此并提出带孙悟空超出界限",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0288",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "ongoing",
+          "story_time": "取经途中第五天",
+          "summary": "白晶晶立在高崖上说“他说得对，边界就在这里”，随后纵身凌风而下，对孙悟空说“走吧，我带你超出这个界限”。猪八戒与沙僧各自发出评论，三人望向孙悟空，其回应本章未出现。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "witness"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2320",
+              "text": "一个声音接过话头说“他说得对，边界就在这里”；三人抬头，见白晶晶立在高崖之上，山中凛冽的风吹起她的衣襟，她站了片刻后一纵凌风而下。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "白晶晶立在高崖之上"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2321",
+              "text": "白晶晶对孙悟空说“走吧，我带你超出这个界限”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0147/index.json",
+                "record_id": "char-0147"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我带你超出这个界限"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2322",
+              "text": "猪八戒流着口水评论白晶晶“真美，像俯视大地的鹰，以无尽的决心投向死亡”，并说“一个妖精最美的时候就是她以为自己是神，可以拯救他人”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "一个妖精最美的时候就是她以为自己是神"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2323",
+              "text": "沙僧说“所有比神还酷的人都要死”，自称这是长年总结出来的法则；猪八戒瞟了他一眼，那眼神忽然让沙僧想起当年的很多事情，随后三人都望向孙悟空。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "所有比神还酷的人都要死"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2320"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2321"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2323"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0289",
+      "kind": "event",
+      "title": "唐僧独自向西越过雪山，一匹白马相随",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0289",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "completed",
+          "story_time": "第五天之后（唐僧独自西行）",
+          "summary": "唐僧独自向西行去，越过雪山，看见天际映着一座城的影子；听见马嘶回头，见雪山上的一匹白马抖落雪粒走来，唐僧看了很久后笑了。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0152/index.json",
+                "record_id": "char-0152"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2324",
+              "text": "唐僧一路独自向西行去，越过雪山，看见一座城的影子映在瓦蓝的天际。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "他看见了一座城的影子映在瓦蓝的天际"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2325",
+              "text": "唐僧听见一声马嘶，回头见雪山上的一匹白马抖着身上的雪走过来，他愣愣看了它好久后笑了。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "一匹白马抖着身上的雪"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2324"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2325"
+            }
+          ],
+          "outcome_refs": [],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0290",
+      "kind": "event",
+      "title": "黑翼鸟向黄袍怪传话：决不能让唐僧到真正的西天",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0290",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "ongoing",
+          "story_time": "唐僧越过雪山之后",
+          "summary": "雪山雪岩顶端，一个穿黄袍的人看着唐僧在雪上越来越长的足迹。一只黑翼鸟落在其肩上并开口，说“没想到唐僧能走出来”，指出前面就是宝象国、是黄袍怪的领地，决不能让唐僧到真正的西天；黄衣人答“放心”。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0151/index.json",
+                "record_id": "char-0151"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0149/index.json",
+                "record_id": "char-0149"
+              },
+              "role": "recipient"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2326",
+              "text": "高山雪岩顶端，一个穿黄色衣袍的人站着看唐僧在雪上踏出的足迹越来越长，风鼓起他的衣袍；一只黑翼鸟飞来落在他肩上。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "风鼓起他的黄色衣袍"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2327",
+              "text": "黑翼鸟开口说话：“没想到唐僧能走出来”，并称前面就是宝象国、那是黄袍怪的领地，“决不能让唐僧到真正的西天”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0151/index.json",
+                "record_id": "char-0151"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "决不能让唐僧到真正的西天"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2328",
+              "text": "黄衣人回答“放心”，话音“像雪山掠过的风一样冰凉”。",
+              "certainty": "explicit",
+              "attributed_to_ref": {
+                "path": "characters/char-0149/index.json",
+                "record_id": "char-0149"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "那黄衣人的话音像雪山掠过的风一样冰凉"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2327"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2327"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2328"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0291",
+      "kind": "event",
+      "title": "波月洞：黄袍怪与百花羞商议去拜见其父王",
+      "introduced_at": 60,
+      "safe_through": 60,
+      "updates": [
+        {
+          "id": "update-0291",
+          "chapter_ranges": [
+            {
+              "start": 60,
+              "end": 60
+            }
+          ],
+          "revealed_at": 60,
+          "status": "ongoing",
+          "story_time": "同期（章末场景）",
+          "summary": "波月洞中黄袍怪独坐思索，一名女子进来并倚在他肩上（叙述称其为百花羞）。黄袍怪起身恭敬称她“公主”，她说不要这样叫。黄袍怪提出要去拜见她的父王（他的泰山大人），百花羞吃惊反对；黄袍怪称“有些事情，是我们逃避不了的”。百花羞要他记住答应过再杀一个人，黄袍怪沉默。",
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0149/index.json",
+                "record_id": "char-0149"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0150/index.json",
+                "record_id": "char-0150"
+              },
+              "role": "participant"
+            }
+          ],
+          "claims": [
+            {
+              "id": "claim-2329",
+              "text": "波月洞中黄袍怪独坐想着什么，灯光移来，一名美丽女子走进来，洞内阴森之气一扫而空；黄袍怪恭敬地站起来称“啊，公主”，女子倚在他肩上说“我说了不准叫我公主的”。",
+              "certainty": "explicit",
+              "attributed_to_ref": null,
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我说了不准叫我公主的"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2330",
+              "text": "黄袍怪说他们要去拜见百花羞的父王、“我的泰山大人”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0149/index.json",
+                "record_id": "char-0149"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我的泰山大人"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2331",
+              "text": "百花羞退开吃惊地问为什么，说“他如果知道你是一个妖精……”，并问两人一直待在这里不好么。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0150/index.json",
+                "record_id": "char-0150"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "他如果知道你是一个妖精"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2332",
+              "text": "黄袍怪叹气说“有些事情，是我们逃避不了的。我不做这件事，只怕连妖精也做不了了”。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0149/index.json",
+                "record_id": "char-0149"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "我不做这件事，只怕连妖精也做不了了"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            },
+            {
+              "id": "claim-2333",
+              "text": "百花羞上前握紧黄袍怪的手，要他记住“你答应过我再不杀一个人”；黄袍怪沉默，烛光在他瞳中跳动。",
+              "certainty": "reported",
+              "attributed_to_ref": {
+                "path": "characters/char-0150/index.json",
+                "record_id": "char-0150"
+              },
+              "revealed_at": 60,
+              "source_refs": [
+                {
+                  "path": "source/vol-003/ch-000060.txt",
+                  "chapter_id": "ch-000060",
+                  "chapter_order": 60,
+                  "locator": null,
+                  "anchor": "你需记住你答应过我再不杀一个人"
+                }
+              ],
+              "basis_refs": [],
+              "supersedes_refs": []
+            }
+          ],
+          "trigger_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2330"
+            }
+          ],
+          "action_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2329"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2330"
+            }
+          ],
+          "outcome_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2331"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2332"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2333"
+            }
+          ],
+          "related_event_refs": []
+        }
+      ]
+    }
+  ]
+}

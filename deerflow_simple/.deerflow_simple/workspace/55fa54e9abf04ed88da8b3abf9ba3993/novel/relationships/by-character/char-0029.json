@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0029",
+  "kind": "index",
+  "revision": 3,
+  "safe_through": 11,
+  "title": "幽冥王 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 11,
+        "end": 11
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0023.json",
+        "record_id": "rel-0023"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×幽冥王",
+      "summary": "与孙悟空×幽冥王的关系",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0024.json",
+        "record_id": "rel-0024"
+      },
+      "kind": "relationship",
+      "title": "判官×幽冥王",
+      "summary": "与判官×幽冥王的关系",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    }
+  ]
+}

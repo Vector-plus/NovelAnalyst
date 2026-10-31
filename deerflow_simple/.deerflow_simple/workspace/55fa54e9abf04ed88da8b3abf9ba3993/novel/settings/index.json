@@ -1,0 +1,5933 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "settings/entries/setting-0001.json",
+        "record_id": "setting-0001"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒",
+      "summary": "身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0001.json",
+          "record_id": "setting-0001"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0002.json",
+        "record_id": "setting-0002"
+      },
+      "kind": "setting",
+      "title": "密林",
+      "summary": "密林（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0002.json",
+          "record_id": "setting-0002"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0003.json",
+        "record_id": "setting-0003"
+      },
+      "kind": "setting",
+      "title": "取经众身上的诅咒",
+      "summary": "取经众身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0003.json",
+          "record_id": "setting-0003"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0004.json",
+        "record_id": "setting-0004"
+      },
+      "kind": "setting",
+      "title": "西天",
+      "summary": "西天（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0004.json",
+          "record_id": "setting-0004"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0005.json",
+        "record_id": "setting-0005"
+      },
+      "kind": "setting",
+      "title": "紫色丛林",
+      "summary": "紫色丛林（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0005.json",
+          "record_id": "setting-0005"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0006.json",
+        "record_id": "setting-0006"
+      },
+      "kind": "setting",
+      "title": "大乘佛法",
+      "summary": "大乘佛法（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0006.json",
+          "record_id": "setting-0006"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0007.json",
+        "record_id": "setting-0007"
+      },
+      "kind": "setting",
+      "title": "小乘佛法",
+      "summary": "小乘佛法（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0007.json",
+          "record_id": "setting-0007"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0008.json",
+        "record_id": "setting-0008"
+      },
+      "kind": "setting",
+      "title": "功德分",
+      "summary": "功德分（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0008.json",
+          "record_id": "setting-0008"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0009.json",
+        "record_id": "setting-0009"
+      },
+      "kind": "setting",
+      "title": "玉帝的咒",
+      "summary": "玉帝的咒（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0009.json",
+          "record_id": "setting-0009"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0010.json",
+        "record_id": "setting-0010"
+      },
+      "kind": "setting",
+      "title": "五岳山（地牢）／五行山",
+      "summary": "五岳山（地牢）／五行山（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0010.json",
+          "record_id": "setting-0010"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0011.json",
+        "record_id": "setting-0011"
+      },
+      "kind": "setting",
+      "title": "赎罪三事",
+      "summary": "赎罪三事（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0011.json",
+          "record_id": "setting-0011"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0012.json",
+        "record_id": "setting-0012"
+      },
+      "kind": "setting",
+      "title": "功德值",
+      "summary": "功德值（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0012.json",
+          "record_id": "setting-0012"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0013.json",
+        "record_id": "setting-0013"
+      },
+      "kind": "setting",
+      "title": "蟠桃树",
+      "summary": "蟠桃树（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0013.json",
+          "record_id": "setting-0013"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0014.json",
+        "record_id": "setting-0014"
+      },
+      "kind": "setting",
+      "title": "四部洲（西贺牛洲、北俱芦洲、南瞻部洲、东胜神洲）",
+      "summary": "四部洲（西贺牛洲、北俱芦洲、南瞻部洲、东胜神洲）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0014.json",
+          "record_id": "setting-0014"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0015.json",
+        "record_id": "setting-0015"
+      },
+      "kind": "setting",
+      "title": "天条",
+      "summary": "天条（第6章起）",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0015.json",
+          "record_id": "setting-0015"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0016.json",
+        "record_id": "setting-0016"
+      },
+      "kind": "setting",
+      "title": "天河",
+      "summary": "天河（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0016.json",
+          "record_id": "setting-0016"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0017.json",
+        "record_id": "setting-0017"
+      },
+      "kind": "setting",
+      "title": "银河",
+      "summary": "银河（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0017.json",
+          "record_id": "setting-0017"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0018.json",
+        "record_id": "setting-0018"
+      },
+      "kind": "setting",
+      "title": "月",
+      "summary": "月（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0018.json",
+          "record_id": "setting-0018"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0019.json",
+        "record_id": "setting-0019"
+      },
+      "kind": "setting",
+      "title": "高老庄",
+      "summary": "高老庄（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0019.json",
+          "record_id": "setting-0019"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0020.json",
+        "record_id": "setting-0020"
+      },
+      "kind": "setting",
+      "title": "西天之门",
+      "summary": "西天之门（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0020.json",
+          "record_id": "setting-0020"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0021.json",
+        "record_id": "setting-0021"
+      },
+      "kind": "setting",
+      "title": "大唐律令",
+      "summary": "大唐律令（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0021.json",
+          "record_id": "setting-0021"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0022.json",
+        "record_id": "setting-0022"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0022.json",
+          "record_id": "setting-0022"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0023.json",
+        "record_id": "setting-0023"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0023.json",
+          "record_id": "setting-0023"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0024.json",
+        "record_id": "setting-0024"
+      },
+      "kind": "setting",
+      "title": "天河（银河巨闸）",
+      "summary": "天河（银河巨闸）（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0024.json",
+          "record_id": "setting-0024"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0025.json",
+        "record_id": "setting-0025"
+      },
+      "kind": "setting",
+      "title": "蟠桃会",
+      "summary": "蟠桃会（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0025.json",
+          "record_id": "setting-0025"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0026.json",
+        "record_id": "setting-0026"
+      },
+      "kind": "setting",
+      "title": "地府（孙悟空所述去处）",
+      "summary": "地府（孙悟空所述去处）（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0026.json",
+          "record_id": "setting-0026"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0027.json",
+        "record_id": "setting-0027"
+      },
+      "kind": "setting",
+      "title": "地府熔岩之海",
+      "summary": "地府熔岩之海（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0027.json",
+          "record_id": "setting-0027"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0028.json",
+        "record_id": "setting-0028"
+      },
+      "kind": "setting",
+      "title": "地府深处悬崖（大地尽头）",
+      "summary": "地府深处悬崖（大地尽头）（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0028.json",
+          "record_id": "setting-0028"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0029.json",
+        "record_id": "setting-0029"
+      },
+      "kind": "setting",
+      "title": "陷空山",
+      "summary": "陷空山（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0029.json",
+          "record_id": "setting-0029"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0030.json",
+        "record_id": "setting-0030"
+      },
+      "kind": "setting",
+      "title": "定颜珠",
+      "summary": "定颜珠（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0030.json",
+          "record_id": "setting-0030"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0031.json",
+        "record_id": "setting-0031"
+      },
+      "kind": "setting",
+      "title": "天庭明令：不得帮助那四人",
+      "summary": "天庭明令：不得帮助那四人（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0031.json",
+          "record_id": "setting-0031"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0032.json",
+        "record_id": "setting-0032"
+      },
+      "kind": "setting",
+      "title": "龙宫",
+      "summary": "龙宫（第13章起）",
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0032.json",
+          "record_id": "setting-0032"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 13
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0033.json",
+        "record_id": "setting-0033"
+      },
+      "kind": "setting",
+      "title": "龙族/小白龙离水即失去变化神通",
+      "summary": "龙族/小白龙离水即失去变化神通（第14章起）",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0033.json",
+          "record_id": "setting-0033"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 14
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0034.json",
+        "record_id": "setting-0034"
+      },
+      "kind": "setting",
+      "title": "金色鲤鱼（小白龙所化原形，被叙述为少见之物）",
+      "summary": "金色鲤鱼（小白龙所化原形，被叙述为少见之物）（第14章起）",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0034.json",
+          "record_id": "setting-0034"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 14
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0035.json",
+        "record_id": "setting-0035"
+      },
+      "kind": "setting",
+      "title": "金山寺",
+      "summary": "金山寺（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0035.json",
+          "record_id": "setting-0035"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0036.json",
+        "record_id": "setting-0036"
+      },
+      "kind": "setting",
+      "title": "洪洲佑民寺",
+      "summary": "洪洲佑民寺（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0036.json",
+          "record_id": "setting-0036"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0037.json",
+        "record_id": "setting-0037"
+      },
+      "kind": "setting",
+      "title": "龙生来即有人形（本相为人形）",
+      "summary": "龙生来即有人形（本相为人形）（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0037.json",
+          "record_id": "setting-0037"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0038.json",
+        "record_id": "setting-0038"
+      },
+      "kind": "setting",
+      "title": "执事堂",
+      "summary": "执事堂（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0038.json",
+          "record_id": "setting-0038"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0039.json",
+        "record_id": "setting-0039"
+      },
+      "kind": "setting",
+      "title": "西方无极世界",
+      "summary": "西方无极世界（第16章起）",
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0039.json",
+          "record_id": "setting-0039"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 16
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0040.json",
+        "record_id": "setting-0040"
+      },
+      "kind": "setting",
+      "title": "大江（玄奘自称出发之地）",
+      "summary": "大江（玄奘自称出发之地）（第17章起）",
+      "chapter_ranges": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0040.json",
+          "record_id": "setting-0040"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 17
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0041.json",
+        "record_id": "setting-0041"
+      },
+      "kind": "setting",
+      "title": "灵霄宝殿（灵霄大殿）",
+      "summary": "灵霄宝殿（灵霄大殿）（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0041.json",
+          "record_id": "setting-0041"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0042.json",
+        "record_id": "setting-0042"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0042.json",
+          "record_id": "setting-0042"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0043.json",
+        "record_id": "setting-0043"
+      },
+      "kind": "setting",
+      "title": "地府（冥王、鬼卒）",
+      "summary": "地府（冥王、鬼卒）（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0043.json",
+          "record_id": "setting-0043"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0044.json",
+        "record_id": "setting-0044"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0044.json",
+          "record_id": "setting-0044"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0045.json",
+        "record_id": "setting-0045"
+      },
+      "kind": "setting",
+      "title": "落霞宫",
+      "summary": "落霞宫（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0045.json",
+          "record_id": "setting-0045"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0046.json",
+        "record_id": "setting-0046"
+      },
+      "kind": "setting",
+      "title": "御马监",
+      "summary": "御马监（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0046.json",
+          "record_id": "setting-0046"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0047.json",
+        "record_id": "setting-0047"
+      },
+      "kind": "setting",
+      "title": "花果山",
+      "summary": "花果山（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0047.json",
+          "record_id": "setting-0047"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0048.json",
+        "record_id": "setting-0048"
+      },
+      "kind": "setting",
+      "title": "定身法",
+      "summary": "定身法（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0048.json",
+          "record_id": "setting-0048"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0049.json",
+        "record_id": "setting-0049"
+      },
+      "kind": "setting",
+      "title": "永不遁灭之道",
+      "summary": "永不遁灭之道（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0049.json",
+          "record_id": "setting-0049"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0050.json",
+        "record_id": "setting-0050"
+      },
+      "kind": "setting",
+      "title": "天河（银河）",
+      "summary": "天河（银河）（第20章起）",
+      "chapter_ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0050.json",
+          "record_id": "setting-0050"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 20
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0051.json",
+        "record_id": "setting-0051"
+      },
+      "kind": "setting",
+      "title": "天宫人相貌随心意而定",
+      "summary": "天宫人相貌随心意而定（第20章起）",
+      "chapter_ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0051.json",
+          "record_id": "setting-0051"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 20
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0052.json",
+        "record_id": "setting-0052"
+      },
+      "kind": "setting",
+      "title": "星辰银河乃阿月亲手摆成",
+      "summary": "星辰银河乃阿月亲手摆成（第20章起）",
+      "chapter_ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0052.json",
+          "record_id": "setting-0052"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 20
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0053.json",
+        "record_id": "setting-0053"
+      },
+      "kind": "setting",
+      "title": "花果山",
+      "summary": "花果山（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0053.json",
+          "record_id": "setting-0053"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0054.json",
+        "record_id": "setting-0054"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0054.json",
+          "record_id": "setting-0054"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0055.json",
+        "record_id": "setting-0055"
+      },
+      "kind": "setting",
+      "title": "花果山（被战火摧毁后的样貌）",
+      "summary": "花果山（被战火摧毁后的样貌）（第22章起）",
+      "chapter_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0055.json",
+          "record_id": "setting-0055"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 22
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0056.json",
+        "record_id": "setting-0056"
+      },
+      "kind": "setting",
+      "title": "妖（神仙管不了、能自主自命的灵物）",
+      "summary": "妖（神仙管不了、能自主自命的灵物）（第23章起）",
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0056.json",
+          "record_id": "setting-0056"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 23
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0057.json",
+        "record_id": "setting-0057"
+      },
+      "kind": "setting",
+      "title": "百年神妖之战",
+      "summary": "百年神妖之战（第23章起）",
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0057.json",
+          "record_id": "setting-0057"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 23
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0058.json",
+        "record_id": "setting-0058"
+      },
+      "kind": "setting",
+      "title": "落霞宫",
+      "summary": "落霞宫（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0058.json",
+          "record_id": "setting-0058"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0059.json",
+        "record_id": "setting-0059"
+      },
+      "kind": "setting",
+      "title": "天宫蟠桃大会",
+      "summary": "天宫蟠桃大会（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0059.json",
+          "record_id": "setting-0059"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0060.json",
+        "record_id": "setting-0060"
+      },
+      "kind": "setting",
+      "title": "灵霄大殿",
+      "summary": "灵霄大殿（第25章起）",
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0060.json",
+          "record_id": "setting-0060"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 25
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0061.json",
+        "record_id": "setting-0061"
+      },
+      "kind": "setting",
+      "title": "诸天殿",
+      "summary": "诸天殿（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0061.json",
+          "record_id": "setting-0061"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0062.json",
+        "record_id": "setting-0062"
+      },
+      "kind": "setting",
+      "title": "琉璃盏",
+      "summary": "琉璃盏（第28章起）",
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0062.json",
+          "record_id": "setting-0062"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 28
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0063.json",
+        "record_id": "setting-0063"
+      },
+      "kind": "setting",
+      "title": "西天",
+      "summary": "西天（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0063.json",
+          "record_id": "setting-0063"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0064.json",
+        "record_id": "setting-0064"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒",
+      "summary": "身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0064.json",
+          "record_id": "setting-0064"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0065.json",
+        "record_id": "setting-0065"
+      },
+      "kind": "setting",
+      "title": "密林（本章无名密林）",
+      "summary": "密林（本章无名密林）（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0065.json",
+          "record_id": "setting-0065"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0066.json",
+        "record_id": "setting-0066"
+      },
+      "kind": "setting",
+      "title": "西天",
+      "summary": "西天（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0066.json",
+          "record_id": "setting-0066"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0067.json",
+        "record_id": "setting-0067"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒",
+      "summary": "身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0067.json",
+          "record_id": "setting-0067"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0068.json",
+        "record_id": "setting-0068"
+      },
+      "kind": "setting",
+      "title": "晚霞",
+      "summary": "晚霞（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0068.json",
+          "record_id": "setting-0068"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0069.json",
+        "record_id": "setting-0069"
+      },
+      "kind": "setting",
+      "title": "西天取经与身上的诅咒",
+      "summary": "西天取经与身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0069.json",
+          "record_id": "setting-0069"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0070.json",
+        "record_id": "setting-0070"
+      },
+      "kind": "setting",
+      "title": "紫色丛林",
+      "summary": "紫色丛林（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0070.json",
+          "record_id": "setting-0070"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0071.json",
+        "record_id": "setting-0071"
+      },
+      "kind": "setting",
+      "title": "紫色丛林",
+      "summary": "紫色丛林（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0071.json",
+          "record_id": "setting-0071"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0072.json",
+        "record_id": "setting-0072"
+      },
+      "kind": "setting",
+      "title": "小乘佛法",
+      "summary": "小乘佛法（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0072.json",
+          "record_id": "setting-0072"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0073.json",
+        "record_id": "setting-0073"
+      },
+      "kind": "setting",
+      "title": "大乘",
+      "summary": "大乘（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0073.json",
+          "record_id": "setting-0073"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0074.json",
+        "record_id": "setting-0074"
+      },
+      "kind": "setting",
+      "title": "玉帝的咒（使人不能变回原形、不能说出自己是谁）",
+      "summary": "玉帝的咒（使人不能变回原形、不能说出自己是谁）（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0074.json",
+          "record_id": "setting-0074"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0075.json",
+        "record_id": "setting-0075"
+      },
+      "kind": "setting",
+      "title": "功德分",
+      "summary": "功德分（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0075.json",
+          "record_id": "setting-0075"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0076.json",
+        "record_id": "setting-0076"
+      },
+      "kind": "setting",
+      "title": "五岳山（孙悟空自称被关押的地牢）",
+      "summary": "五岳山（孙悟空自称被关押的地牢）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0076.json",
+          "record_id": "setting-0076"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0077.json",
+        "record_id": "setting-0077"
+      },
+      "kind": "setting",
+      "title": "三件事（赎前罪的条件）",
+      "summary": "三件事（赎前罪的条件）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0077.json",
+          "record_id": "setting-0077"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0078.json",
+        "record_id": "setting-0078"
+      },
+      "kind": "setting",
+      "title": "功德值",
+      "summary": "功德值（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0078.json",
+          "record_id": "setting-0078"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0079.json",
+        "record_id": "setting-0079"
+      },
+      "kind": "setting",
+      "title": "天条",
+      "summary": "天条（第6章起）",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0079.json",
+          "record_id": "setting-0079"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0080.json",
+        "record_id": "setting-0080"
+      },
+      "kind": "setting",
+      "title": "天河（后改称银河）",
+      "summary": "天河（后改称银河）（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0080.json",
+          "record_id": "setting-0080"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0081.json",
+        "record_id": "setting-0081"
+      },
+      "kind": "setting",
+      "title": "月（银核）",
+      "summary": "月（银核）（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0081.json",
+          "record_id": "setting-0081"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0082.json",
+        "record_id": "setting-0082"
+      },
+      "kind": "setting",
+      "title": "西天之门",
+      "summary": "西天之门（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0082.json",
+          "record_id": "setting-0082"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0083.json",
+        "record_id": "setting-0083"
+      },
+      "kind": "setting",
+      "title": "高老庄",
+      "summary": "高老庄（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0083.json",
+          "record_id": "setting-0083"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0084.json",
+        "record_id": "setting-0084"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒",
+      "summary": "身上的诅咒（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0084.json",
+          "record_id": "setting-0084"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0085.json",
+        "record_id": "setting-0085"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0085.json",
+          "record_id": "setting-0085"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0086.json",
+        "record_id": "setting-0086"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0086.json",
+          "record_id": "setting-0086"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0087.json",
+        "record_id": "setting-0087"
+      },
+      "kind": "setting",
+      "title": "蟠桃会",
+      "summary": "蟠桃会（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0087.json",
+          "record_id": "setting-0087"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0088.json",
+        "record_id": "setting-0088"
+      },
+      "kind": "setting",
+      "title": "天河",
+      "summary": "天河（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0088.json",
+          "record_id": "setting-0088"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0089.json",
+        "record_id": "setting-0089"
+      },
+      "kind": "setting",
+      "title": "地府",
+      "summary": "地府（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0089.json",
+          "record_id": "setting-0089"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0090.json",
+        "record_id": "setting-0090"
+      },
+      "kind": "setting",
+      "title": "西天",
+      "summary": "西天（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0090.json",
+          "record_id": "setting-0090"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0091.json",
+        "record_id": "setting-0091"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒",
+      "summary": "身上的诅咒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0091.json",
+          "record_id": "setting-0091"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0092.json",
+        "record_id": "setting-0092"
+      },
+      "kind": "setting",
+      "title": "紫色丛林",
+      "summary": "紫色丛林（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0092.json",
+          "record_id": "setting-0092"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0093.json",
+        "record_id": "setting-0093"
+      },
+      "kind": "setting",
+      "title": "小乘佛法与「大乘」修行",
+      "summary": "小乘佛法与「大乘」修行（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0093.json",
+          "record_id": "setting-0093"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0094.json",
+        "record_id": "setting-0094"
+      },
+      "kind": "setting",
+      "title": "紫色丛林中的怪树与怪兽",
+      "summary": "紫色丛林中的怪树与怪兽（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0094.json",
+          "record_id": "setting-0094"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0095.json",
+        "record_id": "setting-0095"
+      },
+      "kind": "setting",
+      "title": "功德分",
+      "summary": "功德分（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0095.json",
+          "record_id": "setting-0095"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0096.json",
+        "record_id": "setting-0096"
+      },
+      "kind": "setting",
+      "title": "玉帝的咒",
+      "summary": "玉帝的咒（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0096.json",
+          "record_id": "setting-0096"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0097.json",
+        "record_id": "setting-0097"
+      },
+      "kind": "setting",
+      "title": "五岳山（孙悟空称被罚关押之地）",
+      "summary": "五岳山（孙悟空称被罚关押之地）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0097.json",
+          "record_id": "setting-0097"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0098.json",
+        "record_id": "setting-0098"
+      },
+      "kind": "setting",
+      "title": "花果山",
+      "summary": "花果山（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0098.json",
+          "record_id": "setting-0098"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0099.json",
+        "record_id": "setting-0099"
+      },
+      "kind": "setting",
+      "title": "蟠桃树",
+      "summary": "蟠桃树（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0099.json",
+          "record_id": "setting-0099"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0100.json",
+        "record_id": "setting-0100"
+      },
+      "kind": "setting",
+      "title": "天条",
+      "summary": "天条（第6章起）",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0100.json",
+          "record_id": "setting-0100"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0101.json",
+        "record_id": "setting-0101"
+      },
+      "kind": "setting",
+      "title": "天河 / 银河",
+      "summary": "天河 / 银河（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0101.json",
+          "record_id": "setting-0101"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0102.json",
+        "record_id": "setting-0102"
+      },
+      "kind": "setting",
+      "title": "月（银核天体）",
+      "summary": "月（银核天体）（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0102.json",
+          "record_id": "setting-0102"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0103.json",
+        "record_id": "setting-0103"
+      },
+      "kind": "setting",
+      "title": "高老庄",
+      "summary": "高老庄（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0103.json",
+          "record_id": "setting-0103"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0104.json",
+        "record_id": "setting-0104"
+      },
+      "kind": "setting",
+      "title": "西天之门",
+      "summary": "西天之门（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0104.json",
+          "record_id": "setting-0104"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0105.json",
+        "record_id": "setting-0105"
+      },
+      "kind": "setting",
+      "title": "身上的诅咒与头上的金箍",
+      "summary": "身上的诅咒与头上的金箍（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0105.json",
+          "record_id": "setting-0105"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0106.json",
+        "record_id": "setting-0106"
+      },
+      "kind": "setting",
+      "title": "蓝色的月亮与满天银河",
+      "summary": "蓝色的月亮与满天银河（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0106.json",
+          "record_id": "setting-0106"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0107.json",
+        "record_id": "setting-0107"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0107.json",
+          "record_id": "setting-0107"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0108.json",
+        "record_id": "setting-0108"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0108.json",
+          "record_id": "setting-0108"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0109.json",
+        "record_id": "setting-0109"
+      },
+      "kind": "setting",
+      "title": "天河与钟鼓楼",
+      "summary": "天河与钟鼓楼（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0109.json",
+          "record_id": "setting-0109"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0110.json",
+        "record_id": "setting-0110"
+      },
+      "kind": "setting",
+      "title": "蟠桃会",
+      "summary": "蟠桃会（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0110.json",
+          "record_id": "setting-0110"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0111.json",
+        "record_id": "setting-0111"
+      },
+      "kind": "setting",
+      "title": "地府",
+      "summary": "地府（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0111.json",
+          "record_id": "setting-0111"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0112.json",
+        "record_id": "setting-0112"
+      },
+      "kind": "setting",
+      "title": "生死簿",
+      "summary": "生死簿（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0112.json",
+          "record_id": "setting-0112"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0113.json",
+        "record_id": "setting-0113"
+      },
+      "kind": "setting",
+      "title": "熔岩之海",
+      "summary": "熔岩之海（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0113.json",
+          "record_id": "setting-0113"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0114.json",
+        "record_id": "setting-0114"
+      },
+      "kind": "setting",
+      "title": "陷空山",
+      "summary": "陷空山（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0114.json",
+          "record_id": "setting-0114"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0115.json",
+        "record_id": "setting-0115"
+      },
+      "kind": "setting",
+      "title": "大地尽头的悬崖",
+      "summary": "大地尽头的悬崖（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0115.json",
+          "record_id": "setting-0115"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0116.json",
+        "record_id": "setting-0116"
+      },
+      "kind": "setting",
+      "title": "百年神魔战争",
+      "summary": "百年神魔战争（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0116.json",
+          "record_id": "setting-0116"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0117.json",
+        "record_id": "setting-0117"
+      },
+      "kind": "setting",
+      "title": "东海龙宫",
+      "summary": "东海龙宫（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0117.json",
+          "record_id": "setting-0117"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0118.json",
+        "record_id": "setting-0118"
+      },
+      "kind": "setting",
+      "title": "定颜珠",
+      "summary": "定颜珠（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0118.json",
+          "record_id": "setting-0118"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0119.json",
+        "record_id": "setting-0119"
+      },
+      "kind": "setting",
+      "title": "天庭禁令：不得帮助那四人",
+      "summary": "天庭禁令：不得帮助那四人（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0119.json",
+          "record_id": "setting-0119"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0120.json",
+        "record_id": "setting-0120"
+      },
+      "kind": "setting",
+      "title": "海底龙宫",
+      "summary": "海底龙宫（第13章起）",
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0120.json",
+          "record_id": "setting-0120"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 13
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0121.json",
+        "record_id": "setting-0121"
+      },
+      "kind": "setting",
+      "title": "化鲤/化龙之变",
+      "summary": "化鲤/化龙之变（第13章起）",
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0121.json",
+          "record_id": "setting-0121"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 13
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0122.json",
+        "record_id": "setting-0122"
+      },
+      "kind": "setting",
+      "title": "河岸上的凡人城镇",
+      "summary": "河岸上的凡人城镇（第14章起）",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0122.json",
+          "record_id": "setting-0122"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 14
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0123.json",
+        "record_id": "setting-0123"
+      },
+      "kind": "setting",
+      "title": "金山寺",
+      "summary": "金山寺（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0123.json",
+          "record_id": "setting-0123"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0124.json",
+        "record_id": "setting-0124"
+      },
+      "kind": "setting",
+      "title": "洪洲佑民寺",
+      "summary": "洪洲佑民寺（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0124.json",
+          "record_id": "setting-0124"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0125.json",
+        "record_id": "setting-0125"
+      },
+      "kind": "setting",
+      "title": "执事堂",
+      "summary": "执事堂（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0125.json",
+          "record_id": "setting-0125"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0126.json",
+        "record_id": "setting-0126"
+      },
+      "kind": "setting",
+      "title": "西方无极世界",
+      "summary": "西方无极世界（第16章起）",
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0126.json",
+          "record_id": "setting-0126"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 16
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0127.json",
+        "record_id": "setting-0127"
+      },
+      "kind": "setting",
+      "title": "大江出海口",
+      "summary": "大江出海口（第17章起）",
+      "chapter_ranges": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0127.json",
+          "record_id": "setting-0127"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 17
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0128.json",
+        "record_id": "setting-0128"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0128.json",
+          "record_id": "setting-0128"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0129.json",
+        "record_id": "setting-0129"
+      },
+      "kind": "setting",
+      "title": "落霞宫",
+      "summary": "落霞宫（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0129.json",
+          "record_id": "setting-0129"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0130.json",
+        "record_id": "setting-0130"
+      },
+      "kind": "setting",
+      "title": "蟠桃园",
+      "summary": "蟠桃园（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0130.json",
+          "record_id": "setting-0130"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0131.json",
+        "record_id": "setting-0131"
+      },
+      "kind": "setting",
+      "title": "御马监",
+      "summary": "御马监（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0131.json",
+          "record_id": "setting-0131"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0132.json",
+        "record_id": "setting-0132"
+      },
+      "kind": "setting",
+      "title": "西天的紫霞",
+      "summary": "西天的紫霞（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0132.json",
+          "record_id": "setting-0132"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0133.json",
+        "record_id": "setting-0133"
+      },
+      "kind": "setting",
+      "title": "天河（银河）",
+      "summary": "天河（银河）（第20章起）",
+      "chapter_ranges": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0133.json",
+          "record_id": "setting-0133"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 20
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0134.json",
+        "record_id": "setting-0134"
+      },
+      "kind": "setting",
+      "title": "花果山（地面现状）",
+      "summary": "花果山（地面现状）（第22章起）",
+      "chapter_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0134.json",
+          "record_id": "setting-0134"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 22
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0135.json",
+        "record_id": "setting-0135"
+      },
+      "kind": "setting",
+      "title": "天神战车",
+      "summary": "天神战车（第22章起）",
+      "chapter_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0135.json",
+          "record_id": "setting-0135"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 22
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0136.json",
+        "record_id": "setting-0136"
+      },
+      "kind": "setting",
+      "title": "怪鸟（妖精灵气所聚）",
+      "summary": "怪鸟（妖精灵气所聚）（第22章起）",
+      "chapter_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0136.json",
+          "record_id": "setting-0136"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 22
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0137.json",
+        "record_id": "setting-0137"
+      },
+      "kind": "setting",
+      "title": "蟠桃大会",
+      "summary": "蟠桃大会（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0137.json",
+          "record_id": "setting-0137"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0138.json",
+        "record_id": "setting-0138"
+      },
+      "kind": "setting",
+      "title": "落霞宫",
+      "summary": "落霞宫（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0138.json",
+          "record_id": "setting-0138"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0139.json",
+        "record_id": "setting-0139"
+      },
+      "kind": "setting",
+      "title": "灵霄宝殿",
+      "summary": "灵霄宝殿（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0139.json",
+          "record_id": "setting-0139"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0140.json",
+        "record_id": "setting-0140"
+      },
+      "kind": "setting",
+      "title": "花果山被封禁（监狱化）",
+      "summary": "花果山被封禁（监狱化）（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0140.json",
+          "record_id": "setting-0140"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0141.json",
+        "record_id": "setting-0141"
+      },
+      "kind": "setting",
+      "title": "灵霄大殿",
+      "summary": "灵霄大殿（第25章起）",
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0141.json",
+          "record_id": "setting-0141"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 25
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0142.json",
+        "record_id": "setting-0142"
+      },
+      "kind": "setting",
+      "title": "诸天殿",
+      "summary": "诸天殿（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0142.json",
+          "record_id": "setting-0142"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0143.json",
+        "record_id": "setting-0143"
+      },
+      "kind": "setting",
+      "title": "朝会殿",
+      "summary": "朝会殿（第27章起）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0143.json",
+          "record_id": "setting-0143"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 27
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0144.json",
+        "record_id": "setting-0144"
+      },
+      "kind": "setting",
+      "title": "凌虚殿",
+      "summary": "凌虚殿（第27章起）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0144.json",
+          "record_id": "setting-0144"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 27
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0145.json",
+        "record_id": "setting-0145"
+      },
+      "kind": "setting",
+      "title": "通明殿",
+      "summary": "通明殿（第27章起）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0145.json",
+          "record_id": "setting-0145"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 27
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0146.json",
+        "record_id": "setting-0146"
+      },
+      "kind": "setting",
+      "title": "琉璃盏",
+      "summary": "琉璃盏（第28章起）",
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0146.json",
+          "record_id": "setting-0146"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 28
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0147.json",
+        "record_id": "setting-0147"
+      },
+      "kind": "setting",
+      "title": "花果山（暗无天日的黑色焦土）",
+      "summary": "花果山（暗无天日的黑色焦土）（第29章起）",
+      "chapter_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0147.json",
+          "record_id": "setting-0147"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 29
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0148.json",
+        "record_id": "setting-0148"
+      },
+      "kind": "setting",
+      "title": "天界战车（天界战车在调集的声音）",
+      "summary": "天界战车（天界战车在调集的声音）（第29章起）",
+      "chapter_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0148.json",
+          "record_id": "setting-0148"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 29
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0149.json",
+        "record_id": "setting-0149"
+      },
+      "kind": "setting",
+      "title": "神妖大战（两次）",
+      "summary": "神妖大战（两次）（第29章起）",
+      "chapter_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0149.json",
+          "record_id": "setting-0149"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 29
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0150.json",
+        "record_id": "setting-0150"
+      },
+      "kind": "setting",
+      "title": "红色丹药（令人忘记一切的丹药）",
+      "summary": "红色丹药（令人忘记一切的丹药）（第30章起）",
+      "chapter_ranges": [
+        {
+          "start": 30,
+          "end": 30
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0150.json",
+          "record_id": "setting-0150"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 30
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0151.json",
+        "record_id": "setting-0151"
+      },
+      "kind": "setting",
+      "title": "谪仙井",
+      "summary": "谪仙井（第31章起）",
+      "chapter_ranges": [
+        {
+          "start": 31,
+          "end": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0151.json",
+          "record_id": "setting-0151"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 31
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0152.json",
+        "record_id": "setting-0152"
+      },
+      "kind": "setting",
+      "title": "红色药丸",
+      "summary": "红色药丸（第32章起）",
+      "chapter_ranges": [
+        {
+          "start": 32,
+          "end": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0152.json",
+          "record_id": "setting-0152"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 32
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0153.json",
+        "record_id": "setting-0153"
+      },
+      "kind": "setting",
+      "title": "凡间小山村（天蓬坠落所见）",
+      "summary": "凡间小山村（天蓬坠落所见）（第32章起）",
+      "chapter_ranges": [
+        {
+          "start": 32,
+          "end": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0153.json",
+          "record_id": "setting-0153"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 32
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0154.json",
+        "record_id": "setting-0154"
+      },
+      "kind": "setting",
+      "title": "锁妖柱",
+      "summary": "锁妖柱（第33章起）",
+      "chapter_ranges": [
+        {
+          "start": 33,
+          "end": 33
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0154.json",
+          "record_id": "setting-0154"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 33
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0155.json",
+        "record_id": "setting-0155"
+      },
+      "kind": "setting",
+      "title": "太上老君的炼丹炉",
+      "summary": "太上老君的炼丹炉（第33章起）",
+      "chapter_ranges": [
+        {
+          "start": 33,
+          "end": 33
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0155.json",
+          "record_id": "setting-0155"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 33
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0156.json",
+        "record_id": "setting-0156"
+      },
+      "kind": "setting",
+      "title": "紫色披巾",
+      "summary": "紫色披巾（第33章起）",
+      "chapter_ranges": [
+        {
+          "start": 33,
+          "end": 33
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0156.json",
+          "record_id": "setting-0156"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 33
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0157.json",
+        "record_id": "setting-0157"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第34章起）",
+      "chapter_ranges": [
+        {
+          "start": 34,
+          "end": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0157.json",
+          "record_id": "setting-0157"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 34
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0158.json",
+        "record_id": "setting-0158"
+      },
+      "kind": "setting",
+      "title": "天顶／天穹（女娲补天）",
+      "summary": "天顶／天穹（女娲补天）（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0158.json",
+          "record_id": "setting-0158"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0159.json",
+        "record_id": "setting-0159"
+      },
+      "kind": "setting",
+      "title": "炼丹炉重生（孙悟空自称）",
+      "summary": "炼丹炉重生（孙悟空自称）（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0159.json",
+          "record_id": "setting-0159"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0160.json",
+        "record_id": "setting-0160"
+      },
+      "kind": "setting",
+      "title": "紧箍儿",
+      "summary": "紧箍儿（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0160.json",
+          "record_id": "setting-0160"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0161.json",
+        "record_id": "setting-0161"
+      },
+      "kind": "setting",
+      "title": "紫色披巾（西天彩霞所制）",
+      "summary": "紫色披巾（西天彩霞所制）（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0161.json",
+          "record_id": "setting-0161"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0162.json",
+        "record_id": "setting-0162"
+      },
+      "kind": "setting",
+      "title": "天囚塔",
+      "summary": "天囚塔（第36章起）",
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0162.json",
+          "record_id": "setting-0162"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 36
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0163.json",
+        "record_id": "setting-0163"
+      },
+      "kind": "setting",
+      "title": "万灵之森",
+      "summary": "万灵之森（第38章起）",
+      "chapter_ranges": [
+        {
+          "start": 38,
+          "end": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0163.json",
+          "record_id": "setting-0163"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 38
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0164.json",
+        "record_id": "setting-0164"
+      },
+      "kind": "setting",
+      "title": "唐僧的墓",
+      "summary": "唐僧的墓（第38章起）",
+      "chapter_ranges": [
+        {
+          "start": 38,
+          "end": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0164.json",
+          "record_id": "setting-0164"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 38
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0165.json",
+        "record_id": "setting-0165"
+      },
+      "kind": "setting",
+      "title": "天界三大定律",
+      "summary": "天界三大定律（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0165.json",
+          "record_id": "setting-0165"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0166.json",
+        "record_id": "setting-0166"
+      },
+      "kind": "setting",
+      "title": "替补星宿",
+      "summary": "替补星宿（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0166.json",
+          "record_id": "setting-0166"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0167.json",
+        "record_id": "setting-0167"
+      },
+      "kind": "setting",
+      "title": "金箍儿",
+      "summary": "金箍儿（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0167.json",
+          "record_id": "setting-0167"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0168.json",
+        "record_id": "setting-0168"
+      },
+      "kind": "setting",
+      "title": "灵台方寸山",
+      "summary": "灵台方寸山（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0168.json",
+          "record_id": "setting-0168"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0169.json",
+        "record_id": "setting-0169"
+      },
+      "kind": "setting",
+      "title": "斜月三星洞",
+      "summary": "斜月三星洞（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0169.json",
+          "record_id": "setting-0169"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0170.json",
+        "record_id": "setting-0170"
+      },
+      "kind": "setting",
+      "title": "五岳山",
+      "summary": "五岳山（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0170.json",
+          "record_id": "setting-0170"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0171.json",
+        "record_id": "setting-0171"
+      },
+      "kind": "setting",
+      "title": "高墙寺院及其墙后的白茫茫大地",
+      "summary": "高墙寺院及其墙后的白茫茫大地（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0171.json",
+          "record_id": "setting-0171"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0172.json",
+        "record_id": "setting-0172"
+      },
+      "kind": "setting",
+      "title": "方寸中的世界（烟霞散彩、老柏修篁之地）",
+      "summary": "方寸中的世界（烟霞散彩、老柏修篁之地）（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0172.json",
+          "record_id": "setting-0172"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0173.json",
+        "record_id": "setting-0173"
+      },
+      "kind": "setting",
+      "title": "灵山第四次结集论法大会",
+      "summary": "灵山第四次结集论法大会（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0173.json",
+          "record_id": "setting-0173"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0174.json",
+        "record_id": "setting-0174"
+      },
+      "kind": "setting",
+      "title": "三藏经（手卷）",
+      "summary": "三藏经（手卷）（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0174.json",
+          "record_id": "setting-0174"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0175.json",
+        "record_id": "setting-0175"
+      },
+      "kind": "setting",
+      "title": "灵山雷音异象（雷音寺雷音）",
+      "summary": "灵山雷音异象（雷音寺雷音）（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0175.json",
+          "record_id": "setting-0175"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0176.json",
+        "record_id": "setting-0176"
+      },
+      "kind": "setting",
+      "title": "琉璃盏",
+      "summary": "琉璃盏（第43章起）",
+      "chapter_ranges": [
+        {
+          "start": 43,
+          "end": 43
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0176.json",
+          "record_id": "setting-0176"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 43
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0177.json",
+        "record_id": "setting-0177"
+      },
+      "kind": "setting",
+      "title": "灵霄宝殿（灵霄殿）",
+      "summary": "灵霄宝殿（灵霄殿）（第44章起）",
+      "chapter_ranges": [
+        {
+          "start": 44,
+          "end": 44
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0177.json",
+          "record_id": "setting-0177"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 44
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0178.json",
+        "record_id": "setting-0178"
+      },
+      "kind": "setting",
+      "title": "银星灯笼（桂花树上）",
+      "summary": "银星灯笼（桂花树上）（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0178.json",
+          "record_id": "setting-0178"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0179.json",
+        "record_id": "setting-0179"
+      },
+      "kind": "setting",
+      "title": "阿月的宫殿",
+      "summary": "阿月的宫殿（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0179.json",
+          "record_id": "setting-0179"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0180.json",
+        "record_id": "setting-0180"
+      },
+      "kind": "setting",
+      "title": "五行山",
+      "summary": "五行山（第46章起）",
+      "chapter_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0180.json",
+          "record_id": "setting-0180"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 46
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0181.json",
+        "record_id": "setting-0181"
+      },
+      "kind": "setting",
+      "title": "花果山（如来所指的幻象群山）",
+      "summary": "花果山（如来所指的幻象群山）（第46章起）",
+      "chapter_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0181.json",
+          "record_id": "setting-0181"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 46
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0182.json",
+        "record_id": "setting-0182"
+      },
+      "kind": "setting",
+      "title": "金箍",
+      "summary": "金箍（第47章起）",
+      "chapter_ranges": [
+        {
+          "start": 47,
+          "end": 47
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0182.json",
+          "record_id": "setting-0182"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 47
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0183.json",
+        "record_id": "setting-0183"
+      },
+      "kind": "setting",
+      "title": "紫色纱巾",
+      "summary": "紫色纱巾（第47章起）",
+      "chapter_ranges": [
+        {
+          "start": 47,
+          "end": 47
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0183.json",
+          "record_id": "setting-0183"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 47
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0184.json",
+        "record_id": "setting-0184"
+      },
+      "kind": "setting",
+      "title": "天外之炎",
+      "summary": "天外之炎（第47章起）",
+      "chapter_ranges": [
+        {
+          "start": 47,
+          "end": 47
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0184.json",
+          "record_id": "setting-0184"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 47
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0185.json",
+        "record_id": "setting-0185"
+      },
+      "kind": "setting",
+      "title": "五行山（重现人间）",
+      "summary": "五行山（重现人间）（第48章起）",
+      "chapter_ranges": [
+        {
+          "start": 48,
+          "end": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0185.json",
+          "record_id": "setting-0185"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 48
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0186.json",
+        "record_id": "setting-0186"
+      },
+      "kind": "setting",
+      "title": "琉璃盏（五百年凝聚修复）",
+      "summary": "琉璃盏（五百年凝聚修复）（第48章起）",
+      "chapter_ranges": [
+        {
+          "start": 48,
+          "end": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0186.json",
+          "record_id": "setting-0186"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 48
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0187.json",
+        "record_id": "setting-0187"
+      },
+      "kind": "setting",
+      "title": "花果山（焦土）",
+      "summary": "花果山（焦土）（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0187.json",
+          "record_id": "setting-0187"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0188.json",
+        "record_id": "setting-0188"
+      },
+      "kind": "setting",
+      "title": "烧焦的石头",
+      "summary": "烧焦的石头（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0188.json",
+          "record_id": "setting-0188"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0189.json",
+        "record_id": "setting-0189"
+      },
+      "kind": "setting",
+      "title": "金蝉子手写的经文",
+      "summary": "金蝉子手写的经文（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0189.json",
+          "record_id": "setting-0189"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0190.json",
+        "record_id": "setting-0190"
+      },
+      "kind": "setting",
+      "title": "五行山",
+      "summary": "五行山（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0190.json",
+          "record_id": "setting-0190"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0191.json",
+        "record_id": "setting-0191"
+      },
+      "kind": "setting",
+      "title": "大青树",
+      "summary": "大青树（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0191.json",
+          "record_id": "setting-0191"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0192.json",
+        "record_id": "setting-0192"
+      },
+      "kind": "setting",
+      "title": "石峰",
+      "summary": "石峰（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0192.json",
+          "record_id": "setting-0192"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0193.json",
+        "record_id": "setting-0193"
+      },
+      "kind": "setting",
+      "title": "海",
+      "summary": "海（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0193.json",
+          "record_id": "setting-0193"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0194.json",
+        "record_id": "setting-0194"
+      },
+      "kind": "setting",
+      "title": "大青树",
+      "summary": "大青树（第51章起）",
+      "chapter_ranges": [
+        {
+          "start": 51,
+          "end": 51
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0194.json",
+          "record_id": "setting-0194"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 51
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0195.json",
+        "record_id": "setting-0195"
+      },
+      "kind": "setting",
+      "title": "花果山潭与水帘瀑布",
+      "summary": "花果山潭与水帘瀑布（第52章起）",
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0195.json",
+          "record_id": "setting-0195"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 52
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0196.json",
+        "record_id": "setting-0196"
+      },
+      "kind": "setting",
+      "title": "大青树（候鸟归乡所在）",
+      "summary": "大青树（候鸟归乡所在）（第52章起）",
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0196.json",
+          "record_id": "setting-0196"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 52
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0197.json",
+        "record_id": "setting-0197"
+      },
+      "kind": "setting",
+      "title": "“得到”（椰壶中的酒/饮品）",
+      "summary": "“得到”（椰壶中的酒/饮品）（第54章起）",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0197.json",
+          "record_id": "setting-0197"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 54
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0198.json",
+        "record_id": "setting-0198"
+      },
+      "kind": "setting",
+      "title": "不死的神龙（传说）",
+      "summary": "不死的神龙（传说）（第54章起）",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0198.json",
+          "record_id": "setting-0198"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 54
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0199.json",
+        "record_id": "setting-0199"
+      },
+      "kind": "setting",
+      "title": "每个生灵都会去的那个地方（老猴所述去处）",
+      "summary": "每个生灵都会去的那个地方（老猴所述去处）（第54章起）",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0199.json",
+          "record_id": "setting-0199"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 54
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0200.json",
+        "record_id": "setting-0200"
+      },
+      "kind": "setting",
+      "title": "路上的民舍",
+      "summary": "路上的民舍（第56章起）",
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0200.json",
+          "record_id": "setting-0200"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 56
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0201.json",
+        "record_id": "setting-0201"
+      },
+      "kind": "setting",
+      "title": "花果山",
+      "summary": "花果山（第57章起）",
+      "chapter_ranges": [
+        {
+          "start": 57,
+          "end": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0201.json",
+          "record_id": "setting-0201"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 57
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0202.json",
+        "record_id": "setting-0202"
+      },
+      "kind": "setting",
+      "title": "五庄观（人参果树）",
+      "summary": "五庄观（人参果树）（第57章起）",
+      "chapter_ranges": [
+        {
+          "start": 57,
+          "end": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0202.json",
+          "record_id": "setting-0202"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 57
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0203.json",
+        "record_id": "setting-0203"
+      },
+      "kind": "setting",
+      "title": "流沙河",
+      "summary": "流沙河（第57章起）",
+      "chapter_ranges": [
+        {
+          "start": 57,
+          "end": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0203.json",
+          "record_id": "setting-0203"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 57
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0204.json",
+        "record_id": "setting-0204"
+      },
+      "kind": "setting",
+      "title": "紧箍咒",
+      "summary": "紧箍咒（第57章起）",
+      "chapter_ranges": [
+        {
+          "start": 57,
+          "end": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0204.json",
+          "record_id": "setting-0204"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 57
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0205.json",
+        "record_id": "setting-0205"
+      },
+      "kind": "setting",
+      "title": "万佛朝宗",
+      "summary": "万佛朝宗（第58章起）",
+      "chapter_ranges": [
+        {
+          "start": 58,
+          "end": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0205.json",
+          "record_id": "setting-0205"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 58
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0206.json",
+        "record_id": "setting-0206"
+      },
+      "kind": "setting",
+      "title": "金蝉脱壳",
+      "summary": "金蝉脱壳（第58章起）",
+      "chapter_ranges": [
+        {
+          "start": 58,
+          "end": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0206.json",
+          "record_id": "setting-0206"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 58
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0207.json",
+        "record_id": "setting-0207"
+      },
+      "kind": "setting",
+      "title": "护体袈裟",
+      "summary": "护体袈裟（第58章起）",
+      "chapter_ranges": [
+        {
+          "start": 58,
+          "end": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0207.json",
+          "record_id": "setting-0207"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 58
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0208.json",
+        "record_id": "setting-0208"
+      },
+      "kind": "setting",
+      "title": "紧箍咒",
+      "summary": "紧箍咒（第58章起）",
+      "chapter_ranges": [
+        {
+          "start": 58,
+          "end": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0208.json",
+          "record_id": "setting-0208"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 58
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0209.json",
+        "record_id": "setting-0209"
+      },
+      "kind": "setting",
+      "title": "白屋",
+      "summary": "白屋（第59章起）",
+      "chapter_ranges": [
+        {
+          "start": 59,
+          "end": 59
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0209.json",
+          "record_id": "setting-0209"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 59
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0210.json",
+        "record_id": "setting-0210"
+      },
+      "kind": "setting",
+      "title": "花果山海风季节",
+      "summary": "花果山海风季节（第59章起）",
+      "chapter_ranges": [
+        {
+          "start": 59,
+          "end": 59
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0210.json",
+          "record_id": "setting-0210"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 59
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0211.json",
+        "record_id": "setting-0211"
+      },
+      "kind": "setting",
+      "title": "界限（透明的墙）",
+      "summary": "界限（透明的墙）（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0211.json",
+          "record_id": "setting-0211"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0212.json",
+        "record_id": "setting-0212"
+      },
+      "kind": "setting",
+      "title": "宝象国",
+      "summary": "宝象国（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0212.json",
+          "record_id": "setting-0212"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0213.json",
+        "record_id": "setting-0213"
+      },
+      "kind": "setting",
+      "title": "波月洞",
+      "summary": "波月洞（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0213.json",
+          "record_id": "setting-0213"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0214.json",
+        "record_id": "setting-0214"
+      },
+      "kind": "setting",
+      "title": "炼丹炉",
+      "summary": "炼丹炉（第61章起）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 61
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0214.json",
+          "record_id": "setting-0214"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 61
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0215.json",
+        "record_id": "setting-0215"
+      },
+      "kind": "setting",
+      "title": "界限／边界（世界的边界）",
+      "summary": "界限／边界（世界的边界）（第62章起）",
+      "chapter_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0215.json",
+          "record_id": "setting-0215"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 62
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0216.json",
+        "record_id": "setting-0216"
+      },
+      "kind": "setting",
+      "title": "灵霄殿玉阶（三千三百级）",
+      "summary": "灵霄殿玉阶（三千三百级）（第62章起）",
+      "chapter_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0216.json",
+          "record_id": "setting-0216"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 62
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0217.json",
+        "record_id": "setting-0217"
+      },
+      "kind": "setting",
+      "title": "心锁",
+      "summary": "心锁（第62章起）",
+      "chapter_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0217.json",
+          "record_id": "setting-0217"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 62
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0218.json",
+        "record_id": "setting-0218"
+      },
+      "kind": "setting",
+      "title": "紧箍咒不可解",
+      "summary": "紧箍咒不可解（第62章起）",
+      "chapter_ranges": [
+        {
+          "start": 62,
+          "end": 62
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0218.json",
+          "record_id": "setting-0218"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 62
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0219.json",
+        "record_id": "setting-0219"
+      },
+      "kind": "setting",
+      "title": "花果山",
+      "summary": "花果山（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0219.json",
+          "record_id": "setting-0219"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0220.json",
+        "record_id": "setting-0220"
+      },
+      "kind": "setting",
+      "title": "水帘瀑布",
+      "summary": "水帘瀑布（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0220.json",
+          "record_id": "setting-0220"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0221.json",
+        "record_id": "setting-0221"
+      },
+      "kind": "setting",
+      "title": "齐天大圣大旗（旗杆）",
+      "summary": "齐天大圣大旗（旗杆）（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0221.json",
+          "record_id": "setting-0221"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0222.json",
+        "record_id": "setting-0222"
+      },
+      "kind": "setting",
+      "title": "北俱芦洲·狮驼岭",
+      "summary": "北俱芦洲·狮驼岭（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0222.json",
+          "record_id": "setting-0222"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0223.json",
+        "record_id": "setting-0223"
+      },
+      "kind": "setting",
+      "title": "大唐西域（册子）",
+      "summary": "大唐西域（册子）（第64章起）",
+      "chapter_ranges": [
+        {
+          "start": 64,
+          "end": 64
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0223.json",
+          "record_id": "setting-0223"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 64
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0224.json",
+        "record_id": "setting-0224"
+      },
+      "kind": "setting",
+      "title": "界限（神所设决定命运方向的屏障）",
+      "summary": "界限（神所设决定命运方向的屏障）（第65章起）",
+      "chapter_ranges": [
+        {
+          "start": 65,
+          "end": 65
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0224.json",
+          "record_id": "setting-0224"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 65
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0225.json",
+        "record_id": "setting-0225"
+      },
+      "kind": "setting",
+      "title": "宝象国某山村（农田与猪圈）",
+      "summary": "宝象国某山村（农田与猪圈）（第65章起）",
+      "chapter_ranges": [
+        {
+          "start": 65,
+          "end": 65
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0225.json",
+          "record_id": "setting-0225"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 65
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0226.json",
+        "record_id": "setting-0226"
+      },
+      "kind": "setting",
+      "title": "通天河",
+      "summary": "通天河（第66章起）",
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0226.json",
+          "record_id": "setting-0226"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 66
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0227.json",
+        "record_id": "setting-0227"
+      },
+      "kind": "setting",
+      "title": "金山寺",
+      "summary": "金山寺（第66章起）",
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0227.json",
+          "record_id": "setting-0227"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 66
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0228.json",
+        "record_id": "setting-0228"
+      },
+      "kind": "setting",
+      "title": "林中幽深古潭（静潭）",
+      "summary": "林中幽深古潭（静潭）（第66章起）",
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0228.json",
+          "record_id": "setting-0228"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 66
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0229.json",
+        "record_id": "setting-0229"
+      },
+      "kind": "setting",
+      "title": "宝殿（金殿）",
+      "summary": "宝殿（金殿）（第66章起）",
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0229.json",
+          "record_id": "setting-0229"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 66
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0230.json",
+        "record_id": "setting-0230"
+      },
+      "kind": "setting",
+      "title": "破界之处",
+      "summary": "破界之处（第66章起）",
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0230.json",
+          "record_id": "setting-0230"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 66
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0231.json",
+        "record_id": "setting-0231"
+      },
+      "kind": "setting",
+      "title": "狮驼岭",
+      "summary": "狮驼岭（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0231.json",
+          "record_id": "setting-0231"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0232.json",
+        "record_id": "setting-0232"
+      },
+      "kind": "setting",
+      "title": "紫金葫芦与玉净瓶",
+      "summary": "紫金葫芦与玉净瓶（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0232.json",
+          "record_id": "setting-0232"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0233.json",
+        "record_id": "setting-0233"
+      },
+      "kind": "setting",
+      "title": "循环天宫幻境",
+      "summary": "循环天宫幻境（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0233.json",
+          "record_id": "setting-0233"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0234.json",
+        "record_id": "setting-0234"
+      },
+      "kind": "setting",
+      "title": "心障（幻境）",
+      "summary": "心障（幻境）（第68章起）",
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0234.json",
+          "record_id": "setting-0234"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 68
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0235.json",
+        "record_id": "setting-0235"
+      },
+      "kind": "setting",
+      "title": "花果山焦土",
+      "summary": "花果山焦土（第68章起）",
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0235.json",
+          "record_id": "setting-0235"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 68
+    },
+    {
+      "target": {
+        "path": "settings/entries/setting-0236.json",
+        "record_id": "setting-0236"
+      },
+      "kind": "setting",
+      "title": "写有“唵嘛呢叭咪吽”的山顶帖子",
+      "summary": "写有“唵嘛呢叭咪吽”的山顶帖子（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "settings/entries/setting-0236.json",
+          "record_id": "setting-0236"
+        }
+      ],
+      "tags": [
+        "setting"
+      ],
+      "safe_through": 69
+    }
+  ],
+  "id": "idx-settings",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 237,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 1,
+        "end": 36
+      },
+      {
+        "start": 38,
+        "end": 52
+      },
+      {
+        "start": 54,
+        "end": 54
+      },
+      {
+        "start": 56,
+        "end": 69
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "体系设定"
+}

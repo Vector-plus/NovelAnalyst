@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0011",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 49,
+  "label": "感情阶段：被丹药中断的守候",
+  "introduced_at": 27,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 49
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 49
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0011-004",
+      "revealed_at": 49,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/天蓬的月/stages/stage-004.md",
+          "record_id": "doc-rel-天蓬-月-stage-004"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0011/stages/stage-004.md",
+        "record_id": "doc-emo-0011-stage-004"
+      },
+      "kind": "emotional_stage",
+      "title": "感情阶段：被丹药中断的守候",
+      "summary": "感情阶段：被丹药中断的守候（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

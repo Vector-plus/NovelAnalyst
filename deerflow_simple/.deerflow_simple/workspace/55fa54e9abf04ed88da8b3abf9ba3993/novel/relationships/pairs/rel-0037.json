@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0037",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 14,
+  "introduced_at": 14,
+  "subjects": [
+    {
+      "path": "characters/char-0051/index.json",
+      "record_id": "char-0051"
+    },
+    {
+      "path": "characters/char-0052/index.json",
+      "record_id": "char-0052"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0037-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "as_of": 14,
+      "revealed_at": 14,
+      "summary": "和尚先说“那条鱼吃不得的”，再编出“珍稀娃娃鱼、四只脚、会娃娃音”并赌咒担保，使船夫递鱼，随即夺鱼逃走；船夫事后大呼“有和尚抢鱼”。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "和尚先说“那条鱼吃不得的”，再编出“珍稀娃娃鱼、四只脚、会娃娃音”并赌咒担保，使船夫递鱼，随即夺鱼逃走；船夫事后大呼“有和尚抢鱼”。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0561"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0563"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0565"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

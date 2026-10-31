@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0020",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 18,
+  "label": "孙悟空对五百年间经历的记忆缺失",
+  "introduced_at": 18,
+  "updates": [
+    {
+      "id": "update-thread-0020-001",
+      "revealed_at": 18,
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "summary": "太上老君称孙悟空「已经什么都不记得了」；孙悟空自称不记得到过天宫，却觉得景物熟悉、仿佛认得路；对「阿瑶」之名出现迟疑。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0635"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0638"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0644"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

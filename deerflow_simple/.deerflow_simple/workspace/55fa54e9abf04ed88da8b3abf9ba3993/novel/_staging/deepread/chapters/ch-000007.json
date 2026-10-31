@@ -1,0 +1,663 @@
+{
+  "chapter_order": 7,
+  "chapter_id": "ch-000007",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "银河与月的诞生：天蓬守望造月八十万年",
+      "introduced_at": 7,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 7,
+            "end": 7
+          }
+        ],
+        "revealed_at": 7,
+        "status": "completed",
+        "story_time": "天地初开、月亮成形之前",
+        "summary": "女子在天河中逐粒挑选十亿亿万银色微尘，天蓬默默守候八十万年并为其遮风。她三度扬手，使银尘升空、成环、向中心汇聚成银色小核（月）。长吻后她法力消散，残留几亿颗银尘散落天河；天蓬安抚她，并将改造后的天河命名为「银河」，女子以己名命名银核为「月」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0016/index.json",
+              "record_id": "char-0016"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-5",
+          "claim-local-7",
+          "claim-local-9",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "当第一天月亮开始升上天空的时候，天蓬就已经在旁看着女子收取天地间无数微尘、挑出银色颗粒。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "当第一天月亮开始升上天空的时候"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "她做事时不准天蓬说话（怕吹走沙粒），天蓬便不说话；星际旅者呼啸而过时，天蓬举起宽大翅膀替她遮挡风和杂尘。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她做事时不准天蓬说话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "她挑选银尘做了八十万年，天蓬在旁守候八十万年，其间两人未说一句话，最终共选出十亿亿万粒银尘。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她一直做了八十万年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "天蓬此前独自在没有光的天河里孤独地生活。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "一个人在没有光的天河里孤独地生活"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "她第一次扬起手，十亿亿万银尘全部飞扬上天际，万古黑暗的天穹中出现了无数银色微尘闪耀。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她第一次扬起手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "她用手轻遮天蓬的嘴，说「别，别吓着她们」，眼中流露无限爱意。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "别，别吓着她们"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "她第二次扬起手，漫天银尘旋转，绕着二人所在之处越转越快，形成无比巨大的银色光环；天蓬脚步踉跄，微微靠在她身上，她并未推开他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她第二次扬起手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "她用手轻轻挽住天蓬，轻声说「小心」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她仍然是那么轻声地说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "她第三次扬起手，光环向中心汇聚，形成亿万条向核心流动的银线，光环中心一个小银核越来越清晰。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她第三次扬起手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "天蓬问是什么在吸引银尘，她先答「是我」，随后改口「是我们」并笑了，用手指点了一下天蓬。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "是什么在吸引它们？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "天蓬将她揽入怀中，二人深吻。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "将她揽入怀中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "长吻结束后，她被吻时法力消散，银核已经汇聚，但仍有几亿颗银尘散落在天河各处。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她被吻时法力消散"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "她掩面哭泣。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "她掩面哭泣了起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "她自陈做了那么久、花了那么长时间，还是失败了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "还是失败了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "天蓬揽住她的肩，对她说别哭了，世间没有一件造物会是完美的，有时缺憾会更美，并让她抬头看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "世间没有一件造物会是完美的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "她抬起头，看见天河四野俱是银星闪耀。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "俱是银星闪耀"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "天蓬提出把原为黑暗、现为银色的天河改叫「银河」，并让女子为那个银色小球起名。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "我们就改叫它"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "女子说用她的名字为银核命名，叫它「月」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "用我的名字吧，叫它——月"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "天蓬问自己是否可以说「月光下，映着一对爱人」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "映着一对爱人吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "结尾时，两人在月光下紧紧相拥。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 7,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000007.txt",
+          "chapter_id": "ch-000007",
+          "chapter_order": 7,
+          "locator": null,
+          "anchor": "他们紧紧相拥"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "天河 / 银河",
+      "category": "worldbuilding",
+      "introduced_at": 7,
+      "notes": "原文叙述：天河中原本没有光；女子以十亿亿万银尘使之银星闪耀，天蓬提议改称「银河」。天蓬曾独自在此无光的天河中生活。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    {
+      "label": "月（银核天体）",
+      "category": "worldbuilding",
+      "introduced_at": 7,
+      "notes": "女子三度扬手后由银尘汇聚而成的银色小核，仍有几亿颗银尘未及并入、散落天河各处；女子以自己的名字称其为「月」。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "天蓬在无光天河中独自生活，后守望女子造月八十万年并为其遮风；造月后二人相拥。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-11",
+        "claim-local-20"
+      ],
+      "notes": "仅记互动事实，不作感情定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_kind": "character_backstory",
+      "subject_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0016/index.json",
+          "record_id": "char-0016"
+        }
+      ],
+      "category": "backstory",
+      "status": "open",
+      "role": "reveal",
+      "summary": "本章揭示天蓬的前史：他曾在无光的天河中独自生活，并守望一名女子八十万年完成造月；二人由此相拥，天河被改称「银河」，银核以其名称为「月」。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-20"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第7章：银河与月的诞生",
+    "front_matter": {
+      "as_of": 7,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0016/index.json",
+          "record_id": "char-0016"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n月亮尚未成形。天蓬此前独自在没有光的天河里孤独地生活；自第一天月亮升上天空之时起，他已在旁观看一名女子收取天地间的无数微尘，从中挑出一粒粒银色颗粒。她做事时不准他说话（怕吹走沙粒），他便一言不发；有星际旅者呼啸而过，他就举起宽大的翅膀替她遮风挡尘。她这样做了八十万年，他在旁守候了八十万年，两人未说一句话，最终共选出十亿亿万粒银尘。\n\n## 关键行动\n\n- 她第一次扬手：十亿亿万银尘飞上天空，万古黑暗的天穹中出现无数银色微尘闪耀。她以手轻遮天蓬的嘴，说「别，别吓着她们」。\n- 她第二次扬手：银尘旋转、越转越快，形成无比巨大的银色光环；天蓬看得脚步踉跄，微微靠在她身上，她并未推开，而是挽住他说「小心」。\n- 她第三次扬手：光环向中心汇聚，形成亿万条向核心流动的银线，中心一个小银核越来越清晰。天蓬问是什么在吸引它们，她先答「是我」，随即改口「是我们」，并笑着用手点了他一下。\n- 天蓬将她揽入怀中，二人深吻。\n\n## 转折与新信息\n\n长吻结束后，她被吻时法力消散，银核虽已汇聚，却仍有几亿颗银尘散落天河各处。她因此掩面哭泣，自陈做了那么久、还是失败了。天蓬揽住她的肩说，世间没有一件造物会是完美的，缺憾有时更美，让她抬头看。她抬头后看见天河四野俱是银星闪耀。天蓬于是提议：天河原为黑暗、如今变成银色，就改叫「银河」，并让她为那个银色小球起名。她说用自己的名字，叫它「月」。\n\n## 本章结果\n\n天河自此得名「银河」，汇聚成形的银色小核得名「月」。天蓬问自己是否可以说「月光下，映着一对爱人」；结尾两人在月光下紧紧相拥。\n\n## 未决问题与补读入口\n\n- 本章女子在原文中始终以「她」指称，名字仅由她自陈「用我的名字，叫它——月」间接给出（见 claim-local-18）；与已建档 char-0016（标签「月」）的对应依据仅此一处，需后续章节确认。\n- 造月被其本人判为「失败」（尚有几亿颗银尘散落）一事是否在后文另有交代，本章未及。\n- 本章为天蓬与月的过往片段，章内未叙及与取经队伍当下的情节衔接，衔接需回看第6、8章。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 7,
+      "note": "天蓬/月前史核心事件：银核成月、天河改名银河"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-3",
+      "chapter_order": 7,
+      "note": "八十年万级守候与十亿亿万银尘，量级证据"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-12",
+      "chapter_order": 7,
+      "note": "造月未竟：几亿颗银尘散落天河"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-17",
+      "chapter_order": 7,
+      "note": "「银河」之名由天蓬提出（reported）"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-18",
+      "chapter_order": 7,
+      "note": "「月」之名由女子以己名命名（reported），身份线索"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-4",
+      "chapter_order": 7,
+      "note": "天蓬前史：曾在无光的天河中独自生活"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "detail": "末段对白（「我们就改叫它『银河』吧」「用我的名字吧，叫它——月」「那我可以说……月光下，映着一对爱人吗？」）无对白提示语，说话人依上下文推断：改称「银河」归天蓬、以己名命名归女子。",
+      "chapter_order": 7,
+      "anchor": "我们就改叫它"
+    },
+    {
+      "category": "fact_conflict",
+      "detail": "原文前段称守候「八十万年」，深吻处却称「几十万年等待的光阴」，时间量级表述不一致。",
+      "chapter_order": 7,
+      "anchor": "几十万年等待的光阴"
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "本章女子未被告知名姓，仅由其自陈以己名命名银核为「月」；据此关联 char-0016（标签「月」）为推断，需后章确认。",
+      "chapter_order": 7,
+      "anchor": "用我的名字吧"
+    }
+  ],
+  "warnings": [
+    "本章为独立抒情/前史片段，章内未见与取经队伍当下情节的显性衔接；未调用 read_source_window 核对跨章衔接。",
+    "末段多句对白无提示语，说话人按上下文归属，已在 issue_candidates 中登记。",
+    "原文「八十万年」与「几十万年」并存，未做取值统一。",
+    "感情性质未作定性，仅记录互动事实。"
+  ]
+}

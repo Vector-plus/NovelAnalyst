@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0065",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 21,
+  "label": "紫霞反复出现的“花园/松鼠”之梦与她自猜的“前世”",
+  "introduced_at": 21,
+  "updates": [
+    {
+      "id": "update-thread-0065-001",
+      "revealed_at": 21,
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "advance",
+      "summary": "紫霞自述一直做一个梦：一座无边美丽的花园，她是园中的一只松鼠，并猜想那也许是她的前世；她把梦中的四季景象当作花果山来描述，孙悟空听后惊问她“好像你在那儿住过似的”。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

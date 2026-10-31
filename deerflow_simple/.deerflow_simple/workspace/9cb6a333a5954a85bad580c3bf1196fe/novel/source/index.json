@@ -1,0 +1,301 @@
+{
+  "coverage_status": "complete",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 56,
+      "summary": "第1—56章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-001/index.json",
+        "record_id": "source-vol-001"
+      },
+      "title": "第一卷 平庸少年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 57
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 125,
+      "summary": "第57—125章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-002/index.json",
+        "record_id": "source-vol-002"
+      },
+      "title": "第二卷 修真血影"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 183,
+          "start": 126
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 183,
+      "summary": "第126—183章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-003/index.json",
+        "record_id": "source-vol-003"
+      },
+      "title": "第三卷 扬名修魔海 第一百四十二章 一身是宝"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 388,
+          "start": 184
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 388,
+      "summary": "第184—388章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-004/index.json",
+        "record_id": "source-vol-004"
+      },
+      "title": "第四卷 风卷残云"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 455,
+          "start": 389
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 455,
+      "summary": "第389—455章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-005/index.json",
+        "record_id": "source-vol-005"
+      },
+      "title": "第五卷 修星之晶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 456
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 641,
+      "summary": "第456—641章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-006/index.json",
+        "record_id": "source-vol-006"
+      },
+      "title": "第六卷 初入天运"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 871,
+          "start": 642
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 871,
+      "summary": "第642—871章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-007/index.json",
+        "record_id": "source-vol-007"
+      },
+      "title": "第七卷 名震罗云"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 928,
+          "start": 872
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 928,
+      "summary": "第872—928章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-008/index.json",
+        "record_id": "source-vol-008"
+      },
+      "title": "第八卷 联盟隐秘"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 929
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 1119,
+      "summary": "第929—1119章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-009/index.json",
+        "record_id": "source-vol-009"
+      },
+      "title": "第八卷联盟隐秘中，天运卷，即将展开！可还记得十三，可还记得姚惜雪……还有那凌天候、天运子以及众多熟悉的面孔，还有那痴情的周佚与王巍胡娟道侣！"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1464,
+          "start": 1120
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 1464,
+      "summary": "第1120—1464章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-010/index.json",
+        "record_id": "source-vol-010"
+      },
+      "title": "第九卷 云海之巅"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1600,
+          "start": 1465
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 1600,
+      "summary": "第1465—1600章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-011/index.json",
+        "record_id": "source-vol-011"
+      },
+      "title": "第十卷 叱咤界内"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1781,
+          "start": 1601
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 1781,
+      "summary": "第1601—1781章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-012/index.json",
+        "record_id": "source-vol-012"
+      },
+      "title": "第十一卷 远古谜团"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1988,
+          "start": 1782
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 1988,
+      "summary": "第1782—1988章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-013/index.json",
+        "record_id": "source-vol-013"
+      },
+      "title": "第十二卷 仙罡第十阳"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2076,
+          "start": 1989
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 2076,
+      "summary": "第1989—2076章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-014/index.json",
+        "record_id": "source-vol-014"
+      },
+      "title": "第十三卷 灯火阑珊"
+    }
+  ],
+  "id": "idx-source",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 2076,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 2076,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "原文清单"
+}

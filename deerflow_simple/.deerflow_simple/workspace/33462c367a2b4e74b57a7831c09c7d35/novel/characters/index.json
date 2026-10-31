@@ -1,0 +1,950 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "辛妮（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "title": "辛妮"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "格兰特（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "title": "格兰特"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "克雷尔（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "title": "克雷尔"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "萨里（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0004/index.json",
+        "record_id": "char-0004"
+      },
+      "title": "萨里"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "莱丽（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "title": "莱丽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0006/index.json",
+          "record_id": "char-0006"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "穆拉德（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0006/index.json",
+        "record_id": "char-0006"
+      },
+      "title": "穆拉德"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "伊西娅（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0007/index.json",
+        "record_id": "char-0007"
+      },
+      "title": "伊西娅"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0008/index.json",
+          "record_id": "char-0008"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "拾荒者（英美文学教授）（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0008/index.json",
+        "record_id": "char-0008"
+      },
+      "title": "拾荒者（英美文学教授）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "男篮队员（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "title": "男篮队员"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0010/index.json",
+          "record_id": "char-0010"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "国际奥林匹克委员会主席（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0010/index.json",
+        "record_id": "char-0010"
+      },
+      "title": "国际奥林匹克委员会主席"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0011/index.json",
+          "record_id": "char-0011"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 2,
+      "summary": "国际奥委会主席（第2章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0011/index.json",
+        "record_id": "char-0011"
+      },
+      "title": "国际奥委会主席"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 2,
+      "summary": "西亚共和国体育代表团（第2章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "title": "西亚共和国体育代表团"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0013/index.json",
+          "record_id": "char-0013"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "联合国秘书长（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0013/index.json",
+        "record_id": "char-0013"
+      },
+      "title": "联合国秘书长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "乔治·韦斯特（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "title": "乔治·韦斯特"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "西亚共和国代表团（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "title": "西亚共和国代表团"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0016/index.json",
+          "record_id": "char-0016"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "随意选中的女运动员（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "title": "随意选中的女运动员"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "美国运动员方阵（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "title": "美国运动员方阵"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "埃玛（弗朗西丝·埃玛）（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "title": "埃玛（弗朗西丝·埃玛）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "詹姆斯·格拉夫（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "title": "詹姆斯·格拉夫"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0020/index.json",
+          "record_id": "char-0020"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "西亚队年迈的教练（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0020/index.json",
+        "record_id": "char-0020"
+      },
+      "title": "西亚队年迈的教练"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "莱丽的教练（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "title": "莱丽的教练"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "西亚代表团成员（未具名）（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "title": "西亚代表团成员（未具名）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "美国梦之队（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "title": "美国梦之队"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "弗朗西丝·埃玛（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0024/index.json",
+        "record_id": "char-0024"
+      },
+      "title": "弗朗西丝·埃玛"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "斯特姆·奥卡（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0025/index.json",
+        "record_id": "char-0025"
+      },
+      "title": "斯特姆·奥卡"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0026/index.json",
+          "record_id": "char-0026"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "威伊娜（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0026/index.json",
+        "record_id": "char-0026"
+      },
+      "title": "威伊娜"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0027/index.json",
+          "record_id": "char-0027"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "埃玛的主教练（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "title": "埃玛的主教练"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0028/index.json",
+          "record_id": "char-0028"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "学校老校长（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0028/index.json",
+        "record_id": "char-0028"
+      },
+      "title": "学校老校长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "奥卡的妻子（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      },
+      "title": "奥卡的妻子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0030/index.json",
+          "record_id": "char-0030"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "斯科特（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0030/index.json",
+        "record_id": "char-0030"
+      },
+      "title": "斯科特"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0031/index.json",
+          "record_id": "char-0031"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "医院医生（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0031/index.json",
+        "record_id": "char-0031"
+      },
+      "title": "医院医生"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "联合国救援基地的西亚语医生（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "title": "联合国救援基地的西亚语医生"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0033/index.json",
+          "record_id": "char-0033"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "郊区失业田径教练（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0033/index.json",
+        "record_id": "char-0033"
+      },
+      "title": "郊区失业田径教练"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0034/index.json",
+          "record_id": "char-0034"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "西亚体育代表团（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0034/index.json",
+        "record_id": "char-0034"
+      },
+      "title": "西亚体育代表团"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0035/index.json",
+          "record_id": "char-0035"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 7,
+      "summary": "机长（第7章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0035/index.json",
+        "record_id": "char-0035"
+      },
+      "title": "机长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0036/index.json",
+          "record_id": "char-0036"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 7,
+      "summary": "军官（递枪者）（第7章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0036/index.json",
+        "record_id": "char-0036"
+      },
+      "title": "军官（递枪者）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0037/index.json",
+          "record_id": "char-0037"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 7,
+      "summary": "美国体育代表团（第7章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "title": "美国体育代表团"
+    }
+  ],
+  "id": "idx-characters",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 38,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 5,
+        "start": 1
+      },
+      {
+        "end": 7,
+        "start": 7
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "人物传记"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0092",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 41,
+  "label": "金蝉子之名将被遗忘",
+  "introduced_at": 41,
+  "updates": [
+    {
+      "id": "update-thread-0092-001",
+      "revealed_at": 41,
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "菩提评金蝉子“痴迷于大道，总说自己未通”，并称其名字“也许这个名字很快就要被人忘记了。若是有缘，将来有一天，你们自会相见”。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

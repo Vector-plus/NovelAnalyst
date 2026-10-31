@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0099",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 45,
+  "label": "小白龙未向唐僧表明自己是谁",
+  "introduced_at": 45,
+  "updates": [
+    {
+      "id": "update-thread-0099-001",
+      "revealed_at": 45,
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "introduction",
+      "summary": "猪八戒以「你又为什么不告诉唐僧你是谁？」反问小白龙，小白龙被打中痛处后掌掴并责问他把不能说的话全说出来；其具体隐瞒的身份内容本章未说明。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

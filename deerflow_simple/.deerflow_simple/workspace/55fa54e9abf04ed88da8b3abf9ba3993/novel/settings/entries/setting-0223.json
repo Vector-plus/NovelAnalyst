@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0223",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 64,
+  "label": "大唐西域（册子）",
+  "category": "other",
+  "introduced_at": 64,
+  "updates": [
+    {
+      "id": "update-setting-0223-001",
+      "revealed_at": 64,
+      "chapter_ranges": [
+        {
+          "start": 64,
+          "end": 64
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2438"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2439"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2440"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

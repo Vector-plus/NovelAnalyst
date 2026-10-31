@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0021",
+  "kind": "entity_index",
+  "revision": 7,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "阿瑶",
+  "introduced_at": 9,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0021/stages/stage-001.md",
+        "record_id": "doc-char-0021-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0021/stages/stage-003.md",
+        "record_id": "doc-char-0021-stage-003"
+      },
+      "kind": "character_stage",
+      "title": "从告状者到被处置者",
+      "summary": "从告状者到被处置者（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "characters/char-0021/stages/stage-004.md",
+        "record_id": "doc-char-0021-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "不肯受「赐」的人：从被救到割腕求雨",
+      "summary": "不肯受「赐」的人：从被救到割腕求雨（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

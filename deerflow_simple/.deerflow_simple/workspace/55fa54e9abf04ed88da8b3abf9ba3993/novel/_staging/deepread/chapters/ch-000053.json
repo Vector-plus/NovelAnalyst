@@ -1,0 +1,634 @@
+{
+  "chapter_order": 53,
+  "chapter_id": "ch-000053",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "老虎阿明求食猴群，石头的「没有选择」与阿明的「可以不做」",
+      "introduced_at": 53,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 53,
+            "end": 53
+          }
+        ],
+        "revealed_at": 53,
+        "status": "completed",
+        "story_time": "某日（入秋之前）",
+        "summary": "一只老虎怯怯走近猴群，问「我可以吃你么」，松鼠问它是否第一次捕食，老虎承认只吃过奶，并说自己不想成为吃人的老虎，但母亲已不在，必须活下去；在场者指出「你吃我们，我们也会死的」。一个声音插话说「有时候你没有选择的」，松鼠转头叫它「石头」，那声音接着说自己幻想一个没有危险、可以不做自己不愿做的事也能快乐生活的地方，但好像没人能做到。老虎阿明想了想说「可以的」「你可以不做自己不想做的事情」，看了在场动物一眼后转身走了。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "阿明"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石头"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "老虎阿明不吃人而活、入秋安静死去",
+      "introduced_at": 53,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 53,
+            "end": 53
+          }
+        ],
+        "revealed_at": 53,
+        "status": "completed",
+        "story_time": "此后直到入秋",
+        "summary": "此后有人看见老虎阿明经常静静趴在草地看蝴蝶，小鸟停在他身上，还有一次帮一只不会游泳的鸭子过了河；大家说他「这不是活得很幸福么」。入秋的日子，阿明看着蝴蝶飞舞安静地死了，小鸟仍停在他身上；大家问「这么幸福的日子为什么要死呢？」",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "阿明"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "某日一只老虎轻轻走过来，怯怯地问「请问我可以吃你么」；松鼠歪头问它是不是第一次出来捕食，其余猴儿早蹿上树，老虎红着脸点头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "请问我可以吃你么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "面对松鼠追问以前吃什么，老虎回答「吃奶」，并说「我不想成为一只吃人的老虎，可是……我妈妈不在了，我必须活下去」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "阿明"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "我不想成为一只吃人的老虎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "在场者回应老虎的请求说「可是你吃我们，我们也会死的」（叙述未标明具体说话者）。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "可是你吃我们，我们也会死的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "老虎说「我真想能像你们一样吃果子」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "阿明"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "我真想能像你们一样吃果子。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "一个声音说「有时候你没有选择的」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "有时候你没有选择的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "松鼠转头惊讶地以「石头」称呼刚才说话的那个声音，表明该声音的发出者是松鼠认识的对象（本章未交代「石头」是谁）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "松鼠转头惊讶地说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "被称作「石头」的声音说，自己也时常幻想有一个没有任何危险、可以不用做自己不愿做的事也能快乐生活的地方，但好像没有人能做到这一点。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "石头"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "但好像没有人能做到这一点。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "老虎阿明想了想说「可以的」「你可以不做自己不想做的事情。我想那可以」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "阿明"
+      },
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "你可以不做自己不想做的事情。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "阿明说完看了在场的动物们一眼，转身走了，众动物追问「他怎么能做到呢？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "他看了在场的动物们一眼，转身走了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "此后的日子里，有人看见阿明经常静静趴在草地看蝴蝶，小鸟停在他身上，还有一次他帮助一只不会游泳的鸭子过了河。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "有一次他还帮助一只不会游泳的鸭子过了河"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "入秋的日子里，阿明看着蝴蝶飞舞，安静地死了；小鸟仍停在他身上，他已不会用尾巴去逗它。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "安静地死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "在场动物评说阿明「他这不是活得很幸福么？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "他这不是活得很幸福么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "阿明死后，在场动物问「这么幸福的日子为什么要死呢？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 53,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000053.txt",
+          "chapter_id": "ch-000053",
+          "chapter_order": 53,
+          "locator": null,
+          "anchor": "这么幸福的日子为什么要死呢？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "阿明",
+      "introduced_at": 53,
+      "alias_texts": [
+        "老虎阿明",
+        "老虎"
+      ],
+      "identity_notes": "本章首次出现的一只老虎，自称第一次出来捕食，只会吃奶；母亲已不在，自述「不想成为一只吃人的老虎」但「必须活下去」。说出「你可以不做自己不想做的事情」后离开，此后看蝴蝶、帮鸭子过河，入秋安静死去。本章未提及其与既有任何角色的关系。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-8",
+        "claim-local-10",
+        "claim-local-11"
+      ]
+    },
+    {
+      "label": "石头",
+      "introduced_at": 53,
+      "alias_texts": [
+        "石头"
+      ],
+      "identity_notes": "本章仅以「一个声音」出现，被松鼠转头惊讶地称为「石头」。发言内容为「有时候你没有选择的」及对无危险、可做想做之事之地的幻想。resolve_name 未命中既有实体；从称呼与活动场景看可能与石猴（char-0067）为同一对象，但本章未明示，暂不合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [],
+  "identity_link_candidates": [
+    {
+      "from_candidate": {
+        "candidate_name": "石头"
+      },
+      "to_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "relation_hint": "疑似同一人物（化名/称呼）",
+      "certainty": "uncertain",
+      "basis": "本章松鼠以「石头」称呼那个插话的声音，且该声音所处场景（花果山、与松鼠对话）与石猴在 stage-005 的活动范围一致；但本章原文未出现「石猴」二字，也没有任何叙述把「石头」等同于石猴。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-5",
+        "claim-local-7"
+      ],
+      "notes": "建议由后续章节（第54章开篇即出现「石头」为主角名）确认后再决定是否合并；本处仅登记候选，不做改写引用。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "石头"
+      },
+      "facet": {
+        "type": "other",
+        "note": "相识/可直接称呼的对话关系"
+      },
+      "certainty": "explicit",
+      "summary": "松鼠听到那句「有时候你没有选择的」后转头惊讶地说出「石头」，即她认得这个声音并直接以名字相称；二者随即就「能否不做自己不想做的事而活」交换看法。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "「石头」是否即石猴（char-0067）见 identity_link_candidates，未确认前不并入既有关系对。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "candidate_name": "阿明"
+      },
+      "facet": {
+        "type": "other",
+        "note": "首次接触/质问式对话"
+      },
+      "certainty": "explicit",
+      "summary": "老虎阿明走近时，松鼠是第一个开口发问的一方（问它是否第一次出来捕食、以前吃什么），随后在场者指出「你吃我们，我们也会死的」；阿明没有攻击任何在场者。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-9"
+      ],
+      "notes": "本章未出现二者之间的持续关系，仅为一次场景性互动。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "阿明"
+      },
+      "subject_b": {
+        "candidate_name": "石头"
+      },
+      "facet": {
+        "type": "other",
+        "note": "对同一问题的相反回答"
+      },
+      "certainty": "undetermined",
+      "summary": "石头认为「有时候你没有选择的」，也认为「没有任何危险、不用做不愿做的事」的地方好像没人能做到；阿明则回应「可以的」，主张可以不做自己不想做的事，并在之后的日子里实际这样生活。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-10"
+      ],
+      "notes": "阿明的回应指向「石头」发言所代表的看法，但原文未明确点出听完者是谁，关系定性保持 undetermined。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_title": "花果山众生对「活着、做不想做的事、与死亡」的追问",
+      "category": "theme_question",
+      "status": "ongoing",
+      "role": "advance",
+      "summary": "本章把前几章的众生之问推进到「能否不做自己不愿做的事而活」：石头认为没人能做到，老虎阿明说「可以的」并以不食人、看蝴蝶、帮鸭子过河的方式活到入秋安静死去；在场动物由此抛出「这么幸福的日子为什么要死呢」的新一问。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "该追问线在 stage-005（第50~55章）内持续推进。"
+    },
+    {
+      "thread_title": "石猴在花果山被称作「石头」",
+      "category": "identity_hint",
+      "status": "open",
+      "role": "advance",
+      "summary": "本章新增一处称呼证据：松鼠以「石头」称呼那个插话的声音，本章原文未出现「石猴」字样，身份同一性尚未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-6"
+      ],
+      "notes": "第54章开篇以「石头」为主语展开，可作为下一章衔接核对点。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第53章：老虎阿明的幸福与死亡",
+    "front_matter": {
+      "as_of": 53,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "candidate_name": "阿明"
+        },
+        {
+          "candidate_name": "石头"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-11",
+        "claim-local-13"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n某日，一只老虎轻轻走到猴群前，怯怯地问「请问我可以吃你么」。其余猴儿早蹿上树，松鼠歪头问它是不是第一次出来捕食，老虎红着脸点头，并承认以前只「吃奶」（[[claim-local-1]]）。它自述母亲已不在、必须活下去，却「不想成为一只吃人的老虎」；在场者回应「你吃我们，我们也会死的」，老虎说真想像它们一样吃果子。（[[ev-local-1]]）\n\n## 关键行动\n\n- 一个声音插话「有时候你没有选择的」，松鼠转头惊讶地叫出「石头」（[[claim-local-6]]）。这个声音接着说，自己常幻想一个没有危险、可以不做不愿做的事也能快乐生活的地方，但好像没有人能做到。\n- 老虎阿明想了想，给出相反的回答：说「可以的」「你可以不做自己不想做的事情。我想那可以」（[[claim-local-8]]），随后看了在场动物一眼，转身走了。众动物追问「他怎么能做到呢？」\n- 此后有人看见阿明经常静静趴在草地看蝴蝶，小鸟停在它身上，有一次它还帮一只不会游泳的鸭子过河；大家于是说他「这不是活得很幸福么」。\n\n## 转折与新信息\n\n1. 本章首次出现「不做自己不想做的事也能活」的正反两种判断：石头认为「好像没有人能做到这一点」，阿明则断言「我想那可以」——且它随即用行动验证（[[ev-local-2]]）。\n2. 叙述首次给出一只动物的名字「阿明」，出场即带着「母亲不在了、必须活下去」的处境。\n3. 松鼠对那个声音以「石头」相称，是本章新增的一处称呼证据；本章原文没有出现「石猴」字样，「石头」的身份未在章内明示。（[[claim-local-6]]）\n\n## 本章结果\n\n入秋的日子里，阿明看着蝴蝶飞舞安静地死了，小鸟仍停在它身上，它已经不会用尾巴去逗它（[[claim-local-11]]）。在场动物的反应不是哀悼，而是疑问：「他这不是活得很幸福么？」「这么幸福的日子为什么要死呢？」（[[claim-local-13]]）——本章因此以一个未获回答的死亡问题收束。\n\n## 未决问题与补读入口\n\n- 「石头」是谁：本章仅有松鼠的一句称呼，resolve_name 无命中；是否即石猴（char-0067），需下一章或后文明确。已登记为身份链接候选。\n- 阿明所说「你可以不做自己不想做的事情」究竟是对谁说的、是否被听者接受：原文未点明。\n- 「幸福的日子为什么要死」这一问在本章无回应，第54章起叙述转向「石头」的沉默与游荡，可作为衔接核对点。\n- 文本状况：本章标题字段仅为「．」，且「趴在草地上看蝴蝶」一段存在乱码字符，引用时以现有文本为准。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "why": "stage-005 主题线（众生之问）的关键场景：正反两种活法主张首次同时出现",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      }
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "why": "阿明以「不做不想做的事」的方式活到入秋死亡，构成对前一场景的实践回应",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      }
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-6",
+      "why": "松鼠以「石头」称呼某声音，是判断「石头」与石猴是否同一人的新增称呼证据",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      }
+    },
+    {
+      "kind": "character_turning_point",
+      "ref_or_local_id": "claim-local-8",
+      "why": "阿明主张「你可以不做自己不想做的事情」，是该角色在本章的唯一立场表达",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      }
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-13",
+      "why": "「这么幸福的日子为什么要死呢」为 stage-005 生死追问线的悬置问句",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      }
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "「石头」被松鼠称呼，但本章未说明其身份，且原文未出现「石猴」二字；resolve_name(\"石头\") 返回 no_match。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6"
+      ],
+      "suggested_action": "结合第54章开篇「石头」为主语的情节确认后再决定是否与 char-0067 合并。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章标题字段为「．」，疑为原文占位或抓取异常，无法作为标题证据使用。",
+      "suggested_action": "核对 source-v1 原始文件；本提取的标题按内容自拟，不引用原标题目录字段。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "正文「有人看见老虎阿明经常静静趴在草地上看蝴蝶」一段夹有乱码字符（如「看蝴蝶\">�上看�」），影响该句精确锚点。",
+      "evidence_claim_local_ids": [
+        "claim-local-10"
+      ],
+      "suggested_action": "该句锚点改取无乱码片段「有一次他还帮助一只不会游泳的鸭子过了河」；建议回溯原文校对。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "阿明回应「你可以不做自己不想做的事情」时，原文未标明其回应对象是哪一位在场者。",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ],
+      "suggested_action": "后续章节若复述此场景可补全；当前关系定性保持 undetermined。"
+    }
+  ],
+  "warnings": [
+    "原文标题为「．」，无法作为章节标题证据；摘要标题系依正文自拟。",
+    "本章「石头」与既有实体 char-0067（石猴）的同一性未明示，仅登记 identity_link_candidates，未改写任何引用。",
+    "正文含一处乱码（看蝴蝶一句），相关 claim 的锚点已避开乱码片段。",
+    "「在场者」「大家」等说话主体在原文中未具名，相关 claim 的 attributed_to 留空，certainty 记为 reported。"
+  ]
+}

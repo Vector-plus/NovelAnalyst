@@ -1,0 +1,973 @@
+{
+  "chapter_order": 16,
+  "chapter_id": "ch-000016",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "如来忽睁眼惊呼「是他。他又回来了。」",
+      "introduced_at": 16,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 16,
+            "end": 16
+          }
+        ],
+        "revealed_at": 16,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "西方无极世界的如来忽然睁眼惊呼「不好」，观音上前询问缘故，如来称「是他。他又回来了。」当章未交代「他」所指为谁。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-l1",
+          "claim-l2"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-l1"
+        ],
+        "action_claim_local_ids": [
+          "claim-l1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-l2"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "寺院僧众论佛，玄淇辱及玄奘身世，玄奘问天落泪",
+      "introduced_at": 16,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 16,
+            "end": 16
+          }
+        ],
+        "revealed_at": 16,
+        "status": "closed",
+        "story_time": null,
+        "summary": "僧人玄生、玄淇与众僧在树下以「庭前大树」「院中古井」喻佛，众僧称妙。玄淇问玄奘看法，玄奘称要砍树填井、斥「佛在心中，你说它作甚？不如放屁」。玄淇大骂其为业畜、玷辱佛法，并说他被佛祖「江上飘来，姓名也不知，父母也不识」，玄奘脸色大変如纸白；众人散去后玄奘独自问天「何人生我？生我又为何？」，落泪。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0058/index.json",
+              "record_id": "char-0058"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0056/index.json",
+              "record_id": "char-0056"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-l8",
+          "claim-l9",
+          "claim-l10",
+          "claim-l11",
+          "claim-l12",
+          "claim-l13",
+          "claim-l14"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-l8"
+        ],
+        "action_claim_local_ids": [
+          "claim-l9",
+          "claim-l10",
+          "claim-l11",
+          "claim-l12"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-l13",
+          "claim-l14"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "玄奘收拾行装辞别法明，捧金色鲤鱼离寺远行",
+      "introduced_at": 16,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 16,
+            "end": 16
+          }
+        ],
+        "revealed_at": 16,
+        "status": "closed",
+        "story_time": null,
+        "summary": "玄奘回屋收拾行装打了一个包袱，到水缸边对小白龙说「走吧，我送你回家」。他向法明辞行，问众生爱痴从何而来、人来尘世为的是什么；法明称说不明白，唱偈相送。玄奘再拜三次，捧着装金色鲤鱼的钵盂离去，叙述者称「一次伟大的远行，就此拉开序幕」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0054/index.json",
+              "record_id": "char-0054"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "recipient"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-l15",
+          "claim-l16",
+          "claim-l17",
+          "claim-l18",
+          "claim-l19",
+          "claim-l20",
+          "claim-l21",
+          "claim-l22",
+          "claim-l23",
+          "claim-l24"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-l16"
+        ],
+        "action_claim_local_ids": [
+          "claim-l17",
+          "claim-l21",
+          "claim-l23"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-l22",
+          "claim-l24"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "玄奘在寺中日渐孤寂沉默",
+      "introduced_at": 16,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 16,
+            "end": 16
+          }
+        ],
+        "revealed_at": 16,
+        "status": "closed",
+        "story_time": null,
+        "summary": "自与天杨一战并拒绝法明授业后，寺内僧人见玄奘都怪怪地笑，法明不再理他、讲经也不再叫他。玄奘独自扫落叶并把枯叶放回树根旁，或躺地看天一个多时辰，夜里在杂物破屋点油灯写东西，越来越沉默，不再提送小白龙回家的事。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0054/index.json",
+              "record_id": "char-0054"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-l3",
+          "claim-l4",
+          "claim-l5",
+          "claim-l6",
+          "claim-l7"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-l5"
+        ],
+        "action_claim_local_ids": [
+          "claim-l5",
+          "claim-l6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-l7"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-l1",
+      "text": "西方无极世界的如来忽然睁眼惊呼，观音忙上前询问缘故。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "观音忙凑上前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l2",
+      "text": "如来称「是他。他又回来了。」（当章未交代「他」指谁）",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "是他。他又回来了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l3",
+      "text": "玄奘回到小屋，缸中的鱼还在；他笑着对小白龙说地上这样湿定是她又淘气。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "定是你又淘气"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l4",
+      "text": "小白龙摆摆尾巴笑了，她发现自己竟甘愿做一条鱼，只要能留在玄奘身边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "她发现她竟甘愿做一条鱼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l5",
+      "text": "自玄奘与天杨一战、又拒绝法明的授业之后，寺内僧人见了他都怪怪地笑笑，法明也不再理他，讲经也再无人叫他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "他在寺院内好像越来越孤独了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l6",
+      "text": "玄奘独自在空旷广场扫落叶，把每一片枯叶又放回树根旁；或一个人躺在地上看天一个多时辰。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "把每一片枯叶又放回树根旁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l7",
+      "text": "玄奘夜里回到一个人住的杂物破屋，点微弱油灯写着什么，越来越沉默、越来越少说话，不再扫落叶也不再看天；小白龙不知他在想什么，越发不能了解他的内心，发誓要弄明白；玄奘也不再提送她回家的事。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "反而越来越不能了解他的内心"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l8",
+      "text": "僧人玄生、玄淇与众僧在树下谈论佛理，玄生以庭前大树「千枝万叶，不离其根」喻佛，玄淇以院中古井「时时照之，自省我心」喻佛，四周众僧称二人所言妙极。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "一个叫玄生的说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l9",
+      "text": "玄淇叫住独坐不理不睬的玄奘，问他对自己二人所言以为如何。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0056/index.json",
+        "record_id": "char-0056"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "玄奘，我们所言，你以为如何呀？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l10",
+      "text": "玄奘笑答：若是我，便砍了那树，填了那井，让你们死了这心。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "便砍了那树，填了那井"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l11",
+      "text": "玄奘反问「若是真得奥义，何来树与井？」，并说「佛在心中，你说它作甚？不如放屁！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "不如放屁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l12",
+      "text": "玄淇大怒骂玄奘「你这业畜！口出混言，玷辱佛法！」，并说怪不得佛祖要让他江上飘来、姓名也不知、父母也不识。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0056/index.json",
+        "record_id": "char-0056"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "姓名也不知，父母也不识"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l13",
+      "text": "此言一出，玄奘脸色大变如纸一般白；玄淇自知失言，众人见势皆散，广场上只剩玄奘一人。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "竟如纸一般白"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l14",
+      "text": "玄奘独自喃喃「何人……何人生我？生我又为何？既带我来，又不指我路」，又抬头高声问天，苍天默默，一滴泪滑落嘴边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "何人生我？生我又为何？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l15",
+      "text": "玄奘回到小屋，小白龙正在屋里偷翻他的书卷，见他进来忙一转身化成水缸中的鲤鱼。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "忙一转身化成水缸中的鲤鱼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l16",
+      "text": "玄奘在屋中愣了半晌，忽然开始收拾东西，打了一个包袱，又来到水缸边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "打了一个包袱"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l17",
+      "text": "玄奘对小白龙说「走吧，我送你回家。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "走吧，我送你回家"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l18",
+      "text": "玄奘要离寺，法明也无法阻他，只叹称：玄奘天生孤苦，以后要将佛祖长挂心头，以求时时保佑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "你天生孤苦"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l19",
+      "text": "玄奘问法明：天下万物皆来于空，可这众生爱痴从何处来；万物终归于空，那人来到尘世浮沉为的又是什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "众生爱痴，从何处来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l20",
+      "text": "法明答称：若能说得明白，也就不用他这多年苦修了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "就不用为师这多年苦修了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l21",
+      "text": "玄奘向法明告辞，称弟子要去走一段长路；法明称明白他的心思，让他多保重。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "弟子要去走一段长路"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l22",
+      "text": "法明唱偈一首：「道法法不可道，问心心无可问，悟者便成天地，空来自在其中。」玄奘称「弟子谨记在心」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "道法法不可道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l23",
+      "text": "玄奘向法明长老再拜三次，起身捧着装着金色鲤鱼的钵盂，转头而去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "捧着装着金色鲤鱼的钵盂"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-l24",
+      "text": "叙述者以「一次伟大的远行，就此拉开序幕」概述本章结尾。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 16,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000016.txt",
+          "chapter_id": "ch-000016",
+          "chapter_order": 16,
+          "locator": null,
+          "anchor": "一次伟大的远行，就此拉开序幕"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "西方无极世界",
+      "category": "location",
+      "introduced_at": 16,
+      "notes": "叙述者称如来所在的「西方无极世界」；可能与前文既有佛界场景档案重复，写入方需合并而非新建。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-l1"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other",
+        "note": "同行/相处事实"
+      },
+      "certainty": "explicit",
+      "summary": "玄奘与化鱼的小白龙同处一室：他笑着戏说她弄湿地面；小白龙发现自己甘愿做鱼留在他身边；玄奘离寺时打点行装，称要送她回家，并以钵盂盛装金色鲤鱼带走。",
+      "source_claim_local_ids": [
+        "claim-l3",
+        "claim-l4",
+        "claim-l7",
+        "claim-l15",
+        "claim-l17",
+        "claim-l23"
+      ],
+      "notes": "仅记录互动事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "师徒（法明为师）"
+      },
+      "certainty": "explicit",
+      "summary": "法明为玄奘之师；玄奘与天杨一战并拒绝法明授业后，法明不再理他也不叫他听讲经；玄奘要离寺时法明无法阻拦，叹其天生孤苦须将佛祖长挂心头，并唱偈送别。",
+      "source_claim_local_ids": [
+        "claim-l5",
+        "claim-l18",
+        "claim-l19",
+        "claim-l20",
+        "claim-l21",
+        "claim-l22"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "subject_b": {
+        "path": "characters/char-0056/index.json",
+        "record_id": "char-0056"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "言语冲突"
+      },
+      "certainty": "explicit",
+      "summary": "玄淇向玄奘问佛理见解，被玄奘讥为「不如放屁」后大怒，骂其业畜、玷辱佛法，并以其江上飘来、姓名不知、父母不识的身世相讥，玄奘脸色大变如纸白，玄淇自知失言。",
+      "source_claim_local_ids": [
+        "claim-l9",
+        "claim-l10",
+        "claim-l11",
+        "claim-l12",
+        "claim-l13"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "local_id": "thread-local-1",
+      "title": "玄奘身世之谜（江上飘来·姓名不知·父母不识）",
+      "category": "mystery",
+      "status": "open",
+      "role": "escalation",
+      "summary": "玄淇失言提及玄奘「江上飘来，姓名也不知，父母也不识」，直接触发玄奘问天「何人生我？生我又为何？」并落泪；身世来源仍无解释。",
+      "source_claim_local_ids": [
+        "claim-l12",
+        "claim-l13",
+        "claim-l14"
+      ],
+      "chapter_order": 16
+    },
+    {
+      "local_id": "thread-local-2",
+      "title": "如来察觉「他又回来了」",
+      "category": "plot",
+      "status": "open",
+      "role": "setup",
+      "summary": "如来在西方无极世界忽睁眼惊呼，称「是他。他又回来了。」「他」所指当章未明示。",
+      "source_claim_local_ids": [
+        "claim-l1",
+        "claim-l2"
+      ],
+      "chapter_order": 16
+    },
+    {
+      "local_id": "thread-local-3",
+      "title": "玄奘离寺远行、送小白龙回家",
+      "category": "journey",
+      "status": "open",
+      "role": "setup",
+      "summary": "玄奘打点行装辞别法明，捧金色鲤鱼（小白龙）离寺，叙述者称「一次伟大的远行，就此拉开序幕」；目的地与结果未明。",
+      "source_claim_local_ids": [
+        "claim-l16",
+        "claim-l17",
+        "claim-l21",
+        "claim-l23",
+        "claim-l24"
+      ],
+      "chapter_order": 16
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第16章：玄奘辞寺远行（原文标题为「．」）",
+    "front_matter": {
+      "as_of": 16,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "path": "characters/char-0054/index.json",
+          "record_id": "char-0054"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0056/index.json",
+          "record_id": "char-0056"
+        },
+        {
+          "path": "characters/char-0058/index.json",
+          "record_id": "char-0058"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-l2",
+        "claim-l5",
+        "claim-l12",
+        "claim-l14",
+        "claim-l17",
+        "claim-l21",
+        "claim-l22",
+        "claim-l23",
+        "claim-l24"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n西方无极世界中，如来忽然睁眼惊呼「不好」，观音上前询问，如来只道「是他。他又回来了。」（[[claim-l2]]，[[ev-local-1]]）\n\n寺院一侧，玄奘已回到小屋，缸里那条鱼还在。自与天杨一战、又拒绝法明授业之后，他在寺中愈发孤立：僧人见他都怪怪地笑，法明不再理他，讲经也不再叫他（[[claim-l5]]，[[ev-local-4]]）。他独自扫落叶、把枯叶放回树根旁，或躺地看天一个多时辰，夜里在杂物破屋点灯写东西，越来越沉默，也不再提送小白龙回家的事。\n\n## 关键行动\n\n树下，僧人玄生、玄淇与众僧论佛，各以「庭前大树」「院中古井」为喻，众僧称妙。玄淇转而问玄奘看法，玄奘答若他便砍树填井、让你们死了这心，进而反问「若是真得奥义，何来树与井？」，并斥「佛在心中，你说它作甚？不如放屁！」（[[ev-local-2]]）\n\n玄淇大怒，骂其业畜、玷辱佛法，并说出玄奘「江上飘来，姓名也不知，父母也不识」（[[claim-l12]]）。玄奘脸色大变如纸白，众人散去；他独自在广场问天「何人生我？生我又为何？」，一滴泪滑落（[[claim-l14]]）。\n\n## 转折与新信息\n\n- 玄淇的失言直接触到玄奘的身世之痛，玄奘由此从「不理不睬」转为公开质问天意（[[claim-l12]]，[[claim-l14]]）。\n- 玄奘回屋后愣了半晌，忽然收拾东西打了一个包袱，到水缸边说「走吧，我送你回家」（[[claim-l17]]）——他决定离寺。\n- 小白龙此前偷翻他的书卷，见他来忙化成缸中鲤鱼；她曾发现自己竟甘愿做一条鱼留在玄奘身边。\n- 如来方面的插叙仍无解释：「他」是谁当章未明示。\n\n## 本章结果\n\n法明无法阻拦玄奘离寺，只叹他天生孤苦、要将佛祖长挂心头以求保佑。玄奘问「众生爱痴从何处来」，法明答若能说明白就不用他多年苦修，随后唱偈「道法法不可道，问心心无可问，悟者便成天地，空来自在其中」相送（[[claim-l21]]，[[claim-l22]]）。玄奘再拜三次，捧着装金色鲤鱼的钵盂离去（[[claim-l23]]）。叙述者称「一次伟大的远行，就此拉开序幕」（[[claim-l24]]，[[ev-local-3]]）。\n\n## 未决问题与补读入口\n\n1. 如来所说「他」指谁？当章仅有一句惊呼，需在后文（尤其涉及如来、观音的段落）核对。\n2. 玄奘的身世来源（江上飘来、姓名不知、父母不识）仍无解释，仅由玄淇之口说出，属角色陈述。\n3. 玄奘所谓「送她回家」的目的地在哪、能否达成，本章未交代。\n4. 玄奘与天杨一战、拒绝法明授业的具体过程属前章回述，需回读第15章核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "record_id": "ev-local-3",
+      "kind": "event",
+      "chapter_order": 16,
+      "note": "玄奘正式离寺远行，携化金色鲤鱼的小白龙；本章为全书远行起点标记"
+    },
+    {
+      "record_id": "claim-l2",
+      "kind": "claim",
+      "chapter_order": 16,
+      "note": "如来「是他。他又回来了。」——高悬念钩子，指代未明"
+    },
+    {
+      "record_id": "claim-l12",
+      "kind": "claim",
+      "chapter_order": 16,
+      "note": "玄奘身世关键陈述（江上飘来、姓名不知、父母不识），由玄淇说出"
+    },
+    {
+      "record_id": "claim-l23",
+      "kind": "claim",
+      "chapter_order": 16,
+      "note": "小白龙本体为金色鲤鱼、被玄奘以钵盂带走"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "description": "如来所言「他。他又回来了」中的「他」指代不明，当章未给出任何明示或旁证，未做任何身份合并。",
+      "chapter_order": 16,
+      "source_claim_local_ids": [
+        "claim-l2"
+      ],
+      "anchors": [
+        "是他。他又回来了。"
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "description": "本章开头为西方无极世界的插叙，与寺院场景无过渡衔接；开场一句「那西方无极世界如来忽睁眼惊呼」未说明与玄奘离寺在时间上的先后关系。",
+      "chapter_order": 16,
+      "source_claim_local_ids": [
+        "claim-l1"
+      ],
+      "anchors": [
+        "观音忙凑上前"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章原文标题为「．」（异常占位），摘要标题按内容自拟为「玄奘辞寺远行」。",
+    "「西方无极世界」已登记为新 setting 候选，但很可能与前文佛界场景档案重复，写入方应优先合并。",
+    "玄奘拒绝法明授业、与天杨一战等内容均属本章叙述者回述（提及），其具体情节未在本章展开，故不新建对应事件。",
+    "小白龙与玄奘的相处仅以互动事实记录，未作任何感情定性。"
+  ]
+}

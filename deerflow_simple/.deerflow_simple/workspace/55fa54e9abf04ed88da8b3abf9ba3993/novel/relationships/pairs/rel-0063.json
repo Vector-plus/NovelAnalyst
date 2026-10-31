@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0063",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 53,
+  "introduced_at": 53,
+  "subjects": [
+    {
+      "path": "characters/char-0137/index.json",
+      "record_id": "char-0137"
+    },
+    {
+      "path": "characters/char-0144/index.json",
+      "record_id": "char-0144"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0063-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "as_of": 53,
+      "revealed_at": 53,
+      "summary": "石头认为「有时候你没有选择的」，也认为「没有任何危险、不用做不愿做的事」的地方好像没人能做到；阿明则回应「可以的」，主张可以不做自己不想做的事，并在之后的日子里实际这样生活。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "石头认为「有时候你没有选择的」，也认为「没有任何危险、不用做不愿做的事」的地方好像没人能做到；阿明则回应「可以的」，主张可以不做自己不想做的事，并在之后的日子里实际这样生活。",
+          "basis_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2144"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2146"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2147"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2149"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

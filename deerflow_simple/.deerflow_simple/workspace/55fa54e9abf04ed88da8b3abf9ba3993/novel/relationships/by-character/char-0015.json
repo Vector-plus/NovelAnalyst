@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0015",
+  "kind": "index",
+  "revision": 7,
+  "safe_through": 49,
+  "title": "天蓬 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 7,
+        "end": 7
+      },
+      {
+        "start": 9,
+        "end": 10
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0013.json",
+        "record_id": "rel-0013"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "与天蓬×月的关系",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0016.json",
+        "record_id": "rel-0016"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月女神",
+      "summary": "与天蓬×月女神的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0034.json",
+        "record_id": "rel-0034"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "与天蓬×月的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0043.json",
+        "record_id": "rel-0043"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×天蓬",
+      "summary": "与孙悟空×天蓬的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0044.json",
+        "record_id": "rel-0044"
+      },
+      "kind": "relationship",
+      "title": "天蓬×阿月",
+      "summary": "与天蓬×阿月的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0057.json",
+        "record_id": "rel-0057"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "与天蓬×月的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

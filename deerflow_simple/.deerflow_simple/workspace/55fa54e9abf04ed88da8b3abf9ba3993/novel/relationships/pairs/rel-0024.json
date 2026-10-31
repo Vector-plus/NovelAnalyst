@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0024",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 11,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0027/index.json",
+      "record_id": "char-0027"
+    },
+    {
+      "path": "characters/char-0029/index.json",
+      "record_id": "char-0029"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0024-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "as_of": 11,
+      "revealed_at": 11,
+      "summary": "判官称幽冥王为“大王”并当面恭维其“一瞪眼就吓退了齐天大圣”，二者同属地府一方、共同庆幸与讥笑孙悟空。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "membership",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "判官称幽冥王为“大王”并当面恭维其“一瞪眼就吓退了齐天大圣”，二者同属地府一方、共同庆幸与讥笑孙悟空。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0227"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0228"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0230"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

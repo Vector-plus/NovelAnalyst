@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0050",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 13,
+  "entity_type": "character",
+  "label": "海中的鱼群",
+  "introduced_at": 13,
+  "identity_notes": [
+    {
+      "id": "in-char-0050-001",
+      "revealed_at": 13,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0543"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0544"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0545"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

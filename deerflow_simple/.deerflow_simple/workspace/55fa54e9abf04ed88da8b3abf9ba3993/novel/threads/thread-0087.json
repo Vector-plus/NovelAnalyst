@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0087",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 40,
+  "label": "假悟空的身份与来历未明",
+  "introduced_at": 40,
+  "updates": [
+    {
+      "id": "update-thread-0087-001",
+      "revealed_at": 40,
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空在天宫与假悟空相斗后脱离，本章只以回想方式提到假悟空已不在眼前，其身份本章无任何新信息。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1833"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1834"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

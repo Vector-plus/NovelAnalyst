@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0113",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "须菩提",
+  "introduced_at": 40,
+  "identity_notes": [
+    {
+      "id": "in-char-0113-001",
+      "revealed_at": 40,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1850"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1851"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1853"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0113/stages/stage-004.md",
+        "record_id": "doc-char-0113-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "赐名者与「历史不是这样的」",
+      "summary": "赐名者与「历史不是这样的」（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0113/index.json",
+          "record_id": "char-0113"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

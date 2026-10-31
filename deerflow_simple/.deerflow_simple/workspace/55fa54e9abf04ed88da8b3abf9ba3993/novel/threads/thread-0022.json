@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0022",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 19,
+  "label": "孙悟空师承之谜与「凡世真师父」",
+  "introduced_at": 19,
+  "updates": [
+    {
+      "id": "update-thread-0022-001",
+      "revealed_at": 19,
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "紫霞列出三界可能教出悟空的人选（如来、金蝉子、菩提祖师），推断其师为菩提祖师；悟空沉默后只否认其理由，并转述师父之言：他要学的「永不遁灭之道」未得传授，真师父在凡世等他去找。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0680"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0681"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0682"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0683"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0684"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0685"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

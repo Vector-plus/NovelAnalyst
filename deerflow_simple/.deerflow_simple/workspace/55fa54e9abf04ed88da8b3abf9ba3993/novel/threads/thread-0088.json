@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0088",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 41,
+  "label": "孙悟空之名与来历之谜",
+  "introduced_at": 41,
+  "updates": [
+    {
+      "id": "update-thread-0088-001",
+      "revealed_at": 41,
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "category": "mystery",
+      "status": "developing",
+      "role": "updates_existing_thread",
+      "summary": "章内呈现“孙悟空”之名由菩提依金蝉子所诵之语赐给石生的猴子，且齐天大圣孙悟空闻此名后身形融化消失；名字来源与“我从何而生”的追问同时被提出而未解答。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0200",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 56,
+  "label": "路上的民舍",
+  "category": "other",
+  "introduced_at": 56,
+  "updates": [
+    {
+      "id": "update-setting-0200-001",
+      "revealed_at": 56,
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 56
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2182"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2183"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2184"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

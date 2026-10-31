@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0057",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "猪八戒与“阿瑶”的前世记忆",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0057-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "character_arc",
+      "status": "open",
+      "role": "raise",
+      "summary": "猪八戒主动唤出“阿瑶”旧名，自称与她一样不肯忘记前世而宁愿承受痛苦；对方反问其如何得知自己以前的名字。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

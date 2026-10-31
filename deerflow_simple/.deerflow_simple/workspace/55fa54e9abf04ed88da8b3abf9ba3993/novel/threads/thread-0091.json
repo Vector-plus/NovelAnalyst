@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0091",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 41,
+  "label": "须菩提“历史不是这样的”",
+  "introduced_at": 41,
+  "updates": [
+    {
+      "id": "update-thread-0091-001",
+      "revealed_at": 41,
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "草裙猴自称踢门而入，菩提心中暗想“不对啊？历史不是这样的”，章末又叹“我终不能改变那个开始，何不忘了那个结局呢”，暗示其对既定进程的预知与改变企图。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

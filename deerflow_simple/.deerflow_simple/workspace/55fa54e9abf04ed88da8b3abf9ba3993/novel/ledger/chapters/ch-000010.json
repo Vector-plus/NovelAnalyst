@@ -1,0 +1,56 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000010",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000010",
+    "chapter_order": 10
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1195",
+    "claim-1196",
+    "claim-1197",
+    "claim-1198",
+    "claim-1199",
+    "claim-1200",
+    "claim-1201",
+    "claim-1202",
+    "claim-1203",
+    "claim-1204",
+    "claim-1205",
+    "claim-1206",
+    "claim-1207",
+    "ev-0148",
+    "ev-0149"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第10章精读完成",
+    "record_ids": [
+      "claim-1195",
+      "claim-1196",
+      "claim-1197",
+      "claim-1198",
+      "claim-1199",
+      "claim-1200",
+      "claim-1201",
+      "claim-1202",
+      "claim-1203",
+      "claim-1204",
+      "claim-1205",
+      "claim-1206",
+      "claim-1207",
+      "ev-0148",
+      "ev-0149"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

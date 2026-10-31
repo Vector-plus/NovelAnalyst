@@ -1,0 +1,101 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第1—20章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0001.json",
+        "record_id": "chapters-block-0001"
+      },
+      "title": "章节 1—20"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 21
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第21—40章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0002.json",
+        "record_id": "chapters-block-0002"
+      },
+      "title": "章节 21—40"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 41
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第41—60章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0003.json",
+        "record_id": "chapters-block-0003"
+      },
+      "title": "章节 41—60"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 61
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第61—69章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0004.json",
+        "record_id": "chapters-block-0004"
+      },
+      "title": "章节 61—69"
+    }
+  ],
+  "id": "idx-chapters",
+  "kind": "index",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 69,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "章节导航"
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0031",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 10,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0003/index.json",
+      "record_id": "char-0003"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0031-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "师兄弟（摩擦与共处）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "口角与摩擦；第 1 章因索食争执、第 8 章互骂",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "情绪依赖与恐惧；师父死后笑中流泪、提分行李；被骂后崩溃痛哭",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0021",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 10,
+  "introduced_at": 10,
+  "subjects": [
+    {
+      "path": "characters/char-0003/index.json",
+      "record_id": "char-0003"
+    },
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0021-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "猪八戒在密林中主动呼唤阿瑶并问她“还好么”，自称与她一样不肯忘记前世而宁愿承受痛苦；阿瑶反问他是谁、怎么知道她以前的名字。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "猪八戒在密林中主动呼唤阿瑶并问她“还好么”，自称与她一样不肯忘记前世而宁愿承受痛苦；阿瑶反问他是谁、怎么知道她以前的名字。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0203"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0204"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0205"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0206"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

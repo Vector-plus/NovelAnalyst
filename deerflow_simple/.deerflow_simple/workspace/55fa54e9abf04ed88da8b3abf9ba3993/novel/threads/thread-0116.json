@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0116",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 63,
+  "label": "齐天大圣大旗的归属",
+  "introduced_at": 63,
+  "updates": [
+    {
+      "id": "update-thread-0116-001",
+      "revealed_at": 63,
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "category": "item",
+      "status": "closed",
+      "role": "subject",
+      "summary": "大旗原立于极光发源处黑色大地的旗杆上；牛魔王对旗立誓不辱此旗；章末被孙悟空丢给大鹏王，大鹏王持旗自称天下妖魔之王。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2401"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2415"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2426"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2427"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

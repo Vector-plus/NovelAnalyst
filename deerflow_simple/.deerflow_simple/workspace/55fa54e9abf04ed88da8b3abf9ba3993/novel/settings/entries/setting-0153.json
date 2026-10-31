@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0153",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 32,
+  "label": "凡间小山村（天蓬坠落所见）",
+  "category": "other",
+  "introduced_at": 32,
+  "updates": [
+    {
+      "id": "update-setting-0153-001",
+      "revealed_at": 32,
+      "chapter_ranges": [
+        {
+          "start": 32,
+          "end": 32
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1684"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0062",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 16,
+  "label": "玄奘身世之谜（江上飘来·姓名不知·父母不识）",
+  "introduced_at": 16,
+  "updates": [
+    {
+      "id": "update-thread-0062-001",
+      "revealed_at": 16,
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "escalation",
+      "summary": "玄淇失言提及玄奘「江上飘来，姓名也不知，父母也不识」，直接触发玄奘问天「何人生我？生我又为何？」并落泪；身世来源仍无解释。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1336"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1337"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1338"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

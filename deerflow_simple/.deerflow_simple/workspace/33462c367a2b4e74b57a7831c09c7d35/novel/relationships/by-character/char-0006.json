@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0006/index.json",
+          "record_id": "char-0006"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "与穆拉德×伊西娅的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0003.json",
+        "record_id": "rel-0003"
+      },
+      "title": "穆拉德×伊西娅"
+    }
+  ],
+  "id": "idx-rel-char-0006",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 2,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 1,
+        "start": 1
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0006/index.json",
+        "record_id": "char-0006"
+      }
+    ]
+  },
+  "title": "char-0006 关系入口"
+}

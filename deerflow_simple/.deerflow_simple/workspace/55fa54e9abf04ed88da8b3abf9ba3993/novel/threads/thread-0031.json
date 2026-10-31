@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0031",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 25,
+  "label": "蟠桃会小桃风波与阿瑶被罚",
+  "introduced_at": 25,
+  "updates": [
+    {
+      "id": "update-thread-0031-001",
+      "revealed_at": 25,
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "category": "plot_thread",
+      "status": "ongoing",
+      "role": "develop",
+      "summary": "王母因桃子太小当殿责罚阿瑶并下令打下凡尘/喂狗，阿瑶被拖出殿外，最终处置未交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0790"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0793"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0798"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0807"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

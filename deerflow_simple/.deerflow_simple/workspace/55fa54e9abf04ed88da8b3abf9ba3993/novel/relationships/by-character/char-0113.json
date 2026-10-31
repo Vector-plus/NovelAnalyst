@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0113",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 40,
+  "title": "须菩提 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 40,
+        "end": 40
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0055.json",
+        "record_id": "rel-0055"
+      },
+      "kind": "relationship",
+      "title": "松鼠×须菩提",
+      "summary": "与松鼠×须菩提的关系",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0113/index.json",
+          "record_id": "char-0113"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 40
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "issue_collection",
+      "safe_through": 0,
+      "summary": "第1—20章问题分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/issues/block-0001.json",
+        "record_id": "issues-block-0001"
+      },
+      "title": "问题 1—20"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 21
+        }
+      ],
+      "entity_refs": [],
+      "kind": "issue_collection",
+      "safe_through": 0,
+      "summary": "第21—40章问题分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/issues/block-0002.json",
+        "record_id": "issues-block-0002"
+      },
+      "title": "问题 21—40"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 41
+        }
+      ],
+      "entity_refs": [],
+      "kind": "issue_collection",
+      "safe_through": 0,
+      "summary": "第41—60章问题分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/issues/block-0003.json",
+        "record_id": "issues-block-0003"
+      },
+      "title": "问题 41—60"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 61
+        }
+      ],
+      "entity_refs": [],
+      "kind": "issue_collection",
+      "safe_through": 0,
+      "summary": "第61—69章问题分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/issues/block-0004.json",
+        "record_id": "issues-block-0004"
+      },
+      "title": "问题 61—69"
+    }
+  ],
+  "id": "idx-issues",
+  "kind": "index",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "问题索引"
+}

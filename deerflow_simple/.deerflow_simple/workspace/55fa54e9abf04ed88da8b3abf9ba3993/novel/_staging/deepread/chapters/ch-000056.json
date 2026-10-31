@@ -1,0 +1,846 @@
+{
+  "chapter_order": 56,
+  "chapter_id": "ch-000056",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-006"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空在被一句问话惊醒于路上民舍",
+      "introduced_at": 56,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 56,
+            "end": 56
+          }
+        ],
+        "revealed_at": 56,
+        "status": "closed",
+        "story_time": "西行途中某夜",
+        "summary": "章首一个声音惊问「唐僧死了，谁干的？」，孙悟空由此从梦中醒来，头痛，一时忘记自己是谁、身在何处，随后想起自己正躺在路上某间民舍的墙角草堆里，屋内猪八戒正与村民喧闹饮酒。他走出屋外，站在天井中向篱笆外的夜色望去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "民舍夜饮：猪八戒醉闹与沙僧摔碗发作",
+      "introduced_at": 56,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 56,
+            "end": 56
+          }
+        ],
+        "revealed_at": 56,
+        "status": "closed",
+        "story_time": "西行途中某夜",
+        "summary": "草屋内猪八戒满脸通红、喊「再来一碗」，把碗里的酒和饭混在一起大口喝下，不顾旁边村民看着；沙僧因竹筒丢失、见碗杯即手抖，屋内瓷碗摔碎，沙僧惨叫抱头在地上打滚，猪八戒狂笑称碎碗声好听；孙悟空冷冷问「又发作了吗？」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "天井夜谈：唐僧自述无欲望故无弱点",
+      "introduced_at": 56,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 56,
+            "end": 56
+          }
+        ],
+        "revealed_at": 56,
+        "status": "closed",
+        "story_time": "西行途中某夜",
+        "summary": "唐僧走出屋外与天井中的孙悟空搭话，自称出家人只喝水、用空碗也能「想一想就醉」，并说众人不能用那种痛苦挟制他，因为他没有那样的欲望、命运找不到他的弱点，所以才能当师父；孙悟空冷笑以「呸」回应，随后独自站在屋外毫无睡意，心想上天与宿命正在黑暗里等待明天。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "章首一个声音惊问「唐僧死了，谁干的？」；该声音的来源在章内未指明。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "唐僧死了，谁干的？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空因这句问话从梦里醒来，头还有些痛，一时忘了自己是谁、现在身处何处。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "孙悟空于是从梦里醒了过来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空重新想起自己叫孙悟空，正躺在路上的某间民舍的墙角草堆里。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "正躺在路上的某间民舍的墙角草堆里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "草屋中酒碗碰撞、喧闹声不断，猪八戒满脸通红地喊着「再来一碗！」，把碗里的酒和饭混在一起稀里呼噜喝下去，不顾旁边村民正看着他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "满脸通红的猪八戒喊着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空走到屋外，站在天井中，向篱笆外的一片夜色望着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "站在屋外的天井中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "唐僧从屋里走出来，笑着向屋里人扬手，转头看见孙悟空后与他搭话；孙悟空也向唐僧搭话，就夜色、天亮与自己是否也喝酒发问。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "唐僧从屋里走了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧对孙悟空说「一片漆黑能看见些什么呢？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "一片漆黑能看见些什么呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空对唐僧说「睁着眼也是黑，闭着眼也是黑，我可不可以站在这儿等天亮？」，并反问唐僧「你居然也喝酒么？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "我可不可以站在这儿等天亮"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "唐僧自称「我是出家人，出家人不能喝酒，只喝水」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "出家人不能喝酒，只喝水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空质疑猪八戒喝了二十碗也全是水；唐僧回答「他既然只求一醉，又有什么不可以呢？」，随即多次把空碗凑到嘴边装做一饮而尽，并呷着空碗说「啊，好酒」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "他既然只求一醉"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "猪八戒所饮之物是否为酒在章内存在两种表述：叙述写他碗里「酒和饭混在一起」，唐僧则称他喝的水也能「只求一醉」，本章未给出定论。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "碗里酒和饭混在一起"
+        },
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "那猪八戒干了二十碗也全是水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "唐僧说沙僧「一看见碗啊杯子之类的手就发抖，杯子也端不起来」，并说这次沙僧吃饭的竹筒丢了，明天要去再弄一段。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "一看见碗啊杯子之类的手就发抖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "屋里传来瓷碗摔碎的声音，沙僧一声惨叫；猪八戒狂笑道「碎了，这声音好听！破了，破成一片、一片、一片一片一片……」；沙僧抱着头在屋里地上打起滚来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "沙僧抱着头在屋里地上打起滚来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空冷冷地问「又发作了吗？」，随后问唐僧「我头痛发作的时候，样子是不是比他还难看？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "又发作了吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "唐僧回答孙悟空说「我总在想，什么东西可以把人变成那个样子」，并称「他们不能用那种痛苦来挟制我，因为……我没那样的欲望」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "什么东西可以把人变成那个样子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "唐僧自称「命运找不到我的弱点，所以——我才能当你们师父」，以此解释他为何能作孙悟空等人的师父。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "命运找不到我的弱点"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空冷笑着问「你从不痛苦的吧？」，并以咬牙说「呸！」回应唐僧。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "你从不痛苦的吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧自称「我只要想一想，自然就醉了，长夜漫漫，太清醒不是会很难受？」，并说「我醉了，我要回去睡」，要明天下午再上路，理由是孙悟空喜欢看落日、没有看日出的习惯；孙悟空说「用空碗都能喝醉？我真是服了你，师父」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "我只要想一想，自然就醉了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "屋里灯灭后孙悟空仍在屋外站着，一点儿睡意也没有，他想：上天永远不会睡去，宿命一定也和他一样正在黑暗里静静等待明天。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 56,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000056.txt",
+          "chapter_id": "ch-000056",
+          "chapter_order": 56,
+          "locator": null,
+          "anchor": "宿命一定也和他一样正在黑暗里静静等待明天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "路上的民舍",
+      "category": "location",
+      "introduced_at": 56,
+      "notes": "孙悟空等人途中借宿的民居：屋内喧闹饮酒、有村民在旁，屋外有天井与篱笆。未给出地名。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "师徒名义与同行关系"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空在对话中称唐僧为「师父」；唐僧自称「我才能当你们师父」。本章二人在天井夜谈，孙悟空抱怨头痛发作时的样子，唐僧自述因无欲望而不受痛苦挟制，孙悟空以冷笑与「呸」回应。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "师徒关系仅由对话中的称呼与自称呈现，叙述未另行定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "other",
+        "note": "唐僧为猪八戒的醉酒行为作解释与开脱"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空质疑猪八戒喝的全是水，唐僧说「他既然只求一醉，又有什么不可以呢？」，替八戒的醉闹作辩解；同时猪八戒在屋中狂笑、唱歌。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-10"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "facet": {
+        "type": "other",
+        "note": "八戒以沙僧摔碗发作的痛苦取笑"
+      },
+      "certainty": "explicit",
+      "summary": "沙僧摔碎瓷碗、惨叫抱头在地上打滚时，猪八戒狂笑道「碎了，这声音好听！破了，破成一片、一片、一片一片一片……」。",
+      "source_claim_local_ids": [
+        "claim-local-13"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "condition",
+      "status": "open",
+      "role": "setup",
+      "subject_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "summary": "沙僧见碗杯即手抖、端不起杯子，本章更因瓷碗摔碎而惨叫抱头在地上打滚；孙悟空以「又发作了吗？」点出这是反复发作的旧状，来由本章未说明。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14"
+      ],
+      "notes": "唐僧另提到沙僧吃饭的竹筒丢失，明日需再弄一段。"
+    },
+    {
+      "category": "condition",
+      "status": "open",
+      "role": "setup",
+      "subject_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "summary": "孙悟空自述有头痛发作，并追问自己发作时是否比沙僧更难看；章末他在屋外毫无睡意，心想宿命正与他一样在黑暗里等待明天。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-14",
+        "claim-local-19"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "claim_about_self",
+      "status": "open",
+      "role": "setup",
+      "subject_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "summary": "唐僧自述没有「那样的欲望」，因此命运找不到他的弱点，他才能当师父；此说法出自唐僧本人口中，孙悟空以冷笑和「呸」回应。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "notes": "属角色自述，尚未由叙述或其他角色证实。"
+    },
+    {
+      "category": "journey",
+      "status": "open",
+      "role": "setup",
+      "subject_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "summary": "唐僧表示要回去睡，明日午后（下午）再上路，理由是孙悟空喜欢看落日、没有看日出的习惯。",
+      "source_claim_local_ids": [
+        "claim-local-18"
+      ],
+      "notes": ""
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第56章：路上民舍的一夜",
+    "front_matter": {
+      "as_of": 56,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首是一句不知来源的惊呼（原文：「唐僧死了，谁干的？」），孙悟空因此从梦里醒来。他头还有些痛，一时忘了自己是谁、身在何处，随后重新想起自己叫孙悟空，正躺在路上某间民舍的墙角草堆里。屋内酒碗碰撞、喧闹不断：猪八戒满脸通红喊着「再来一碗！」，把碗里的酒和饭混在一起喝下去，不顾旁边村民在看他。\n\n## 关键行动\n\n孙悟空走到屋外，站在天井中望着篱笆外的夜色。唐僧从屋里出来，向屋里人扬手，转头与他搭话：悟空说睁眼闭眼都是黑，问能不能站着等天亮，并反问唐僧是否也喝酒；唐僧答出家人不能喝酒、只喝水，又说八戒「只求一醉」也无妨，并多次把空碗凑到嘴边装做一饮而尽。\n\n屋内瓷碗摔碎，沙僧惨叫、抱着头在地上打滚，猪八戒狂笑说这碎裂声好听。孙悟空冷冷道「又发作了吗？」，并问唐僧自己头痛发作时是不是比沙僧还难看。\n\n## 转折与新信息\n\n- 唐僧自述：他们不能用那种痛苦来挟制他，因为「我没那样的欲望」，命运找不到他的弱点，「所以——我才能当你们师父」。孙悟空冷笑反问「你从不痛苦的吧？」，咬牙吐「呸！」。\n- 唐僧谈到沙僧的处境：一看见碗杯手就发抖、杯子端不起来；这次沙僧吃饭的竹筒丢了，明日需再弄一段。\n- 唐僧说他「只要想一想，自然就醉了」，长夜太清醒会难受，要回去睡，明日午后（下午）再上路，理由是孙悟空喜欢看落日、没有看日出的习惯。孙悟空回以「用空碗都能喝醉？我真是服了你，师父」。\n- 猪八戒所饮之物的性质在章内有不同表述：叙述写他碗里「酒和饭混在一起」，唐僧则称他喝的水也能「求一醉」，本章未定论。\n- 悟空称唐僧为「师父」，唐僧亦自称是他们的师父（师徒关系仅由对话称呼呈现）。\n\n## 本章结果\n\n屋里灯灭，猪八戒醉后嘟囔着歌词睡去；孙悟空仍在屋外站着，一点儿睡意也没有。他想：上天永远不会睡去，宿命一定也和他一样正在黑暗里静静等待明天。\n\n## 未决问题与补读入口\n\n1. 章首「唐僧死了，谁干的？」这句惊呼出自谁口、是梦中哪一层场景，本章未交代。\n2. 沙僧见碗杯即发抖、「发作」倒地打滚的旧因，本章只由唐僧与孙悟空的对话点出，未作说明。\n3. 孙悟空的头痛发作与章末对「宿命等待明天」的念头，是否指向后续事件，本章无进一步信息。\n4. 猪八戒所喝究竟是酒还是水，需在后文或前文相关章节核对。\n5. 唐僧「无欲望故无弱点」的自述目前仅为其本人说法，尚无叙述或其他角色印证。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "chapter_order": 56,
+      "note": "西行途中：师徒夜宿路上民舍，孙悟空被一句「唐僧死了，谁干的？」惊醒"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "chapter_order": 56,
+      "note": "沙僧摔碗发作、八戒醉闹，点出沙僧旧状"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "chapter_order": 56,
+      "note": "天井夜谈：唐僧自述无欲望故命运找不到弱点；孙悟空冷笑以对"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-16",
+      "chapter_order": 56,
+      "note": "关键自述（reported）：唐僧称「命运找不到我的弱点，所以——我才能当你们师父」"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-19",
+      "chapter_order": 56,
+      "note": "孙悟空章末心境：宿命正在黑暗里静静等待明天"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-14",
+      "chapter_order": 56,
+      "note": "孙悟空自述有头痛发作，可与沙僧的「发作」并置观察"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "猪八戒所饮是酒还是水，章内不一致：叙述写「碗里酒和饭混在一起」，唐僧则说「那猪八戒干了二十碗也全是水」并称他「只求一醉」。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-10",
+        "claim-local-11"
+      ],
+      "chapter_order": 56
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "章首「唐僧死了，谁干的？」的发声者无法确定，原文仅写「一个声音惊问」，紧接孙悟空从梦中醒来。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ],
+      "chapter_order": 56
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "沙僧见碗杯即手抖、摔碗后惨叫打滚的成因，本章仅由对话提及「又发作了吗」，无叙述性解释。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14"
+      ],
+      "chapter_order": 56
+    }
+  ],
+  "warnings": [
+    "本章无新的具名角色出现；村民为无名背景人物，未建立候选。",
+    "章标题在原文中为「．」，摘要标题使用描述性标题「路上民舍的一夜」。",
+    "本章全部对话内容均按 reported 处理；师徒关系仅由对话中的称呼推定，未由叙述直接定性。"
+  ]
+}

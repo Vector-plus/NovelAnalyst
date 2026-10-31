@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "联合国人道主义救援基地人员，撤离前一天在垃圾场救起昏倒的辛妮并喂她牛奶，向拾荒者打听其身份、告知奥运会开幕推迟一天，并质疑西亚是否还有体育运动局；此后未再出场。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 3,
+      "summary": "撤离前夜的救援基地人员（第1—3章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0002/stages/stage-001.md",
+        "record_id": "doc-char-0002-stage-001"
+      },
+      "title": "撤离前夜的救援基地人员"
+    }
+  ],
+  "id": "char-0002",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 1,
+  "kind": "entity_index",
+  "label": "格兰特",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 3,
+  "schema_version": "2.0"
+}

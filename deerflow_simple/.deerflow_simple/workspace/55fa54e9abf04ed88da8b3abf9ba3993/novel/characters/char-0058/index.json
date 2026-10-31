@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0058",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 16,
+  "entity_type": "character",
+  "label": "玄生",
+  "introduced_at": 16,
+  "identity_notes": [
+    {
+      "id": "in-char-0058-001",
+      "revealed_at": 16,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0605"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0607"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0611"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

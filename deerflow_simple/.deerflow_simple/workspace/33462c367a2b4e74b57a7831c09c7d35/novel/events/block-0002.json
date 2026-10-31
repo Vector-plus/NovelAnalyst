@@ -1,0 +1,3248 @@
+{
+  "events": [
+    {
+      "id": "ev-0016",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "奥运会首批赛事：西亚男篮惨败与代表团全面败北",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0076"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0077"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0075",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "由西亚共和国临时组建的国家队对美国梦之队",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "开幕式后各项比赛全面展开，首批赛事中最引人注目的是男子篮球，由西亚共和国临时组建的国家队对美国梦之队。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0076",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "主要是从西亚前线蜂拥而来的战地记者",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "篮球赛看台挤满观众，大部分是从西亚前线蜂拥而来的战地记者；没有人喧哗，球赛在寂静中进行。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0020/index.json",
+                "record_id": "char-0020"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0077",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "不要垮掉，孩子们，不要让他们可怜我们",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "中场休息时，西亚队年迈的教练嘶哑地咳嗽着对球员说：「不要垮掉，孩子们，不要让他们可怜我们！」"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0078",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "像潮水退后沉淀下来的沙子",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "下半场进行到一半时有许多观众不忍再看而起身离开；终场后西亚队球员呆立原地不动，中锋蹲在地上痛哭，另一名球员跑到篮架下吐酸水。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0079",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "西亚共和国在所有项目上都全面败北",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "在以后的比赛中，西亚共和国在所有项目上都全面败北，惨败程度超出预料。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0080",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "已有三四年时间没有进行任何训练",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "这几年间西亚政府无暇顾及体育，原来勉强维持的商业体育俱乐部全部消失，参加奥运会的运动员已有三四年没有进行任何训练。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0081",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "沦为最穷的人",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "这些运动员除体育外没有其它一技之长，大多在西亚的苦难岁月中沦为最穷的人，几年的饥饿和疾病使他们已不具备作为运动员的起码体格。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0082",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "人们把创造奇迹的希望寄托在两个西亚人身上",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "赛程走完大半时，民意调查表明即使美国观众也希望西亚运动员出现奇迹，人们把创造奇迹的希望寄托在莱丽和萨里两人身上。"
+            }
+          ],
+          "id": "update-0016",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0078"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0079"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0080"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0081"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0020/index.json",
+                "record_id": "char-0020"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0023/index.json",
+                "record_id": "char-0023"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "ended",
+          "story_time": null,
+          "summary": "开幕式后各项比赛展开，首批赛事最引人注目的是西亚共和国临时组建的国家队对美国梦之队的男子篮球赛，看台多为从西亚前线赶来的战地记者，比赛在寂静中进行。西亚队惨败，此后在所有项目上全面败北。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0075"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0017",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "莱丽在女子体操高低杠做卡曼琳腾跃失手重伤",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0085"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0086"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0087"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0083",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "在平衡木上也掉下来两次",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "莱丽在体操比赛中技巧虽还算娴熟，但体力和力量不支，多次失误，在最擅长的平衡木上掉下两次，无法与美国队选手匹敌。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0021/index.json",
+                "record_id": "char-0021"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0084",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "你真的打算做卡曼琳腾跃",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "体操最后一场比赛开始前，在进入赛场的路上，辛妮听到莱丽的教练问她是否真的打算做卡曼琳腾跃，并说以前从未完全做成过、高低杠并不是她的强项。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0085",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "这次会成",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "莱丽冷冷地回答教练「这次会成」，并说明做该动作是为了让最后得分与美国选手的差距小一些。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0086",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "您真的关心我这条命吗",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "教练要莱丽按他制定的那套动作稳当完成，莱丽冷笑着说「您真的关心我这条命吗，说真的，我都不关心了」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0087",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "头向下身体成四十五度角摔在低杠下的地板上",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "莱丽跃上高低杠后动作渐渐疯狂，成功完成了空中直体一千零八十度空翻，但在抓住低杠腾回高杠时失手，头向下身体成四十五度角摔在低杠下的地板上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0088",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "听到了脊椎骨断裂清脆的卡啪声",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "坐在看台头一排的辛妮听到了莱丽脊椎骨断裂清脆的卡啪声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0089",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "把旗的一角塞到莱丽的手中",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔抱着开幕式上引导西亚共和国运动员方阵的那面国旗追上担架，把旗的一角塞到莱丽手中；莱丽死死抓着旗角，双眼失神地望着天空，血从嘴角流出滴到地面并沾到国旗上。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0090",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "当运动员成为战士后，体育也会流血",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "国际奥委会主席对记者们说：「当运动员成为战士后，体育也会流血。」"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0091",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "在很大程度上是媒体炒作的结果",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "人们对莱丽寄予如此大的希望，很大程度上是媒体炒作的结果；她的优秀只是相对的，即使超常发挥实力也比美国队相差很远。"
+            }
+          ],
+          "id": "update-0017",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0088"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0089"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0090"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0091"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0021/index.json",
+                "record_id": "char-0021"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "ended",
+          "story_time": null,
+          "summary": "莱丽在体操比赛中体力不支多次失误，平衡木两次掉下。高低杠决赛前她与教练就是否做卡曼琳腾跃发生争执，最终选择做该动作，成功完成空中直体一千零八十度空翻后抓低杠失手，头朝下摔在地板上；辛妮在看台听到脊椎断裂声，克雷尔抱国旗追上担架。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0083"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0084"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0018",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "萨里索要五百万美元参赛条件并拒绝出赛",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0096"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0097"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0098"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0099"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0100"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0101"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0102"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0092",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "他是真正的世界冠军",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里是真正的世界冠军，与其它项目相比，停止几年训练对一个射击运动员的影响相对较小。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0093",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "詹姆斯．格拉夫就在四年前的世界射击锦标赛上负于萨里",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "本次参赛的美国选手詹姆斯·格拉夫四年前在世界射击锦标赛上曾负于萨里，只拿到铜牌。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0094",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "萨里是被西亚人高抬着走过的",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "前往射击比赛场最后一段路，萨里被西亚运动员高抬着走过，运动员向他欢呼，周围簇拥摄像记者；萨里一直很平静、面无表情。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0095",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "如果我们至少拿到一块金牌",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "在射击比赛场入口，克雷尔郑重地对萨里说，如果至少拿到一块金牌并由此为战后的国家争得一点权利，这场虚拟战争对西亚人就具有完全不同的含义。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0096",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "我要五百万美元",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里对克雷尔说，他向国家提出参赛的条件是「我要五百万美元」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0097",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "您真的认为这个即将消失的国家还有什么信誉可言吗",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里说这笔钱只是为了他今后能到一个喜欢的地方安静度过下半生；在克雷尔说国家会考虑给予奖励后，他反问这个即将消失的国家还有什么信誉可言，坚持现在就要、否则拒绝比赛，并称退赛会成为拒绝为独裁政府效力的英雄、在西方更值钱。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0098",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "后者终于屈服地收回目光",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里与克雷尔长时间对视后，克雷尔屈服地收回目光说「好吧，请等一下」，随后挤出人群拿出手机打电话。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0022/index.json",
+                "record_id": "char-0022"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0099",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "萨里，你这是叛国",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "西亚代表团中有人对萨里高喊：「萨里，你这是叛国！」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0100",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "一千二百西亚元",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里说他的父亲在十七年前那场战争中阵亡，那时他才八岁，他和母亲只从政府拿到一千二百西亚元抚恤金，之后物价飞涨，那点钱不够吃两个星期饱饭。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0101",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "国家？国家是什么",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里从肩上取下其他西亚运动员为他披上的国旗，抓在手中质问「国家？国家是什么」，并说西亚的有钱人早已跑到国外躲避战火，只剩穷人在政府编织的爱国主义神话里等死。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0102",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "如果一个国家只有雇佣军才为它战斗",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔请示后回复萨里：政府不能付这笔钱；并转述电话一直打到总统那里，总统说「如果一个国家只有雇佣军才为它战斗，那它也没有继续存在的必要了」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0103",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "把国旗塞到克雷尔怀里",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里把国旗塞到克雷尔怀里，转身走去，兴奋的记者们跟着他蜂拥而去；以手捧国旗的克雷尔为中心，西亚代表团长时间默立。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0104",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "奥运历史上最容易得到的金牌",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "射击场内响起枪声，詹姆斯·格拉夫正在得到奥运历史上最容易得到的金牌。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [
+                {
+                  "anchor": "奥运历史上最容易得到的金牌",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-0105",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "转身走去",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里最终未出赛，男子飞碟射击金牌由格拉夫获得。"
+            }
+          ],
+          "id": "update-0018",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0103"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0104"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0105"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "ended",
+          "story_time": null,
+          "summary": "射击赛前，萨里被西亚运动员高抬着走向射击场。克雷尔告知他拿金牌的意义后，萨里提出要五百万美元才参赛，遭政府（电话请示至总统）拒绝，他把国旗塞回克雷尔怀中转身离去，记者随之蜂拥而去；射击场内格拉夫获得金牌。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0092"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0093"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0094"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0095"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0019",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "韦斯特将军在休息室为辛妮送来定做马拉松鞋",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0115"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0116"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0117"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0118"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0119"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0120"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0121"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0122"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0106",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "女子马拉松",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "枪声后西亚人不约而同把目光集中到辛妮身上，跟随萨里的记者也跑回来把镜头对准她；辛妮将参加一小时后开始的本届奥运会最后一个项目——女子马拉松。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0107",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "记者们知道辛妮是哑巴",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "记者们知道辛妮是哑巴，谁都不提问，只互相低声议论；辛妮在人群和镜头包围中恐惧地睁大双眼，瘦小的身体瑟瑟发抖。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0108",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "第二十九届奥运会的闭幕式",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔拉起辛妮挤出重围，登上开往主体育场的汽车；奥林匹克体育场傍晚将举行第二十九届奥运会闭幕式，也是马拉松的起点和终点。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0109",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "走进一间空着的运动员休息室",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "抵达体育场后克雷尔带辛妮走进一间空着的运动员休息室，把外面的喧闹关在门外。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0110",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "掌心上放着一片白色的药片",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔拿出一纸杯水，又张开紧攥的手掌给辛妮看一片白色药片；辛妮先惊恐地看着他并摇头，随后把药片放进嘴里、接过水送下，尝到酸酸的味道。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0111",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "相信我，没有关系的",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔以不可抗拒的口气对辛妮说「吃了」，又放缓声音说「相信我，没有关系的」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0112",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "已对西亚共和国做好攻击准备的五十万大军的统帅",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "休息室门开，克雷尔盯着那个身材魁梧的身影看了半天才认出是韦斯特将军——开幕式上点燃圣火的人、已对西亚共和国做好攻击准备的五十万大军的统帅，此时穿黑色西装、双手捧着一个纸盒子。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0113",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "克雷尔怒视着他说",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔怒视韦斯特并说「请您出去」，还把辛妮挡在身后；他对韦斯特称辛妮不会说话、也听不懂英语。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0114",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "您可以为我翻译",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特对克雷尔说想同辛妮谈谈，并请他为自己翻译；随后他不再回答，用一只有力的手臂轻轻把克雷尔拨开，蹲在辛妮前面脱下她的一只运动鞋。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0115",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "这是刚在北京的运动商店里买的吧",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特举起辛妮的运动鞋说这是刚在北京的运动商店里买的，穿这样非定做的新鞋跑马拉松不到二十公里脚就会打泡，随后把辛妮的另一只鞋也脱下、将两只鞋都扔出去。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0116",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "是耐克公司的一个特别车间为你定做的",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特打开带来的纸盒，取出一双雪白的运动鞋捧到辛妮面前，说这是他个人送的礼物、是耐克公司一个特别车间为她定做的、那个车间能做出世界上最好的马拉松鞋。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0117",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "用三维扫描仪为她扫描脚模",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔想起三天前的晚上，有两个自称耐克公司技师的人来到奥运村辛妮的房间，用三维扫描仪为她扫描脚模；他看得出这确实是顶级马拉松鞋。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0118",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "是铁人三项",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特蹲下给辛妮穿鞋，并说马拉松是一项很美的运动、他也很喜欢，还是中尉的时候曾在陆军运动会上拿过冠军——不是马拉松，是铁人三项。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0119",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "仿佛是她双脚的一部分",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮穿上鞋站起来走了几步，鞋轻软而富有弹性、与脚贴合极好。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0120",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "我更希望叛逃的不是萨里而是辛妮",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特离开时克雷尔对他说「谢谢您」；韦斯特站住但没有转身，说「说实话，我更希望叛逃的不是萨里而是辛妮」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0121",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "连前二十都进不了",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔对韦斯特说，辛妮的成绩在西亚是最好的，但在世界上排名连前二十都进不了，更别提和埃玛比。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0122",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "我害怕她的眼睛",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "韦斯特继续说下去，只留下一句「我害怕她的眼睛」。"
+            }
+          ],
+          "id": "update-0019",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "ended",
+          "story_time": null,
+          "summary": "辛妮被确定为女子马拉松参赛者后，在奥林匹克体育场运动员休息室，克雷尔给她服下一片白色药片。韦斯特将军穿黑西装捧纸盒独自前来，脱下辛妮的旧鞋，送出耐克公司特别车间为她定做的马拉松鞋并替她穿上，临走留下「我害怕她的眼睛」。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0106"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0107"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0108"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0109"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0110"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0111"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0112"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0113"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0020",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "第二十九届奥运会女子马拉松决赛：辛妮与埃玛同场竞逐",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0131"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0145"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0153"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0123",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "媒体早已把第二十九届奥运会称为「寂静的奥运会」；女子马拉松起跑时，由十万人组成的体育场人海覆盖，但寂静依旧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0126",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛走向起跑点时被前呼后拥：教练班子五人（含一位运动生理学家），医疗保健组有六名医生与营养专家，仅负责她跑鞋和服装的就有三人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0131",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "她的心理素质很差",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔低声告诉辛妮不要被埃玛吓住，并自称观察过、她的心理素质很差；他判断埃玛会先发制人加速，企图在前十公里甩开辛妮，要求辛妮一开始就咬住她、前二十公里跟住她。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0129",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "被称为地球神鹿",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛被称为「地球神鹿」，是本世纪初最耀眼的运动明星。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0132",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "那是一种任何药检都检测不出的药",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔对辛妮说，那片药是任何药检都检测不出的药、像核燃料一样强有力，并称她「已经是世界冠军了」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0133",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "发令枪响后，辛妮与埃玛并排跑出，以稳定的速度绕场一周；她们所到之处观众站起形成人浪，除人群站起的声音外没有别的声音。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0144",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥卡把辛妮安置在学校一间空闲的教工宿舍，每天亲自送饭，面包土豆等主食管够，还不时有从黑市买来的奶酪、牛羊肉和鸡蛋；辛妮几次问钱从哪来，奥卡总假装不懂她的哑语。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0029/index.json",
+                "record_id": "char-0029"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0145",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥卡的妻子抱着婴儿、与他的三个兄弟及其他亲戚到辛妮住处，指着辛妮质问奥卡她从哪儿来；他们骂奥卡是混蛋，指他卖掉了用金粉写成的祖传古兰经、用那笔钱供辛妮过公主一样的日子，而自家孙子没奶吃。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0146",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "私生子",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "有传言说辛妮是奥卡与威伊娜的私生子；反证是辛妮出生前后几年威伊娜住在一座北方城市，而奥卡作为陆军少尉在南方参加第一次西亚战争并负过伤；另有传言说奥卡的战争经历是他自己编造的谎言。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0027/index.json",
+                "record_id": "char-0027"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0152",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "慢下来，让她领跑",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛边跑边哭，断续说「上帝……我该怎么办……告诉我……我该怎么办」；随后她右耳微型耳机中传出主教练的话：「别怕……听着，埃玛，慢下来，让她领跑。」"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0153",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "唯一取胜的希望是第三种选择",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛慢下来后辛妮短暂兴奋，但发现埃玛紧跟在自己身后，意识到已遇到致命一招；在三种选择中她选择了唯一有取胜希望的第三种——加速甩开对手，开始提速。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0154",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "到达三十公里处辛妮仍紧跟埃玛，赛况举世关注，空中出现两架摄像直升机，西亚共和国所有人都聚集在电视机和收音机前；辛妮感到缺氧贫血使世界化成黑雾、那片药的作用已经过去。"
+            }
+          ],
+          "id": "update-0020",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0154"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "ongoing",
+          "story_time": "第二十九届奥运会最后一场比赛",
+          "summary": "十万人围坐而寂静无声的体育场中，西亚选手辛妮与被称「地球神鹿」的埃玛同场起跑。克雷尔赛前向辛妮交代对付埃玛的战术并暗示药物的作用。赛程过半埃玛眼中出现恐惧，其后埃玛接到主教练耳机指令改为跟随，辛妮选择加速领跑。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0133"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0021",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "西亚体育代表团在模拟战争失败后四分五裂",
+      "updates": [
+        {
+          "action_refs": [],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0124",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "西亚共和国在模拟战争中的彻底失败已成定局；萨里离去后西亚人在精神上垮掉，西亚体育代表团先于国家四分五裂，部分官员不知去向，无处可去的运动员闭门等待发落，无人去看最后一场比赛与闭幕式。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0125",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮走向起跑点时，只有克雷尔陪着她。"
+            }
+          ],
+          "id": "update-0021",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0124"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0034/index.json",
+                "record_id": "char-0034"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "ongoing",
+          "story_time": "女子马拉松决赛当日",
+          "summary": "西亚共和国在模拟战争中彻底失败已成定局，萨里离去后西亚人精神彻底垮掉，代表团先于国家分裂：有门路的官员不知去向，无处可去的运动员闭门等待发落，无人观看最后一场比赛与闭幕式。辛妮起身走向起跑点时只有克雷尔陪同。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0022",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "辛妮母亲因怪病去世与辛妮赴救援基地求药",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0135"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0137"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0134",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "一种叫GMH—6的药",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在奔跑中充满焦虑，渴望尽快到达「一个地方」，那里有她想要的东西——一种叫GMH—6的药。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0135",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "一种含铀的炸弹引起的",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮回忆起母亲躺在医院走廊尽头昏暗病房的肮脏床单上、皮肤呈濒死的白色并渗出血珠；这是最近很多人患上的怪病，据说是由最近那次轰炸中一种含铀的炸弹引起的。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0031/index.json",
+                "record_id": "char-0031"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0136",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "医生对辛妮说，她母亲没救了，即使医院有那种药也只是再维持几天。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0031/index.json",
+                "record_id": "char-0031"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0137",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在医生面前拼命比划求问哪里还有那种药，医生为她写下药名，并说那是西欧的新药、连正式名字都没有只有一个代号，并称那药不是给穷人用的。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0032/index.json",
+                "record_id": "char-0032"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0138",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮跑到联合国救援基地的一幢白房子，把写着药名的纸给医生们看；一名会讲西亚语的医生说这种药不属于救援品、需要购买，并说自己都买不起。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0139",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮推开病房门时，母亲已没有生命的躯体被盖在白布下，她像小野兽般阻挠两人移走遗体，对方只好作罢。"
+            }
+          ],
+          "id": "update-0022",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0139"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0026/index.json",
+                "record_id": "char-0026"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0031/index.json",
+                "record_id": "char-0031"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0032/index.json",
+                "record_id": "char-0032"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": "辛妮参赛前的往事",
+          "summary": "辛妮在跑动中回忆：母亲在昏黑医院的走廊尽头病房中濒死，患的是据称由含铀炸弹引起的怪病；医生说母亲没救了，并为她写下一种西欧新药的代号。辛妮按地址跑到联合国救援基地，会讲西亚语的医生称该药不属于救援品、须自费购买。她赶回医院时母亲已被白布覆盖。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0023",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "奥卡收留辛妮并供其吃住与训练",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0141"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0142"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0147"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0031/index.json",
+                "record_id": "char-0031"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0140",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "写药名的医生对辛妮说，她可以陪母亲待一晚上，明天他们为她料理母亲后事、之后她就得离开。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0141",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "心跳现在已恢复到每分钟五十二下",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名男子握住辛妮手腕测脉，说「五十二下」，并称天黑前在楼上远远看见她跑过来、往返救援基地约二十公里只用一个小时十几分钟，还说早已注意到她的天赋。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0142",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "我是斯特姆．奥卡，体育教师",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "该男子自称是斯特姆·奥卡、体育教师，带过辛妮班的体育课，并说辛妮母亲去世时他的孙子正在楼上出生。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0143",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥卡对辛妮说可以过另一种生活、站上奥运领奖台让祖国的国旗升起，并问她是否打算吃苦；辛妮两次点头后，奥卡说「跟我走吧」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0147",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在延续几年的训练中每天跑不少于二十公里，最喜欢城外那条通往沙漠的公路；长跑中她脸色红润，是饥饿国度里能吃饱的例外。"
+            }
+          ],
+          "id": "update-0023",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0143"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0029/index.json",
+                "record_id": "char-0029"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0033/index.json",
+                "record_id": "char-0033"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": "辛妮母亲去世之后的一段时间",
+          "summary": "体育教师斯特姆·奥卡在病房中测出辛妮心跳每分钟五十二下，并推算她往返救援基地的奔跑成绩，认定她的天赋。此后他把辛妮安置在学校空闲教工宿舍、每日亲自送饭，并送她到郊区一名失业田径教练处受训。奥卡的妻子与亲戚为此上门指责他卖掉祖传古兰经供养辛妮。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0024",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "奥卡去世与遗产之争：骨灰中的弹片推翻父女说法",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0151"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0148",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "眼中的傲慢已荡然无存",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "经过「二十一公里」标志牌（马拉松半程）时辛妮仍紧跟着埃玛；埃玛第一次正眼看她，辛妮从她眼中看到傲慢已荡然无存，只有恐惧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0149",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "要想让火不灭，你得把自己点燃",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在缺氧黑雾中看到奥运圣火与举着火炬的韦斯特将军，将军说「要想让火不灭，你得把自己点燃」，辛妮大喊「点燃我吧」，并感觉自己轰地燃烧起来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0150",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "我是你父亲，我只是在赎罪而已",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮夜里用哑语向奥卡告别，要老师回家、让小孙子有奶吃；奥卡摇头说「这是我们共同的事业」，并说「他们说的是真的，我是你父亲，我只是在赎罪而已」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0151",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮本对传言半信半疑，听到奥卡这话后全信了；她没有扑到父亲怀里哭，平静地接受了这个事实，并认为那是有生以来最幸福的时刻。"
+            }
+          ],
+          "id": "update-0024",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0029/index.json",
+                "record_id": "char-0029"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0028/index.json",
+                "record_id": "char-0028"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": "辛妮受训的后期",
+          "summary": "辛妮临行前向奥卡告别，奥卡自称是她的父亲、只是在赎罪。五天后辛妮赶回时只拿到骨灰盒：奥卡在上体育课时栽倒去世，其训练费用靠他卖血支撑。亲戚闯入房间争夺遗产，在骨灰中找到一枚手榴弹弹片，据此推翻「奥卡是辛妮父亲」的说法；奥卡留下的信封内一张白纸只写有几个字。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0148"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0025",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "马拉松最后阶段埃玛反超辛妮并率先冲过终点",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0160"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0161"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0162"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0160",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "没能甩掉埃玛",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮以自己的极限速度跑出三公里，仍没能甩掉埃玛。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0161",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "地球神鹿唤醒了自己沉睡的力量",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "依靠辛妮领跑作为依托，埃玛心理稳定下来，恢复成马拉松巨星的状态，疯狂加速超过辛妮并把两人间距很快拉大。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0162",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "三十五公里的标志牌出现",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "三十五公里标志牌出现，还剩七公里时辛妮速度大减，最后几乎像行走一般。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0164",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "这只是一瓶维生素C",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮看到克雷尔拼命冲她挥拳，一只手里攥着一个小药瓶；此前给她的那片“神力无比的药”就是从这瓶中拿出的，其实只是一瓶维生素C。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0172",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "埃玛冲过终点后",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛冲过终点后，体育场中的十万人静静等待着。"
+            }
+          ],
+          "id": "update-0025",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0172"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "completed",
+          "story_time": null,
+          "summary": "辛妮以极限速度领跑三公里仍未甩掉埃玛；埃玛心理稳定后疯狂加速反超并拉大差距。三十五公里标志牌出现，只剩七公里时辛妮速度降到几乎像行走。埃玛冲过终点。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0026",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "西亚同胞与中国观众齐呼“辛妮，跑到头”打破奥运寂静",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0163"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0166"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0163",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "她的同伴们在对她喊着",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在路边人群中看到西亚体育代表团的同伴，她听不到声音，但从口形看出他们在喊“辛妮，跑到头！！”。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0165",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "那是西亚共和国首都的英雄广场",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道路两旁人群都指向路边一面巨大显示屏；辛妮认出屏上是西亚共和国首都的英雄广场，即她每天早晨训练起跑之地，广场上是沸腾的人海，几十万同胞齐声高呼“辛妮，跑到头”。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0166",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "这成千上万名中国人居然在短时间内同时学会了一句西亚语",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "两侧成千上万名中国观众在短时间内同时学会了一句西亚语，齐声高呼“辛妮，跑到头！！”，本届奥运会的寂静被打破。"
+            }
+          ],
+          "id": "update-0026",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0166"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0034/index.json",
+                "record_id": "char-0034"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "completed",
+          "story_time": null,
+          "summary": "辛妮在路边看到西亚体育代表团同伴对口形喊“辛妮，跑到头”；随后道路两旁人群同指巨屏，屏上是西亚共和国首都英雄广场的沸腾人海；两侧成千上万名中国观众短时间内学会同一句西亚语齐声高呼，本届奥运会的寂静被打破。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0027",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "辛妮濒死幻觉中韦斯特与奥卡就火炬争执，辛妮喊“点燃它”",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0170"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0167",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "手拿已经熄灭的火炬",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑雾再次笼罩辛妮双眼，幻觉中韦斯特手持一支已经熄灭的火炬出现。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0168",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "你不是圣女贞德",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "幻觉中韦斯特对辛妮说她的圣火要灭了、她燃尽了自己，并笑着摇头劝她不要再燃烧，称她不是圣女贞德、一切已失败、燃尽一切什么都得不到。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0169",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "分裂的祖国正因你而重新联为一体",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "幻觉中奥卡举着燃烧的火炬起身对辛妮说还有东西可以燃烧、让她记得他留下的遗产，并挥动火炬称分裂的祖国正因她而重新联为一体、她的圣火不能灭。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0170",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "点燃它！！",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "辛妮在幻觉中冲奥卡大喊“点燃它！！”，奥卡把手中的火炬伸向前来。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0171",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "光荣与梦想熊熊燃烧起来",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "幻觉画面中轰然一声，光荣与梦想熊熊燃烧起来。"
+            }
+          ],
+          "id": "update-0027",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0171"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "completed",
+          "story_time": null,
+          "summary": "黑雾重现，辛妮幻觉中见韦斯特手持已熄灭的火炬劝她停止燃烧，奥卡举燃烧火炬称分裂的祖国正因她重新联为一体；辛妮冲奥卡喊“点燃它！！”，奥卡把火炬伸来，光荣与梦想熊熊燃烧起来。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0028",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "辛妮绕场一周越过终点后倒地身亡，被五环旗与西亚国旗覆盖",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0174"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0173",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "闪电两次击中了体育场的避雷针",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "北京的天空乌云密布、电闪雷鸣，闪电两次击中体育场的避雷针，闪出耀眼的火球。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0174",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "十分钟后，辛妮进入了体育场",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "埃玛冲线十分钟后，辛妮进入体育场，步伐沉重地绕场一周后越过终点线，然后扑倒在地。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0175",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "十万人同时站了起来",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "十万人同时站起来，与全世界一起注视静卧在体育场中的那个小小身影；一片死寂中只有奥运圣火在暴雨前的急风中作响。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0176",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "她竟面带微笑",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "人们把一面五环旗和一面西亚共和国国旗盖在辛妮已没有生命的身体上时，吃惊地发现她竟面带微笑。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0177",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "她实现了自己的光荣与梦想。",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述者以“她实现了自己的光荣与梦想”作结，为辛妮的结局定调。"
+            }
+          ],
+          "id": "update-0028",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0176"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "completed",
+          "story_time": null,
+          "summary": "埃玛冲线后北京天空乌云密布、雷电两次击中体育场避雷针；十分钟后辛妮进入体育场，绕场一周越过终点线后扑倒在地。十万人起立注视，全场死寂，人们以五环旗与西亚共和国国旗盖住她没有生命的身体，发现她面带微笑。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0029",
+      "introduced_at": 7,
+      "kind": "event",
+      "safe_through": 7,
+      "title": "飞往西亚的庆祝专机上得悉全面军事打击已启动",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0183"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0184"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0185"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0186"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0187"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0188"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 7,
+              "start": 7
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0178",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "国际奥委会主席在飞往西亚共和国的专机上发表讲话，宣称和平视窗将使人类抛弃野蛮进入真正的文明，各国将把用于军备的巨大开支转移到提高人民健康水平上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0179",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "该讲话是国际奥委会主席在飞往西亚共和国的专机上发表的；他同奥委会其他主要成员前往西亚，庆祝和平视窗计划的第一次成功。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0180",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "同机的有从北京返回的西亚体育代表团以及美国体育代表团的部分成员；美国代表团成员既获得奥运金牌，又得到总统颁发的自由勋章。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0181",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥委会主席指着美国代表团称他们“是人类战争史上最崇高的战胜者”，又说西亚人民会把美国队员当英雄欢迎；转向西亚代表团方向时称“这届奥运会没有失败者”。其后两国运动员由勉强握手变为泪流满面地拥抱在一起。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0035/index.json",
+                "record_id": "char-0035"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0182",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "西亚上空已经被宣布为飞行危险区",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "机长走到舱内，神色严峻地对所有人宣布：西亚上空已被宣布为飞行危险区，是在邻国降落还是返回北京需尽快决定。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0035/index.json",
+                "record_id": "char-0035"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0183",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "对西亚的全面军事打击已经启动",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "机长通报：对西亚的全面军事打击已经启动，现在正在进行第一轮空袭。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0184",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名西亚运动员指着美国代表团怒吼“你们背信弃义”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0185",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "背信弃义的可能是我们西亚人",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔站起身制止冲动的西亚运动员，并说“背信弃义的可能是我们西亚人”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0035/index.json",
+                "record_id": "char-0035"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0186",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "按和平视窗协议接管首都的多国部队遭遇猛烈抵抗",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "机长称，据刚得到的消息，按和平视窗协议接管首都的多国部队遭遇猛烈抵抗。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0187",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥委会主席说西亚军队已经解散、所有重武器都已收缴。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0035/index.json",
+                "record_id": "char-0035"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0188",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "您会看到每扇窗前都有一个射手",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "机长回应称轻武器散落到民间，“如果有一阵狂风吹开西亚所有的屋顶，您会看到每扇窗前都有一个射手”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0189",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "竞赛代替不了战争",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔对主席说“这就是命运了”，并对所有人称他早就预料到这一点：和平视窗计划只是个美丽的童话，竞赛代替不了战争，就像葡萄酒代替不了鲜血。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0190",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "她只是像辛妮一样，想跑到头而已",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "克雷尔走到舷窗前望着云海说，西亚共和国“只是像辛妮一样，想跑到头而已”。"
+            }
+          ],
+          "id": "update-0029",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0189"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0190"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0011/index.json",
+                "record_id": "char-0011"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0035/index.json",
+                "record_id": "char-0035"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0037/index.json",
+                "record_id": "char-0037"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0034/index.json",
+                "record_id": "char-0034"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 7,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "国际奥委会主席与奥委会主要成员乘专机飞往西亚，庆祝和平视窗计划第一次成功，同机有从北京返回的西亚体育代表团与部分美国体育代表团成员。途中机长宣布西亚上空为飞行危险区，并通报对西亚的全面军事打击已启动、第一轮空袭正在进行；克雷尔在机上表示早已预料和平视窗只是童话。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0182"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0030",
+      "introduced_at": 7,
+      "kind": "event",
+      "safe_through": 7,
+      "title": "萨里返回西亚加入首都保卫战",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0192"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0194"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 7,
+              "start": 7
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0191",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "我，还是回家吧",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "奥运会闭幕式之后，萨里在雷雨中的看台上站了很久，凝视辛妮倒下的地方，最后自语：“我，还是回家吧。”"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0192",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "辗转回到战火中的祖国",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "亚力克·萨里辗转回到战火中的祖国，时间已是战争爆发一个星期后。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0193",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "首都保卫战正处于最后阶段，城市已大半失陷；从外地增援的部队仍源源不断进入仍在战斗的城区，这些部队由穿军装的士兵和更多扛枪的平民组成。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0036/index.json",
+                "record_id": "char-0036"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0194",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "我们可请不起救世主了",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里向一名军官要一支冲锋枪，那人认出他，笑着说“呵呵，我们可请不起救世主了”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0195",
+              "revealed_at": 7,
+              "source_refs": [
+                {
+                  "anchor": "不，普通一兵。",
+                  "chapter_id": "ch-000007",
+                  "chapter_order": 7,
+                  "path": "source/vol-001/ch-000007.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "萨里回答“不，普通一兵”，微笑着接过冲锋枪，加入高唱国歌的队伍，在被火光映红的夜空下向激战中的城市走去。"
+            }
+          ],
+          "id": "update-0030",
+          "outcome_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0195"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0036/index.json",
+                "record_id": "char-0036"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 7,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "奥运会闭幕式后萨里在雷雨中的看台上久立，凝视辛妮倒下的地方并自语要回家。战争爆发一个星期后他辗转回到战火中的祖国，首都已大半失陷，他向一名军官要冲锋枪，自称“普通一兵”，接过枪汇入高唱国歌的队伍，走向激战城区。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0191"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "block-0002",
+  "kind": "event_collection",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 5,
+  "safe_through": 7,
+  "schema_version": "2.0"
+}

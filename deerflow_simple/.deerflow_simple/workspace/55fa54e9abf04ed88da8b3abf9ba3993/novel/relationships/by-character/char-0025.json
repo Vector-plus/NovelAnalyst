@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0025",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 9,
+  "title": "卯日星君 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 9,
+        "end": 9
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0025/index.json",
+        "record_id": "char-0025"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0015.json",
+        "record_id": "rel-0015"
+      },
+      "kind": "relationship",
+      "title": "紫霞×卯日星君",
+      "summary": "与紫霞×卯日星君的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    }
+  ]
+}

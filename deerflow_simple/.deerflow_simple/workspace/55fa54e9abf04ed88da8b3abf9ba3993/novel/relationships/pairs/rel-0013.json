@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0013",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 7,
+  "introduced_at": 7,
+  "subjects": [
+    {
+      "path": "characters/char-0015/index.json",
+      "record_id": "char-0015"
+    },
+    {
+      "path": "characters/char-0016/index.json",
+      "record_id": "char-0016"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0013-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "as_of": 7,
+      "revealed_at": 7,
+      "summary": "天蓬守候该女子八十万年并为其遮挡风尘；她不推开他的靠近而是挽住他；天蓬将她揽入怀中，两人深吻；章末叙述以“一对爱人”称之并写两人紧紧相拥。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "天蓬守候该女子八十万年并为其遮挡风尘；她不推开他的靠近而是挽住他；天蓬将她揽入怀中，两人深吻；章末叙述以“一对爱人”称之并写两人紧紧相拥。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0129"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0135"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0139"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0146"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

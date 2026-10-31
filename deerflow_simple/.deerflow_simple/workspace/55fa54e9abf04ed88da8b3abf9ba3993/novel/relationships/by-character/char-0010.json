@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0010",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 4,
+  "title": "林中丑脸女妖 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 4,
+        "end": 4
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0010/index.json",
+        "record_id": "char-0010"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0008.json",
+        "record_id": "rel-0008"
+      },
+      "kind": "relationship",
+      "title": "林中丑脸女妖×孙悟空",
+      "summary": "与林中丑脸女妖×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0010/index.json",
+          "record_id": "char-0010"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0068",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 23,
+  "label": "花果山妖众：长生不死却被困于废墟",
+  "introduced_at": 23,
+  "updates": [
+    {
+      "id": "update-thread-0068-001",
+      "revealed_at": 23,
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "category": "open_question",
+      "status": "open",
+      "role": "pending",
+      "summary": "孙悟空称天庭答应不再杀妖众，但花果山毁于战火、再无寸草，成'人间地狱'，并称自己'做了一件错事——使他们长生不老'、救不了他们（claim-local-23、claim-local-24）。妖众现状与后续处置仍无着落。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1505"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1506"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

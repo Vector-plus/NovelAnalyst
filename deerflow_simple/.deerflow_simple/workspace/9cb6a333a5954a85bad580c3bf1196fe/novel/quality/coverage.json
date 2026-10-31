@@ -1,0 +1,2096 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1—20章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0001.json",
+        "record_id": "coverage-block-0001"
+      },
+      "title": "覆盖 1—20"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 21
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第21—40章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0002.json",
+        "record_id": "coverage-block-0002"
+      },
+      "title": "覆盖 21—40"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 41
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第41—60章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0003.json",
+        "record_id": "coverage-block-0003"
+      },
+      "title": "覆盖 41—60"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 80,
+          "start": 61
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第61—80章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0004.json",
+        "record_id": "coverage-block-0004"
+      },
+      "title": "覆盖 61—80"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 100,
+          "start": 81
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第81—100章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0005.json",
+        "record_id": "coverage-block-0005"
+      },
+      "title": "覆盖 81—100"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 101
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第101—120章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0006.json",
+        "record_id": "coverage-block-0006"
+      },
+      "title": "覆盖 101—120"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 121
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第121—140章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0007.json",
+        "record_id": "coverage-block-0007"
+      },
+      "title": "覆盖 121—140"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 160,
+          "start": 141
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第141—160章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0008.json",
+        "record_id": "coverage-block-0008"
+      },
+      "title": "覆盖 141—160"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 180,
+          "start": 161
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第161—180章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0009.json",
+        "record_id": "coverage-block-0009"
+      },
+      "title": "覆盖 161—180"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 200,
+          "start": 181
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第181—200章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0010.json",
+        "record_id": "coverage-block-0010"
+      },
+      "title": "覆盖 181—200"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 220,
+          "start": 201
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第201—220章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0011.json",
+        "record_id": "coverage-block-0011"
+      },
+      "title": "覆盖 201—220"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 240,
+          "start": 221
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第221—240章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0012.json",
+        "record_id": "coverage-block-0012"
+      },
+      "title": "覆盖 221—240"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 260,
+          "start": 241
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第241—260章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0013.json",
+        "record_id": "coverage-block-0013"
+      },
+      "title": "覆盖 241—260"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 280,
+          "start": 261
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第261—280章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0014.json",
+        "record_id": "coverage-block-0014"
+      },
+      "title": "覆盖 261—280"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 300,
+          "start": 281
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第281—300章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0015.json",
+        "record_id": "coverage-block-0015"
+      },
+      "title": "覆盖 281—300"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 320,
+          "start": 301
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第301—320章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0016.json",
+        "record_id": "coverage-block-0016"
+      },
+      "title": "覆盖 301—320"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 340,
+          "start": 321
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第321—340章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0017.json",
+        "record_id": "coverage-block-0017"
+      },
+      "title": "覆盖 321—340"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 360,
+          "start": 341
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第341—360章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0018.json",
+        "record_id": "coverage-block-0018"
+      },
+      "title": "覆盖 341—360"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 380,
+          "start": 361
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第361—380章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0019.json",
+        "record_id": "coverage-block-0019"
+      },
+      "title": "覆盖 361—380"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 400,
+          "start": 381
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第381—400章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0020.json",
+        "record_id": "coverage-block-0020"
+      },
+      "title": "覆盖 381—400"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 420,
+          "start": 401
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第401—420章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0021.json",
+        "record_id": "coverage-block-0021"
+      },
+      "title": "覆盖 401—420"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 440,
+          "start": 421
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第421—440章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0022.json",
+        "record_id": "coverage-block-0022"
+      },
+      "title": "覆盖 421—440"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 460,
+          "start": 441
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第441—460章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0023.json",
+        "record_id": "coverage-block-0023"
+      },
+      "title": "覆盖 441—460"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 480,
+          "start": 461
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第461—480章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0024.json",
+        "record_id": "coverage-block-0024"
+      },
+      "title": "覆盖 461—480"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 500,
+          "start": 481
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第481—500章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0025.json",
+        "record_id": "coverage-block-0025"
+      },
+      "title": "覆盖 481—500"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 520,
+          "start": 501
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第501—520章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0026.json",
+        "record_id": "coverage-block-0026"
+      },
+      "title": "覆盖 501—520"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 540,
+          "start": 521
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第521—540章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0027.json",
+        "record_id": "coverage-block-0027"
+      },
+      "title": "覆盖 521—540"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 560,
+          "start": 541
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第541—560章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0028.json",
+        "record_id": "coverage-block-0028"
+      },
+      "title": "覆盖 541—560"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 580,
+          "start": 561
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第561—580章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0029.json",
+        "record_id": "coverage-block-0029"
+      },
+      "title": "覆盖 561—580"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 600,
+          "start": 581
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第581—600章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0030.json",
+        "record_id": "coverage-block-0030"
+      },
+      "title": "覆盖 581—600"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 620,
+          "start": 601
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第601—620章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0031.json",
+        "record_id": "coverage-block-0031"
+      },
+      "title": "覆盖 601—620"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 640,
+          "start": 621
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第621—640章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0032.json",
+        "record_id": "coverage-block-0032"
+      },
+      "title": "覆盖 621—640"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 660,
+          "start": 641
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第641—660章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0033.json",
+        "record_id": "coverage-block-0033"
+      },
+      "title": "覆盖 641—660"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 680,
+          "start": 661
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第661—680章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0034.json",
+        "record_id": "coverage-block-0034"
+      },
+      "title": "覆盖 661—680"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 700,
+          "start": 681
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第681—700章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0035.json",
+        "record_id": "coverage-block-0035"
+      },
+      "title": "覆盖 681—700"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 701
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第701—720章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0036.json",
+        "record_id": "coverage-block-0036"
+      },
+      "title": "覆盖 701—720"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 740,
+          "start": 721
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第721—740章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0037.json",
+        "record_id": "coverage-block-0037"
+      },
+      "title": "覆盖 721—740"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 760,
+          "start": 741
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第741—760章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0038.json",
+        "record_id": "coverage-block-0038"
+      },
+      "title": "覆盖 741—760"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 780,
+          "start": 761
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第761—780章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0039.json",
+        "record_id": "coverage-block-0039"
+      },
+      "title": "覆盖 761—780"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 800,
+          "start": 781
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第781—800章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0040.json",
+        "record_id": "coverage-block-0040"
+      },
+      "title": "覆盖 781—800"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 820,
+          "start": 801
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第801—820章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0041.json",
+        "record_id": "coverage-block-0041"
+      },
+      "title": "覆盖 801—820"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 840,
+          "start": 821
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第821—840章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0042.json",
+        "record_id": "coverage-block-0042"
+      },
+      "title": "覆盖 821—840"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 860,
+          "start": 841
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第841—860章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0043.json",
+        "record_id": "coverage-block-0043"
+      },
+      "title": "覆盖 841—860"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 880,
+          "start": 861
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第861—880章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0044.json",
+        "record_id": "coverage-block-0044"
+      },
+      "title": "覆盖 861—880"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 900,
+          "start": 881
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第881—900章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0045.json",
+        "record_id": "coverage-block-0045"
+      },
+      "title": "覆盖 881—900"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 920,
+          "start": 901
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第901—920章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0046.json",
+        "record_id": "coverage-block-0046"
+      },
+      "title": "覆盖 901—920"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 940,
+          "start": 921
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第921—940章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0047.json",
+        "record_id": "coverage-block-0047"
+      },
+      "title": "覆盖 921—940"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 960,
+          "start": 941
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第941—960章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0048.json",
+        "record_id": "coverage-block-0048"
+      },
+      "title": "覆盖 941—960"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 980,
+          "start": 961
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第961—980章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0049.json",
+        "record_id": "coverage-block-0049"
+      },
+      "title": "覆盖 961—980"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1000,
+          "start": 981
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第981—1000章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0050.json",
+        "record_id": "coverage-block-0050"
+      },
+      "title": "覆盖 981—1000"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1020,
+          "start": 1001
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1001—1020章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0051.json",
+        "record_id": "coverage-block-0051"
+      },
+      "title": "覆盖 1001—1020"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1040,
+          "start": 1021
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1021—1040章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0052.json",
+        "record_id": "coverage-block-0052"
+      },
+      "title": "覆盖 1021—1040"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1060,
+          "start": 1041
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1041—1060章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0053.json",
+        "record_id": "coverage-block-0053"
+      },
+      "title": "覆盖 1041—1060"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1080,
+          "start": 1061
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1061—1080章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0054.json",
+        "record_id": "coverage-block-0054"
+      },
+      "title": "覆盖 1061—1080"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1100,
+          "start": 1081
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1081—1100章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0055.json",
+        "record_id": "coverage-block-0055"
+      },
+      "title": "覆盖 1081—1100"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1120,
+          "start": 1101
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1101—1120章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0056.json",
+        "record_id": "coverage-block-0056"
+      },
+      "title": "覆盖 1101—1120"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1140,
+          "start": 1121
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1121—1140章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0057.json",
+        "record_id": "coverage-block-0057"
+      },
+      "title": "覆盖 1121—1140"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1160,
+          "start": 1141
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1141—1160章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0058.json",
+        "record_id": "coverage-block-0058"
+      },
+      "title": "覆盖 1141—1160"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1180,
+          "start": 1161
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1161—1180章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0059.json",
+        "record_id": "coverage-block-0059"
+      },
+      "title": "覆盖 1161—1180"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1200,
+          "start": 1181
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1181—1200章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0060.json",
+        "record_id": "coverage-block-0060"
+      },
+      "title": "覆盖 1181—1200"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1220,
+          "start": 1201
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1201—1220章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0061.json",
+        "record_id": "coverage-block-0061"
+      },
+      "title": "覆盖 1201—1220"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1240,
+          "start": 1221
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1221—1240章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0062.json",
+        "record_id": "coverage-block-0062"
+      },
+      "title": "覆盖 1221—1240"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1260,
+          "start": 1241
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1241—1260章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0063.json",
+        "record_id": "coverage-block-0063"
+      },
+      "title": "覆盖 1241—1260"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1280,
+          "start": 1261
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1261—1280章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0064.json",
+        "record_id": "coverage-block-0064"
+      },
+      "title": "覆盖 1261—1280"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1300,
+          "start": 1281
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1281—1300章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0065.json",
+        "record_id": "coverage-block-0065"
+      },
+      "title": "覆盖 1281—1300"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1320,
+          "start": 1301
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1301—1320章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0066.json",
+        "record_id": "coverage-block-0066"
+      },
+      "title": "覆盖 1301—1320"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1340,
+          "start": 1321
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1321—1340章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0067.json",
+        "record_id": "coverage-block-0067"
+      },
+      "title": "覆盖 1321—1340"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1360,
+          "start": 1341
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1341—1360章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0068.json",
+        "record_id": "coverage-block-0068"
+      },
+      "title": "覆盖 1341—1360"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1380,
+          "start": 1361
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1361—1380章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0069.json",
+        "record_id": "coverage-block-0069"
+      },
+      "title": "覆盖 1361—1380"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1400,
+          "start": 1381
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1381—1400章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0070.json",
+        "record_id": "coverage-block-0070"
+      },
+      "title": "覆盖 1381—1400"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1420,
+          "start": 1401
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1401—1420章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0071.json",
+        "record_id": "coverage-block-0071"
+      },
+      "title": "覆盖 1401—1420"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1440,
+          "start": 1421
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1421—1440章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0072.json",
+        "record_id": "coverage-block-0072"
+      },
+      "title": "覆盖 1421—1440"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1460,
+          "start": 1441
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1441—1460章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0073.json",
+        "record_id": "coverage-block-0073"
+      },
+      "title": "覆盖 1441—1460"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1480,
+          "start": 1461
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1461—1480章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0074.json",
+        "record_id": "coverage-block-0074"
+      },
+      "title": "覆盖 1461—1480"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1500,
+          "start": 1481
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1481—1500章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0075.json",
+        "record_id": "coverage-block-0075"
+      },
+      "title": "覆盖 1481—1500"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1520,
+          "start": 1501
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1501—1520章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0076.json",
+        "record_id": "coverage-block-0076"
+      },
+      "title": "覆盖 1501—1520"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1540,
+          "start": 1521
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1521—1540章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0077.json",
+        "record_id": "coverage-block-0077"
+      },
+      "title": "覆盖 1521—1540"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1560,
+          "start": 1541
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1541—1560章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0078.json",
+        "record_id": "coverage-block-0078"
+      },
+      "title": "覆盖 1541—1560"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1580,
+          "start": 1561
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1561—1580章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0079.json",
+        "record_id": "coverage-block-0079"
+      },
+      "title": "覆盖 1561—1580"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1600,
+          "start": 1581
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1581—1600章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0080.json",
+        "record_id": "coverage-block-0080"
+      },
+      "title": "覆盖 1581—1600"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1620,
+          "start": 1601
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1601—1620章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0081.json",
+        "record_id": "coverage-block-0081"
+      },
+      "title": "覆盖 1601—1620"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1640,
+          "start": 1621
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1621—1640章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0082.json",
+        "record_id": "coverage-block-0082"
+      },
+      "title": "覆盖 1621—1640"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1660,
+          "start": 1641
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1641—1660章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0083.json",
+        "record_id": "coverage-block-0083"
+      },
+      "title": "覆盖 1641—1660"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1680,
+          "start": 1661
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1661—1680章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0084.json",
+        "record_id": "coverage-block-0084"
+      },
+      "title": "覆盖 1661—1680"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1700,
+          "start": 1681
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1681—1700章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0085.json",
+        "record_id": "coverage-block-0085"
+      },
+      "title": "覆盖 1681—1700"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1720,
+          "start": 1701
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1701—1720章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0086.json",
+        "record_id": "coverage-block-0086"
+      },
+      "title": "覆盖 1701—1720"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1740,
+          "start": 1721
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1721—1740章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0087.json",
+        "record_id": "coverage-block-0087"
+      },
+      "title": "覆盖 1721—1740"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1760,
+          "start": 1741
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1741—1760章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0088.json",
+        "record_id": "coverage-block-0088"
+      },
+      "title": "覆盖 1741—1760"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1780,
+          "start": 1761
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1761—1780章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0089.json",
+        "record_id": "coverage-block-0089"
+      },
+      "title": "覆盖 1761—1780"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1800,
+          "start": 1781
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1781—1800章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0090.json",
+        "record_id": "coverage-block-0090"
+      },
+      "title": "覆盖 1781—1800"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1820,
+          "start": 1801
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1801—1820章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0091.json",
+        "record_id": "coverage-block-0091"
+      },
+      "title": "覆盖 1801—1820"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1840,
+          "start": 1821
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1821—1840章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0092.json",
+        "record_id": "coverage-block-0092"
+      },
+      "title": "覆盖 1821—1840"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1860,
+          "start": 1841
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1841—1860章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0093.json",
+        "record_id": "coverage-block-0093"
+      },
+      "title": "覆盖 1841—1860"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1880,
+          "start": 1861
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1861—1880章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0094.json",
+        "record_id": "coverage-block-0094"
+      },
+      "title": "覆盖 1861—1880"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1900,
+          "start": 1881
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1881—1900章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0095.json",
+        "record_id": "coverage-block-0095"
+      },
+      "title": "覆盖 1881—1900"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1920,
+          "start": 1901
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1901—1920章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0096.json",
+        "record_id": "coverage-block-0096"
+      },
+      "title": "覆盖 1901—1920"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1940,
+          "start": 1921
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1921—1940章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0097.json",
+        "record_id": "coverage-block-0097"
+      },
+      "title": "覆盖 1921—1940"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1960,
+          "start": 1941
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1941—1960章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0098.json",
+        "record_id": "coverage-block-0098"
+      },
+      "title": "覆盖 1941—1960"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1980,
+          "start": 1961
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1961—1980章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0099.json",
+        "record_id": "coverage-block-0099"
+      },
+      "title": "覆盖 1961—1980"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2000,
+          "start": 1981
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1981—2000章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0100.json",
+        "record_id": "coverage-block-0100"
+      },
+      "title": "覆盖 1981—2000"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2020,
+          "start": 2001
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第2001—2020章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0101.json",
+        "record_id": "coverage-block-0101"
+      },
+      "title": "覆盖 2001—2020"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2040,
+          "start": 2021
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第2021—2040章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0102.json",
+        "record_id": "coverage-block-0102"
+      },
+      "title": "覆盖 2021—2040"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2060,
+          "start": 2041
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第2041—2060章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0103.json",
+        "record_id": "coverage-block-0103"
+      },
+      "title": "覆盖 2041—2060"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2076,
+          "start": 2061
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第2061—2076章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0104.json",
+        "record_id": "coverage-block-0104"
+      },
+      "title": "覆盖 2061—2076"
+    }
+  ],
+  "id": "idx-coverage",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "覆盖索引"
+}

@@ -1,0 +1,75 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0001/index.json",
+          "record_id": "emo-0001"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 3,
+      "summary": "师长式的发现与沉默：克雷尔与辛妮（第3章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0001/index.json",
+        "record_id": "emo-0001"
+      },
+      "title": "师长式的发现与沉默：克雷尔与辛妮"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0002/index.json",
+          "record_id": "emo-0002"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第7章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0002/index.json",
+        "record_id": "emo-0002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "idx-emotions",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 3,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 3,
+        "start": 3
+      },
+      {
+        "end": 7,
+        "start": 7
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "感情线"
+}

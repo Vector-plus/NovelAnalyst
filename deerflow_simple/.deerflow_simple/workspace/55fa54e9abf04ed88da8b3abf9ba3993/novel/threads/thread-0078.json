@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0078",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 35,
+  "label": "五百年前天界大火与炼丹炉之说",
+  "introduced_at": 35,
+  "updates": [
+    {
+      "id": "update-thread-0078-001",
+      "revealed_at": 35,
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "witnessed",
+      "summary": "巨灵神把本次火因归为太上老君生完炉子不看火，并称五百年前那猴子复活时就是这么大火；太上老君当场否认。此说属巨灵神口述，未获证实。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1750"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1751"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

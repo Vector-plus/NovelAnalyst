@@ -1,0 +1,41 @@
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "孙悟空入地府听引路鬼论欲望/记忆与神人因果，并自述失忆与来意为取回和尚魂灵", "importance": "high", "chapter_order": 11}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "孙悟空折返掷飞幽冥王、杀入鬼卒，地府方与孙悟空关系转为公开敌对", "importance": "high", "chapter_order": 11}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "五百年前勾销并烧尽生死簿之人被称为魔王，引发百年神魔战争（引路鬼叙述）", "importance": "high", "chapter_order": 11}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "note": "孙悟空的记忆起点仅为从山下爬出、见和尚微笑；来意为取回和尚魂灵", "importance": "high", "chapter_order": 11}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "note": "判官称观世音的主意起作用、孙悟空如被驯服的狗——提示上层安排线索", "importance": "high", "chapter_order": 11}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "幽冥王被掷撞陷空山，地府权威受挫", "importance": "medium", "chapter_order": 11}
+{"type": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 12, "note": "本章核心事件：去而复返的「孙悟空」在龙宫后殿亮金箍棒一击，血雾弥散，敖广生死未明；敖广当场称其“你是另一个”。"}
+{"type": "key_statement", "ref_or_local_id": "claim-local-28", "chapter_order": 12, "speaker": {"path": "characters/char-0032/index.json", "record_id": "char-0032"}, "certainty": "reported", "note": "“你……你是另一个……”——本章对“两个孙悟空”的唯一显式台词级提示，身份谜团关键证据。"}
+{"type": "key_statement", "ref_or_local_id": "claim-local-8", "chapter_order": 12, "speaker": {"path": "characters/char-0032/index.json", "record_id": "char-0032"}, "certainty": "reported", "note": "天庭明令不得帮助那四人、四人命数由上天定好不可违改——势力层面约束首次被点明。"}
+{"type": "key_statement", "ref_or_local_id": "claim-local-7", "chapter_order": 12, "speaker": {"path": "characters/char-0017/index.json", "record_id": "char-0017"}, "certainty": "reported", "note": "小白龙求取定颜珠以保存唐僧肉身至寻回魂魄，为其后续行动目标。"}
+{"type": "character_turn", "ref_or_local_id": "claim-local-10", "chapter_order": 12, "subject": {"path": "characters/char-0017/index.json", "record_id": "char-0017"}, "note": "小白龙与父王重逢后仍选择离开龙宫，并获允准带走定颜珠。"}
+{"type": "character_turn", "ref_or_local_id": "claim-local-24", "chapter_order": 12, "subject": {"candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"}, "note": "同章内出现与“孙悟空”不同行为逻辑的第二来访者，对敖广转為敌对并动手。"}
+{"kind": "event_ref", "local_id": "ev-local-1", "note": "小白龙前史事件：偷出龙宫、化鲤游海、现出龙形、望见大陆复化鲤鱼", "chapter_order": 13}
+{"kind": "claim_ref", "local_id": "claim-local-11", "note": "叙述将\"小龙女\"与\"小白龙\"指为同一存在的关键语句（anchor: 小白龙的身形现了出来）", "chapter_order": 13}
+{"kind": "claim_ref", "local_id": "claim-local-16", "note": "章末\"宿命\"式收束句，为后续游历/取经线埋线", "chapter_order": 13}
+{"kind": "identity_link", "local_id": "idlink-local-1", "note": "char-0046 与 char-0017 疑似同一存在，待汇总阶段裁定", "chapter_order": 13}
+{"kind": "setting", "local_id": "setting-local-2", "note": "化鲤/化龙之变的能力展示（首次出现金龙形态与龙身现形）", "chapter_order": 13}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "reason": "小白龙由水入世、首次主动接触凡人的关键节点，并揭示「离水失神通」这一能力限制", "chapter_order": 14}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "reason": "金鲤被和尚带走，构成取经人线索的钩子，直接影响后续小白龙去向", "chapter_order": 14}
+{"ref_or_local_id": "claim-local-1", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "reason": "小白龙动机的核心表述（想了解一个人、探知他的心），人物转折点", "chapter_order": 14}
+{"ref_or_local_id": "claim-local-12", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "reason": "和尚夺鱼跑出城的既成事实，用于后续身份与去向核对", "chapter_order": 14}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 15, "reason": "玄奘首次在公开场合展示机锋与胆识，令云游禅师认输，\"一战成名\"，是其人物线的起点事件"}
+{"kind": "claim", "ref_or_local_id": "claim-local-35", "chapter_order": 15, "reason": "玄奘自陈所求的核心宣言（天遮不住眼、诸佛烟消云散），后续人物走向的关键锚点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "chapter_order": 15, "reason": "玄奘称看见\"会脸红的白色百灵\"，是否识破小白龙身份存疑，跨章悬念"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 15, "reason": "小白龙人形\"白衣绝美女子\"且为\"本相\"，形态设定的定锚"}
+{"kind": "identity_link_candidate", "ref_or_local_id": "identity-link-local-1", "chapter_order": 15, "reason": "玄奘(char-0053) 与 唐僧(char-0001) 疑为同一人物的不同阶段，待后续判定"}
+{"kind": "setting", "ref_or_local_id": "setting-candidate-金山寺", "chapter_order": 15, "reason": "本章主要场景与玄奘所属寺院，后续章节点可能复用"}
+{"record_id": "ev-local-3", "kind": "event", "chapter_order": 16, "note": "玄奘正式离寺远行，携化金色鲤鱼的小白龙；本章为全书远行起点标记"}
+{"record_id": "claim-l2", "kind": "claim", "chapter_order": 16, "note": "如来「是他。他又回来了。」——高悬念钩子，指代未明"}
+{"record_id": "claim-l12", "kind": "claim", "chapter_order": 16, "note": "玄奘身世关键陈述（江上飘来、姓名不知、父母不识），由玄淇说出"}
+{"record_id": "claim-l23", "kind": "claim", "chapter_order": 16, "note": "小白龙本体为金色鲤鱼、被玄奘以钵盂带走"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "chapter_order": 17, "note": "玄奘放归小白龙，小白龙未表露身份离去"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-10", "chapter_order": 17, "note": "小白龙向出海口游去，珍珠沉江"}
+{"kind": "character_turn", "ref_or_local_id": "claim-local-9", "chapter_order": 17, "note": "小白龙欲现真身相伴而最终未行"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-1", "chapter_order": 17, "note": "玄奘自述当年从此处来（reported）"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 18, "note": "stage-002 末章（第8/8章）高潮：孙悟空在灵霄殿被天兵合围、因金箍受制负伤，反叛局面成形，应转入 stage-003"}
+{"ref_or_local_id": "cl-15", "kind": "claim", "chapter_order": 18, "note": "沙悟净当殿指证孙悟空与万灵之森女妖阿瑶勾结害师（沙之说，reported）——后续诬告线的核心"}
+{"ref_or_local_id": "cl-17", "kind": "claim", "chapter_order": 18, "note": "太上老君自述沙悟净为其安插在取经队伍中的监视者（reported）——重要关系与势力动向"}
+{"ref_or_local_id": "cl-8", "kind": "claim", "chapter_order": 18, "note": "太上老君已布十万天兵且断言孙悟空什么都不记得（reported），玉帝态度受其影响"}
+{"ref_or_local_id": "cl-1", "kind": "claim", "chapter_order": 18, "note": "\"五百年后\"时间跳跃与孙悟空自认不记得天宫的起点，是本章时间线关键锚"}
+{"ref_or_local_id": "cl-22", "kind": "claim", "chapter_order": 18, "note": "金箍收紧致孙悟空坠地——能力受限的首次明确展示（近身格斗中被外力打断）"}

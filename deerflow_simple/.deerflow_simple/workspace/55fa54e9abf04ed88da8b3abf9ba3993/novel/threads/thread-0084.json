@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0084",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 39,
+  "label": "真假孙悟空之争尚未在叙述层面裁定",
+  "introduced_at": 39,
+  "updates": [
+    {
+      "id": "update-thread-0084-001",
+      "revealed_at": 39,
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "category": "unresolved_conflict",
+      "status": "open",
+      "role": "continuation",
+      "summary": "第38章有两根金箍棒混战、风雪弥漫；本章开头风雪散去、原处空无一物，孙悟空现身并被武曲星君以「没带金箍儿」指为假；孙悟空未正面证实或否认，诸神亦未再判定。后续章节开篇显示孙悟空自雪雾中撞出后身处异地，可见此线索尚未收束。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

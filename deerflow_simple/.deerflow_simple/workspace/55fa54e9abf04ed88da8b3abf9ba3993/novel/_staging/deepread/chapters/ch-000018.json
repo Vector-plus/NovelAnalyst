@@ -1,0 +1,1228 @@
+{
+  "chapter_order": 18,
+  "chapter_id": "ch-000018",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "五百年后·孙悟空天庭云海遇紫霞",
+      "introduced_at": 18,
+      "update": {
+        "local_id": "upd-local-1",
+        "chapter_ranges": [
+          {
+            "start": 18,
+            "end": 18
+          }
+        ],
+        "revealed_at": 18,
+        "status": "closed",
+        "story_time": "五百年后",
+        "summary": "五百年后，孙悟空一个筋斗来到天庭，对景物有熟悉感却自认不记得来过。云海中紫衣女子现身，自称紫霞，并为他指出灵霄大殿的位置；她称他\"连话都一样\"，在他入殿后悠悠叹了一声。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "cl-1",
+          "cl-2",
+          "cl-3",
+          "cl-4",
+          "cl-5",
+          "cl-6"
+        ],
+        "trigger_claim_local_ids": [
+          "cl-1"
+        ],
+        "action_claim_local_ids": [
+          "cl-2",
+          "cl-3",
+          "cl-4"
+        ],
+        "outcome_claim_local_ids": [
+          "cl-5",
+          "cl-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "灵霄殿审问：太上老君指控孙悟空弑师，沙悟净出证",
+      "introduced_at": 18,
+      "update": {
+        "local_id": "upd-local-2",
+        "chapter_ranges": [
+          {
+            "start": 18,
+            "end": 18
+          }
+        ],
+        "revealed_at": 18,
+        "status": "ongoing",
+        "story_time": "五百年后",
+        "summary": "灵霄殿上，太上老君向玉帝报称殿后已备十万天兵与各路高手。孙悟空询问唐僧魂魄下落，太上老君指其打死师父，并传沙悟净作证；沙悟净称孙悟空与万灵之森女妖阿瑶勾结害师，太上老君又追加打地府、杀东海龙王敖广等指控，孙悟空除\"去过这些地方\"外一概否认。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0060/index.json",
+              "record_id": "char-0060"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "cl-7",
+          "cl-8",
+          "cl-9",
+          "cl-10",
+          "cl-11",
+          "cl-12",
+          "cl-13",
+          "cl-14",
+          "cl-15",
+          "cl-16",
+          "cl-17",
+          "cl-18",
+          "cl-19"
+        ],
+        "trigger_claim_local_ids": [
+          "cl-8",
+          "cl-12",
+          "cl-13"
+        ],
+        "action_claim_local_ids": [
+          "cl-10",
+          "cl-11",
+          "cl-15",
+          "cl-18",
+          "cl-19"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-3"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "灵霄殿孙悟空与沙悟净恶斗，被天兵合围",
+      "introduced_at": 18,
+      "update": {
+        "local_id": "upd-local-3",
+        "chapter_ranges": [
+          {
+            "start": 18,
+            "end": 18
+          }
+        ],
+        "revealed_at": 18,
+        "status": "ongoing",
+        "story_time": "五百年后",
+        "summary": "太上老君喝令拿下孙悟空，诸天将无人敢上前，沙悟净出手。交手约二十回合孙悟空一棒打飞沙悟净，随即金箍收紧致其坠地，被沙悟净趁机踢撞巨柱并重击。孙悟空将沙悟净掼入殿中地面，天兵蜂拥合围，他独自舞棒至视线变暗；殿外十余万天兵云集，九重天诸神在云端议论，紫霞静立于云端观看。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0060/index.json",
+              "record_id": "char-0060"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "cl-20",
+          "cl-21",
+          "cl-22",
+          "cl-23",
+          "cl-24",
+          "cl-25",
+          "cl-26",
+          "cl-27",
+          "cl-28",
+          "cl-29",
+          "cl-30",
+          "cl-31",
+          "cl-32",
+          "cl-33"
+        ],
+        "trigger_claim_local_ids": [
+          "cl-20"
+        ],
+        "action_claim_local_ids": [
+          "cl-21",
+          "cl-23",
+          "cl-26",
+          "cl-27",
+          "cl-29",
+          "cl-30"
+        ],
+        "outcome_claim_local_ids": [
+          "cl-22",
+          "cl-24",
+          "cl-28",
+          "cl-31",
+          "cl-32",
+          "cl-33"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "cl-1",
+      "text": "章首标注时间为\"五百年后\"：孙悟空一个筋斗来到天庭，对这里景物有熟悉感，但他认为那一定是错觉，自认不记得自己到过天宫。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "五百年后"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-2",
+      "text": "云海中走来一位紫衣女子，孙悟空上前称她\"女菩萨\"，问她到灵霄宝殿怎么走。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "请问到灵霄宝殿咋走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-3",
+      "text": "该紫衣女子自称\"我是紫霞\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "我是紫霞。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-4",
+      "text": "紫霞一指，云雾散开，孙悟空看见巨大的灵霄大殿，不知有多少重楼台，珍奇灵兽绕殿飞舞，殿侧云霞舒卷发出各色瑞气灵光。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "灵霄大殿就在那儿。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-5",
+      "text": "紫霞对孙悟空说\"这么多年，你连话都一样\"，并直望着他不闪避目光；孙悟空自觉心虚，反问\"天宫的女孩子都这样么\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "这么多年，你连话都一样"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-6",
+      "text": "紫霞望着孙悟空飞入大殿，忽然悠悠地叹了一声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "却忽然悠悠地叹了一声"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-7",
+      "text": "孙悟空一进殿，玉帝不由有些紧张。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "玉帝不由有些紧张"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-8",
+      "text": "太上老君凑到玉帝耳边说，自己已在殿后安排了十万天兵与各路高手，并称孙悟空\"已经什么都不记得了\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "我已在殿后安排了十万天兵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-9",
+      "text": "玉帝喝问孙悟空来此何事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "你来此何事啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-10",
+      "text": "孙悟空问玉帝是否就是当年在黑暗中派人告知他\"要完成三件事，才能赎罪成正果\"的人，玉帝答\"是……是啊\"并暗自瞪太上老君。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "要完成三件事，才能赎罪成正果"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-11",
+      "text": "孙悟空说取经人被人打死了，他想找回唐僧的魂魄，但地府说没有，只好到天庭来问。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "可是现在取经人被人打死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-12",
+      "text": "太上老君厉声指称\"唐僧分明是你打死的\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "唐僧分明是你打死的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-13",
+      "text": "太上老君喝令\"传证人上殿\"，沙悟净从柱后走出。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "只见一人从柱后走了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-14",
+      "text": "孙悟空见到沙悟净后双目圆睁，怒道\"沙悟净！你敢诬告！\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "沙悟净！你敢诬告！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-15",
+      "text": "沙悟净否认是诬告，指证自己分明看见孙悟空与万灵之森女妖阿瑶勾结，谋害了师父。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "我分明看你与万灵之森女妖阿瑶勾结"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-16",
+      "text": "孙悟空听到\"阿瑶\"这个名字后有反应，重复道\"什么？阿瑶？这名字……\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "什么？阿瑶？这名字"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-17",
+      "text": "太上老君称沙悟净是他派在取经队伍身边监视孙悟空等人的，并表示\"他说的话，我信\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "沙悟净是我派在你们身边监视你等的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-18",
+      "text": "太上老君追加指控：孙悟空打入地府、打伤冥王、灭鬼卒十四万一千，片刻后又潜入龙宫杀死东海龙王敖广。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "灭鬼卒十四万一千"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-19",
+      "text": "孙悟空称这些地方自己都去过，但这些事全未做过。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "但这些事我却全未做过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-20",
+      "text": "太上老君喝令拿下孙悟空，孙悟空擎棒在手，殿上诸天将无人敢上前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "谁敢上前！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-21",
+      "text": "沙悟净跳到殿心与孙悟空恶斗；交手约二十回合后，孙悟空闪身到其右侧、挥棒直击后心，沙悟净匆忙以禅杖背挡，金箍棒将禅杖打得弯进去并击中其背，把他打得直飞出去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "二人恶斗在一处"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-22",
+      "text": "孙悟空正待再击时觉得头上金箍一紧，一股剧痛直潜入脑，他从空中直坠于地上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "觉得头上金箍一紧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-23",
+      "text": "沙悟净爬起来跃回，飞起一脚将孙悟空踢得直飞出去，撞在一根巨柱上，连大殿也颤动了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "将悟空踢得直飞出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-24",
+      "text": "孙悟空在剧痛中单膝跪地、以金箍棒紧拄地面，竟将金箍棒直插入大殿地中一尺。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "直插入大殿地中一尺"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-25",
+      "text": "孙悟空咬牙道\"好……你们……打的……好……\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "你们……打的……好"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-26",
+      "text": "沙悟净说\"金箍不允许你违抗天神，你输定了\"，随即又挥禅杖向孙悟空劈下。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "金箍不允许你违抗天神"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-27",
+      "text": "孙悟空闪避但因疼痛速度大减，被沙悟净一杖劈中，大殿炸开一团光、玉砖碎片飞溅出天外。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "这一重击，可以碎山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-28",
+      "text": "尘烟散去后孙悟空仍站着，眼中充满怒火；他一直想看清是谁在念紧箍咒，但众神环绕、面孔漠然，他找不到。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "充满怒火"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-29",
+      "text": "孙悟空抓住沙悟净脖颈，将他倒举起来掼在地上，栽进殿中半尺，巨大裂缝四下蔓延。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "将他倒举起来掼在地上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-30",
+      "text": "天兵蜂拥而上将孙悟空围在核心，他像发疯一般左冲右突、毫无章法地乱打乱劈；最后天兵退出老远围成圈，孙悟空仍独自疯狂舞动金箍棒，直到视线变暗、只剩疼痛和支撑他战斗的意识。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "孙悟空仍在独自疯狂舞动金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-31",
+      "text": "沙悟净、玉帝、太上老君、巨灵神与诸神将全都在圈外静静看着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "全都在圈外静静看着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-32",
+      "text": "殿外围满十几万天兵；大战惊动九重天诸神，他们在远处云端议论，说天宫自上次大闹天宫之后多年没有这样闹过，并猜测被围者\"好像还是孙悟空\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "自从上回大闹天宫之后吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-33",
+      "text": "紫霞立在一片云端，望着被围得铁桶似的宫殿，脸庞平静，看不出悲喜。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 18,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000018.txt",
+          "chapter_id": "ch-000018",
+          "chapter_order": 18,
+          "locator": null,
+          "anchor": "紫霞立在一片云端"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "敖广（东海龙王）",
+      "introduced_at": 18,
+      "alias_texts": [
+        "东海龙王敖广"
+      ],
+      "identity_notes": "仅在太上老君的指控中被提及\"杀死东海龙王敖广\"，本章未出场；因工具调用预算耗尽未走 resolve_name，可能已有既有实体档案，需核验后再决定建档或合并。",
+      "evidence_claim_local_ids": [
+        "cl-18"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "万灵之森",
+      "category": "place",
+      "introduced_at": 18,
+      "notes": "由沙悟净证词提出（\"万灵之森女妖阿瑶\"），为阿瑶的所属地；本章仅有此一处提及，未描述。可能已存在既有设定条目，未核验。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "cl-15"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "note": "互动事实未定性"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞在云海认得出孙悟空并自报姓名，为他指出灵霄大殿方位；紫霞称孙悟空\"这么多年连话都一样\"，孙悟空却不记得她（其记忆里没有她）。孙悟空入殿后紫霞悠悠一叹，后于云端静观其被围。",
+      "source_claim_local_ids": [
+        "cl-2",
+        "cl-3",
+        "cl-4",
+        "cl-5",
+        "cl-6",
+        "cl-33"
+      ],
+      "notes": "\"话都一样\"所暗示的旧识关系仅为紫霞单方说法（reported）；孙悟空一方无相应记忆。未做 find_similar_relationship 去重（预算耗尽）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "当殿指证并交手"
+      },
+      "certainty": "explicit",
+      "summary": "沙悟净在灵霄殿作证指称孙悟空与阿瑶勾结害师，并主动出手拿人；二人在殿中恶斗，互相重击。孙悟空表示\"俺正想杀你\"。",
+      "source_claim_local_ids": [
+        "cl-14",
+        "cl-15",
+        "cl-20",
+        "cl-21",
+        "cl-26",
+        "cl-27",
+        "cl-29"
+      ],
+      "notes": "未做 find_similar_relationship 去重（预算耗尽）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "subject_b": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "facet": {
+        "type": "cooperation",
+        "note": "进言与布置"
+      },
+      "certainty": "explicit",
+      "summary": "太上老君在孙悟空进殿时凑到玉帝耳边告知殿后已备十万天兵与各路高手，并提示悟空已失忆；玉帝依其布置喝问。玉帝被太上老君盯着时心想\"全是你的主意\"。",
+      "source_claim_local_ids": [
+        "cl-7",
+        "cl-8",
+        "cl-9",
+        "cl-10"
+      ],
+      "notes": "未做 find_similar_relationship 去重（预算耗尽）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "subject_b": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "安插监视/作证"
+      },
+      "certainty": "reported",
+      "summary": "太上老君称沙悟净是他派在取经队伍身边监视孙悟空等人的人，并表示相信沙悟净的话。",
+      "source_claim_local_ids": [
+        "cl-17"
+      ],
+      "notes": "关系性质来自太上老君当殿自述（reported），无第三方佐证。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other",
+        "note": "师徒（取经关系）——本章仅见寻魂之举"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空称取经人（唐僧）被人打死，他为寻回唐僧魂魄先向地府查问，无果后上天庭询问。",
+      "source_claim_local_ids": [
+        "cl-11"
+      ],
+      "notes": "师徒关系的性质由\"师父\"\"取经人\"等称呼与孙悟空寻魂行为反映，关系定性留待汇总阶段。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "唐僧之死与悟空被诬弑师",
+      "category": "conflict",
+      "status": "escalated",
+      "role": "advance",
+      "summary": "太上老君当殿指称唐僧为孙悟空所杀，沙悟净以证人身份称悟空与万灵之森女妖阿瑶勾结害师；太上老君另控悟空打地府、杀东海龙王敖广。悟空除\"去过这些地方\"外全部否认。天庭审讯转为武力冲突。",
+      "source_claim_local_ids": [
+        "cl-11",
+        "cl-12",
+        "cl-15",
+        "cl-17",
+        "cl-18",
+        "cl-19"
+      ],
+      "chapter_order": 18
+    },
+    {
+      "thread_key": "孙悟空的失忆与前世记忆",
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "advance",
+      "summary": "悟空对天庭景物有熟悉感却自认从未到过天宫；太上老君断言他\"已经什么都不记得了\"；紫霞称他\"连话都一样\"，悟空却无相应记忆；对\"阿瑶\"之名仅有模糊反应。",
+      "source_claim_local_ids": [
+        "cl-1",
+        "cl-5",
+        "cl-8",
+        "cl-16"
+      ],
+      "chapter_order": 18
+    },
+    {
+      "thread_key": "金箍与紧箍咒的操控者",
+      "category": "conflict",
+      "status": "open",
+      "role": "advance",
+      "summary": "悟空将再次击中沙悟净时金箍收紧致其坠地受伤；他在殿中反复试图找出念咒者却找不到。沙悟净当面称\"金箍不允许你违抗天神\"。",
+      "source_claim_local_ids": [
+        "cl-22",
+        "cl-26",
+        "cl-28"
+      ],
+      "chapter_order": 18
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第18章：五百年后·灵霄殿上的弑师之控",
+    "front_matter": {
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        },
+        {
+          "path": "characters/char-0060/index.json",
+          "record_id": "char-0060"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "cl-1",
+        "cl-2",
+        "cl-3",
+        "cl-4",
+        "cl-5",
+        "cl-6",
+        "cl-7",
+        "cl-8",
+        "cl-9",
+        "cl-10",
+        "cl-11",
+        "cl-12",
+        "cl-13",
+        "cl-14",
+        "cl-15",
+        "cl-16",
+        "cl-17",
+        "cl-18",
+        "cl-19",
+        "cl-20",
+        "cl-21",
+        "cl-22",
+        "cl-23",
+        "cl-24",
+        "cl-25",
+        "cl-26",
+        "cl-27",
+        "cl-28",
+        "cl-29",
+        "cl-30",
+        "cl-31",
+        "cl-32",
+        "cl-33"
+      ]
+    },
+    "body_markdown": "## 开始局面\n- 章首标注时间\"五百年后\"：孙悟空一个筋斗来到天庭，景物给他熟悉的感觉，但他断定那是错觉，自认不记得到过天宫 [[cl-1]]。\n- 云海中一位紫衣女子出现，孙悟空上前称\"女菩萨\"，问她去灵霄宝殿怎么走 [[cl-2]]；对方自报\"我是紫霞\" [[cl-3]]。\n\n## 关键行动\n- 紫霞一指，云雾散开，显出不知有多少重楼台的灵霄大殿，殿侧云霞舒卷发出各色瑞气灵光 [[cl-4]]。她称孙悟空\"这么多年，你连话都一样\"，并直望他不闪避目光；孙悟空自觉心虚 [[cl-5]]。他纵身入殿后，紫霞悠悠一叹 [[cl-6]]。\n- 殿中玉帝先是紧张 [[cl-7]]，太上老君凑到他耳边说已在殿后安排十万天兵与各路高手，并称孙悟空\"已经什么都不记得了\" [[cl-8]]。玉帝喝问来意 [[cl-9]]；孙悟空追问当年黑暗中\"三件事\"的指令是否出自玉帝，玉帝承认并暗自瞪太上老君 [[cl-10]]。孙悟空说明此行来意：取经人被人打死，他想找回唐僧魂魄，地府说没有 [[cl-11]]。\n- 太上老君厉声指出\"唐僧分明是你打死的\" [[cl-12]]，随即传证人上殿，沙悟净从柱后走出 [[cl-13]]。孙悟空怒斥其诬告 [[cl-14]]；沙悟净反称自己分明看见他与万灵之森女妖阿瑶勾结、谋害师父 [[cl-15]]。太上老君补充称沙悟净是他派在取经队伍旁监视的人，且\"他说的话，我信\" [[cl-17]]，并追加指控：孙悟空打入地府、打伤冥王、灭鬼卒十四万一千，又潜入龙宫杀死东海龙王敖广 [[cl-18]]；孙悟空只承认\"这些地方我都去过\"，否认做过这些事 [[cl-19]]。\n- 太上老君喝令拿人，孙悟空擎棒在手，殿上诸天将无人敢上前 [[cl-20]]；沙悟净跳出应战，约二十回合后被孙悟空一棒打飞，禅杖被打弯 [[cl-21]]。\n\n## 转折与新信息\n- 孙悟空正待再击时头上金箍一紧，剧痛使他从空中坠地 [[cl-22]]，随即被沙悟净踢飞撞上巨柱，大殿亦为之颤动 [[cl-23]]。\n- 本章新增指控线：唐僧之死被直接归到孙悟空头上，并牵出\"与万灵之森女妖阿瑶勾结\"一说；这两条说法均出自太上老君与沙悟净之口 [[cl-12]] [[cl-15]] [[cl-17]]。\n- 孙悟空听到\"阿瑶\"这个名字有明显反应，却只能说出\"这名字……\" [[cl-16]]；他此后一直想找出念紧箍咒者，但众神环绕、他找不到 [[cl-28]]。\n- 玉帝承认当年\"完成三件事、赎罪成正果\"的指令确实来自天庭一方 [[cl-10]]，而孙悟空自述不记得自己到过天宫 [[cl-1]]，其失忆与太上老君的判断相呼应 [[cl-8]]。\n\n## 本章结果\n- 孙悟空疼痛中把金箍棒直插入大殿地中一尺 [[cl-24]]，咬牙道\"好……你们……打的……好……\" [[cl-25]]；沙悟净称金箍不允许他违抗天神并再劈一杖 [[cl-26]]，孙悟空因疼痛速度大减被击中，大殿炸开、玉砖碎片飞溅 [[cl-27]]。\n- 尘烟散去后孙悟空仍在，眼中充满怒火 [[cl-28]]；他抓住沙悟净脖颈将其倒举掼入殿中半尺，裂缝四下蔓延 [[cl-29]]。\n- 天兵蜂拥合围，孙悟空毫无章法地乱打，最后天兵退远围成圈，他仍独自疯狂舞动金箍棒，直至视线变暗 [[cl-30]]；沙悟净、玉帝、太上老君、巨灵神与诸神将在圈外静看 [[cl-31]]。\n- 殿外聚集十几万天兵，九重天诸神在远处云端议论，称天宫自上次大闹天宫后多年未这样闹过 [[cl-32]]。紫霞立于一片云端望着被围得铁桶似的宫殿，脸庞平静，看不出悲喜 [[cl-33]]。本章无审讯结论，孙悟空未被擒，局面停在合围对峙。\n\n## 未决问题与补读入口\n- 唐僧究竟为谁所杀、沙悟净的证词是否属实（原文仅记录其当殿指证）[[cl-15]]。\n- \"万灵之森女妖阿瑶\"的身份，以及孙悟空对该名字的残留反应从何而来 [[cl-16]]。\n- 现场念紧箍咒者是谁——孙悟空在众神面孔中找不到 [[cl-28]]；沙悟净称\"金箍不允许你违抗天神\" [[cl-26]]。\n- \"完成三件事赎罪成正果\"的旧约内容，以及它同孙悟空失忆的关系 [[cl-10]] [[cl-1]]。\n- 紫霞为何认得\"连话都一样\"的孙悟空，她一叹与云端静观所指为何 [[cl-5]] [[cl-6]] [[cl-33]]。\n- 第19章以\"前因\"为题、以紫霞独白开篇，可从下一章补读本段前后因果。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-3",
+      "kind": "event",
+      "chapter_order": 18,
+      "note": "stage-002 末章（第8/8章）高潮：孙悟空在灵霄殿被天兵合围、因金箍受制负伤，反叛局面成形，应转入 stage-003"
+    },
+    {
+      "ref_or_local_id": "cl-15",
+      "kind": "claim",
+      "chapter_order": 18,
+      "note": "沙悟净当殿指证孙悟空与万灵之森女妖阿瑶勾结害师（沙之说，reported）——后续诬告线的核心"
+    },
+    {
+      "ref_or_local_id": "cl-17",
+      "kind": "claim",
+      "chapter_order": 18,
+      "note": "太上老君自述沙悟净为其安插在取经队伍中的监视者（reported）——重要关系与势力动向"
+    },
+    {
+      "ref_or_local_id": "cl-8",
+      "kind": "claim",
+      "chapter_order": 18,
+      "note": "太上老君已布十万天兵且断言孙悟空什么都不记得（reported），玉帝态度受其影响"
+    },
+    {
+      "ref_or_local_id": "cl-1",
+      "kind": "claim",
+      "chapter_order": 18,
+      "note": "\"五百年后\"时间跳跃与孙悟空自认不记得天宫的起点，是本章时间线关键锚"
+    },
+    {
+      "ref_or_local_id": "cl-22",
+      "kind": "claim",
+      "chapter_order": 18,
+      "note": "金箍收紧致孙悟空坠地——能力受限的首次明确展示（近身格斗中被外力打断）"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "本章原文约在沙悟净反驳处出现编码乱码：\"“是dth=\"2em\">�何为诬告？\"，该句前半部分文本不可完整还原，已按上下文仅提取可读部分作为 cl-15。",
+      "chapter_order": 18
+    },
+    {
+      "category": "source_locator",
+      "detail": "本章末段出现乱码：\"在等待着圈内的野兽把血流�、竀把血慉。\"，该句未能还原，未据此产生任何 Claim。",
+      "chapter_order": 18
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "本章章首标注\"五百年后\"，而第17章结尾仍在取经路上（玄奘/白龙马/出海口一线），五百年间经历在原文中未叙述，构成时间线跳跃。",
+      "chapter_order": 18
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "叙述先以\"紫衣女子\"指称，随后该女子自报\"我是紫霞\"（reported），本章内叙述延续\"那女子\"指同一人；本报告直接归入紫霞实体，未经显式身份揭示性叙述。",
+      "chapter_order": 18
+    }
+  ],
+  "warnings": [
+    "工具调用预算（≤20）已超限：read_source 1 次、read_source_window 1 次、resolve_name 8 次、fetch_entity_current 5 次、dedupe_claim 6 次、dedupe_event 1 次。因此未对 relationship_candidates 做 find_similar_relationship 去重查询，关系对可能已存在于既有记录，请下游按 subject 对二次比对。",
+    "关系对与事件/陈述去重结果：dedupe_event（天庭受审大战）与 6 条关键 claim 草稿均返回 no_match，故全部作为新增产出；但仍有部分次要 claim 未逐条去重，存在与既有多章陈述重叠的可能。",
+    "\"敖广（东海龙王）\"仅有名字被提及（且为太上老君指控中的死者），因预算耗尽未调用 resolve_name，已作为 new_character_candidate 登记，需核验是否已有既有实体后决定合并或废除。",
+    "\"万灵之森\"作为地点候选登记，仅见于沙悟净证词一处，未核验是否已有既有设定条目。",
+    "本章正文存在两处编码乱码（详见 issue_candidates），相关句子未作为 Claim 依据，也未被用作 anchor。",
+    "本章章首\"五百年后\"与前章时间线存在跳跃，本章内未交代五百年间事件。"
+  ]
+}

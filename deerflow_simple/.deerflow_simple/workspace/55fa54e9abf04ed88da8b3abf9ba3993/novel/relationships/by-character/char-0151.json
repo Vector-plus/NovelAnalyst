@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0151",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 60,
+  "title": "黑翼鸟 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 60,
+        "end": 60
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0151/index.json",
+        "record_id": "char-0151"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0068.json",
+        "record_id": "rel-0068"
+      },
+      "kind": "relationship",
+      "title": "黑翼鸟×黄袍怪",
+      "summary": "与黑翼鸟×黄袍怪的关系",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0151/index.json",
+          "record_id": "char-0151"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    }
+  ]
+}

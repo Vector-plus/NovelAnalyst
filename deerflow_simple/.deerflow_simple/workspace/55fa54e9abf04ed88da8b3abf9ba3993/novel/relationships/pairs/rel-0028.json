@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0028",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 12,
+  "introduced_at": 12,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0032/index.json",
+      "record_id": "char-0032"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0028-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "as_of": 12,
+      "revealed_at": 12,
+      "summary": "敖广称孙悟空为「大圣」，自称领教过他的信誉、知道金箍棒的事，并问他是否全不记得从前；孙悟空先借珠被拒、后又折返威胁并亮棒击向他，敖广求情无效。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "敖广称孙悟空为「大圣」，自称领教过他的信誉、知道金箍棒的事，并问他是否全不记得从前；孙悟空先借珠被拒、后又折返威胁并亮棒击向他，敖广求情无效。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0246"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0247"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0248"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0255"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0258"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0259"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第5章起与辛妮在赛道上正面竞逐的主要对手，第6章马拉松胜负落定；个人背景与赛后去向尚未展开。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第4—7章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0018/stages/stage-002.md",
+        "record_id": "doc-char-0018-stage-002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "char-0018",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 4,
+  "kind": "entity_index",
+  "label": "埃玛（弗朗西丝·埃玛）",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 7,
+  "schema_version": "2.0"
+}

@@ -1,0 +1,1170 @@
+{
+  "chapter_order": 58,
+  "chapter_id": "ch-000058",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-006"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "草原遭遇黑羽怪鸟群与白龙马突围",
+      "introduced_at": 58,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 58,
+            "end": 58
+          }
+        ],
+        "revealed_at": 58,
+        "status": "concluded",
+        "story_time": "第二天",
+        "summary": "第二天行路途中天色转暗，天空出现成群血红嘴、锋利羽毛的黑色怪鸟。孙悟空先喊「有妖气」，随即看见鸟群后精神失常倒地抽搐。唐僧、猪八戒、沙僧与白马躲进土坑，怪鸟见唐僧冲出便如得令般俯冲。唐僧先后甩出袈裟（喝「万佛朝宗，破！」）与布衫（喊「金蝉脱壳！」）惊退、诱开怪鸟，猪八戒挥钉耙卷起狂风搅落羽毛；随后白龙马驮唐僧与孙悟空疾驰，怪鸟的羽箭追之不及。白龙马猛停，二人摔在草丛中。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白龙马"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "白龙马将唐僧与孙悟空带到长安城下",
+      "introduced_at": 58,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 58,
+            "end": 58
+          }
+        ],
+        "revealed_at": 58,
+        "status": "concluded",
+        "story_time": "第二天（怪鸟袭击之后）",
+        "summary": "白龙马把唐僧与孙悟空带到一处城墙下。唐僧认出城墙像女儿国，再看城楼所写，惊觉是长安，坐地大笑，说「我走了七八年，原来在你眼里不过是这么短的路程。」小白马轻嘶，用头轻碰他，好像在安慰。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白龙马"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [],
+        "outcome_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "孙悟空旧忆发作与唐僧摸头引发的冲突",
+      "introduced_at": 58,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 58,
+            "end": 58
+          }
+        ],
+        "revealed_at": 58,
+        "status": "concluded",
+        "story_time": "第二天（雨后，白天）",
+        "summary": "孙悟空在地上昏迷呓语「我的花果山」，随即翻身擎出金箍棒，吼「如来！出来与我大战三百回合！」唐僧以「你又在做梦么？」回应。澄清理后唐僧伸手抚摸孙悟空的头，孙悟空如遭雷击跳起举棒怒吼，称没有人敢碰他的头。唐僧缩手，记起眼前这只猴并非他少年时山中常抚摸的猴子同类，并低声说「从没有人……是的，你没有父母，我忘了。」孙悟空举棒愣住，白马长嘶。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "夜晚火堆旁关于袈裟、紧箍咒与「那一天」的对话",
+      "introduced_at": 58,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 58,
+            "end": 58
+          }
+        ],
+        "revealed_at": 58,
+        "status": "concluded",
+        "story_time": "夜间（同一日）",
+        "summary": "夜间火堆边，猪八戒问唐僧是否把观音给的护体袈裟丢了，唐僧答袈裟特别吸引妖精、丢了就能护体，是宝物；猪八戒抱怨唐僧每夜拿袈裟给他盖上，蚊子全叮自己。孙悟空在睡梦中说「好沉，好沉！」手脚乱挥，猪八戒说这猴子在五行山下被压出毛病。猪八戒问紧箍咒能压他多久、紧箍儿怎能压住这样的人，并提到还有那么多愿意用自己的命换他自由的人，说迟早有一天那人会消灭面前的所有东西，包括你和我。唐僧答「我也在等那一天」，并说「我知道，但我会等那一天。」",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [],
+        "outcome_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-28"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "第二天，孙悟空在密林中质问唐僧究竟要把他们带到什么鬼地方；唐僧回答「这个世界上本来是没有路的，因为有人要到他想去的地方，所以他们需要一条路，其实路通向哪儿也没关系」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "这个世界上本来是没有路的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空说「我受够你了！不过我现在不会去想你到底说的是什么意思了，我再也不想了！」；唐僧评价他「你的境界又高了一层了」。随后唐僧掉进泥坑，说「要下雨了」，天际黑云向四人卷来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空喊「有妖气！」；猪八戒反驳说那是一群大鸟，并描述其血红的嘴、如刀锋利的羽毛与燃烧的眼睛。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "有妖气！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "唐僧、猪八戒、沙僧连着白马跳进一个土坑露出头来，只有孙悟空一人独立在漫天飞旋的黑色羽翼下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空望着满天黑色飞鸟四肢僵硬，大喊「这……不会……这不会是你们……不！！！」并抱住头倒在地上抽搐。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "抱住了头倒在地上抽搐"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "猪八戒想去取小白马身上的包袱，被踹了回来；唐僧从土坑中一跃而出，冲向地上的孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧把身上袈裟一甩，一道红光直冲天空，喝「万佛朝宗，破！」，怪鸟受惊俯冲后又惊鸣着飞起、交错划过他们头顶。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "万佛朝宗，破！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "唐僧抱住孙悟空就跑，并说「笨鸟！你们什么时候见过唐僧会法术？」——唐僧自称不会法术。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "你们什么时候见过唐僧会法术"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "唐僧又扯下身上布衫一抛，喊「金蝉脱壳！」，无数黑光在布袍上穿梭，布袍未落地已成碎片，唐僧因此多跑出几丈。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "金蝉脱壳！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "猪八戒摆动钉耙，卷起呼呼狂风，搅下无数黑色羽毛并在四周旋转。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "无边黑色中射进一道白色闪电，唐僧带着孙悟空骑白龙马飞驰，黑色羽箭在后面疾飞却追不上白马的骄影。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "忽然射进了一道白色闪电"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "白龙马猛地一停，马上二人向前栽出摔在草丛中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "唐僧站起后认出城墙像女儿国，城楼上写的却是长安，惊问「你怎么跑回长安来了！」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "你怎么跑回长安来了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "唐僧坐地大笑，说「我走了七八年，原来在你眼里不过是这么短的路程。」——唐僧自述已西行走过七八年。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "我走了七八年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "小白马轻嘶一声，走过来用头轻碰唐僧，好像在安慰他一般。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白龙马"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空在地上昏迷呓语「不是我……不是……我的花果山……」，忽然翻身蹦起擎出金箍棒，吼「如来！出来与我大战三百回合！」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "如来！出来与我大战三百回合！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "唐僧说「你又在做梦么？」，孙悟空醒转后问自己刚才喊了什么、天为何这么冷、唐僧为何光膀子；唐僧答「我最后的一套衣服送去洗了还没干。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "玄奘看着孙悟空，伸出手在他的头上抚摸了一下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "在他的头上抚摸了一下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空像被雷劈一样跳起，举着棒子对唐僧怒吼「你干什么！」，冷雨浇在他身上冒出丝丝白气。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空咆哮称没有人敢碰他的头，质问唐僧是否因此轻视他；唐僧缩回手，并记起眼前这只猴并不是他少年时在山中常抚摸的那些猴子的同类。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "没有人敢碰我的头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "唐僧低头轻声说「从没有人……是的，你没有父母，我忘了。」并说了抱歉；孙悟空举着金箍棒愣在那里，白马长嘶一声。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "你没有父母，我忘了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "夜间火堆边，猪八戒问唐僧是否把袈裟丢了，并说那是观音给他的护体袈裟。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "那可是观音给你的护体袈裟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "唐僧答说袈裟「特别吸引妖精，丢了它就能护体，真是宝物」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "特别吸引妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "猪八戒抱怨唐僧每夜拿袈裟给他盖上，结果所有蚊子全叮他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空躺着说梦话「好沉，好沉！」手在空中乱挥；猪八戒说「这猴子在五行山下被压出毛病来了」，唐僧说「何止是毛病！」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "这猴子在五行山下被压出毛病来了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "猪八戒说「紧箍咒能压着他多久？紧箍儿怎么可能压住这样的一个人？还有那么多愿意用自己的命换他的自由的人。我想，迟早有一天……」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "紧箍儿怎么可能压住这样的一个人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "猪八戒说「那一天他会消灭所有他面前的东西，包括你和我。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "包括你和我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "唐僧两次表示在等「那一天」：先答「我也在等那一天」，又说「我知道，但我会等那一天。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 58,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000058.txt",
+          "chapter_id": "ch-000058",
+          "chapter_order": 58,
+          "locator": null,
+          "anchor": "我也在等那一天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "白龙马",
+      "introduced_at": 58,
+      "alias_texts": [
+        "小白马",
+        "白马"
+      ],
+      "identity_notes": "本章中驮唐僧与孙悟空逃离怪鸟群的白马；前章仅以「白马」出现，全章未说明其来历，也未与既有「小白龙」实体建立明示同一关系。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-15"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "黑羽怪鸟群",
+      "kind": "creature_group",
+      "introduced_at": 58,
+      "notes": "成群自天际卷来的黑色大鸟，血红嘴、锋利羽毛、燃烧的眼睛；见唐僧冲出便如得命令般俯冲射下，未说明归属或来历。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "万佛朝宗",
+      "category": "technique_or_incantation",
+      "introduced_at": 58,
+      "notes": "唐僧甩出袈裟时喝出的名号，伴随一道红光直冲天空，怪鸟受惊。原文随后由唐僧自称「你们什么时候见过唐僧会法术？」，其性质（法术/唬鸟手段）未明确。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "金蝉脱壳",
+      "category": "technique_or_incantation",
+      "introduced_at": 58,
+      "notes": "唐僧抛出布衫时喊出的名号，布袍在空中被黑光穿成碎片，从而延阻怪鸟。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "护体袈裟",
+      "category": "item",
+      "introduced_at": 58,
+      "notes": "猪八戒称其为观音给唐僧的护体袈裟；唐僧说它特别吸引妖精、丢了就能护体。本章中唐僧为退鸟将其甩出，袈裟自此遗失（下一章出现他人拾得）。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "紧箍咒",
+      "category": "constraint",
+      "introduced_at": 58,
+      "notes": "猪八戒口中用来压制孙悟空的紧箍咒/紧箍儿；效力与期限为角色议论内容。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-26"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "白龙马"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "relation": "possible_same_entity",
+      "certainty": "uncertain",
+      "basis_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-11",
+        "claim-local-15"
+      ],
+      "notes": "既有实体「小白龙」与本章「白龙马/小白马/白马」可能为同一存在，但本章原文未作任何明示说明，不合并，仅登记候选。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction",
+        "detail": "师徒同行，唐僧对孙悟空论「路」、在其危机时冲出去救人"
+      },
+      "certainty": "explicit",
+      "summary": "唐僧与孙悟空同行取经；唐僧在怪鸟群中冲出抱住孙悟空逃跑，并称其「境界又高了一层」。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility",
+        "detail": "触碰头部引发孙悟空暴怒对峙"
+      },
+      "certainty": "explicit",
+      "summary": "唐僧伸手抚摸孙悟空的头后，孙悟空跳起举金箍棒怒吼，声称没有人敢碰他的头；唐僧缩手并道歉「从没有人……是的，你没有父母，我忘了」。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "notes": "此为当场冲突的互动事实，不做事后关系定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "cooperation",
+        "detail": "战斗配合与夜间对话"
+      },
+      "certainty": "explicit",
+      "summary": "唐僧喝令猪八戒别再看戏并称要扣晚饭，猪八戒挥钉耙断后；夜间火堆旁猪八戒与唐僧议论袈裟与孙悟空的去留。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-22",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "candidate_name": "白龙马"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "cooperation",
+        "detail": "驮唐僧与孙悟空脱险并以头轻碰安抚"
+      },
+      "certainty": "explicit",
+      "summary": "白龙马冲入怪鸟群中驮唐僧与孙悟空疾驰脱身，停下后以头轻碰唐僧，好像在安慰他。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-15"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "quest_journey",
+      "category": "journey",
+      "status": "ongoing",
+      "role": "progress",
+      "summary": "西行途中第二天遭黑羽怪鸟群袭击，唐僧甩丢护体袈裟与布衫，白龙马驮唐僧、孙悟空脱身，却停在长安城下。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-13"
+      ],
+      "chapter_order": 58
+    },
+    {
+      "thread_key": "kasaya_lost",
+      "category": "object",
+      "status": "open",
+      "role": "new",
+      "summary": "观音所赐护体袈裟被唐僧甩出用以退鸟后遗失，夜间猪八戒提出此事，唐僧答「丢了它就能护体」。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-22",
+        "claim-local-23"
+      ],
+      "chapter_order": 58
+    },
+    {
+      "thread_key": "wukong_memory_and_head_taboo",
+      "category": "character_arc",
+      "status": "open",
+      "role": "new",
+      "summary": "孙悟空因黑色鸟群与旧忆（花果山、与如来对峙）精神失常倒地抽搐；并对被触碰头部极度抗拒，「没有人敢碰我的头」。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-16",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-25"
+      ],
+      "chapter_order": 58
+    },
+    {
+      "thread_key": "that_day_jingu_forecast",
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new",
+      "summary": "猪八戒论紧箍咒压不住孙悟空、还有愿以命换其自由的人，预言「那一天」他会消灭面前所有东西，包括唐僧与自己；唐僧两度答自己也在等那一天。",
+      "source_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28"
+      ],
+      "chapter_order": 58
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第58章：草原怪鸟、长安城下与「那一天」",
+    "front_matter": {
+      "as_of": 58,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        },
+        {
+          "candidate_name": "白龙马"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-20",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-26",
+        "claim-local-28"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n第二天，四人与白马在密林中行进。孙悟空质问唐僧要把他们带到什么「鬼地方」，唐僧答以「这个世界上本来是没有路的，因为有人要到他想去的地方，所以他们需要一条路，其实路通向哪儿也没关系」[[claim-local-1]]。孙悟空宣称自己再也不去想了，唐僧说他「境界又高了一层了」，随即掉进泥坑；天色转暗，黑云向他们卷来[[claim-local-2]]。\n\n## 关键行动\n\n天空出现成群血红嘴、锋利羽毛的黑色怪鸟。孙悟空先喊「有妖气！」被猪八戒反驳为「一群大鸟」[[claim-local-3]]。唐僧、猪八戒、沙僧与白马跳进土坑，只留孙悟空独自站在漫天黑色羽翼下；孙悟空望着鸟群四肢僵硬，大喊「这不会是你们……不！！！」抱住头倒地抽搐[[ev-local-1]]。怪鸟见唐僧从土坑冲出便如得命令般俯冲射下。\n\n唐僧甩出袈裟，一道红光直冲天空，喝「万佛朝宗，破！」惊得怪鸟飞起[[claim-local-7]]；随后又抛布衫喊「金蝉脱壳！」，布袍未落地已成碎片，借此多跑出几丈[[claim-local-9]]。猪八戒挥钉耙卷起狂风搅落黑羽。关键转折是一道白色闪电射入——白龙马驮唐僧与孙悟空疾驰，怪鸟羽箭追之不及，终因白龙马猛停，二人摔进草丛[[claim-local-11]]。\n\n## 转折与新信息\n\n- **停在了长安城下**：唐僧认出城墙像女儿国，城楼所写却是长安，惊问「你怎么跑回长安来了！」，随后坐地大笑，说自己走了七八年，在「你眼里不过是这么短的路程」[[claim-local-13]]。小白马轻嘶，用头轻碰他，好像在安慰。\n- **孙悟空的旧忆发作**：昏迷中呓语「我的花果山」，翻身擎出金箍棒吼「如来！出来与我大战三百回合！」[[claim-local-16]]。\n- **摸头禁忌**：唐僧伸手在孙悟空头上抚摸了一下，孙悟空如遭雷击跳起举棒怒吼，称「没有人敢碰我的头」，质问唐僧是否因此轻视他[[claim-local-18]][[claim-local-20]]。唐僧缩手，记起眼前这只猴并非少年山中常抚摸的猴子的同类，低声说「从没有人……是的，你没有父母，我忘了」并道歉；孙悟空举棒愣住。\n- **袈裟遗失**：夜间火堆边猪八戒指出唐僧丢了观音所赐的护体袈裟，唐僧答「特别吸引妖精，丢了它就能护体，真是宝物」[[claim-local-22]][[claim-local-23]]。\n\n## 本章结果\n\n- 怪鸟群袭击结束，唐僧的袈裟与布衫均毁/丢失，一行人生还。\n- 白龙马把唐僧与孙悟空带到了长安城下；唐僧对此大笑着自嘲路程之短。\n- 孙悟空在睡梦中喊「好沉，好沉！」乱挥手，猪八戒称这是「在五行山下被压出毛病来了」。\n- 夜里，猪八戒论紧箍咒压不住这样的人，并提到「还有那么多愿意用自己的命换他的自由的人」，预言那一天孙悟空会消灭面前所有东西，「包括你和我」；唐僧两次答自己在等那一天[[claim-local-26]][[claim-local-28]]。\n\n## 未决问题与补读入口\n\n- 白马（本章称白龙马/小白马）为何能把人带到长安，是否与既有「小白龙」为同一存在：本章无任何明示说明，已登记身份候选待核。\n- 黑色怪鸟群的来历与归属未交代；孙悟空所称「不会是你们」指谁未明。\n- 丢失的护体袈裟去向未在本章交代，需接续下一章。\n- 猪八戒所说「愿意用自己的命换他的自由的人」具体所指未明。\n- 原文「我笑尖敢！□了，你就轻视我是吗？」处存在乱码/缺字，引文语气与语义存疑，已登记来源问题。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-1",
+      "note": "本章首个战斗事件，含唐僧施法喊「万佛朝宗」「金蝉脱壳」与白龙马首次载人突围"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-4",
+      "note": "唐僧与猪八戒关于紧箍咒与「那一天」的对话，为孙悟空后期走向的重要伏笔"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-13",
+      "note": "白龙马将人带到长安城下，空间异常"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-18",
+      "note": "唐僧抚摸孙悟空头部触发暴怒，确立「碰头」禁忌"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-23",
+      "note": "护体袈裟遗失，人物与物品线索的接续点"
+    },
+    {
+      "kind": "character_candidate",
+      "local_id": "白龙马",
+      "note": "需在后续章节确认与「小白龙」的关系"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "原文孙悟空台词处出现缺字/乱码：「我笑尖敢！□了，你就轻视我是吗？」，语义不完整，无法可靠逐字引用。",
+      "chapter_order": 58,
+      "anchors": [
+        "我笑尖敢"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "白龙马（小白马/白马）与既有实体「小白龙」的关系本章无任何明示，仅能登记候选，无法确认同一。",
+      "chapter_order": 58
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "黑色怪鸟群的来历、孙悟空所喊「不会是你们」所指对象，本章均未交代。",
+      "chapter_order": 58
+    }
+  ],
+  "warnings": [
+    "原文标题仅为「．」，章节标题信息缺失，摘要标题按内容另拟。",
+    "孙悟空台词「我笑尖敢！□了」处存在缺字/乱码，未做逐字强解，相关claim已改写为概括性转述。",
+    "白龙马未在已建档实体中命中（resolve_name 返回 no_match），已作为新角色候选登记，未与 char-0017「小白龙」合并。",
+    "所有角色台词均按 reported 记录，唐僧「万佛朝宗」「金蝉脱壳」的实际性质（真法术或唬鸟手段）因唐僧自称「什么时候见过唐僧会法术」而存疑，未作定性。"
+  ]
+}

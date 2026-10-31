@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0064",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 26,
+  "title": "二郎神 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 26,
+        "end": 26
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0046.json",
+        "record_id": "rel-0046"
+      },
+      "kind": "relationship",
+      "title": "紫霞×二郎神",
+      "summary": "与紫霞×二郎神的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0064/index.json",
+          "record_id": "char-0064"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

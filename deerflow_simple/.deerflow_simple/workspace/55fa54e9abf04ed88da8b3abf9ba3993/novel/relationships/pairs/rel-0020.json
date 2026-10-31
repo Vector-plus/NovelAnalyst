@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0020",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 9,
+  "introduced_at": 9,
+  "subjects": [
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    },
+    {
+      "path": "characters/char-0022/index.json",
+      "record_id": "char-0022"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0020-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "as_of": 9,
+      "revealed_at": 9,
+      "summary": "据阿珏转述，王母娘娘传命要开蟠桃会、命仙女们去桃园挑选仙桃，阿瑶随众仙女入园。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "据阿珏转述，王母娘娘传命要开蟠桃会、命仙女们去桃园挑选仙桃，阿瑶随众仙女入园。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0176"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

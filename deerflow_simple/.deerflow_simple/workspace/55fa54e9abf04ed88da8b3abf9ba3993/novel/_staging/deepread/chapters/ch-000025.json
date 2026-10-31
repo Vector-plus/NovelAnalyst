@@ -1,0 +1,977 @@
+{
+  "chapter_order": 25,
+  "chapter_id": "ch-000025",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "灵霄殿宴上王母因桃子太小责罚阿瑶",
+      "introduced_at": 25,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 25,
+            "end": 25
+          }
+        ],
+        "revealed_at": 25,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "灵霄大殿宴席上，王母发现席上桃子很小，尖叫质问，阿瑶被拽到殿上。王母把桃子顶到阿瑶脸上逼问其是否先偷吃，阿瑶磕头否认并求饶，头破血流染红玉砖。王母号称最恨人说谎，喝令把阿瑶拉出去打下凡尘；观音皱眉后王母改口称自己很和气，随即又歇斯底里喝令把阿瑶拉出去喂狗。太上老君桌上酒杯碎裂，众神面露痛苦之色却无人敢捂耳朵。阿瑶最终被拖出大殿，最终处置结果本章未叙明。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "阿月离座跪求饶恕阿瑶，王母施压众神噤声",
+      "introduced_at": 25,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 25,
+            "end": 25
+          }
+        ],
+        "revealed_at": 25,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "阿月同样皱眉，王母走到她面前笑着询问；阿月随后起身离座跪拜，请王母饶了阿瑶。王母脸色变成铁青色，转身问诸神可听见阿月的话，殿中无人吭声。太上老君开口半句「月女神是说……」即被王母狠瞪，帽冠冒烟，急忙改口称阿月说的是「娘娘圣明，祝娘娘红颜不老」。王母随即笑着招呼众神喝酒，太上老君赶去救帽冠上的火，众神发笑，阿月仍独自跪在殿中。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "天蓬起身扶阿月走出灵霄大殿",
+      "introduced_at": 25,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 25,
+            "end": 25
+          }
+        ],
+        "revealed_at": 25,
+        "status": "completed",
+        "story_time": null,
+        "summary": "阿月独自跪在殿中、无人让她平身时，天蓬站起来走到殿中扶起阿月，殿中笑声骤然而止。王母吼称两人敢走出大殿一步，天蓬与阿月对视会心一笑，仿佛未听见王母怒吼，相依偎着走出大殿。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "本章场景设在灵霄大殿的宴席上，众神在座。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "灵霄大殿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "阿瑶被拽到殿上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "阿瑶被拽了上来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "王母冲下宝座，把桃子顶到阿瑶脸上，质问阿瑶是不是怕她脸丢得不够大。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "把桃子顶到阿瑶的脸上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "阿瑶否认自己先吃了桃子，并连称求王母饶命。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "不是啊，没有啊？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "王母自称最恨人说谎，喝令把阿瑶拉出去、打下凡尘。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "我最恨人说谎！拉出去，打下凡尘！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "阿瑶泪流满面拼命磕头，头破血流，血染红了玉砖。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "头破了，血染红了玉砖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "观音在席间皱了皱眉头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "观音皱了皱眉头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "王母看到观音皱眉后声音立刻变得温柔，自称其实是很和气的人。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "其实我是很和气的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "观音回应说自己不是那个意思，是「地弄脏了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "不是，地弄脏了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "王母歇斯底里地叫喊，喝令把这个「小贱婢」拉出去喂狗。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "还不把这个小贱婢拉出去喂狗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "太上老君桌上的酒杯碎了，所有神仙脸露痛苦之色，但没人敢捂耳朵。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "太上老君桌上的酒杯碎了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "阿月也皱了皱眉头，被王母看见；王母走到月女神面前笑着问她又有什么问题。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "她走到月女神的面前，笑着说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "王母的笑脸使阿月想起揉皱的橘子皮，阿月于是也笑了，王母得意地仰起头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "她的笑脸使阿月想起了揉皱的橘子皮"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "阿月起身离座跪拜，开口为阿瑶向王母求情（「还请娘娘饶了阿瑶吧」）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "她离座跪拜说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "王母脸色变成铁青色，转身问诸神有没有听见阿月说什么，殿中没人吭声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "不是形容词，是真的铁青色"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "太上老君刚开口说「月女神是说……」，王母狠狠瞪向他，太上老君发现自己的帽冠开始冒出烟来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "太上老君发现自己的帽冠开始冒出烟来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "太上老君赶紧改口，说阿月讲的是「娘娘圣明，祝娘娘红颜不老」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "娘娘圣明，祝娘娘红颜不老"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "王母随即笑着招呼众神喝酒，太上老君赶去救帽冠上的火，所有神仙也笑了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "太上老君赶快去救帽子上的火"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "阿瑶已被拖出大殿，诸神重新举杯欢宴，只有阿月一人跪在殿中，也没人让她平身，阿月快要哭出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "也没人让她平身"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "天蓬站起来走到殿中，扶起了阿月，殿中笑声戛然而止。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "殿中的笑声又像鸭脖子突然被掐住一样戛然而止了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "王母吼道，喝问两人是否敢走出大殿一步。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "你们今天敢走出大殿一步"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "天蓬与阿月对视会心一笑，仿佛没有听见王母的怒吼，相依偎着走出了大殿。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 25,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000025.txt",
+          "chapter_id": "ch-000025",
+          "chapter_order": 25,
+          "locator": null,
+          "anchor": "相依偎着走出了大殿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "灵霄大殿",
+      "category": "location",
+      "introduced_at": 25,
+      "notes": "本章场景标示，为天庭设宴之所；王母在座发号施令，众神举杯宴饮。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-11"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "月女神",
+      "existing_entity_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "certainty": "inferred",
+      "basis": "本章叙述先写「阿月却又皱了皱眉头」并紧接「她走到月女神的面前，笑着说」，随后太上老君又称「月女神是说……」，指代阿月方才的求情之言，文内指向同一人；原文未直述「阿月即月女神」。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "只记录互动事实，感情性质留待阶段汇总"
+      },
+      "certainty": "explicit",
+      "summary": "阿月孤立跪殿时，天蓬当众起身走到殿中扶起她，两人对视会心一笑，未理会王母的怒吼，相依偎走出大殿。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-22"
+      ],
+      "notes": "既有关系对检索无命中，作为新关系对候选。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "王母当殿斥问阿瑶桃子之事，逼其认错，喝令把阿瑶拉出去打下凡尘，继而改称拉出去喂狗。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-10"
+      ],
+      "notes": "既有关系对检索无命中。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "阿月开口为阿瑶求情后，王母脸色变铁青，转身向诸神逼问阿月说了什么，无人出声；此后阿月独自跪殿无人让她平身。",
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-19"
+      ],
+      "notes": "既有关系对检索无命中。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "天蓬扶阿月走向殿外时，王母吼称两人敢走出大殿一步；两人未理会，仍走出大殿。",
+      "source_claim_local_ids": [
+        "claim-local-21",
+        "claim-local-22"
+      ],
+      "notes": "既有关系对检索无命中。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "求情/维护行为，非感情定性"
+      },
+      "certainty": "explicit",
+      "summary": "阿月起身离座跪拜，请王母饶了阿瑶，为此承受王母的威压。",
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-19"
+      ],
+      "notes": "既有关系对检索无命中。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "太上老君开口半句即被王母狠瞪，帽冠冒烟，随后改口把阿月之言说成颂词。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "notes": "既有关系对检索无命中。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "蟠桃会风波与阿瑶的处置",
+      "category": "event_line",
+      "status": "open",
+      "role": "advance",
+      "summary": "王母因席上桃子太小当殿责罚阿瑶，先后下令打下凡尘、拉出去喂狗；阿瑶被拖出大殿，最终处置本章未叙明。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-10",
+        "claim-local-19"
+      ],
+      "notes": "后续需核对阿瑶下落。"
+    },
+    {
+      "thread_label": "天蓬与阿月在灵霄殿公开抗命",
+      "category": "relationship_line",
+      "status": "open",
+      "role": "advance",
+      "summary": "天蓬当众扶起为阿瑶求情而被孤立的阿月，两人会心一笑、相依出殿，王母的喝止被无视。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第25章：灵霄殿上的桃子、跪求与出殿",
+    "front_matter": {
+      "as_of": 25,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-10",
+        "claim-local-14",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-22"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n场景为灵霄大殿的宴席（[[claim-local-1]]）。王母发现席上的桃子很小，尖叫着追问是谁摘来的桃子（[[claim-local-3]]）。阿瑶被拽到殿上，王母冲下宝座，把桃子顶到阿瑶脸上质问（[[claim-local-3]]）。\n\n## 关键行动\n\n- 阿瑶否认自己先吃了桃子并求饶，同时拼命磕头，头破血流，血染红了玉砖。\n- 王母自称最恨人说谎，喝令把阿瑶拉出去、打下凡尘（[[claim-local-5]]）。\n- 观音皱眉，王母立刻把声音放柔、自称「其实我是很和气的人」；观音回应说皱眉是因为地弄脏了。王母随即歇斯底里喝令把这个「小贱婢」拉出去喂狗（[[claim-local-10]]）。\n- 太上老君桌上酒杯碎裂，众神脸露痛苦之色却没人敢捂耳朵。\n- 阿月亦皱眉被王母看见；王母走到她面前笑着询问，阿月起身离座跪拜，为阿瑶向王母求情（[[claim-local-14]]）。\n\n## 转折与新信息\n\n- 王母脸色变成铁青色，转身向诸神逼问是否听见阿月的话，殿中无人吭声。\n- 太上老君开口半句即被王母狠瞪，帽冠冒烟，急忙改口称阿月说的是「娘娘圣明，祝娘娘红颜不老」（[[claim-local-17]]），王母随即招呼众神喝酒，众神发笑。\n- 阿瑶已被拖出大殿，诸神重新举杯欢宴，只有阿月一个人跪在殿中，也没人让她平身（[[claim-local-19]]）。\n- 天蓬这时站起来走到殿中扶起阿月，殿中笑声戛然而止（[[claim-local-20]]）。\n\n## 本章结果\n\n王母吼称两人「今天敢走出大殿一步」；天蓬与阿月对视会心一笑，仿佛没有听见王母的怒吼，相依偎着走出了大殿（[[claim-local-22]]）。阿瑶已被拖出殿外，其最终处置（打下凡尘或「喂狗」）本章未叙明。\n\n## 未决问题与补读入口\n\n- 阿瑶被拖出大殿后的实际下场（打下凡尘／其他处置）尚无叙述，需在后文核对。\n- 王母质问的桃子究竟由谁摘来：本章仅有王母质问与阿瑶否认，未有定论。\n- 王母对观音、对太上老君的态度随其情绪反复变化，殿中众神为何噤声、不敢出声，本章只作现象描写。\n- 天蓬、阿月走出大殿之后的情形，衔接下一章。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "salience": "high",
+      "note": "灵霄殿蟠桃会冲突爆发：王母当殿责罚阿瑶"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "salience": "high",
+      "note": "阿月为阿瑶求情遭王母威压，太上老君被逼改口"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "salience": "high",
+      "note": "天蓬当众扶阿月走出灵霄大殿，对抗王母喝止"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-14",
+      "salience": "high",
+      "note": "阿月公开为阿瑶求情的转折点"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-22",
+      "salience": "high",
+      "note": "天蓬与阿月携手无视王母怒吼出殿"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-17",
+      "salience": "medium",
+      "note": "太上老君在威压下改口，殿内话语环境受压证据"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "coverage_gap",
+      "summary": "阿瑶在章末已被拖出大殿，但「打下凡尘」与「拉出去喂狗」两种处置孰为实际结果，以及是否执行，本章均未叙述。",
+      "related_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-10",
+        "claim-local-19"
+      ],
+      "suggested_action": "在后文（第26章及之后）检索阿瑶下落以补全"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "席上桃子究竟由谁摘来未在本章交代：王母质问阿瑶是否先吃，阿瑶否认，摘桃责任人未被确认。",
+      "related_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4"
+      ],
+      "suggested_action": "需结合第24章蟠桃园情节与本阶段前后章核对"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章以「月女神」指称阿月，但文中未直接说明二者为同一人，仅由叙述紧接与太上老君引述推得。",
+      "related_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-17"
+      ],
+      "suggested_action": "保留为 identity_link_candidate，等原文明确表述后再定案"
+    }
+  ],
+  "warnings": [
+    "工具调用已达预算上限（读原文1次、跨章窗口1次、resolve_name 6次、fetch_entity_current 4次、find_similar_relationship 5次、dedupe_event 2次、dedupe_claim 4次），dedupe_claim 仅对关键陈述抽样执行，其余 claim 未逐一去重，下游写入前建议补做 dedupe。",
+    "阿瑶的最终处置（打下凡尘 vs 喂狗）章内未落地，事件状态记为 ongoing。",
+    "本章除「月女神」外无新的人名；「月女神」以 identity_link_candidate 形式记录，未直接改写实体引用。",
+    "感情性质（如天蓬与阿月互动的定性）按规则不作判断，仅保留互动事实。"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0118",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 69,
+  "label": "白晶晶终局：化出原形消散",
+  "introduced_at": 69,
+  "updates": [
+    {
+      "id": "update-thread-0118-001",
+      "revealed_at": 69,
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "category": "character_fate",
+      "status": "closed",
+      "role": "outcome",
+      "summary": "白晶晶在看到「这一刻」后倒地化形，被风吹散。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2605"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

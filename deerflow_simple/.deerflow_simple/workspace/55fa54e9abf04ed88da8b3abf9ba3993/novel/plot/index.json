@@ -1,0 +1,249 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "plot/arcs/arc-001.md",
+        "record_id": "doc-arc-001"
+      },
+      "kind": "arc_summary",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-001.md",
+          "record_id": "doc-arc-001"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-003.md",
+        "record_id": "doc-arc-003"
+      },
+      "kind": "arc_summary",
+      "title": "前因·天界蟠桃园与大闹天宫（第19—26章）",
+      "summary": "前因·天界蟠桃园与大闹天宫（第19—26章）（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-003.md",
+          "record_id": "doc-arc-003"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-002.md",
+        "record_id": "doc-arc-002"
+      },
+      "kind": "arc_summary",
+      "title": "三界奔走·追查真相",
+      "summary": "三界奔走·追查真相（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-002.md",
+          "record_id": "doc-arc-002"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-004.md",
+        "record_id": "doc-arc-004"
+      },
+      "kind": "arc_summary",
+      "title": "焚天与成佛骗局：终局（第27—49章）",
+      "summary": "焚天与成佛骗局：终局（第27—49章）（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-004.md",
+          "record_id": "doc-arc-004"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-005.md",
+        "record_id": "doc-arc-005"
+      },
+      "kind": "arc_summary",
+      "title": "花果山·众生之问与石猴出海",
+      "summary": "花果山·众生之问与石猴出海（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-005.md",
+          "record_id": "doc-arc-005"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-006.md",
+        "record_id": "doc-arc-006"
+      },
+      "kind": "arc_summary",
+      "title": "西行途中·界限",
+      "summary": "西行途中·界限（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-006.md",
+          "record_id": "doc-arc-006"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-007.md",
+        "record_id": "doc-arc-007"
+      },
+      "kind": "arc_summary",
+      "title": "分头而行·群妖聚啸",
+      "summary": "分头而行·群妖聚啸（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-007.md",
+          "record_id": "doc-arc-007"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "plot/arcs/arc-008.md",
+        "record_id": "doc-arc-008"
+      },
+      "kind": "arc_summary",
+      "title": "狮驼岭·齐天大圣归来",
+      "summary": "狮驼岭·齐天大圣归来（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-008.md",
+          "record_id": "doc-arc-008"
+        }
+      ],
+      "tags": [
+        "plot"
+      ],
+      "safe_through": 69
+    }
+  ],
+  "id": "idx-plot",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 12,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 69,
+        "end": 69
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "章节剧情"
+}

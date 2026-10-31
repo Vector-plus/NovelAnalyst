@@ -1,0 +1,58 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0046",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 26,
+  "introduced_at": 19,
+  "subjects": [
+    {
+      "path": "characters/char-0023/index.json",
+      "record_id": "char-0023"
+    },
+    {
+      "path": "characters/char-0064/index.json",
+      "record_id": "char-0064"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0046-stage-003",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "as_of": 26,
+      "revealed_at": 26,
+      "summary": "同行者",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "告诫并带路",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "视其与孙悟空同有惧怕之物",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

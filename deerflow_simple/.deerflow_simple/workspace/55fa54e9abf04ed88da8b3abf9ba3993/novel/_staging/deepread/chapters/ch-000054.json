@@ -1,0 +1,699 @@
+{
+  "chapter_order": 54,
+  "chapter_id": "ch-000054",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "狂欢之夜老猴离群独谈与“得到”之饮",
+      "introduced_at": 54,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 54,
+            "end": 54
+          }
+        ],
+        "revealed_at": 54,
+        "status": "concluded",
+        "story_time": "花果山狂欢之夜（石头沉默之后的一段时期）",
+        "summary": "石头由沉默转为疯狂游玩。狂欢夜里一只老猴默默离开猴群走向山深处，石头坐黑暗中追问。老猴谈及每个生灵都会去的地方、让石头珍惜遇见之物，并说传说山外大海中有不死的神龙。老猴把椰壶递给石头，说里面是“得到”，石头喝下后自称“我就是天，我就是所有”，攀上石台加入猴群狂舞；老猴看着他说他已得到了一切。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "石头"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老猴"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "猴群（花果山）"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "秋深翔鸟启程：阿笨与松鼠告别",
+      "introduced_at": 54,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 54,
+            "end": 54
+          }
+        ],
+        "revealed_at": 54,
+        "status": "concluded",
+        "story_time": "深秋（同章第二段情节）",
+        "summary": "秋更深，翔鸟一家准备启程迁徙。松鼠挽留阿笨，阿笨说明年还会回来，并说翔鸟必须追着太阳飞、一生都在奔波，且没有翔鸟死在窝里，飞不动便掉入大洋。阿笨握住松鼠的手，说自己是从知道会长大那天起懂了这些。松鼠没听懂，觉得难过而盼望。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0139/index.json",
+              "record_id": "char-0139"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "石头越来越沉默，忽然有一天他开始疯狂地游玩，山林间满是他的声音。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "石头越来越沉默了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "一个狂欢的夜里，一只老猴默默离开人群，往山深处走去；石头坐在黑暗中问他去哪儿。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "一只老猴默默地离开人群"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "老猴自称“我去我该去的地方”，并说每个生灵都会去那个地方，那里很安静、适合他这样的老家伙，说石头年轻，应在月光下狂呼高叫。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "我去我该去的地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "石头说“声音最终是要消散的”；老猴说不会停，并引特写林间石台上猴子们的欢叫连成一片。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "可声音最终是要消散的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "老猴对石头说“你是从石头中蹦出来的吧”，说他总是忧虑，因为几万年的沉寂使他还害怕林间的跳跃与扑面而来的事物；并说石头能自由思考的时间极短，要他珍惜生命中所出现的一切。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "你是从石头中蹦出来的吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "老猴说传说山外的大海中有不死的神龙，但它们大多数时间孤独地沉在海底；并说纵然能留住自己，也留不住身边的东西，只剩自己的沉重没有人能承受。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "传说山外的大海中有不死的神龙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "石头说“我会变得很强，强到可以承受一切”；老猴反问是否真有那样顽强的生命，说那样的人也会被越来越沉重的自己所压倒，随后承认自己搞不清这些道理。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "我会变得很强，强到可以承受一切"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "老猴把一个椰壶递给石头，说“这是‘得到’，它是果实消失形体后变成的东西”，说它能让人忘记自己、与世界合成一体，喝下会觉得自已就是这森林、这月亮、这河。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老猴"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "它是果实消失形体后变成的东西"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "石头喝下椰壶中之物后站起高兴地笑；老猴问“你是谁”，石头答“我就是天，我就是所有！我最大！”，随后伸臂狂啸，攀上石台加入猴群的狂舞；老猴对他说“你不就是已得到了一切么”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "我就是天，我就是所有！我最大！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "秋更深了，翔鸟一家要启程离开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "翔鸟一家要启程了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "松鼠对阿笨说“小笨不要走，我会难过的”；阿笨说“我明年还会回来的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0139/index.json",
+        "record_id": "char-0139"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "小笨不要走，我会难过的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "阿笨说翔鸟要追着太阳飞、不能离它太远，注定一生花在奔波上，真正能停下来生活的日子只有一会儿；说自己路上会一直想着，为相聚的时光尽力飞翔。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0139/index.json",
+        "record_id": "char-0139"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "我们要追着太阳"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "阿笨说迁徙路上有许多鸟不能到达，那不会是他，但父母飞不动时会掉进大海；没有翔鸟死在窝里，他们在大洋上空飞越，直到最后投入大洋。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0139/index.json",
+        "record_id": "char-0139"
+      },
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "没有翔鸟是死在窝里的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "阿笨握住松鼠的手，说自己懂得这些是从知道会长大那天起，并说“我们都 会 长大的”，说漫长旅途会让他们衰老，但会不后悔地奔向生命中最绚丽的年华。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "从我知道我会长大的那一天起吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "松鼠挠了挠头，似乎没听懂阿笨的话，原文叙述她“觉得难过而又盼望着”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 54,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000054.txt",
+          "chapter_id": "ch-000054",
+          "chapter_order": 54,
+          "locator": null,
+          "anchor": "她好像没懂，但她觉得难过而又盼望着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "老猴",
+      "introduced_at": 54,
+      "alias_texts": [
+        "老家伙"
+      ],
+      "identity_notes": "花果山猴群中的一只老猴。狂欢之夜默默离群走向山深处，对石头讲述“每个生灵都会去的地方”、说“我再也喊不出来了”，并自称搞不清答案，属叙述中暗示将死的年长者。名字层面无既有档案命中。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "石头",
+      "introduced_at": 54,
+      "alias_texts": [],
+      "identity_notes": "本章围绕“石头”这一称呼展开叙述的猴子。老猴对他说“你是从石头中蹦出来的吧”，他自称“我就是天，我就是所有！我最大！”。resolve_name('石头') 无命中；与既有 char-0067「石猴」是否同一生灵，本章未明示，仅作候选记录，不做合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "翔鸟一族",
+      "introduced_at": 54,
+      "notes": "阿笨所属的候鸟群体。阿笨自述翔鸟必须追着太阳迁徙、一生奔波，没有翔鸟死在窝里，飞不动便投入大洋。本章未给出组织化描述，仅作候选。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "“得到”（椰壶中的酒/饮品）",
+      "category": "item",
+      "introduced_at": 54,
+      "notes": "老猴递给石头的椰壶中所装之物；老猴称其为“果实消失形体后变成的东西”，说它能让人忘记自己、与世界合成一体。石头饮后自称“我就是天，我就是所有”，并加入猴群狂舞。是否具有真实效力，本章仅有老猴说法与石头反应，未作叙述层确证。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "不死的神龙（传说）",
+      "category": "legend",
+      "introduced_at": 54,
+      "notes": "老猴所述传说：山外的大海中有不死的神龙，大多数时间孤独地沉在海底。作为人物转述的传说登记，尚未在叙述层出现实体。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-6"
+      ]
+    },
+    {
+      "label": "每个生灵都会去的那个地方（老猴所述去处）",
+      "category": "lore",
+      "introduced_at": 54,
+      "notes": "老猴称“每个生灵都会去那个地方，那里很安静，很适合我这样的老家伙”，未点明为死亡或任何具体场所，属角色转述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "石头"
+      },
+      "candidate_b": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "relationship_guess": "same_entity",
+      "certainty": "uncertain",
+      "basis_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-9"
+      ],
+      "notes": "本章老猴对石头说“你是从石头中蹦出来的吧”；石头在花果山猴群中活动。既有 char-0067「石猴」标签吻合，但本章未出现“石猴”这一称谓，叙述层未明示同一，故仅登记候选、不合并引用。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "老猴"
+      },
+      "subject_b": {
+        "candidate_name": "石头"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "explicit",
+      "summary": "老猴在狂欢之夜离开猴群与石头独处，向他讲述生灭、时间与失去的道理，并给他“得到”让他饮下；石头饮后自认得到一切、加入猴群狂舞。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-9"
+      ],
+      "notes": "仅记录互动事实与教导关系；情感定性留待 StageCommit。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "path": "characters/char-0139/index.json",
+        "record_id": "char-0139"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "深秋翔鸟启程前，松鼠挽留阿笨说“我会难过的”，阿笨答明年还会回来；阿笨握住松鼠的手讲迁徙与死亡，松鼠表示没听懂但难过而盼望。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": "既有关系对检索无命中，按新关系候选登记；未作感情类别定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "石头的求道与对死亡/失去的追问",
+      "category": "character_arc",
+      "status": "open",
+      "role": "developing",
+      "summary": "石头由极度沉默转为疯狂游玩；自称“我会变得很强，强到可以承受一切”；经老猴引导饮下“得到”后暂时获得“我就是所有”的状态。对“声音会消散”“留不住身边东西”的疑问在本章未获解答。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-4",
+        "claim-local-7",
+        "claim-local-9"
+      ]
+    },
+    {
+      "thread_key": "花果山老猴的去处与“每个生灵都会去的地方”",
+      "category": "mystery",
+      "status": "open",
+      "role": "introduced",
+      "summary": "老猴自称要去“我该去的地方”，并说“我再也喊不出来了”；该去处具体所指本章未明说。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ]
+    },
+    {
+      "thread_key": "翔鸟迁徙与阿笨的离开",
+      "category": "event_thread",
+      "status": "open",
+      "role": "advanced",
+      "summary": "深秋翔鸟一家启程，阿笨承诺明年回来；翔鸟“飞不动就投入大洋”的宿命被点明。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第54章：老猴的夜谈与翔鸟的启程",
+    "front_matter": {
+      "as_of": 54,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "石头"
+        },
+        {
+          "candidate_name": "老猴"
+        },
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "path": "characters/char-0139/index.json",
+          "record_id": "char-0139"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n石头先是越来越沉默，随后忽然有一天开始疯狂游玩，山林间满是他的声音（[[claim-local-1]]）。狂欢的一个夜里，一只老猴默默离开猴群，往山深处走去；石头坐在黑暗中问他去哪儿（[[claim-local-2]]）。\n\n## 关键行动\n\n- 老猴与石头的独谈：老猴答“我去我该去的地方”，说每个生灵都会去那里，那里很安静、适合他这样的老家伙，而石头年轻，应在月光下狂呼高叫（[[claim-local-3]]）。石头说“声音最终是要消散的”，老猴说不会停，让他听林间石台上猴群的欢叫与四方应和的声音（[[claim-local-4]]）。\n- 老猴的教导：老猴说“你是从石头中蹦出来的吧”，说石头因几万年的沉寂而忧虑，说他自由思考的时光极短，要他珍惜生命中出现的一切（[[claim-local-5]]）；又说传说山外大海中有不死的神龙、大多孤独沉在海底，并说纵然留得住自己也留不住身边的东西，只剩下自己的沉重无人能承受（[[claim-local-6]]）。石头说“我会变得很强，强到可以承受一切”，老猴反问是否真有那样顽强的生命，说那样也会被越来越沉重的自己压倒，并承认自己搞不清这些道理（[[claim-local-7]]）。\n- “得到”之饮：老猴把椰壶递给石头，说“这是‘得到’，它是果实消失形体后变成的东西”，说它能让人忘记自己、与世界合成一体（[[claim-local-8]]）。\n- 翔鸟启程前的告别：秋更深，翔鸟一家要启程（[[claim-local-10]]）；松鼠说“小笨不要走，我会难过的”，阿笨说“我明年还会回来的”（[[claim-local-11]]）。\n\n## 转折与新信息\n\n- 石头饮下“得到”后站起身高兴地笑，被老猴问“你是谁”时答“我就是天，我就是所有！我最大！”，随后伸臂狂啸、攀上石台加入猴群狂舞；老猴对他说“你不就是已得到了一切么”（[[claim-local-9]]）。\n- 阿笨自述翔鸟必须追着太阳迁徙、不能离太阳太远，注定一生花在奔波上，真正能停下来生活的日子只有一会儿，而他会为相聚的时光尽力飞翔（[[claim-local-12]]）；并说路上有许多鸟不能到达，那不会是他，但父母飞不动时终会掉进大海——没有翔鸟死在窝里，他们在大洋上空飞越，直到最后投入大洋（[[claim-local-13]]）。\n- 阿笨握住松鼠的手，说自己懂得这些是从知道会长大的那一天起，说“我们都会长大”，旅途会让他们衰老，但会不后悔地奔向生命中最绚丽的年华（[[claim-local-14]]）。\n\n## 本章结果\n\n- 老猴的离群与“我再也喊不出来了”的自述，加上石头饮后进入狂舞，构成一条闭环的本章情节（[[claim-local-3]]、[[claim-local-9]]）。\n- 松鼠挠头、似乎没懂阿笨的话，原文叙述她“觉得难过而又盼望着”（[[claim-local-15]]）；翔鸟启程一事在本章交代完毕，但离别尚未在章内实际发生（[[claim-local-10]]）。\n\n## 未决问题与补读入口\n\n1. 老猴所说的“我该去的地方”“每个生灵都会去的地方”具体所指未明说（[[claim-local-3]]）；老猴此后是否还出现，需查后续章节。\n2. 石头与既有角色「石猴」（char-0067）是否同一，本章仅据“你是从石头中蹦出来的吧”推断，叙述层未明示，已登记为身份连接候选（[[claim-local-5]]）。\n3. “得到”是否具有实在效力、石头饮后的状态是否持续，本章只有老猴说法与石头反应，未获叙述层确证（[[claim-local-8]]、[[claim-local-9]]）。\n4. 翔鸟一家启程后阿笨是否如约“明年回来”，需查第55章及之后（[[claim-local-11]]、[[claim-local-13]]）。"
+  },
+  "stage_buffer_appends": [
+    {
+      "type": "event_ref",
+      "local_ref": "ev-local-1",
+      "reason": "阶段内“花果山众生之问”主题的关键场景：老猴论述生灭、时间与失去，并给出“得到”"
+    },
+    {
+      "type": "event_ref",
+      "local_ref": "ev-local-2",
+      "reason": "翔鸟迁徙宿命与离别主题的关键场景"
+    },
+    {
+      "type": "claim_ref",
+      "local_ref": "claim-local-5",
+      "reason": "“你是从石头中蹦出来的吧”为石头身世的关键表述，供后续身份汇总使用"
+    },
+    {
+      "type": "claim_ref",
+      "local_ref": "claim-local-6",
+      "reason": "首次出现“山外大海中有不死的神龙”的传说，可能关联后续出海线"
+    },
+    {
+      "type": "claim_ref",
+      "local_ref": "claim-local-9",
+      "reason": "石头饮下“得到”后的自称“我就是天，我就是所有”，是人物状态的转折证据"
+    },
+    {
+      "type": "character_turning_point",
+      "local_ref": "claim-local-7",
+      "reason": "石头立下“我会变得很强，强到可以承受一切”的目标表述"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章称谓“石头”与既有实体 char-0067「石猴」疑似同一生灵，但本章未出现“石猴”称谓，无法在叙述层确证。",
+      "related_local_ids": [
+        "claim-local-5",
+        "claim-local-9"
+      ],
+      "suggested_action": "后续章节出现“石猴”自称或明确同一叙述后再合并引用"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "原文章尾处出现排版残留“老猴看着石p>第六章．”，第54章正文在此处被截断/混入下一章标记，导致老猴话语的完整收尾与“第55章”起点的切割点无法从本章文本确证。",
+      "related_local_ids": [
+        "claim-local-9"
+      ],
+      "suggested_action": "回查 source 排版，或比对第55章开头确认切分"
+    }
+  ],
+  "warnings": [
+    "本章原文末尾存在排版异常（“老猴看着石p>第六章．”），疑似章切分/正文截断问题，已登记 issue_candidates(category=missing_evidence)；本章提取以可读文本为准。",
+    "“石头”未在实体库唯一命中，已按候选登记，未与 char-0067「石猴」合并。",
+    "本章含两段相对独立的情节（花果山夜谈 / 翔鸟启程），已分别建两个事件。",
+    "未对任何人物间感情类别（如 romance/familial）作定性，仅记录互动事实。"
+  ]
+}

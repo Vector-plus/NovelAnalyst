@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0007",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 18,
+  "label": "钵盂与珍珠：单向靠近的边界",
+  "introduced_at": 11,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "revealed_at": 18
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 18
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0007-002",
+      "revealed_at": 18,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "doc-rel-char0053-char0017-stage-002"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0007/stages/stage-002.md",
+        "record_id": "doc-emo-0007-stage-002"
+      },
+      "kind": "emotional_stage",
+      "title": "钵盂与珍珠：单向靠近的边界",
+      "summary": "钵盂与珍珠：单向靠近的边界（第11—18章）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 18
+    }
+  ]
+}

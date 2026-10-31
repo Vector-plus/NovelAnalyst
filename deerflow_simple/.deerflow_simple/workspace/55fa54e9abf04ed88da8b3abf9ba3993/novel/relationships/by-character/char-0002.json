@@ -1,0 +1,725 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0002",
+  "kind": "index",
+  "revision": 28,
+  "safe_through": 67,
+  "title": "孙悟空 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 1,
+        "end": 1
+      },
+      {
+        "start": 4,
+        "end": 5
+      },
+      {
+        "start": 10,
+        "end": 12
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 67,
+        "end": 67
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0001.json",
+        "record_id": "rel-0001"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0002.json",
+        "record_id": "rel-0002"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "与孙悟空×猪八戒的关系",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0008.json",
+        "record_id": "rel-0008"
+      },
+      "kind": "relationship",
+      "title": "林中丑脸女妖×孙悟空",
+      "summary": "与林中丑脸女妖×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0009.json",
+        "record_id": "rel-0009"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×林中女子（本章未具名）",
+      "summary": "与孙悟空×林中女子（本章未具名）的关系",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0010.json",
+        "record_id": "rel-0010"
+      },
+      "kind": "relationship",
+      "title": "玉帝×孙悟空",
+      "summary": "与玉帝×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0011.json",
+        "record_id": "rel-0011"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×平天大圣牛魔王",
+      "summary": "与孙悟空×平天大圣牛魔王的关系",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0022.json",
+        "record_id": "rel-0022"
+      },
+      "kind": "relationship",
+      "title": "判官×孙悟空",
+      "summary": "与判官×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0023.json",
+        "record_id": "rel-0023"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×幽冥王",
+      "summary": "与孙悟空×幽冥王的关系",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0025.json",
+        "record_id": "rel-0025"
+      },
+      "kind": "relationship",
+      "title": "观世音×孙悟空",
+      "summary": "与观世音×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0028.json",
+        "record_id": "rel-0028"
+      },
+      "kind": "relationship",
+      "title": "敖广×孙悟空",
+      "summary": "与敖广×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0029.json",
+        "record_id": "rel-0029"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×小白龙",
+      "summary": "与孙悟空×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0030.json",
+        "record_id": "rel-0030"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0031.json",
+        "record_id": "rel-0031"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "与孙悟空×猪八戒的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0032.json",
+        "record_id": "rel-0032"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×丑面女妖",
+      "summary": "与孙悟空×丑面女妖的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0042.json",
+        "record_id": "rel-0042"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "与孙悟空×紫霞的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0043.json",
+        "record_id": "rel-0043"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×天蓬",
+      "summary": "与孙悟空×天蓬的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0045.json",
+        "record_id": "rel-0045"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×王母",
+      "summary": "与孙悟空×王母的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0048.json",
+        "record_id": "rel-0048"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0049.json",
+        "record_id": "rel-0049"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×阿瑶",
+      "summary": "与孙悟空×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0050.json",
+        "record_id": "rel-0050"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "与孙悟空×猪八戒的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0056.json",
+        "record_id": "rel-0056"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "与孙悟空×紫霞的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0058.json",
+        "record_id": "rel-0058"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×观音",
+      "summary": "与孙悟空×观音的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0059.json",
+        "record_id": "rel-0059"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×没戴金箍的猴子",
+      "summary": "与孙悟空×没戴金箍的猴子的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0069.json",
+        "record_id": "rel-0069"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×白晶晶",
+      "summary": "与孙悟空×白晶晶的关系",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0070.json",
+        "record_id": "rel-0070"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×黄袍怪",
+      "summary": "与孙悟空×黄袍怪的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0071.json",
+        "record_id": "rel-0071"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×大鹏王",
+      "summary": "与孙悟空×大鹏王的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0072.json",
+        "record_id": "rel-0072"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×沙僧",
+      "summary": "与孙悟空×沙僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0007",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 3,
+  "introduced_at": 3,
+  "subjects": [
+    {
+      "path": "characters/char-0008/index.json",
+      "record_id": "char-0008"
+    },
+    {
+      "path": "characters/char-0009/index.json",
+      "record_id": "char-0009"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0007-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "as_of": 3,
+      "revealed_at": 3,
+      "summary": "女孩提及金蝉子走火入魔陷于万劫，并怒斥唐僧无权评价，称金蝉子一根手指也能点破穹天。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "女孩提及金蝉子走火入魔陷于万劫，并怒斥唐僧无权评价，称金蝉子一根手指也能点破穹天。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0060"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0062"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0093",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 27,
+  "entity_type": "character",
+  "label": "天宫众神",
+  "introduced_at": 27,
+  "identity_notes": [
+    {
+      "id": "in-char-0093-001",
+      "revealed_at": 27,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1587"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1589"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0072",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 67,
+  "introduced_at": 61,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0014/index.json",
+      "record_id": "char-0014"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0072-stage-007",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "as_of": 67,
+      "revealed_at": 67,
+      "summary": "同行（罪责指向其中一方）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "无名声音指认打碎琉璃盏者为孙悟空；沙僧本人在追问下仍自认打碎，拒绝接受罪责转移",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

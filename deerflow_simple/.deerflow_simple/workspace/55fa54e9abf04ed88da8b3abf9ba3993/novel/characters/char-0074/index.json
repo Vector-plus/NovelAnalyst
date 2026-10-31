@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0074",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 2,
+  "entity_type": "character",
+  "label": "会说话的怪树",
+  "introduced_at": 2,
+  "identity_notes": [
+    {
+      "id": "in-char-0074-001",
+      "revealed_at": 2,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0912"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0913"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0914"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0915"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0917"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0919"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0920"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

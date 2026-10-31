@@ -1,0 +1,671 @@
+{
+  "chapter_order": 10,
+  "chapter_id": "ch-000010",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空决意赴地府取回唐僧魂魄并离去",
+      "introduced_at": 10,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 10,
+            "end": 10
+          }
+        ],
+        "revealed_at": 10,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "林中另一头，孙悟空提出死不足惧，自己要去一趟地府把唐僧的鬼魂带回来继续取经；他嘱猪八戒看好行李与尸首，自称最多十年五载便回，随即一纵身离去，不见踪影。猪八戒嘟囔沙和尚已经走人。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0004/index.json",
+              "record_id": "char-0004"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "小白龙请假离去，猪八戒入密林呼唤阿瑶",
+      "introduced_at": 10,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 10,
+            "end": 10
+          }
+        ],
+        "revealed_at": 10,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "小白龙在猪八戒面前表示也想请假回家一趟，随后离去；猪八戒起身独自走入密林，对着林中黑暗唤“阿瑶”，半晌后有人答话，反问他怎么知道自己以前的名字；猪八戒答称自己是和她一样不肯忘记前世而宁愿承受痛苦的人。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "密林答话者（未点名）"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空猛蹦起来，把猪八戒吓得摔出去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "孙悟空猛蹦起来，把猪八戒吓得摔出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空说死了不要紧，他要去一趟地府，把唐僧（“秃头”）的鬼魂带回来，这样就能再去取经。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "俺就去一趟地府，把秃头的鬼魂带回来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "猪八戒说师父（唐僧）的身子烧坏了，只剩半边。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "可师父的身子烧坏了，只剩半边了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空让猪八戒留在原地看好行李和尸首，自称最多十年五载就回来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "你在这儿看好行李尸首，我最多十年五载就回来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空一纵身离去，已不见了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "孙悟空一纵身，已不见了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "猪八戒嘟囔说沙和尚已经走人了，并嘀咕莫不是要自己来挑担子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "可是沙和尚已经走人了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "叙述交代：小白龙（文本以“她”称之）只在猪八戒面前说话，也只有猪八戒知道她的秘密。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "她只在猪八戒面前说话，也只有猪八戒知道她的秘密"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "小白龙向猪八戒表示，她也想请假回家一趟。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "我也想请假回家一趟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "猪八戒说，孙猴子若能带回唐僧的魂来，他就和他姓。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "孙猴子能带回唐僧的魂来，我就和他姓"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "小白龙走了，猪八戒起身独自走入密林。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "小白龙走了，猪八戒起身独自走入密林"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "猪八戒对着林中黑暗开口唤“阿瑶”，问她是否还好。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "阿瑶，你还好么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "半晌后有人答话，反问猪八戒是谁、怎么知道她“以前的名字”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "密林答话者（未点名）"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "你是谁？怎么知道我以前的名字？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "猪八戒自称是“一个和你一样不肯忘记前世而宁愿承受痛苦的人”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000010.txt",
+          "chapter_id": "ch-000010",
+          "chapter_order": 10,
+          "locator": null,
+          "anchor": "我是一个和你一样不肯忘记前世而宁愿承受痛苦的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "密林答话者（未点名）",
+      "introduced_at": 10,
+      "alias_texts": [],
+      "identity_notes": "本章未点名。猪八戒在密林中唤“阿瑶”后，此人答话并反问“怎么知道我以前的名字”，暗示其曾用名可能为“阿瑶”，但文本只写“有人答话”，未明示身份；不得直接合并至 char-0021（阿瑶）。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "地府",
+      "category": "place",
+      "introduced_at": 10,
+      "notes": "孙悟空自称要去一趟地府把唐僧的鬼魂带回来；本章内地府仅由孙悟空之口提及，未直接描写。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "密林答话者（未点名）"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "relation": "possible_same_person",
+      "certainty": "uncertain",
+      "summary": "猪八戒在密林唤“阿瑶”，答话者称“我以前的名字”，可能即第9章出现的阿瑶，但本章未点名，不作合并。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "需后续章节（如第11—12章）核对身份明示"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other",
+        "label": "独享秘密的对话对象"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙只在猪八戒面前开口说话，且只有猪八戒知道她的秘密；本章她当面向猪八戒提出请假回家一趟。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "notes": "互动事实层面记录，不作情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "candidate_name": "密林答话者（未点名）"
+      },
+      "facet": {
+        "type": "other",
+        "label": "前世记忆相关的对话"
+      },
+      "certainty": "uncertain",
+      "summary": "猪八戒在密林中主动唤出对方旧名并问其安好，自称与她一样不肯忘记前世而宁愿承受痛苦；对方反问他怎么知道自己以前的名字。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "答话者身份未明，关系性质不定。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "cooperation",
+        "label": "同行分工"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空把看守行李尸首的事交给猪八戒，自称最多十年五载便回，随即离去；猪八戒对其能否带回唐僧的魂表示“他若带回我便和他姓”。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-9"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "unresolved_mystery",
+      "status": "open",
+      "role": "raise",
+      "title": "唐僧肉身只剩半边与魂魄归处",
+      "summary": "猪八戒称师父的身子烧坏了只剩半边；孙悟空提出去地府带回唐僧鬼魂以便继续取经。唐僧死亡/肉身损毁的具体经过在本章未直接叙述。",
+      "related_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4"
+      ],
+      "related_event_local_ids": [
+        "ev-local-1"
+      ]
+    },
+    {
+      "category": "character_arc",
+      "status": "open",
+      "role": "raise",
+      "title": "猪八戒与“阿瑶”的前世记忆",
+      "summary": "猪八戒主动唤出“阿瑶”旧名，自称与她一样不肯忘记前世而宁愿承受痛苦；对方反问其如何得知自己以前的名字。",
+      "related_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "related_event_local_ids": [
+        "ev-local-2"
+      ]
+    },
+    {
+      "category": "group_state",
+      "status": "open",
+      "role": "raise",
+      "title": "取经队伍在林中的离散",
+      "summary": "沙和尚已走人，孙悟空离队赴地府，小白龙请假回家一趟，只剩猪八戒独自留下看守行李尸首。",
+      "related_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-10"
+      ],
+      "related_event_local_ids": [
+        "ev-local-1",
+        "ev-local-2"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第10章：林子另一头",
+    "front_matter": {
+      "as_of": 10,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "candidate_name": "密林答话者（未点名）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n场景切到“林子另一头”，仍是唐僧出事之后的林中现场。孙悟空突然蹦起，把猪八戒吓得摔出去（[[claim-local-1]]）。此时队伍已经不全：猪八戒嘟囔“沙和尚已经走人了”，并嘀咕莫不是要自己挑担子（[[claim-local-6]]）。猪八戒还转述师父（唐僧）的身子烧坏了、只剩半边（[[claim-local-3]]）。\n\n## 关键行动\n\n孙悟空对“死了”一事毫不在意，表示自己要去一趟地府，把唐僧的鬼魂带回来继续取经（[[claim-local-2]]）；他让猪八戒留在原地看着行李与尸首，自称最多十年五载就回（[[claim-local-4]]），随后一纵身离去不见（[[claim-local-5]]）。\n\n留下的人也开始离开：叙述交代小白龙只在猪八戒面前说话、也只有猪八戒知道她的秘密（[[claim-local-7]]），她当面提出也想请假回家一趟（[[claim-local-8]]）。猪八戒以“孙猴子能带回唐僧的魂来，我就和他姓”作答（[[claim-local-9]]）。小白龙走后，猪八戒独自走入密林（[[claim-local-10]]），对着林中黑暗唤“阿瑶”，问她是否还好（[[claim-local-11]]）。\n\n## 转折与新信息\n\n章末出现回应：半晌后有人答话，反问猪八戒“你是谁？怎么知道我以前的名字？”（[[claim-local-12]]）。猪八戒答称自己是“一个和你一样不肯忘记前世而宁愿承受痛苦的人”（[[claim-local-13]]）。由此本章首次给出猪八戒“不肯忘记前世”的自述，并把“阿瑶”与“以前的名字”联系起来；答话者在文本中只作“有人”，未被点名。\n\n## 本章结果\n\n- 孙悟空已离队赴地府取唐僧魂魄，并把看守行李尸首之责交予猪八戒（[[ev-local-1]]）。\n- 小白龙以“请假回家”为由离开，林中只剩猪八戒一人（[[ev-local-2]]）。\n- 猪八戒在密林与一名答话者接触，双方围绕“前世/旧名”发生对话（[[ev-local-2]]）。\n- 唐僧肉身损毁至“只剩半边”的状态仅由猪八戒之口说出（[[claim-local-3]]）。\n\n## 未决问题与补读入口\n\n- 唐僧死亡与肉身烧损的具体经过本章未直接叙述，需回看第9章及前文现场描写。\n- 密林答话者是否即第9章出现的阿瑶，本章未点名，待后续章节确认。\n- 孙悟空下地府是否成功带回唐僧魂魄，本章无结果，需续读第11章。\n- 沙和尚离队、小白龙请假后的取经队伍去向，本章未交代。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 10,
+      "note": "阶段末章：孙悟空离队赴地府取唐僧魂魄，队伍开始离散"
+    },
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 10,
+      "note": "小白龙请假离去；猪八戒与无名答话者围绕“前世/旧名”对话"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-3",
+      "chapter_order": 10,
+      "note": "猪八戒转述唐僧肉身烧坏只剩半边"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-13",
+      "chapter_order": 10,
+      "note": "猪八戒自述“不肯忘记前世而宁愿承受痛苦”，人物转折点"
+    },
+    {
+      "kind": "unresolved_identity",
+      "ref_or_local_id": "char-0021",
+      "chapter_order": 10,
+      "note": "密林答话者可能为阿瑶，待身份明示"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "chapter_order": 10,
+      "summary": "章末答话者只写作“有人答话”，未点名；猪八戒先前唤“阿瑶”，对方称“我以前的名字”，二者关系未明示，需后续核对。",
+      "evidence_refs_or_local_ids": [
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "severity": "medium"
+    },
+    {
+      "category": "missing_evidence",
+      "chapter_order": 10,
+      "summary": "唐僧“身子烧坏了只剩半边”仅由猪八戒转述，本章缺少对应的直接叙述段落；如需确认死亡/肉身状态须回看第9章。",
+      "evidence_refs_or_local_ids": [
+        "claim-local-3"
+      ],
+      "severity": "low"
+    }
+  ],
+  "warnings": [
+    "本章原文极短（共13段），多数信息为角色对话，explicit 叙述事实有限。",
+    "小白龙在文本中以“她”指称，本章未交代其与“白龙马”等称呼的关系。",
+    "“秃头”“孙猴子”“沙和尚”属对话中的口语指称，已按现有唯一命中实体（char-0001 / char-0002 / char-0004）对应记录，未新增别名实体。",
+    "已调用 dedupe_event / dedupe_claim / find_similar_relationship 查询，均返回 no_match，故本章按新建事件、Claim 与关系候选输出。"
+  ]
+}

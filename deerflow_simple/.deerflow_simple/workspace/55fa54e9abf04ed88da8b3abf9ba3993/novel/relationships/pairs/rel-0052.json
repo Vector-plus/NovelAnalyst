@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0052",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 14,
+  "introduced_at": 14,
+  "subjects": [
+    {
+      "path": "characters/char-0089/index.json",
+      "record_id": "char-0089"
+    },
+    {
+      "path": "characters/char-0090/index.json",
+      "record_id": "char-0090"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0052-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "as_of": 14,
+      "revealed_at": 14,
+      "summary": "和尚以「娃娃鱼」之说让船夫把金色鲤鱼递过来，随后夺鱼揣怀跑走；船夫恍然大悟后当街高喊「和尚抢鱼啦」并唤人来。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "hostility",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "和尚以「娃娃鱼」之说让船夫把金色鲤鱼递过来，随后夺鱼揣怀跑走；船夫恍然大悟后当街高喊「和尚抢鱼啦」并唤人来。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-1287"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-1288"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-1289"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

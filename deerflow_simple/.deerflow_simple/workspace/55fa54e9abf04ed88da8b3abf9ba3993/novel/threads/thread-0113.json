@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0113",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 63,
+  "label": "妖众阻止孙悟空成佛的联合行动",
+  "introduced_at": 63,
+  "updates": [
+    {
+      "id": "update-thread-0113-001",
+      "revealed_at": 63,
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "category": "conflict",
+      "status": "escalated",
+      "role": "subject",
+      "summary": "白晶晶明确「孙悟空绝不可以成佛」；大鹏王宣称必杀唐僧；金角、银角在狮驼岭现身要求兑现承诺，大鹏王借其宝贝欲「收拾了另外三个」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2423"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2430"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2434"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2435"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

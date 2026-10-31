@@ -1,0 +1,1191 @@
+{
+  "chapter_order": 29,
+  "chapter_id": "ch-000029",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "花果山焦土上孙悟空与阿瑶的对话",
+      "introduced_at": 29,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 29,
+            "end": 29
+          }
+        ],
+        "revealed_at": 29,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "花果山已是一片黑色焦土、暗无天日。孙悟空与阿瑶并坐焦土坡上谈论是否后悔。阿瑶称自己不后悔，并自述当初王母说要把她打下凡尘时她怕得如天崩地裂，如今觉得不过如此，还在焦土上跳跃大喊辱骂王母。天空传来长长的隆隆声，孙悟空称那是天界战车调集的声音，让阿瑶离开。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "百万妖精应孙悟空敲地从地下涌出聚集",
+      "introduced_at": 29,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 29,
+            "end": 29
+          }
+        ],
+        "revealed_at": 29,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空敲了敲地，几个妖精从地下钻出，随后漫山遍野、成百万的妖精从地里爬出，齐呼「孙悟空」「美猴王」，自称等他的命令等得很苦，并高呼「我们有救了」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "花果山妖众"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老妖"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "孙悟空遣散百万妖众并自称齐天大圣不是妖王",
+      "introduced_at": 29,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 29,
+            "end": 29
+          }
+        ],
+        "revealed_at": 29,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空让妖众「离开这里」「散了吧」，称这是他个人与天庭的私怨、是神仙之间的事，与妖精无关。老妖质问「你真的是孙悟空么」。孙悟空自称「我是齐天大圣孙悟空，不是妖王孙悟空」，并称自己是天生石猴却生在妖精群中，成仙是毕生所愿，不能与妖精为伍坏了名声。老妖回顾两次神妖大战的伤亡与孙悟空名号的由来，并称若非孙悟空有勾销生死簿之恩现在就想揍他；孙悟空回称勾销生死簿是他最后悔的一件事。最后老妖叫众妖别认错人、自找生路，妖众沉默不甘，议论叹息叫骂着散去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老妖"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "花果山妖众"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-17",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "path": "events/block-0001.json",
+            "record_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空强行把阿瑶交给妖精带走",
+      "introduced_at": 29,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 29,
+            "end": 29
+          }
+        ],
+        "revealed_at": 29,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空一把抓过阿瑶放到一个妖精背上，命妖精把她带走「丢得远远的」，并威胁若敢吃她就取其性命。阿瑶在妖精背上挣扎喊「我不要走」，仍被带远。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "花果山妖众"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "path": "events/block-0001.json",
+            "record_id": "ev-local-1"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "天兵将至，孙悟空举金箍棒指向苍穹迎战",
+      "introduced_at": 29,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 29,
+            "end": 29
+          }
+        ],
+        "revealed_at": 29,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "几个时辰后百万妖众散尽无影无踪。孙悟空望着群妖远去长出一口气，抓黑土而笑，称「种子已经撒遍天下了」，又问花果山何时能重新长出花果。天边雷鸣越来越近，他靠在焦树上静静等着；黑暗天空被一道巨大闪电划开时，他一跃而起，把金箍棒指向苍穹喊「来吧」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-28"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "path": "events/block-0001.json",
+            "record_id": "ev-local-3"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "花果山已是一片黑色焦土、暗无天日的山坡，孙悟空与阿瑶并坐在上面。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "一片黑色焦土的山坡上，孙悟空和阿瑶坐在那里。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "阿瑶问孙悟空是否后悔重新当一个妖精，并称自己不后悔。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "你后悔么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "阿瑶自述：当初王母说要把她打下凡尘时她吓得像天崩地裂，如今觉得也不过如此。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "当王母说要把我打下凡尘时我吓成那样"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "阿瑶在焦土上跳着对远方大喊「王母娘娘是个大白薯」，并说在这里想跳就跳、想说什么就说什么，没人管她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "王母娘娘是个大白薯！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "阴暗的天空传来一声长长的隆隆声，从东方直滚到西方。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "从东方直滚到西方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空说那隆隆声是天界的战车在调集，并称「他们要来了」，让阿瑶离开。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "那是天界的战车在调集的声音。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空喝斥阿瑶「滚」，称别在这儿碍事、不想一边打仗一边被人笑带家属，并说「你是神仙我是妖精不能近亲结婚」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "你是神仙我是妖精不能近亲结婚！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "阿瑶表示要和孙悟空一起当妖精。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "我，我和你一齐当妖精！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空敲了敲地，几个妖精从地下钻出。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "孙悟空敲了敲地"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "从地下钻出的妖精称「大王，你终于又回来了」，说等他命令等得很苦；另有老妖振臂高呼孙悟空、美猴王回来了，「我们有救了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老妖"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "我们等着你的命令等得好苦啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "漫山遍野、成百万的妖精从地里爬出，望不到边际，齐声呼喊「孙悟空」，喊声直冲云霄。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "成百万的妖精望不到边际"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空让妖众「离开这里」「散了吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "你们离开这里吧。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "妖众对孙悟空说，大家等了多少年就等这一战。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "花果山妖众"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "就等这一战呢！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空称这是他个人与天庭的私怨、是神仙之间的事，与妖精无关。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "和你们妖精无关"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空自称「我是齐天大圣孙悟空，不是妖王孙悟空」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "我是齐天大圣孙悟空，不是妖王孙悟空。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "老妖称：第一次神妖大战死了十万妖众，孙悟空便成了弼马温孙悟空；第二次神妖大战死了百万妖众，他便成了齐天大圣孙悟空。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老妖"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "第一次神妖大战死了十万妖众"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空称自己是天生石猴，却生在妖精群中，从小讨厌这些妖精的嘴脸，成仙是毕生所愿，不能与妖精为伍坏了名声。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "成仙是俺毕生所愿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "老妖称若非孙悟空有勾销生死簿之恩，他现在就想揍孙悟空。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老妖"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "若不是你有勾销生死簿之恩"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空称勾销生死簿是他最后悔的一件事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "那是俺最后悔的一件事了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "老妖对众妖说孙悟空现在是神仙了、别认错人，叫大家「走吧」、自找生路。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老妖"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "大家伙儿走吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "妖众沉默地站着、仍不甘心，随后动摇蔓延，议论、叹息、叫骂着，像蚁群一样向四方散去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "像蚁群一样向四方散去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空一把抓过阿瑶放到一个妖精背上，命妖精把她带走「丢得远远的」，并威胁若敢吃她就取其性命。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "把这个小丫头给我带走！丢得远远的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "阿瑶在妖精背上挣扎喊「我不要走」，仍被带远。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "我不要走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "几个时辰后，这百万妖众散尽，无影无踪。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "无影无踪了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空望着群妖远去，长出了一口气，又抓了一把地上的黑土，脸上露出孩童般的笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "脸上露出孩童般的笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "孙悟空自问花果山什么时候才能重新长出花果，并称「种子已经撒遍天下了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "种子已经撒遍天下了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "天边的雷鸣越来越近，孙悟空靠在一棵焦树上静静地等着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "孙悟空靠在一棵焦树上，静静地等着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "黑暗的天空被一道巨大的闪电划开，孙悟空一跃而起，将金箍棒指向苍穹，喊「来吧」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "将金箍棒指向苍穹"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "叙述者称，那一刻被电光照亮的孙悟空身姿，千万年后仍凝固在传说之中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 29,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000029.txt",
+          "chapter_id": "ch-000029",
+          "chapter_order": 29,
+          "locator": null,
+          "anchor": "千万年后仍凝固在传说之中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "老妖",
+      "introduced_at": 29,
+      "alias_texts": [
+        "一老妖"
+      ],
+      "identity_notes": "花果山妖众中的老妖，在孙悟空遣散妖众时出面对话：质疑孙悟空是否还是孙悟空，回顾两次神妖大战的妖众伤亡与孙悟空名号的对应关系，提及孙悟空勾销生死簿之恩，最后叫众妖别认错人、自找生路。原文未给出姓名或其他身份线索。",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-20"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "花果山妖众",
+      "introduced_at": 29,
+      "notes": "隐藏于地下、成百万计的妖精群体，在花果山久等孙悟空归来并期待一战；被孙悟空拒绝与遣散后向四方散去。原文未给出组织名称。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-21",
+        "claim-local-24"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "花果山（暗无天日的黑色焦土）",
+      "category": "location",
+      "introduced_at": 29,
+      "notes": "本章花果山已是一片黑色焦土、暗无天日，仅剩焦树；孙悟空感叹不知何时才能重新长出花果。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-27",
+        "claim-local-28"
+      ]
+    },
+    {
+      "label": "天界战车（天界战车在调集的声音）",
+      "category": "artifact",
+      "introduced_at": 29,
+      "notes": "天空中长而连续的隆隆声被孙悟空称为天界战车在调集的声音，他据此判断「他们要来了」。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    },
+    {
+      "label": "神妖大战（两次）",
+      "category": "history",
+      "introduced_at": 29,
+      "notes": "老妖所述历史：第一次神妖大战死十万妖众，孙悟空成为弼马温孙悟空；第二次神妖大战死百万妖众，他成为齐天大圣孙悟空。此说法出自角色之口，未经叙述者确认。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "kind": "alias_suggestion",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "alias_texts": [
+        "齐天大圣",
+        "美猴王",
+        "弼马温"
+      ],
+      "notes": "本章原文以「美猴王」「齐天大圣孙悟空」「弼马温孙悟空」称呼孙悟空（老妖与妖众称呼、孙悟空自称），属同一人物在本章内出现的称号；建议由后续节点确认是否登记为别名，本章不做实体合并处理。",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同伴式互动事实，不含感情定性"
+      },
+      "certainty": "explicit",
+      "summary": "两人同坐花果山焦土坡上对话：阿瑶问孙悟空是否后悔当妖精并称自己不后悔，表示要和孙悟空一起当妖精；孙悟空喝斥她「滚」，称神仙与妖精不能近亲结婚、不愿被人笑带家属，随后强行把她交给一个妖精带走。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-22",
+        "claim-local-23"
+      ],
+      "notes": "未找到既有关系对记录（find_similar_relationship 返回 no_match）。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "escalation",
+      "summary": "孙悟空判断天界战车正在调集、天兵将到，遣散妖众独自等待；章末闪电划开天空，他举金箍棒指向苍穹喊「来吧」，与天庭的下一战即将展开。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29"
+      ]
+    },
+    {
+      "category": "goal",
+      "status": "ongoing",
+      "role": "clarification",
+      "summary": "孙悟空公开与妖精划清界限：自称「齐天大圣孙悟空，不是妖王孙悟空」，称成仙是毕生所愿，不能与妖精为伍坏名声，并称勾销生死簿是最后悔的事；他拒绝妖众参战，命其散去。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "花果山妖众"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "identity",
+      "status": "ongoing",
+      "role": "development",
+      "summary": "阿瑶已被打下凡尘（其自述），自认不后悔、在花果山无人管束；本章被孙悟空强行交给妖精带走，去向下落原文未交代。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第29章：花果山焦土，齐天大圣遣散百万妖众",
+    "front_matter": {
+      "as_of": 29,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "candidate_name": "花果山妖众"
+        },
+        {
+          "candidate_name": "老妖"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n花果山已成一片黑色焦土、暗无天日的山坡，孙悟空与阿瑶并坐其上 [[claim-local-1]]。阿瑶问孙悟空是否后悔重新当一个妖精，并称自己不后悔 [[claim-local-2]]；她自述当初王母说要把她打下凡尘时怕得如天崩地裂，如今觉得不过如此 [[claim-local-3]]，随后在焦土上跳跃、对远方大喊辱骂王母的话，说这里没人管她 [[claim-local-4]]。孙悟空不笑，抓黑灰在指间洒落，心事重重（原文叙述）。\n\n## 关键行动\n\n- 阴暗天空传来长长的隆隆声，从东方直滚到西方 [[claim-local-5]]；孙悟空称那是天界战车在调集的声音，并让阿瑶离开 [[claim-local-6]]。\n- 阿瑶坚持留下，表示要和孙悟空一起当妖精 [[claim-local-8]]；孙悟空喝斥她「滚」，称不想打仗时被人笑带家属、神仙与妖精不能近亲结婚 [[claim-local-7]]。\n- 孙悟空敲了敲地，几个妖精从地下钻出 [[claim-local-9]]；妖精称终于等到他回来、等命令等得很苦，老妖高呼美猴王回来「我们有救了」 [[claim-local-10]]。成百万的妖精望不到边际，齐呼「孙悟空」 [[claim-local-11]]。\n- 孙悟空让妖众「离开这里」「散了吧」 [[claim-local-12]]，妖众称等了多少年就等这一战 [[claim-local-13]]；孙悟空称这是他与天庭的私怨、是神仙之间的事、与妖精无关 [[claim-local-14]]。\n- 孙悟空强行把阿瑶抓到一个妖精背上，命妖精带她走「丢得远远的」，并威胁若敢吃她就取其性命 [[claim-local-22]]；阿瑶在妖精背上挣扎喊「我不要走」，仍被带远 [[claim-local-23]]。\n\n## 转折与新信息\n\n- 身份表态：老妖质问「你真的是孙悟空么」后，孙悟空自称「我是齐天大圣孙悟空，不是妖王孙悟空」 [[claim-local-15]]；他称自己是天生石猴却生在妖精群中，从小讨厌妖精嘴脸，成仙是毕生所愿，不能与妖精为伍坏名声 [[claim-local-17]]。\n- 名号由来（角色说法）：老妖称第一次神妖大战死了十万妖众，孙悟空成了弼马温孙悟空；第二次神妖大战死了百万妖众，他成了齐天大圣孙悟空 [[claim-local-16]]。\n- 旧事：老妖称若非孙悟空有勾销生死簿之恩，他现在就想揍他 [[claim-local-18]]；孙悟空回称勾销生死簿是他最后悔的一件事 [[claim-local-19]]。\n- 众妖反应：老妖叫众妖别认错人、自找生路 [[claim-local-20]]；妖众沉默不甘，议论、叹息、叫骂着像蚁群一样向四方散去 [[claim-local-21]]。\n\n## 本章结果\n\n几个时辰后，百万妖众散尽、无影无踪 [[claim-local-24]]。孙悟空望着群妖远去长出一口气，抓了一把黑土，脸上露出孩童般的笑 [[claim-local-25]]，自问花果山何时能重新长出花果，并称「种子已经撒遍天下了」 [[claim-local-26]]。天边雷鸣越来越近，他靠在焦树上静静等着 [[claim-local-27]]；黑暗天空被一道巨大的闪电划开时，他一跃而起，把金箍棒指向苍穹喊「来吧」 [[claim-local-28]]。叙述者称那一刻被电光照亮的身姿千万年后仍凝固在传说之中 [[claim-local-29]]。\n\n## 未决问题与补读入口\n\n1. 天界战车调集后即将到来的具体战事如何展开、规模与参与者为何，本章未交代，需读第30章及之后。\n2. 阿瑶被妖精带走的去向与后续处境未交代；她此前「被打下凡尘」的具体原由本章仅有其自述 [[claim-local-3]]。\n3. 「两次神妖大战」的伤亡与孙悟空名号对应关系仅出自老妖之口 [[claim-local-16]]，需后续章节或既有档案核对。\n4. 孙悟空当众遣散妖众、自称齐天大圣而非妖王的表态 [[claim-local-15]] 与前段（第27—29章前文）中他与天庭冲突的具体经过需衔接核对。\n5. 本章原文标题仅为一个「．」，且第29章内存在疑似转录乱码（见 issue 记录），需回查源版本。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "label": "孙悟空遣散百万妖众并自称齐天大圣不是妖王",
+      "reason": "主角与花果山妖众公开决裂、身份自我定位的关键转折，对 stage-004 主线（孙悟空—天庭冲突）有累积价值"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-5",
+      "label": "天兵将至，孙悟空举金箍棒指向苍穹迎战",
+      "reason": "本章收束于迎战姿态，是下一阶段战事的起点"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-16",
+      "label": "老妖：两次神妖大战伤亡与孙悟空名号的对应",
+      "reason": "角色口述的历史框架，可能影响后续对神妖关系与孙悟空经历的理解，需在 stage 内持续核对"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-3",
+      "label": "阿瑶自述被王母打下凡尘",
+      "reason": "阿瑶身份/处境的陈述，属 stage 内人物线证据"
+    },
+    {
+      "kind": "relationship",
+      "local_id": "rel-candidate-孙悟空-阿瑶",
+      "label": "孙悟空与阿瑶的互动事实（不后悔对话、强行送走）",
+      "reason": "人物关系走向在 stage 内可能继续发展，保留互动事实供 StageCommit 汇总"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "notes": "第29章「孙悟空称这是他个人与天庭的私怨」一句在原文中呈「这是我与天庭的私th=天庭�怨，是神仙之间的事」，疑为转录损坏/字符丢失；claim-local-14 的文本据上下文语义整理，锚点取其后半句「和你们妖精无关」。建议核对源版本。",
+      "evidence_claim_local_ids": [
+        "claim-local-14"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "notes": "本章原文标题仅为「．」，疑为抓取或转录异常，建议核对源版本标题。",
+      "evidence_claim_local_ids": []
+    },
+    {
+      "category": "coverage_gap",
+      "notes": "第29章出现「天庭」「天界」指称，但当前未确认已建档的对应势力 Ref，故本次未输出该势力候选，避免与既有档案重复。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-14"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章疑似存在转录乱码（「私th=天庭�怨」）与异常标题（「．」），相关 claim 的原文锚点已选取完整可匹配片段。",
+    "「老妖」「花果山妖众」在现有实体档案中无 Ref，已登记为候选；孙悟空与老妖之间未建立 relationship_candidates（因对方仅有候选身份，无法调用关系对查重），仅以 event 参与者与 claim 记录其对抗性发言。",
+    "「天庭/天界」势力 Ref 未核实，未输出 faction candidate，见 issue_candidates 的 coverage_gap 条目。",
+    "本章初读到「th=」等异常字符处为原文提供内容的损坏，未做任何补写。"
+  ]
+}

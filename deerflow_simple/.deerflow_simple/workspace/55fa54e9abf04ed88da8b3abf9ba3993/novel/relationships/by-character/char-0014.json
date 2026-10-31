@@ -1,0 +1,80 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0014",
+  "kind": "index",
+  "revision": 3,
+  "safe_through": 67,
+  "title": "沙僧 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 67,
+        "end": 67
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0012.json",
+        "record_id": "rel-0012"
+      },
+      "kind": "relationship",
+      "title": "沙僧×唐僧",
+      "summary": "与沙僧×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0072.json",
+        "record_id": "rel-0072"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×沙僧",
+      "summary": "与孙悟空×沙僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

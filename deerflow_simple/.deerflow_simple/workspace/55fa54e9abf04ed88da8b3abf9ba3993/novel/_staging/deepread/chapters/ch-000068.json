@@ -1,0 +1,827 @@
+{
+  "chapter_order": 68,
+  "chapter_id": "ch-000068",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-008"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "狮驼岭斗战中孙悟空被拖入心障，与“心中的声音”问答",
+      "introduced_at": 68,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 68,
+            "end": 68
+          }
+        ],
+        "revealed_at": 68,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空与大鹏王激战时被人唤名，回头被云雾裹挟，面前云雾散开出现一尊巨佛。声音先以“跳出掌心”旧事相问，又展开花果山青翠群山的影像，诱他承认留恋与恐惧，指出他“只有放弃才能成为神”，并要他“学超脱之术”。场景随即转为焦土地狱。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "巨佛/心中的声音"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-8"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "种子袋中现出巨手与五行山，孙悟空被压坠",
+      "introduced_at": 68,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 68,
+            "end": 68
+          }
+        ],
+        "revealed_at": 68,
+        "status": "completed",
+        "story_time": null,
+        "summary": "焦土场景中，声音以“能在花果山焦土上生长的种子”相赠，怪鸟化为白羽仙鹤把一袋种子放进孙悟空手中；孙悟空放下金箍棒、蹲下解袋绳，袋中却藏着巨手与整整一座五行山，几亿万钧之力全打在他身上，脚下土地崩溃，他被山体压着直坠，脸上一丝笑容。其间有一名女子的声音喊“他在骗你，你在你的心障之中”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "巨佛/心中的声音"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "心障中的女子之声"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空与大鹏王激战正酣时，背后有人唤他名字。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "孙悟空与大鹏斗得正欢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空一回头，满天云雾疾扑而来，仿佛时光千万里离他而去、身在九天之外，云雾散开后面前出现一尊巨佛。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "面前出现一尊巨佛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "巨佛的宏大而平缓的声音说：“孙悟空，你说跳出我掌心，便把天宫让你，现在你跳来跳去，跳出去了么？”又说“若跳不出时，你便老实下界，再修几劫，却来争吵”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "你说跳出我掌心，便把天宫让你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "该声音问“你不想回花果山么”，一挥手云散，露出一片青翠群山（本章叙述此处称其为“如来”）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "露出一片青翠群山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空望着下方的花果山景象，忽然想起许多事，眼神迷离。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "忽然他想起了许多事，眼神迷离了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "声音说“我在你心中，在你本不去关注的深处”，并说孙悟空牵挂身体、执著于未来生存，所以感受不到本来的快乐，只关注存在的这一刻便看见生命的美丽。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "我在你心中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "声音说“所以你要学超脱之术”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "所以你要学超脱之术"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空自述：他不想消失，想成为神是为了拥有，可他却只有放弃才能成为神。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "我想成为神是为了拥有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "声音问他：“你抗拒，除了毁灭你得到什么了吗？……你要重新制定价值，你得到了什么样的世界呢？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "你抗拒，除了毁灭你得到什么了吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "一声尖利怪异的喊声划破天空，一只怪鸟掠过；孙悟空转头，四周已是一片黑暗的焦土、地狱景色，无数烧焦的黑色树躯上长着仇视的眼睛，眼睛变成铺天盖地的怪鸟飞上天空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "四周忽然已是一片黑暗的焦土"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "怪鸟突然说话（仍是先前那个声音）：“你还能毁灭更多吗？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "你还能毁灭更多吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空连声喊“是我的错？是我的错我的错我的错”，随后沉默。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "是我的错我的错我的错"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "怪鸟变成洁白羽翼的仙鹤，把一袋种子放到孙悟空手中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "把一袋种子放到孙悟空手中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "那声音说“这儿有种子，只有这种种子能在花果山的焦土上生长”，又说“现在你把它种下去吧”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "只有这种种子能在花果山的焦土上生长"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空手颤抖着看那袋种子，泪流满面。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "这个硬汉居然泪流满面"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "一名女子的声音喊“不！”，并说“他在骗你，你在你的心障之中”，孙悟空随即直起身来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "心障中的女子之声"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "你在你的心障之中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "那声音有点慌地问：“你不相信么？”又说“你要放弃么，可以，就让花果山永远这样下去吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "你要放弃么，可以，就让花果山永远这样下去吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空闭眼深吸一口气后问“你是如来？”，那声音回答“不，我是你的心”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "不，我是你的心"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空望着手中种子袋良久，说“我明白了”，蹲下身，放下他一直不离身的金箍棒，拨开焦黑土地，用双手解开系住袋子的线绳。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "放下了他一直不离身的金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "袋子打开后，一片巨大黑暗直扑过来，袋中藏着的是一只巨手、是整整一座五行山；几亿万钧的力量全打在孙悟空身上，脚下土地崩溃，他被山体压着直坠下去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "是整整一座五行山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "坠压那一刻，孙悟空脸上竟似乎有了一丝笑容。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 68,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000068.txt",
+          "chapter_id": "ch-000068",
+          "chapter_order": 68,
+          "locator": null,
+          "anchor": "他脸上竟似乎有了一丝笑容"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "巨佛/心中的声音",
+      "introduced_at": 68,
+      "alias_texts": [
+        "巨佛",
+        "自称“你的心”的声音",
+        "白羽仙鹤（所化）"
+      ],
+      "identity_notes": "先以一尊巨佛形象出现，后以怪鸟、白羽仙鹤之形施为；对孙悟空自称“我是你的心”，并否认自己是如来。本章叙述另有一处直接称其为“如来”（“如来一挥手”）。身份存在歧义，不作合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-13",
+        "claim-local-18"
+      ]
+    },
+    {
+      "label": "心障中的女子之声",
+      "introduced_at": 68,
+      "alias_texts": [
+        "女子"
+      ],
+      "identity_notes": "仅有一句“不！”与“他在骗你，你在你的心障之中”的声音，未现身；孙悟空自觉“这个女子的声音在哪儿听过”，但本章未给姓名或身份线索。",
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "心障（幻境）",
+      "category": "phenomenon",
+      "introduced_at": 68,
+      "notes": "女子之声称孙悟空身处“你的心障之中”；幻境内可呈现花果山青翠群山与焦土地狱两种景象，并可置物（种子袋）于其手。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-4",
+        "claim-local-10"
+      ]
+    },
+    {
+      "label": "花果山焦土",
+      "category": "place",
+      "introduced_at": 68,
+      "notes": "幻境中呈现的花果山被焚后景象：黑暗焦土、烧焦树躯上长出仇视的眼睛、怪鸟铺天盖地。声音称只有特定的种子能在这种焦土上生长。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-14"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "巨佛/心中的声音",
+      "possible_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "status": "uncertain",
+      "reason": "本章叙述一处写“如来一挥手，云散开了”，而同一声音在孙悟空追问“你是如来？”时回答“不，我是你的心”。两说并存，本章内未明示二者是否为同一主体，故不合并。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-18"
+      ]
+    },
+    {
+      "candidate_label": "心障中的女子之声",
+      "possible_ref": null,
+      "status": "uncertain",
+      "reason": "孙悟空自觉“这个女子的声音在哪儿听过”，但原文未给出任何指向既有角色的线索；不作任何合并推测。",
+      "source_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "本章开场孙悟空与大鹏王斗得正酣；随后孙悟空被唤名拖入幻境，斗战在主视角中被中断描写。",
+      "source_claim_local_ids": [
+        "claim-local-1"
+      ],
+      "notes": "既有关系对查询未命中；如第67章已有战斗关系，由下游按既有 rel-* 归并。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "巨佛/心中的声音"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "声音以“你的心”自居，就掌心赌约、花果山、超脱之术反复诘问孙悟空，并以种子诱其开袋，最终袋中五行山将其压坠。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-14",
+        "claim-local-18",
+        "claim-local-20"
+      ],
+      "notes": "互动性质（引导/试探/欺骗）仅为原文行为记录，不作情感定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "孙悟空·记忆与心障",
+      "category": "character_arc",
+      "status": "advanced",
+      "summary": "孙悟空在幻境中被唤起“跳出掌心”旧事与花果山记忆，声称“我想起了许多事”，并被迫承认自己留恋与恐惧生命；他放下金箍棒、亲手解袋，随即被五行山压坠，脸上带笑。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-8",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "thread_label": "五行山／五百年前旧局重演",
+      "category": "mystery",
+      "status": "advanced",
+      "summary": "声音重提“你说跳出我掌心，便把天宫让你”，最终种子袋打开为巨手与整整一座五行山，将孙悟空压坠。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-20"
+      ]
+    },
+    {
+      "thread_label": "花果山的毁灭与复生种子",
+      "category": "mystery",
+      "status": "opened",
+      "summary": "幻境呈现花果山青翠群山与被焚焦土两种景象；声音称所赠种子“只有这种种子能在花果山的焦土上生长”，孙悟空泪流满面，尚未种下。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-10",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第68章：心障中的五行山",
+    "front_matter": {
+      "as_of": 68,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-008"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        },
+        {
+          "candidate_name": "巨佛/心中的声音"
+        },
+        {
+          "candidate_name": "心障中的女子之声"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空与大鹏王激战正酣，背后忽然有人唤他的名字（[[claim-local-1]]）。他一回头，满天云雾疾扑而来，仿佛时光千万里离他而去、身在九天之外；云雾散开，面前出现一尊巨佛（[[claim-local-2]]）。斗战场景由此转入幻境，本章主要篇幅发生在这处被指为“心障”的场面之中（[[ev-local-1]]）。\n\n## 关键行动\n\n巨佛之声先重提旧约：孙悟空曾言“跳出我掌心，便把天宫让你”，如今问他跳出去了没有，若跳不出，便老实下界再修几劫（[[claim-local-3]]）。随后声音问“你不想回花果山么”，一挥手云散，露出青翠群山（[[claim-local-4]]）；孙悟空望着这一幕忽然想起许多事，眼神迷离（[[claim-local-5]]）。\n\n声音自称“我在你心中”，指他因牵挂身体、执著未来生存而感受不到本来的快乐（[[claim-local-6]]），并要他“学超脱之术”（[[claim-local-7]]）。孙悟空自述不想消失，想成为神是为了拥有，“可我却只有放弃才能成为神”（[[claim-local-8]]）。声音接着逼问：抗拒与毁灭之外，他究竟得到了什么样的世界（[[claim-local-9]]）。\n\n## 转折与新信息\n\n一声尖利鸣叫划破天空，场景骤变为黑暗焦土：烧焦的黑色树躯上长着仇视的眼睛，眼睛又化为铺天盖地的怪鸟（[[claim-local-10]]）。怪鸟用同一个声音问“你还能毁灭更多吗”（[[claim-local-11]]），孙悟空连喊“是我的错”后沉默（[[claim-local-12]]）。\n\n声音以“这儿有种子，只有这种种子能在花果山的焦土上生长”相劝（[[claim-local-14]]），怪鸟化为白羽仙鹤，把一袋种子放进孙悟空手中（[[claim-local-13]]）。孙悟空看着种子泪流满面（[[claim-local-15]]）。就在他要俯身时，一名女子的声音喝止：“他在骗你，你在你的心障之中”（[[claim-local-16]]），声音随即有些慌地反问“你不相信么”“就让花果山永远这样下去吧”（[[claim-local-17]]）。孙悟空闭眼吸气后问“你是如来？”，回答是“不，我是你的心”（[[claim-local-18]]）。\n\n## 本章结果\n\n孙悟空对种子袋凝视良久，说“我明白了”，蹲下身，放下一直不离身的金箍棒，拨开焦黑土地，用双手解开袋绳（[[claim-local-19]]）。袋子一开，一片巨大黑暗直扑而来——袋中藏着巨手、是整整一座五行山，几亿万钧之力全打在他身上，脚下土地崩溃，他被山体压着直坠（[[claim-local-20]]）。坠落那刻，他脸上竟似乎有了一丝笑容（[[claim-local-21]]）。本章两段核心事件至此收束：心障问答（[[ev-local-1]]）与五行山压坠（[[ev-local-2]]）。\n\n## 未决问题与补读入口\n\n- 巨佛之声的身份：本章叙述一处写“如来一挥手”，同一声音却自称“我是你的心”并否认是如来，二者关系本章未明示（[[claim-local-4]]、[[claim-local-18]]）。\n- 那名女子的声音是谁：孙悟空自觉“在哪儿听过”，原文未给线索（[[claim-local-16]]）。\n- 种子是否真的存在、花果山焦土是否为真：均由该声音陈述，未经外部场景证实（[[claim-local-14]]、[[claim-local-10]]）。\n- “心障”内遭受的五行山压坠与现实斗战如何衔接、孙悟空坠往何处，需接读下一章。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "孙悟空首次在本阶段被拖入“心障”，与自称“你的心”的声音正面问答；重提“跳出掌心”旧约。"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "note": "种子袋→巨手→整座五行山，孙悟空放下金箍棒后遭压坠，为本章最大动作反转。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-18",
+      "note": "身份关键陈述：声音否认是如来，自称“我是你的心”。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-19",
+      "note": "人物转折点：孙悟空主动放下“一直不离身的金箍棒”。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-16",
+      "note": "新出现的未具名女子声音，喝止孙悟空开袋；待后续章核实身份。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-21",
+      "note": "压坠时“似乎有了一丝笑容”，为章末悬念落点。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "同一声音在叙述层面被写作“如来一挥手”，而人物对话层面自称“我是你的心”并否认是如来。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-18"
+      ],
+      "suggested_handling": "保留为两个并存的 reported/explicit 记录，不合并到 char-0057；待后续章给出定论。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "心障中的女子之声身份完全未明，孙悟空仅觉“在哪儿听过”。",
+      "source_claim_local_ids": [
+        "claim-local-16"
+      ],
+      "suggested_handling": "登记为候选实体，禁止与任何既有女性角色合并。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "本章开头孙悟空与大鹏王“斗得正欢”，章末他被五行山压坠；幻境与外部战场的物理衔接在本章内无解释。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-20"
+      ],
+      "suggested_handling": "接读第69章核对，不在本章内推断。"
+    }
+  ],
+  "warnings": [
+    "本章绝大部分篇幅为主观幻境/心障场景，所有事件叙述均在“孙悟空所见”的框架内，下游定性时需注意该场景框架。",
+    "未能取得第67章既有的战斗事件 Ref，故未产出 appended_updates_to_existing_events；如存在跨章狮驼岭战斗事件，请由下游合并。",
+    "叙述中“如来”一词与声音自述“我是你的心”冲突，未做实体合并。"
+  ]
+}

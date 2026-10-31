@@ -1,0 +1,36 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1—7章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0001.json",
+        "record_id": "coverage-block-0001"
+      },
+      "title": "覆盖 1—7"
+    }
+  ],
+  "id": "idx-coverage",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "覆盖索引"
+}

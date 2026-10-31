@@ -1,0 +1,1408 @@
+{
+  "chapter_order": 57,
+  "chapter_id": "ch-000057",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-006"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "白晶晶在风草中等待，师兄弟三人边行边吵打",
+      "introduced_at": 57,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 57,
+            "end": 57
+          }
+        ],
+        "revealed_at": 57,
+        "status": "resolved",
+        "story_time": "取经途中（章内标为“第一天”）",
+        "summary": "白晶晶在风草飞扬处长久等待，黑白轮换后见孙悟空自森林边缘出现（如折翼之鸟、拄棍、神情疲惫）。猪八戒从悟空背后树林晃出，以“找一棵大树用尾巴倒吊着睡”调侃他，并问这与推倒五庄观人参果树有何关系；悟空答那树被神仙改造过，所以想给它断根。八戒扛钉耙打悟空头，沙僧加入，三人互相动兵器吵打成一团。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白晶晶"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "女子上前请食，被孙悟空当面识破为妖精",
+      "introduced_at": 57,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 57,
+            "end": 57
+          }
+        ],
+        "revealed_at": 57,
+        "status": "resolved",
+        "story_time": "取经途中（第一天）",
+        "summary": "唐僧牵着驮行李的白马出现，说三人打闹也不怕前面的妖精姑娘看笑话。孙悟空抬头才发现前方有人，唐僧以此夸他境界又高一层；八戒则提议下注这女妖精会不会又像前几个那样“疯狂爱上和尚”。女子笑盈盈上前，以“云游僧人”招待用饭。唐僧意味深长笑着看她，孙悟空直接说“师父，白骨啊”，唐僧回“我知道美人即白骨，你就不能有点儿礼貌”。女子气极跺脚欲发作，被孙悟空一把扭住；悟空称自己火眼金睛不会看走眼，八戒则借“压在地底下五百年”说悟空眼神不好。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白晶晶"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "林中散步：唐僧自述来历与“为什么”，白晶晶三度欲下手未成",
+      "introduced_at": 57,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 57,
+            "end": 57
+          }
+        ],
+        "revealed_at": 57,
+        "status": "resolved",
+        "story_time": "取经途中（第一天，同一时段）",
+        "summary": "唐僧起身说要到林中散步，少女跳上前跟去，三人混战顾不上他。林中白晶晶自报姓名“白晶晶”，唐僧说“我们好像见过”，并说自己只为知道西天在哪儿、承认很傻。白晶晶三次在唐僧背后现出杀机伸手，均被打断或自行收回；唐僧背向她说自己并不阻止妖精吃人，只要给个理由，并自述把猴子从山底挖出并有泥土恐惧症、遇到为逃婚（小姑娘追求）而混入队伍的自卑猪、在河里救起被天帝罚在流沙河当妖精的沙僧，称他们每个人都恨他。随后唐僧抓她手大喊“为什么”，她恐惧大叫“不要啊”，唐僧却放手称“只是个玩笑”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白晶晶"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-26"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-27"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空制止白晶晶，闻“花果山”后剧痛倒地，一击打碎其身",
+      "introduced_at": 57,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 57,
+            "end": 57
+          }
+        ],
+        "revealed_at": 57,
+        "status": "resolved",
+        "story_time": "取经途中（第一天，同段）",
+        "summary": "白晶晶将手变成利爪，孙悟空已站在她背后。她指出悟空“本也是妖怪”，让他杀了自己以成正果；悟空称“我不是，我要成正果了”，并说自己早就知道她换了人形、刚才已放她一马，而她仍想杀唐僧。悟空抬棒时，白晶晶颤声说“如果有雨水，花果山就能长出花草来吧”，悟空愣住并喊痛，丢棒蹦起又摔在地上抱头狂喊。白晶晶怒视唐僧质问“紧箍咒”，但唐僧并未念什么。她冲上前要杀唐僧，被悟空跳起抓住；唐僧出声阻止“不要”，但那一击落下，白晶晶身躯粉碎。孙悟空如苍老之人弓腰低头走过，唐僧让他把解开的行李整好搬上马，他低声应“知道了”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白晶晶"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35",
+          "claim-local-36",
+          "claim-local-37",
+          "claim-local-38"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-32"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-35",
+          "claim-local-37"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-37",
+          "claim-local-38"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "白晶晶在风草飞扬处长期等待，黑颈鸟与雨云出现、风停之后，看见孙悟空从森林边缘出现，其状如一只折了翅膀的鸟，一跳一跳穿行灌木，拄着棍子、歪着头，眼神懒散，像很累了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "她看见一只折了翅膀的鸟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "猪八戒说孙悟空现在一定想找一棵树，能用尾巴倒吊在上面睡觉；孙悟空答“是一棵大树，我一辈子都在找这么一棵树”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "你现在一定想找一棵树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "猪八戒问孙悟空，找大树睡觉这件事和他推倒五庄观的人参果树有什么关系，说明八戒知道悟空推倒人参果树一事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "这和你推倒五庄观的人参果树有什么关系呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空说五庄观那棵大树被神仙改造过，长满神仙爱吃的古怪果子和金色叶子，已经不是一棵树，他见了就难受，就想给它一个断根。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "就想给他一个断根"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "猪八戒扛起钉耙打孙悟空头，沙僧加入喊“打架么？好！”，三人以“讨厌不背行李不洗碗的师弟”“最讨厌找不着大树要站在地上睡觉的猴子”“不准提想当年/五百年前”等话互相抄兵器杵着吵打成一团。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "三个家伙拿兵器互相杵着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "唐僧牵着驮着行李的白马出现，说他们这样闹也不怕前面的那位妖精姑娘看笑话。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "也不怕前面的那位妖精姑娘看笑话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空此前未注意前方有人，抬头后说还以为那是一棵枯树；唐僧道“魔不入寸心，你的境界又高了一层”，猪八戒则说他“近视又高了一层”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我还以为那是一棵枯树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "猪八戒提议下注，赌前面这个女妖精会不会又像前几个那样“疯狂地爱上和尚”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "现在我们来下注前面这个女妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "女子笑盈盈走到近前，以“长老，是云游僧人么？走得累了，随便用点饭食吧”招呼唐僧一行。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "是云游僧人么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧意味深长地笑着看那女子，女子不好意思地转过脸去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "唐僧意味深长地笑着看她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空对唐僧说“师父，白骨啊”，即指眼前女子是妖精；唐僧回说“我知道美人即白骨，你就不能有点儿礼貌，不要说出来吗”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "师父，白骨啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "女子被戏耍气极，一跺脚想要发作，却被孙悟空一把扭住。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "却被孙悟空一把扭住"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空对女子说他们几个都是妖精，让她别指望收饭钱、最好跑远点，免得他们忍不住把她也吃掉。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我们可都是妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空自称“天生火眼金睛，什么时候看走眼过”，并说那女子若不是妖精，猪八戒就是帅哥；猪八戒则回说悟空在地底下压了五百年，还拿鼹鼠的眼神打趣他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我孙悟空天生火眼金睛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "唐僧从地上站起来说“我要到美丽的林中去散散步”，少女跳上前说“我跟你去”，三人正打成一团顾不上唐僧。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我要到美丽的林中去散散步"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "少女向唐僧自报姓名“我叫白晶晶”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我叫白晶晶"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "唐僧对白晶晶说“我们好像见过”，并说自己只在林子里走时才不用去想哪边才是西边。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我们好像见过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧说去西天是因为太多人问过他，他“只是想知道它在哪儿”，并自认很傻。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我只是想知道它在哪儿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "白晶晶看着唐僧背影时眼中忽现杀机，将手伸向他的背；唐僧忽然转回身，她低头装作修指甲——如此三度出手，均在中途收回或被打断。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "眼中忽现杀机"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "唐僧背向白晶晶说，他并不是不让他们吃，只不过要他们给他一个“理由”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我只不过是要他们给我个理由"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "唐僧自述：当年他把猴子从山底挖出来时，猴子有泥土恐惧症、最大愿望是脚不沾地在树上挂着，他用三个月逼猴子重新拿出勇气在地上走路。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我用了三个月逼他重新拿出勇气在地上走路"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "唐僧自述：一年后他遇上一只自卑的猪，当时那猪正因一个小姑娘疯狂想嫁给他、要和他一起去做妖精而痛苦，为了逃跑就混进了取经队伍。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "一个小姑娘疯狂地想嫁给他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "唐僧自述：他在河里救起沙僧，这沙僧五百年都没学会游泳，天帝却罚他在流沙河里当妖精，他只敢在河中心一块石头上站了五百年。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "可是天帝罚他在流沙河里当妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "唐僧说三个徒弟现在每一个人都恨他，并推测自己若死了他们就会解脱。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "而现在他们每一个人都恨我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "唐僧说所有的妖精都想杀他，他每次都问“为什么”，可每次对方还没说出答案就死了；因此他认为想杀死一个妖精，只要问他“为什么”就够了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "他们还没说出答案的时候就死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "唐僧忽然一把抓住白晶晶的手，盯着她的眼睛大声喊“为什么”，白晶晶恐惧地大叫起来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "唐僧忽然一把抓住白晶晶的手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "白晶晶自述这是她成为妖精以来没被人这样注视过，觉得自己忽然又变回当年活着的那个小姑娘、在那眼神下透明；随后唐僧放开手，说“对不起，只是个玩笑”，并边走边说“没错，就当这一切只是个玩笑好了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "对不起，只是个玩笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "白晶晶定神后仍将手变成利爪，但手在半空定住——孙悟空已站在她的背后。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "孙悟空站在了她的背后"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "白晶晶与孙悟空对视后镇定下来，指出“孙悟空，你本也是妖怪”，并让他杀了自己去成正果。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "你本也是妖怪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "孙悟空说“我不是，我要成正果了”，并说自己知道她换了人形、刚才已放她一马，而她仍想杀唐僧。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我刚才放你一马"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "白晶晶反问“你知道我是谁？杀我之前能不能告诉我？”，孙悟空抬起棒来时，她忽然向他伸出手。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "杀我之前能不能告诉我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "白晶晶颤声说“如果有雨水，花果山就能长出花草来吧”，孙悟空愣住并念出“花果山”，随后只说出一个“痛”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "如果有雨水，花果山就能长出花草来吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "孙悟空忽然丢掉棒子，直蹦起来又摔在地上，抱头狂喊“痛，痛啊！”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "抱头狂喊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "白晶晶抬头怒视唐僧质问“紧箍咒？”，但唐僧并没有念什么，只是平静地看着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "唐僧并没有念什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "白晶晶说“孙悟空你忍住，我这就杀了唐僧”，冲上前去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "白晶晶"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "我这就杀了唐僧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-36",
+      "text": "孙悟空跳起来一把抓住冲上前的白晶晶，白晶晶惊疑回头问“为什么”；唐僧出声喊“不要”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "但是孙悟空跳起来一把抓住了她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-37",
+      "text": "孙悟空的一击落在白晶晶身上，她的身躯在瞬间粉碎。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "瞬间那身躯也粉碎了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-38",
+      "text": "孙悟空像苍老的人一样弓着腰、低头从唐僧身边走过；唐僧叹气让他把解开的行李整好搬上马，他低声应“知道了”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 57,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000057.txt",
+          "chapter_id": "ch-000057",
+          "chapter_order": 57,
+          "locator": null,
+          "anchor": "把解开的行李整好搬上马"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "白晶晶",
+      "introduced_at": 57,
+      "alias_texts": [
+        "女子",
+        "少女",
+        "妖精姑娘",
+        "小丫头",
+        "小姑娘"
+      ],
+      "identity_notes": "本章在林中等待取经队伍的女子，自称“白晶晶”（claim-local-16），被孙悟空指为“白骨”即妖精（claim-local-11）。她三度欲对唐僧下手，并声称“我这就杀了唐僧”；最终被孙悟空一击打碎身躯。她向孙悟空提及“花果山”与雨水长花草，并反问“你知道我是谁？”，章内未揭示其真实身份；与其为“当年活着的那个小姑娘”的自述式感知并列，未获明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-16",
+        "claim-local-19",
+        "claim-local-27",
+        "claim-local-29",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-37"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "花果山",
+      "category": "place",
+      "introduced_at": 57,
+      "notes": "白晶晶对孙悟空说“如果有雨水，花果山就能长出花草来吧”，孙悟空闻言愣住并喊痛；章内未交代花果山与二人的具体关联。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-32"
+      ]
+    },
+    {
+      "label": "五庄观（人参果树）",
+      "category": "place",
+      "introduced_at": 57,
+      "notes": "猪八戒提及孙悟空推倒五庄观的人参果树，悟空解释那树被神仙改造过、长着神仙爱吃的古怪果子与金色叶子。事件本身发生于本章之前，章内仅为回溯性提及。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4"
+      ]
+    },
+    {
+      "label": "流沙河",
+      "category": "place",
+      "introduced_at": 57,
+      "notes": "唐僧自述天帝罚沙僧在流沙河当妖精，沙僧因不会游泳只在河中心一块石头上站了五百年。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "紧箍咒",
+      "category": "concept",
+      "introduced_at": 57,
+      "notes": "孙悟空抱头狂喊痛时，白晶晶抬头怒视唐僧质问“紧箍咒？”，但原文明确写到唐僧并没有念什么；悟空剧痛的真实原因章内未交代。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-33",
+        "claim-local-34"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "白晶晶"
+      },
+      "candidate_b": {
+        "description": "唐僧自述中被“自卑的猪”为逃避而甩下的小姑娘（说想嫁给猪八戒、和他一起去做妖精）"
+      },
+      "certainty": "uncertain",
+      "summary": "唐僧自述往事中出现这样一个小姑娘，本章白晶晶又主动接近取经队伍并自称妖精、被孙悟空称为“白骨”。两者是否同一人，章内未作任何明示。",
+      "basis_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-16",
+        "claim-local-11"
+      ],
+      "notes": "仅登记关联线索，禁止据此合并引用。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "白晶晶"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "certainty": "uncertain",
+      "summary": "白晶晶以“花果山如果有雨水就能长出花草”触动孙悟空，使悟空剧痛倒地；她并反问“你知道我是谁？”。原文另写到她在唐僧眼神下“忽然又变成了当年活着的那个小姑娘”。这些文本指向她与孙悟空过去相识，但章内并未明示其身份或相识经过。",
+      "basis_claim_local_ids": [
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-27"
+      ],
+      "notes": "身份关联为候选，不做实体合并；不可与已有角色（如阿瑶、紫霞等）擅自等同。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "candidate_name": "白晶晶"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "接近与试探：她以请食为由接近，三次在背后伸手欲下手；他先以“理由/为什么”逼问她，抓其手大喊后放手称“只是个玩笑”，随后自行走出树林；她自己则声称要杀他。"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶借“云游僧人”名义接近唐僧并多次欲下手；唐僧以问“为什么”反制，握手大喊后主动放手离场，未对她动手。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-35"
+      ],
+      "notes": "仅记录互动事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "白晶晶"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "孙悟空识破其妖精身份并放她一马；她以“花果山”一言触动他致其剧痛；最终他跳起抓住她并一击使其身躯粉碎。"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空认出白晶晶的妖精身份并先放过她，因她提及花果山而剧痛倒地，最终在她冲向唐僧时一击将其身躯打碎。",
+      "source_claim_local_ids": [
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-36",
+        "claim-local-37"
+      ],
+      "notes": "她是否为其旧识，见 identity_link_candidates，章内未明示。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "唐僧自述曾把悟空从山底挖出并用三个月逼他在地上走路；他称徒弟们现在都恨他；章末他一句吩咐，悟空低声应命。"
+      },
+      "certainty": "reported",
+      "summary": "唐僧自述对孙悟空的改造与支配关系（挖出山底、逼其重新在地上走路），并断言徒弟都恨自己；章末悟空按他的吩咐整理行李上马。",
+      "source_claim_local_ids": [
+        "claim-local-21",
+        "claim-local-24",
+        "claim-local-38"
+      ],
+      "notes": "“每一个人都恨我”为唐僧自述，非叙述断言。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "白晶晶自报姓名并以“花果山”触动孙悟空，反问“你知道我是谁”；其真实身份及与悟空旧事的关系在本章未揭示，她随即被悟空一击打碎身躯。",
+      "related_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-31",
+        "claim-local-32"
+      ],
+      "notes": "后续需核对“小姑娘/花果山/白骨”线索如何落地。"
+    },
+    {
+      "category": "character_turn",
+      "status": "ongoing",
+      "role": "development",
+      "summary": "孙悟空对白晶晶先放一马，闻“花果山”后剧痛倒地，最终仍一击打碎其身躯，事后如苍老之人弓腰低头。",
+      "related_claim_local_ids": [
+        "claim-local-30",
+        "claim-local-33",
+        "claim-local-37",
+        "claim-local-38"
+      ],
+      "notes": "对应 stage-006“西行途中·界限”主题。"
+    },
+    {
+      "category": "plot",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空突发的剧痛并非唐僧念咒所致（原文明确唐僧没有念什么），白晶晶却认定是“紧箍咒”；痛因待查。",
+      "related_claim_local_ids": [
+        "claim-local-33",
+        "claim-local-34"
+      ],
+      "notes": ""
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第57章：第一天·白骨与“为什么”",
+    "front_matter": {
+      "as_of": 57,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "白晶晶"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-11",
+        "claim-local-16",
+        "claim-local-19",
+        "claim-local-25",
+        "claim-local-27",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-37",
+        "claim-local-38"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首标为“第一天”。一名女子在风草飞扬处静静等待，昼夜轮换、风不停；黑颈鸟与高黑雨云从森林后移来（[[claim-local-1]]）。风停之后，孙悟空自森林边缘出现——她看到的是“一只折了翅膀的鸟”，一跳一跳穿行灌木，拄着棍子、歪着头、懒懒望着远处森林，像很累了（[[claim-local-1]]）。\n\n## 关键行动\n\n猪八戒从悟空背后的树林晃出，用“找一棵树用尾巴倒吊着睡”调侃他，并问这与推倒五庄观人参果树有什么关系；悟空答那树被神仙改造过、长满神仙爱吃的古怪果子，他已不认它是树，就想给它一个断根（[[claim-local-4]]）。八戒随即扛钉耙打悟空头，沙僧加入，三人以“不背行李不洗碗的师弟”“不许提想当年／五百年前”为由抄兵器杵着吵成一团（[[claim-local-5]]）。\n\n唐僧牵着驮行李的白马出现，说他们闹成这样也不怕前面的妖精姑娘看笑话。女子笑盈盈上前以“云游僧人”招待用饭；孙悟空当面对唐僧说“师父，白骨啊”，唐僧回说他知道“美人即白骨”，只让他别说出来（[[claim-local-11]]）。女子气极跺脚，被孙悟空一把扭住。\n\n## 转折与新信息\n\n唐僧起身说要去林中散步，少女跳上前跟去。林中她自报“我叫白晶晶”（[[claim-local-16]]），唐僧说“我们好像见过”，并说自己只为知道西天在哪儿。白晶晶看着他的背影眼中忽现杀机，将手伸向他的背，前后三次出手，均被他的转身或自行收回打断（[[claim-local-19]]）。\n\n唐僧背向她说自己并不阻止妖精吃人，只要给他一个“理由”，随后自述三徒来历：把猴子从山底挖出、用三个月逼他重新在地上走路；遇上一只为逃避小姑娘追求而混入队伍的自卑的猪；在河里救起被天帝罚在流沙河当妖精、五百年没学会游泳的沙僧；并断言“他们每一个人都恨我”。他随即说，所有妖精都想杀他，每次他问“为什么”，对方还没答就死了，所以想杀死一个妖精，只要问“为什么”就够了（[[claim-local-25]]）。\n\n他一把抓住白晶晶的手大喊“为什么”，白晶晶恐惧大叫；他却放手说“对不起，只是个玩笑”，向林外走去（[[claim-local-27]]）。\n\n## 本章结果\n\n白晶晶仍将手变成利爪，但手在半空定住——孙悟空已站在她背后。她指出“你本也是妖怪”，让他杀了自己成正果；悟空称“我不是，我要成正果了”，并说自己早知她换了人形、刚才已放她一马，她仍要杀唐僧。悟空抬棒时，她颤声说“如果有雨水，花果山就能长出花草来吧”，悟空愣住、只吐出一个“痛”，随即丢棒蹦起又摔在地上抱头狂喊（[[claim-local-32]]、[[claim-local-33]]）。\n\n白晶晶怒视唐僧质问“紧箍咒”，但唐僧并没有念什么（[[claim-local-34]]）。她冲上前要杀唐僧，被悟空跳起抓住，唐僧出声喊“不要”，那一击仍然落下，她的身躯瞬间粉碎（[[claim-local-37]]）。孙悟空像苍老的人弓腰低头走过，唐僧让他把解开的行李整好搬上马，他低声应“知道了”（[[claim-local-38]]）。\n\n## 未决问题与补读入口\n\n- 白晶晶的“你知道我是谁”未被回答；她与花果山、与孙悟空旧事的关系章内无明示（见 identity_link_candidates）。\n- 孙悟空剧痛并非唐僧念咒所致，真实原因未交代（见 thread_update_candidates）。\n- 唐僧自述中含“小姑娘想嫁给猪八戒”的往事，与本章白晶晶是否相关，无文本明示。\n- 章末师徒继续西行，衔接第58章“第二天”。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-4",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_order": 57,
+      "note": "孙悟空一击打碎白晶晶身躯；西行队伍的界限主题关键事件"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-25",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_order": 57,
+      "note": "唐僧“问为什么就够杀死妖精”的自述，人物核心命题"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-33",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_order": 57,
+      "note": "孙悟空闻“花果山”后剧痛倒地；非唐僧念咒（claim-local-34）"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-38",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_order": 57,
+      "note": "事后悟空如苍老之人、应命整行李，情绪/状态转折证据"
+    },
+    {
+      "kind": "entity_candidate",
+      "ref_or_local_id": "白晶晶",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_order": 57,
+      "note": "首次登场的新角色候选，身份未明，后续 57-69 章持续出现"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "白晶晶自报姓名并反问“你知道我是谁？”，章内未揭示其真实身份；仅有“花果山／当年活着的那个小姑娘”等暗示，无法与既有实体（如阿瑶、紫霞、沙月等）建立确定关联。",
+      "chapter_order": 57,
+      "related_local_ids": [
+        "claim-local-16",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-27"
+      ],
+      "suggested_action": "等待后文揭示后再做 identity_link，暂不合并引用。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "原文存在字符损坏：第57章猪八戒台词“疯狂��那样�爱上和尚”与孙悟空台词“可你还想杀唐僥��'�杀唐�”出现乱码，影响精确引文与锚点选取。",
+      "chapter_order": 57,
+      "related_local_ids": [
+        "claim-local-8",
+        "claim-local-30"
+      ],
+      "suggested_action": "为这两处对话选取锚点时避开损坏片段（已改用上游可用片段）。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "孙悟空头痛倒地的原因章内未明示：白晶晶认定是“紧箍咒”，但原文明确写到唐僧并没有念什么，痛因无解释。",
+      "chapter_order": 57,
+      "related_local_ids": [
+        "claim-local-33",
+        "claim-local-34"
+      ],
+      "suggested_action": "标记为待后文补足的悬念。"
+    }
+  ],
+  "warnings": [
+    "本章标题原文为“．”，疑为源文件标题缺失，概览标题采用“第一章式”命名“第57章：第一天·白骨与‘为什么’”，必要时人工校正。",
+    "白晶晶无既有实体档案（resolve_name 返回 no_match），已作为新角色候选登记；未与任何既有角色合并。",
+    "对 char-0001/char-0002、char-0001/char-0003、char-0001/char-0014、char-0002/白晶晶 的关系对查询均返回 no_match，故以 relationship_candidates 新建。",
+    "原文两处对话存在乱码（见 issue_candidates/source_locator），相关 claim 的锚点已避开损坏片段。"
+  ]
+}

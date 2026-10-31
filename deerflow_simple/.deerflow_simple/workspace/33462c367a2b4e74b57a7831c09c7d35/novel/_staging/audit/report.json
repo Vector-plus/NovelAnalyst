@@ -1,0 +1,11 @@
+{
+  "audit_summary": {
+    "candidate_count": 0,
+    "confirmed_issue_count": 0,
+    "critical_count": 0,
+    "overview": "已对第 1~7 章索引产物执行全部 5 项 F 类检查（引用可达性、孤儿 claim、时间泄漏、stage 归档完整性、编号冲突），均零命中，本批无质量问题，可正常发布。",
+    "warning_count": 0
+  },
+  "issues": [],
+  "warnings": []
+}

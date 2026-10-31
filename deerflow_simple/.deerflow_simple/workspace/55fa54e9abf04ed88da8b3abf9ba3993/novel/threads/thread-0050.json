@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0050",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "玉帝要孙悟空完成的三件事（赎前罪）",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0050-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "quest",
+      "status": "introduced",
+      "role": "core",
+      "summary": "孙悟空自述：因不敬天帝被罚入五岳关五百年，后蒙玉帝开恩，只要完成三件事就赎前罪。第一件保唐僧上西天；第二件杀四个魔王（平天大圣牛魔王、混天大圣鹏魔王、通天大圣猕猴王、齐天大圣美猴王）；第三件待前两事做完由上天告知。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1107"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1108"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1109"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1105"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

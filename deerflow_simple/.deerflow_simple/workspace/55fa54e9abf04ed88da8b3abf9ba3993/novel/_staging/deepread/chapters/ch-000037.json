@@ -1,0 +1,508 @@
+{
+  "chapter_order": 37,
+  "chapter_id": "ch-000037",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "两个一模一样的石猴在天神阵前对峙并交战",
+      "introduced_at": 37,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 37,
+            "end": 37
+          }
+        ],
+        "revealed_at": 37,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空看见远处有一个与自己容貌完全相同的石猴在暴风中狂笑，血红火焰被卷向四方；那个石猴面前各路天神挥刀枪却只吆喝不敢上前。天神喧叫静下后，诸神两侧并立两个姿势神情相同的石猴，巨灵神在神将群中确认自己没有变成两个。孙悟空先后喝问对方“你是谁”与“你为什么要变成俺老孙模样”，对面没有回答，只随朔风卷来大雪。孙悟空扑向对面风雪中的影子，大风雪将两个影子吞没，天空传来金器相击之声。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "与孙悟空一模一样的石猴"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "诸神（天神）"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空抬眼看见远处有一个与自己容貌一模一样的石猴正在放肆狂笑，暴风在其背后天际狂卷，把血红色的火焰卷向四面八方。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "那张和他一模一样的脸，正放肆无忌地狂笑着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "那个孙悟空的面前，各路天神挥舞刀枪，却只是吆喝而不敢上前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "各路天神正挥舞着刀枪，却只吆喝着不敢上前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "天神们的喧叫静下来后，诸神两侧各站着一个石猴，两个石猴姿势相同、神情相同。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "站着两个石猴，同样的姿势，同样的神情"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "巨灵神在神将群中认真找了自己一遍，确认自己并没有变成两个，才相信不是有人在空中竖起了一面巨镜。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "巨灵神认真在神将群中找了找自己"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空喝问“你是谁！”，声音被狂风卷得在空中旋卷、撕散又聚合，从一侧翻滚到另一侧，于是各处都有了同样的问话。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "你为什么要变成俺老孙模样"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空又喝问“你为什么要变成俺老孙模样？”，对面没有回答。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "对面没有回答，朔风夹起大片白色羽毛漫卷过来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "朔风夹起大片白色羽毛漫卷过来，那其实是雪；对面的身影随之朦胧，但孙悟空分明感觉到那张与自己一模一样的脸上有冷冷的嘲笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "那竟是雪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空大喊一声，直向对面暴风雪中的影子扑去；诸神想凑上去观战，大风雪一裹便将两个影子吞没，天空中传来金器相击之声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "便将两个影子吞没了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "紫霞望着火焰与雪花交织的天空，想到若是一会儿那个胜利者跳回她的身边，她该不该相信他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "她该不该相信他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "紫霞在心中并列出孙悟空的多副面孔：在天神痛苦惊惶中狂笑的、西行路上心事重重的、在噩梦中惊醒掩饰不住恐惧的、锁妖柱上眼睛暗淡下去的；她由此发现自己原来从来不知道孙悟空该是什么样子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "她忽然发现原来她从来不知道孙悟空该是什么样子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "紫霞心中的孙悟空形象是“披黄金战甲、视天神如无物的凛凛英雄”，同时她也把“把天捅破的恶魔”和“抱头喊‘不要烧我的花果山’的痛苦猴子”认作孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "披黄金战甲，视天神如无物的凛凛英雄"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "紫霞心念一闪，自问究竟希望谁活着回到自己面前，但随即不再让自己去想这个问题。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 37,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000037.txt",
+          "chapter_id": "ch-000037",
+          "chapter_order": 37,
+          "locator": null,
+          "anchor": "但她立刻不再让自己去想这个问题"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "与孙悟空一模一样的石猴",
+      "introduced_at": 37,
+      "alias_texts": [
+        "那一个孙悟空",
+        "对面那个暴风雪中的影子",
+        "另一个石猴"
+      ],
+      "identity_notes": "第37章出场，与孙悟空容貌、姿势、神情完全相同，面对天神挥刀只狂笑；孙悟空两次喝问其“是谁”“为什么要变成俺老孙模样”，对方始终没有回答，只卷起大雪并将身影隐入风雪。本章未交代其姓名、来历或真实身份，不得与任何已建档角色合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "note": "旁观战斗并牵挂其胜负与真假"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞在远处望着火焰与雪花交织的天空，观战真假孙悟空之争，并自问若是胜利者跳回身边自己该不该相信他、究竟希望谁活着回到面前，随即不再深想。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "仅记录本章互动与内心自问事实，不做情感类别定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "major",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "与孙悟空一模一样的石猴"
+        }
+      ],
+      "summary": "出现与孙悟空完全相同的石猴，孙悟空身份被“复制”，双方在天神阵前对峙后被风雪吞没交战，真假未分。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-8"
+      ],
+      "notes": "第37章引入，第38章章首显示战斗仍在继续（孙悟空遇上从未见过的对手）。"
+    },
+    {
+      "category": "identity",
+      "status": "open",
+      "role": "major",
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "与孙悟空一模一样的石猴"
+        }
+      ],
+      "summary": "同名同貌的第二个石猴身份未交代，对方对孙悟空的质问不作回答。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "需要后续章节确认其来历与是否与孙悟空构成同一性关系。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第37章：两个石猴",
+    "front_matter": {
+      "as_of": 37,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "与孙悟空一模一样的石猴"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空抬眼便看见远处有一张与自己一模一样的脸在放肆狂笑，暴风在其背后天际狂卷，把血红色火焰卷向四面八方（[[claim-local-1]]）。那个“孙悟空”面前，各路天神挥舞刀枪却只吆喝、不敢上前，场面让孙悟空觉得似曾相识（[[claim-local-2]])。\n\n## 关键行动\n\n- 天神们的喧叫忽然静下，诸神两侧各站着一个石猴，姿势与神情完全相同，天空像被一分为二（[[claim-local-3]]）。\n- 巨灵神在神将群中认真找了自己一遍，确认自己没有变成两个，才相信不是有人在空中竖起巨镜（[[claim-local-4]]）。\n- 孙悟空两度喝问：“你是谁！”“你为什么要变成俺老孙模样？”声音被狂风撕散又聚合、从一侧翻到另一侧，各处都有了同样的问话（[[claim-local-5]]、[[claim-local-6]]）。\n- 对面始终没有回答，只随朔风卷起大片白色羽毛——那竟是雪；孙悟空却分明感觉到那张一模一样的脸上有冷冷的嘲笑（[[claim-local-6]]、[[claim-local-7]]）。\n- 孙悟空大喊一声，直扑对面暴风雪中的影子；诸神想凑近观战，大风雪一裹便把两个影子吞没，天空中传来金器相击之声（[[claim-local-8]]）。\n\n## 转折与新信息\n\n- 本章出现第二个与孙悟空容貌、姿势、神情完全相同的石猴，其身份、来历、目的均未交代，也不回答孙悟空的质问（[[claim-local-6]]）。\n- 紫霞在远处望着火焰与雪花交织的天空观战，想到若是一会儿那个胜利者跳回她的身边，她该不该相信他（[[claim-local-9]]）。\n- 紫霞在心底列出孙悟空的多副面孔：在天神痛苦惊惶中狂笑的、西行路上心事重重的、噩梦中惊醒掩饰不住恐惧的、锁妖柱上眼睛暗淡下去的，由此发现自己从来不知道孙悟空“该是什么样子”（[[claim-local-10]]）。\n- 她心中的孙悟空是披黄金战甲、视天神如无物的凛凛英雄，可她同时也把“把天捅破的恶魔”“抱头喊‘不要烧我的花果山’的痛苦猴子”认作孙悟空（[[claim-local-11]]）。\n\n## 本章结果\n\n两个石猴在天神与紫霞的注视下被风雪吞没、以金器相击之声交战，胜负未分；孙悟空的身份问题从“谁在冒充”变成“哪一个才是他”的外部对峙，而紫霞这边尚未做出判断——她自问究竟希望谁活着回到面前，随即不再让自己去想（[[claim-local-8]]、[[claim-local-12]]）。\n\n## 未决问题与补读入口\n\n1. 与孙悟空完全相同的石猴是谁、为何变成他的模样？本章对方一句未答。\n2. 风雪中的交战谁占上风？本章只给到金器相击之声，胜负留待下一章（[[ev-local-1]]）。\n3. 紫霞最终相信哪一个孙悟空，本章停在“不再去想”，未形成判断。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "chapter_order": 37,
+      "note": "真假石猴对峙并在风雪中交战，身份谜题开启"
+    },
+    {
+      "kind": "character_candidate",
+      "local_id": "与孙悟空一模一样的石猴",
+      "chapter_order": 37,
+      "note": "第二个孙悟空形象首次出现，身份未明，勿与其他角色合并"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-10",
+      "chapter_order": 37,
+      "note": "紫霞对孙悟空形象认知的动摇，是人物转折点证据"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-12",
+      "chapter_order": 37,
+      "note": "紫霞回避判断，悬念点"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章出现与孙悟空容貌完全相同的第二个石猴，原文未给出其姓名或来历，孙悟空质问亦无回答，无法确定其是否为独立实体、变化者或与孙悟空同源的某种分身。",
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "与孙悟空一模一样的石猴"
+        }
+      ],
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "已作为新候选登记，不做合并。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章第1段开头存在乱码（“便hei抬眼�看见了”），影响原文引用与锚点选取。",
+      "subject_refs_or_candidates": [],
+      "evidence_claim_local_ids": [
+        "claim-local-1"
+      ],
+      "notes": "锚点已改取同段后半句“那张和他一模一样的脸，正放肆无忌地狂笑着”。"
+    }
+  ],
+  "warnings": [
+    "本章原文第1段含乱码字符，锚点改用其后可唯一匹配的片段。",
+    "第二个孙悟空仅作为新角色候选登记，未与 char-0002 做任何身份合并；其身份留待后续章节证据。",
+    "紫霞相关陈述均为叙述所述其内心活动，未做情感类别定性。"
+  ]
+}

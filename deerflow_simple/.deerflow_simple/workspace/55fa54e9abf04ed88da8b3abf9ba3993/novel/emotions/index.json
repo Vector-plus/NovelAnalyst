@@ -1,0 +1,449 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0001/index.json",
+        "record_id": "emo-0001"
+      },
+      "kind": "emotional_index",
+      "title": "猪八戒—阿瑶：感情阶段（类型未定）",
+      "summary": "猪八戒—阿瑶：感情阶段（类型未定）（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0001/index.json",
+          "record_id": "emo-0001"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0002/index.json",
+        "record_id": "emo-0002"
+      },
+      "kind": "emotional_index",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0002/index.json",
+          "record_id": "emo-0002"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0003/index.json",
+        "record_id": "emo-0003"
+      },
+      "kind": "emotional_index",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0003/index.json",
+          "record_id": "emo-0003"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0004/index.json",
+        "record_id": "emo-0004"
+      },
+      "kind": "emotional_index",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0004/index.json",
+          "record_id": "emo-0004"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0005/index.json",
+        "record_id": "emo-0005"
+      },
+      "kind": "emotional_index",
+      "title": "紫霞—孙悟空感情阶段：承认喜欢与拒收袍甲",
+      "summary": "紫霞—孙悟空感情阶段：承认喜欢与拒收袍甲（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0005/index.json",
+          "record_id": "emo-0005"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0006/index.json",
+        "record_id": "emo-0006"
+      },
+      "kind": "emotional_index",
+      "title": "孙悟空—阿瑶：第1—10章感情阶段分析",
+      "summary": "孙悟空—阿瑶：第1—10章感情阶段分析（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0006/index.json",
+          "record_id": "emo-0006"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0007/index.json",
+        "record_id": "emo-0007"
+      },
+      "kind": "emotional_index",
+      "title": "钵盂与珍珠：单向靠近的边界",
+      "summary": "钵盂与珍珠：单向靠近的边界（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0007/index.json",
+          "record_id": "emo-0007"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0008/index.json",
+        "record_id": "emo-0008"
+      },
+      "kind": "emotional_index",
+      "title": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒",
+      "summary": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0008/index.json",
+          "record_id": "emo-0008"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0009/index.json",
+        "record_id": "emo-0009"
+      },
+      "kind": "emotional_index",
+      "title": "天蓬—阿月感情阶段：星汉为一人而造",
+      "summary": "天蓬—阿月感情阶段：星汉为一人而造（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0009/index.json",
+          "record_id": "emo-0009"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0010/index.json",
+        "record_id": "emo-0010"
+      },
+      "kind": "emotional_index",
+      "title": "感情阶段：辨认先于共处",
+      "summary": "感情阶段：辨认先于共处（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0010/index.json",
+          "record_id": "emo-0010"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0011/index.json",
+        "record_id": "emo-0011"
+      },
+      "kind": "emotional_index",
+      "title": "感情阶段：被丹药中断的守候",
+      "summary": "感情阶段：被丹药中断的守候（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0011/index.json",
+          "record_id": "emo-0011"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0012/index.json",
+        "record_id": "emo-0012"
+      },
+      "kind": "emotional_index",
+      "title": "感情阶段：一次保护与一次决裂",
+      "summary": "感情阶段：一次保护与一次决裂（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0012/index.json",
+          "record_id": "emo-0012"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0013/index.json",
+        "record_id": "emo-0013"
+      },
+      "kind": "emotional_index",
+      "title": "松鼠与石猴·感情阶段分析（第 51–55 章）",
+      "summary": "松鼠与石猴·感情阶段分析（第 51–55 章）（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0013/index.json",
+          "record_id": "emo-0013"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0014/index.json",
+        "record_id": "emo-0014"
+      },
+      "kind": "emotional_index",
+      "title": "第57—60章：等待、击碎与未答的邀约",
+      "summary": "第57—60章：等待、击碎与未答的邀约（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0014/index.json",
+          "record_id": "emo-0014"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0015/index.json",
+        "record_id": "emo-0015"
+      },
+      "kind": "emotional_index",
+      "title": "单边记得：一次不被回应的确认",
+      "summary": "单边记得：一次不被回应的确认（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0015/index.json",
+          "record_id": "emo-0015"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "emotions/emo-0016/index.json",
+        "record_id": "emo-0016"
+      },
+      "kind": "emotional_index",
+      "title": "旧识之散：不足以定性的终局",
+      "summary": "旧识之散：不足以定性的终局（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0016/index.json",
+          "record_id": "emo-0016"
+        }
+      ],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 69
+    }
+  ],
+  "id": "idx-emotions",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 17,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 67,
+        "end": 67
+      },
+      {
+        "start": 69,
+        "end": 69
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "感情线"
+}

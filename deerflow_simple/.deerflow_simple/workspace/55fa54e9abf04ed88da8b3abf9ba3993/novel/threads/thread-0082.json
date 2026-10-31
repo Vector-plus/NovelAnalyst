@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0082",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 39,
+  "label": "孙悟空口中的「师父」身份未揭示",
+  "introduced_at": 39,
+  "updates": [
+    {
+      "id": "update-thread-0082-001",
+      "revealed_at": 39,
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "本章孙悟空两次提及自己的师父：承认有听其话的人、承认「答应了别人就要算数」，并说「师父说的话我老忘」，但拒绝说出姓名。师父是谁在本章内无任何直述，作为待查线索登记。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

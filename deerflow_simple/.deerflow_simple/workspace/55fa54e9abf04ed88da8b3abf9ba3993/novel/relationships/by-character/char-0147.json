@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0147",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 60,
+  "title": "白晶晶 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 60,
+        "end": 60
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0069.json",
+        "record_id": "rel-0069"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×白晶晶",
+      "summary": "与孙悟空×白晶晶的关系",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0013",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 55,
+  "label": "松鼠与石猴·感情阶段分析（第 51–55 章）",
+  "introduced_at": 50,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 55
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 55
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0013-005",
+      "revealed_at": 55,
+      "category": "friendship",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "kind": "stage_snapshot",
+          "path": "relationships/pairs/squirrel-shihou/stages",
+          "record_id": "doc-rel-squirrel-shihou-stage-005"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0013/stages/stage-005.md",
+        "record_id": "doc-emo-0013-stage-005"
+      },
+      "kind": "emotional_stage",
+      "title": "松鼠与石猴·感情阶段分析（第 51–55 章）",
+      "summary": "松鼠与石猴·感情阶段分析（第 51–55 章）（第50—55章）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 55
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 55
+    }
+  ]
+}

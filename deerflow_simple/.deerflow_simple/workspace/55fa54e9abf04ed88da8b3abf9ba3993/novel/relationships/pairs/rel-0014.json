@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0014",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 8,
+  "introduced_at": 8,
+  "subjects": [
+    {
+      "path": "characters/char-0003/index.json",
+      "record_id": "char-0003"
+    },
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0014-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "as_of": 8,
+      "revealed_at": 8,
+      "summary": "同为同行者。小白龙以「猪八戒」「死马」式的口吻互相称呼，指出猪八戒流口水与流泪，质疑高老庄与其媳妇的存在；猪八戒动怒制止其谈论「她」。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "同为同行者。小白龙以「猪八戒」「死马」式的口吻互相称呼，指出猪八戒流口水与流泪，质疑高老庄与其媳妇的存在；猪八戒动怒制止其谈论「她」。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0148"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0149"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0150"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0151"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

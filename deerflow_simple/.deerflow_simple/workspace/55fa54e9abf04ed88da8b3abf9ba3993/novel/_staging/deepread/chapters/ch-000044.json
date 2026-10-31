@@ -1,0 +1,758 @@
+{
+  "chapter_order": 44,
+  "chapter_id": "ch-000044",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空自菩提处返回天界，目睹灵霄殿上狂笑的“自己”",
+      "introduced_at": 44,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 44,
+            "end": 44
+          }
+        ],
+        "revealed_at": 44,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空身体化开又重新凝聚，回到天界。他看见天宫上狂笑的自己，也看见紫霞抬头仰望天宫。他想起紫霞说过的“你只是一只猴子”。灵霄宝殿高端的妖猴持续叫嚣，自称杀死唐僧、打死龙王、撕去生死簿、捣毁天地伦常，并宣称求饶者不赦、自己不可战胜。孙悟空认为“他疯了，他必须死”，心想“我要天下再无我战不胜之物”，随后忽然觉得很累，并意识到自己虽有力却无力。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "菩提"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空纵身挥棒，猛击灵霄宝殿上叫骂的猴子",
+      "introduced_at": 44,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 44,
+            "end": 44
+          }
+        ],
+        "revealed_at": 44,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空到了灵霄宝殿上，深吸一口气纵身而起，高举金箍棒穿过重重烟幕，看见火焰中赤裸、执金箍棒、站在灵霄宝殿最高处向天下叫骂的猴子，双手猛击下去，看见一个惊愕的眼神。火中不见了人影，只剩他自己和那个疯狂的笑声。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空的身体化开又重新凝聚，他回到了天界。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "他又回到了天界"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空从菩提那儿回来，心中异常平静，认为要去做的事无法逃避。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "要去做的事，无法逃避"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空看见了自己，即天宫上那个狂笑的自己。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "那个天宫上狂笑的自己"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空看见紫霞正抬头仰望天宫，凝望那个身影。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "紫霞，她正抬头仰望着天宫"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "紫霞曾对孙悟空说“你只是一只猴子”（本章由孙悟空回忆引出）。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "你只是一只猴子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "灵霄宝殿高端的妖猴叫嚣自称：“是我杀死了唐僧，是我打死的龙王，是我撕去了生死簿，是我捣毁了天地伦常。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "是我杀死了唐僧，是我打死的龙王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "妖猴叫喊：“求饶吧，而我将不赦免你们！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "而我将不赦免你们"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空望着灵霄殿上那个狂笑的猴子，心中判断“他疯了，他必须死”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "他疯了，他必须死"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空生出“我要天下再无我战不胜之物”的念头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "我要天下再无我战不胜之物"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空忽然觉得很累了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "他忽然觉得很累了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "妖猴狂喊：“你们杀不死我！打不败我！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "你们杀不死我！打不败我！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空认为自己具备令人恐惧的力量，却更感到无力；他认为自己除了毁灭什么也做不了了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "他除了毁灭什么也做不了了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空每向前走一步就觉得自己变老一些，但他尽量把头昂起、把步子迈得更稳一点儿。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "孙悟空每向前走一步，就觉得自己变老一些"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "妖猴叫喊：“我是不可战胜的！不可战胜，谁也不能打败我，谁也不能！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "我是不可战胜的！不可战胜"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空到了灵霄宝殿上，深吸一口气纵身而起，高举金箍棒向上飞，穿过重重烟幕。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "孙悟空深吸了一口气，纵身而起"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空在火焰中看见一只赤裸的猴子，执一根金箍棒，站在灵霄宝殿最高处向天下叫骂。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "站在灵霄宝殿最高处"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空双手猛击下去，随即看见一个惊愕的眼神。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "他双手猛击了下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "火中不见了人影，只剩孙悟空自己和那个疯狂的笑声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 44,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000044.txt",
+          "chapter_id": "ch-000044",
+          "chapter_order": 44,
+          "locator": null,
+          "anchor": "火中不见了人影"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "菩提",
+      "introduced_at": 44,
+      "alias_texts": [
+        "菩提"
+      ],
+      "identity_notes": "原文仅出现“他从菩提那儿回来”一句，未说明其为人物还是处所，也未给任何身分说明；resolve_name 无命中。不做推测。",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "灵霄殿上狂笑的猴子（第44章）",
+      "introduced_at": 44,
+      "alias_texts": [
+        "妖猴",
+        "那个狂笑的猴子",
+        "那个身影"
+      ],
+      "identity_notes": "在灵霄宝殿／灵霄殿顶端狂笑叫骂的猴子，执一根金箍棒，赤裸身处火焰中。第43章起即在天界叫嚣。本章叙述既写“孙悟空看见了自己”，又以第三人称分别描写二者言行；本章未明示其与孙悟空的同一性/差异。不合并到任何已知实体。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-14",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "灵霄宝殿（灵霄殿）",
+      "category": "location",
+      "introduced_at": 44,
+      "notes": "天界殿宇，妖猴立于其顶端/最高处叫骂；孙悟空先到灵霄宝殿上，再纵身而上。第42–43章已出现同一场所。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "relation_hypothesis": "疑似同一存在／同一人的另一面",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "notes": "叙述有“孙悟空看见了自己，那个天宫上狂笑的自己”与“他必须死”两处并存表述，但本章同时把二者作为可互相攻击的两个个体来描写，未明示关系；按规则不作合并。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空判断对方“他疯了，他必须死”，随后纵身挥棒、双手猛击对方；对方此前持续叫嚣“谁也不能打败我”。本章结束时见到对方惊愕的眼神，战果未写明。",
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17"
+      ],
+      "notes": "二者是否为同一实体未定，见 identity_link_candidates。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "reported",
+      "summary": "互动事实：本章孙悟空看见紫霞抬头仰望天宫、凝望那个身影；并回忆起紫霞曾对他说“你只是一只猴子”。除此之外本章未写二人的接触或对话。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5"
+      ],
+      "notes": "仅记录互动事实，不作感情定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "conflict",
+      "status": "active",
+      "role": "advance",
+      "summary": "孙悟空返回天界后与灵霄宝殿上狂笑的猴子正面交锋：他纵身挥棒猛击，对方露出惊愕的眼神，火中人影消失；胜负与后续未在本章显示。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "可作为 stage-004 天庭战局线索的推进点。"
+    },
+    {
+      "category": "character_state",
+      "status": "active",
+      "role": "advance",
+      "summary": "孙悟空的自我认知出现分裂式叙述：他既看见“狂笑的自己”并认定其必须死，又感到拥有可怕力量却无力、只能毁灭，且每走一步自觉变老。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-8",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "仅陈述原文所述的内心内容，未作解读。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第44章：孙悟空重归天界，挥棒击向灵霄殿上的狂笑之猴",
+    "front_matter": {
+      "as_of": 44,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "candidate_name": "灵霄殿上狂笑的猴子（第44章）"
+        },
+        {
+          "candidate_name": "菩提"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空的身体化开又重新凝聚，他回到了天界（[[claim-local-1]]）。他看见了自己——天宫上那个狂笑的自己（[[claim-local-3]]）。他从菩提那儿回来，心中却异常平静，认定要去做的事无法逃避（[[claim-local-2]]）。\n\n## 关键行动\n\n- 孙悟空看见紫霞正抬头仰望天宫，凝望那个身影；他想起紫霞对他说过的“你只是一只猴子”（[[claim-local-4]]、[[claim-local-5]]）。\n- 灵霄宝殿高端的妖猴持续叫嚣：自称杀死唐僧、打死龙王、撕去生死簿、捣毁天地伦常，喊“求饶吧，而我将不赦免你们”，并狂呼“你们杀不死我！打不败我！”“我是不可战胜的……谁也不能打败我”（[[claim-local-6]]、[[claim-local-7]]、[[claim-local-11]]、[[claim-local-14]]）。\n- 孙悟空望着灵霄殿上那个狂笑的猴子，判断“他疯了，他必须死”，并生出“我要天下再无我战不胜之物”的念头（[[claim-local-8]]、[[claim-local-9]]）。\n- 他忽然觉得很累（[[claim-local-10]]）；自认具备令人恐惧的力量却更感无力，除了毁灭什么也做不了（[[claim-local-12]]）；每向前走一步就觉得自己变老一些，但仍尽量昂头、把步子迈稳（[[claim-local-13]]）。\n- 到了灵霄宝殿上，他深吸一口气纵身而起，高举金箍棒穿过重重烟幕（[[claim-local-15]]），看见火焰中赤裸、执金箍棒、站在灵霄宝殿最高处向天下叫骂的猴子（[[claim-local-16]]）。\n\n## 转折与新信息\n\n- 本章出现“看见了自己”的表述：孙悟空与灵霄殿上狂笑的猴子被叙述为“自己”，却又被作为两个可互相攻击的对象分别描写；二者关系本章未明示（见 identity 候选）。\n- 妖猴自述的“杀死唐僧、打死龙王、撕去生死簿、捣毁天地伦常”全部出自其本人口中，属角色陈述，本章无其他来源印证。\n- 孙悟空的心态由“无法逃避”转为“必须死”的判断，并同时出现极度疲累与无力的自述。\n\n## 本章结果\n\n孙悟空双手猛击下去，随即看见一个惊愕的眼神（[[claim-local-17]]）。火中不见了人影，只剩他自己和那个疯狂的笑声（[[claim-local-18]]）。本章未写明这一击的胜负，战斗结果悬置。\n\n## 未决问题与补读入口\n\n1. 灵霄殿上狂笑的猴子与孙悟空是同一个人/同一存在的两面，还是两个独立个体？本章无明示。\n2. 孙悟空这一击是否击中、对方“惊愕的眼神”之后如何，本章未写，需后文回查。\n3. “他从菩提那儿回来”——本章未交代此前在菩提处的经过与其身分。\n4. 本章第 9 段出现文本损坏（“方寸屌纷了>方寸…”），已登记为 source_locator 待回查。"
+  },
+  "stage_buffer_appends": [
+    {
+      "record_ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "chapter_order": 44,
+      "reason": "孙悟空重返天界并直面“狂笑的自己”，stage-004 天庭线的核心节点"
+    },
+    {
+      "record_ref_or_local_id": "ev-local-2",
+      "kind": "event",
+      "chapter_order": 44,
+      "reason": "孙悟空对灵霄殿上狂笑之猴的首次出手，结果为悬置"
+    },
+    {
+      "record_ref_or_local_id": "claim-local-3",
+      "kind": "claim",
+      "chapter_order": 44,
+      "reason": "“看见了自己”的关键表述，供后续身份判定使用"
+    },
+    {
+      "record_ref_or_local_id": "claim-local-6",
+      "kind": "claim",
+      "chapter_order": 44,
+      "reason": "妖猴自述的罪行清单（唐僧、龙王、生死簿、天地伦常），属角色自述"
+    },
+    {
+      "record_ref_or_local_id": "claim-local-12",
+      "kind": "claim",
+      "chapter_order": 44,
+      "reason": "孙悟空对自身无力与只能毁灭的自述，人物状态关键证据"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "本章第 9 段原文为“方寸屌纷了>方寸�那个孱弱而充满希望的小猴子，真的是他？”，含明显乱码/混入字符（疑与“方寸”相关），语义无法确定。",
+      "related_local_ids": [],
+      "suggestion": "回查 source-v1 原始文件该段是否损坏，必要时重新对齐行序。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "叙述写“孙悟空看见了自己，那个天宫上狂笑的自己”，但同一章内又以第三人称分别描写孙悟空与狂笑猴子的动作（一方叫骂、一方挥棒猛击），本章未明示二者关系。",
+      "anchor": "那个天宫上狂笑的自己",
+      "related_local_ids": [
+        "claim-local-3",
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "suggestion": "待后续章出现明确揭示后再定身份链接。"
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "“他从菩提那儿回来”一句未说明“菩提”是人物还是处所，也无任何身分说明；resolve_name 无命中。",
+      "anchor": "他从菩提那儿回来",
+      "related_local_ids": [
+        "claim-local-2"
+      ],
+      "suggestion": "待后文补足，暂以候选登记。"
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "妖猴自称杀死唐僧、打死龙王、撕去生死簿、捣毁天地伦常，本章仅为其自述，未提供可核验的叙述层证据。",
+      "anchor": "是我杀死了唐僧，是我打死的龙王",
+      "related_local_ids": [
+        "claim-local-6"
+      ],
+      "suggestion": "在案件/事件层需回查相应章节确认，勿按事实入档。"
+    }
+  ],
+  "warnings": [
+    "本章原文存在明显文本损坏（第9段“方寸屌纷了>方寸…”），相关语句未产出 claim，仅登记 issue。",
+    "本章大量内容为孙悟空内心叙述，未明说出口，除明确引号内他人话语外按叙述事实（explicit）记录；对狂笑猴子的所有自我宣称均记为 reported。",
+    "灵霄殿上狂笑的猴子未与已知实体合并，按候选实体处理；孙悟空与紫霞的关系仅记录互动事实，未作感情定性。"
+  ]
+}

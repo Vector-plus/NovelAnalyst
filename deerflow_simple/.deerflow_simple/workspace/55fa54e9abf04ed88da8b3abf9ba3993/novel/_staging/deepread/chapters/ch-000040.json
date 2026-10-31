@@ -1,0 +1,984 @@
+{
+  "chapter_order": 40,
+  "chapter_id": "ch-000040",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空撞出雪雾，落进一座未知秀丽高山",
+      "introduced_at": 40,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 40,
+            "end": 40
+          }
+        ],
+        "revealed_at": 40,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空正与假悟空苦战、将要全力一击时，一头从雪雾中撞出，眼前景物全变：天宫、诸神、紫衣仙女与假悟空都不见了，只剩一座秀丽高山与山中传来的歌声。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空在山林中脱靴赤身纵跳，将金箍棒遗落在地",
+      "introduced_at": 40,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 40,
+            "end": 40
+          }
+        ],
+        "revealed_at": 40,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空被山中气氛所动，发足狂奔入山，把金箍棒忘在地上；随后脱掉靴子赤足行走、翻跟头、扯去衣裳赤身在林中叫跳，直到力尽躺地。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "孙悟空与一只会说话的松鼠在山中长谈",
+      "introduced_at": 40,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 40,
+            "end": 40
+          }
+        ],
+        "revealed_at": 40,
+        "status": "completed",
+        "story_time": null,
+        "summary": "一只松鼠从孙悟空上方探头搭话，双方就金箍棒、杀戮、不死、功德、造物与须菩提长谈；孙悟空先因金箍棒不见而恼，其后被松鼠说动，要求她带路。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "松鼠"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-14",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空化作一道光射入斜月三星洞（灵台方寸山入口）",
+      "introduced_at": 40,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 40,
+            "end": 40
+          }
+        ],
+        "revealed_at": 40,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "松鼠指认黑黝黝的树洞名为斜月三星洞、进去就是灵台方寸山；孙悟空将身一摇化作一道光射入洞中消失在黑暗里，松鼠在洞口大喊等他回来。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "松鼠"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-3"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空正与假悟空苦战、将要使出全力一击时，一头从雪雾里撞了出来，眼前的一切全变了，面前出现一座秀丽高山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "眼前，却是一座秀丽高山。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空环视四周，天宫、诸神、紫衣服的仙女与假悟空都不在场。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "天宫呢，诸神呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "山中随风送来隐隐歌声，孙悟空虽不懂歌词，却觉得那风从他身体内吹过去，刮走多年艰辛的闷气，先前想与人拼死相斗的念头也随之淡去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "却觉得那风也从他身体内吹过去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空心中自念「孙悟空，谁是孙悟空，孙悟空是谁，倒有什么要紧，我便是我罢了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "我便是我罢了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空兴起之下发足狂奔、手舞足蹈向山中奔去，把金箍棒忘在地上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "却把金箍棒也忘在地下。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空在山林中脱掉自己的靴子，赤足踩在湿漉漉的土地上行走，随后翻跟头、背朝下摔躺在地上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "甩掉了他的靴子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空扯去身上衣裳，赤身裸体在丛林里纵情叫跳，直到累了躺在地下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "扯去了身上的衣裳"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "一双大眼睛从孙悟空上方伸来对他眨动，被他一瞪吓得跳开的是一只松鼠。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "却是一只松鼠。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "松鼠自称「我才一岁」，说特别想和人讨论事情。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "我才一岁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空在身上摸金箍棒，发现不见了，心中大惊并恼恨起来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "却发现不见了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空对松鼠说金箍棒「没什么用，就是可以用来杀人」，并称想杀松鼠就能杀。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "就是可以用来杀人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空对松鼠说自己曾被关在一片黑暗的五岳山里五百年，期间没有一个人来和自己说话。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "五岳山关了五百年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "松鼠对孙悟空说如果他五百年没人说话太可怜，自己若知道一定会去陪他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "我一定会去陪你的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空对松鼠说自己「可是要成就正果，让天地颤抖的猴子」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "让天地颤抖的猴子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空告诉松鼠，要成仙成佛全得靠功德分，放生有分、杀妖精也有分；又说妖精不是神造的，而是自然化生的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "要成仙成佛全得靠这个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空说天地是盘古开的，并自述自己是从石头里蹦出来的，随即被松鼠「神都是妖精造的吗」的追问逗得大笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "天地是盘古开的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "松鼠说听说万物都是有魂的，一种样子过得累了就死去、变成另一种样子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "变成另一种样子是吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "松鼠说须菩提「有时真的是」树上的果子，他可能变成任何一样东西和你说话，或者说他就是任何一样东西。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "变成任何一样东西和你说话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "松鼠说不同的人去见菩提的路不一样。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "去见菩提的路也是不一样的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "松鼠说自己有时想找须菩提，就从自家树洞一直向下钻。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "就从我家树洞一直向下钻"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "松鼠指着黑黝黝的树洞说「这叫斜月三星洞，这里进去，就是灵台方寸山」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "这叫斜月三星洞"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空嫌树洞的名字「斜月三星」，将身一摇化作一道光直射进去，消失在黑暗中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "化作一道光，直射了进去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "松鼠在洞口冲他大喊，让他记得等会儿回到这儿来和自己说话，自己就在这儿等。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "松鼠"
+      },
+      "revealed_at": 40,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000040.txt",
+          "chapter_id": "ch-000040",
+          "chapter_order": 40,
+          "locator": null,
+          "anchor": "记得等会儿回到这儿来和我说话啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "松鼠",
+      "introduced_at": 40,
+      "alias_texts": [
+        "那大眼睛",
+        "一只松鼠"
+      ],
+      "identity_notes": "山中一只会说话的小松鼠，自称一岁，自称能通过自家树洞去找须菩提，并说须菩提有时变成树上的果子与她说话。本章末在斜月三星洞洞口等孙悟空回来。原文以「她」称之。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-13",
+        "claim-local-18",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "须菩提",
+      "introduced_at": 40,
+      "alias_texts": [
+        "菩提"
+      ],
+      "identity_notes": "仅由松鼠在对话中提及，本章未出场。松鼠称他可能变成任何一样东西和人说话、不同的人见他走的路不同，并提到斜月三星洞进去就是灵台方寸山。孙悟空因而要求松鼠带路。",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-21"
+      ]
+    },
+    {
+      "label": "假悟空",
+      "introduced_at": 40,
+      "alias_texts": [
+        "假悟空"
+      ],
+      "identity_notes": "第39章与孙悟空交战的「假悟空」，本章仅出现在孙悟空的回想中（四顾时想起他不见了），本章未出场、未具真名。resolve_name 无命中，作为临时候选登记，未与任何已知实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "盘古",
+      "introduced_at": 40,
+      "alias_texts": [],
+      "identity_notes": "仅由孙悟空在对话中说「天地是盘古开的」，本章无任何出场或叙述层确认。",
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "灵台方寸山",
+      "category": "place",
+      "introduced_at": 40,
+      "notes": "松鼠称斜月三星洞进去就是灵台方寸山；本章仅有松鼠一句话指明，属角色陈述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-21"
+      ]
+    },
+    {
+      "label": "斜月三星洞",
+      "category": "place",
+      "introduced_at": 40,
+      "notes": "黑黝黝的树洞，松鼠称此为斜月三星洞；孙悟空化光射入后消失在黑暗中，洞内情形本章未写。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    {
+      "label": "五岳山",
+      "category": "place",
+      "introduced_at": 40,
+      "notes": "孙悟空自称曾在一片黑暗的五岳山被关五百年、无人与他说话。原文如此，本章未与任何其他山名作等同。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "紫衣服的仙女"
+      },
+      "candidate_b": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "status": "uncertain",
+      "reason": "本章孙悟空四顾时只说「紫衣服的仙女」，未具名，也未说明是否即紫霞；仅凭服饰与上下文无法确认，故不合并，仅登记候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "假悟空"
+      },
+      "candidate_b": {
+        "candidate_name": "未知（与孙悟空相貌相同者）"
+      },
+      "status": "uncertain",
+      "reason": "第39章出现与孙悟空相斗的「假悟空」，本章仅被回想；本章未给出真名或来历，resolve_name 对「假悟空」「六耳猕猴」均无命中，暂作身份悬案登记。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "松鼠"
+      },
+      "facet": {
+        "type": "other",
+        "labels": [
+          "初次相逢",
+          "山中长谈"
+        ]
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空的衣裳与金箍棒遗落期间，松鼠主动探头搭话并连续追问；松鼠自述若早知道他孤身五百年一定会去陪他，并在孙悟空进入树洞后于洞口喊着等他回来，孙悟空未回应此话。",
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-13",
+        "claim-local-23"
+      ],
+      "notes": "仅记录互动与言语事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "松鼠"
+      },
+      "subject_b": {
+        "candidate_name": "须菩提"
+      },
+      "facet": {
+        "type": "other",
+        "labels": [
+          "自述相识"
+        ]
+      },
+      "certainty": "reported",
+      "summary": "松鼠自称须菩提有时变成树上的果子与她说话，她想找他时就从自家树洞向下钻，并说不同的人见菩提的路不一样。本章须菩提未出场。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ],
+      "notes": "关系内容全部来自松鼠单方陈述。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "seek_xubodhi",
+      "title": "孙悟空寻访须菩提（灵台方寸山一线）",
+      "category": "quest",
+      "status": "open",
+      "role": "setup",
+      "summary": "松鼠提到须菩提可化任何物与人说话、见他的路因人而异，并指出斜月三星洞通向灵台方寸山；孙悟空随即化光入洞。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    {
+      "thread_key": "jingubang_lost",
+      "title": "金箍棒被遗落在山中",
+      "category": "other",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空奔入山中时把金箍棒忘在地上，与松鼠对话时摸身发现不见并因此恼恨；本章未交代其去向或寻回。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-10",
+        "claim-local-11"
+      ]
+    },
+    {
+      "thread_key": "fake_wukong_identity",
+      "title": "假悟空的身份与来历未明",
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空在天宫与假悟空相斗后脱离，本章只以回想方式提到假悟空已不在眼前，其身份本章无任何新信息。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第40章：山中遇松鼠，得指斜月三星洞",
+    "front_matter": {
+      "as_of": 40,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "松鼠"
+        },
+        {
+          "candidate_name": "须菩提"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空正与假悟空苦战、将要使出全力一击，一头从雪雾里撞出，眼前景物全变：天宫、诸神、紫衣服的仙女、假悟空皆不在（[[claim-local-1]]、[[claim-local-2]]）。他落在以诗赋铺写的一座秀丽高山，山中随风送来隐隐歌声（[[ev-local-1]]）。\n\n## 关键行动\n\n- 山中歌声使孙悟空觉得那风从身体内吹过、刮走多年艰辛的闷气，他自念「我便是我罢了」（[[claim-local-3]]、[[claim-local-4]]）。\n- 他发足狂奔入山，**把金箍棒忘在地上**，随后脱靴赤足行走、翻跟头躺地，再扯去衣裳赤身在林中叫跳（[[claim-local-5]]、[[claim-local-6]]、[[claim-local-7]]、[[ev-local-2]]）。\n- 力尽躺地时一只松鼠从上方探头搭话；孙悟空摸身发现金箍棒不见，心中大惊并恼恨（[[claim-local-8]]、[[claim-local-10]]、[[ev-local-3]]）。\n- 对话中他要求松鼠带路，松鼠指出黑黝黝的树洞，孙悟空将身一摇化作一道光射入，消失在黑暗里（[[claim-local-22]]、[[ev-local-4]]）。\n\n## 转折与新信息\n\n- 松鼠自称一岁（[[claim-local-9]]）。\n- 孙悟空自述：金箍棒「就是可以用来杀人」；自己曾在一片黑暗的五岳山被关五百年、无人与他说话；自己要「成就正果，让天地颤抖」；成仙成佛全得靠功德分，放生与杀妖精都有分；天地是盘古开的（[[claim-local-11]]、[[claim-local-12]]、[[claim-local-14]]、[[claim-local-15]]、[[claim-local-16]]）。\n- 松鼠自称若早知道他孤身五百年「一定会去陪你的」（[[claim-local-13]]）。\n- 松鼠陈述：万物有魂、一种样子过累则死而变成另一种样子；**须菩提**可能是任何一样东西，「他可能变成任何一样东西和你说话」；不同的人见菩提的路不一样（[[claim-local-17]]、[[claim-local-18]]、[[claim-local-19]]）。\n- 松鼠自称想找须菩提时就从自家树洞向下钻（[[claim-local-20]]）。\n- 关键指认：树洞「这叫斜月三星洞，这里进去，就是灵台方寸山」（[[claim-local-21]]）。\n\n## 本章结果\n\n孙悟空进入斜月三星洞，消失在黑暗中；松鼠在洞口大喊，让他记得回来和自己说话、自己就在这儿等（[[claim-local-23]]）。金箍棒仍遗落在山中，去向本章未交代。\n\n## 未决问题与补读入口\n\n1. 金箍棒遗落的后果与是否寻回（线索见 [[claim-local-5]]、[[claim-local-10]]）。\n2. 须菩提与灵台方寸山、斜月三星洞的实际情形——本章全部为松鼠转述（见 [[claim-local-18]]、[[claim-local-21]]）。\n3. 「紫衣服的仙女」是否即已建档的紫霞，章内未明示，已登记身份候选。\n4. 「五岳山」为孙悟空自述用词，未见与他处山名等同的原文依据（见 [[claim-local-12]]）。\n5. 章末孙悟空入洞后的状况，需接续第41章补读。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "孙悟空脱离天宫战局、落入未知秀丽高山（第40章起点，跨章衔接点）"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-4",
+      "note": "孙悟空化光进入斜月三星洞/灵台方寸山，进入下一章接续点"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-5",
+      "note": "金箍棒被遗落山中，未寻回"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-21",
+      "note": "斜月三星洞—灵台方寸山指认（角色陈述，reported）"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-18",
+      "note": "须菩提可化任何物与人说话（角色陈述）"
+    },
+    {
+      "kind": "character",
+      "candidate_name": "松鼠",
+      "note": "首次出场、会说话的小松鼠，自称一岁，章末在洞口等候"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "原文存在串码/乱码：歌词段出现「个width=\"收来成一担」；孙悟空台词出现「俺早就不稀秋觉得����稀秽�了」；盘古段出现「p h造的�盘古是一个蛋里蹦出来的」。相关陈述（闷气/五百年/盘古）的锚点已改选未受污染的唯一片段，但该段落语义完整性受损。",
+      "chapter_order": 40
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "「紫衣服的仙女」未具名，是否与 char-0023（紫霞）同一人，章内无明确依据，录入 identity_link_candidates 待定。",
+      "chapter_order": 40
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "「假悟空」在第39章为交战对象、本章仅被回想，resolve_name 对「假悟空」「六耳猕猴」均无命中，身份未明。",
+      "chapter_order": 40
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "金箍棒遗落后去向、是否与须菩提（可化任何物）相关，原文无任何依据，不得推断。",
+      "chapter_order": 40
+    }
+  ],
+  "warnings": [
+    "「假悟空」「六耳猕猴」resolve_name 均返回 no_match，第39章是否已有对应实体本次无法核实，故以临时候选登记，未与任何已知实体合并。",
+    "第40章标题原文为空（仅一个「．」），摘要标题由提取者依据本章内容拟定。",
+    "原文三处乱码影响个别段落完整语义，相关 claim 锚点已选取干净片段；如需逐字引用请回原文核对。",
+    "本章未输出任何感情定性，仅记录互动与言语事实。"
+  ]
+}

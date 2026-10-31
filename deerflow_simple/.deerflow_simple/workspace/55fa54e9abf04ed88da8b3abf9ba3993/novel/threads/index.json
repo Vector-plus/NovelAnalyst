@@ -1,0 +1,3085 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "threads/thread-0001.json",
+        "record_id": "thread-0001"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空赎罪三件事（保唐僧西天、杀四魔王、未知的第三件）",
+      "summary": "孙悟空赎罪三件事（保唐僧西天、杀四魔王、未知的第三件）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0001.json",
+          "record_id": "thread-0001"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0002.json",
+        "record_id": "thread-0002"
+      },
+      "kind": "story_thread",
+      "title": "林中重伤女子的身份与孙悟空失去的「从前」",
+      "summary": "林中重伤女子的身份与孙悟空失去的「从前」（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0002.json",
+          "record_id": "thread-0002"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0003.json",
+        "record_id": "thread-0003"
+      },
+      "kind": "story_thread",
+      "title": "唐僧遇害与冒充孙悟空行凶者",
+      "summary": "唐僧遇害与冒充孙悟空行凶者（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0003.json",
+          "record_id": "thread-0003"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0004.json",
+        "record_id": "thread-0004"
+      },
+      "kind": "story_thread",
+      "title": "西天之门、诅咒与金箍",
+      "summary": "西天之门、诅咒与金箍（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0004.json",
+          "record_id": "thread-0004"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0005.json",
+        "record_id": "thread-0005"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空自述可能忘记了一些事",
+      "summary": "孙悟空自述可能忘记了一些事（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0005.json",
+          "record_id": "thread-0005"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0006.json",
+        "record_id": "thread-0006"
+      },
+      "kind": "story_thread",
+      "title": "取经队伍的散与重组：唐僧身死、悟空赴地府、小白龙请假",
+      "summary": "取经队伍的散与重组：唐僧身死、悟空赴地府、小白龙请假（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0006.json",
+          "record_id": "thread-0006"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0007.json",
+        "record_id": "thread-0007"
+      },
+      "kind": "story_thread",
+      "title": "猪八戒与阿瑶的前世记忆",
+      "summary": "猪八戒与阿瑶的前世记忆（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0007.json",
+          "record_id": "thread-0007"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0008.json",
+        "record_id": "thread-0008"
+      },
+      "kind": "story_thread",
+      "title": "紫色丛林中袭击唐僧的妖物身份",
+      "summary": "紫色丛林中袭击唐僧的妖物身份（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0008.json",
+          "record_id": "thread-0008"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "threads/thread-0009.json",
+        "record_id": "thread-0009"
+      },
+      "kind": "story_thread",
+      "title": "唐僧在林中被困与获救",
+      "summary": "唐僧在林中被困与获救（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0009.json",
+          "record_id": "thread-0009"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0010.json",
+        "record_id": "thread-0010"
+      },
+      "kind": "story_thread",
+      "title": "绿衣女孩的身份与对唐僧的态度反转",
+      "summary": "绿衣女孩的身份与对唐僧的态度反转（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0010.json",
+          "record_id": "thread-0010"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0011.json",
+        "record_id": "thread-0011"
+      },
+      "kind": "story_thread",
+      "title": "唐僧“修大乘”的自述与金蝉子旧事",
+      "summary": "唐僧“修大乘”的自述与金蝉子旧事（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0011.json",
+          "record_id": "thread-0011"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0012.json",
+        "record_id": "thread-0012"
+      },
+      "kind": "story_thread",
+      "title": "取经队伍内部对救师不上心",
+      "summary": "取经队伍内部对救师不上心（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0012.json",
+          "record_id": "thread-0012"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0013.json",
+        "record_id": "thread-0013"
+      },
+      "kind": "story_thread",
+      "title": "取经队伍的离散与补救",
+      "summary": "取经队伍的离散与补救（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0013.json",
+          "record_id": "thread-0013"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0014.json",
+        "record_id": "thread-0014"
+      },
+      "kind": "story_thread",
+      "title": "阿瑶与“以前的名字”之谜",
+      "summary": "阿瑶与“以前的名字”之谜（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0014.json",
+          "record_id": "thread-0014"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0015.json",
+        "record_id": "thread-0015"
+      },
+      "kind": "story_thread",
+      "title": "小白龙的来历：私出龙宫、游向人间",
+      "summary": "小白龙的来历：私出龙宫、游向人间（第13章起）",
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0015.json",
+          "record_id": "thread-0015"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 13
+    },
+    {
+      "target": {
+        "path": "threads/thread-0016.json",
+        "record_id": "thread-0016"
+      },
+      "kind": "story_thread",
+      "title": "玄奘的来历与他\"要学的\"究竟是什么",
+      "summary": "玄奘的来历与他\"要学的\"究竟是什么（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0016.json",
+          "record_id": "thread-0016"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "threads/thread-0017.json",
+        "record_id": "thread-0017"
+      },
+      "kind": "story_thread",
+      "title": "小白龙是否被玄奘识破化身",
+      "summary": "小白龙是否被玄奘识破化身（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0017.json",
+          "record_id": "thread-0017"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "threads/thread-0018.json",
+        "record_id": "thread-0018"
+      },
+      "kind": "story_thread",
+      "title": "唐僧之死的真凶与真相",
+      "summary": "唐僧之死的真凶与真相（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0018.json",
+          "record_id": "thread-0018"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "threads/thread-0019.json",
+        "record_id": "thread-0019"
+      },
+      "kind": "story_thread",
+      "title": "紧箍咒的施术者与金箍的约束",
+      "summary": "紧箍咒的施术者与金箍的约束（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0019.json",
+          "record_id": "thread-0019"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "threads/thread-0020.json",
+        "record_id": "thread-0020"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空对五百年间经历的记忆缺失",
+      "summary": "孙悟空对五百年间经历的记忆缺失（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0020.json",
+          "record_id": "thread-0020"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "threads/thread-0021.json",
+        "record_id": "thread-0021"
+      },
+      "kind": "story_thread",
+      "title": "天庭对孙悟空的清算与天兵围困",
+      "summary": "天庭对孙悟空的清算与天兵围困（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0021.json",
+          "record_id": "thread-0021"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "threads/thread-0022.json",
+        "record_id": "thread-0022"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空师承之谜与「凡世真师父」",
+      "summary": "孙悟空师承之谜与「凡世真师父」（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0022.json",
+          "record_id": "thread-0022"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "threads/thread-0023.json",
+        "record_id": "thread-0023"
+      },
+      "kind": "story_thread",
+      "title": "蟠桃园失桃与阿瑶的告状威胁",
+      "summary": "蟠桃园失桃与阿瑶的告状威胁（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0023.json",
+          "record_id": "thread-0023"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "threads/thread-0024.json",
+        "record_id": "thread-0024"
+      },
+      "kind": "story_thread",
+      "title": "紫霞「永远微笑」的自述与她的孤独",
+      "summary": "紫霞「永远微笑」的自述与她的孤独（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0024.json",
+          "record_id": "thread-0024"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "threads/thread-0025.json",
+        "record_id": "thread-0025"
+      },
+      "kind": "story_thread",
+      "title": "金蝉子被如来施法走火入魔、灵魂坠入尘世",
+      "summary": "金蝉子被如来施法走火入魔、灵魂坠入尘世（第19章起）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0025.json",
+          "record_id": "thread-0025"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 19
+    },
+    {
+      "target": {
+        "path": "threads/thread-0026.json",
+        "record_id": "thread-0026"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空许诺“你会有机会的”——带紫霞去花果山",
+      "summary": "孙悟空许诺“你会有机会的”——带紫霞去花果山（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0026.json",
+          "record_id": "thread-0026"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "threads/thread-0027.json",
+        "record_id": "thread-0027"
+      },
+      "kind": "story_thread",
+      "title": "紫霞反复做的花园/松鼠之梦与“前世”猜想",
+      "summary": "紫霞反复做的花园/松鼠之梦与“前世”猜想（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0027.json",
+          "record_id": "thread-0027"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "threads/thread-0028.json",
+        "record_id": "thread-0028"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空与天界的决裂",
+      "summary": "孙悟空与天界的决裂（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0028.json",
+          "record_id": "thread-0028"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0029.json",
+        "record_id": "thread-0029"
+      },
+      "kind": "story_thread",
+      "title": "花果山现状与旧部反叛天廷",
+      "summary": "花果山现状与旧部反叛天廷（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0029.json",
+          "record_id": "thread-0029"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0030.json",
+        "record_id": "thread-0030"
+      },
+      "kind": "story_thread",
+      "title": "紫霞所赠袍甲被弃",
+      "summary": "紫霞所赠袍甲被弃（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0030.json",
+          "record_id": "thread-0030"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0031.json",
+        "record_id": "thread-0031"
+      },
+      "kind": "story_thread",
+      "title": "蟠桃会小桃风波与阿瑶被罚",
+      "summary": "蟠桃会小桃风波与阿瑶被罚（第25章起）",
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0031.json",
+          "record_id": "thread-0031"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 25
+    },
+    {
+      "target": {
+        "path": "threads/thread-0032.json",
+        "record_id": "thread-0032"
+      },
+      "kind": "story_thread",
+      "title": "天蓬当众扶阿月离殿、违逆王母",
+      "summary": "天蓬当众扶阿月离殿、违逆王母（第25章起）",
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0032.json",
+          "record_id": "thread-0032"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 25
+    },
+    {
+      "target": {
+        "path": "threads/thread-0033.json",
+        "record_id": "thread-0033"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空与天庭的正面冲突（大闹天宫）",
+      "summary": "孙悟空与天庭的正面冲突（大闹天宫）（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0033.json",
+          "record_id": "thread-0033"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "threads/thread-0034.json",
+        "record_id": "thread-0034"
+      },
+      "kind": "story_thread",
+      "title": "阿瑶在天庭中的处境（蟠桃之事被追责）",
+      "summary": "阿瑶在天庭中的处境（蟠桃之事被追责）（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0034.json",
+          "record_id": "thread-0034"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "threads/thread-0035.json",
+        "record_id": "thread-0035"
+      },
+      "kind": "story_thread",
+      "title": "大闹天宫后的天宫残局",
+      "summary": "大闹天宫后的天宫残局（第28章起）",
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0035.json",
+          "record_id": "thread-0035"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 28
+    },
+    {
+      "target": {
+        "path": "threads/thread-0036.json",
+        "record_id": "thread-0036"
+      },
+      "kind": "story_thread",
+      "title": "琉璃盏碎裂与王母追查",
+      "summary": "琉璃盏碎裂与王母追查（第28章起）",
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0036.json",
+          "record_id": "thread-0036"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 28
+    },
+    {
+      "target": {
+        "path": "threads/thread-0037.json",
+        "record_id": "thread-0037"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空携阿瑶离开天宫",
+      "summary": "孙悟空携阿瑶离开天宫（第28章起）",
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0037.json",
+          "record_id": "thread-0037"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 28
+    },
+    {
+      "target": {
+        "path": "threads/thread-0038.json",
+        "record_id": "thread-0038"
+      },
+      "kind": "story_thread",
+      "title": "取经队伍内部的摩擦与西行目的",
+      "summary": "取经队伍内部的摩擦与西行目的（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0038.json",
+          "record_id": "thread-0038"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "threads/thread-0039.json",
+        "record_id": "thread-0039"
+      },
+      "kind": "story_thread",
+      "title": "唐僧丛林遇险与呼救",
+      "summary": "唐僧丛林遇险与呼救（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0039.json",
+          "record_id": "thread-0039"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "threads/thread-0040.json",
+        "record_id": "thread-0040"
+      },
+      "kind": "story_thread",
+      "title": "唐僧与绿衣女孩的论佛争执及其真实身份",
+      "summary": "唐僧与绿衣女孩的论佛争执及其真实身份（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0040.json",
+          "record_id": "thread-0040"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0041.json",
+        "record_id": "thread-0041"
+      },
+      "kind": "story_thread",
+      "title": "唐僧所修“大乘”尚未成形",
+      "summary": "唐僧所修“大乘”尚未成形（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0041.json",
+          "record_id": "thread-0041"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0042.json",
+        "record_id": "thread-0042"
+      },
+      "kind": "story_thread",
+      "title": "林中女妖的身份与「玉帝的咒」",
+      "summary": "林中女妖的身份与「玉帝的咒」（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0042.json",
+          "record_id": "thread-0042"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "threads/thread-0043.json",
+        "record_id": "thread-0043"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空的三件事与赎罪条件",
+      "summary": "孙悟空的三件事与赎罪条件（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0043.json",
+          "record_id": "thread-0043"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0044.json",
+        "record_id": "thread-0044"
+      },
+      "kind": "story_thread",
+      "title": "林中女子与孙悟空的旧识之谜",
+      "summary": "林中女子与孙悟空的旧识之谜（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0044.json",
+          "record_id": "thread-0044"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0045.json",
+        "record_id": "thread-0045"
+      },
+      "kind": "story_thread",
+      "title": "天蓬与「月」的过往（造月往事）",
+      "summary": "天蓬与「月」的过往（造月往事）（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0045.json",
+          "record_id": "thread-0045"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "threads/thread-0046.json",
+        "record_id": "thread-0046"
+      },
+      "kind": "story_thread",
+      "title": "唐僧独自入林遇险（怪树与暗伏怪物）",
+      "summary": "唐僧独自入林遇险（怪树与暗伏怪物）（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0046.json",
+          "record_id": "thread-0046"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "threads/thread-0047.json",
+        "record_id": "thread-0047"
+      },
+      "kind": "story_thread",
+      "title": "绿衣女孩与唐僧的冲突待收束",
+      "summary": "绿衣女孩与唐僧的冲突待收束（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0047.json",
+          "record_id": "thread-0047"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0048.json",
+        "record_id": "thread-0048"
+      },
+      "kind": "story_thread",
+      "title": "唐僧自称修「大乘」而尚未想好",
+      "summary": "唐僧自称修「大乘」而尚未想好（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0048.json",
+          "record_id": "thread-0048"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0049.json",
+        "record_id": "thread-0049"
+      },
+      "kind": "story_thread",
+      "title": "金蝉子质疑小乘佛法的往事故事",
+      "summary": "金蝉子质疑小乘佛法的往事故事（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0049.json",
+          "record_id": "thread-0049"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "threads/thread-0050.json",
+        "record_id": "thread-0050"
+      },
+      "kind": "story_thread",
+      "title": "玉帝要孙悟空完成的三件事（赎前罪）",
+      "summary": "玉帝要孙悟空完成的三件事（赎前罪）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0050.json",
+          "record_id": "thread-0050"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0051.json",
+        "record_id": "thread-0051"
+      },
+      "kind": "story_thread",
+      "title": "林中女子自称与孙悟空有旧识前缘，身份未明",
+      "summary": "林中女子自称与孙悟空有旧识前缘，身份未明（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0051.json",
+          "record_id": "thread-0051"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0052.json",
+        "record_id": "thread-0052"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空的棒第一次打不下去",
+      "summary": "孙悟空的棒第一次打不下去（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0052.json",
+          "record_id": "thread-0052"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "threads/thread-0053.json",
+        "record_id": "thread-0053"
+      },
+      "kind": "story_thread",
+      "title": "唐僧之死与冒充孙悟空行凶者的身份",
+      "summary": "唐僧之死与冒充孙悟空行凶者的身份（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0053.json",
+          "record_id": "thread-0053"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0054.json",
+        "record_id": "thread-0054"
+      },
+      "kind": "story_thread",
+      "title": "西天之门与取经队伍身上的诅咒/金箍",
+      "summary": "西天之门与取经队伍身上的诅咒/金箍（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0054.json",
+          "record_id": "thread-0054"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0055.json",
+        "record_id": "thread-0055"
+      },
+      "kind": "story_thread",
+      "title": "猪八戒的高老庄媳妇之说",
+      "summary": "猪八戒的高老庄媳妇之说（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0055.json",
+          "record_id": "thread-0055"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "threads/thread-0056.json",
+        "record_id": "thread-0056"
+      },
+      "kind": "story_thread",
+      "title": "唐僧肉身只剩半边与魂魄归处",
+      "summary": "唐僧肉身只剩半边与魂魄归处（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0056.json",
+          "record_id": "thread-0056"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0057.json",
+        "record_id": "thread-0057"
+      },
+      "kind": "story_thread",
+      "title": "猪八戒与“阿瑶”的前世记忆",
+      "summary": "猪八戒与“阿瑶”的前世记忆（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0057.json",
+          "record_id": "thread-0057"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0058.json",
+        "record_id": "thread-0058"
+      },
+      "kind": "story_thread",
+      "title": "取经队伍在林中的离散",
+      "summary": "取经队伍在林中的离散（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0058.json",
+          "record_id": "thread-0058"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "threads/thread-0059.json",
+        "record_id": "thread-0059"
+      },
+      "kind": "story_thread",
+      "title": "“变作孙悟空模样打死唐僧”者的身份",
+      "summary": "“变作孙悟空模样打死唐僧”者的身份（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0059.json",
+          "record_id": "thread-0059"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "threads/thread-0060.json",
+        "record_id": "thread-0060"
+      },
+      "kind": "story_thread",
+      "title": "天庭封锁取经四人：不得相助之令",
+      "summary": "天庭封锁取经四人：不得相助之令（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0060.json",
+          "record_id": "thread-0060"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "threads/thread-0061.json",
+        "record_id": "thread-0061"
+      },
+      "kind": "story_thread",
+      "title": "小白龙出走寻回“他”的魂魄、保存其身",
+      "summary": "小白龙出走寻回“他”的魂魄、保存其身（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0061.json",
+          "record_id": "thread-0061"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "threads/thread-0062.json",
+        "record_id": "thread-0062"
+      },
+      "kind": "story_thread",
+      "title": "玄奘身世之谜（江上飘来·姓名不知·父母不识）",
+      "summary": "玄奘身世之谜（江上飘来·姓名不知·父母不识）（第16章起）",
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0062.json",
+          "record_id": "thread-0062"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 16
+    },
+    {
+      "target": {
+        "path": "threads/thread-0063.json",
+        "record_id": "thread-0063"
+      },
+      "kind": "story_thread",
+      "title": "如来察觉「他又回来了」",
+      "summary": "如来察觉「他又回来了」（第16章起）",
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0063.json",
+          "record_id": "thread-0063"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 16
+    },
+    {
+      "target": {
+        "path": "threads/thread-0064.json",
+        "record_id": "thread-0064"
+      },
+      "kind": "story_thread",
+      "title": "玄奘离寺远行、送小白龙回家",
+      "summary": "玄奘离寺远行、送小白龙回家（第16章起）",
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0064.json",
+          "record_id": "thread-0064"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 16
+    },
+    {
+      "target": {
+        "path": "threads/thread-0065.json",
+        "record_id": "thread-0065"
+      },
+      "kind": "story_thread",
+      "title": "紫霞反复出现的“花园/松鼠”之梦与她自猜的“前世”",
+      "summary": "紫霞反复出现的“花园/松鼠”之梦与她自猜的“前世”（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0065.json",
+          "record_id": "thread-0065"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "threads/thread-0066.json",
+        "record_id": "thread-0066"
+      },
+      "kind": "story_thread",
+      "title": "紫霞请求孙悟空带她回花果山",
+      "summary": "紫霞请求孙悟空带她回花果山（第21章起）",
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0066.json",
+          "record_id": "thread-0066"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 21
+    },
+    {
+      "target": {
+        "path": "threads/thread-0067.json",
+        "record_id": "thread-0067"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空为何选择做神仙：'不让命运握在他人之手'",
+      "summary": "孙悟空为何选择做神仙：'不让命运握在他人之手'（第23章起）",
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0067.json",
+          "record_id": "thread-0067"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 23
+    },
+    {
+      "target": {
+        "path": "threads/thread-0068.json",
+        "record_id": "thread-0068"
+      },
+      "kind": "story_thread",
+      "title": "花果山妖众：长生不死却被困于废墟",
+      "summary": "花果山妖众：长生不死却被困于废墟（第23章起）",
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0068.json",
+          "record_id": "thread-0068"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 23
+    },
+    {
+      "target": {
+        "path": "threads/thread-0069.json",
+        "record_id": "thread-0069"
+      },
+      "kind": "story_thread",
+      "title": "'妖'的定义：神仙管不到的自主自命之物",
+      "summary": "'妖'的定义：神仙管不到的自主自命之物（第23章起）",
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0069.json",
+          "record_id": "thread-0069"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 23
+    },
+    {
+      "target": {
+        "path": "threads/thread-0070.json",
+        "record_id": "thread-0070"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空与天界的对立走向大闹天宫",
+      "summary": "孙悟空与天界的对立走向大闹天宫（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0070.json",
+          "record_id": "thread-0070"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0071.json",
+        "record_id": "thread-0071"
+      },
+      "kind": "story_thread",
+      "title": "花果山被封禁（监狱化）与旧部反抗诉求",
+      "summary": "花果山被封禁（监狱化）与旧部反抗诉求（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0071.json",
+          "record_id": "thread-0071"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0072.json",
+        "record_id": "thread-0072"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空的身份认同：齐天大圣 vs 妖精",
+      "summary": "孙悟空的身份认同：齐天大圣 vs 妖精（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0072.json",
+          "record_id": "thread-0072"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0073.json",
+        "record_id": "thread-0073"
+      },
+      "kind": "story_thread",
+      "title": "紫霞与孙悟空的往来：赠袍被拒",
+      "summary": "紫霞与孙悟空的往来：赠袍被拒（第24章起）",
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0073.json",
+          "record_id": "thread-0073"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 24
+    },
+    {
+      "target": {
+        "path": "threads/thread-0074.json",
+        "record_id": "thread-0074"
+      },
+      "kind": "story_thread",
+      "title": "大闹灵霄殿：孙悟空与天庭正式开战",
+      "summary": "大闹灵霄殿：孙悟空与天庭正式开战（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0074.json",
+          "record_id": "thread-0074"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "threads/thread-0075.json",
+        "record_id": "thread-0075"
+      },
+      "kind": "story_thread",
+      "title": "被天界擒住的「妖猴」究竟是谁",
+      "summary": "被天界擒住的「妖猴」究竟是谁（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0075.json",
+          "record_id": "thread-0075"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "threads/thread-0076.json",
+        "record_id": "thread-0076"
+      },
+      "kind": "story_thread",
+      "title": "紫霞五百年记忆的真伪",
+      "summary": "紫霞五百年记忆的真伪（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0076.json",
+          "record_id": "thread-0076"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "threads/thread-0077.json",
+        "record_id": "thread-0077"
+      },
+      "kind": "story_thread",
+      "title": "天顶被击破后的三界灾殃",
+      "summary": "天顶被击破后的三界灾殃（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0077.json",
+          "record_id": "thread-0077"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "threads/thread-0078.json",
+        "record_id": "thread-0078"
+      },
+      "kind": "story_thread",
+      "title": "五百年前天界大火与炼丹炉之说",
+      "summary": "五百年前天界大火与炼丹炉之说（第35章起）",
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0078.json",
+          "record_id": "thread-0078"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 35
+    },
+    {
+      "target": {
+        "path": "threads/thread-0079.json",
+        "record_id": "thread-0079"
+      },
+      "kind": "story_thread",
+      "title": "杀唐僧的真凶与「外面那个孙悟空」",
+      "summary": "杀唐僧的真凶与「外面那个孙悟空」（第36章起）",
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0079.json",
+          "record_id": "thread-0079"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 36
+    },
+    {
+      "target": {
+        "path": "threads/thread-0080.json",
+        "record_id": "thread-0080"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空索要去掉金箍",
+      "summary": "孙悟空索要去掉金箍（第36章起）",
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0080.json",
+          "record_id": "thread-0080"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 36
+    },
+    {
+      "target": {
+        "path": "threads/thread-0081.json",
+        "record_id": "thread-0081"
+      },
+      "kind": "story_thread",
+      "title": "天降赤红火光与飞雪、妖精嘶号",
+      "summary": "天降赤红火光与飞雪、妖精嘶号（第36章起）",
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0081.json",
+          "record_id": "thread-0081"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 36
+    },
+    {
+      "target": {
+        "path": "threads/thread-0082.json",
+        "record_id": "thread-0082"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空口中的「师父」身份未揭示",
+      "summary": "孙悟空口中的「师父」身份未揭示（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0082.json",
+          "record_id": "thread-0082"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "threads/thread-0083.json",
+        "record_id": "thread-0083"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空所指「丢尽妖精脸的家伙」未具名",
+      "summary": "孙悟空所指「丢尽妖精脸的家伙」未具名（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0083.json",
+          "record_id": "thread-0083"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "threads/thread-0084.json",
+        "record_id": "thread-0084"
+      },
+      "kind": "story_thread",
+      "title": "真假孙悟空之争尚未在叙述层面裁定",
+      "summary": "真假孙悟空之争尚未在叙述层面裁定（第39章起）",
+      "chapter_ranges": [
+        {
+          "start": 39,
+          "end": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0084.json",
+          "record_id": "thread-0084"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 39
+    },
+    {
+      "target": {
+        "path": "threads/thread-0085.json",
+        "record_id": "thread-0085"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空寻访须菩提（灵台方寸山一线）",
+      "summary": "孙悟空寻访须菩提（灵台方寸山一线）（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0085.json",
+          "record_id": "thread-0085"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "threads/thread-0086.json",
+        "record_id": "thread-0086"
+      },
+      "kind": "story_thread",
+      "title": "金箍棒被遗落在山中",
+      "summary": "金箍棒被遗落在山中（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0086.json",
+          "record_id": "thread-0086"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "threads/thread-0087.json",
+        "record_id": "thread-0087"
+      },
+      "kind": "story_thread",
+      "title": "假悟空的身份与来历未明",
+      "summary": "假悟空的身份与来历未明（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0087.json",
+          "record_id": "thread-0087"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "threads/thread-0088.json",
+        "record_id": "thread-0088"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空之名与来历之谜",
+      "summary": "孙悟空之名与来历之谜（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0088.json",
+          "record_id": "thread-0088"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "threads/thread-0089.json",
+        "record_id": "thread-0089"
+      },
+      "kind": "story_thread",
+      "title": "紧箍咒与观音",
+      "summary": "紧箍咒与观音（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0089.json",
+          "record_id": "thread-0089"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "threads/thread-0090.json",
+        "record_id": "thread-0090"
+      },
+      "kind": "story_thread",
+      "title": "金蝉子欲向师尊问难、“我为如来”",
+      "summary": "金蝉子欲向师尊问难、“我为如来”（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0090.json",
+          "record_id": "thread-0090"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "threads/thread-0091.json",
+        "record_id": "thread-0091"
+      },
+      "kind": "story_thread",
+      "title": "须菩提“历史不是这样的”",
+      "summary": "须菩提“历史不是这样的”（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0091.json",
+          "record_id": "thread-0091"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "threads/thread-0092.json",
+        "record_id": "thread-0092"
+      },
+      "kind": "story_thread",
+      "title": "金蝉子之名将被遗忘",
+      "summary": "金蝉子之名将被遗忘（第41章起）",
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0092.json",
+          "record_id": "thread-0092"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 41
+    },
+    {
+      "target": {
+        "path": "threads/thread-0093.json",
+        "record_id": "thread-0093"
+      },
+      "kind": "story_thread",
+      "title": "金蝉子与如来的赌胜",
+      "summary": "金蝉子与如来的赌胜（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0093.json",
+          "record_id": "thread-0093"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "threads/thread-0094.json",
+        "record_id": "thread-0094"
+      },
+      "kind": "story_thread",
+      "title": "三藏经手卷的传世托付",
+      "summary": "三藏经手卷的传世托付（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0094.json",
+          "record_id": "thread-0094"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "threads/thread-0095.json",
+        "record_id": "thread-0095"
+      },
+      "kind": "story_thread",
+      "title": "神佛不再现身世间之约",
+      "summary": "神佛不再现身世间之约（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0095.json",
+          "record_id": "thread-0095"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "threads/thread-0096.json",
+        "record_id": "thread-0096"
+      },
+      "kind": "story_thread",
+      "title": "天庭遭袭、灵霄殿顶端身影",
+      "summary": "天庭遭袭、灵霄殿顶端身影（第42章起）",
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0096.json",
+          "record_id": "thread-0096"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 42
+    },
+    {
+      "target": {
+        "path": "threads/thread-0097.json",
+        "record_id": "thread-0097"
+      },
+      "kind": "story_thread",
+      "title": "沙悟净补全琉璃盏以求重返天界",
+      "summary": "沙悟净补全琉璃盏以求重返天界（第43章起）",
+      "chapter_ranges": [
+        {
+          "start": 43,
+          "end": 43
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0097.json",
+          "record_id": "thread-0097"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 43
+    },
+    {
+      "target": {
+        "path": "threads/thread-0098.json",
+        "record_id": "thread-0098"
+      },
+      "kind": "story_thread",
+      "title": "为唐僧寻回魂儿",
+      "summary": "为唐僧寻回魂儿（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0098.json",
+          "record_id": "thread-0098"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "threads/thread-0099.json",
+        "record_id": "thread-0099"
+      },
+      "kind": "story_thread",
+      "title": "小白龙未向唐僧表明自己是谁",
+      "summary": "小白龙未向唐僧表明自己是谁（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0099.json",
+          "record_id": "thread-0099"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "threads/thread-0100.json",
+        "record_id": "thread-0100"
+      },
+      "kind": "story_thread",
+      "title": "阿月在桂花树下守候天蓬",
+      "summary": "阿月在桂花树下守候天蓬（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0100.json",
+          "record_id": "thread-0100"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "threads/thread-0101.json",
+        "record_id": "thread-0101"
+      },
+      "kind": "story_thread",
+      "title": "小白龙要去寻找的「他」",
+      "summary": "小白龙要去寻找的「他」（第45章起）",
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0101.json",
+          "record_id": "thread-0101"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 45
+    },
+    {
+      "target": {
+        "path": "threads/thread-0102.json",
+        "record_id": "thread-0102"
+      },
+      "kind": "story_thread",
+      "title": "两个孙悟空之间的拼杀与如来掌心赌局",
+      "summary": "两个孙悟空之间的拼杀与如来掌心赌局（第46章起）",
+      "chapter_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0102.json",
+          "record_id": "thread-0102"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 46
+    },
+    {
+      "target": {
+        "path": "threads/thread-0103.json",
+        "record_id": "thread-0103"
+      },
+      "kind": "story_thread",
+      "title": "金箍断裂与金箍棒失踪的线索",
+      "summary": "金箍断裂与金箍棒失踪的线索（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0103.json",
+          "record_id": "thread-0103"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "threads/thread-0104.json",
+        "record_id": "thread-0104"
+      },
+      "kind": "story_thread",
+      "title": "五行山与「漫长岁月后的一声巨响」",
+      "summary": "五行山与「漫长岁月后的一声巨响」（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0104.json",
+          "record_id": "thread-0104"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "threads/thread-0105.json",
+        "record_id": "thread-0105"
+      },
+      "kind": "story_thread",
+      "title": "松鼠远行的承诺（把所见带回告诉老树）",
+      "summary": "松鼠远行的承诺（把所见带回告诉老树）（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0105.json",
+          "record_id": "thread-0105"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "threads/thread-0106.json",
+        "record_id": "thread-0106"
+      },
+      "kind": "story_thread",
+      "title": "峰顶孤石与贯穿天地的光",
+      "summary": "峰顶孤石与贯穿天地的光（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0106.json",
+          "record_id": "thread-0106"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "threads/thread-0107.json",
+        "record_id": "thread-0107"
+      },
+      "kind": "story_thread",
+      "title": "老树想看大海的愿望",
+      "summary": "老树想看大海的愿望（第50章起）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0107.json",
+          "record_id": "thread-0107"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 50
+    },
+    {
+      "target": {
+        "path": "threads/thread-0108.json",
+        "record_id": "thread-0108"
+      },
+      "kind": "story_thread",
+      "title": "石猴出海求真",
+      "summary": "石猴出海求真（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0108.json",
+          "record_id": "thread-0108"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "threads/thread-0109.json",
+        "record_id": "thread-0109"
+      },
+      "kind": "story_thread",
+      "title": "群叶与众生的告别",
+      "summary": "群叶与众生的告别（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0109.json",
+          "record_id": "thread-0109"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "threads/thread-0110.json",
+        "record_id": "thread-0110"
+      },
+      "kind": "story_thread",
+      "title": "白晶晶不肯放弃的等待：等“他”回来，并认为孙悟空不该被铁箍拘束",
+      "summary": "白晶晶不肯放弃的等待：等“他”回来，并认为孙悟空不该被铁箍拘束（第59章起）",
+      "chapter_ranges": [
+        {
+          "start": 59,
+          "end": 59
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0110.json",
+          "record_id": "thread-0110"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 59
+    },
+    {
+      "target": {
+        "path": "threads/thread-0111.json",
+        "record_id": "thread-0111"
+      },
+      "kind": "story_thread",
+      "title": "唐僧与白晶晶的“流放者/家”之辩留下的立场分歧",
+      "summary": "唐僧与白晶晶的“流放者/家”之辩留下的立场分歧（第59章起）",
+      "chapter_ranges": [
+        {
+          "start": 59,
+          "end": 59
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0111.json",
+          "record_id": "thread-0111"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 59
+    },
+    {
+      "target": {
+        "path": "threads/thread-0112.json",
+        "record_id": "thread-0112"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空去除金箍与「成正果」之路",
+      "summary": "孙悟空去除金箍与「成正果」之路（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0112.json",
+          "record_id": "thread-0112"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "threads/thread-0113.json",
+        "record_id": "thread-0113"
+      },
+      "kind": "story_thread",
+      "title": "妖众阻止孙悟空成佛的联合行动",
+      "summary": "妖众阻止孙悟空成佛的联合行动（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0113.json",
+          "record_id": "thread-0113"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "threads/thread-0114.json",
+        "record_id": "thread-0114"
+      },
+      "kind": "story_thread",
+      "title": "唐僧一行安危",
+      "summary": "唐僧一行安危（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0114.json",
+          "record_id": "thread-0114"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "threads/thread-0115.json",
+        "record_id": "thread-0115"
+      },
+      "kind": "story_thread",
+      "title": "牛魔王的下落与齐天大圣旧部",
+      "summary": "牛魔王的下落与齐天大圣旧部（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0115.json",
+          "record_id": "thread-0115"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "threads/thread-0116.json",
+        "record_id": "thread-0116"
+      },
+      "kind": "story_thread",
+      "title": "齐天大圣大旗的归属",
+      "summary": "齐天大圣大旗的归属（第63章起）",
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0116.json",
+          "record_id": "thread-0116"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 63
+    },
+    {
+      "target": {
+        "path": "threads/thread-0117.json",
+        "record_id": "thread-0117"
+      },
+      "kind": "story_thread",
+      "title": "孙悟空「齐天大圣」身份在百万妖众前重新确立",
+      "summary": "孙悟空「齐天大圣」身份在百万妖众前重新确立（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0117.json",
+          "record_id": "thread-0117"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 69
+    },
+    {
+      "target": {
+        "path": "threads/thread-0118.json",
+        "record_id": "thread-0118"
+      },
+      "kind": "story_thread",
+      "title": "白晶晶终局：化出原形消散",
+      "summary": "白晶晶终局：化出原形消散（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0118.json",
+          "record_id": "thread-0118"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 69
+    },
+    {
+      "target": {
+        "path": "threads/thread-0119.json",
+        "record_id": "thread-0119"
+      },
+      "kind": "story_thread",
+      "title": "金角、银角、大鹏被观音带离狮驼岭",
+      "summary": "金角、银角、大鹏被观音带离狮驼岭（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0119.json",
+          "record_id": "thread-0119"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 69
+    },
+    {
+      "target": {
+        "path": "threads/thread-0120.json",
+        "record_id": "thread-0120"
+      },
+      "kind": "story_thread",
+      "title": "师徒二人重新上路",
+      "summary": "师徒二人重新上路（第69章起）",
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0120.json",
+          "record_id": "thread-0120"
+        }
+      ],
+      "tags": [
+        "thread"
+      ],
+      "safe_through": 69
+    }
+  ],
+  "id": "idx-threads",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 121,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 1,
+        "end": 5
+      },
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 13
+      },
+      {
+        "start": 15,
+        "end": 16
+      },
+      {
+        "start": 18,
+        "end": 19
+      },
+      {
+        "start": 21,
+        "end": 21
+      },
+      {
+        "start": 23,
+        "end": 26
+      },
+      {
+        "start": 28,
+        "end": 28
+      },
+      {
+        "start": 35,
+        "end": 36
+      },
+      {
+        "start": 39,
+        "end": 43
+      },
+      {
+        "start": 45,
+        "end": 46
+      },
+      {
+        "start": 49,
+        "end": 50
+      },
+      {
+        "start": 55,
+        "end": 55
+      },
+      {
+        "start": 59,
+        "end": 59
+      },
+      {
+        "start": 63,
+        "end": 63
+      },
+      {
+        "start": 69,
+        "end": 69
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "故事线"
+}

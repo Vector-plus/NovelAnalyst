@@ -1,0 +1,1343 @@
+{
+  "chapter_order": 49,
+  "chapter_id": "ch-000049",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天宫大火熄灭，诸神在废墟中只寻得焦石与断金箍",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": "天宫大火燃烧七天后",
+        "summary": "天宫大火又烧了七天终告熄灭；诸神在废墟与灰烬中只找到一块烧焦的石头与一根烧断的金箍，并将此事与火中歌声笑声、金光紫气升天的传闻并列，多数人什么也不说。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-1",
+          "c-2",
+          "c-3"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "c-2"
+        ],
+        "outcome_claim_local_ids": [
+          "c-1"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "废墟前问答：如来承认自己未猜出结局，并将石头抛落尘世",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": null,
+        "summary": "观音手持断金箍问如来西游是否可结束；如来手握焦石反问观音能否猜到结局，双方均称未猜出，如来明言「我输了」，玉帝追问「难道一切不都在你的股掌间」，如来答「他已经跳出去了」，随后挥手将石头抛落尘世。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-4",
+          "c-5",
+          "c-6",
+          "c-7",
+          "c-8",
+          "c-9",
+          "c-10",
+          "c-11"
+        ],
+        "trigger_claim_local_ids": [
+          "c-4"
+        ],
+        "action_claim_local_ids": [
+          "c-5",
+          "c-11"
+        ],
+        "outcome_claim_local_ids": [
+          "c-7"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "阿瑶把烧焦的石头埋在花果山焦土，割腕洒血求雨",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": null,
+        "summary": "阿瑶找到那块石头，将它埋在焦土的花果山，并想起多年前孙悟空「种子已经撒遍天下」的话与他在闪电中举棒直指苍穹的一幕；随后她割开手腕把血洒落土中，愿石头也能开花，第一滴雨水落在她头上，她喜极而泣仰天高喊。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-12",
+          "c-13",
+          "c-14",
+          "c-15",
+          "c-16",
+          "c-17",
+          "c-18",
+          "c-19",
+          "c-20",
+          "c-21"
+        ],
+        "trigger_claim_local_ids": [
+          "c-13"
+        ],
+        "action_claim_local_ids": [
+          "c-12",
+          "c-16"
+        ],
+        "outcome_claim_local_ids": [
+          "c-19",
+          "c-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "天降雨水于花果山，白龙在黑云后翻动，天兵天将前来问罪",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": null,
+        "summary": "雨中天空黑云后一条白色的龙翻动着；远处天兵战车隆隆驶来，天将喊问是谁犯天条在花果山私降雨水；小白龙心中自语这是能为唐僧、孙悟空、猪八戒做的最后一件事，并道「别了，永别了」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-22",
+          "c-23",
+          "c-24",
+          "c-25"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "c-22",
+          "c-25"
+        ],
+        "outcome_claim_local_ids": [
+          "c-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "天宫复原，二郎神奉命收拾战场时发现花果山的金箍棒失踪",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": null,
+        "summary": "瓦砾重新聚成殿宇，天宫回到安定祥和，众神各归其位；二郎神驾云出天庭奉命收拾战场，忽然愣住——云头下烧焦的花果山大地上，孙悟空扔下的金箍棒不见了，叙述反问除孙悟空还有谁搬得动它。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-26",
+          "c-27",
+          "c-28"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "c-27"
+        ],
+        "outcome_claim_local_ids": [
+          "c-27",
+          "c-28"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-6",
+      "title": "观音携金蝉子手写经文离开天庭，飞经五行山",
+      "introduced_at": 49,
+      "update": {
+        "local_id": "update-local-6",
+        "chapter_ranges": [
+          {
+            "start": 49,
+            "end": 49
+          }
+        ],
+        "revealed_at": 49,
+        "status": "completed",
+        "story_time": null,
+        "summary": "观音驾云出天庭，从怀中摸出金蝉子那本手写的经文抚摸若有所思；飞行所过的天空下，五行山默默立着，等着那漫长岁月后的一声巨响。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "c-29",
+          "c-30"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "c-29"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "c-1",
+      "text": "天宫的大火又烧了七天，终于熄灭。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "天宫的大火又烧了七天。终于熄灭了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-2",
+      "text": "诸神在废墟与灰烬中只找到两样东西：一块烧焦的石头和一根烧断的金箍。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "一根烧断的金箍"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-3",
+      "text": "有传闻称，有人听见火中传来的歌声与笑声；也有人称曾看见一道金光和一道紫气缠绕着从火中升起、向天际而去；更多人什么也不说。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "有人说，曾看见有一道金光和一道紫气缠绕着从火中升起"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-4",
+      "text": "观音拿到了那根断金箍，并问如来：「我们的目标已完成，西游可以结束了么？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "观音拿到了那根金箍。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-5",
+      "text": "如来手中握着那块石头，反问观音：「你能猜到这个结局么？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "如来也问"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-6",
+      "text": "观音回答自己未猜出（原文「弟子未猜出」）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "观音道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-7",
+      "text": "如来说「我也没猜出」「我输了，原来世上真的有我不能预料之事」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "我输了，原来世上真的有我不能预料之事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-8",
+      "text": "玉帝问：「难道一切不都在你的股掌间？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "难道一切不都在你的股掌间"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-9",
+      "text": "如来答：「不，他已经跳出去了。因为……他宁愿死，也不肯输。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "不，他已经跳出去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-10",
+      "text": "如来口中「已经跳出去了」的「他」指孙悟空。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "他宁愿死，也不肯输"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-11",
+      "text": "如来拿着断金箍在心中感叹，将手一挥，那块石头飞落下尘世。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "石头飞落下尘世"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-12",
+      "text": "阿瑶找到了那块石头，把它埋在了一片焦土的花果山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "阿瑶找到了那块石头，她把它埋在了一片焦土的花果山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-13",
+      "text": "埋石时，阿瑶眼前又显现多少年前的一幕。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "多少年前那一幕又显现眼前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-14",
+      "text": "（阿瑶所忆一幕中）孙悟空抓了一把地上的黑土笑道：「花果山，什么时候才能重新长出花果来？不过，种子已经撒遍天下了。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "种子已经撒遍天下了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-15",
+      "text": "（阿瑶所忆一幕中）天边雷鸣渐近，孙悟空靠在一棵焦树上等待；闪电划开天空的一刹那他跃起，将金箍棒直指苍穹高喊「来吧！」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "将金箍棒直指向苍穹"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-16",
+      "text": "「她」割开自己的手腕，将血洒落土中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "她割开自己的手腕"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-17",
+      "text": "此处割腕洒血的「她」即本章前文埋石的阿瑶。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "阿瑶找到了那块石头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-18",
+      "text": "「她」（阿瑶）说：「如果下雨，这里就会长出花草来吧，我没有种子，如果上天知我心诚，就让石头也开花吧。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "就让石头也开花吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-19",
+      "text": "忽然天空一声雷鸣，第一滴雨水落在了她的头上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "第一滴雨水落在了她的头上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-20",
+      "text": "阿瑶抬起头，喜极而泣，仰天高喊。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "阿瑶喜极而泣，仰天高喊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-21",
+      "text": "阿瑶高喊：「下雨啦！孙悟空，你看……下雨……下雨了……花一定会长出来的！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "花一定会长出来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-22",
+      "text": "天空中，黑云后，一条白色的龙翻动着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "一条白色的龙翻动着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-23",
+      "text": "远处天兵的战车隆隆驶来，天将喊问：「是谁犯天条在花果山私降雨水！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "是谁犯天条在花果山私降雨水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-24",
+      "text": "小白龙心中想：「唐僧、孙悟空、猪八戒，这是我能为你们做的最后一件事了。」又说「别了，永别了！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "这是我能为你们做的最后一件事了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-25",
+      "text": "花果山落下的这场雨由小白龙私自降下。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "一条白色的龙翻动着"
+        },
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "私降雨水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-26",
+      "text": "瓦砾重新聚成殿宇，天宫又回到安定与祥和，众神开始各归其位。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "瓦砾重新聚成殿宇"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-27",
+      "text": "二郎神驾云出天庭奉命收拾战场，见云头下烧焦的花果山大地上，孙悟空扔下的金箍棒不见了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "孙悟空扔下的金箍棒不见了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-28",
+      "text": "叙述以反问「怎么可能有人将它拿走？除了孙悟空还有谁搬得动它呢？」表达对金箍棒下落的疑问，本章未写明取走者是谁。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "怎么可能有人将它拿走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-29",
+      "text": "观音驾云出天庭，从怀中摸出金蝉子那本手写的经文，抚着若有所思。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "金蝉子那本手写的经文"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-30",
+      "text": "他们飞过的天空下，五行山默默立着，等着那漫长岁月后的一声巨响。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "五行山，默默地立着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-31",
+      "text": "章末出现无归属的叙述句「这个天地，我来过，我奋战过，我深爱过，我不在乎结局。」，原文未标明说话人。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "我奋战过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "c-32",
+      "text": "本章末尾附注引用了《面包和美酒》与北岛《传说的继续》的诗句，并注明「文中部分古诗引自《西游记》」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 49,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000049.txt",
+          "chapter_id": "ch-000049",
+          "chapter_order": 49,
+          "locator": null,
+          "anchor": "引自北岛《传说的继续》"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "花果山（焦土）",
+      "category": "place",
+      "introduced_at": 49,
+      "notes": "本章为一片焦土的花果山：阿瑶将烧焦的石头埋于此，割腕洒血求雨，雨水亦落在花果山；二郎神在此发现孙悟空扔下的金箍棒不见了。原文为「一片焦土的花果山」「烧焦的花果山大地上」。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "c-12",
+        "c-19",
+        "c-27"
+      ]
+    },
+    {
+      "label": "烧焦的石头",
+      "category": "item",
+      "introduced_at": 49,
+      "notes": "天宫废墟中被找到的两样遗物之一（另一为烧断的金箍）；如来手中握有此石，随后挥手将其抛落尘世，阿瑶寻得并埋入花果山焦土。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "c-2",
+        "c-5",
+        "c-11",
+        "c-12"
+      ]
+    },
+    {
+      "label": "金蝉子手写的经文",
+      "category": "item",
+      "introduced_at": 49,
+      "notes": "观音驾云出天庭时从怀中摸出，抚着若有所思；原文称「金蝉子那本手写的经文」。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "c-29"
+      ]
+    },
+    {
+      "label": "五行山",
+      "category": "place",
+      "introduced_at": 49,
+      "notes": "本章末叙述：他们飞过的天空下五行山默默立着，等着那漫长岁月后的一声巨响。（第48章已提及五行山重现人间，此处为新表述，待与既有档案核对。）",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "c-30"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject": {
+        "candidate_name": "如来所言之『他』"
+      },
+      "candidate_target": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "basis_claim_local_ids": [
+        "c-9",
+        "c-10"
+      ],
+      "status": "candidate",
+      "confidence_note": "原文未点名，仅由观音问话—如来答「他已经跳出去了」及「他宁愿死，也不肯输」推断指向孙悟空；不做确定性合并。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "subject_b": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "观音在问答中以「弟子」自称回话于如来，并为如来发问所答。"
+      },
+      "certainty": "reported",
+      "summary": "观音持断金箍向如来问西游是否可结束；如来反问结局，观音以「弟子未猜出」作答，如来则称「我也没猜出」「我输了」。",
+      "source_claim_local_ids": [
+        "c-4",
+        "c-5",
+        "c-6",
+        "c-7"
+      ],
+      "notes": "「弟子」自称仅见于对话原文，属角色说法，不做身份/师承定论。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "本章仅记录互动事实（埋石、割腕洒血、雨中高喊其人名），不作情感定性。"
+      },
+      "certainty": "explicit",
+      "summary": "阿瑶把烧焦的石头埋在花果山焦土，割腕洒血祈愿石头开花；雨落后她喜极而泣，仰天高喊「孙悟空，你看……下雨了……花一定会长出来的」。",
+      "source_claim_local_ids": [
+        "c-12",
+        "c-16",
+        "c-18",
+        "c-20",
+        "c-21"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "cooperation",
+        "notes": "小白龙自语将与唐僧、孙悟空、猪八戒相关之事视作最后一件事。"
+      },
+      "certainty": "reported",
+      "summary": "小白龙在花果山私降雨水，心中自语：「唐僧、孙悟空、猪八戒，这是我能为你们做的最后一件事了。别了，永别了！」",
+      "source_claim_local_ids": [
+        "c-24",
+        "c-25"
+      ],
+      "notes": "内容为小白龙的内心自语，属 reported。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "label": "金箍断裂与金箍棒失踪的线索",
+      "summary": "天宫大火后只余烧焦的石头与烧断的金箍；如来将石头抛落尘世，阿瑶把它埋在花果山焦土；二郎神却发现花果山上孙悟空扔下的金箍棒不见了。石、箍、棒的最终去向与关联在本章结束处仍未明示。",
+      "source_claim_local_ids": [
+        "c-2",
+        "c-11",
+        "c-12",
+        "c-27",
+        "c-28"
+      ],
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "label": "五行山与「漫长岁月后的一声巨响」",
+      "summary": "章末叙述：观音与二郎神飞过的天空下，五行山默默立着，等着那漫长岁月后的一声巨响。",
+      "source_claim_local_ids": [
+        "c-30"
+      ],
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第49章：灰烬中的石头与断箍",
+    "front_matter": {
+      "as_of": 49,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0064/index.json",
+          "record_id": "char-0064"
+        },
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "ev-local-6",
+        "c-1",
+        "c-2",
+        "c-4",
+        "c-7",
+        "c-9",
+        "c-11",
+        "c-12",
+        "c-15",
+        "c-16",
+        "c-19",
+        "c-21",
+        "c-24",
+        "c-25",
+        "c-27",
+        "c-29",
+        "c-30"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n天宫的大火又烧了七天，终于熄灭（[[c-1]]）。诸神在废墟与灰烬中只找到两样东西：一块烧焦的石头、一根烧断的金箍（[[c-2]]，事件 [[ev-local-1]]）。围绕这场火，流传着两种说法：有人听见火中传来的歌声与笑声，有人看见一道金光与一道紫气缠绕着从火中升起、向天际而去；更多人什么也不说（[[c-3]]）。\n\n## 关键行动\n\n- **废墟前的问答**：观音拿到了那根断金箍，问如来「我们的目标已完成，西游可以结束了么？」（[[c-4]]）；如来手中握着那块石头反问「你能猜到这个结局么？」（[[c-5]]），观音答未猜出（[[c-6]]），如来则说「我也没猜出」「我输了，原来世上真的有我不能预料之事」（[[c-7]]）。玉帝追问「难道一切不都在你的股掌间？」（[[c-8]]），如来答「不，他已经跳出去了」，并说对方「宁愿死，也不肯输」（[[c-9]]；叙述中该「他」指孙悟空属推断，见 [[c-10]]）。随后如来拿着断金箍心中感叹，挥手将石头抛落尘世（[[c-11]]，事件 [[ev-local-2]]）。\n- **花果山的埋石**：阿瑶找到那块石头，把它埋在了一片焦土的花果山（[[c-12]]），埋石时多少年前的一幕又显现眼前（[[c-13]]）：孙悟空抓黑土笑言「种子已经撒遍天下了」（[[c-14]]），并在闪电划天时跃起、将金箍棒直指苍穹高喊「来吧！」（[[c-15]]）。她割开自己的手腕把血洒落土中（[[c-16]]，其身份为阿瑶系推断，见 [[c-17]]），并说愿上天知她心诚、「就让石头也开花吧」（[[c-18]]，事件 [[ev-local-3]]）。\n- **私降的雨水**：天空一声雷鸣，第一滴雨水落在她头上（[[c-19]]），阿瑶喜极而泣仰天高喊「下雨啦！孙悟空，你看……下雨了……花一定会长出来的！」（[[c-20]]、[[c-21]]）。天空中黑云后一条白色的龙翻动着（[[c-22]]），远处天兵战车隆隆驶来，天将喝问「是谁犯天条在花果山私降雨水！」（[[c-23]]）；小白龙心想「唐僧、孙悟空、猪八戒，这是我能为你们做的最后一件事了」「别了，永别了」（[[c-24]]，事件 [[ev-local-4]]）。\n- **天宫复原与两处清点**：瓦砾重新聚成殿宇，天宫又回到安定与祥和（[[c-26]]）；二郎神驾云出天庭奉命收拾战场，却见烧焦的花果山大地上，孙悟空扔下的金箍棒不见了（[[c-27]]，事件 [[ev-local-5]]）。观音驾云出天庭时从怀中摸出金蝉子那本手写的经文，抚着若有所思（[[c-29]]）；他们飞过的天空下，五行山默默立着，等着那漫长岁月后的一声巨响（[[c-30]]，事件 [[ev-local-6]]）。\n\n## 转折与新信息\n\n1. **如来的自陈**：如来明确说出「我输了，原来世上真的有我不能预料之事」（[[c-7]]），并称某人（推断为孙悟空，[[c-10]]）「已经跳出去了」。此为角色说法（reported），不作叙述层面的定论。\n2. **石头与金箍的去向**：如来挥手将石头抛落尘世（[[c-11]]），阿瑶在花果山焦土将其掩埋（[[c-12]]）；断金箍则留在观音手中（[[c-4]]）。\n3. **花果山的雨与问罪**：雨水落在花果山，天将即时喝问私降雨水者（[[c-23]]）；小白龙的独白把这场雨与「为唐僧、孙悟空、八戒做的最后一件事」联系起来（[[c-24]]），降雨者为小白龙系推断（[[c-25]]）。\n4. **金箍棒的失踪**：叙述以反问点出除孙悟空外无人搬得动金箍棒，取走者身份本章未明（[[c-28]]）。\n\n## 本章结果\n\n- 天宫火灭、废墟重建，众神各归其位（[[c-1]]、[[c-26]]）。\n- 火中遗物仅存焦石与断箍（[[c-2]]）；焦石经如来之手落向尘世，最终被阿瑶埋在花果山（[[c-12]]）。\n- 花果山获得第一场雨水（[[c-19]]、[[c-21]]），同时引来天兵天将的问罪（[[c-23]]）。\n- 金箍棒自花果山战场消失（[[c-27]]）；五行山仍在原处等待（[[c-30]]）。\n- 章末附有无明确归属的叙述句「这个天地，我来过，我奋战过，我深爱过，我不在乎结局。」（[[c-31]]），以及《面包和美酒》《传说的继续》的引诗与「文中部分古诗引自《西游记》」的注（[[c-32]]）。\n\n## 未决问题与补读入口\n\n1. 金箍棒由谁取走？原文仅以反问暗示「除了孙悟空还有谁搬得动它」（[[c-28]]）。\n2. 如来口中「已经跳出去了」的「他」本章未点名，推断为孙悟空（[[c-10]]），仅登记为身份候选，未做合并。\n3. 阿瑶埋下的石头与断金箍、失踪的金箍棒是否为同一条线索的部件，本章未作说明；见线程候选「金箍断裂与金箍棒失踪」。\n4. 五行山「漫长岁月后的一声巨响」所指何事，本章未解（[[c-30]]）；与第50章起「石猴／松鼠」一线是否相接，需在下一段阅读中核对。\n5. 文本存在编码损坏字符（观音答话处与注中一处），已登记 issue，建议回查原始版本核对字句。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "reason": "本阶段终章的关键结果事件：天宫大火熄灭、仅余焦石与断金箍",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "reason": "如来明确自陈「我输了」并处置焦石，是本阶段收束的核心陈述场景",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "reason": "阿瑶埋石与割腕洒血求雨，推动石头下落线索",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-4",
+      "reason": "小白龙私降雨水并道永别，涉及其行动与后果（天将问罪）",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-5",
+      "reason": "金箍棒失踪为本章新开悬念",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "claim",
+      "local_id": "c-7",
+      "reason": "如来承认自己未能预料结局（角色陈述，reported）",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "claim",
+      "local_id": "c-9",
+      "reason": "如来「他已经跳出去了」的判断（角色陈述，reported）",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "claim",
+      "local_id": "c-27",
+      "reason": "二郎神发现金箍棒失踪的叙述事实",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "kind": "claim",
+      "local_id": "c-30",
+      "reason": "五行山等待「一声巨响」的收束性叙述，衔接下一段",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "观音答话处存在编码损坏字符，原文显示为「弟子未猜出���子未�。」，实际字句需回查原始版本。",
+      "source_ref": {
+        "path": "source/vol-001/ch-000049.txt",
+        "chapter_id": "ch-000049",
+        "chapter_order": 49,
+        "anchor": "观音道"
+      },
+      "severity": "medium"
+    },
+    {
+      "category": "source_locator",
+      "summary": "章末注中《面包和美酒》引文处存在乱码「���width=「与其孤身跋涉，不如安然沉睡。」」，需回查原始文本。",
+      "source_ref": {
+        "path": "source/vol-001/ch-000049.txt",
+        "chapter_id": "ch-000049",
+        "chapter_order": 49,
+        "anchor": "与其孤身跋涉，不如安然沉睡"
+      },
+      "severity": "medium"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "花果山金箍棒失踪后，取走者在章内未明示，仅有一句反问，无法确定行动主体。",
+      "source_ref": {
+        "path": "source/vol-001/ch-000049.txt",
+        "chapter_id": "ch-000049",
+        "chapter_order": 49,
+        "anchor": "怎么可能有人将它拿走"
+      },
+      "severity": "low"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "如来所言「他」未被点名，本章仅由上下文与「宁愿死，也不肯输」推断为孙悟空，已登记 identity_link_candidates，未合并。",
+      "source_ref": {
+        "path": "source/vol-001/ch-000049.txt",
+        "chapter_id": "ch-000049",
+        "chapter_order": 49,
+        "anchor": "他宁愿死，也不肯输"
+      },
+      "severity": "low"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "割腕洒血段落以「她」指代，未再写名；推断为阿瑶但仍属指代推断。",
+      "source_ref": {
+        "path": "source/vol-001/ch-000049.txt",
+        "chapter_id": "ch-000049",
+        "chapter_order": 49,
+        "anchor": "她割开自己的手腕"
+      },
+      "severity": "low"
+    }
+  ],
+  "warnings": [
+    "本章为 stage-004（第27–49章）末章，全章以致收束性叙述与抒情为主，事件边界划分带有一定主观性，已按「废墟勘查 / 废墟问答 / 花果山埋石求雨 / 白龙私雨被问罪 / 天宫复原与金箍棒失踪 / 观音携经出天庭」六段切分。",
+    "原文存在两处编码损坏（观音答话、章末引诗），已登记 issue_candidates（category=source_locator），相关 claim 的 anchor 已避开损坏字符区间。",
+    "章末附引诗与注（《面包和美酒》、北岛《传说的继续》、「文中部分古诗引自《西游记》」）为正文之外的注释性文字，仅以 c-32 记录，未作为情节事实展开。",
+    "孙悟空曾在闪电中举棒、以及「种子已经撒遍天下」等段落，原文以阿瑶回忆形式呈现，按 reported/回忆场景处理，未作为本章当下时间的行动。",
+    "关系候选中的 facet.notes 只记录互动事实，未作任何感情定性；感情维度留给 StageCommit 阶段判定。",
+    "本章新出现的物件/地点（花果山焦土、烧焦的石头、金蝉子手写的经文、五行山）以 setting 候选形式登记，未与既有档案核对（工具未提供 setting 侧 dedupe），其中五行山在第48章已出现，存在重复建档风险。"
+  ]
+}

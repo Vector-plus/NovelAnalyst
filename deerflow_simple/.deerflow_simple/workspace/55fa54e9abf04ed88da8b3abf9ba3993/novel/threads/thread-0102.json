@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0102",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 46,
+  "label": "两个孙悟空之间的拼杀与如来掌心赌局",
+  "introduced_at": 46,
+  "updates": [
+    {
+      "id": "update-thread-0102-001",
+      "revealed_at": 46,
+      "chapter_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "core",
+      "summary": "两猴相斗至力竭，如来现身以掌心赌约介入，妖猴拒赌并冲撞诸神，被五行山压坠后再度挣脱，孙悟空受如来催促起跳进击；结局未在本章交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1985"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1989"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1998"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2000"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2006"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

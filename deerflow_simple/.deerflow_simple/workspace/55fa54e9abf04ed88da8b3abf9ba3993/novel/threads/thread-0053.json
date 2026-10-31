@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0053",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 8,
+  "label": "唐僧之死与冒充孙悟空行凶者的身份",
+  "introduced_at": 8,
+  "updates": [
+    {
+      "id": "update-thread-0053-001",
+      "revealed_at": 8,
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "advanced",
+      "summary": "孙悟空断定有人冒充自己杀了和尚，目的是不让他去西天求得正果；冒充者身份、动机与手段本章均未揭示，孙悟空自述「也许我真的忘记了些什么」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1166"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1169"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

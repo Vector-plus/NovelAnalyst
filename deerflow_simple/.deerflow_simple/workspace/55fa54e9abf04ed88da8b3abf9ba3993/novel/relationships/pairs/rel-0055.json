@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0055",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 40,
+  "introduced_at": 40,
+  "subjects": [
+    {
+      "path": "characters/char-0112/index.json",
+      "record_id": "char-0112"
+    },
+    {
+      "path": "characters/char-0113/index.json",
+      "record_id": "char-0113"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0055-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "as_of": 40,
+      "revealed_at": 40,
+      "summary": "松鼠自称须菩提有时变成树上的果子与她说话，她想找他时就从自家树洞向下钻，并说不同的人见菩提的路不一样。本章须菩提未出场。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠自称须菩提有时变成树上的果子与她说话，她想找他时就从自家树洞向下钻，并说不同的人见菩提的路不一样。本章须菩提未出场。",
+          "basis_refs": [
+            {
+              "path": "events/block-0004.json",
+              "record_id": "claim-1850"
+            },
+            {
+              "path": "events/block-0004.json",
+              "record_id": "claim-1851"
+            },
+            {
+              "path": "events/block-0004.json",
+              "record_id": "claim-1852"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

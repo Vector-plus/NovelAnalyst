@@ -1,0 +1,96 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第1—20章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0001.json",
+        "record_id": "coverage-block-0001"
+      },
+      "title": "覆盖 1—20"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 21
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第21—40章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0002.json",
+        "record_id": "coverage-block-0002"
+      },
+      "title": "覆盖 21—40"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 41
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第41—60章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0003.json",
+        "record_id": "coverage-block-0003"
+      },
+      "title": "覆盖 41—60"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 61
+        }
+      ],
+      "entity_refs": [],
+      "kind": "coverage",
+      "safe_through": 0,
+      "summary": "第61—69章覆盖状态分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/coverage/block-0004.json",
+        "record_id": "coverage-block-0004"
+      },
+      "title": "覆盖 61—69"
+    }
+  ],
+  "id": "idx-coverage",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "覆盖索引"
+}

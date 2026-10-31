@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0099",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 32,
+  "entity_type": "character",
+  "label": "猪圈中刚出生的小猪",
+  "introduced_at": 32,
+  "identity_notes": [
+    {
+      "id": "in-char-0099-001",
+      "revealed_at": 32,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1685"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1686"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1687"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

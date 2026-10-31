@@ -1,0 +1,898 @@
+{
+  "chapter_order": 22,
+  "chapter_id": "ch-000022",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空梦见海边石猴被人呼唤名字而惊醒",
+      "introduced_at": 22,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 22,
+            "end": 22
+          }
+        ],
+        "revealed_at": 22,
+        "status": "closed",
+        "story_time": "天宫之夜（与紫霞随二郎神出行同期）",
+        "summary": "孙悟空梦见月夜海边山崖上一只石猴呆呆望海，忽有人喊「孙悟空」，石猴回头只见茫茫黑暗，呼喊无应；随即孙悟空睁眼醒来，记起自己身在何处、金箍棒仍在耳中，并想到是否真愿回花果山。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "二郎神驾战车载紫霞降临花果山，所见为焦土废墟",
+      "introduced_at": 22,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 22,
+            "end": 22
+          }
+        ],
+        "revealed_at": 22,
+        "status": "closed",
+        "story_time": "紧接章首梦境之后（同一天宫时期）",
+        "summary": "二郎神劝紫霞别再与妖猴来往，得知她想去花果山后邀她同去。二人乘天神巨大战车穿过黑色云层抵达花果山，紫霞见到黑色群山、烧焦土壤、炭化树木与浓雾死气；她不信这就是花果山，二郎神踢起刻有「花果山福地，水帘洞洞天」的石头为证。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-4"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "二郎神以死雁为饵引出花果山群妖争食",
+      "introduced_at": 22,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 22,
+            "end": 22
+          }
+        ],
+        "revealed_at": 22,
+        "status": "closed",
+        "story_time": "接续抵达花果山之后",
+        "summary": "二郎神解释山中怪鸟是被杀妖精灵气所聚，又抓来一只（他自称从别处抓来作诱饵的）雁，捏出血洒向地面，土地翻动钻出无数妖精扑食，争食者互相撕咬、被咬倒者被群妖撕碎，地面拱起如小山；紫霞惊呆。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空梦见月夜海边高高的山崖上站着一只呆呆望海的石猴，石猴心想「极目之处，无边无界，我却不能再前进一步」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "大海在月夜中闪着万点银光"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "梦中有人喊出「孙悟空」这个名字，石猴回头只见背后是一片茫茫黑暗，无人应答，它自称刚出生怎会有名字，认定这是梦。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "背后是一片茫茫黑暗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空睁眼醒来，立刻记起自己是谁、身在何处，确认金箍棒仍在耳中而安心；他觉得天宫的夜太静反而使他心中惶惑，并想到自己是否真的还愿回花果山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "孙悟空睁开了眼睛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "二郎神对紫霞说，孙悟空是杀人不眨眼的魔王，天宫与妖族打了多年仗，不知多少天兵神将死于他手，自己与他也交手多次，此妖危险至极；平日无人敢去蟠桃园，紫霞却常去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "他是个杀人不眨眼的魔王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "紫霞对二郎神说，她觉得孙悟空除了不爱答理人之外，不像传说中那么可怕。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "还是不像传说中那么可怕"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "紫霞说她想让孙悟空带她去花果山看看，只是想去看看，并说孙悟空讲那儿很美。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "孙悟空说那儿很美"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "二郎神表示自己刚好要去花果山，邀紫霞同去，紫霞惊喜地叫好。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "我刚好要去，你要不要同去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "二郎神与紫霞乘天神的巨大战车（厚甲壳、长满触角，被紫霞形容像怪兽），穿越黑色云层飞向地面，二郎神对此行目的只说「一会儿你就知道了」且面色冷峻。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "天神的巨大战车隆隆地驶向地面"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "叙述指出，紫霞忽然觉得二郎神此刻的神色和孙悟空那天梦中惊醒时的神色太像，两人心中都在惧怕着什么（此为紫霞的判断）。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "他们心中都在惧怕着什么"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-3"
+        },
+        {
+          "local_id": "claim-local-8"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "紫霞走出战车后闻到腥臭，眼前是覆盖焦土的黑色群山、烧成炭的树木、浓重黑雾笼罩、不见天日、死气沉沉的山野与被形容为鬼哭的怪鸟嘶鸣。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "眼前是一片黑色的群山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "二郎神宣告「这里就是花果山了」，并称这是紫霞向往的地方；紫霞不信、叫喊这不是花果山。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "这里就是花果山了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "二郎神踢起地上一块石头，石头上刻有「花果山福地，水帘洞洞天」几个字。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "花果山福地，水帘洞洞天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "二郎神对紫霞说，那猴子骗了她，花果山是群妖衍生之处，不可能风光秀丽，妖精不能住在花园里，只有神族天界才能风景如画。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "那猴子骗了你吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "二郎神劝紫霞早离开，说这里群妖出没、不是仙女来的地方，回去后再别找那妖猴；紫霞说自己从没出过天界，想不到地面会是这个样子，二郎神回应并非所有地方都如此，礼天敬神之处风调雨顺、众类安乐。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "再别找那妖猴了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "紫霞喃喃自问「原来我梦见的……不是花果山？」，随后表示想再待一会儿；二郎神称就带她四处看看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "原来我梦见的……不是花果山？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "二郎神讲解山中怪鸟：它们是在妖族和神族的战争中被杀死的妖精的灵气，入不得地府、永不能超生，只能聚成这种鸟万世悲鸣。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "万世悲鸣"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "二郎神转身离去片刻后抓回一只雁，自称是从别处抓来作诱饵的；他捏手挤出血来洒向地面。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "这是我从别处抓来，作诱饵的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "血洒向地面后土地翻动，钻出无数妖精仰头嗷叫；二郎神将死雁抛下，群妖直扑争食、挤作一堆使地面拱起如小山，更有妖精为争食互相撕咬，被咬倒者又被其他妖精一拥而上撕碎。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "那土地开始翻动"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "目睹群妖争食撕咬后，紫霞惊呆了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 22,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22,
+          "locator": null,
+          "anchor": "紫霞惊呆了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [
+    {
+      "label": "妖族",
+      "introduced_at": 22,
+      "category": "species_or_group",
+      "notes": "由二郎神与叙述提及：天宫与妖族打了多年仗，花果山为群妖衍生之处，妖怪为争食互相撕咬。本章未给出组织形态，仅作为群体称谓出现。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-13",
+        "claim-local-16",
+        "claim-local-18"
+      ]
+    },
+    {
+      "label": "神族",
+      "introduced_at": 22,
+      "category": "species_or_group",
+      "notes": "二郎神口中与妖族对举的群体称谓（「只有神族天界才能风景如画」「妖族和神族的战争」）。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "花果山（地面现状）",
+      "category": "place",
+      "introduced_at": 22,
+      "notes": "本章明确展示花果山的地面实况：黑色群山、烧焦土壤、炭化树木、黑雾笼罩、不见天日；界石上刻「花果山福地，水帘洞洞天」。与孙悟空所述「很美」形成对照。若已有花果山条目，请合并而非新建。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-6"
+      ]
+    },
+    {
+      "label": "天神战车",
+      "category": "artifact_or_vehicle",
+      "introduced_at": 22,
+      "notes": "二郎神所乘的巨型战车，厚重甲壳、长满触角，紫霞形容「像怪兽」；可穿越黑色云层降落地面。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "怪鸟（妖精灵气所聚）",
+      "category": "phenomenon",
+      "introduced_at": 22,
+      "notes": "存在形态为 reported（二郎神说法）：妖族神族战争中死去妖精的灵气，入不得地府、永不能超生，聚成怪鸟万世悲鸣。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "梦中被呼唤名字的石猴"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "status": "unresolved",
+      "notes": "梦境段落中的石猴是孙悟空梦中影像，其身份未在原文点明，只是梦境内容与本章后段孙悟空本人惊醒相连；不作为同一实体的确定合并，仅登记供后续章节（如第50—55章「石猴」条目）核对。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "subject_b": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同行护送/劝导关系"
+      },
+      "certainty": "explicit",
+      "summary": "二郎神主动邀紫霞同乘战车前往花果山，途中反复劝她远离孙悟空、别再找那妖猴，并带她看花果山真相并以死雁诱妖演示；紫霞随行并听他讲解。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "关系强度与既有基础本章未说明，仅登记本章互动事实。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "紫霞对孙悟空的认知与维护（第三方评述）"
+      },
+      "certainty": "reported",
+      "summary": "紫霞向二郎神表示孙悟空除了不爱答理人外不像传说中可怕，并说孙悟空告诉她花果山很美；二郎神则称孙悟空是杀人不眨眼的魔王、那猴子骗了她。双方说法并存，本章未作裁定。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-13",
+        "claim-local-15"
+      ],
+      "notes": "两条陈述互相冲突（紫霞称花果山很美 vs 二郎神称其行骗），原文无判定。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "花果山的真相：孙悟空口中的美地与焦土废墟",
+      "category": "mystery",
+      "status": "open",
+      "role": "advance",
+      "summary": "紫霞亲见花果山为焦土废墟、界石刻字可证；她由「原来我梦见的……不是花果山？」转向对既有认知的怀疑。孙悟空所述「花果山很美」与实况的落差成为待解线索。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-15"
+      ],
+      "evidence_event_local_ids": [
+        "ev-local-2"
+      ]
+    },
+    {
+      "thread_label": "孙悟空与花果山/妖族的战争创伤",
+      "category": "character_history",
+      "status": "open",
+      "role": "advance",
+      "summary": "二郎神称天宫与妖族多年战争、大量天兵神将死于孙悟空之手，山中怪鸟为战死妖精灵气；孙悟空梦醒后自问是否真愿回花果山，且与二郎神一样「心中都在惧怕着什么」（后者为紫霞判断）。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-9",
+        "claim-local-16"
+      ],
+      "evidence_event_local_ids": [
+        "ev-local-1",
+        "ev-local-3"
+      ]
+    },
+    {
+      "thread_label": "紫霞对孙悟空的信任走向",
+      "category": "relationship",
+      "status": "open",
+      "role": "advance",
+      "summary": "紫霞在二郎神劝阻下仍为孙悟空辩护，并坚持要在花果山多待一会儿；章末因群妖撕咬场面惊呆，态度是否转变本章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-15",
+        "claim-local-19"
+      ],
+      "evidence_event_local_ids": [
+        "ev-local-2",
+        "ev-local-3"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第22章：（无题）——花果山焦土与群妖争食",
+    "front_matter": {
+      "as_of": 22,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0064/index.json",
+          "record_id": "char-0064"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n天宫之夜。孙悟空梦见月夜海边高高山崖上站着一只呆呆望海的石猴，心想「极目之处，无边无界，我却不能再前进一步」（[[claim-local-1]]）。梦中有人喊出「孙悟空」这个名字，石猴回头只见背后一片茫茫黑暗，嘶哑呼喊无人应答，它自称刚出生怎会有名字，认定这是个梦（[[claim-local-2]]）。\n\n同一时期，二郎神质问紫霞为何总和那个「妖猴」在一起；紫霞说她觉得孙悟空除了不爱答理人之外不像传说中那么可怕（[[claim-local-4]]、[[claim-local-5]]）。\n\n## 关键行动\n\n孙悟空睁眼醒来，立刻记起自己是谁、身在何处，确认金箍棒仍在耳中而安心；他觉得天宫的夜太静反而使他心中惶惑，并自问是否真的还愿回花果山（[[claim-local-3]]、[[ev-local-1]]）。\n\n二郎神表示自己刚好要去花果山，邀紫霞同去，紫霞惊喜叫好（[[claim-local-7]]）。二人乘天神的巨大战车——厚甲壳、长满触角，紫霞形容像怪兽——穿过黑色云层飞向地面，二郎神对此行目的只说「一会儿你就知道了」，面色冷峻（[[claim-local-8]]）。叙述点出紫霞觉得他的神色和孙悟空梦中惊醒时太像，两人心中都在惧怕着什么（此为紫霞的判断，[[claim-local-9]]）。\n\n## 转折与新信息\n\n战车停在一处，紫霞闻到腥臭，眼前是覆盖焦土的黑色群山、烧成炭的树木、黑雾不见天日、死气沉沉的山野与被形容为鬼哭的怪鸟嘶鸣（[[claim-local-10]]）。二郎神宣告「这里就是花果山了」，紫霞不肯相信（[[claim-local-11]]）；二郎神踢起一块石头，上面刻着「花果山福地，水帘洞洞天」（[[claim-local-12]]），并称那猴子骗了她，花果山是群妖衍生之处，只有神族天界才能风景如画（[[claim-local-13]]）。\n\n二郎神劝她早离开、回去后再别找那妖猴；紫霞说自己从没出过天界，想不到地面会是这样，二郎神回应并非所有地方都如此，礼天敬神之处风调雨顺、众类安乐（[[claim-local-14]]）。紫霞喃喃自问「原来我梦见的……不是花果山？」，又说想再待一会儿；二郎神称带她四处看看（[[claim-local-15]]）。\n\n二郎神讲解怪鸟：它们是在妖族和神族的战争中死去的妖精的灵气，入不得地府、永不能超生，只能聚成这种鸟万世悲鸣（[[claim-local-16]]）。\n\n## 本章结果\n\n二郎神转身离去片刻，抓回一只雁，自称是从别处抓来作诱饵（[[claim-local-17]]），捏手挤血洒向地面。土地翻动，无数妖精钻出仰头嗷叫；死雁抛下后群妖直扑争食、挤作一堆使地面拱起如小山，更有妖精为争食互相撕咬、被咬倒者被群妖撕碎（[[claim-local-18]]、[[ev-local-3]]）。紫霞惊呆，本章至此收束（[[claim-local-19]]）。\n\n## 未决问题与补读入口\n\n- 孙悟空所说「花果山很美」与紫霞所见焦土废墟的落差如何解释：紫霞已开始怀疑自己梦见的是否真是花果山，原文未给答案（[[claim-local-6]]、[[claim-local-15]]）。\n- 孙悟空梦中被呼唤名字的「石猴」意象与其自身来历的关系，本章未说明（[[claim-local-1]]、[[claim-local-2]]）。\n- 二郎神与孙悟空旧怨（多年战事、多次交手）仅在口头陈述中给出，未经其他来源印证（[[claim-local-4]]、[[claim-local-16]]）。\n- 紫霞在章末「惊呆」之后的态度与行动，需接读第23章紫霞返回蟠桃园与孙悟空的对话。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref": {
+        "local_id": "ev-local-2"
+      },
+      "note": "花果山真实面貌首次展示（焦土、界石刻字），是紫霞认知转折的关键场景。"
+    },
+    {
+      "kind": "event",
+      "ref": {
+        "local_id": "ev-local-3"
+      },
+      "note": "二郎神以死雁诱出群妖争食撕咬，紫霞目睹；对「妖」的形象构成冲击。"
+    },
+    {
+      "kind": "event",
+      "ref": {
+        "local_id": "ev-local-1"
+      },
+      "note": "孙悟空梦境+惊醒，自问是否愿回花果山，与其身后动机相关。"
+    },
+    {
+      "kind": "claim",
+      "ref": {
+        "local_id": "claim-local-12"
+      },
+      "note": "界石「花果山福地，水帘洞洞天」为花果山身份的可核验物证。"
+    },
+    {
+      "kind": "claim",
+      "ref": {
+        "local_id": "claim-local-16"
+      },
+      "note": "妖族/神族战争与妖精灵气不得超生的说法（二郎神口径），可作为阶段背景。"
+    },
+    {
+      "kind": "claim",
+      "ref": {
+        "local_id": "claim-local-14"
+      },
+      "note": "二郎神口径：礼天敬神之处风调雨顺、众类安乐，暗示天界秩序的价值取向。"
+    },
+    {
+      "kind": "entity",
+      "ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "note": "二郎神本章为主要行动者，safe_through 目前仅到 19，建议本阶段回溯补齐 20—22 记录。"
+    },
+    {
+      "kind": "entity",
+      "ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "note": "紫霞本章完成「听信传说」到「亲见废墟」的认知位移，属阶段内转折点。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "coverage_gap",
+      "notes": "二郎神实体 index（char-0064）safe_through 为 19，本章（22）互动尚未进入其档案，建议补 20—22 章实体更新。",
+      "refs": [
+        {
+          "path": "characters/char-0064/index.json",
+          "record_id": "char-0064"
+        }
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "notes": "本章原文存在若干乱码/缺字（如「不知有多少天兵神将��天兵�死于他手」「那雁血便被挤了出来�山福��出来」），相关语句仅取可辨部分作证据，未据残缺处推断额外事实。",
+      "refs": [
+        {
+          "path": "source/vol-001/ch-000022.txt",
+          "chapter_id": "ch-000022",
+          "chapter_order": 22
+        }
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "notes": "紫霞转述「孙悟空说花果山很美」与二郎神「那猴子骗了你」及实际焦土实况构成冲突，原文未裁定何者为真（或二者并存的原因），暂不合并立场。",
+      "refs": [
+        {
+          "local_id": "claim-local-6"
+        },
+        {
+          "local_id": "claim-local-13"
+        }
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "notes": "梦境中「石猴」与孙悟空的关系本章未明示；已登记 identity_link_candidate（unresolved），未合并引用。",
+      "refs": [
+        {
+          "local_id": "claim-local-1"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "本章标题为「．」，正文无明确章名，摘要标题按内容自拟。",
+    "原文有若干字符乱码，相关锚点仅取可唯一匹配的完整片段。",
+    "二郎神、紫霞、孙悟空均通过 resolve_name 唯一命中现有实体，未新建角色候选。",
+    "「石猴」在 stage-plan 中存在第50—55章的独立候选名，本章梦境石猴未做合并，仅登记身份链接候选。"
+  ]
+}

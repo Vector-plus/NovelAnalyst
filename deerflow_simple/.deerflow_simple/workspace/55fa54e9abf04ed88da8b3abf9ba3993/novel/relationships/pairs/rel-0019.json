@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0019",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 9,
+  "introduced_at": 9,
+  "subjects": [
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    },
+    {
+      "path": "characters/char-0024/index.json",
+      "record_id": "char-0024"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0019-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "as_of": 9,
+      "revealed_at": 9,
+      "summary": "阿瑶伸手摘桃时，猴子出现在桃树上得意瞟着她，对她说第一句话“小姑娘，俺可不好吃！”；叙述称阿瑶的一生就此改变。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "阿瑶伸手摘桃时，猴子出现在桃树上得意瞟着她，对她说第一句话“小姑娘，俺可不好吃！”；叙述称阿瑶的一生就此改变。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0186"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0188"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0189"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0190"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

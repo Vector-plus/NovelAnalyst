@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0049",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 19,
+  "label": "永不遁灭之道",
+  "category": "ability",
+  "introduced_at": 19,
+  "updates": [
+    {
+      "id": "update-setting-0049-001",
+      "revealed_at": 19,
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0685"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

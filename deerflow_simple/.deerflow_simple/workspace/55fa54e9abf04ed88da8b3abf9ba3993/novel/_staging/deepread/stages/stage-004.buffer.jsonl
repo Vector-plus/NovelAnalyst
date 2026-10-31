@@ -1,0 +1,124 @@
+{"kind": "event", "local_id": "ev-local-1", "note": "stage-004（27–49）开篇即为天宫被焚的既成战局，可作为本阶段起点事件", "chapter_order": 27}
+{"kind": "claim", "local_id": "claim-local-4", "note": "孙悟空身份的叙述级点明（锚点「孙悟空！」）", "chapter_order": 27}
+{"kind": "claim", "local_id": "claim-local-5", "note": "孙悟空自认战斗无法终止、笑至流泪的关键陈述，可用于后续人物转折判断", "chapter_order": 27}
+{"kind": "claim", "local_id": "claim-local-2", "note": "天宫三殿被毁：势力受创的具体证据", "chapter_order": 27}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 28, "note": "天庭方（巨灵神）对阿瑶下手、孙悟空即时出手救人的对抗片段，可用于“孙悟空与天庭冲突升级”线索。"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 28, "note": "孙悟空答应带阿瑶离开并化金光下界，二人关系与去向的转折点。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 28, "note": "阿瑶明确表示“只要是没有神的地方”，是其立场表述的关键原话（reported）。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "chapter_order": 28, "note": "王母当众追问谁扔了她的宝贝琉璃盏，可作后续追责/冲突线索的触发陈述（reported）。"}
+{"kind": "event", "local_id": "ev-local-3", "label": "孙悟空遣散百万妖众并自称齐天大圣不是妖王", "reason": "主角与花果山妖众公开决裂、身份自我定位的关键转折，对 stage-004 主线（孙悟空—天庭冲突）有累积价值", "chapter_order": 29}
+{"kind": "event", "local_id": "ev-local-5", "label": "天兵将至，孙悟空举金箍棒指向苍穹迎战", "reason": "本章收束于迎战姿态，是下一阶段战事的起点", "chapter_order": 29}
+{"kind": "claim", "local_id": "claim-local-16", "label": "老妖：两次神妖大战伤亡与孙悟空名号的对应", "reason": "角色口述的历史框架，可能影响后续对神妖关系与孙悟空经历的理解，需在 stage 内持续核对", "chapter_order": 29}
+{"kind": "claim", "local_id": "claim-local-3", "label": "阿瑶自述被王母打下凡尘", "reason": "阿瑶身份/处境的陈述，属 stage 内人物线证据", "chapter_order": 29}
+{"kind": "relationship", "local_id": "rel-candidate-孙悟空-阿瑶", "label": "孙悟空与阿瑶的互动事实（不后悔对话、强行送走）", "reason": "人物关系走向在 stage 内可能继续发展，保留互动事实供 StageCommit 汇总", "chapter_order": 29}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "why": "天蓬命运的判决节点：定罪、议刑、定处置", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "why": "天蓬与阿月告别的关键场景，含「忘记一切」丹药这一伏笔", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"ref_or_local_id": "claim-local-13", "kind": "claim", "why": "玉帝亲口提出的化猪之刑设想", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "why": "红色丹药被放入天蓬口中的实体动作事实", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "why": "王母「最残酷的刑罚」之说的原话证据", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"ref_or_local_id": "candidate:太白金星", "kind": "character_candidate", "why": "本章为议刑与宣读处置的执行者，需建档", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 30}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 31, "note": "天庭审问阿瑶：玉帝以“赐重回天界”交换妖精去向，阿瑶未招供并陈述妖精处“没人说赐字”"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 31, "note": "天蓬被投入谪仙井，问“这些是什么啊”，阿瑶含泪答“这些，是神仙啊”，天蓬坠井大笑"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 31, "note": "阿瑶关于“赐”字的表述，本章核心对照句"}
+{"kind": "claim", "local_id": "claim-local-3", "chapter_order": 31, "note": "玉帝提出的交换条件（reported）"}
+{"kind": "setting", "label": "谪仙井", "chapter_order": 31, "note": "天界贬落/处置神仙的处所首次点名出现"}
+{"kind": "event", "local_id": "ev-local-1", "note": "天蓬坠落凡间、转生小猪，吐红丸；第27–49待回查段的开篇关键事件", "chapter_order": 32}
+{"kind": "claim", "local_id": "claim-local-2", "note": "疑似阿瑶同步坠落，身份未定", "chapter_order": 32, "certainty": "uncertain"}
+{"kind": "claim", "local_id": "claim-local-5", "note": "新生小猪吐出红色药丸——后续可能的关键物件线索", "chapter_order": 32}
+{"kind": "identity_link", "candidate_name": "猪圈中刚出生的小猪", "note": "疑似天蓬转生之身，待后章明示", "chapter_order": 32}
+{"record_local_id": "ev-local-2", "kind": "event", "note": "孙悟空在锁妖柱身死、天界众神欢呼妖王死；残骸被太上老君索入炼丹炉；枯骨手抓紫色披巾。stage-004 内关键转折点。", "chapter_order": 33}
+{"record_local_id": "claim-local-5", "kind": "claim", "note": "观音：天地造化的灵猴，若心不死时，是杀不死他的——为「心死则身死」机制的直接表述。", "chapter_order": 33}
+{"record_local_id": "claim-local-9", "kind": "claim", "note": "锁妖柱场景形态（铜铸高台+巨柱+柱脚残躯），可作空间设定依据。", "chapter_order": 33}
+{"record_local_id": "claim-local-23", "kind": "claim", "note": "松鼠之梦真伪与紫霞自述来历的并存说法，未决悬念。", "chapter_order": 33}
+{"record_local_id": "claim-local-19", "kind": "claim", "note": "太上老君索要孙悟空残骸炼仙丹，势力动向。", "chapter_order": 33}
+{"kind": "event", "local_id": "ev-local-1", "note": "stage-004 内首次出现「五百年后」的人间场景；猪八戒与小白龙是仅有的在场者", "chapter_order": 34}
+{"kind": "claim", "local_id": "cl-1", "note": "关键时间标记（五百年后），影响全卷时间线", "chapter_order": 34}
+{"kind": "claim", "local_id": "cl-4", "note": "唐僧肉身失踪（猪八戒说法），重大悬置事实", "chapter_order": 34}
+{"kind": "claim", "local_id": "cl-8", "note": "孙悟空去寻唐僧的魂（小白龙说法）", "chapter_order": 34}
+{"kind": "claim", "local_id": "cl-10", "note": "小白龙自述被罚做白马的缘由（不肯嫁上天庭），人物身世转折点", "chapter_order": 34}
+{"kind": "claim", "local_id": "cl-14", "note": "「只剩下我们俩孤魂野鬼」——取经队伍离散的现状表述", "chapter_order": 34}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 35, "note": "孙悟空击破天顶、火流入天界，天宫大乱——本阶段重大转折点候选", "salience": "high"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 35, "note": "孙悟空登场与紫霞重逢，交代「被擒者另有其人」", "salience": "high"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-15", "chapter_order": 35, "note": "孙悟空自称被擒的是「喜欢把紧箍儿戴头上的傻帽」，身份悬念核心证据", "salience": "high"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-10", "chapter_order": 35, "note": "孙悟空称紫霞即「阿月」，并提及天蓬", "salience": "medium"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-16", "chapter_order": 35, "note": "紫霞记忆混乱，五百年前事件真伪存疑", "salience": "medium"}
+{"kind": "faction_trend", "ref_or_local_id": "ev-local-3", "chapter_order": 35, "note": "天宫诸神（太白金星、巨灵神、太上老君、王母等）在突发火灾前失序", "salience": "medium"}
+{"kind": "key_event", "local_ref": "ev-local-2", "chapter_order": 36, "note": "孙悟空被囚天囚塔、琵琶骨被穿透，首次出现「外面那个也是孙悟空」的指称"}
+{"kind": "key_event", "local_ref": "ev-local-3", "chapter_order": 36, "note": "观音亲自现身天囚塔传上天之意，提出再给机会并以杀唐僧真凶为饵，被孙悟空拒绝"}
+{"kind": "key_claim", "local_ref": "claim-local-20", "chapter_order": 36, "note": "孙悟空当面否认杀害唐僧（reported，本人陈述）"}
+{"kind": "key_claim", "local_ref": "claim-local-14", "chapter_order": 36, "note": "天将木岸指认塔外另有一个「孙悟空」"}
+{"kind": "character_turning_point", "entity_ref": {"path": "characters/char-0002/index.json", "record_id": "char-0002"}, "chapter_order": 36, "note": "孙悟空拒绝成正果、拒绝追问真相，只坚持去箍；结尾锁链颤动"}
+{"kind": "faction_movement", "entity_ref": {"path": "characters/char-0019/index.json", "record_id": "char-0019"}, "chapter_order": 36, "note": "天界（观音代表上天）对孙悟空采取「给机会」的招抚策略"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 37, "note": "真假石猴对峙并在风雪中交战，身份谜题开启"}
+{"kind": "character_candidate", "local_id": "与孙悟空一模一样的石猴", "chapter_order": 37, "note": "第二个孙悟空形象首次出现，身份未明，勿与其他角色合并"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 37, "note": "紫霞对孙悟空形象认知的动摇，是人物转折点证据"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 37, "note": "紫霞回避判断，悬念点"}
+{"kind": "key_event", "ref_local_id": "ev-local-1", "chapter_order": 38, "note": "孙悟空与招式、兵器等同的不明对手交战，力量互消，胜负未分；章末无收束。"}
+{"kind": "key_event", "ref_local_id": "ev-local-2", "chapter_order": 38, "note": "唐僧之墓出现在人界万灵之森，小白龙跪墓呼唤「江流」。"}
+{"kind": "key_statement", "ref_local_id": "claim-local-13", "chapter_order": 38, "note": "小白龙明言「江流就是师父，就是玄奘」——身份线索，仅口述。"}
+{"kind": "key_statement", "ref_local_id": "claim-local-7", "chapter_order": 38, "note": "孙悟空回忆观音之言：杀了他，紧箍咒自然解除。"}
+{"kind": "character_turning_point", "ref_local_id": "claim-local-8", "chapter_order": 38, "note": "孙悟空由困惑转为硬拼，主动加速攻势，不肯认输。"}
+{"kind": "key_statement", "ref_local_id": "claim-local-20", "chapter_order": 38, "note": "取经者对「西天在哪儿」的公开疑问。"}
+{"kind": "event", "local_id": "ev-local-1", "note": "天宫对峙实况：孙悟空现身并连续击打李靖、巨灵神、武曲星君，对天庭众神公开施压，是本阶段（27–49）天宫线的关键武力展示节点。", "chapter_order": 39}
+{"kind": "claim", "local_id": "claim-local-9", "note": "「没带金箍儿」是本章唯一的真假判别依据，且未被孙悟空正面回应，属真假猴王线的核心待收束证据。", "chapter_order": 39}
+{"kind": "claim", "local_id": "claim-local-18", "note": "孙悟空首次在叙述中承认自己有「师父」并因承诺而守规矩，是人物转折点证据。", "chapter_order": 39}
+{"kind": "claim", "local_id": "claim-local-22", "note": "孙悟空主动提及一个「丢尽妖精脸的家伙」，人物关系网新增未具名指称，需在后续章节回查。", "chapter_order": 39}
+{"kind": "character", "label": "奎木郎", "introduced_at": 39, "note": "新增候选角色；天庭替补星宿，敢当面顶撞孙悟空，章末被孙悟空称为「是条汉子」。", "chapter_order": 39}
+{"kind": "event", "local_id": "ev-local-1", "note": "孙悟空脱离天宫战局、落入未知秀丽高山（第40章起点，跨章衔接点）", "chapter_order": 40}
+{"kind": "event", "local_id": "ev-local-4", "note": "孙悟空化光进入斜月三星洞/灵台方寸山，进入下一章接续点", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-5", "note": "金箍棒被遗落山中，未寻回", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-21", "note": "斜月三星洞—灵台方寸山指认（角色陈述，reported）", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-18", "note": "须菩提可化任何物与人说话（角色陈述）", "chapter_order": 40}
+{"kind": "character", "candidate_name": "松鼠", "note": "首次出场、会说话的小松鼠，自称一岁，章末在洞口等候", "chapter_order": 40}
+{"local_id": "ev-local-6", "kind": "event", "note": "本卷核心节点：菩提依金蝉子所诵之语为石猴赐名“孙悟空”，齐天大圣孙悟空闻名后身形融化消失。对“孙悟空”身份/来历线索价值极高。", "chapter_order": 41}
+{"local_id": "ev-local-5", "kind": "event", "note": "金蝉子正式登场并自报灵山身份、抛还金箍棒、称“我为如来，又有何惧”，为后续灵山与师尊线埋点。", "chapter_order": 41}
+{"local_id": "claim-local-33", "kind": "claim", "note": "金蝉子“如来是什么—是如实道来—我为如来，又有何惧”的关键陈述，属角色说法。", "chapter_order": 41}
+{"local_id": "claim-local-24", "kind": "claim", "note": "菩提内心“历史不是这样的”：对既定进程的预知/异变暗示，值得后续回查。", "chapter_order": 41}
+{"local_id": "claim-local-38", "kind": "claim", "note": "孙悟空闻“孙悟空”之名后身形融化的叙述事实，为身份谜团关键证据。", "chapter_order": 41}
+{"local_id": "claim-local-22", "kind": "claim", "note": "“紧箍咒。观音你够狠”：紧箍咒线头首次在本段出现，需与后文观音出场段落对照。", "chapter_order": 41}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "本阶段关键事件：金蝉子以千年修行与如来赌众神能否控制世人命运，赌约后果涉及神佛是否再现身世间。", "chapter_order": 42}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "三藏经手卷交付观音、托其传于世间，可能为后续取经线索。", "chapter_order": 42}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "赌约后果的权威表述（如来之口）：胜则神佛不再现身世间，败则金蝉子散道行重坠轮回。", "chapter_order": 42}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "note": "「雷音寺，原来真的会有雷音的」——众佛惊疑，可作为灵山异象设定证据。", "chapter_order": 42}
+{"kind": "claim", "ref_or_local_id": "claim-local-2", "note": "灵霄殿顶端未具名身影狂笑，需与后续章节天庭战况合看。", "chapter_order": 42}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 43, "note": "沙悟净灵霄宝殿救驾并献补好的琉璃盏，求重返天界——天庭战局中的关键插入事件"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 43, "note": "天将围攻孙悟空，沙悟净护盏流血——沙悟净处境的转折点证据"}
+{"kind": "claim", "ref_or_local_id": "claim-local-8", "chapter_order": 43, "note": "沙悟净自述打碎琉璃盏被贬、寻碎片补盏（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "chapter_order": 43, "note": "玉帝对「五百年」不解，疑其记忆或时间认知异常（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 43, "note": "沙悟净「只剩最后一片」的执念陈述（reported）"}
+{"kind": "thread", "ref_or_local_id": "thread-local-1", "chapter_order": 43, "note": "琉璃盏补全/赎罪线索开线"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 44, "reason": "孙悟空重返天界并直面“狂笑的自己”，stage-004 天庭线的核心节点"}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 44, "reason": "孙悟空对灵霄殿上狂笑之猴的首次出手，结果为悬置"}
+{"record_ref_or_local_id": "claim-local-3", "kind": "claim", "chapter_order": 44, "reason": "“看见了自己”的关键表述，供后续身份判定使用"}
+{"record_ref_or_local_id": "claim-local-6", "kind": "claim", "chapter_order": 44, "reason": "妖猴自述的罪行清单（唐僧、龙王、生死簿、天地伦常），属角色自述"}
+{"record_ref_or_local_id": "claim-local-12", "kind": "claim", "chapter_order": 44, "reason": "孙悟空对自身无力与只能毁灭的自述，人物状态关键证据"}
+{"kind": "event", "record_ref_or_local_id": "ev-local-2", "note": "关键实物线索：桂花树刻字「天蓬，家就在前面，阿月」+ 银星灯笼；后续若出现天蓬/阿月线索可作为溯源点。", "chapter_order": 45}
+{"kind": "event", "record_ref_or_local_id": "ev-local-3", "note": "阿月在天界废墟的守候独白与玉兔儿下界，构成天蓬—阿月线的重要陈述来源（均为角色言说）。", "chapter_order": 45}
+{"kind": "event", "record_ref_or_local_id": "ev-local-5", "note": "猪八戒折返扑火、被火焰吞没；阿月抱住他唤「天蓬」——天蓬—猪八戒称呼等同的关键锚点事件。", "chapter_order": 45}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-18", "note": "小白龙对唐僧隐瞒身份被点破，人物转折点与悬念，建议在 stage 汇总时纳入小白龙身份线。", "chapter_order": 45}
+{"kind": "identity_link", "record_ref_or_local_id": "idlink-local-1", "note": "天蓬(char-0015) ↔ 猪八戒(char-0003) 称呼等同候选，certainty=reported，待下游确认。", "chapter_order": 45}
+{"kind": "event_ref", "local_id": "ev-local-1", "chapter_order": 46, "reason": "两个孙悟空拼杀这一核心冲突的首次完整呈现", "salience": "high"}
+{"kind": "event_ref", "local_id": "ev-local-2", "chapter_order": 46, "reason": "如来现身、掌心赌约与五行山镇猴：身份与宿命线索关键", "salience": "high"}
+{"kind": "event_ref", "local_id": "ev-local-3", "chapter_order": 46, "reason": "孙悟空在如来催促下出手，为第47章胜负作铺垫", "salience": "high"}
+{"kind": "claim_ref", "local_id": "claim-local-8", "chapter_order": 46, "reason": "孙悟空对场景的熟悉感，是身份线索的重要伏笔", "salience": "high"}
+{"kind": "character_candidate", "label": "没戴金箍的猴子", "chapter_order": 46, "reason": "新出现且身份未定的核心角色候选，需后续定性", "salience": "high"}
+{"kind": "identity_link_candidate", "chapter_order": 46, "reason": "「没戴金箍的猴子」与孙悟空身份关系悬置，待后续章节确认", "salience": "high"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "chapter_order": 47, "note": "双猴决战收场，紫霞在倒地妖猴手中取出紫色纱巾，孙悟空随即记起一切"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 47, "note": "孙悟空识破成佛骗局，最后一击落空于幻影后身死；如来承认“魔王不复存在”"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 47, "note": "天界之火未熄，紫霞称人将作燃料，托尸走向火焰"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-6", "chapter_order": 47, "note": "叙述断言“西游果然只是一个骗局”，并给出使孙悟空自我否定的机制——核心命题证据"}
+{"kind": "character_turn", "ref_or_local_id": {"path": "characters/char-0002/index.json", "record_id": "char-0002"}, "chapter_order": 47, "note": "孙悟空在本章恢复记忆、拒绝成佛、身死——角色弧线终点候选"}
+{"kind": "character_turn", "ref_or_local_id": {"path": "characters/char-0023/index.json", "record_id": "char-0023"}, "chapter_order": 47, "note": "紫霞由旁观转为托尸入火，并否定成佛/正统价值"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 48, "note": "金蝉子与如来对局以“你输了”+闪电自毁收束，含关键台词，stage-004 末段关键转折。"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 48, "note": "琉璃盏线索收束点：沙悟净凑齐最后一片、王母松手摔碎、诸神围观大笑。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-1", "chapter_order": 48, "note": "五行山重现人间的直接叙述，跨章衔接第49章废墟中的焦石。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 48, "note": "原文标注“五百年凝聚修复的盏”，为沙悟净线索时间跨度的直接叙述。"}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本阶段终章的关键结果事件：天宫大火熄灭、仅余焦石与断金箍", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "event", "local_id": "ev-local-2", "reason": "如来明确自陈「我输了」并处置焦石，是本阶段收束的核心陈述场景", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "event", "local_id": "ev-local-3", "reason": "阿瑶埋石与割腕洒血求雨，推动石头下落线索", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "event", "local_id": "ev-local-4", "reason": "小白龙私降雨水并道永别，涉及其行动与后果（天将问罪）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "event", "local_id": "ev-local-5", "reason": "金箍棒失踪为本章新开悬念", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "claim", "local_id": "c-7", "reason": "如来承认自己未能预料结局（角色陈述，reported）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "claim", "local_id": "c-9", "reason": "如来「他已经跳出去了」的判断（角色陈述，reported）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "claim", "local_id": "c-27", "reason": "二郎神发现金箍棒失踪的叙述事实", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}
+{"kind": "claim", "local_id": "c-30", "reason": "五行山等待「一声巨响」的收束性叙述，衔接下一段", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-004"}, "chapter_order": 49}

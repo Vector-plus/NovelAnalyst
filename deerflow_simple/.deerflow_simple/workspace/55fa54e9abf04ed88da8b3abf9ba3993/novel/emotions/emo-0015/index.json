@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0015",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 67,
+  "label": "单边记得：一次不被回应的确认",
+  "introduced_at": 61,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 67
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 67
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0015-007",
+      "revealed_at": 67,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/pair-sunwukong-zixia/stages/stage-007.md",
+          "record_id": "doc-pair-sunwukong-zixia-stage-007"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0015/stages/stage-007.md",
+        "record_id": "doc-emo-0015-stage-007"
+      },
+      "kind": "emotional_stage",
+      "title": "单边记得：一次不被回应的确认",
+      "summary": "单边记得：一次不被回应的确认（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

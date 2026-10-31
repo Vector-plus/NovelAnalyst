@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0011",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "唐僧“修大乘”的自述与金蝉子旧事",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0011-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "plot_thread",
+      "status": "active",
+      "role": "setup",
+      "summary": "唐僧自称修大乘、修圆满却“还没想好”；绿衣女孩提及金蝉子质疑小乘佛法、走火入魔陷于万劫，并对唐僧评价金蝉子的态度极度愤怒。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

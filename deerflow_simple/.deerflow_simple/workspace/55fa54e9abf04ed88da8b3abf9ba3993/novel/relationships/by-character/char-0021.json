@@ -1,0 +1,176 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0021",
+  "kind": "index",
+  "revision": 7,
+  "safe_through": 10,
+  "title": "阿瑶 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0017.json",
+        "record_id": "rel-0017"
+      },
+      "kind": "relationship",
+      "title": "阿珏×阿瑶",
+      "summary": "与阿珏×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0018.json",
+        "record_id": "rel-0018"
+      },
+      "kind": "relationship",
+      "title": "紫霞×阿瑶",
+      "summary": "与紫霞×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0019.json",
+        "record_id": "rel-0019"
+      },
+      "kind": "relationship",
+      "title": "阿瑶×桃树上的猴子",
+      "summary": "与阿瑶×桃树上的猴子的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0020.json",
+        "record_id": "rel-0020"
+      },
+      "kind": "relationship",
+      "title": "王母×阿瑶",
+      "summary": "与王母×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0021.json",
+        "record_id": "rel-0021"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×阿瑶",
+      "summary": "与猪八戒×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0049.json",
+        "record_id": "rel-0049"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×阿瑶",
+      "summary": "与孙悟空×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

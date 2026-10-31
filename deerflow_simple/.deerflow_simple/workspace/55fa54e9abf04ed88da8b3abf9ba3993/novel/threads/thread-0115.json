@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0115",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 63,
+  "label": "牛魔王的下落与齐天大圣旧部",
+  "introduced_at": 63,
+  "updates": [
+    {
+      "id": "update-thread-0115-001",
+      "revealed_at": 63,
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "category": "conflict",
+      "status": "closed",
+      "role": "subject",
+      "summary": "牛魔王现身自称平天大圣、托孙悟空给齐天大圣传话回花果山喝酒；旗杆处冲突后血腥气起，罗刹拭其佩剑落泪、白晶晶称「杀他的人已去狮驼王处」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2405"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2406"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2416"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2421"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2424"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

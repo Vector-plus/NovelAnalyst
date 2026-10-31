@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0079",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 36,
+  "label": "杀唐僧的真凶与「外面那个孙悟空」",
+  "introduced_at": 36,
+  "updates": [
+    {
+      "id": "update-thread-0079-001",
+      "revealed_at": 36,
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "category": "unresolved_mystery",
+      "status": "active",
+      "role": "advance",
+      "summary": "观音当面指孙悟空反杀唐僧、再反天庭；孙悟空明确否认「杀秃头的不是我」。天将木岸又说「你是孙悟空，那外面那个是什么？」，观音以「你真的不想知道杀唐僧陷害你的是谁？」逼问，暗示真凶另有其人且观音知道线索。孙悟空拒绝追问。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1768"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1773"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1774"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1775"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

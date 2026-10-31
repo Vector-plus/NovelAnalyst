@@ -1,0 +1,570 @@
+{
+  "chapter_order": 55,
+  "chapter_id": "ch-000055",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "石猴告别松鼠，乘木筏出海",
+      "introduced_at": 55,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 55,
+            "end": 55
+          }
+        ],
+        "revealed_at": 55,
+        "status": "completed",
+        "story_time": null,
+        "summary": "石猴向松鼠告别，说出要去找那力量的心愿，随后上了木筏离开花果山；松鼠在高山上目送他变成海上的一个小点，抱住尾巴哭了。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0067/index.json",
+              "record_id": "char-0067"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天地忽静、群叶飘落，松鼠听见叶子的告别",
+      "introduced_at": 55,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 55,
+            "end": 55
+          }
+        ],
+        "revealed_at": 55,
+        "status": "completed",
+        "story_time": null,
+        "summary": "松鼠醒来发现天地忽然安静、山海变成金黄、大量叶子飘落；她听见细声说\"再见了\"，追问之下无数声音回答\"我在这儿\"\"记住我\"，她追着叶子喊\"一片叶子\"，最后跳到枝头挥手告别。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0112/index.json",
+              "record_id": "char-0112"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0138/index.json",
+              "record_id": "char-0138"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "石猴对松鼠说\"我也要走了，终于那一天\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "我也要走了，终于那一天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "松鼠看着石猴没有说\"话\"，并奇怪自己好像早知道这一天会来到。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "石猴自述不愿因失去而忧伤、不愿为时光短暂而忧愁，说要去找到那力量，让所有生命超越界限、让所有的花同时在大地上开放、让想飞的就能自由飞翔、让所有人和他们喜欢的永远地在一起。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "我要去找到那力量"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "松鼠对石猴说\"可是，我喜欢的却都要离开我\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "可是，我喜欢的却都要离开我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "石猴已经上了木筏离开，松鼠在当初她初见石头的那座高山上看着他变成海上的一个小点。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "石猴已经上了木筏"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "松鼠抱住自己的尾巴哭了，并自问\"这就是长大么？为什么要去得那么急？\"",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "松鼠抱住自己的尾巴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "某一天松鼠醒来，天地忽然变得安静，没有翔鸟的扑翅声，也没有众猴的吵闹。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "天地忽然变得安静"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "松鼠抬头看到那一片海已变成金黄，很多叶子飘然而下，落向遥远的大地。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "那一片海已变成金黄"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "松鼠听见一个声音轻声说\"再见了\"，追问\"你是谁？你在哪儿？\"，对方回答\"我是一片叶子啊，你看见我了吗？我在这儿。\"",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "我是一片叶子啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "无数声音齐声说\"我在这儿。我在这儿。\"\"我在，记住我，我曾经在……\"，松鼠转着身子四周看着，无数叶子从她身边飘过。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "无数的声音说道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "松鼠猛地跳起来，在树枝间飞快地往下追着，大喊\"一片叶子，一片叶子！\"",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "在树枝间飞快地往下追着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "那细细的声音道谢，并说\"我知道我在，明年，你再在枝头上叫我的名字吧\"；松鼠追不上他们，跳到枝头向下挥手道别\"再见了，再见——\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      },
+      "revealed_at": 55,
+      "source_refs": [
+        {
+          "path": "source/vol-002/ch-000055.txt",
+          "chapter_id": "ch-000055",
+          "chapter_order": 55,
+          "locator": null,
+          "anchor": "明年，你再在枝头上叫我的名字吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "石头",
+      "introduced_at": 55,
+      "alias_texts": [
+        "石头"
+      ],
+      "identity_notes": "本章原文出现\"当初她初见石头的那座高山\"，指向松鼠当日初见石头的地点。名称\"石头\"在既有实体库中无命中；与已在档实体「石猴」(char-0067) 是否为同一所指，本章叙述未明确交代，故仅登记为候选，不做合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-5"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [],
+  "identity_link_candidates": [
+    {
+      "subject_candidate": {
+        "candidate_name": "石头"
+      },
+      "target_ref": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "relation": "possible_same_entity",
+      "certainty": "uncertain",
+      "basis_claim_local_ids": [
+        "claim-local-5"
+      ],
+      "notes": "原文仅以\"当初她初见石头的那座高山\"间接提到\"石头\"，未明示其为石猴的另一称呼；按身份谨慎原则不直接合并，待后续章节证据确认。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "subject_b": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "石猴离山前向松鼠告别并说出自己的心愿；松鼠不愿他离开，说\"我喜欢的却都要离开我\"，在高山上目送他出海后抱住尾巴哭了。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6"
+      ],
+      "notes": "仅记录本章可见的互动事实与离别场景，不作情感类别定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "subject_b": {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "叶子以细声向松鼠告别，说\"我在这儿\"\"记住我，我曾经在\"；松鼠追着飘落的叶子大喊\"一片叶子\"，最后在枝头挥手道别。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "仅记录本章可见的互动事实，不作情感类别定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "label": "石猴出海求真",
+      "category": "character_goal",
+      "status": "advanced",
+      "role": "subject",
+      "summary": "石猴在章内明确说明离山目标：去找那力量，让所有生命超越界限、让花同时开放、让想飞的自由飞翔；随后上了木筏离开花果山，松鼠在高山上目送。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-5"
+      ]
+    },
+    {
+      "label": "群叶与众生的告别",
+      "category": "theme_motif",
+      "status": "advanced",
+      "role": "subject",
+      "summary": "天地忽静、山海金黄、众叶飘落，叶子以\"我在，记住我，我曾经在\"向松鼠告别，并约定明年在枝头叫它的名字。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第55章：石猴出海与群叶告别（原章标题为空）",
+    "front_matter": {
+      "as_of": 55,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0067/index.json",
+          "record_id": "char-0067"
+        },
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        },
+        {
+          "path": "characters/char-0138/index.json",
+          "record_id": "char-0138"
+        },
+        {
+          "candidate_name": "石头"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首由石猴开口：「我也要走了，终于那一天」。松鼠看着他没有说话，她奇怪自己好像早知道这一天会来到（[[claim-local-1]]、[[claim-local-2]]）。\n\n## 关键行动\n\n石猴说出自己的心愿：不愿因失去而忧伤、不愿为时光短暂而忧愁，「我要去找到那力量」，让所有生命超越界限、让所有的花同时在大地上开放、让想飞的就能自由飞翔、让所有人和他们喜欢的永远地在一起（[[claim-local-3]]）。松鼠回应：「可是，我喜欢的却都要离开我。」（[[claim-local-4]]）\n\n## 转折与新信息\n\n石猴已经上了木筏；松鼠留在她「当初初见石头的那座高山上」，看着他变成海上的一个小点，抱住自己的尾巴哭了，自问「这就是长大么？为什么要去得那么急？」（[[claim-local-5]]、[[claim-local-6]]）。\n\n此后某一天松鼠醒来，天地忽然变得安静——没有翔鸟的扑翅声，也没有众猴的吵闹；她抬头看到那一片海已变成金黄，很多叶子飘然而下，落向遥远的大地（[[claim-local-7]]、[[claim-local-8]]）。\n\n## 本章结果\n\n松鼠听见细声说「再见了」，追问之下对方自称「我是一片叶子」（[[claim-local-9]]）；随后无数声音齐说「我在这儿」「我在，记住我，我曾经在……」，无数叶子从她身边飘过（[[claim-local-10]]）。松鼠跳起在树枝间飞快往下追，大喊「一片叶子」（[[claim-local-11]]）。那细声向她道谢，并说「明年，你再在枝头上叫我的名字吧」；松鼠追不上他们，跳到枝头向下挥手道别（[[claim-local-12]]）。石猴据此在本章内已完成离山出海动作（[[ev-local-1]]），群叶告别发生于其后（[[ev-local-2]]）。\n\n## 未决问题与补读入口\n\n- 原文「当初她初见石头的那座高山」中的「石头」与已建档的「石猴」（char-0067）是否同一所指，本章叙述未明示，已登记为身份候选，未做合并。\n- 石猴所寻「那力量」具体为何、能否找到，本章未交代。\n- 下一章（第56章）开头转入「唐僧死了，谁干的？」的惊问与孙悟空从梦中醒来，与本章花果山告别场景的衔接关系原文未说明，建议据第56章正文核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 55,
+      "note": "stage-005 收束点：石猴离山出海的关键动作事件，阶段骨架标题所指「石猴出海」在本章落实。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 55,
+      "note": "群叶告别场景，含叶子\"我在，记住我\"的告别语与明年之约。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-3",
+      "chapter_order": 55,
+      "note": "石猴道出的离山动机与心愿原文，本阶段主题陈述的关键证据。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-12",
+      "chapter_order": 55,
+      "note": "叶子留下「明年，你再在枝头上叫我的名字」的约定，可能成为后续伏笔。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章出现称谓「石头」（\"当初她初见石头的那座高山\"），既有实体库无同名字段直接对应；与 char-0067「石猴」是否为同一所指未在章内明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-5"
+      ],
+      "suggested_action": "待后续章节出现明确等同语句或叙述者交代后再决定是否建立 identity_link。"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "章内「那一天松鼠醒来」与前段石猴离山之间存在未注明的时间跳跃（石猴离山后多久、松鼠何日醒来未交代）。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-7"
+      ],
+      "suggested_action": "如需精确时间线，可在后续补读时结合相邻章节确认。"
+    },
+    {
+      "category": "fact_conflict",
+      "summary": "第56章开篇出现「唐僧死了，谁干的？」与孙悟空从梦中醒来，本章却为花果山告别场景；两章场景承接关系原文未说明，是否存在梦境/转世层设定待核。",
+      "evidence_claim_local_ids": [],
+      "suggested_action": "已在 warnings 中标注，建议在第56章精读时优先确认叙事层级关系。"
+    }
+  ],
+  "warnings": [
+    "本章原章标题为「．」（空/占位），摘要标题采用描述性标题并已注明原标题为空。",
+    "第56章开篇转写孙悟空做梦醒来听人惊问「唐僧死了，谁干的？」，与本章花果山的石猴/松鼠场景在文本上无明确过渡交代；未据此推断石猴即孙悟空，不作身份合并。",
+    "本章出场人物均为既有实体（char-0067 石猴、char-0112 松鼠、char-0138 一片叶子），未新建角色候选；唯「石头」一处称谓因无实体命中登记为候选并附身份链接候选。"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0016",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 15,
+  "label": "玄奘的来历与他\"要学的\"究竟是什么",
+  "introduced_at": 15,
+  "updates": [
+    {
+      "id": "update-thread-0016-001",
+      "revealed_at": 15,
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "category": "unresolved_motive",
+      "status": "open",
+      "role": "major",
+      "summary": "玄奘拒绝法明传衣钵，称\"其实我要学的，你又教不了我\"，随后说出\"要这天再遮不住我眼……要那诸佛都烟消云散\"；其所学所指、此言后果，本章未作交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0593"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0595"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

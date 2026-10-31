@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0138",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 55,
+  "title": "一片叶子 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 55,
+        "end": 55
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0066.json",
+        "record_id": "rel-0066"
+      },
+      "kind": "relationship",
+      "title": "松鼠×一片叶子",
+      "summary": "与松鼠×一片叶子的关系",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0138/index.json",
+          "record_id": "char-0138"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 55
+    }
+  ]
+}

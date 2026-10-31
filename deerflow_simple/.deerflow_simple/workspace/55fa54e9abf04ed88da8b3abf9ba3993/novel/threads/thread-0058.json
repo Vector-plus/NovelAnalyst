@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0058",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "取经队伍在林中的离散",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0058-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "group_state",
+      "status": "open",
+      "role": "raise",
+      "summary": "沙和尚已走人，孙悟空离队赴地府，小白龙请假回家一趟，只剩猪八戒独自留下看守行李尸首。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

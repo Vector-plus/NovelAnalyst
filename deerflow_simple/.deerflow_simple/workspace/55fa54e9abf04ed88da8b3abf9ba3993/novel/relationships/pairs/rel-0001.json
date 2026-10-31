@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0001",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 10,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0001-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "as_of": 1,
+      "revealed_at": 1,
+      "summary": "唐僧命令孙悟空去给他找吃的，孙悟空以正在看晚霞为由拒绝并反问唐僧为何不自己去；唐僧随后宣布自己去给他们找吃的。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "唐僧命令孙悟空去给他找吃的，孙悟空以正在看晚霞为由拒绝并反问唐僧为何不自己去；唐僧随后宣布自己去给他们找吃的。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0002"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0003"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0004"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0005"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0011"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

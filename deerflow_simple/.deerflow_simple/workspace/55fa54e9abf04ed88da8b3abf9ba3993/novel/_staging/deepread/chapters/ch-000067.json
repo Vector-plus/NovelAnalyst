@@ -1,0 +1,1462 @@
+{
+  "chapter_order": 67,
+  "chapter_id": "ch-000067",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "狮驼岭：百万妖众聚于「齐天大圣」旗下，孙悟空追黄袍怪而至",
+      "introduced_at": 67,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 67,
+            "end": 67
+          }
+        ],
+        "revealed_at": 67,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "黄袍怪从云头落入一片黑沉沉的山谷，孙悟空紧追而至。黄袍怪指出此处已非宝象国，而是遍野聚满百万群妖、共举「齐天大圣」大旗的山谷，大鹏王就站在旗下。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0149/index.json",
+              "record_id": "char-0149"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "齐天大圣旗下百万妖众"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-01",
+          "claim-02",
+          "claim-03",
+          "claim-04",
+          "claim-10"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-01",
+          "claim-03"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-04"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "金角银角向大鹏王呈交装有猪八戒、沙和尚、唐玄奘的葫芦与玉净瓶",
+      "introduced_at": 67,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 67,
+            "end": 67
+          }
+        ],
+        "revealed_at": 67,
+        "status": "reported",
+        "story_time": null,
+        "summary": "金角、银角来到大鹏王身后，呈上手中的葫芦与玉净瓶，声称猪八戒、沙和尚、唐玄奘全收在里面；金角称只要抓住对方心事便能收服，大鹏王拈着二物露出狂喜笑容。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0102/index.json",
+              "record_id": "char-0102"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0157/index.json",
+              "record_id": "char-0157"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-05",
+          "claim-06"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-05"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "大鹏王当众清算孙悟空：群妖喊杀、老妖质问、孙悟空与大鹏王交战",
+      "introduced_at": 67,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 67,
+            "end": 67
+          }
+        ],
+        "revealed_at": 67,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "大鹏王指责孙悟空一路杀妖、连结拜兄弟也杀，要与其清算；群妖与牛魔王帐下妖众喊杀，孙悟空大吼邀战而百万妖众默立。金角两次拦下要出手的大鹏王，一只谷底老妖跳出发问并念叨旧日口号，随后直飞出去口吐鲜血，金角借此指其「无情无义」。大鹏王展翅宣战，二人战在一处，天界众神探头观看并小声喊杀。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0102/index.json",
+              "record_id": "char-0102"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "谷底老妖"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "托塔天王"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "齐天大圣旗下百万妖众"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0037/index.json",
+              "record_id": "char-0037"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-07",
+          "claim-08",
+          "claim-09",
+          "claim-11",
+          "claim-12",
+          "claim-13",
+          "claim-14",
+          "claim-15",
+          "claim-16",
+          "claim-17",
+          "claim-18",
+          "claim-19",
+          "claim-20",
+          "claim-21",
+          "claim-22",
+          "claim-23",
+          "claim-24",
+          "claim-25"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-08"
+        ],
+        "action_claim_local_ids": [
+          "claim-11",
+          "claim-15",
+          "claim-20",
+          "claim-25"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-12",
+          "claim-24"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "黄袍怪拦阻金角银角，被银角以玉净瓶摄入循环天宫幻境",
+      "introduced_at": 67,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 67,
+            "end": 67
+          }
+        ],
+        "revealed_at": 67,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "金角银角欲持紫金葫芦与玉净瓶纵身上天时，黄袍怪拦在二人面前并点破那是老君的宝贝。金角称其为「奎木郎」「天界的叛徒」；银角举玉净瓶唤「黄袍怪……不，奎木郎」，黄袍怪应「在」后，眼前一片光华，遂置身玉栏白云、身着锦绣神袍，成为天上星辰。幻境中场景循环不出去，他见到捧空气当琉璃碗的卷帘大将、对着看不见的「阿月」说话的天蓬，以及自称「如来座下二弟子金蝉」的黄衣僧人，后者称此处是西天、称天蓬与沙僧「已得道」并在「玩过家家」，最后说自己在等一个人，邀他一起坐下等。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0149/index.json",
+              "record_id": "char-0149"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0102/index.json",
+              "record_id": "char-0102"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0157/index.json",
+              "record_id": "char-0157"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "卷帘大将"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "金蝉"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-26",
+          "claim-27",
+          "claim-28",
+          "claim-29",
+          "claim-30",
+          "claim-31",
+          "claim-32",
+          "claim-33",
+          "claim-34"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-28"
+        ],
+        "action_claim_local_ids": [
+          "claim-26",
+          "claim-28"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-29",
+          "claim-30",
+          "claim-33",
+          "claim-34"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-01",
+      "text": "黄袍怪自云头落下，孙悟空紧追而至，挥棒指向黄袍怪追问其要逃到何时。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "看你逃到何时？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-02",
+      "text": "黄袍怪对孙悟空说：若是当年，他根本没有逃的机会；可现在再也不是齐天大圣的时代了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "再也不是齐天大圣的时代了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-03",
+      "text": "黄袍怪回身指向落处，那里已不是宝象国，而是一片黑沉沉的山谷。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "落下的地方已不是宝象国"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-04",
+      "text": "山谷遍野聚满群妖，数目约百万，共聚在一面写有「齐天大圣」四字的大旗之下，大鹏王就站在这面旗下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "大鹏王就站在这面旗下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-05",
+      "text": "金角、银角走到大鹏王身后，呈上手中的葫芦和玉净瓶，称猪八戒、沙和尚、唐玄奘全收在里面。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "全收在里面了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-06",
+      "text": "金角说，只要抓住对方的心事，自然就能收服他们。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "只要你能抓住他们的心事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-07",
+      "text": "遍山群妖窃窃私议，议论孙悟空是否就是当年大闹天宫的那一位。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "齐天大圣旗下百万妖众"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "当年大闹天宫的孙悟空么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-08",
+      "text": "大鹏王跳到山谷间向孙悟空喊话，称其一路杀了多少妖精、连结拜的兄弟也杀了，这笔账今天要与他清算。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "连结拜的兄弟你也杀了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-09",
+      "text": "牛魔王帐下的群妖高喊「杀了这个妖族的败类，为牛魔王报仇」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "牛魔王帐下群妖"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "为牛魔王报仇"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-10",
+      "text": "群妖喊杀时，远处群山保持静默，那里有许多老妖是当年花果山与天庭大战的参与者。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "但远处群山都静默"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-11",
+      "text": "孙悟空反问「杀我？」，握紧金箍棒大吼「你们全都来啊！」「来杀我啊。为什么不动？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "来杀我啊。为什么不动？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-12",
+      "text": "孙悟空大吼之后，百万妖众默默看着他，眼神中露着复杂的光芒，无一人上前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "百万妖众都默默看着他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-13",
+      "text": "金角先后两次拦住想要出手的大鹏王，令其暂不动手。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "被金角拦住了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-14",
+      "text": "金角拦阻大鹏王时说「还不到时候」，又说「沉住气」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "还不到时候"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-15",
+      "text": "一只老妖跳到谷底，向孙悟空发问「大圣，大圣忘了我们了么？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "谷底老妖"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "大圣，大圣忘了我们了么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-16",
+      "text": "该老妖称如今百万妖众又聚，只要孙悟空一声令下，他们就能杀上天界、推翻天庭，并愿跟随他直到战死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "谷底老妖"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "只要你一声令下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-17",
+      "text": "孙悟空冷笑一声转过头去，回答「我不知道你在说什么」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "我不知道你在说什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-18",
+      "text": "老妖大声念「只因心高嫌地窄，立心端要破瑶天！」，并转述当年有人对他们说过「若天压我，劈开那天，若地拘我，踏碎那地，我等生来自由身，谁敢高高在上？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "谷底老妖"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "只因心高嫌地窄"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-19",
+      "text": "孙悟空狂笑，说「竟有人这般说么？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "竟有人这般说么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-20",
+      "text": "老妖忽然直飞出去，口吐鲜血。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "忽然老妖直飞了出去，口吐鲜血"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-21",
+      "text": "金角一步上前大喊，指孙悟空连当年跟随他的手下也杀，「真是无情无义」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "真是无情无义"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-22",
+      "text": "孙悟空开口辩解「我没……」，话未说完。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "我没……"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-23",
+      "text": "大鹏王展翅而起，巨大翅膀的阴影掠过群妖头顶落在山谷中，对孙悟空说「你不再是我们的兄弟了，你受死吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "你不再是我们的兄弟了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-24",
+      "text": "天界翻起云涛，众神探头观看并小声跟着喊「杀」，托塔天王瞪了他们一眼出言制止。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "你们是神仙啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-25",
+      "text": "孙悟空与大鹏王战在一处，碰撞气浪卷起滚滚烟尘、蹿上云头，云涛随之耸立又崩碎。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "孙悟空与大鹏战在一处"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-26",
+      "text": "黄袍怪拦在金角银角面前，笑着问二位童子可好，并指出那宝贝是老君的，追问是否趁老君瞌睡偷来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "这不是老君的宝贝"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-27",
+      "text": "金角称黄袍怪为「奎木郎」，骂他是「天界的叛徒」，称眼下没空追究，要他让道。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "你这天界的叛徒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-28",
+      "text": "银角将玉净瓶一举，唤「黄袍怪……不，奎木郎」，黄袍怪想了想后应了一声「在」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0157/index.json",
+        "record_id": "char-0157"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "黄袍怪……不，奎木郎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-29",
+      "text": "炫目光华过后，黄袍怪发现自己站在玉栏白云之中，穿着锦绣神袍，成为了那个英俊的天上星辰。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "穿着锦绣神袍"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-30",
+      "text": "他所处的天宫场景不断循环，走了很久仍找不到原本熟悉的宫阙，仿佛一直是同样的场景走不完。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "仿佛一直是同样的场景循环走不完"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-31",
+      "text": "他在幻境中看见卷帘大将坐在地上，小心捧起空气当作琉璃碗安放，自称没有人走这个门，因此没有帘子可卷。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "别碰坏了我的琉璃碗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-32",
+      "text": "幻境中天蓬对身边并不存在的「阿月」柔声说话，称奎木郎为「星官」，并邀阿月去玉水桥。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "阿月，我们去玉水桥那边吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-33",
+      "text": "黄衣僧人否认自己是唐僧，自称「如来座下二弟子金蝉」，称此处便是西天；被问及天蓬与沙僧成佛后在做什么时，答「在玩过家家」，并称他们已得道。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "金蝉"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "在下是如来座下二弟子金蝉是也"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-34",
+      "text": "该僧人讲述人生如梦幻、所得终将失去，称「所以我在等一个人」，并邀黄袍怪坐下一起等。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "金蝉"
+      },
+      "revealed_at": 67,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000067.txt",
+          "chapter_id": "ch-000067",
+          "chapter_order": 67,
+          "locator": null,
+          "anchor": "所以我在等一个人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "卷帘大将",
+      "introduced_at": 67,
+      "alias_texts": [
+        "卷帘大将"
+      ],
+      "identity_notes": "仅在黄袍怪所经历的幻境中出现：坐在地上认真看守看不见的「琉璃碗」，背后一扇门却无帘可卷。幻境后段叙述以「天蓬与沙僧」指称与天蓬并列的此人，与既有沙僧/沙悟净是否为同一人当章未明示，需后续核实。",
+      "evidence_claim_local_ids": [
+        "claim-31",
+        "claim-32"
+      ]
+    },
+    {
+      "label": "金蝉",
+      "introduced_at": 67,
+      "alias_texts": [
+        "金蝉",
+        "如来座下二弟子金蝉"
+      ],
+      "identity_notes": "幻境中出现的黄衣僧人，身罩圣光、面带庄严法相，自称是如来座下二弟子金蝉、称此处是西天；黄袍怪当面称其「唐僧」「死老虎，又装」。是否即唐僧本人当章未明示（幻境内容，且被其本人否认）。",
+      "evidence_claim_local_ids": [
+        "claim-33",
+        "claim-34"
+      ]
+    },
+    {
+      "label": "谷底老妖",
+      "introduced_at": 67,
+      "alias_texts": [
+        "老妖"
+      ],
+      "identity_notes": "狮驼岭山谷中跳下谷底质问孙悟空的老年妖众，自称当年曾随孙悟空、念出「只因心高嫌地窄」等旧日话语，随后直飞出去口吐鲜血；其被打飞的原因当章未直接叙述。",
+      "evidence_claim_local_ids": [
+        "claim-15",
+        "claim-16",
+        "claim-18",
+        "claim-20"
+      ]
+    },
+    {
+      "label": "托塔天王",
+      "introduced_at": 67,
+      "alias_texts": [
+        "托塔天王"
+      ],
+      "identity_notes": "天界神将，在众神探头观看孙悟空与大鹏王之战时出言制止神仙们跟着喊杀。",
+      "evidence_claim_local_ids": [
+        "claim-24"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "齐天大圣旗下百万妖众",
+      "introduced_at": 67,
+      "notes": "聚于狮驼岭黑谷、共举「齐天大圣」大旗的群妖，约百万之众，大鹏王立于旗下；其中大鹏王帐下小妖高喊杀孙悟空，牛魔王帐下群妖喊「为牛魔王报仇」，远处群山的老妖（当年花果山与天庭大战参与者）保持静默。",
+      "evidence_claim_local_ids": [
+        "claim-04",
+        "claim-07",
+        "claim-09",
+        "claim-10"
+      ],
+      "certainty": "explicit"
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "狮驼岭",
+      "category": "location",
+      "introduced_at": 67,
+      "notes": "黄袍怪逃落之处，已非宝象国；为一片黑沉沉的山谷，因遍野聚满群妖而发黑，谷中竖起写有「齐天大圣」四字的大旗。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-03",
+        "claim-04"
+      ]
+    },
+    {
+      "label": "紫金葫芦与玉净瓶",
+      "category": "artifact",
+      "introduced_at": 67,
+      "notes": "金角银角手中所持的两件宝物，据二人称已将猪八戒、沙和尚、唐玄奘收入其中；黄袍怪认出是「老君的宝贝」；银角以玉净瓶呼唤名字即令黄袍怪陷身幻境。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-05",
+        "claim-26",
+        "claim-28",
+        "claim-29"
+      ]
+    },
+    {
+      "label": "循环天宫幻境",
+      "category": "illusion",
+      "introduced_at": 67,
+      "notes": "银角以玉净瓶唤名后黄袍怪所处境地：玉栏白云、锦绣神袍、终年不断的乐曲，场景不断循环走不出去；其中有卷帘大将、对空说话的阿月与天蓬、以及自称金蝉的黄衣僧人。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-29",
+        "claim-30",
+        "claim-31",
+        "claim-32",
+        "claim-33"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "subject_b": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "link_type": "same_person_suspected",
+      "certainty": "reported",
+      "summary": "金角当面称黄袍怪为「奎木郎」并骂其「天界的叛徒」；银角举玉净瓶唤「黄袍怪……不，奎木郎」，黄袍怪应「在」，随后被摄入幻境成为天上星辰。文本叙述在幻境段落也统一以「奎木郎」称此视角人物。",
+      "source_claim_local_ids": [
+        "claim-27",
+        "claim-28",
+        "claim-29"
+      ],
+      "notes": "仅为候选：本章由角色口中明确指出，且叙述随即以奎木郎称之，但未做档案合并；两个既有实体（char-0149 黄袍怪、char-0107 奎木郎）需下游核对后决定是否合并。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "卷帘大将"
+      },
+      "subject_b": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "link_type": "same_person_suspected",
+      "certainty": "uncertain",
+      "summary": "幻境中黄袍怪看见「卷帘大将」捧空气当琉璃碗、看守一扇无帘的门；此后同一段叙述以「天蓬与沙僧」指称这两名旧识形象。",
+      "source_claim_local_ids": [
+        "claim-31",
+        "claim-32"
+      ],
+      "notes": "依据为幻境叙述的指称转换，且幻境内容属虚构场景，不排除仅为幻象化身，不做合并。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "金蝉"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "link_type": "same_person_suspected",
+      "certainty": "uncertain",
+      "summary": "幻境中的黄衣僧人自称「如来座下二弟子金蝉」，黄袍怪反问「唐僧？」并说「死老虎，又装」，僧人否认自己是唐僧。",
+      "source_claim_local_ids": [
+        "claim-33",
+        "claim-34"
+      ],
+      "notes": "角色自我否认与黄袍怪的认定冲突，且处幻境，保持候选不合并。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "大鹏王当众指责孙悟空杀妖、杀结拜兄弟，宣称「你不再是我们的兄弟了，你受死吧」，随后二人战在一处。",
+      "source_claim_local_ids": [
+        "claim-08",
+        "claim-23",
+        "claim-25"
+      ],
+      "notes": "此前是否存在兄弟/结义关系，当章仅由大鹏王口头提出。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "subject_b": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "黄袍怪拦住金角银角并点破其手中是老君宝贝；金角骂其「天界的叛徒」，银角以玉净瓶唤名将其摄入幻境。",
+      "source_claim_local_ids": [
+        "claim-26",
+        "claim-27",
+        "claim-28"
+      ],
+      "notes": "金角、银角为二人一组行动，本章叙述多为一并，故仅登记与金角的一对并注明银角参与。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "齐天大圣旗下百万妖众"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "群妖认出孙悟空是当年大闹天宫者，谷底老妖请他率众杀上天界、愿随之战死；孙悟空否认并称不知对方在说什么，百万妖众只是默默看他，无人上前。",
+      "source_claim_local_ids": [
+        "claim-07",
+        "claim-11",
+        "claim-12",
+        "claim-15",
+        "claim-16",
+        "claim-17"
+      ],
+      "notes": "互动事实：旧部期待与孙悟空否认之间的落差，不做感情或立场定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "幻境中天蓬见了奎木郎点头招呼，称其「星官」，并问其今天没去当值。",
+      "source_claim_local_ids": [
+        "claim-32"
+      ],
+      "notes": "发生于幻境之内，现实对应关系待核实。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "local_id": "thread-local-1",
+      "category": "identity_reveal",
+      "status": "advanced",
+      "role": "primary",
+      "summary": "黄袍怪被金角、银角当面称作「奎木郎」「天界的叛徒」，并被玉净瓶唤名后化为天界星辰模样，其天界星官身份在本章被角色点明。",
+      "source_claim_local_ids": [
+        "claim-27",
+        "claim-28",
+        "claim-29"
+      ],
+      "notes": "档案层面仍为候选关联，未合并实体。"
+    },
+    {
+      "local_id": "thread-local-2",
+      "category": "conflict",
+      "status": "advanced",
+      "role": "primary",
+      "summary": "狮驼岭百万妖众聚于「齐天大圣」旗下，大鹏王借「杀妖、杀结拜兄弟」之名与孙悟空清算，群妖喊杀而孙悟空与大鹏王开战。",
+      "source_claim_local_ids": [
+        "claim-04",
+        "claim-08",
+        "claim-11",
+        "claim-23",
+        "claim-25"
+      ],
+      "notes": "阶段「群妖聚啸」的收束章节点。"
+    },
+    {
+      "local_id": "thread-local-3",
+      "category": "captivity",
+      "status": "ongoing",
+      "role": "primary",
+      "summary": "金角银角声称已用葫芦与玉净瓶收走猪八戒、沙和尚、唐玄奘三人并将二物呈给大鹏王，三人被困状态在本章延续。",
+      "source_claim_local_ids": [
+        "claim-05",
+        "claim-06"
+      ],
+      "notes": "仅在角色口述中确认，未见三人现状画面。"
+    },
+    {
+      "local_id": "thread-local-4",
+      "category": "mystery",
+      "status": "ongoing",
+      "role": "secondary",
+      "summary": "幻境中自称金蝉的黄衣僧人（被黄袍怪称唐僧）称此处是西天、称天蓬与沙僧已「得道」在玩过家家，并说自己「在等一个人」，邀请黄袍怪坐下同这等待。",
+      "source_claim_local_ids": [
+        "claim-33",
+        "claim-34"
+      ],
+      "notes": "全段发生于幻境，真实含义未明。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第67章：狮驼岭",
+    "front_matter": {
+      "as_of": 67,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        },
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        },
+        {
+          "path": "characters/char-0102/index.json",
+          "record_id": "char-0102"
+        },
+        {
+          "path": "characters/char-0157/index.json",
+          "record_id": "char-0157"
+        },
+        {
+          "candidate_name": "谷底老妖"
+        },
+        {
+          "candidate_name": "卷帘大将"
+        },
+        {
+          "candidate_name": "金蝉"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-04",
+        "claim-05",
+        "claim-27",
+        "claim-28",
+        "claim-33",
+        "claim-34"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n黄袍怪从云头落下，孙悟空紧追而至，挥棒追问他要逃到何时。黄袍怪笑称「若是当年，我根本没有逃的机会。可是现在……再也不是齐天大圣的时代了」，随后回身一指——落点已不是宝象国，而是一片黑沉沉的山谷：遍野聚满群妖，约百万之众，共聚在一面写有「齐天大圣」的大旗之下，大鹏王就站在旗前（[[claim-04]]）。\n\n## 关键行动\n\n- 金角、银角走到大鹏王身后，呈上葫芦与玉净瓶，称猪八戒、沙和尚、唐玄奘「全收在里面了」；金角并称只要抓住对方心事便能收服（[[claim-05]]）。\n- 大鹏王当众向孙悟空喊话，指其一路上杀妖、连结拜兄弟也杀，这笔账要今天清算；牛魔王帐下群妖高喊「杀了这个妖族的败类，为牛魔王报仇」，而远处群山的老妖们（当年花果山与天庭大战的参与者）保持静默。\n- 孙悟空反问「杀我？」，握紧金箍棒大吼「你们全都来啊」「来杀我啊。为什么不动？」，百万妖众只是默默看他，无人上前。\n- 金角两次拦下欲出手的大鹏王（「还不到时候」「沉住气」）。一只谷底老妖跳出质问「大圣忘了我们了么」，请他率领妖众杀上天界、推翻天庭，并念出「只因心高嫌地窄，立心端要破瑶天」等旧日话语；孙悟空答「我不知道你在说什么」，狂笑「竟有人这般说么？」。老妖随即直飞出去、口吐鲜血，金角借此指孙悟空连跟随他的手下也杀，孙悟空辩解「我没……」。\n- 大鹏王展翅落地宣战，孙悟空与其战在一处，气浪烟尘、云涛随二人飞纵耸立崩碎；天界众神探头观看并小声跟着喊杀，托塔天王出言制止。\n- 金角银角欲持紫金葫芦与玉净瓶纵身上天时，黄袍怪拦在前面点破那是老君的宝贝；金角骂其「天界的叛徒」（[[claim-27]]），银角举玉净瓶唤「黄袍怪……不，奎木郎」，黄袍怪应「在」（[[claim-28]]）。\n\n## 转折与新信息\n\n- 黄袍怪被同为天界出身的金角银角明确指认为「奎木郎」，并在答应唤名后被玉净瓶摄入一片玉栏白云、锦绣神袍的「天界」，成为那个英俊的天上星辰。\n- 该处天宫场景循环走不完，走很久也找不到熟悉的宫阙。他在其中见到：把空气当作「琉璃碗」小心安放的卷帘大将；对身边并不存在的「阿月」柔声说话、并称他为「星官」的天蓬；以及一位黄衣僧人。\n- 黄袍怪称僧人「唐僧」「死老虎，又装」，僧人否认，自称「如来座下二弟子金蝉」，称此处便是西天，说天蓬与沙僧「已得道」，正在「玩过家家」（[[claim-33]]）；并称人生如梦幻、所得终将失去，末了说「所以我在等一个人」，邀他坐下一起等（[[claim-34]]）。\n\n## 本章结果\n\n- 狮驼岭群妖聚啸成形：大旗书「齐天大圣」，众妖推大鹏王出面与孙悟空清算，孙悟空未承认为当年那位「大圣」，只求一战而无人应战。\n- 孙悟空与大鹏王开战，战斗尚未分出结果；天界众神在旁观战。\n- 猪八戒、沙和尚、唐玄奘据金角银角所称已被收在葫芦与玉净瓶内，二物已交到大鹏王手中。\n- 黄袍怪拦阻未成，被玉净瓶唤名后落入循环天宫幻境，与卷帘大将、天蓬和自称金蝉的僧人相对。\n\n## 未决问题与补读入口\n\n- 黄袍怪与奎木郎是否为同一人：本章由角色当面点明，档案层面仍待核实合并。\n- 谷底老妖被击飞、吐血的原因，原文未直接叙述，仅有金角指认孙悟空下手。\n- 幻境中「金蝉」「卷帘大将」「天蓬与阿月」的意义与真实性（僧人所说「在等一个人」指谁）尚未交代。\n- 孙悟空与大鹏王之战的结果、以及被收入法宝的三人如何脱困，需看下一章。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "chapter_order": 67,
+      "note": "狮驼岭百万妖众聚于「齐天大圣」旗下，是本阶段「群妖聚啸」的核心场景证据"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "chapter_order": 67,
+      "note": "三藏师徒三人被收入葫芦玉净瓶并交至大鹏王，为取经受阻的关键节点"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "chapter_order": 67,
+      "note": "大鹏王以「杀结拜兄弟」为名清算孙悟空，孙悟空否认旧日身份，百万妖众默立"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-4",
+      "chapter_order": 67,
+      "note": "黄袍怪被唤名摄入幻境，幻境中现出天界旧人与「等一个人」的僧人"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-27",
+      "chapter_order": 67,
+      "note": "金角当面称黄袍怪为「奎木郎」「天界的叛徒」，身份关联的关键口证"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-28",
+      "chapter_order": 67,
+      "note": "银角以「奎木郎」唤名生效，玉净瓶的能力展示与身份关联的实证"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-33",
+      "chapter_order": 67,
+      "note": "自称如来座下二弟子金蝉的僧人称此处是西天、天蓬与沙僧已得道"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-34",
+      "chapter_order": 67,
+      "note": "「所以我在等一个人」——本阶段收束处留下的核心悬念口证"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章金角、银角当面将黄袍怪指认为「奎木郎」，而档案中黄袍怪（char-0149）与奎木郎（char-0107）为两个独立实体，本章出现直接对接但未合并。",
+      "related_local_ids": [
+        "claim-27",
+        "claim-28"
+      ],
+      "suggested_action": "由 StageCommit 阶段核对 char-0107 与 char-0149 的历史条目后决定是否建立 identity_link"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "谷底老妖忽然直飞出去、口吐鲜血，原文未叙述是何人所为，仅紧接金角指认孙悟空「连当年跟随你的手下也杀」，孙悟空辩解「我没……」，因果链缺乏直接证据。",
+      "related_local_ids": [
+        "claim-20",
+        "claim-21",
+        "claim-22"
+      ],
+      "suggested_action": "标为 uncertain，后续章节若补充再更新"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章原文存在 OCR 残缺乱码片段，如叙述众妖看孙悟空处（「英雄�清���的英��谷底孤独嘶吼」）与幻境对话处（「奎木郎�heig��奎木鬑道」），影响精确引用与指称判定。",
+      "related_local_ids": [
+        "claim-12",
+        "claim-31"
+      ],
+      "suggested_action": "补做该段落的干净文本校对"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "天界众神在旁观战并小声跟着喊杀（含托塔天王的制止），该群体与托塔天王均未建档，且托塔天王未做 resolve_name，可能是既有实体。",
+      "related_local_ids": [
+        "claim-24"
+      ],
+      "suggested_action": "对「托塔天王」补调 resolve_name 后再决定建档或引用"
+    }
+  ],
+  "warnings": [
+    "工具调用已达预算上限（20 次）：未执行 dedupe_claim / dedupe_event / find_similar_relationship，也未对「托塔天王」「卷帘大将」「金蝉」「谷底老妖」调用 resolve_name。new_claims / new_events / relationship_candidates 存在与既有档案（尤其第63—66章金角银角用法宝收人、第61—63章奎木郎出场）重复的风险，需下游去重复核。",
+    "ev-local-2（葫芦玉净瓶呈交大鹏王）内容可能属于本章之前已发生的收人事件在后文的复述，已以 certainty=reported（角色口述）方式登记，未当作本章新发生动作。",
+    "claim-31 与 claim-32 所述内容发生在黄袍怪被玉净瓶唤名后所见的幻境中，按「叙述直接呈现的场景」记为 explicit，但场景本身是否为真实不可断定。",
+    "黄袍怪↔奎木郎、卷帘大将↔沙僧、金蝉↔唐僧三组身份关联仅登记为候选，未合并任何实体引用。",
+    "章标题在原文件中为「．」，本章摘要标题沿用正文首行「狮驼岭」。"
+  ]
+}

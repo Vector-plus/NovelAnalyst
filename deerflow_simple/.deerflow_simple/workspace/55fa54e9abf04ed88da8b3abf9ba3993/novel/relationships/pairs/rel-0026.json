@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0026",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 12,
+  "introduced_at": 12,
+  "subjects": [
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    },
+    {
+      "path": "characters/char-0032/index.json",
+      "record_id": "char-0032"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0026-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "as_of": 12,
+      "revealed_at": 12,
+      "summary": "敖广被小白龙称为「父王」「爹」，他也称她「孩子」，孙悟空则指其为敖广「自己女儿」；敖广拥抱她并落老泪，问她「你终于肯回来了」，求她不要再走。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "kinship",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "敖广被小白龙称为「父王」「爹」，他也称她「孩子」，孙悟空则指其为敖广「自己女儿」；敖广拥抱她并落老泪，问她「你终于肯回来了」，求她不要再走。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0237"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0254"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0255"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

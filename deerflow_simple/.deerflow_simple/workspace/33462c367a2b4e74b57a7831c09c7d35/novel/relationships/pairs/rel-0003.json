@@ -1,0 +1,50 @@
+{
+  "id": "rel-0003",
+  "introduced_at": 1,
+  "kind": "relationship",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 1,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "男篮队员说伊西娅是穆拉德的妻子，两人一同死去",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "kinship"
+        }
+      ],
+      "id": "rel-0003-stage-001",
+      "revealed_at": 1,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "summary": "男篮队员说伊西娅是穆拉德的妻子，两人一同死去",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0006/index.json",
+      "record_id": "char-0006"
+    },
+    {
+      "path": "characters/char-0007/index.json",
+      "record_id": "char-0007"
+    }
+  ]
+}

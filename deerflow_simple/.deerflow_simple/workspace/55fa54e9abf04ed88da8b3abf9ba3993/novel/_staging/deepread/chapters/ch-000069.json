@@ -1,0 +1,1270 @@
+{
+  "chapter_order": 69,
+  "chapter_id": "ch-000069",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-008"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "坠落·斩杀·只余金箍",
+      "introduced_at": 69,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 69,
+            "end": 69
+          }
+        ],
+        "revealed_at": 69,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空从空中坠落在百万妖众面前；大鹏王当众宣布其败、成为「最强的魔王」，随后以巨足踩住孙悟空并以大斧劈下，鲜血溅起。唐僧在等待中叹气询问「孙悟空还没来么」，天地震动，一座大山从天而降；唐僧在山上见一张写有「唵嘛呢叭咪吽」的帖子，笑后开始登山。大鹏王低头再看时，脚下除一个金箍外已空无一物。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "齐天大圣归来：大旗重展与百万妖众欢呼",
+      "introduced_at": 69,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 69,
+            "end": 69
+          }
+        ],
+        "revealed_at": 69,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "大鹏王转身看见风中抖动的「齐天大圣」大旗，脸色发白；高空云层被映成橘红并裂开大口吐出一束红光。孙悟空现身冷冷看着大鹏，大鹏瘫坐发问并倒下。孙悟空走到百万妖军面前，一老妖泣喊「齐天大圣」，众妖随之欢呼，大旗在风中哗哗作响。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0157/index.json",
+              "record_id": "char-0157"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-21"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-1"
+          },
+          {
+            "local_id": "ev-local-3"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "白晶晶化出原形消散",
+      "introduced_at": 69,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 69,
+            "end": 69
+          }
+        ],
+        "revealed_at": 69,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "白晶晶夹在妖众中高喊，自觉看见了「幸福」而哭泣；她问孙悟空「一切都结束了吧」「从此可以不用再去西游了」，孙悟空对她笑笑。随后她倒地化出原形，被风吹散。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-26"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-27"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "观音现身点名三妖来历，孙悟空放其离去",
+      "introduced_at": 69,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 69,
+            "end": 69
+          }
+        ],
+        "revealed_at": 69,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "孙悟空收起金箍棒，拾起地上的金箍端详。观音出现在天空，说金角银角本是兜率宫的看炉童子、大鹏本是佛祖座前的雕塑，话说未尽；孙悟空未看她，挥手说「带走吧」。金角、银角、大鹏连滚带爬地向云头而去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0102/index.json",
+              "record_id": "char-0102"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0157/index.json",
+              "record_id": "char-0157"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-29"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-30"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-31"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "师徒再启程",
+      "introduced_at": 69,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 69,
+            "end": 69
+          }
+        ],
+        "revealed_at": 69,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "唐僧坐在树林里看蚂蚁在光斑间建造国度；孙悟空走来唤「师父，走吧」，唐僧说想再看一会儿那片「极乐土」，随后答应动身。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-33"
+        ],
+        "action_claim_local_ids": [],
+        "outcome_claim_local_ids": [
+          "claim-local-34"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-4"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "百万妖众只听天空一声高喊，孙悟空从天空坠了下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "孙悟空从天空坠了下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "章首出现一句对话体评断：“你已经不再是从前的孙悟空了。你已不知道要为什么而战斗。”原文未标明说话者。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "你已经不再是从前的孙悟空了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "大鹏王回头对百万妖众宣称：“他败了！我才是最强的魔王！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "他败了！我才是最强的魔王！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "百万妖众无声无息；叙述称这种气氛让大鹏有些不安。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空倒在地上，口中的血狂喷出来；大鹏王将巨足踩在孙悟空身上，大斧劈下，鲜血哗地溅起。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "将巨足踩在孙悟空的身上，大斧劈了下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "大鹏王说“认输吧”，决心结束这一切。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧在漫长的等待中叹气说：“孙悟空还没来么？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "天地猛烈震动，一座大山从天而降，所有人都望向那个方向。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "唐僧走到山前，仰头看见山顶有一张写有“唵嘛呢叭咪吽”的帖子，笑了一笑后开始向山上爬。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "唵嘛呢叭咪吽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "大鹏王低头查看时，脚下除了一个金箍，已什么也没有。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "他脚下除了一个金箍，已什么也没有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "大鹏王转身看见在风中抖动的大旗，上面写着“齐——天——大——圣”，脸色忽然就白了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "是那面抖动的大旗：“齐——天——大——圣。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "高空中的云被映成橘红，红光沿云层裂缝向四方流去，云层绽开一个大裂口，一束红光从里面吐了出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "银角牙齿打战地说：“打雷了，下雨收衣服了。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0157/index.json",
+        "record_id": "char-0157"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "打雷了，下雨收衣服了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "大鹏王歇斯底里地揪住银角乱晃质问，随后丢下他，对着天空狂叫：“不——！”",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空站在那儿冷冷看着大鹏王，叙述称其眼神“是一道电光，穿过了记忆与历史”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "孙悟空就那样站在那儿，冷冷看着他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "大鹏王脚软坐在地上，说“……你回来了，太好了，还记得我们当年一齐畅饮么……”，又说“你杀了牛魔王，现在还要杀死我么？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "你杀了牛魔王，现在还要杀死我么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空看着手中拿着一个木杯的大鹏王说：“好酒，好朋友，现在都没有了。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "好酒，好朋友，现在都没有了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空抬头问大鹏王：“五百年前，那只飞到如来宝座前的大鹏，是谁？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "那只飞到如来宝座前的大鹏，是谁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "大鹏王一下倒在了地上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "大鹏王一下倒在了地上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空从大鹏王身边走过，走到百万妖军的面前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空伸手抚那旗杆，仰头望向“齐天大圣”大旗。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "一老妖泣不成声振臂大喊“齐天大圣！”，众妖随之欢呼“齐天大圣！齐天大圣！”",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "“齐天大圣！齐天大圣！”众妖欢呼道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "叙述称许多老妖想起当年誓师向天庭的一幕而不由身子颤抖，新生的妖睁大眼睛看着这个被前辈反复提及的妖王；大鹏王明白什么叫不可战胜，已没有站起来的力气。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "白晶晶夹在人群中高喊，哭泣，叙述称她觉得自己知道了什么叫幸福。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "白晶晶问孙悟空：“一切都结束了吧”“从此可以不用再去西游了。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "从此可以不用再去西游了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "孙悟空对白晶晶笑笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "白晶晶说完“原来，是这么美的。”后笑着倒在地上，化出了原形，被风吹散了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "化出了原形，被风吹散了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "孙悟空收起金箍棒，看见地上的金箍，把它捡起拿在手中端详，金箍在阳光下闪闪发光。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "他看见了地上的金箍，把它捡起拿在手中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "观音出现在天空说：“孙悟空，那金角银角本是兜率宫的看炉童子，那大鹏本是佛祖座前的雕塑，这个……这个……”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "那金角银角本是兜率宫的看炉童子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "孙悟空不看观音，一挥手说：“带走吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "“带走吧。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "金角、银角、大鹏连滚带爬地向云头而去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "金角、银角、大鹏连滚带爬地向云头而去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "唐僧坐在树林里，阳光从树叶间照下，他看着蚂蚁在一块块光斑间建造国度。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "孙悟空走到唐僧处说：“师父，走吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "“师父，走吧。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "唐僧说“多好的极乐土啊，我想再看一会儿”，随后应“好，走”，二人动身。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 69,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000069.txt",
+          "chapter_id": "ch-000069",
+          "chapter_order": 69,
+          "locator": null,
+          "anchor": "多好的极乐土啊，我想再看一会儿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "写有“唵嘛呢叭咪吽”的山顶帖子",
+      "category": "item",
+      "introduced_at": 69,
+      "notes": "大山从天而降后出现在山顶的帖子，唐僧仰头望见其上六字真言后开始登山。原文未说明此山是否即第68章压下孙悟空的五行山。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "candidate_identity_label": "佛祖座前的雕塑",
+      "relation_kind": "origin_identity",
+      "certainty": "reported",
+      "statement": "观音称大鹏本是佛祖座前的雕塑。",
+      "evidence_claim_local_ids": [
+        "claim-local-29"
+      ],
+      "notes": "角色说法，未经旁证；不得当作已确认的来历。"
+    },
+    {
+      "subject_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "candidate_identity_label": "兜率宫的看炉童子",
+      "relation_kind": "origin_identity",
+      "certainty": "reported",
+      "statement": "观音称金角银角本是兜率宫的看炉童子。",
+      "evidence_claim_local_ids": [
+        "claim-local-29"
+      ],
+      "notes": "角色说法；金角建档于第36章、银角建档于第63章，是否同一对童子需在后续章节核对。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "本章为战斗终局：大鹏踩身劈斧、孙悟空冷冷注视、大鹏瘫倒"
+      },
+      "certainty": "explicit",
+      "summary": "大鹏王击败并斩杀坠落的孙悟空后自任最强魔王；随后孙悟空现身，大鹏质问「你杀了牛魔王，现在还要杀死我么」并倒地；最终大鹏随观音离去。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-16",
+        "claim-local-19",
+        "claim-local-31"
+      ],
+      "notes": "另有口头信息：大鹏自称当年曾与孙悟空「一齐畅饮」（reported），孙悟空反问五百年前飞到如来宝座前的大鹏是谁。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅记录互动事实，不作情感定性"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶在人群中为孙悟空欢呼；她问「一切都结束了吧」「从此可以不用再去西游了」，孙悟空对她笑笑；随后她化出原形被风吹散。",
+      "source_claim_local_ids": [
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27"
+      ],
+      "notes": "未调用 find_similar_relationship 的成对核查（工具预算已超），此处按新候选提交，后续可与既有关系对合并。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "identity_revelation",
+      "status": "advanced",
+      "role": "climax",
+      "label": "孙悟空「齐天大圣」身份在百万妖众前重新确立",
+      "summary": "金箍遗留在地、大旗重展、众妖重呼「齐天大圣」，大鹏王彻底崩溃。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-22",
+        "claim-local-23"
+      ],
+      "chapter_order": 69
+    },
+    {
+      "category": "character_fate",
+      "status": "closed",
+      "role": "outcome",
+      "label": "白晶晶终局：化出原形消散",
+      "summary": "白晶晶在看到「这一刻」后倒地化形，被风吹散。",
+      "source_claim_local_ids": [
+        "claim-local-27"
+      ],
+      "chapter_order": 69
+    },
+    {
+      "category": "antagonist_disposal",
+      "status": "closed",
+      "role": "outcome",
+      "label": "金角、银角、大鹏被观音带离狮驼岭",
+      "summary": "观音点名三妖来历，孙悟空只说「带走吧」，三妖遁向云头。",
+      "source_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31"
+      ],
+      "chapter_order": 69
+    },
+    {
+      "category": "journey_progress",
+      "status": "advanced",
+      "role": "setup",
+      "label": "师徒二人重新上路",
+      "summary": "孙悟空唤「师父，走吧」，唐僧应允后动身，西行继续。",
+      "source_claim_local_ids": [
+        "claim-local-33",
+        "claim-local-34"
+      ],
+      "chapter_order": 69
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第69章：齐天大圣归来",
+    "front_matter": {
+      "as_of": 69,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-008"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        },
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0102/index.json",
+          "record_id": "char-0102"
+        },
+        {
+          "path": "characters/char-0157/index.json",
+          "record_id": "char-0157"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "claim-local-2",
+        "claim-local-10",
+        "claim-local-22",
+        "claim-local-27",
+        "claim-local-29",
+        "claim-local-33"
+      ]
+    },
+    "body_markdown": "## 开始局面\n孙悟空自空中坠落到百万妖众面前（[[claim-local-1]]）。章首即有一句未标明说话者的评断：“你已经不再是从前的孙悟空了。你已不知道要为什么而战斗。”（[[claim-local-2]]）大鹏王回头对妖众宣称“他败了！我才是最强的魔王”，妖众无声无息，叙述称这气氛让大鹏不安（[[ev-local-1]]）。\n\n## 关键行动\n大鹏王说“认输吧”，将巨足踩在孙悟空的身上、以大斧劈下，鲜血溅起（[[ev-local-1]]）。另一侧，唐僧在久等中叹气问“孙悟空还没来么”；天地猛烈震动，一座大山从天而降，唐僧走到山前，见山顶一张帖子写着“唵嘛呢叭咪吽”，笑了之后开始向山上爬（[[ev-local-1]]）。\n\n## 转折与新信息\n大鹏王低头时，脚下除了一个金箍已什么也没有（[[claim-local-10]]）。他转身看见风中抖动的“齐天大圣”大旗，脸色发白；高空云层被映成橘红并裂开大口，吐出一束红光。银角牙齿打战地说“打雷了，下雨收衣服了”，大鹏揪住他乱晃后对天狂叫（[[ev-local-2]]）。\n孙悟空现身冷冷看着大鹏；大鹏瘫坐，说“你回来了，太好了，还记得我们当年一齐畅饮么”“你杀了牛魔王，现在还要杀死我么”，孙悟空答“好酒，好朋友，现在都没有了”，并反问“五百年前，那只飞到如来宝座前的大鹏，是谁？”，大鹏随即倒在地上（[[ev-local-2]]）。孙悟空走到百万妖军面前，抚旗杆仰望大旗，一老妖泣喊“齐天大圣”，众妖随之欢呼（[[claim-local-22]]）。\n\n## 本章结果\n白晶晶在人群里高喊、哭泣，问孙悟空“一切都结束了吧”“从此可以不用再去西游了”，孙悟空对她笑笑；她随后倒地化出原形，被风吹散（[[claim-local-27]]）。\n孙悟空收起金箍棒，拾起地上的金箍端详。观音出现在天空，说金角银角本是兜率宫的看炉童子、大鹏本是佛祖座前的雕塑，话说未尽（[[claim-local-29]]）；孙悟空不看观音，挥手说“带走吧”，金角、银角、大鹏连滚带爬地向云头而去（[[ev-local-4]]）。\n最后，唐僧坐在树林里看蚂蚁在光斑间建造国度；孙悟空走来唤“师父，走吧”（[[claim-local-33]]），唐僧说想再看一会儿这片“极乐土”，随后应“好，走”，二人动身（[[ev-local-5]]）。\n\n## 未决问题与补读入口\n- 章首那句评断出自谁口，原文未标明，见 issue 记录。\n- 坠落并被大斧劈杀者与随后现身者之间的衔接仅由“脚下只剩一个金箍”完成，原文未以叙述明示二者关系。\n- 本章“从天而降的大山”与第68章压下孙悟空的五行山是否为同一座，原文未说明（补读 ch-000068）。\n- 观音称三妖来历属角色说法（兜率宫看炉童子、佛祖座前雕塑），未获旁证；金角第36章即已建档、银角第63章建档，是否同一对需后续核对。\n- 白晶晶化形消散后是否仍有后续（白骨洞相关线索）待后续章节确认。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 69,
+      "note": "stage-008 标题事件「齐天大圣归来」的落点：大旗重展、众妖重呼其名、大鹏崩溃。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 69,
+      "note": "白晶晶终局：化出原形被风吹散。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-4",
+      "chapter_order": 69,
+      "note": "狮驼岭三妖处置：观音现身点名来历，孙悟空放行。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-10",
+      "chapter_order": 69,
+      "note": "金箍遗落的叙述事实，是坠落者与归来者之间的唯一衔接点，对身份线判定有证据价值。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-29",
+      "chapter_order": 69,
+      "note": "观音对金角银角与大鹏来历的说法（reported），供势力/出身线回溯。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-33",
+      "chapter_order": 69,
+      "note": "师徒关系互动事实：孙悟空主动唤「师父，走吧」。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "note": "章首评断“你已经不再是从前的孙悟空了。你已不知道要为什么而战斗。”以对话形式出现，但原文未标明说话者，无法归因。",
+      "related_claim_local_ids": [
+        "claim-local-2"
+      ],
+      "chapter_order": 69
+    },
+    {
+      "category": "identity_ambiguity",
+      "note": "坠落并被大鹏以大斧劈杀的“孙悟空”与随后自云层裂口现身、被众妖称“齐天大圣”的“孙悟空”之间，原文叙述未明示同一性或转换过程，仅以“脚下除了一个金箍，已什么也没有”衔接。",
+      "related_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-15",
+        "claim-local-28"
+      ],
+      "chapter_order": 69
+    },
+    {
+      "category": "source_locator",
+      "note": "本章原文含多处字符损坏（如“大鹏王慢慃结/b>\\u200b王慢\\ufffd抬起头”“孙悟空看乷吧\\ufffd\\ufffd\\ufffd空看\\ufffd不看她”），涉及这两个句子的锚点无法可靠截取，已避开该段落取锚。",
+      "chapter_order": 69
+    },
+    {
+      "category": "fact_conflict",
+      "note": "观音称金角银角为“兜率宫的看炉童子”，而金角实体 char-0102 建档于第36章、银角 char-0157 建档于第63章；是否为同一对需核对早期章节。",
+      "related_claim_local_ids": [
+        "claim-local-29"
+      ],
+      "chapter_order": 69
+    }
+  ],
+  "warnings": [
+    "工具调用超出预算（read_source 1 + lookup_stage 1 + read_source_window 1 + resolve_name 8 + fetch_entity_current 6 + dedupe_claim 10 + dedupe_event 2 + find_similar_relationship 2 = 31 次 > 20）。已停止进一步核查，以下内容为未核项。",
+    "未对第68章既有事件做追加式 update：dedupe_event 以“孙悟空与大鹏王决战/坠落”为核心草稿查询返回 no_match，但仍可能存在不同措辞的既存事件（如第68章的“五行山压下孙悟空”），建议 StageCommit 时以 ch-000068 事件列表比对，避免并列重复事件。",
+    "唐僧—孙悟空的关系对未做 find_similar_relationship 核查（预算超限），因此未提交任何新关系候选，仅以 claim 形式记录互动事实。",
+    "dedupe_claim 逐条查询均返回 no_match，但不排除既有 claim 以不同措辞存在（尤其第68章坠落相关陈述）。",
+    "本章“大山从天而降”与第68章的五行山关系未在原文说明，已登记为未决问题，未回填后文认知。",
+    "原文存在字符损坏段落，影响该处原文引用的可靠性。"
+  ]
+}

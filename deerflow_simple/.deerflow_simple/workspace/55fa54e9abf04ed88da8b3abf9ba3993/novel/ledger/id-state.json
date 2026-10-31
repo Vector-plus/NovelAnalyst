@@ -1,0 +1,21 @@
+{
+  "high_watermarks": {
+    "char": 170,
+    "claim": 2612,
+    "emo": 16,
+    "ev": 325,
+    "fac": 0,
+    "issue": 0,
+    "rel": 72,
+    "setting": 236,
+    "thread": 120,
+    "update": 325
+  },
+  "id": "id-state",
+  "kind": "id_state",
+  "novel_id": "wukon",
+  "pending_reservation": null,
+  "revision": 3,
+  "safe_through": 0,
+  "schema_version": "2.0"
+}

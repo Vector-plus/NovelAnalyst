@@ -1,0 +1,21 @@
+{
+  "high_watermarks": {
+    "char": 0,
+    "claim": 0,
+    "emo": 0,
+    "ev": 0,
+    "fac": 0,
+    "issue": 0,
+    "rel": 0,
+    "setting": 0,
+    "thread": 0,
+    "update": 0
+  },
+  "id": "id-state",
+  "kind": "id_state",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "pending_reservation": null,
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0"
+}

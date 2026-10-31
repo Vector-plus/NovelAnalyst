@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0009",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 26,
+  "label": "天蓬—阿月感情阶段：星汉为一人而造",
+  "introduced_at": 19,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 26
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 26
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0009-003",
+      "revealed_at": 26,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/rel-0044.json",
+          "record_id": "rel-0044",
+          "note": "本阶段关系快照 doc-rel-tianpeng-ayue-stage-003"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0009/stages/stage-003.md",
+        "record_id": "doc-emo-0009-stage-003"
+      },
+      "kind": "emotional_stage",
+      "title": "天蓬—阿月感情阶段：星汉为一人而造",
+      "summary": "天蓬—阿月感情阶段：星汉为一人而造（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

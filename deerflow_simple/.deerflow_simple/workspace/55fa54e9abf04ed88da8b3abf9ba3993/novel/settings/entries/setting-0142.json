@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0142",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 26,
+  "label": "诸天殿",
+  "category": "other",
+  "introduced_at": 26,
+  "updates": [
+    {
+      "id": "update-setting-0142-001",
+      "revealed_at": 26,
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1582"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

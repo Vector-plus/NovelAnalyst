@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0001",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "孙悟空赎罪三件事（保唐僧西天、杀四魔王、未知的第三件）",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0001-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "quest",
+      "status": "ongoing",
+      "role": "core",
+      "summary": "孙悟空自述玉帝开恩：完成三件事即赎前罪。本章首次列明前两件——保唐僧上西天、杀四个魔王（牛魔王、鹏魔王、猕猴王、美猴王），第三件事须待前两件完成后由上天告知。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0096"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0097"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0098"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0099"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

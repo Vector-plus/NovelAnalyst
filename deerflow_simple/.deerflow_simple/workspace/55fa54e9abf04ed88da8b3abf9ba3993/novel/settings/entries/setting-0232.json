@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0232",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 67,
+  "label": "紫金葫芦与玉净瓶",
+  "category": "artifact",
+  "introduced_at": 67,
+  "updates": [
+    {
+      "id": "update-setting-0232-001",
+      "revealed_at": 67,
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2528"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2549"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2551"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2552"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

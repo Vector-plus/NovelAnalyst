@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0085",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 40,
+  "label": "孙悟空寻访须菩提（灵台方寸山一线）",
+  "introduced_at": 40,
+  "updates": [
+    {
+      "id": "update-thread-0085-001",
+      "revealed_at": 40,
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "category": "quest",
+      "status": "open",
+      "role": "setup",
+      "summary": "松鼠提到须菩提可化任何物与人说话、见他的路因人而异，并指出斜月三星洞通向灵台方寸山；孙悟空随即化光入洞。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1850"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1851"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1853"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1854"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

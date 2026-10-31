@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0098",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 45,
+  "label": "为唐僧寻回魂儿",
+  "introduced_at": 45,
+  "updates": [
+    {
+      "id": "update-thread-0098-001",
+      "revealed_at": 45,
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "category": "quest",
+      "status": "active",
+      "role": "introduction",
+      "summary": "小白龙以「师父的魂儿一天找不回来，你一天别想溜号」约束猪八戒，说明寻回唐僧魂魄仍是当前行动前提。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

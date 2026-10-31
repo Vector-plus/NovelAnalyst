@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0176",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 43,
+  "label": "琉璃盏",
+  "category": "other",
+  "introduced_at": 43,
+  "updates": [
+    {
+      "id": "update-setting-0176-001",
+      "revealed_at": 43,
+      "chapter_ranges": [
+        {
+          "start": 43,
+          "end": 43
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1930"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1931"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1938"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1939"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

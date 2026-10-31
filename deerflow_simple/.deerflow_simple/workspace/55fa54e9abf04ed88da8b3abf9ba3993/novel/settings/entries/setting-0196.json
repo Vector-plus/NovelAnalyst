@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0196",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 52,
+  "label": "大青树（候鸟归乡所在）",
+  "category": "other",
+  "introduced_at": 52,
+  "updates": [
+    {
+      "id": "update-setting-0196-001",
+      "revealed_at": 52,
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2115"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2116"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

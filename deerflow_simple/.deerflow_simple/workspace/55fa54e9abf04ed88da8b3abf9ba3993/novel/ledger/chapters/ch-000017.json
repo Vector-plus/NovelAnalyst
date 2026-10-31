@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000017",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000017",
+    "chapter_order": 17
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1349",
+    "claim-1350",
+    "claim-1351",
+    "claim-1352",
+    "claim-1353",
+    "claim-1354",
+    "claim-1355",
+    "claim-1356",
+    "claim-1357",
+    "claim-1358",
+    "claim-1359",
+    "claim-1360",
+    "ev-0166"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第17章精读完成",
+    "record_ids": [
+      "claim-1349",
+      "claim-1350",
+      "claim-1351",
+      "claim-1352",
+      "claim-1353",
+      "claim-1354",
+      "claim-1355",
+      "claim-1356",
+      "claim-1357",
+      "claim-1358",
+      "claim-1359",
+      "claim-1360",
+      "ev-0166"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0012",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 6,
+  "introduced_at": 6,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0014/index.json",
+      "record_id": "char-0014"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0012-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "as_of": 6,
+      "revealed_at": 6,
+      "summary": "沙僧称唐僧为“师父”（“师父怎突然这般客气”“别笑了，师父都死了”）。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "沙僧称唐僧为“师父”（“师父怎突然这般客气”“别笑了，师父都死了”）。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0107"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0126"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

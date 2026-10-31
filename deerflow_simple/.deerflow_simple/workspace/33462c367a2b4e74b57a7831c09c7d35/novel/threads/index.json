@@ -1,0 +1,125 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0001.json",
+          "record_id": "thread-0001"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 2,
+      "summary": "被隐瞒的真相与“和平视窗设想”（第2章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0001.json",
+        "record_id": "thread-0001"
+      },
+      "title": "被隐瞒的真相与“和平视窗设想”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0002.json",
+          "record_id": "thread-0002"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 2,
+      "summary": "北京对西亚代表团的异常警戒与沉默氛围（第2章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0002.json",
+        "record_id": "thread-0002"
+      },
+      "title": "北京对西亚代表团的异常警戒与沉默氛围"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0003.json",
+          "record_id": "thread-0003"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "辛妮生父归属（奥卡是否为其父亲）（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0003.json",
+        "record_id": "thread-0003"
+      },
+      "title": "辛妮生父归属（奥卡是否为其父亲）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0004.json",
+          "record_id": "thread-0004"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "辛妮所用药物（GMH—6）的来源与效果（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0004.json",
+        "record_id": "thread-0004"
+      },
+      "title": "辛妮所用药物（GMH—6）的来源与效果"
+    }
+  ],
+  "id": "idx-threads",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 5,
+  "safe_through": 5,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 2,
+        "start": 2
+      },
+      {
+        "end": 5,
+        "start": 5
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "故事线"
+}

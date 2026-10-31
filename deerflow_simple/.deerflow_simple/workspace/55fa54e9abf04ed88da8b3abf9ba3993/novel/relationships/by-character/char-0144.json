@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0144",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 53,
+  "title": "阿明 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 53,
+        "end": 53
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0144/index.json",
+        "record_id": "char-0144"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0063.json",
+        "record_id": "rel-0063"
+      },
+      "kind": "relationship",
+      "title": "阿明×石头",
+      "summary": "与阿明×石头的关系",
+      "chapter_ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0144/index.json",
+          "record_id": "char-0144"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 53
+    }
+  ]
+}

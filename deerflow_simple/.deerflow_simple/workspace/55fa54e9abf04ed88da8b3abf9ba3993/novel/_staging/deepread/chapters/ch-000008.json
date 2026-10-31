@@ -1,0 +1,1008 @@
+{
+  "chapter_order": 8,
+  "chapter_id": "ch-000008",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空归来追问师父下落，得知唐僧已死且有人冒充他行凶",
+      "introduced_at": 8,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 8,
+            "end": 8
+          }
+        ],
+        "revealed_at": 8,
+        "status": "closed",
+        "story_time": null,
+        "summary": "孙悟空回到林中，猪八戒称师父（秃头）已死、尸身在那边、准备次日天葬，并提到「冷面沙」已去报官。孙悟空追问「谁干的」，猪八戒称他装失忆。孙悟空捏住猪八戒的嘴止住他的笑，随后断定有人冒充自己杀了和尚，目的就是不让他去西天求正果。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0018/index.json",
+              "record_id": "char-0018"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空与猪八戒林中争吵互骂，猪八戒仰天痛哭",
+      "introduced_at": 8,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 8,
+            "end": 8
+          }
+        ],
+        "revealed_at": 8,
+        "status": "closed",
+        "story_time": null,
+        "summary": "孙悟空以金箍未除为由说自己不自由，猪八戒讥讽他谈自由；孙悟空一脚踢去，猪八戒凌空后翻躲开，并称观音、玉帝都在把孙悟空当猴耍。两人以「猪」「猴子」「猪大肠」「猴屁股」等互骂，随后猪八戒突然仰天喊「为什么」，泣不成声。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "小白龙与猪八戒林中等候时的口角与闲话",
+      "introduced_at": 8,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 8,
+            "end": 8
+          }
+        ],
+        "revealed_at": 8,
+        "status": "closed",
+        "story_time": null,
+        "summary": "小白龙抱怨猪八戒口水流到自己脚边，猪八戒骂他「死马」并说梦被吵醒；猪八戒称秃头已死他高兴还来不及，并说自己梦见高老庄的漂亮媳妇。小白龙质疑从没人听说过高老庄、谁会看上一头猪，猪八戒发怒禁止他提媳妇一个字。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "小白龙对猪八戒说他的口水流得很长，都流到自己脚边了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "你的口水流了好长呀"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "猪八戒骂小白龙「死马」，说他把自己的梦吵醒了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "死马，吵什么吵，把我的梦吵醒了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "猪八戒称「秃头」（其师父）已经死了，不用他再受累，他高兴还来不及，并说自己刚才梦见高老庄的漂亮媳妇。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "梦见我高老庄的漂亮媳妇了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "小白龙指出从来没人听说过高老庄那个庄子，并质疑谁会看上一头猪。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "可从没人听说过那个庄子啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "猪八戒禁止小白龙说他媳妇一个字，但同时承认「我本来就是猪」，并反问「你就不能骗骗我吗」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "不准你说她一个字"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "一个影子走到小白龙与猪八戒身边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "一个影子走到了他们身边"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "猪八戒抬头认出孙悟空回来，说「冷面沙已经去报官了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "冷面沙已经去报官了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "猪八戒称师父（「秃头」）的尸身在那边，他准备第二天帮他天葬，并调侃鸟吃了他会不会长生不老。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "我准备明天帮他天葬"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空问「师父呢？」，又追问「死了？谁干的！」，随后说「也许我真的忘记了些什么」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "也许我真的忘记了些什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "猪八戒说孙悟空想装病脱逃大唐律令是不行的，并暗示是孙悟空杀了师父。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "想装病脱逃大唐律令是不行的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空猛地上前捏住猪八戒的嘴，制止他继续大笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "孙悟空猛地上前捏住了猪嘴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空断定有人冒充自己杀了和尚，并称对方这么做明摆着是不让他去西天求得正果，最可气的是还要变成他的样子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "有人冒充我杀了秃子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空说只有和尚才能开启西天之门（称当初观音是这么说的），如今和尚死了，他们身上的诅咒永远解除不了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "只有和尚才能开启西天之门"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "猪八戒说诅咒解不了也无所谓，「做猪又如何做神又如何」，也许猪更快乐一点。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "做猪又如何做神又如何呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空说他头上的金箍一天不除，他就一天不觉得自由。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "我头上的金箍一天不除"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "猪八戒出言讥讽孙悟空谈论「自由」，喊人快来看「一只猴子在谈论自由」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "这里有一只猴子在谈论自由"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空一脚踢向猪八戒，猪八戒凌空后翻笑着躲开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "猪八戒却一个凌空后翻笑着躲开了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "猪八戒说孙悟空打不着他，并称观音、玉帝都在把孙悟空当猴耍。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "观音、玉帝在把你当猴耍"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空与猪八戒互相以「猪」「猴子」「猪大肠」「猴屁股」等词语叫骂。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "猪大肠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "猪八戒突然仰天喊「为什么！这一切是为什么呀」，随后泣不成声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "他竟已泣不成声"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "当时天上有「一轮那么蓝的月亮」，满天的银河把光辉照在哭泣的猪身上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 8,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000008.txt",
+          "chapter_id": "ch-000008",
+          "chapter_order": 8,
+          "locator": null,
+          "anchor": "有一轮那么蓝的月亮"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "高老庄",
+      "category": "location",
+      "introduced_at": 8,
+      "notes": "猪八戒自称在高老庄有漂亮媳妇；小白龙称从没人听说过那个庄子。地名本身仅由角色口述，未经叙述确认。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4"
+      ]
+    },
+    {
+      "label": "西天之门",
+      "category": "setting",
+      "introduced_at": 8,
+      "notes": "孙悟空称「只有和尚才能开启西天之门」，并称这话是当初观音说的。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-13"
+      ]
+    },
+    {
+      "label": "身上的诅咒与头上的金箍",
+      "category": "setting",
+      "introduced_at": 8,
+      "notes": "孙悟空称唐僧一死，他们身上的诅咒永远解除不了；又称自己头上的金箍一天不除就不自由。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15"
+      ]
+    },
+    {
+      "label": "蓝色的月亮与满天银河",
+      "category": "scene_phenomenon",
+      "introduced_at": 8,
+      "notes": "章末叙述：天上有「一轮那么蓝的月亮」，满天银河把光辉照在哭泣的猪身上。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-21"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "local_id": "idlink-local-1",
+      "entity_a": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "entity_a_label": "冷面沙",
+      "entity_b": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "entity_b_label": "沙悟净",
+      "certainty": "uncertain",
+      "summary": "本章猪八戒口中出现「冷面沙」这一称呼，与已建档的「沙悟净」是否为同一人物，本章正文未明示（「冷面沙」为叙述中未解释的绰号式称谓）。",
+      "source_claim_local_ids": [
+        "claim-local-7"
+      ],
+      "notes": "依身份谨慎原则不做合并，仅登记为候选，待后续章节佐证。"
+    },
+    {
+      "local_id": "idlink-local-2",
+      "entity_a": {
+        "candidate_name": "秃头/师父/和尚（第8章猪八戒与孙悟空口中）"
+      },
+      "entity_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "entity_b_label": "唐僧",
+      "certainty": "inferred",
+      "summary": "本章对话中的「秃头」「师父」「和尚」均指向被杀害的取经僧人，结合孙悟空问「师父呢」及「只有和尚才能开启西天之门」的上下文，判定指唐僧；但本章正文未直呼其名。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-13"
+      ],
+      "notes": "inferred，依据为章内对话指代链；未在本章正文出现「唐僧」字样。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空归来后与猪八戒互相讥讽叫骂；孙悟空捏住猪八戒的嘴并一脚踢去，猪八戒后翻躲开；猪八戒称观音、玉帝都在把孙悟空当猴耍。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "仅记录可见互动行为，未作情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙与猪八戒在林中一起等候，小白龙抱怨其口水、质疑高老庄之说，猪八戒骂他「死马」并怒斥他不许提自己媳妇。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-5"
+      ],
+      "notes": "互动事实：拌嘴与相互打趣式指责；未作情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "inferred",
+      "summary": "猪八戒称被杀的「秃头」为师父，称其尸身在那边，并打算第二天为他天葬，同时以调侃口吻谈论他的死。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-8"
+      ],
+      "notes": "「师父」指向唐僧为 inferred（见 idlink-local-2）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "inferred",
+      "summary": "孙悟空返回林中后首先追问「师父呢」，得知其死后追问「谁干的」。",
+      "source_claim_local_ids": [
+        "claim-local-9"
+      ],
+      "notes": "「师父」指向唐僧为 inferred。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "local_id": "thread-local-1",
+      "title": "唐僧之死与冒充孙悟空行凶者的身份",
+      "category": "mystery",
+      "status": "open",
+      "role": "advanced",
+      "summary": "孙悟空断定有人冒充自己杀了和尚，目的是不让他去西天求得正果；冒充者身份、动机与手段本章均未揭示，孙悟空自述「也许我真的忘记了些什么」。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": "本章提供假冒行凶的推断与目的解释，但无直接目击叙述。"
+    },
+    {
+      "local_id": "thread-local-2",
+      "title": "西天之门与取经队伍身上的诅咒/金箍",
+      "category": "setting_thread",
+      "status": "open",
+      "role": "advanced",
+      "summary": "孙悟空转述观音说法：只有和尚能开启西天之门；和尚已死，故他们身上的诅咒无法解除。孙悟空以金箍未除为不自由之由。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15"
+      ],
+      "notes": "机制细节均出自角色口述（reported），尚待其他来源核验。"
+    },
+    {
+      "local_id": "thread-local-3",
+      "title": "猪八戒的高老庄媳妇之说",
+      "category": "character_background",
+      "status": "open",
+      "role": "advanced",
+      "summary": "猪八戒称自己梦见高老庄的漂亮媳妇，小白龙指出从没人听说过那个庄子；猪八戒激烈禁止他提自己媳妇一个字。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5"
+      ],
+      "notes": "该说法的真实性本章未获任何叙述层面确认。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第8章：林中噩耗与对骂",
+    "front_matter": {
+      "as_of": 8,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-8",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n林中，小白龙与猪八戒在等候。小白龙抱怨猪八戒口水流到自己脚边，猪八戒骂他「死马」，说梦被吵醒（[[claim-local-1]]、[[claim-local-2]]）。猪八戒称「秃头」已经死了，他不必再受累，还说自己梦见高老庄的漂亮媳妇（[[claim-local-3]]）。小白龙指从没人听说过高老庄，质疑谁会看上一头猪，猪八戒怒斥不许提他媳妇一个字（[[claim-local-4]]、[[claim-local-5]]）。\n\n## 关键行动\n\n一个影子走到两人身边，猪八戒抬头认出是孙悟空（[[claim-local-6]]）。他表示「冷面沙已经去报官了」，并说师父在那边、准备明天帮他天葬（[[claim-local-7]]、[[claim-local-8]]）。孙悟空连问「师父呢」「死了？谁干的」，自述「也许我真的忘记了些什么」；猪八戒则称他想装病脱逃大唐律令（[[claim-local-9]]、[[claim-local-10]]）。孙悟空上前捏住猪嘴制止他大笑（[[claim-local-11]]）。\n\n## 转折与新信息\n\n孙悟空断定有人冒充自己杀了和尚，目的就是不让他去西天求得正果（[[claim-local-12]]）。他又转述观音的说法：只有和尚才能开启西天之门，和尚一死，众人身上的诅咒便永远解除不了（[[claim-local-13]]）。猪八戒回以「做猪又如何做神又如何」，孙悟空则说金箍一天不除就一天不自由（[[claim-local-14]]、[[claim-local-15]]）。两人随即升级为讥讽与对骂：孙悟空一脚踢去被猪八戒后翻躲开，猪八戒称观音、玉帝都在把孙悟空当猴耍（[[claim-local-16]]、[[claim-local-17]]、[[claim-local-18]]、[[claim-local-19]]）。\n\n## 本章结果\n\n对骂之中猪八戒突然仰天喊「为什么！这一切是为什么呀」，随即泣不成声（[[claim-local-20]]）。叙述收在夜景：天上有「一轮那么蓝的月亮」，满天银河照在哭泣的猪身上（[[claim-local-21]]）。本章未出现任何人被击倒或离开场景，孙悟空归来、唐僧死讯与冒充者推断是本章留下的主要状态变化。\n\n## 未决问题与补读入口\n\n- 冒充孙悟空行凶者是谁、如何冒充、为何目的——本章仅有孙悟空的推断，无目击性叙述（见 thread-local-1）。\n- 唐僧之死的过程与尸身处理：本章仅由猪八戒口头告知「在那边」「准备明天帮他天葬」，需回看前序章节。\n- 「冷面沙」与已建档的「沙悟净」是否为同一人物，本章未明示，已登记为身份链候选。\n- 西天之门、诅咒与金箍的规则均出自角色口述（reported），后续章节是否另有来源需核验。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "title": "孙悟空归来追问师父下落，得知唐僧已死且有人冒充他行凶",
+      "introduced_at": 8,
+      "reason": "本章核心状态变化：师父死讯与冒充者推断"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "title": "孙悟空与猪八戒林中争吵互骂，猪八戒仰天痛哭",
+      "introduced_at": 8,
+      "reason": "主要人物互动与猪八戒情绪转折点"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-12",
+      "note": "冒充孙悟空杀害唐僧的推断（reported）",
+      "introduced_at": 8
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-13",
+      "note": "西天之门仅僧人可开、诅咒无法解除的规则陈述（reported）",
+      "introduced_at": 8
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-15",
+      "note": "孙悟空以金箍为由自述不自由",
+      "introduced_at": 8
+    },
+    {
+      "kind": "entity_first_appearance",
+      "entity_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "label": "小白龙",
+      "note": "第8章首次登场（对话中亦被称「死马」）",
+      "introduced_at": 8
+    },
+    {
+      "kind": "entity_first_mention",
+      "entity_ref": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "label": "冷面沙",
+      "note": "第8章经猪八戒口中首次出现，仅为其称谓",
+      "introduced_at": 8
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "summary": "唐僧（章内称「秃头」「师父」）之死在本章仅由猪八戒口头告知，正文没有直述其死亡过程与凶手身份。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-8",
+        "claim-local-12"
+      ],
+      "notes": "需回补前序章节的死亡场景以确认时间线与凶手。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "猪八戒口中的「冷面沙」（char-0018）与已建档的「沙悟净」（char-0060）是否同一人物，本章未明示。",
+      "source_claim_local_ids": [
+        "claim-local-7"
+      ],
+      "notes": "未做合并，仅登记 idlink-local-1。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "冒充孙悟空行凶者的身份、冒充方式与动机本章均未揭示，正文只有孙悟空的推断与其「也许我真的忘记了些什么」的自述。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": "疑为后续章节核心悬念。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "章内第9段（猪八戒回应孙悟空归来处）原文含疑似编码损坏字符，呈现为「你不是畏…是…潜逃了吗」，该处文字不可读，未能提取为可用引用。",
+      "source_claim_local_ids": [],
+      "notes": "建议重新抽取该章原文以修复该行字符，供后续引用核验。"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "孙悟空「也许我真的忘记了些什么」一句暗示其记忆缺失，但本章未交代其本章之前的经历（为何离开、去了何处）。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": "可通过 read_source_window(7) 核对上一章衔接。"
+    }
+  ],
+  "warnings": [
+    "本章多处关键设定（西天之门开启条件、身上诅咒、金箍、冒充者目的）均出自角色口述，已按 certainty=reported 记录，未升格为 world fact。",
+    "第9段原文存在疑似编码损坏片段（「你不是畏…是…潜逃了吗」），该处未产出引用与锚点，已登记 source_locator 类 issue。",
+    "本章正文未出现「唐僧」字样，相关指代（秃头/师父/和尚）已登记为 inferred 身份链候选，未直接改写实体归属。",
+    "工具调用共 15 次左右，未超预算；未调用 read_source_window（本章章首章尾无跨章强依赖）。"
+  ]
+}

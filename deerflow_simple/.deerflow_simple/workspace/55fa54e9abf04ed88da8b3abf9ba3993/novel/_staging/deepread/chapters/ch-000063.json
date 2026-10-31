@@ -1,0 +1,1595 @@
+{
+  "chapter_order": 63,
+  "chapter_id": "ch-000063",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "北行极光之地：孙悟空在齐天大圣旗杆前遇牛魔王",
+      "introduced_at": 63,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 63,
+            "end": 63
+          }
+        ],
+        "revealed_at": 63,
+        "status": "ended",
+        "story_time": "五百年后（本章以此标记开局）",
+        "summary": "孙悟空一路向北走到七彩极光的发源处，平坦黑地上立着一根写着「齐天大圣」的巨大旗杆。他亮出金箍棒唤妖，穿黑盔甲的大个子现身自称平天大圣牛魔王。牛魔王称自己也在寻找齐天大圣，托他传话、讲述花果山旧事并递上木杯相邀；孙悟空挑飞酒杯、声言要杀妖成正果并令其亮兵器，牛魔王捡回酒杯、抽剑对旗立誓，场景弥漫浓烈血腥气。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0037/index.json",
+              "record_id": "char-0037"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "罗刹家中：白晶晶告知牛魔王已走、杀他者赴狮驼",
+      "introduced_at": 63,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 63,
+            "end": 63
+          }
+        ],
+        "revealed_at": 63,
+        "status": "ended",
+        "story_time": null,
+        "summary": "罗刹在家中擦拭牛魔王的佩剑，白晶晶走入并点头确认「他走了」。罗刹的眼泪落在剑上擦之不尽，得知「杀他的人已去狮驼王处了」后大喊「结束吧，还要死多少人」，白晶晶咬牙表示孙悟空绝不可以成佛。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "罗刹"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0037/index.json",
+              "record_id": "char-0037"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "狮驼岭下：孙悟空交出齐天大圣大旗，大鹏王以唐僧性命为条件",
+      "introduced_at": 63,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 63,
+            "end": 63
+          }
+        ],
+        "revealed_at": 63,
+        "status": "ended",
+        "story_time": null,
+        "summary": "场景转至北俱芦洲狮驼岭下。大鹏王索问牛魔王要还什么东西，孙悟空丢下齐天大圣大旗；大鹏王持旗自称终于是天下妖魔之王，并称孙悟空忘记了很多事。孙悟空称除金箍需大鹏王头颅，大鹏王回应即使得手也无法成正果，因为他们会杀死唐僧，且称这不算要挟；说完孙悟空已不见踪影。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35",
+          "claim-local-38"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-27"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-28",
+          "claim-local-31"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-32",
+          "claim-local-34",
+          "claim-local-35"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "金角银角向大鹏王索诺，大鹏王借其宝贝欲对付「另外三个」",
+      "introduced_at": 63,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 63,
+            "end": 63
+          }
+        ],
+        "revealed_at": 63,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "大鹏王持齐天大圣大旗自称天下妖魔之王后，背后出现金角与银角两个妖怪。金角称大旗终于如愿到大鹏王手中，银角要求实现此前承诺；大鹏王答允并提出还有地方要两位仙童帮忙，借用他们的宝贝去收拾另外三个。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0154/index.json",
+              "record_id": "char-0154"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0102/index.json",
+              "record_id": "char-0102"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "银角"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-36",
+          "claim-local-37"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-36"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-37"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "本章以「五百年后」作为时间标记开头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "五百年后"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空一路向北走，天空越来越暗直到全成黑夜，遥远天际有七彩极光流转变换。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "天空越来越暗，后来全成了黑夜"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空来到光彩发源处：一片平坦黑色大地上只有一根巨大的旗杆，上面四个字在流光中若隐若现，为「齐天大圣」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "上面有四个字，在流光中若隐若现"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空亮出金箍棒，朝黑暗中唤妖精出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "孙悟空亮出了金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空说「这儿必是四魔王之一的齐天大圣的洞府了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "这儿必是四魔王之一的齐天大圣的洞府了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "一个穿黑盔甲的大个子从黑暗中走出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "一个穿黑盔甲的大个子从黑暗中走了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "黑盔甲大个自称「平天大圣——牛魔王」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "不，我是平天大圣——牛魔王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "牛魔王称自己一直在寻找齐天大圣，并托孙悟空若见到便转告「兄弟们都很想他，我们什么时候再回花果山去喝酒」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "齐天大圣，我也一直在找他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "牛魔王说齐天大圣住在花果山，并描述花果山有流不尽的泉水、自由飞翔的羽翼、山脚苍翠草原、山腰黄杆子紫云花与山顶红叶林。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "流不尽的泉水"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "牛魔王说在美猴王的时代齐天大圣做错了一件事：他以为可以让天下所有的人都和他一样快乐、超然三界、无惧生死；牛魔王认为这不可以，因为那不是天地间的秩序。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "他以为可以让天下所有的人都和他一样快乐"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "牛魔王形容齐天大圣是「一个永远不违心，永远不认输的人」，因此不会放弃，并表示自己一直希望他还能活着。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "他是一个永远不违心，永远不认输的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "牛魔王讲述花果山的酒是用水帘瀑布的水酿成，用了千种花百种果，用太阳的光刻入七种色彩，凡人喝一口要醉上一百年；当年众人全喝醉，齐天大圣拍着他的肩说不记得自己是谁，他回答「记得这杯酒就行了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "凡人喝了一口，要醉上一百年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "牛魔王举起一只盛着晶亮酒液的木杯，说「这是最后一杯酒了，喝了它，百年的梦醒过来吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "这是最后一杯酒了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空看了那杯酒很久，然后用棒漫不经心一挑，把酒杯挑上天空，酒杯化成漫天闪亮的水雾。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "酒杯飞上了天空，化成漫天闪亮的水雾"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空说「妖怪，你休想蒙骗俺老孙，俺杀了你们几个，就能成了正果，去了金箍」，并令对方亮兵器。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "俺杀了你们几个，就能成了正果，去了金箍"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "牛魔王慢慢俯身捡起那个酒杯，小心擦拭后放进怀中，并说「不要弄坏了我心爱的东西」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "捡起那个酒杯，小心地擦拭了，放进怀中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "牛魔王抽出长剑，面对那面旗大吼「你纵然不在，我也不会辱了你的这面旗」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "我也不会辱了你的这面旗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "在漫天花酒的醇香中，冲出了浓烈的血腥气（原文未直接描写交手过程与胜负）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "冲出了浓烈的血腥气"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "场景转到罗刹家中：罗刹坐着擦拭牛魔王的佩剑，白晶晶走了进来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "罗刹坐在家中拭着牛魔王的佩剑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "罗刹擦着剑问「他走了？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "罗刹"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "他走了？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "白晶晶以点头作答。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "白晶晶点了点头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "罗刹的眼泪落在剑上，她将它擦去却怎么也擦不尽。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "罗刹"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "罗刹的眼泪落在了剑上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "白晶晶告诉罗刹「杀他的人已去狮驼王处了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "杀他的人已去狮驼王处了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "罗刹大喊「为什么呢？结束吧，还要死多少人？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "罗刹"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "结束吧，还要死多少人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "白晶晶咬牙说「孙悟空绝不可以成佛！那一天，世界将没有任何希望」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "孙悟空绝不可以成佛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "牛魔王在与孙悟空的冲突中身死，杀他的是孙悟空（原文未直接描写交手与死状）。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "杀他的人已去狮驼王处了"
+        }
+      ],
+      "basis_refs": [
+        {
+          "candidate_name": "claim-local-18"
+        },
+        {
+          "candidate_name": "claim-local-22"
+        },
+        {
+          "candidate_name": "claim-local-23"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "大鹏王问孙悟空「牛魔王要你还什么东西给我？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "牛魔王要你还什么东西给我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "孙悟空丢下那面齐天大圣的大旗，交到大鹏王处。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "孙悟空丢下那面齐天大圣的大旗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "大鹏王拿起那面大旗抚摸，念出「齐、天、大、圣」，并称「我终于是天下妖魔之王了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "我终于是天下妖魔之王了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "大鹏王对孙悟空说「你好像忘记了很多事，我帮不了你，我们看着噩梦一点点地发生，却永远醒不过来」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "你好像忘记了很多事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "孙悟空说「我除去金箍需要你的头颅」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "我除去金箍需要你的头颅"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "大鹏王称孙悟空即便拿到他的头颅也不能成正果，因为「我们会杀死唐僧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "因为我们会杀死唐僧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "孙悟空反问「我有第二条路么？除了西天我有地方可去么！」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "我有第二条路么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "大鹏王称「如果你不是孙悟空，任何地方你都可以容身」，并称这不是要挟，因为不管怎么样他们也会杀死唐僧，孙悟空若要杀他便杀。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "如果你不是孙悟空，任何地方你都可以容身"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "大鹏王说完后，眼前已不见了孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "眼前已不见了孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-36",
+      "text": "大鹏王背后出现金角与银角两个妖怪：金角称大旗终于如愿到大鹏王手中，银角要求「现在应该实现你对我们的承诺」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "银角"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "现在应该实现你对我们的承诺"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-37",
+      "text": "大鹏王答「好的好的」，并提出还有地方要两位仙童帮忙——借用他们的宝贝「去收拾了另外三个」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "借用一下你们的宝贝，去收拾了另外三个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-38",
+      "text": "狮驼岭下这一场景明确标为「北俱芦洲 狮驼岭下」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 63,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000063.txt",
+          "chapter_id": "ch-000063",
+          "chapter_order": 63,
+          "locator": null,
+          "anchor": "北俱芦洲　狮驼岭下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "罗刹",
+      "introduced_at": 63,
+      "alias_texts": [
+        "罗刹"
+      ],
+      "identity_notes": "本章首次出现的女性角色，在「家中」擦拭牛魔王的佩剑并落泪，向白晶晶问「他走了？」；原文未写其与牛魔王的关系称谓，resolve_name 无命中，未与任何已建档实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-22",
+        "claim-local-24"
+      ]
+    },
+    {
+      "label": "银角",
+      "introduced_at": 63,
+      "alias_texts": [
+        "银角妖怪",
+        "仙童"
+      ],
+      "identity_notes": "大鹏王背后现身的两个妖怪之一，与已建档的金角（char-0102）并列出现，要求大鹏王实现「承诺」；原文称两位为「仙童」。resolve_name 无命中。",
+      "evidence_claim_local_ids": [
+        "claim-local-36",
+        "claim-local-37"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "四魔王",
+      "introduced_at": 63,
+      "category": "group",
+      "notes": "孙悟空称此地为「四魔王之一」的齐天大圣洞府；本章自称平天大圣的牛魔王、齐天大圣旗、狮驼岭大鹏王被并置于同一语境，但成员完整名单原文未列。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-7"
+      ]
+    },
+    {
+      "label": "狮驼岭妖众",
+      "introduced_at": 63,
+      "category": "group",
+      "notes": "北俱芦洲狮驼岭下以大鹏王为首，金角、银角前来索诺并借宝；大鹏王自称天下妖魔之王，并计划「收拾了另外三个」。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-36",
+        "claim-local-37",
+        "claim-local-38"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "花果山",
+      "category": "location",
+      "introduced_at": 63,
+      "notes": "牛魔王称齐天大圣住在花果山，并描述泉水、草原、紫云花、红叶林等；孙悟空反问「花果山？他住在花果山？」，原文未写孙悟空对旧事的完整记忆。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "水帘瀑布",
+      "category": "location",
+      "introduced_at": 63,
+      "notes": "牛魔王所称酿花果山之酒所用水源。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "齐天大圣大旗（旗杆）",
+      "category": "object",
+      "introduced_at": 63,
+      "notes": "立于七彩极光发源处黑色大地上的一根巨大旗杆，上有「齐天大圣」四字大旗；章末被孙悟空交给大鹏王，大鹏王持之自称天下妖魔之王。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-17",
+        "claim-local-28",
+        "claim-local-29"
+      ]
+    },
+    {
+      "label": "北俱芦洲·狮驼岭",
+      "category": "location",
+      "introduced_at": 63,
+      "notes": "本章第三段场景所在地，大鹏王在此接收大旗并与金角、银角接头。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-38"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_or_alias": {
+        "candidate_name": "狮驼王"
+      },
+      "possible_target": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "status": "unconfirmed",
+      "notes": "白晶晶称「杀他的人已去狮驼王处了」，紧接的场景为「北俱芦洲 狮驼岭下」，出场者为大鹏王。原文未明示「狮驼王」是否即大鹏王，本章不做合并。",
+      "source_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-38",
+        "claim-local-27"
+      ]
+    },
+    {
+      "candidate_or_alias": {
+        "candidate_name": "齐天大圣"
+      },
+      "possible_target": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "status": "unconfirmed",
+      "notes": "已有档案将齐天大圣线索系于孙悟空，但本章牛魔王把「齐天大圣」当作正在别处、需托人传话的另一人，且孙悟空反问「花果山？他住在花果山？」；本章原文未出现「孙悟空即齐天大圣」的明示表述，故仅登记候选，不改动既有引用。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-25"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "旗杆前对峙"
+      },
+      "certainty": "explicit",
+      "summary": "牛魔王现身并以木杯的酒相邀，孙悟空挑飞酒杯、声称杀妖可成「正果」并令其亮兵器；牛魔王抽剑对旗大吼，随后场景冲出血腥气。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "find_similar_relationship 未命中，作为新关系候选登记。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "以唐僧性命为条件"
+      },
+      "certainty": "explicit",
+      "summary": "狮驼岭下孙悟空交出齐天大圣大旗，并向大鹏王索其头颅以除金箍；大鹏王称不管怎样都会杀死唐僧，使孙悟空不可能成正果，孙悟空随即不见踪影。",
+      "source_claim_local_ids": [
+        "claim-local-28",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-34",
+        "claim-local-35"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "subject_b": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "facet": {
+        "type": "cooperation",
+        "notes": "以「承诺」为基础的交易"
+      },
+      "certainty": "reported",
+      "summary": "金角称大旗终于如愿到大鹏王手中，要求兑现承诺；大鹏王答允并提出借用两位仙童的宝贝「去收拾了另外三个」。",
+      "source_claim_local_ids": [
+        "claim-local-36",
+        "claim-local-37"
+      ],
+      "notes": "关系内容全部出自角色对话，未经叙述确认。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "subject_b": {
+        "candidate_name": "银角"
+      },
+      "facet": {
+        "type": "cooperation",
+        "notes": "以「承诺」为基础的交易"
+      },
+      "certainty": "reported",
+      "summary": "银角要求大鹏王实现此前的承诺，大鹏王答允并提出借两位仙童的宝贝去对付另外三个。",
+      "source_claim_local_ids": [
+        "claim-local-36",
+        "claim-local-37"
+      ],
+      "notes": "银角为本章新候选实体。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "罗刹"
+      },
+      "subject_b": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "罗刹在牛魔王「走了」后于家中擦拭其佩剑并落泪；原文未写关系称谓，不做事后定性。"
+      },
+      "certainty": "explicit",
+      "summary": "牛魔王的佩剑此时在罗刹手中，她在「家中」擦拭它，向白晶晶确认「他走了？」，眼泪落在剑上擦之不尽。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-22"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "subject_b": {
+        "candidate_name": "罗刹"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "通报与应答"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶走入罗刹家中，以点头回答「他走了？」，并告知杀牛魔王的人已去狮驼王处；罗刹大喊「结束吧，还要死多少人」，白晶晶咬牙以「孙悟空绝不可以成佛」回应。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-21",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "白晶晶明确反对孙悟空成佛"
+      },
+      "certainty": "reported",
+      "summary": "白晶晶称「孙悟空绝不可以成佛！那一天，世界将没有任何希望」，并把杀牛魔王者（其语境所指）的去向告知罗刹；本章双方未直接照面。",
+      "source_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-25"
+      ],
+      "notes": "立场陈述，非双方当面对抗。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "label": "孙悟空去除金箍与「成正果」之路",
+      "category": "goal",
+      "status": "escalated",
+      "role": "subject",
+      "summary": "孙悟空自述除金箍需大鹏王头颅；大鹏王反称无论是否取头颅他都不可能成正果，因为妖众会杀死唐僧；孙悟空自问「除了西天我有地方可去么」。",
+      "source_claim_local_ids": [
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34"
+      ]
+    },
+    {
+      "label": "妖众阻止孙悟空成佛的联合行动",
+      "category": "conflict",
+      "status": "escalated",
+      "role": "subject",
+      "summary": "白晶晶明确「孙悟空绝不可以成佛」；大鹏王宣称必杀唐僧；金角、银角在狮驼岭现身要求兑现承诺，大鹏王借其宝贝欲「收拾了另外三个」。",
+      "source_claim_local_ids": [
+        "claim-local-25",
+        "claim-local-32",
+        "claim-local-36",
+        "claim-local-37"
+      ]
+    },
+    {
+      "label": "唐僧一行安危",
+      "category": "threat",
+      "status": "escalated",
+      "role": "affected",
+      "summary": "大鹏王当面宣称「不管怎么样我们也会杀死唐僧」，并在章末借金角银角之宝准备对付「另外三个」。唐僧本章未出场，仅在对话中被提及。",
+      "source_claim_local_ids": [
+        "claim-local-32",
+        "claim-local-34",
+        "claim-local-37"
+      ]
+    },
+    {
+      "label": "牛魔王的下落与齐天大圣旧部",
+      "category": "conflict",
+      "status": "closed",
+      "role": "subject",
+      "summary": "牛魔王现身自称平天大圣、托孙悟空给齐天大圣传话回花果山喝酒；旗杆处冲突后血腥气起，罗刹拭其佩剑落泪、白晶晶称「杀他的人已去狮驼王处」。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-18",
+        "claim-local-23",
+        "claim-local-26"
+      ]
+    },
+    {
+      "label": "齐天大圣大旗的归属",
+      "category": "item",
+      "status": "closed",
+      "role": "subject",
+      "summary": "大旗原立于极光发源处黑色大地的旗杆上；牛魔王对旗立誓不辱此旗；章末被孙悟空丢给大鹏王，大鹏王持旗自称天下妖魔之王。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-17",
+        "claim-local-28",
+        "claim-local-29"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第63章：极光旗杆与狮驼岭之约",
+    "front_matter": {
+      "as_of": 63,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0037/index.json",
+          "record_id": "char-0037"
+        },
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        },
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        },
+        {
+          "path": "characters/char-0102/index.json",
+          "record_id": "char-0102"
+        },
+        {
+          "candidate_name": "罗刹"
+        },
+        {
+          "candidate_name": "银角"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-33",
+        "claim-local-34",
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-37",
+        "claim-local-38"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n- 本章以「五百年后」标记时间开端 [[claim-local-1]]。孙悟空一路向北，天色越来越暗直到全成黑夜，遥远天际却有七彩极光流转 [[claim-local-2]]。\n- 他走到光彩的发源处：一片平坦黑色大地上只有一根巨大的旗杆，上面四个字在流光中若隐若现——「齐天大圣」 [[claim-local-3]]。\n- 孙悟空亮出金箍棒、朝黑暗中唤妖精出来 [[claim-local-4]]，并判断「这儿必是四魔王之一的齐天大圣的洞府」 [[claim-local-5]]。\n\n## 关键行动\n\n- 一个穿黑盔甲的大个子从黑暗中走出 [[claim-local-6]]，自称「平天大圣——牛魔王」 [[claim-local-7]]。他说自己一直在寻找齐天大圣，托孙悟空若见到便转告「兄弟们都很想他，我们什么时候再回花果山去喝酒」 [[claim-local-8]]。\n- 牛魔王口中的花果山有流不尽的泉水、山脚苍翠草原、山腰紫云花与山顶红叶林 [[claim-local-9]]；他说在「美猴王的时代」齐天大圣做错了一件事——他以为可以让天下所有人都和他一样快乐、超然三界、无惧生死，而牛魔王认为那不合天地间的秩序 [[claim-local-10]]；他形容齐天大圣「永远不违心，永远不认输」 [[claim-local-11]]，并讲述用水帘瀑布水、千种花百种果酿成、凡人喝一口要醉上一百年的酒，以及齐天大圣醉酒后说「不记得自己是谁」的旧事 [[claim-local-12]]。\n- 牛魔王举起盛着晶亮酒液的木杯：「这是最后一杯酒了，喝了它，百年的梦醒过来吧」 [[claim-local-13]]。孙悟空用棒将酒杯挑上天空，杯化成漫天水雾 [[claim-local-14]]；他声明「俺杀了你们几个，就能成了正果，去了金箍」，令对方亮兵器 [[claim-local-15]]。\n- 牛魔王俯身捡起酒杯、小心擦拭后放入怀中 [[claim-local-16]]，抽出长剑对旗大吼「你纵然不在，我也不会辱了你的这面旗」 [[claim-local-17]]。随后在漫天花酒醇香中冲出了浓烈的血腥气 [[claim-local-18]]。\n- 场景转到北俱芦洲狮驼岭下 [[claim-local-38]]：大鹏王问「牛魔王要你还什么东西给我？」 [[claim-local-27]]，孙悟空丢下那面齐天大圣大旗 [[claim-local-28]]；大鹏王持旗念出「齐、天、大、圣」，自称「我终于是天下妖魔之王了」 [[claim-local-29]]。\n\n## 转折与新信息\n\n- 大鹏王当面称孙悟空「好像忘记了很多事」，「我们看着噩梦一点点地发生，却永远醒不过来」 [[claim-local-30]]。孙悟空说除去金箍需要大鹏王的头颅 [[claim-local-31]]；大鹏王回应即使得手也「不能成正果」，因为「我们会杀死唐僧」 [[claim-local-32]]。孙悟空反问「我有第二条路么？除了西天我有地方可去么！」 [[claim-local-33]]；大鹏王进一步称「如果你不是孙悟空，任何地方你都可以容身」，并称这不是要挟——无论怎样他们也会杀死唐僧，孙悟空若要杀他便杀 [[claim-local-34]]。说完，眼前已不见孙悟空 [[claim-local-35]]。\n- 大鹏王背后出现金角与银角两个妖怪：金角称大旗终于如愿到他手中，银角要求「现在应该实现你对我们的承诺」 [[claim-local-36]]；大鹏王答「好的好的」，并提出要借两位仙童的宝贝「去收拾了另外三个」 [[claim-local-37]]。\n- 另一条线：罗刹在「家中」擦拭牛魔王的佩剑 [[claim-local-19]]，问「他走了？」 [[claim-local-20]]，白晶晶点头作答 [[claim-local-21]]；罗刹的眼泪落在剑上擦之不尽 [[claim-local-22]]。白晶晶告知「杀他的人已去狮驼王处了」 [[claim-local-23]]；罗刹大喊「结束吧，还要死多少人？」 [[claim-local-24]]，白晶晶咬牙回应「孙悟空绝不可以成佛！那一天，世界将没有任何希望」 [[claim-local-25]]。\n- 由血腥气、罗刹持牛魔王佩剑落泪与「杀他的人」三处叙述，可推出牛魔王已死于孙悟空之手（原文未直接描写交手与死状，故为推断）[[claim-local-26]]。\n\n## 本章结果\n\n- 齐天大圣的大旗由孙悟空交到大鹏王手中，大鹏王据此自称天下妖魔之王 [[claim-local-28]] [[claim-local-29]]。\n- 孙悟空以除掉金箍为目标索取大鹏王头颅，但被「必杀唐僧」这一条件挡住，其「成正果」的路径被明确否定 [[claim-local-31]] [[claim-local-32]]；他没有动手便离开 [[claim-local-35]]。\n- 大鹏王与金角、银角达成借宝约定，指向「另外三个」对象，威胁外扩 [[claim-local-36]] [[claim-local-37]]。\n- 牛魔王一线以死亡作结（推断）：罗刹在悲恸中呼喊停止死亡，白晶晶则坚持阻止孙悟空成佛 [[claim-local-24]] [[claim-local-25]] [[claim-local-26]]。\n\n## 未决问题与补读入口\n\n- 「狮驼王」与本章出场的狮驼岭大鹏王是否为同一主体，原文未明示，已登记身份候选，待后续章节核实 [[claim-local-23]] [[claim-local-38]]。\n- 本章牛魔王把「齐天大圣」当作在外失踪、需托人传话的另一人，与已有档案中齐天大圣线索的归属口径存疑；孙悟空对花果山仅反问「他住在花果山？」，记忆缺失线索另见 [[claim-local-8]] [[claim-local-30]]。\n- 大鹏王所说「借用宝贝去收拾了另外三个」的具体对象与结果，本章未交代 [[claim-local-37]]。\n- 罗刹的身份与背景、其与牛魔王的关系称谓原文未写，需补读前后章 [[claim-local-19]]。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "reason": "孙悟空与牛魔王在齐天大圣旗杆前对峙，章内以血腥气收束，是群妖线的关键节点"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "reason": "齐天大圣大旗转手大鹏王，并以唐僧性命为条件封锁孙悟空成正果之路"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-4",
+      "reason": "金角银角现身狮驼岭，与大鹏王结成借宝约定，指向下一段冲突"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-25",
+      "reason": "白晶晶明确表态「孙悟空绝不可以成佛」，是本阶段妖众立场的直接表述"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-32",
+      "reason": "大鹏王宣称必杀唐僧，构成对唐僧一行的直接威胁"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-37",
+      "reason": "大鹏王借金角银角之宝要「收拾另外三个」，预示下一段冲突"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-23",
+      "reason": "「杀他的人已去狮驼王处」牵连狮驼线与牛魔王死因"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-26",
+      "reason": "牛魔王死亡为推断结论，后续章节若明示需回填"
+    },
+    {
+      "kind": "character_turn",
+      "local_id": "claim-local-30",
+      "reason": "大鹏王点出孙悟空「忘记了很多事」，属记忆缺失线索的反复出现"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "白晶晶称「杀他的人已去狮驼王处了」，紧接场景为「北俱芦洲 狮驼岭下」，出场者为大鹏王；「狮驼王」是否为同一主体本章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-38",
+        "claim-local-27"
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "summary": "牛魔王在本章把「齐天大圣」当作正在别处、需托孙悟空代为传话的人，并称自己一直在寻找他；这与已建档线索（char-0002 孙悟空与齐天大圣的关联）存在口径差异，需人工核对是叙述视角设定还是伏笔。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-5",
+        "claim-local-25"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "牛魔王与孙悟空在旗杆处的交手过程、胜负及牛魔王死状原文均未直接描写（仅有「冲出了浓烈的血腥气」与罗刹拭剑落泪、白晶晶「杀他的人」两处旁证），因此死亡只标为 inferred。",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-26"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "罗刹首次登场未给出身份说明（与牛魔王的关系称谓、来历），只有「家中」「拭牛魔王的佩剑」等行为证据。",
+      "evidence_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章原文标题为「．」，无有效章题；摘要标题为按内容拟定的工作标题，不作为原文事实。",
+      "evidence_claim_local_ids": []
+    }
+  ],
+  "warnings": [
+    "工具调用接近预算上限，白晶晶↔孙悟空、大鹏王↔金角/银角、罗刹↔牛魔王/白晶晶之外的部分关系对未逐一执行 find_similar_relationship，relationship_candidates 可能与该阶段既有关系对重复，需在 StageCommit 阶段去重。",
+    "「齐天大圣」与孙悟空的身份关系、以及「狮驼王」与大鹏王的关系，原文均未明示，已按候选登记，未做任何实体合并。",
+    "牛魔王死亡为 inferred（依据 claim-local-18/22/23），后续章节如明示死因需回填 supersedes。",
+    "罗刹、银角为临时候选（resolve_name 无命中），未建档。",
+    "本章原文存在少量疑似 OCR 乱码（如「你很快尮酒很快会死」），相关语句未逐字引用为锚点。"
+  ]
+}

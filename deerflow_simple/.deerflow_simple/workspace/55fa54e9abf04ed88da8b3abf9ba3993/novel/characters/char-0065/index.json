@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0065",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 19,
+  "entity_type": "character",
+  "label": "三太子",
+  "introduced_at": 19,
+  "identity_notes": [
+    {
+      "id": "in-char-0065-001",
+      "revealed_at": 19,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0673"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

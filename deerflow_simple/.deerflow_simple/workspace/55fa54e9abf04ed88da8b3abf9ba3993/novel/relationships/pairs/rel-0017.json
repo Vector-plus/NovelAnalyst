@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0017",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 9,
+  "introduced_at": 9,
+  "subjects": [
+    {
+      "path": "characters/char-0020/index.json",
+      "record_id": "char-0020"
+    },
+    {
+      "path": "characters/char-0021/index.json",
+      "record_id": "char-0021"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0017-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "as_of": 9,
+      "revealed_at": 9,
+      "summary": "阿珏与阿瑶一同在天界看日落，阿珏调侃阿瑶“你又在这儿看，羡慕人家了”“脸怎么和晚霞一样红了”，并向她转告王母要开蟠桃会、命仙女去桃园采桃。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "阿珏与阿瑶一同在天界看日落，阿珏调侃阿瑶“你又在这儿看，羡慕人家了”“脸怎么和晚霞一样红了”，并向她转告王母要开蟠桃会、命仙女去桃园采桃。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0175"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0176"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

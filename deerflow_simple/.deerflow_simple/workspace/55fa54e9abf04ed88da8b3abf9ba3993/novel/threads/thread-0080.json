@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0080",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 36,
+  "label": "孙悟空索要去掉金箍",
+  "introduced_at": 36,
+  "updates": [
+    {
+      "id": "update-thread-0080-001",
+      "revealed_at": 36,
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "category": "character_goal",
+      "status": "active",
+      "role": "advance",
+      "summary": "孙悟空醒来后第一诉求是让观音去掉头上的箍儿，并称即便砍头也要记得先去箍；观音以旧罪未销、又犯天条拒绝，最后以「你真的不想拿下金箍？」作为劝服条件。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1770"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1771"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1775"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

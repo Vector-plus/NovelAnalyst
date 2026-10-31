@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0027",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 12,
+  "introduced_at": 12,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0027-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "as_of": 12,
+      "revealed_at": 12,
+      "summary": "敖广称小白龙返回是为救「你师父」，并提到她本要驮一个和尚万里跋涉；小白龙表示相信「他」的理想一定能实现、要去找他的魂魄，并要用定颜珠保存他的身体。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "敖广称小白龙返回是为救「你师父」，并提到她本要驮一个和尚万里跋涉；小白龙表示相信「他」的理想一定能实现、要去找他的魂魄，并要用定颜珠保存他的身体。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0239"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0240"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0241"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0255"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0260"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

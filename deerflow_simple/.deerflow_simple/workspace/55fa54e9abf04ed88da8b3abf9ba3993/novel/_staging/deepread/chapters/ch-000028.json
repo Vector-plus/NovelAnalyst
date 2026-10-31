@@ -1,0 +1,744 @@
+{
+  "chapter_order": 28,
+  "chapter_id": "ch-000028",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "巨灵神阵外擒住阿瑶，孙悟空救下并踢飞巨灵神",
+      "introduced_at": 28,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 28,
+            "end": 28
+          }
+        ],
+        "revealed_at": 28,
+        "status": "closed",
+        "story_time": null,
+        "summary": "蟠桃会战局中，巨灵神不敢上前只在阵外起哄，发现阿瑶后跳过去用巨手一把将她拎起；孙悟空随即出现在他面前，接过阿瑶，按住他的头转了半圈又一脚踢在他屁股上，巨灵神再度化作星星消失。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-7"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空答应带阿瑶离开，携她奔下界",
+      "introduced_at": 28,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 28,
+            "end": 28
+          }
+        ],
+        "revealed_at": 28,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "阿瑶在孙悟空怀中仍含笑，问孙悟空是否吓傻了般关切，提出同回“家”，并表示不愿再留在天宫、要去没有神的地方；孙悟空反问“哪里还有家”后答应带她走，纵身跃起，一道金光奔下界而去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "王母重入大殿，发现琉璃盏被摔碎",
+      "introduced_at": 28,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 28,
+            "end": 28
+          }
+        ],
+        "revealed_at": 28,
+        "status": "closed",
+        "story_time": null,
+        "summary": "王母回到一片狼藉的蟠桃会大殿，众神鼻青脸肿、包纱拄拐远远跟着；她走到殿中央脚下咔嚓一声，低头看见地上的琉璃碎片，追问是谁扔了她的宝贝琉璃盏。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "巨灵神不敢上前，只在战阵外张望起哄。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "只在阵外张望起哄"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "巨灵神一眼看见阿瑶，跳过去用巨手把阿瑶像抓小鸡一样一把拎在手中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "伸出巨手便将阿瑶像抓小鸡一般一把拎在手中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "巨灵神刚抓住阿瑶，孙悟空已出现在他面前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "孙悟空已在面前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "天将们仍围成一团呼喊，催人“上，上，攻他左肋，攻他下盘……”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "攻他左肋，攻他下盘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "巨灵神对阿瑶干笑，称阿瑶头发上有根草、要帮她拿下来，随后说“咦？怎么找不到……”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "我帮你拿下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空接过阿瑶，单手按住巨灵神的头把他转了半圈，又飞起一脚踢在巨灵神屁股上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "然后飞起一脚踢在巨灵神的屁股上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "巨灵神被踢后又变成星星（消失）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "巨灵神又变成星星"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "巨灵神在被踢飞时喊“我讨厌这感觉！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "我讨厌这感觉"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "阿瑶被孙悟空抱在怀里，仍然满面笑意。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "竟还是满面笑意"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空问阿瑶“你吓傻了吗？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "你吓傻了吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "阿瑶对孙悟空说“猴子，我们回家吧。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "猴子，我们回家吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空反问“回家？哪里还有家？”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "回家？哪里还有家"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "阿瑶表示不愿再留在此处，要孙悟空带她走，去哪儿都行，只要是没有神的地方。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "只要是没有神的地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空应下“好，我带你走！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "好，我带你走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空纵身而起，一道金光奔下界而去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "一道金光奔下界而去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "王母重新回到大殿，看着一片狼藉的蟠桃会，脸色又开始变化。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "看着一片狼藉的蟠桃会"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "众神鼻青脸肿，包纱拄拐，远远跟着王母。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "包纱拄拐地远远跟着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "王母走到大殿中央，脚下咔嚓一声，一低头看见了地上的琉璃碎片。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "看见了地上的琉璃碎片"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "王母喝问是谁扔了她的宝贝琉璃盏。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 28,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000028.txt",
+          "chapter_id": "ch-000028",
+          "chapter_order": 28,
+          "locator": null,
+          "anchor": "是谁扔了我的宝贝琉璃盏"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "琉璃盏",
+      "category": "artifact",
+      "introduced_at": 28,
+      "notes": "王母称其为“我的宝贝琉璃盏”；本章只叙述殿中央地面有琉璃碎片、王母踩到并追问是谁扔了她的琉璃盏，未说明摔碎的具体经过与器物来历。名称出自王母之口，故 certainty 记为 reported。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "本章互动事实：巨灵神抓走阿瑶后孙悟空立即现身，接过阿瑶并将其抱在怀中；阿瑶在怀中仍含笑，提出“我们回家吧”并要求孙悟空带她离开天宫、去没有神的地方；孙悟空反问“哪里还有家”后应下“好，我带你走”，携她纵身化金光奔下界。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": "仅登记互动事实，不作感情性质定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "巨灵神在阵外看见阿瑶后跳过去，用巨手将阿瑶一把拎在手中；随后孙悟空出现救下阿瑶并把他踢飞。被拎起时巨灵神对阿瑶干笑称要帮她拿走头发上的草。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "本章仅呈现抓取—被救—踢飞的互动事实。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "new_thread",
+      "status": "open",
+      "role": "introduced",
+      "summary": "王母在蟠桃会大殿发现自己的宝贝琉璃盏被摔碎（地上只剩琉璃碎片），当众追问是谁扔的；本章未交代碎片由来及后续追责对象，构成新的未决线索。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "related_entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ]
+    },
+    {
+      "category": "new_thread",
+      "status": "open",
+      "role": "introduced",
+      "summary": "阿瑶提出“去哪儿都行，只要是没有神的地方”，孙悟空答应后携她化金光奔下界；二人离天后的去向与结局在本章未交代。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "related_entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第28章：猴子，我们回家吧",
+    "front_matter": {
+      "as_of": 28,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n蟠桃会的战局仍在延续。巨灵神不敢上前，只在战阵外张望起哄（[[claim-local-1]]）；天将们仍围成一团，呼喊着“上，上，攻他左肋，攻他下盘”（[[claim-local-4]]）。\n\n## 关键行动\n\n巨灵神在阵外一眼看见阿瑶，跳过去用巨手把阿瑶像抓小鸡一样一把拎在手中（[[claim-local-2]]）。他刚得手，眼前一晃，孙悟空已出现在他面前（[[claim-local-3]]）。巨灵神随即对阿瑶干笑，称她头发上有根草要帮她取下，又说“咦？怎么找不到……”（[[claim-local-5]]）。孙悟空接过阿瑶，单手按住巨灵神的头把他转了半圈，再飞起一脚踢在他屁股上（[[claim-local-6]]）；巨灵神喊“我讨厌这感觉！”，随后又变成星星消失（[[claim-local-8]]、[[claim-local-7]]）。\n\n## 转折与新信息\n\n阿瑶被孙悟空抱在怀里，仍然满面笑意（[[claim-local-9]]）。孙悟空问“你吓傻了吗？”（[[claim-local-10]]），阿瑶答“猴子，我们回家吧。”（[[claim-local-11]]）；孙悟空反问“回家？哪里还有家？”（[[claim-local-12]]），阿瑶表示不愿再留在此处，要孙悟空带她走，去哪儿都行，只要是没有神的地方（[[claim-local-13]]）。孙悟空应下“好，我带你走！”，纵身而起，一道金光奔下界而去（[[claim-local-14]]、[[claim-local-15]]）。\n\n## 本章结果\n\n孙悟空携阿瑶离开天宫下界（[[ev-local-2]]）。王母重新回到大殿，看着一片狼藉的蟠桃会，脸色又开始变化（[[claim-local-16]]）；众神鼻青脸肿、包纱拄拐，远远跟着她（[[claim-local-17]]）。王母走到大殿中央，脚下咔嚓一声，低头看见地上的琉璃碎片（[[claim-local-18]]），喝问是谁扔了她的宝贝琉璃盏（[[claim-local-19]]）。\n\n## 未决问题与补读入口\n\n- 孙悟空与阿瑶脱离天宫后前往何处、如何落地，本章未交代（[[claim-local-15]]）。\n- 地上琉璃碎片与此前被摔坏的“宝贝琉璃盏”之间的关系、摔碎者是谁，本章仅以王母的喝问呈现，未给出答案（[[claim-local-18]]、[[claim-local-19]]）。\n- 巨灵神被踢飞后“又变成星星”，其此前同样变化的记录需回看前章核对（[[claim-local-7]]）。\n- 本章第5段原文存在编码乱码（“转了半圦”等），涉及孙悟空对巨灵神的动作描述精度，已在 issue 中登记，可回查 source 原始段落（[[claim-local-6]]）。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 28,
+      "note": "天庭方（巨灵神）对阿瑶下手、孙悟空即时出手救人的对抗片段，可用于“孙悟空与天庭冲突升级”线索。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 28,
+      "note": "孙悟空答应带阿瑶离开并化金光下界，二人关系与去向的转折点。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-13",
+      "chapter_order": 28,
+      "note": "阿瑶明确表示“只要是没有神的地方”，是其立场表述的关键原话（reported）。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-19",
+      "chapter_order": 28,
+      "note": "王母当众追问谁扔了她的宝贝琉璃盏，可作后续追责/冲突线索的触发陈述（reported）。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "本章第5段（“孙悟空接过阿瑶，将手一按巨灵的头，单手把他转了半圦”���了半�，然后飞起一脚踢在巨灵神的屁股上。”）含乱码/字符替换错误，无法确认“转了半圈/半转”等确切表述。",
+      "chapter_order": 28,
+      "suggested_action": "回查 source-v1 原始文本或对照其他版本校正该段，再决定是否修订 claim-local-6 的文本。"
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "本章未说明琉璃盏是何时、被谁摔碎的，仅有地面琉璃碎片与王母的喝问；无法判断是否与孙悟空大闹天宫过程中的具体动作对应。",
+      "chapter_order": 28,
+      "suggested_action": "回看前章（第27章）原文确认琉璃盏损毁的具体段落。"
+    }
+  ],
+  "warnings": [
+    "本章（第28章）原文仅 17 段、篇幅极短，且第5段存在乱码，claim-local-6 的动作细节精度受限。",
+    "本章所有未具名的“天将”“众神”均为群体指称，未建立候选实体，仅在 claim/event summary 中以文字表述。",
+    "find_similar_relationship 对 char-0002/char-0021、char-0002/char-0061 均返回 no_match，relationship_candidates 为本次新增候选，需在 StageCommit 阶段判定是否建档。",
+    "本章未出现新的具名角色，new_character_candidates 为空；王母的“宝贝琉璃盏”按器物类 setting 候选登记，certainty 依其出自王母之口记为 reported。"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0177",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 44,
+  "label": "灵霄宝殿（灵霄殿）",
+  "category": "other",
+  "introduced_at": 44,
+  "updates": [
+    {
+      "id": "update-setting-0177-001",
+      "revealed_at": 44,
+      "chapter_ranges": [
+        {
+          "start": 44,
+          "end": 44
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1946"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1955"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1956"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

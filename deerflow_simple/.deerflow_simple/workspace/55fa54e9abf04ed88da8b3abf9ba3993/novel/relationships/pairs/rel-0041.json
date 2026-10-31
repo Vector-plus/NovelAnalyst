@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0041",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 18,
+  "introduced_at": 18,
+  "subjects": [
+    {
+      "path": "characters/char-0059/index.json",
+      "record_id": "char-0059"
+    },
+    {
+      "path": "characters/char-0060/index.json",
+      "record_id": "char-0060"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0041-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "revealed_at": 18,
+      "summary": "太上老君称沙悟净是他派在取经人身边监视孙悟空等人的，并因这层关系表示相信沙悟净的指证。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "太上老君称沙悟净是他派在取经人身边监视孙悟空等人的，并因这层关系表示相信沙悟净的指证。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0645"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

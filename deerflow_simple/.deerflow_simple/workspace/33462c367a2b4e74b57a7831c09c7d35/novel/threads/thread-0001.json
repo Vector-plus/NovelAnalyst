@@ -1,0 +1,30 @@
+{
+  "id": "thread-0001",
+  "introduced_at": 2,
+  "kind": "story_thread",
+  "label": "被隐瞒的真相与“和平视窗设想”",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 2,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0001-001",
+      "resolution_refs": [],
+      "revealed_at": 2,
+      "role": "setup",
+      "status": "open",
+      "summary": "机上密谈后克雷尔神色异常、对团员隐瞒真相；萨里在电梯中提出“和平视窗设想”是否真要实现，克雷尔以“明天你就会明白一切”推至次日。"
+    }
+  ]
+}

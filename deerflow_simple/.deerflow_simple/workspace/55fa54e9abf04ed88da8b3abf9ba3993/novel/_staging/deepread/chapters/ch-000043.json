@@ -1,0 +1,755 @@
+{
+  "chapter_order": 43,
+  "chapter_id": "ch-000043",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "灵霄宝殿：沙悟净救下被抛飞的玉帝并献琉璃盏求返天界",
+      "introduced_at": 43,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 43,
+            "end": 43
+          }
+        ],
+        "revealed_at": 43,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "玉帝从灵霄宝殿下面一层探头大喊请如来，孙悟空揪住其衣领将他抛向空中；沙悟净跳出接住玉帝。玉帝称其「好样的」并问其差事、许诺赏赐；沙悟净叩头称臣，只求重返天界，并掏出满是裂纹、已拼补的琉璃盏。玉帝冷笑追问其罪赎了没有，对「五百年」表示不解，最后命他先把最后一片找到再说。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0060/index.json",
+              "record_id": "char-0060"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "灵霄宝殿混战：天将围攻孙悟空，沙悟净护盏受伤",
+      "introduced_at": 43,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 43,
+            "end": 43
+          }
+        ],
+        "revealed_at": 43,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "玉帝喊「孙悟空来了，快拦住」，沙悟净挺杖拦阻，被孙悟空一棒打得直飞出去，琉璃盏飞向空中；沙悟净扑上去接住。随后一群天将冲上与孙悟空相斗，踩在沙悟净身上，沙悟净嘴角流血仍把琉璃盏死死护在怀里。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0060/index.json",
+              "record_id": "char-0060"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天将"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "玉帝从灵霄宝殿下面一层探出头来，声嘶力竭地大喊「快去请如来佛祖」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "快去请如来佛祖——"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空跳过去一把揪住玉帝衣领，质问「你是不是就会这一句啊」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "你是不是就会这一句啊？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空一甩手，玉帝被抛到了空中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "玉帝啊一声被抛在了空中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "沙悟净跳出去接住了被抛在空中的玉帝。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "可是一个人跳出去把玉帝接住了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "玉帝对沙悟净说「你是好样的」，问他在哪里做事，并说定要赏他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "你是好样的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "沙悟净连连磕头，自称「臣」，说只有一个心愿，望能重返天界。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "臣只有一个心愿，望能重返天界！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "玉帝说「原来你是犯了天条的」，冷笑追问沙悟净的罪赎了没有。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "你的罪赎了没有？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "沙悟净自称当年打碎琉璃盏被罚下天庭，日日夜夜搜寻洒落世间各处的琉璃碎片，终于将盏补好，只差一片。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "当年打碎琉璃盏，被罚下天庭"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "玉帝对沙悟净说，能把他打碎又拼好的盏找回来，「真有你的」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "这也能让你找回来，还能把粉碎的盏拼好，真有你的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "沙悟净说「臣在下界找了五百年」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "臣在下界找了五百年啊！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "玉帝反问「五百年？什么五百年？」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "五百年？什么五百年？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "沙悟净反问玉帝「你不记得当年的事了么」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "你不记得当年的事了么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "玉帝说「不管了！你能把最后一片找到再说吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "你能把最后一片找到再说吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "玉帝喊「孙悟空来了，快拦住」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "孙悟空来了，快拦住"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "沙悟净挺杖拦阻孙悟空，被一棒打得直飞出去，琉璃盏也飞到空中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "沙悟净挺杖一拦，被猴子一棒打得直飞出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "沙悟净喊「不要」，扑上去接住了飞出的琉璃盏。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "沙悟净扑上去接住那盏"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "一群天将冲上来与孙悟空相斗，纷纷踩在沙悟净身上，血从沙悟净嘴角流出，他仍把琉璃盏死死护在怀里。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "他还把那个盏死死护在怀里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "沙悟净念道「只剩最后一片了啊，五百年了啊」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 43,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "locator": null,
+          "anchor": "只剩最后一片了啊，五百年了啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "天将",
+      "introduced_at": 43,
+      "alias_texts": [
+        "一群天将"
+      ],
+      "identity_notes": "本章作为群体出场，冲出与孙悟空相斗；未给出具体姓名或单体身份，尚不能归入任何已有实体。",
+      "evidence_claim_local_ids": [
+        "claim-local-17"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天将（天庭武将群体）",
+      "introduced_at": 43,
+      "category": "military_group",
+      "certainty": "explicit",
+      "notes": "本章作为一群天将出场，与孙悟空相斗；与玉帝的从属关系为既有设定，本章未展开。",
+      "evidence_claim_local_ids": [
+        "claim-local-17"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "琉璃盏",
+      "category": "item",
+      "introduced_at": 43,
+      "notes": "沙悟净从怀中掏出的器物，满是裂纹。据沙悟净自述：当年打碎此盏被罚下天庭，他日日夜夜搜寻洒落世间的琉璃碎片将其拼好，仍差最后一片。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "subject_b": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "facet": {
+        "type": "membership",
+        "note": "沙悟净自称「臣」叩头，向玉帝求重返天界"
+      },
+      "certainty": "explicit",
+      "summary": "沙悟净在灵霄宝殿跳出去接住被孙悟空抛飞的玉帝；随后连连磕头自称「臣」，献上拼补好的琉璃盏并称心愿是重返天界。玉帝先说「你是好样的」并问其差事、许诺赏赐，转而冷笑追问其罪赎了没有，对「五百年」表示不解，最后命他先把最后一片找到再说。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-13"
+      ],
+      "notes": "「重返天界」的心愿与其被罚经过均为沙悟净自述（reported）；两人既有的正式隶属关系本章未明示，仅由其自称「臣」推断。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "孙悟空揪衣领并抛飞玉帝"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空在灵霄宝殿跳过去一把揪住玉帝衣领质问，一甩手将玉帝抛在空中。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "沙悟净挺杖拦阻孙悟空，被一棒打飞"
+      },
+      "certainty": "explicit",
+      "summary": "沙悟净奉玉帝之命挺杖拦阻孙悟空，被一棒打得直飞出去，琉璃盏脱手飞向空中；随后混战中天将踩在沙悟净身上致其嘴角流血。",
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_local_id": "thread-local-1",
+      "title": "沙悟净补全琉璃盏以求重返天界",
+      "category": "quest",
+      "status": "ongoing",
+      "role": "introduced",
+      "summary": "沙悟净自称当年打碎琉璃盏被罚下天庭，五百年间搜寻洒落世间的琉璃碎片，已拼补成盏，仅差最后一片；玉帝命他先把最后一片找到再说。",
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-10",
+        "claim-local-13",
+        "claim-local-18"
+      ],
+      "notes": "补盏过程与期限（五百年）均出自沙悟净自述；玉帝对「五百年」表示不解，称「不管了」。事实是否成立待后文确认。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第43章：灵霄宝殿的琉璃盏",
+    "front_matter": {
+      "as_of": 43,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0060/index.json",
+          "record_id": "char-0060"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "天将"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n天界灵霄宝殿仍在混战中。玉帝从殿的下面一层探出头来，声嘶力竭地喊「快去请如来佛祖」（[[claim-local-1]]）。孙悟空跳过去，一把揪住他的衣领质问「你是不是就会这一句啊」，一甩手把玉帝抛在空中（[[claim-local-2]]、[[claim-local-3]]）。\n\n## 关键行动\n\n沙悟净跳出去接住了空中的玉帝（[[claim-local-4]]）。玉帝称他「你是好样的」，问他何处做事，并说定要赏他（[[claim-local-5]]）。沙悟净连连磕头自称「臣」，说只有一个心愿——望能重返天界（[[claim-local-6]]）。\n\n## 转折与新信息\n\n玉帝冷笑说「原来你是犯了天条的」，追问其罪赎了没有（[[claim-local-7]]）。沙悟净从怀中掏出那个满是裂纹的琉璃盏，自述当年打碎此盏被罚下天庭，日日夜夜搜寻洒落世间各处的碎片，终于将其补好，只差一片（[[claim-local-8]]）。玉帝对其能把粉碎的盏找回来拼好表示「真有你的」（[[claim-local-9]]）。沙悟净说自己在下界找了五百年（[[claim-local-10]]）；玉帝却反问「五百年？什么五百年？」（[[claim-local-11]]），沙悟净遂反问「你不记得当年的事了么」（[[claim-local-12]]）。玉帝回应「不管了！你能把最后一片找到再说吧」（[[claim-local-13]]），随即喊「孙悟空来了，快拦住」（[[claim-local-14]]）。\n\n## 本章结果\n\n沙悟净挺杖拦阻，被孙悟空一棒打得直飞出去，琉璃盏也飞向空中（[[claim-local-15]]）；沙悟净扑上去接住那盏（[[claim-local-16]]）。一群天将冲上来与孙悟空相斗，纷纷踩在沙悟净身上，血从他嘴角流出，他仍把盏死死护在怀里（[[claim-local-17]]），念着「只剩最后一片了啊，五百年了啊」（[[claim-local-18]]）。\n\n## 未决问题与补读入口\n\n- 琉璃盏的最后一片在何处、沙悟净能否找到并以此赎罪：本章未答（对应 [[claim-local-13]]、[[claim-local-18]]）。\n- 玉帝对「五百年」表示不解、沙悟净反问「你不记得当年的事」，玉帝是否记忆有异或另有隐情：本章仅提出问题，未解释（对应 [[claim-local-11]]、[[claim-local-12]]）。\n- 沙悟净打碎琉璃盏被贬的完整经过在原文中仅有其本人自述，如需核实需回读其首次出场章节。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 43,
+      "note": "沙悟净灵霄宝殿救驾并献补好的琉璃盏，求重返天界——天庭战局中的关键插入事件"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 43,
+      "note": "天将围攻孙悟空，沙悟净护盏流血——沙悟净处境的转折点证据"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-8",
+      "chapter_order": 43,
+      "note": "沙悟净自述打碎琉璃盏被贬、寻碎片补盏（reported）"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-11",
+      "chapter_order": 43,
+      "note": "玉帝对「五百年」不解，疑其记忆或时间认知异常（reported）"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-18",
+      "chapter_order": 43,
+      "note": "沙悟净「只剩最后一片」的执念陈述（reported）"
+    },
+    {
+      "kind": "thread",
+      "ref_or_local_id": "thread-local-1",
+      "chapter_order": 43,
+      "note": "琉璃盏补全/赎罪线索开线"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "沙悟净自称因打碎琉璃盏被罚下天庭、在下界寻碎片五百年，但玉帝反问「五百年？什么五百年？」并追问其罪赎了没有，双方对同一段往事认知不一致；本章未解释成因。",
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "anchor": "五百年？什么五百年？"
+        }
+      ],
+      "related_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "severity": "medium"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "沙悟净「打碎琉璃盏被贬」的完整经过在本章仅为其本人自述（reported）；实体 char-0060 的 identity_notes 已引用第18章相关 claims（claim-0642/0643/0649/0650/0654），本次 dedupe_claim 未命中，二者表述是否重复需在汇总阶段核对。",
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000043.txt",
+          "chapter_id": "ch-000043",
+          "chapter_order": 43,
+          "anchor": "当年打碎琉璃盏，被罚下天庭"
+        }
+      ],
+      "related_local_ids": [
+        "claim-local-8"
+      ],
+      "severity": "low"
+    }
+  ],
+  "warnings": [
+    "本章原文极短（18段），以对话为主，多处关键背景（琉璃盏被贬经过、五百年期限）均为角色自述，已统一标注为 reported。",
+    "本章未出现需要消歧的新人名；「猴子」在同段被玉帝称「孙悟空来了」，按章内明示视为孙悟空（char-0002）。",
+    "「天将」为群体出场，已作为 character/faction 候选登记，未合并到任何已有实体。",
+    "沙悟净与玉帝、沙悟净与孙悟空的关系对 find_similar_relationship 均返回 no_match，故按新关系候选登记。",
+    "章首紧接第42章天界崩毁战局，章尾悬念（混战与琉璃盏）由第44章转入孙悟空自身视角，未在本章收束。"
+  ]
+}

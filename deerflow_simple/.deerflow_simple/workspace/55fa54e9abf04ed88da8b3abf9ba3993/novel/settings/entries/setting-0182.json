@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0182",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 47,
+  "label": "金箍",
+  "category": "other",
+  "introduced_at": 47,
+  "updates": [
+    {
+      "id": "update-setting-0182-001",
+      "revealed_at": 47,
+      "chapter_ranges": [
+        {
+          "start": 47,
+          "end": 47
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2008"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "chapter_order": 33,
+  "chapter_id": "ch-000033",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天宫锁妖柱：诸刑用尽，孙悟空不死",
+      "introduced_at": 33,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 33,
+            "end": 33
+          }
+        ],
+        "revealed_at": 33,
+        "status": "concluded",
+        "story_time": "天宫锁妖柱（孙悟空被擒后受刑期间）",
+        "summary": "玉帝在锁妖柱接连下令行刑：五万狂雷、三千刀凌迟、火烧、三百头天狼咬、三百只天鹰啄。天将回报孙悟空被撕烂却仍未死。玉帝惊立质问其为何死不了，观音指出这是天地造化的灵猴，心不死则杀不死，并说也许有一个方法能让他死。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天将"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-5"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "紫霞见锁妖柱上的孙悟空，孙悟空身死",
+      "introduced_at": 33,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 33,
+            "end": 33
+          }
+        ],
+        "revealed_at": 33,
+        "status": "concluded",
+        "story_time": "承接上段同一场景",
+        "summary": "紫霞被带到玉帝面前，玉帝令她前往。她走到锁妖柱前，见到柱脚上骨肉脱离的残躯。孙悟空对她说出蟠桃会回来一起看晚霞的约定，并称她的梦是真的、自己见过看晚霞的松鼠。紫霞提高声音否认自己是松鼠，强调自己是天宫神仙、孙悟空是妖精，二人永远不同，并称当日说喜欢他不过是气巨灵神的。孙悟空眼中光芒暗淡消失，残骸成为无生命的躯壳。天界众神欢呼妖王死。太上老君索要残骸入炼丹炉炼仙丹；天将推开紫霞搬走尸骨，其枯骨手中仍死死抓着一条紫色披巾，掰不开。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天将"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "天将向玉帝回报：五万狂雷击完，孙悟空还没有死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "天将"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "五万狂雷击完，那猴子还没有死呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "玉帝在锁妖柱接连下令对孙悟空施刑：凌迟（三千刀）、火烧、派三百头天狼咬、三百只天鹰啄。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "派三百头天狼咬他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "天将向玉帝回报：孙悟空已被撕烂，但仍未死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "天将"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "可是……他还没有死啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "玉帝惊立而起，质问「他为什么死不了呢」，并称不信世上有他杀不死的东西，下令一直用刑到他死为止。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "一直用刑到他死为止"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "观音微笑说：这是天地造化的灵猴，若心不死时，是杀不死他的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "若心不死时，是杀不死他的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "观音对玉帝说：「也许，有个方法能让他死。」但未在本章说明该方法是何。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "也许，有个方法能让他死"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "紫霞被天将带到玉帝面前；玉帝要她照观音所说去办事，说「去吧」；紫霞沉默后依令前往。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "紫霞被带到玉帝面前"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "紫霞低头一步步数着脚下步数向前走，约一百步快到孙悟空面前时，看见血流到她脚下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "她看见了血，流到她的脚下来。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "锁妖柱刑场为一座铜铸高台，台上一根巨柱直入天顶，柱脚上是被刑的孙悟空——半血淋淋半焦乎乎、骨肉脱离已不成人形的残躯，唯有双眼尚是两颗晶亮珠子并放出目光。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "眼前是一座铜铸高台，台上一根巨柱直入天顶。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "残躯中的孙悟空认得紫霞，对她说「我就知道你一定会来的」，并称自己只是想着她会来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "那残骸说"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空（在残躯中）说：那天答应了紫霞蟠桃会回来就和她一起看晚霞，并说自己很喜欢花果山的大海，常在那里看太阳落下，本想说花果山那里的晚霞很好。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "我答应你蟠桃会回来就和你一起看晚霞"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空对紫霞说「你的梦，是真的」，称自己见过那样一只喜欢在树枝上看晚霞的松鼠。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "我见过那样一只松鼠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "紫霞回答：自己不是松鼠，是从西天的云彩中化出来的，那只不过是个梦。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "我是从西天的云彩中化出来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "紫霞提高声音对孙悟空说：你要记住你是一只猴子、是一个妖精，我是天宫的神仙，不可能和一只猴子在一起，那天说喜欢你不过是气巨灵神的，我们永远是不一样的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "那天我说喜欢你，不过是气巨灵神的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "紫霞继续说：孙悟空不能成正果，永远不要想和她在一起；并说花果山的天空其实是一片黑暗，在那里看不见晚霞。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "花果山的天空其实是一片黑暗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空听罢只低声道「是这样……原来是这样……」，其头颅上两点光芒慢慢暗淡并最终完全消失，残骸变成没有生命的躯壳。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "那头颅上的两点光芒开始慢慢地暗淡了下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "叙述在此处以一句总结：只有绝望，能毁灭一颗不死的心。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "只有绝望，能毁灭一颗不死的心。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "天界所有的神仙欢呼「妖王死喽」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "妖王死喽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "太上老君叫道：把孙悟空的残骸拿到他的炼丹炉去，称其为灵气聚合之物，要用它炼制仙丹。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "把他的残骸拿到我炼丹炉去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "几个天将一把推开紫霞，上前搬孙悟空的尸骨；发现尸骨手里还抓着东西，烂成这样仍抓不放，掰不开，天将决定连手一起拿去炼。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "掰不开啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "天将搬着骸骨走过紫霞身边时，紫霞看清那只剩枯骨的手上死死抓着的东西是一条紫色的披巾。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "那是一条紫色的披巾。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空身死、众神欢呼后，紫霞仍怔怔对着躯壳发问：「你真的明白……你真的明白我想说什么？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "你真的明白……你真的明白我想说什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "关于「松鼠看晚霞之梦」的真实性与紫霞的来历，本章并存两种说法：孙悟空称她的梦是真的、自己见过那只松鼠；紫霞否认自己是松鼠，自称从西天的云彩中化出、那只是个梦。原文未判定何者为真。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 33,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "我见过那样一只松鼠"
+        },
+        {
+          "path": "source/vol-001/ch-000033.txt",
+          "chapter_id": "ch-000033",
+          "chapter_order": 33,
+          "locator": null,
+          "anchor": "我是从西天的云彩中化出来的"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-local-12"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-local-13"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "锁妖柱",
+      "category": "place",
+      "introduced_at": 33,
+      "notes": "天宫刑场，位于一座铜铸高台之上，台上一根巨柱直入天顶；孙悟空被锁于柱脚受刑。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "太上老君的炼丹炉",
+      "category": "item",
+      "introduced_at": 33,
+      "notes": "太上老君提出将孙悟空残骸拿去炼丹炉炼制仙丹，称残骸为灵气聚合之物。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "紫色披巾",
+      "category": "item",
+      "introduced_at": 33,
+      "notes": "孙悟空身死后，其枯骨之手仍死死抓着一条紫色披巾，掰不开。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "玉帝在锁妖柱下令对孙悟空连施重刑并要求一直用刑到其死为止；孙悟空身死后天界众神欢呼。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-16",
+        "claim-local-18"
+      ],
+      "notes": "仅记录行刑与下令的互动事实。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞奉玉帝之令来到锁妖柱见残躯中的孙悟空：孙悟空向她说出蟠桃会回来一起看晚霞的约定与「你的梦是真的」，紫霞则提高声音否认松鼠之梦、强调自己是天宫神仙而他只是妖精猴子、当日说喜欢他不过是气巨灵神的；孙悟空眼中光芒由此熄灭身死，其枯骨之手仍抓着一条紫色披巾。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-21",
+        "claim-local-22"
+      ],
+      "notes": "只列互动与言语事实，不对二人感情作定性；感情属性留待汇总阶段判断。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "foreshadowing",
+      "status": "advanced",
+      "role": "核心线索推进",
+      "summary": "观音称「若心不死时，是杀不死他的」；紫霞一番话后孙悟空眼中光芒熄灭身死，叙述点出「只有绝望，能毁灭一颗不死的心」。心死与身死的关系构成后续可回查的关键线索。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "未决悬念",
+      "summary": "孙悟空称紫霞的松鼠之梦是真的、自己见过那只松鼠，紫霞否认并自称从西天云彩中化出；何者为真本章未判定。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-23"
+      ]
+    },
+    {
+      "category": "item_hook",
+      "status": "open",
+      "role": "物件悬念",
+      "summary": "孙悟空枯骨手中死死抓着一条紫色披巾，天将掰不开，最后连骸骨一并搬走、拟入炼丹炉。该披巾与紫霞的关联本章未明说。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "faction_move",
+      "status": "advanced",
+      "role": "势力动向",
+      "summary": "太上老君当众索要孙悟空残骸，称其为灵气聚合之物，要拿去炼丹炉炼制仙丹；天将随即推开紫霞搬走尸骨。",
+      "source_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第33章：锁妖柱——诸刑不死与残骸之死",
+    "front_matter": {
+      "as_of": 33,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        },
+        {
+          "candidate_name": "天将"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n场景：天宫·锁妖柱。孙悟空已被锁于柱上，玉帝的问题从天将的回报开始——五万狂雷击完，「那猴子还没有死」。玉帝连番下令：凌迟（三千刀砍过）、火烧、三百头天狼咬、三百只天鹰啄。天将回报猴子已被撕烂，但「可是……他还没有死啊」。玉帝惊立而起，质问「他为什么死不了呢」，并称不信世上有他杀不死的东西，下令一直用刑到他死为止。（claim-local-1 ~ claim-local-4）\n\n## 关键行动\n\n- 观音微笑指出：这是天地造化的灵猴，「若心不死时，是杀不死他的」；随后又说「也许，有个方法能让他死」，但未在本章说明方法。（claim-local-5、claim-local-6）\n- 紫霞被带到玉帝面前；玉帝要她照观音所说去办事，说「去吧」。紫霞沉默依令前往。她低头一步步数着脚下的步数，约一百步将到时，看见血流到自己脚下。（claim-local-7、claim-local-8）\n- 眼前是铜铸高台、一根直入天顶的巨柱；柱脚上是被刑后的孙悟空——半血淋淋半焦乎乎、骨肉脱离不成人形，唯双眼是两颗晶亮珠子，放出她熟悉的目光。（claim-local-9）\n\n## 转折与新信息\n\n- 孙悟空先开口：「哈，你来了」「我就知道你一定会来的」，并说自己只是想着她会来；他说那天答应蟠桃会回来就和她一起看晚霞，说自己很喜欢花果山的大海、常在那里看太阳落下，本想说花果山那里的晚霞很……（claim-local-10、claim-local-11）\n- 他补上一句：她的梦是真的，他见过那样一只喜欢在树枝上看晚霞的松鼠。（claim-local-12）\n- 紫霞否认：「我不是松鼠，我是从西天的云彩中化出来的，那只不过是个梦。」她提高声音要他记住：你是一只猴子、是妖精，我是天宫的神仙，不可能和一只猴子在一起，那天说喜欢你不过是气巨灵神的，我们永远是不一样的。（claim-local-13、claim-local-14）\n- 她继续说：孙悟空不能成正果、永远不要想和她在一起；花果山的天空其实是一片黑暗，在那儿看不见晚霞。（claim-local-15）\n- 本章并存两说、原文未判定：梦是真的（孙悟空）与梦只是梦、她自西天云彩所化（紫霞）。（claim-local-23）\n\n## 本章结果\n\n- 孙悟空只道「是这样……原来是这样……」，头颅上的两点光芒慢慢暗淡、最终完全消失，残骸成为没有生命的躯壳；叙述在此点出「只有绝望，能毁灭一颗不死的心」。（claim-local-16、claim-local-17）\n- 天界所有神仙欢呼「妖王死喽」；紫霞仍怔怔对着躯壳追问「你真的明白我想说什么」。（claim-local-18、claim-local-22）\n- 太上老君叫道把残骸拿去炼丹炉，称其为灵气聚合之物、要用它炼制仙丹；几个天将推开紫霞上前搬尸骨，发现枯骨之手抓着东西掰不开，决定一并拿去炼。（claim-local-19、claim-local-20）\n- 骸骨被搬过紫霞身边时，她看清那只剩枯骨的手上死死抓着的东西，是一条紫色的披巾。（claim-local-21）\n- 章节以一段诗行收束（陶罐上的传说、火会熄灭、落日加冕等意象），为叙述插入的抒情文字，未推进具体情节。\n\n## 未决问题与补读入口\n\n1. 观音所说「能让他死」的方法是什么？本章没有说明，需看后文是否落实。\n2. 紫色披巾的自来与含义（谁所赠、为何被孙悟空抓着不放）本章未交代。\n3. 「你的梦是真的／我见过那只松鼠」与紫霞的自述来历存在张力，原文未判定，留待后文回查。\n4. 残骸被太上老君带往炼丹炉后的去向（是否真被炼成仙丹）未在本章交代；衔接处见第34章开头「五百年后……」。"
+  },
+  "stage_buffer_appends": [
+    {
+      "record_local_id": "ev-local-2",
+      "kind": "event",
+      "note": "孙悟空在锁妖柱身死、天界众神欢呼妖王死；残骸被太上老君索入炼丹炉；枯骨手抓紫色披巾。stage-004 内关键转折点。",
+      "chapter_order": 33
+    },
+    {
+      "record_local_id": "claim-local-5",
+      "kind": "claim",
+      "note": "观音：天地造化的灵猴，若心不死时，是杀不死他的——为「心死则身死」机制的直接表述。",
+      "chapter_order": 33
+    },
+    {
+      "record_local_id": "claim-local-9",
+      "kind": "claim",
+      "note": "锁妖柱场景形态（铜铸高台+巨柱+柱脚残躯），可作空间设定依据。",
+      "chapter_order": 33
+    },
+    {
+      "record_local_id": "claim-local-23",
+      "kind": "claim",
+      "note": "松鼠之梦真伪与紫霞自述来历的并存说法，未决悬念。",
+      "chapter_order": 33
+    },
+    {
+      "record_local_id": "claim-local-19",
+      "kind": "claim",
+      "note": "太上老君索要孙悟空残骸炼仙丹，势力动向。",
+      "chapter_order": 33
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章第20段（紫霞被带到玉帝面前后的玉帝台词）原文存在字符编码乱码：「观音大士都䝀那只嫀�都䝀��你说了，你知道该做什么？」该句无法作为可靠锚点引用，相关事实仅以「紫霞被带到玉帝面前」段锚定。",
+      "chapter_order": 33,
+      "suggested_fix": "如源文本可修复，请回查 source-v1 该段原文；否则该句对话内容按残缺处理，不参与语义推断。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "「也许，有个方法能让他死」之后紧接紫霞被带到玉帝面前，但原文未明写该方法与紫霞有关，观音话语与紫霞登场之间的因果仅为段落相邻，缺乏显式连接句。",
+      "chapter_order": 33,
+      "suggested_fix": "下游如需建立「观音所提方法→紫霞出面」的因果，请在后文寻找显式依据，勿据排列顺序推定。"
+    }
+  ],
+  "warnings": [
+    "本章标题在源文件中显示为「．」（异常/空标题），摘要标题依内容拟为「锁妖柱——诸刑不死与残骸之死」。",
+    "本章含大量角色台词（紫霞、孙悟空、观音、玉帝、太上老君），凡属其言说内容者一律标为 reported；其中孙悟空之死、神仙欢呼、天将搬骨骸等叙述动作标为 explicit。",
+    "紫霞对孙悟空的互动按规则只记录事实与言语，不作感情定性，facet 使用 other。",
+    "「天将」为泛称群体，未新建角色档案，仅在参与者与属性中以 candidate_name 记录。",
+    "第33章含一段诗行式抒情文字，未产生可归属主体的情节事实，仅作摘要说明，未建 claim。"
+  ]
+}

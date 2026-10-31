@@ -1,0 +1,136 @@
+{
+  "coverage_status": "complete",
+  "entries": [
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "按阶段和章节定位剧情材料。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/index.json",
+        "record_id": "idx-plot"
+      },
+      "title": "章节剧情"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "按人物和经历阶段定位材料。",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/index.json",
+        "record_id": "idx-characters"
+      },
+      "title": "人物传记"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询势力资料与阶段格局。",
+      "tags": [
+        "faction"
+      ],
+      "target": {
+        "path": "factions/index.json",
+        "record_id": "idx-factions"
+      },
+      "title": "势力格局"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询定义、条件、限制与例外。",
+      "tags": [
+        "setting"
+      ],
+      "target": {
+        "path": "settings/index.json",
+        "record_id": "idx-settings"
+      },
+      "title": "体系设定"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询双方关系及变化。",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/index.json",
+        "record_id": "idx-relationships"
+      },
+      "title": "人物关系"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询互动、心理与情感转折。",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/index.json",
+        "record_id": "idx-emotions"
+      },
+      "title": "感情线"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询跨主题引用的剧情事件。",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/index.json",
+        "record_id": "idx-events"
+      },
+      "title": "共享事件"
+    },
+    {
+      "chapter_ranges": [],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "查询主支线、谜团与伏笔。",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/index.json",
+        "record_id": "idx-threads"
+      },
+      "title": "故事线"
+    }
+  ],
+  "id": "idx-catalog",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "主题导航"
+}

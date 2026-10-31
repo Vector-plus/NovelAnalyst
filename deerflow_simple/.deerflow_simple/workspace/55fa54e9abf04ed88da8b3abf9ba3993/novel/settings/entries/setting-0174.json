@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0174",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 42,
+  "label": "三藏经（手卷）",
+  "category": "artifact",
+  "introduced_at": 42,
+  "updates": [
+    {
+      "id": "update-setting-0174-001",
+      "revealed_at": 42,
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1917"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1918"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1919"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1920"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

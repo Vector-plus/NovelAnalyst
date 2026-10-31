@@ -1,0 +1,677 @@
+{
+  "chapter_order": 1,
+  "chapter_id": "ch-000001",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "密林前四人争吵：唐僧索食，三徒弟斗嘴",
+      "introduced_at": 1,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 1,
+            "end": 1
+          }
+        ],
+        "revealed_at": 1,
+        "status": "closed",
+        "story_time": null,
+        "summary": "取经四人行至一片密林前无路可走。唐僧在石上坐下命孙悟空去找吃的，悟空以“正忙着看晚霞”为由拒绝；猪八戒插话劝阻并提到诅咒，悟空骂其“猪头”，八戒举钉耙欲冲；沙和尚大吼要睡觉，三人怒目而视。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0004/index.json",
+              "record_id": "char-0004"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "唐僧赌气独自入林寻食，僧袍被扯破",
+      "introduced_at": 1,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 1,
+            "end": 1
+          }
+        ],
+        "revealed_at": 1,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "唐僧起身表示自己去给徒弟们找吃的，并说若自己被妖怪吃了他们只能哭；孙悟空反唇相讥说林中有女妖精等着，三个徒弟冷笑。唐僧挥拳拍尘整袍后向林中走去，刚迈一步僧袍便“嘶啦”扯破，三人大笑成一团。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0004/index.json",
+              "record_id": "char-0004"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-12",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "取经四人走到一处密林前，前边又无路了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "四个人走到这里，前边一片密林，又没有路了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "唐僧在石头上大模大样坐下，命孙悟空去给自己找些吃的。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "我饿了，给我找些吃的来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空拄着棒子拒绝去找吃的，说自己正忙着，反问唐僧自己没有腿、为何不自己去找。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "我正忙着，你不会自己去找？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空望着天边说晚霞很美，并称自己只有看看晚霞，才能每天坚持向西走下去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "我只有看看这个，才能每天坚持向西走下去啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空表示自己看晚霞的时候不做任何事。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "我看晚霞的时候不做任何事！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "猪八戒对孙悟空说：不能这样欺负秃头（指唐僧），若把他饿死了就找不到西天，而找不到西天，他们身上的诅咒就永远解除不了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "我们身上的诅咒永远也解除不了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空骂猪八戒是“猪头”，猪八戒怒称“你说谁是猪”，并举钉耙要冲上去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "猪八戒举着钉耙就要往上冲"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "沙和尚大吼让众人别吵，说自己要困觉了，要打就滚远些打。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "老子要困觉了！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "叙述称孙悟空、猪八戒、沙和尚三人“怒目而视”，此前的互相争吵暂时停住。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "三个恶棍怒目而视"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧站起身来说“打吧打吧，打死一个少一个”，并称徒弟们是“大爷”，由自己去给他们找吃的。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "打死一个少一个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "唐僧说若自己在林中路上被妖怪吃了，徒弟们那时就只能哭。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "那时你们就哭吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空冲唐僧叫道“那儿有女妖精正等着你呢”，三个徒弟都冷笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "那儿有女妖精正等着你呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "叙述将孙悟空、猪八戒、沙和尚三人称作“三个怪物”，称三人都冷笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "三个怪物都冷笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "唐僧说“别以为我离了你们就不行”，朝徒弟们挥挥拳头、拍拍身上尘土、整整长袍，开始向林中走去；刚迈一步，僧袍就“嘶啦”一声扯破。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "僧袍就扯破了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空、猪八戒、沙和尚三人笑成一团，连打架也忘了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 1,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000001.txt",
+          "chapter_id": "ch-000001",
+          "chapter_order": 1,
+          "locator": null,
+          "anchor": "三个家伙笑成一团，也忘了打架。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "西天",
+      "category": "place",
+      "introduced_at": 1,
+      "notes": "猪八戒口中提到“找不到西天”即无法解除诅咒，本章仅以此为目标地名被提及，无进一步描述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-6"
+      ]
+    },
+    {
+      "label": "身上的诅咒",
+      "category": "rule",
+      "introduced_at": 1,
+      "notes": "猪八戒称四人（或至少师徒一方）身上带着诅咒，且与“找到西天”绑定：找不到西天则诅咒永远无法解除。本章未说明诅咒内容、来源与解除方式。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-6"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "秃头",
+      "possible_entity_ref_or_candidate": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "basis_claim_local_ids": [
+        "claim-local-6"
+      ],
+      "certainty": "inferred",
+      "notes": "猪八戒对孙悟空说“不能这样欺负秃头，你把他饿死了”，语境中指被要求去找食的唐僧；为本章内出现的称呼，是否作为正式别名由下游判定。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "explicit",
+      "summary": "唐僧以命令口吻要孙悟空去找吃的，孙悟空当面拒绝并反问唐僧为何不自己去；唐僧再以“别以为我离了你们就不行”宣告自行入林。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-14"
+      ],
+      "notes": "仅记录本章可见的互动事实，未对情感性质作定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空骂猪八戒“猪头”，八戒反问“你说谁是猪”并举钉耙欲冲，被沙和尚喝止。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "reported",
+      "summary": "猪八戒出言为唐僧说话，要孙悟空别欺负唐僧，理由是把唐僧饿死就找不到西天、诅咒便无法解除。",
+      "source_claim_local_ids": [
+        "claim-local-6"
+      ],
+      "notes": "理由部分为八戒自述，未经旁证。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "introduced",
+      "summary": "四人身上存在“诅咒”，解除条件与找到西天相关（据猪八戒本章自述）；诅咒的由来、内容、解除方式均未说明。",
+      "source_claim_local_ids": [
+        "claim-local-6"
+      ],
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ]
+    },
+    {
+      "category": "goal",
+      "status": "ongoing",
+      "role": "advanced",
+      "summary": "取经队伍继续向西行进，本章走到密林前无路，唐僧独自入林寻食。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-14"
+      ],
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ]
+    },
+    {
+      "category": "character_arc",
+      "status": "open",
+      "role": "introduced",
+      "summary": "孙悟空自述“只有看看晚霞才能每天坚持向西走下去”，并强调看晚霞时不做任何事；本章未解释此执念的由来。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5"
+      ],
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第1章：密林前的争吵与唐僧独自入林",
+    "front_matter": {
+      "as_of": 1,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-14"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n取经四人行至一片密林前，前边又没有路了（[[claim-local-1]]）。章首无前情说明，直接展开四人在林前的对峙。\n\n## 关键行动\n\n唐僧在石头上大模大样坐下，命令孙悟空去给自己找吃的（[[claim-local-2]]）。孙悟空拄棒拒绝，反问唐僧自己没有腿、何不自己去。唐僧再问“忙什么”，悟空望着天边说晚霞很美，并称自己只有看看晚霞才能每天坚持向西走下去（[[claim-local-4]]），还强调看晚霞时不做任何事。\n\n猪八戒插话劝阻，说不能这样欺负“秃头”，若把唐僧饿死就找不到西天，而找不到西天，他们身上的诅咒永远解除不了（[[claim-local-6]]，八戒自述）。孙悟空随即骂八戒“猪头”，八戒怒举钉耙要冲上去；沙和尚大吼要睡觉、要打滚远些打，三人怒目而视（[[ev-local-1]]）。\n\n## 转折与新信息\n\n唐僧起身说“打吧打吧，打死一个少一个”，称徒弟们是“大爷”，由他去找吃的；又说若自己路上被妖怪吃了，他们那时只能哭。孙悟空反唇相讥“那儿有女妖精正等着你呢”，三个徒弟冷笑。\n\n本章首次出现两条设定性信息，均出自八戒之口：其一为“身上的诅咒”，其二为“找不到西天则诅咒不解除”的条件关系；叙述未提供任何旁证。\n\n## 本章结果\n\n唐僧说“别以为我离了你们就不行”，挥拳、拍尘、整袍后向林中走去；刚迈一步，僧袍“嘶啦”扯破（[[claim-local-14]]）。三个徒弟笑成一团，连打架也忘了，唐僧独自留在了林中方向（[[ev-local-2]]）。\n\n## 未决问题与补读入口\n\n- “诅咒”的由来、内容与真正解除条件：本章仅有八戒一句自述，未经旁证。\n- 孙悟空“看晚霞”的执念及其“看晚霞时不做任何事”的自我约束，本章未给理由。\n- 唐僧扯破僧袍后独自入林，其安危与林中是否真有妖怪/女妖精，本章未展开（悟空之语属其口说）。\n- 本章中段一处唐僧台词（“打吧打吧，打死一个少一个”之后至“从今往后”）原文有明显乱码，内容不完整，已登记 issue。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id_or_ref": "ev-local-1",
+      "note": "stage-001开篇事件：密林前四人争吵，确立取经队伍内部互动基调"
+    },
+    {
+      "kind": "event",
+      "local_id_or_ref": "ev-local-2",
+      "note": "唐僧赌气独自入林、僧袍扯破，是本章末悬念，后续章节安危由此展开"
+    },
+    {
+      "kind": "claim",
+      "local_id_or_ref": "claim-local-6",
+      "note": "八戒自述“诅咒—西天”绑定关系，为本stage可能反复引用的设定性陈述（reported）"
+    },
+    {
+      "kind": "claim",
+      "local_id_or_ref": "claim-local-4",
+      "note": "悟空自述“只有看晚霞才能坚持向西走”，人物动机线索（reported）"
+    },
+    {
+      "kind": "character_beat",
+      "subject_ref_or_candidate": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "note": "唐僧在本章由被服侍者转为赌气独自入林的行动方"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "coverage_gap",
+      "detail": "本章第14段左右（唐僧“打吧打吧，打死一个少一个”至“从今往后”）原文夹杂乱码（如“还不行\" w� e��猪？� o从今往� fh=\"e��猪，眼睛� h�道 e��怪吃了我”），该段唐僧台词的部分内容无法可靠辨认，仅能确认“唐僧起身、自称是大爷、表示自己去给徒弟找吃的、并提及若被妖怪吃了徒弟们只能哭”。",
+      "anchor": "还不行",
+      "certainty": "uncertain"
+    }
+  ],
+  "warnings": [
+    "本章原文存在 OCR 乱码段落，涉事语句（唐僧关于“妖怪吃了我”的那句完整表述）未作完整提取，只保留可辨认部分，另登记 issue_candidates(coverage_gap)。",
+    "猪八戒提到“秃头”指唐僧，已登记 identity_link_candidates，未直接改写实体别名。",
+    "沙和尚与 stage-plan 中的“沙悟净”称谓不同，本章 resolve_name('沙和尚') 唯一命中 char-0004，未做任何合并判断。"
+  ]
+}

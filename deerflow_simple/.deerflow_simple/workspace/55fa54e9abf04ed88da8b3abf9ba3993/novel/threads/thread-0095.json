@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0095",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 42,
+  "label": "神佛不再现身世间之约",
+  "introduced_at": 42,
+  "updates": [
+    {
+      "id": "update-thread-0095-001",
+      "revealed_at": 42,
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "category": "setting_change",
+      "status": "open",
+      "role": "new",
+      "summary": "如来所述赌约后果：若众神被证明无法掌控苍生，神佛便从此不再现身世间。该后果为条件性表述，尚未发生。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1916"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

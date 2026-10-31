@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0169",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 68,
+  "entity_type": "character",
+  "label": "巨佛/心中的声音",
+  "introduced_at": 68,
+  "identity_notes": [
+    {
+      "id": "in-char-0169-001",
+      "revealed_at": 68,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2559"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2560"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2561"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2570"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2575"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

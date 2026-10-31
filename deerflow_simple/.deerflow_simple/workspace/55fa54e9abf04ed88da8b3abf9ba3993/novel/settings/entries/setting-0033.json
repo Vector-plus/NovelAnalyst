@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0033",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 14,
+  "label": "龙族/小白龙离水即失去变化神通",
+  "category": "other",
+  "introduced_at": 14,
+  "updates": [
+    {
+      "id": "update-setting-0033-001",
+      "revealed_at": 14,
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0558"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

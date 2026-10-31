@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0071",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 67,
+  "introduced_at": 61,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0154/index.json",
+      "record_id": "char-0154"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0071-stage-007",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "as_of": 67,
+      "revealed_at": 67,
+      "summary": "敌对（清算与被清算）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "以唐僧性命为条件封锁正果之路；宣称必杀唐僧；借金角银角之宝要「收拾另外三个」",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "以「杀结拜兄弟」之名提起旧账，并点出对方忘记了很多事，把遗忘当作罪证",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "否认旧日身份，不承认自己是那个「结拜兄弟」；在百万妖众前以否认而非辩驳回应",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

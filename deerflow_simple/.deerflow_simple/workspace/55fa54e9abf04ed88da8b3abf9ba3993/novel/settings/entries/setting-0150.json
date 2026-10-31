@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0150",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 30,
+  "label": "红色丹药（令人忘记一切的丹药）",
+  "category": "other",
+  "introduced_at": 30,
+  "updates": [
+    {
+      "id": "update-setting-0150-001",
+      "revealed_at": 30,
+      "chapter_ranges": [
+        {
+          "start": 30,
+          "end": 30
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1661"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1662"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

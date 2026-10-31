@@ -1,0 +1,1529 @@
+{
+  "chapter_order": 60,
+  "chapter_id": "ch-000060",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-006"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "第五天：唐僧坚持北行，师徒四人在方向上争执",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "completed",
+        "story_time": "取经途中第五天",
+        "summary": "唐僧朝北走，孙悟空指出西在那边、师父带错了路，唐僧只说“没错”。沙僧以“老天说”为由坚持向西，猪八戒主张往东以便回高老庄，三人争吵。唐僧对三人说完“当有一天你们终于知道哪里才是你们真正想去的地方，才会想起我这个师父的”，转身向北走去，白龙马跟着他，三人随后追上。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0148/index.json",
+              "record_id": "char-0148"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-7"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "唐僧在林中揭示“界限”（透明的墙）并独自穿界",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "completed",
+        "story_time": "取经途中第五天",
+        "summary": "唐僧停在林中指点前方，三人看不见任何东西。猪八戒的鼻子碰到不可见之物，孙悟空猛跳撞上一堵透明的墙。唐僧称“这就是界限”，并说“是界限选择你，事实上你没有任何选择”。孙悟空怒撞界限，唐僧迈步穿过界限，回头招呼徒弟跟随。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-13",
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-1"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "白晶晶现身高崖，声称边界在此并提出带孙悟空超出界限",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "ongoing",
+        "story_time": "取经途中第五天",
+        "summary": "白晶晶立在高崖上说“他说得对，边界就在这里”，随后纵身凌风而下，对孙悟空说“走吧，我带你超出这个界限”。猪八戒与沙僧各自发出评论，三人望向孙悟空，其回应本章未出现。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "唐僧独自向西越过雪山，一匹白马相随",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "completed",
+        "story_time": "第五天之后（唐僧独自西行）",
+        "summary": "唐僧独自向西行去，越过雪山，看见天际映着一座城的影子；听见马嘶回头，见雪山上的一匹白马抖落雪粒走来，唐僧看了很久后笑了。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "雪山上的白马"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-25"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-2"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "黑翼鸟向黄袍怪传话：决不能让唐僧到真正的西天",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "ongoing",
+        "story_time": "唐僧越过雪山之后",
+        "summary": "雪山雪岩顶端，一个穿黄袍的人看着唐僧在雪上越来越长的足迹。一只黑翼鸟落在其肩上并开口，说“没想到唐僧能走出来”，指出前面就是宝象国、是黄袍怪的领地，决不能让唐僧到真正的西天；黄衣人答“放心”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "黑翼鸟"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "黄袍怪"
+            },
+            "role": "recipient"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-27"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-27"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-28"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-4"
+          }
+        ]
+      }
+    },
+    {
+      "local_id": "ev-local-6",
+      "title": "波月洞：黄袍怪与百花羞商议去拜见其父王",
+      "introduced_at": 60,
+      "update": {
+        "local_id": "update-local-6",
+        "chapter_ranges": [
+          {
+            "start": 60,
+            "end": 60
+          }
+        ],
+        "revealed_at": 60,
+        "status": "ongoing",
+        "story_time": "同期（章末场景）",
+        "summary": "波月洞中黄袍怪独坐思索，一名女子进来并倚在他肩上（叙述称其为百花羞）。黄袍怪起身恭敬称她“公主”，她说不要这样叫。黄袍怪提出要去拜见她的父王（他的泰山大人），百花羞吃惊反对；黄袍怪称“有些事情，是我们逃避不了的”。百花羞要他记住答应过再杀一个人，黄袍怪沉默。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "黄袍怪"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "百花羞"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-30"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-29",
+          "claim-local-30"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-31",
+          "claim-local-32",
+          "claim-local-33"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "local_id": "ev-local-5"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "第五天行进中，孙悟空对唐僧说“师父，你又带错路了”，并指出西在那边；唐僧只回答“没错”，仍往北走。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "师父，你又带错路了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空称是观音让他跟着唐僧的，否则他早飞到西天去了；并说要把唐僧送到才能成正果。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "是观音让俺跟着你的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "唐僧说“你不信我你可以走。我没让你跟着我”，并反问徒弟们：这些年一直往西走，难道不想试一试往北走会发生什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "你们难道不想试一试往北走会发生什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "沙僧说“往北走是错的”，理由是“老天”这么说，并坚决表示“我的方向就是向西”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "往北走是错的。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "猪八戒建议往东走，说这样他还能回趟高老庄。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我建议我们往东走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "唐僧问“没有人愿意跟着我走么”，没人理他；他静静看着争吵的三人，对他们说“当有一天你们终于知道哪里才是你们真正想去的地方，才会想起我这个师父的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "才会想起我这个师父的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧说完转身向北走去，白龙马跟着他；孙悟空等三人吵完后发现“唐僧跑了”，追上去穿过密林小溪。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "白龙马忠实地跟着他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "三人追上时见唐僧站在前面林中，静静望着前方树林与远处山峦；他一摆手不让他们出声。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "穿过密林小溪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "唐僧伸手指着一处不动说“它，它就在那儿”；三个徒弟放眼远眺、定睛看眼前，却说“什么也没有啊”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "什么也没有啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "猪八戒凑近时长鼻子碰到了某物，缩回后却看不见东西；孙悟空猛地跳出去，立刻重重撞在什么上面——他们面前如有一堵透明的墙。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "竟然如有一堵透明的墙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "唐僧说“这就是界限”，并解释：这个世界有你不能到达的地方、有你不应到达的地方、有一辈子也不会去的地方，世界并不如你想象的那么大，界限也许就在身边。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "这就是界限。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "唐僧回答猪八戒：只能选择一个方向而那恰是界限规定好的，那就叫选择，“是界限选择你，事实上你没有任何选择”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "事实上你没有任何选择"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "猪八戒问“界限是由谁来定的呢”，孙悟空冷冷地说“是他”，随后变得狂躁不已，一次次猛撞那透明的界限。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "他突然变得狂躁不已"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空转身怒视唐僧，质问“为什么要告诉我们它的存在”，并说“你告诉我们又能怎么样呢？我们什么也做不了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "为什么要告诉我们它的存在"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "唐僧平静地正视孙悟空的怒目说“是我的错”，称自己想了很久终于决定告诉他们，“哪怕……我会后悔”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我想了很久，终于决定要告诉你们"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "唐僧向前迈步，迈出那一步时已穿过了那条界限，回头说“要做我的徒弟，就跟我来吧”，转身大步向远方走去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "已穿过了那条界限"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "猪八戒大喊“他们会杀了你的”；被问“外面是什么”时答：“是真正的恐惧。是我们诞生的地方。那儿有花果山和高老庄，还有……真正的妖魔。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "是真正的恐惧。是我们诞生的地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧的声音从远处传来：“你跳不出这个世界，是因为你不知道这个世界有多大，一旦你知道了，你就超出了它。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "一旦你知道了，你就超出了它"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空说自己翻了无数筋斗也翻不出去、反问唐僧用脚怎么还能走出去；唐僧笑着说“可是边界并不一定在远处啊”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我翻了无数筋斗也翻不出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "一个声音接过话头说“他说得对，边界就在这里”；三人抬头，见白晶晶立在高崖之上，山中凛冽的风吹起她的衣襟，她站了片刻后一纵凌风而下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "白晶晶立在高崖之上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "白晶晶对孙悟空说“走吧，我带你超出这个界限”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我带你超出这个界限"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "猪八戒流着口水评论白晶晶“真美，像俯视大地的鹰，以无尽的决心投向死亡”，并说“一个妖精最美的时候就是她以为自己是神，可以拯救他人”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "一个妖精最美的时候就是她以为自己是神"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "沙僧说“所有比神还酷的人都要死”，自称这是长年总结出来的法则；猪八戒瞟了他一眼，那眼神忽然让沙僧想起当年的很多事情，随后三人都望向孙悟空。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "所有比神还酷的人都要死"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "唐僧一路独自向西行去，越过雪山，看见一座城的影子映在瓦蓝的天际。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "他看见了一座城的影子映在瓦蓝的天际"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "唐僧听见一声马嘶，回头见雪山上的一匹白马抖着身上的雪走过来，他愣愣看了它好久后笑了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "一匹白马抖着身上的雪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "高山雪岩顶端，一个穿黄色衣袍的人站着看唐僧在雪上踏出的足迹越来越长，风鼓起他的衣袍；一只黑翼鸟飞来落在他肩上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "风鼓起他的黄色衣袍"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "黑翼鸟开口说话：“没想到唐僧能走出来”，并称前面就是宝象国、那是黄袍怪的领地，“决不能让唐僧到真正的西天”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "黑翼鸟"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "决不能让唐僧到真正的西天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "黄衣人回答“放心”，话音“像雪山掠过的风一样冰凉”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "黄袍怪"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "那黄衣人的话音像雪山掠过的风一样冰凉"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "波月洞中黄袍怪独坐想着什么，灯光移来，一名美丽女子走进来，洞内阴森之气一扫而空；黄袍怪恭敬地站起来称“啊，公主”，女子倚在他肩上说“我说了不准叫我公主的”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我说了不准叫我公主的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "黄袍怪说他们要去拜见百花羞的父王、“我的泰山大人”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "黄袍怪"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我的泰山大人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "百花羞退开吃惊地问为什么，说“他如果知道你是一个妖精……”，并问两人一直待在这里不好么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "百花羞"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "他如果知道你是一个妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "黄袍怪叹气说“有些事情，是我们逃避不了的。我不做这件事，只怕连妖精也做不了了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "黄袍怪"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "我不做这件事，只怕连妖精也做不了了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "百花羞上前握紧黄袍怪的手，要他记住“你答应过我再不杀一个人”；黄袍怪沉默，烛光在他瞳中跳动。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "百花羞"
+      },
+      "revealed_at": 60,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000060.txt",
+          "chapter_id": "ch-000060",
+          "chapter_order": 60,
+          "locator": null,
+          "anchor": "你需记住你答应过我再不杀一个人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "黄袍怪",
+      "introduced_at": 60,
+      "alias_texts": [
+        "黄衣人",
+        "黄衣人的话音"
+      ],
+      "identity_notes": "居波月洞，被黑翼鸟称为“黄袍怪”并称宝象国是其领地；穿黄色衣袍，话音“像雪山掠过的风一样冰凉”。自称要去拜见百花羞的父王（“我的泰山大人”）。雪山雪岩上的黄衣人与波月洞黄袍怪在本章紧接场景中出现，疑为同一人但叙述未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-32"
+      ]
+    },
+    {
+      "label": "百花羞",
+      "introduced_at": 60,
+      "alias_texts": [
+        "公主"
+      ],
+      "identity_notes": "波月洞中的美丽女子，黄袍怪称她“公主”并称其父王为“我的泰山大人”；她要求黄袍怪记住答应过再不杀一个人。其父王身份、与黄袍怪的名分原文未直述。",
+      "evidence_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-33"
+      ]
+    },
+    {
+      "label": "黑翼鸟",
+      "introduced_at": 60,
+      "alias_texts": [
+        "一只黑翼鸟"
+      ],
+      "identity_notes": "落在黄衣人肩上的黑色鸟，能开口说话、眼神锐利；称宝象国是黄袍怪的领地、决不能让唐僧到真正的西天。其来历与所代表方本章未交代。",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "界限（透明的墙）",
+      "category": "world_rule",
+      "introduced_at": 60,
+      "notes": "林中一堵看不见的透明屏障：猪八戒的鼻子碰到却被挡、孙悟空猛跳立刻重撞；唐僧称“这就是界限”，并称“是界限选择你，事实上你没有任何选择”（该解释为唐僧说法）。唐僧迈步即可穿过它。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-16"
+      ]
+    },
+    {
+      "label": "宝象国",
+      "category": "place",
+      "introduced_at": 60,
+      "notes": "唐僧越过雪山后前方天际映出城影之处；黑翼鸟称“前面就是宝象国。黄袍怪，那可是你的领地”（该归属为黑翼鸟说法）。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-24",
+        "claim-local-27"
+      ]
+    },
+    {
+      "label": "波月洞",
+      "category": "place",
+      "introduced_at": 60,
+      "notes": "黄袍怪所在洞府，洞内有灯光与烛光，百花羞出入其间（本章段落标题即“波月洞”）。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-29"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "candidate_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "relation_hint": "same_entity_suspected",
+      "basis": "本章第1段叙述以“玄奘”称抬头望天者，紧接着孙悟空称其“师父”、其余段落一律作“唐僧”；档案中“玄奘”(char-0053)与“唐僧”(char-0001)为两条独立实体，当章未明示二者为同一人。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-1"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "雪山上的白马"
+      },
+      "candidate_b": {
+        "path": "characters/char-0148/index.json",
+        "record_id": "char-0148"
+      },
+      "relation_hint": "same_entity_suspected",
+      "basis": "本章前段叙述“白龙马忠实地跟着他（唐僧）”；章末唐僧独自西行时只出现“一匹白马”，当章未明示二者为同一。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-25"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "黄衣人（雪山雪岩顶端）"
+      },
+      "candidate_b": {
+        "candidate_name": "黄袍怪"
+      },
+      "relation_hint": "same_entity_suspected",
+      "basis": "黑翼鸟直接对黄衣人说“黄袍怪，那可是你的领地”，紧接场景转入“波月洞”并叙述“黄袍怪在洞中想着什么”；本章未用叙述句明确断言二者同一，故不作合并。",
+      "certainty": "inferred",
+      "evidence_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-29"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "黄袍怪"
+      },
+      "subject_b": {
+        "candidate_name": "百花羞"
+      },
+      "facet": {
+        "type": "kinship"
+      },
+      "certainty": "reported",
+      "summary": "黄袍怪称百花羞为“公主”、称其父王为“我的泰山大人”；百花羞倚在他肩上、握紧他的手，要他遵守“再不杀一个人”的约定。",
+      "source_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-33"
+      ],
+      "notes": "亲近与姻亲指向由称呼“泰山大人/公主”及身体动作推得，原文未直述婚姻名分"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶立在高崖上接过话头说“他说得对，边界就在这里”，纵身凌风而下，主动对孙悟空说“走吧，我带你超出这个界限”。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "notes": "孙悟空当章尚未回应；三人目光都转向他"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "reported",
+      "summary": "唐僧穿过界限后回头对三徒弟说“要做我的徒弟，就跟我来吧”；孙悟空此前以“是观音让俺跟着你的”“俺要把你送到才能成正果”说明自己跟随的缘由，并一度说“你不信我你可以走”。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-16"
+      ],
+      "notes": "师徒名分由双方台词直接点出"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "黑翼鸟"
+      },
+      "subject_b": {
+        "candidate_name": "黄袍怪"
+      },
+      "facet": {
+        "type": "cooperation"
+      },
+      "certainty": "reported",
+      "summary": "黑翼鸟落在黄衣人肩上并向他交代：前面就是宝象国、那是其领地，决不能让唐僧到真正的西天；黄衣人答“放心”。",
+      "source_claim_local_ids": [
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28"
+      ],
+      "notes": "黑翼鸟的身份与所代表方未明"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "candidate_title": "世界的界限（透明之墙）",
+      "category": "mystery",
+      "status": "ongoing",
+      "role": "core_reveal",
+      "summary": "唐僧在林中让徒弟撞见一堵透明界限，称“是界限选择你，事实上你没有任何选择”，并亲自迈步穿过，回头招呼徒弟跟随；孙悟空怒撞界限但三人尚未跟随。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-16",
+        "claim-local-18"
+      ],
+      "anchor": "已穿过了那条界限"
+    },
+    {
+      "candidate_title": "唐僧独自西行，天际现出城的影子",
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "turn",
+      "summary": "唐僧在方向争执后独自北行，后独自向西越过雪山，看见天际映出的城影，并与一匹白马会合继续前行。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-16",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "anchor": "他看见了一座城的影子映在瓦蓝的天际"
+    },
+    {
+      "candidate_title": "黄袍怪受命阻止唐僧抵达“真正的西天”",
+      "category": "antagonist_plot",
+      "status": "ongoing",
+      "role": "setup",
+      "summary": "黑翼鸟向黄袍怪交代宝象国是其领地、决不能让唐僧到真正的西天；黄袍怪答“放心”，随后在波月洞决定去拜见百花羞的父王，称“有些事情，是我们逃避不了的”。",
+      "source_claim_local_ids": [
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-30",
+        "claim-local-32"
+      ],
+      "anchor": "决不能让唐僧到真正的西天"
+    },
+    {
+      "candidate_title": "白晶晶愿带孙悟空超出界限",
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "open_hook",
+      "summary": "白晶晶高崖现身，确认“边界就在这里”，并直接提出带孙悟空超出界限；三人目光落在孙悟空身上，其回应本章未出现。",
+      "source_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "anchor": "我带你超出这个界限"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第60章：第五天·界限",
+    "front_matter": {
+      "as_of": 60,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        },
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        },
+        {
+          "path": "characters/char-0148/index.json",
+          "record_id": "char-0148"
+        },
+        {
+          "candidate_name": "黄袍怪"
+        },
+        {
+          "candidate_name": "百花羞"
+        },
+        {
+          "candidate_name": "黑翼鸟"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "ev-local-6",
+        "claim-local-1",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-30",
+        "claim-local-32",
+        "claim-local-33"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n“第五天”。唐僧（叙述首段作“玄奘”）仰望天空，看见几道碧蓝的划痕，自问“我走得再远，也走不出这片天么”。孙悟空说“师父，你又带错路了”、西在那边；唐僧只答“没错”，仍往北走。孙悟空称是观音让他跟着唐僧、否则早飞到西天，唐僧反问“要是我突然不想去了呢”，气氛僵住。[[claim-local-1]]\n\n## 关键行动\n\n沙僧以“老天”说往北是错的、坚决选择向西；猪八戒建议往东以便回高老庄，三人吵成一团。唐僧问“没有人愿意跟着我走么”，没人理他；他静静看着争吵的三人，说“当有一天你们终于知道哪里才是你们真正想去的地方，才会想起我这个师父的”，随后转身向北走去，白龙马跟着他。[[claim-local-6]] [[claim-local-7]] 三人发现“唐僧跑了”后追上，穿过密林小溪，见他站在林中出神地望向前方。\n\n唐僧指着一处说“它，它就在那儿”，三个徒弟却“什么也没有啊”。猪八戒的长鼻子碰到看不见的东西，孙悟空猛地跳出去立刻重撞上去——他们面前如有一堵透明的墙。[[claim-local-10]]\n\n## 转折与新信息\n\n- 唐僧说“这就是界限”，解释世界有你不能到达、不应到达、一辈子也不会去的地方，“是界限选择你，事实上你没有任何选择”。[[claim-local-11]] [[claim-local-12]]\n- 孙悟空怒问“为什么要告诉我们它的存在”，说他们什么也做不了，并一次次猛撞那透明的界限；唐僧说“是我的错”，称想了很久终于决定告诉他们。[[claim-local-13]]\n- 唐僧迈步穿过那条界限，回头说“要做我的徒弟，就跟我来吧”，转身大步向远方走去。[[claim-local-16]]\n- 猪八戒喊“他们会杀了你的”，并说界限外面“是真正的恐惧。是我们诞生的地方……还有真正的妖魔”。[[claim-local-17]]\n- 唐僧声音从远处传来：“你跳不出这个世界，是因为你不知道这个世界有多大，一旦你知道了，你就超出了它”，又说“可是边界并不一定在远处啊”。\n- 白晶晶立在高崖上接过话头：“他说得对，边界就在这里”，纵身凌风而下，对孙悟空说“走吧，我带你超出这个界限”。[[claim-local-20]] [[claim-local-21]] 猪八戒与沙僧各自评论后，三人都望向孙悟空，其回应本章未出现。\n\n## 本章结果\n\n唐僧一路独自向西，越过雪山，看见一座城的影子映在瓦蓝的天际。[[claim-local-24]] 听见一声马嘶回头，雪山上的一匹白马抖着雪走来，他看了很久后笑了。[[claim-local-25]]\n\n高山雪岩顶端，一个穿黄衣袍的人看着唐僧越拉越长的足迹；一只黑翼鸟落在他肩上开口：“没想到唐僧能走出来”，说前面就是宝象国、那是黄袍怪的领地，“决不能让唐僧到真正的西天”。[[claim-local-26]] [[claim-local-27]] 黄衣人答“放心”。[[claim-local-28]]\n\n波月洞中，黄袍怪起身恭敬称进来的女子“公主”，对方不让他这样叫。[[claim-local-30]] 他说要去拜见她的父王、“我的泰山大人”，称“有些事情，是我们逃避不了的。我不做这件事，只怕连妖精也做不了了”。[[claim-local-32]] 百花羞握紧他的手，要他记住“你答应过我再不杀一个人”，黄袍怪沉默。[[claim-local-33]]\n\n## 未决问题与补读入口\n\n- 界限由谁所定？孙悟空只冷冷说了句“是他”，所指未明（见 issue：missing_evidence）。\n- 孙悟空对白晶晶的邀请尚未回应；三人是否跟随唐僧穿过界限未知。\n- 本章首段用“玄奘”、其余用“唐僧”，档案中为两条独立实体，当章未明示同一（见 identity_link_candidates）。\n- 章末“一匹白马”是否即本章前段的“白龙马”，当章未明示。\n- 黄袍怪为何必须去拜见百花羞的父王、“不做这件事只怕连妖精也做不了”所指为何，留待后续。\n- 衔接提示：第61章开篇转入“五百年前”的妖猴复生场景，本章黄袍怪与白晶晶的线索未在同章回收。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 60,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "salience": "high",
+      "note": "本 stage 收尾章的核心揭示：透明界限的存在与唐僧亲身穿过"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-12",
+      "chapter_order": 60,
+      "salience": "high",
+      "note": "唐僧关于“是界限选择你，事实上你没有任何选择”的表述（reported）"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-16",
+      "chapter_order": 60,
+      "salience": "high",
+      "note": "唐僧穿界并招呼徒弟跟随，师徒关系出现分岔点"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-18",
+      "chapter_order": 60,
+      "salience": "medium",
+      "note": "“一旦你知道了，你就超出了它”——界限主题的另一表述（reported）"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 60,
+      "salience": "high",
+      "note": "白晶晶提出带孙悟空超出界限，本章未得回应"
+    },
+    {
+      "kind": "entity",
+      "ref_or_local_id": "cand:黄袍怪",
+      "chapter_order": 60,
+      "salience": "high",
+      "note": "新对手登场，宝象国为其被指认的领地，受命阻止唐僧抵达真正的西天"
+    },
+    {
+      "kind": "entity",
+      "ref_or_local_id": "cand:百花羞",
+      "chapter_order": 60,
+      "salience": "medium",
+      "note": "与黄袍怪同处波月洞，提出“再不杀一个人”的约束"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-6",
+      "chapter_order": 60,
+      "salience": "medium",
+      "note": "黄袍怪将去拜见百花羞父王，为后续宝象国线铺垫"
+    },
+    {
+      "kind": "open_question",
+      "ref_or_local_id": "thread:白晶晶邀孙悟空超出界限",
+      "chapter_order": 60,
+      "salience": "high",
+      "note": "跨 stage 悬念，需在后续章节核对是否回收"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "detail": "本章第1段叙述以“玄奘”指称仰望天空者，第2段起孙悟空称其“师父”并一律写作“唐僧”；档案中“玄奘”(char-0053, 第15章建档)与“唐僧”(char-0001, 第1章建档)为两条独立实体。当章未明示二者同一，已登记 identity_link_candidate，未改写引用。",
+      "evidence_claim_local_ids": [
+        "claim-local-1"
+      ],
+      "suggested_action": "由 StageCommit 阶段核对是否需合并或建立 identity_link"
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "孙悟空以“是他”指认界限的设定者，原文未交代“他”指谁，无其他依据可展开。",
+      "evidence_claim_local_ids": [
+        "claim-local-13"
+      ],
+      "suggested_action": "留待后续章节揭示；勿据后文回填"
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "章末雪山出现的“一匹白马”是否即本章前段跟随唐僧的白龙马（char-0148），当章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-25"
+      ],
+      "suggested_action": "作为 candidate 记录，勿直接合并到 char-0148"
+    },
+    {
+      "category": "coverage_gap",
+      "detail": "本次会话工具调用约 34 次、超出预算（20 次）；已对 8 条主要陈述与 5 个事件草稿执行 dedupe/find_similar_relationship，其余次要陈述（如 claim-local-19/22/23/31/32）未单独去重。",
+      "evidence_claim_local_ids": [],
+      "suggested_action": "下游写入前对 claim-local-7/11/16/24/27/30 再做一次 dedupe"
+    },
+    {
+      "category": "source_locator",
+      "detail": "原文含 OCR 损伤片段（如“被妖精吃了⋯吃了”“那儿有花果⋯山和高老庄”处含乱码），相关 claim 的锚点已避开这些片段选取。",
+      "evidence_claim_local_ids": [
+        "claim-local-17"
+      ],
+      "suggested_action": "无需处理，仅记录"
+    }
+  ],
+  "warnings": [
+    "工具调用超出建议预算（约 34 次 > 20 次）：已对 8 条主要陈述与 5 个事件草稿执行 dedupe/find_similar_relationship，剩余次要陈述未单独去重，下游写入前建议复核。",
+    "本章首段人名“玄奘”与全篇“唐僧”在既有档案中为两个独立实体（char-0053 / char-0001），未擅自合并，已登记 identity_link_candidate 与 issue。",
+    "章末“一匹白马”未强行解析为 char-0148（白龙马），仅登记候选。",
+    "原文存在 OCR 乱码片段，个别台词在原文中被截断（如“他们会杀了你的”前一处、猪八戒描述界限外世界的句子），已在 claim 文本中按可辨部分转录并在 issue 中记录。",
+    "第61章开篇转入“五百年前”场景，本章黄袍怪/白晶晶线索未在同章回收，属跨 stage 开放线索。"
+  ]
+}

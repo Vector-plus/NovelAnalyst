@@ -1,0 +1,32 @@
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 56, "note": "西行途中：师徒夜宿路上民舍，孙悟空被一句「唐僧死了，谁干的？」惊醒"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 56, "note": "沙僧摔碗发作、八戒醉闹，点出沙僧旧状"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 56, "note": "天井夜谈：唐僧自述无欲望故命运找不到弱点；孙悟空冷笑以对"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 56, "note": "关键自述（reported）：唐僧称「命运找不到我的弱点，所以——我才能当你们师父」"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 56, "note": "孙悟空章末心境：宿命正在黑暗里静静等待明天"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 56, "note": "孙悟空自述有头痛发作，可与沙僧的「发作」并置观察"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "chapter_order": 57, "note": "孙悟空一击打碎白晶晶身躯；西行队伍的界限主题关键事件"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "chapter_order": 57, "note": "唐僧“问为什么就够杀死妖精”的自述，人物核心命题"}
+{"kind": "claim", "ref_or_local_id": "claim-local-33", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "chapter_order": 57, "note": "孙悟空闻“花果山”后剧痛倒地；非唐僧念咒（claim-local-34）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-38", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "chapter_order": 57, "note": "事后悟空如苍老之人、应命整行李，情绪/状态转折证据"}
+{"kind": "entity_candidate", "ref_or_local_id": "白晶晶", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "chapter_order": 57, "note": "首次登场的新角色候选，身份未明，后续 57-69 章持续出现"}
+{"kind": "event_ref", "local_id": "ev-local-1", "note": "本章首个战斗事件，含唐僧施法喊「万佛朝宗」「金蝉脱壳」与白龙马首次载人突围", "chapter_order": 58}
+{"kind": "event_ref", "local_id": "ev-local-4", "note": "唐僧与猪八戒关于紧箍咒与「那一天」的对话，为孙悟空后期走向的重要伏笔", "chapter_order": 58}
+{"kind": "claim_ref", "local_id": "claim-local-13", "note": "白龙马将人带到长安城下，空间异常", "chapter_order": 58}
+{"kind": "claim_ref", "local_id": "claim-local-18", "note": "唐僧抚摸孙悟空头部触发暴怒，确立「碰头」禁忌", "chapter_order": 58}
+{"kind": "claim_ref", "local_id": "claim-local-23", "note": "护体袈裟遗失，人物与物品线索的接续点", "chapter_order": 58}
+{"kind": "character_candidate", "local_id": "白龙马", "note": "需在后续章节确认与「小白龙」的关系", "chapter_order": 58}
+{"kind": "event", "ref_local_id": "ev-local-2", "stage_id": "stage-006", "note": "首次给出五百年前花果山海风季节场景，交代白晶晶与牛魔王结识，以及孙悟空与天兵交战被远观的画面", "chapter_order": 59}
+{"kind": "claim", "ref_local_id": "claim-local-23", "stage_id": "stage-006", "note": "白晶晶自述曾是仙、现已不是、无处可去——身份线索，待后续章节验证", "chapter_order": 59}
+{"kind": "claim", "ref_local_id": "claim-local-32", "stage_id": "stage-006", "note": "白晶晶自述因等待“他”而成为妖精，是本卷角色动机的核心陈述", "chapter_order": 59}
+{"kind": "claim", "ref_local_id": "claim-local-35", "stage_id": "stage-006", "note": "白晶晶明确表示孙悟空不该受铁箍拘束（“绝不！”），构成后续行动意向的伏笔", "chapter_order": 59}
+{"kind": "claim", "ref_local_id": "claim-local-16", "stage_id": "stage-006", "note": "唐僧“我不是忘记一切，我是一无所有”的自述，与其“流放者”论配套，属角色立场关键陈述", "chapter_order": 59}
+{"kind": "claim", "ref_local_id": "claim-local-36", "stage_id": "stage-006", "note": "白晶晶显露可怖原形，形体属性线索", "chapter_order": 59}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 60, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "salience": "high", "note": "本 stage 收尾章的核心揭示：透明界限的存在与唐僧亲身穿过"}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 60, "salience": "high", "note": "唐僧关于“是界限选择你，事实上你没有任何选择”的表述（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "chapter_order": 60, "salience": "high", "note": "唐僧穿界并招呼徒弟跟随，师徒关系出现分岔点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 60, "salience": "medium", "note": "“一旦你知道了，你就超出了它”——界限主题的另一表述（reported）"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 60, "salience": "high", "note": "白晶晶提出带孙悟空超出界限，本章未得回应"}
+{"kind": "entity", "ref_or_local_id": "cand:黄袍怪", "chapter_order": 60, "salience": "high", "note": "新对手登场，宝象国为其被指认的领地，受命阻止唐僧抵达真正的西天"}
+{"kind": "entity", "ref_or_local_id": "cand:百花羞", "chapter_order": 60, "salience": "medium", "note": "与黄袍怪同处波月洞，提出“再不杀一个人”的约束"}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "chapter_order": 60, "salience": "medium", "note": "黄袍怪将去拜见百花羞父王，为后续宝象国线铺垫"}
+{"kind": "open_question", "ref_or_local_id": "thread:白晶晶邀孙悟空超出界限", "chapter_order": 60, "salience": "high", "note": "跨 stage 悬念，需在后续章节核对是否回收"}

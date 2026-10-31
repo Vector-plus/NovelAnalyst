@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0024",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 19,
+  "label": "紫霞「永远微笑」的自述与她的孤独",
+  "introduced_at": 19,
+  "updates": [
+    {
+      "id": "update-thread-0024-001",
+      "revealed_at": 19,
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "category": "character_arc",
+      "status": "open",
+      "role": "setup",
+      "summary": "紫霞自称被众神叫作「永远微笑的紫霞」，但独处时对黑暗自语，希望有一个不嘲笑、不反驳的倾听者；她对悟空自称从西天紫霞中化出、没有家。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0663"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0664"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0665"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0686"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

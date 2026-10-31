@@ -1,0 +1,1075 @@
+{
+  "chapter_order": 39,
+  "chapter_id": "ch-000039",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天宫风雪散尽，孙悟空现身击打诸神",
+      "introduced_at": 39,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 39,
+            "end": 39
+          }
+        ],
+        "revealed_at": 39,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "两根金箍棒搅起的狂风消歇、雪雾散开，诸神发现风雪散去处空无一物。孙悟空随即出现在李靖身边，以金箍棒将他顶翻、把巨灵神扫上天、把武曲星君踢到云外，并当众要诸神记认「齐天大圣」的名号。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "李靖（托塔天王）"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0096/index.json",
+              "record_id": "char-0096"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "武曲星君"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "奎木郎当面顶撞孙悟空并把棒子讨走",
+      "introduced_at": 39,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 39,
+            "end": 39
+          }
+        ],
+        "revealed_at": 39,
+        "status": "concluded",
+        "story_time": null,
+        "summary": "人群中一名年轻人颤抖着出声斥责孙悟空欺负人，自称是天界替补星宿奎木郎，并表示打不过也要拼命；随后连续三次要孙悟空把棒子从他头上拿走，孙悟空最终把棒子扔到背后（随即砸中在场某人）。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "奎木郎"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0096/index.json",
+              "record_id": "char-0096"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "奎木郎与孙悟空口头交锋：师父与「丢尽妖精脸的家伙」",
+      "introduced_at": 39,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 39,
+            "end": 39
+          }
+        ],
+        "revealed_at": 39,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "奎木郎追问孙悟空是否有师父、是否有怕的东西；孙悟空承认有师父但不愿说其名，称「答应了别人就要算数」，并劝奎木郎同去当妖精。最后孙悟空称有个「早该死了的家伙，丢尽了我们妖精的脸」，但未说名字。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "奎木郎"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "孙悟空的师父"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "丢尽妖精脸的家伙"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "真假孙悟空激斗掀起的狂风消歇、白茫茫的雪雾散开，诸神抬头望去，风雪散开处什么也没有。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "被两根金箍棒搅起来的狂风也消歇了下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "李靖一回头发现孙悟空就在身边，惊得把手里的塔扔了出去，那塔扣在太白金星头上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "李靖一回头，啊一声吓得手里的塔也飞了出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "李靖跳出几十丈远，问对方是「哪个孙悟空」；孙悟空答「孙悟空还有几个」，并伸棒把李靖顶了个跟头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "将李靖顶个跟头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "巨灵神凑到太上老君耳边低声说话，被孙悟空抡棒像打球一样扫到天上，重重摔下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "被孙悟空抡棒像打球一样扫到天上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "武曲星君说「这是假孙悟空」，孙悟空揪住他衣领，随后一脚把他踢到云外头去了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "将武曲踢到云外头去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空对诸神宣称自己「不是个喜欢乱发脾气的猴子」，诸神无人敢吭声。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "我不是个喜欢乱发脾气的猴子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "太白金星问「猴子们去哪儿了」；武曲星君反对用「猴子们」这个词，说自己打一只已经在发抖；托塔天王（李靖）说他们「共归于尽了吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "他们共归于尽了吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "巨灵神对太上老君说自己凭经验判断眼前这猴子是真的，并预言「他第二个准打我，而且又打这儿」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "而且又打这儿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "武曲星君以「没带金箍儿」为据指认眼前的孙悟空是假的；孙悟空以自己发型乱为由反驳，未在文中直接承认或否认金箍儿之事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "武曲星君"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "你没带金箍儿啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空用棒子敲奎木郎的头，并逼问对方「知不知道什么叫齐天大圣」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "你知不知道什么叫齐——天——大——圣"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "人群中一名年轻人浑身颤抖地出声，斥责「太可气了……太欺负人了」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "奎木郎"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "太可气了……太欺负人了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "那年轻人自称是「前天刚调上天界的替补星宿」，名唤奎木郎。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "奎木郎"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "我叫奎木郎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "奎木郎称自己虽不是孙悟空的对手，就凭孙悟空这样他也要拼命。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "奎木郎"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "我虽然不是你的对手，可是就凭你这样我也要和你拼命"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空问「有谁告诉他天上的规矩」，太白金星凑上来说出「天界三大定律」：一、玉皇大帝最大；二、玉帝和王母在一起时王母叫拔玉帝的胡子就照拔；三、若玉帝、王母、孙悟空在一起，前面两个是孙子，姓孙的才是大爷。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0096/index.json",
+        "record_id": "char-0096"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "天界三大定律是"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "奎木郎连续两次重复「把你的棍子拿走」，孙悟空第三次追问「你敢再说一遍」后他再次重复；孙悟空随即把棒子扔到背后去了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "孙悟空刷地把棒子扔到背后去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空扔到背后的棒子砸中了在场某人（原文未点名），他回头说「那位请帮我捡一下，师父说的话我老忘」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "师父说的话我老忘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "奎木郎问孙悟空「你也有师父？」「你也有听他话的人？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "奎木郎"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "你也有听他话的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空承认自己有师父，但说「俺要是说了他的名字，他要怪俺」，因此未说出师父姓名。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "俺要是说了他的名字，他要怪俺"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空否认这叫「怕」，称「是答应了别人就要算数」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "是答应了别人就要算数"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空劝奎木郎「和俺老孙一齐当妖精去」，称吃人肉骂娘比在天宫窝着强。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "和俺老孙一齐当妖精去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "奎木郎回答自己正因不想受气才死活修炼成仙，并说「说不定哪天不爽，我真的去下界当妖精去」；孙悟空大笑夸他「是条汉子，不像他」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "奎木郎"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "我正是因为不想受气，才死活修炼成仙的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "奎木郎问「他是谁」，孙悟空脸色沉下来说那是一个「早该死了的家伙，丢尽了我们妖精的脸」，未说出名字。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 39,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000039.txt",
+          "chapter_id": "ch-000039",
+          "chapter_order": 39,
+          "locator": null,
+          "anchor": "一个早该死了的家伙，丢尽了我们妖精的脸"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "奎木郎",
+      "introduced_at": 39,
+      "alias_texts": [
+        "奎木郎"
+      ],
+      "identity_notes": "自称「前天刚调上天界的替补星宿」，名奎木郎。resolve_name 无已有档案，建候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-21"
+      ]
+    },
+    {
+      "label": "李靖（托塔天王）",
+      "introduced_at": 39,
+      "alias_texts": [
+        "李靖",
+        "托塔天王"
+      ],
+      "identity_notes": "原文中以「托塔天王」与「李靖」两种称法指同一位在场天神（叙述随后直接以「李靖一回头」接续前句「托塔天王道」），手持一塔，此塔在章内被抛出并扣在太白金星头上。resolve_name 对两称均无命中，故合为一个候选，暂不与其他实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-7"
+      ]
+    },
+    {
+      "label": "武曲星君",
+      "introduced_at": 39,
+      "alias_texts": [
+        "武曲星君",
+        "武曲"
+      ],
+      "identity_notes": "在场天神，以「没带金箍儿」判断眼前孙悟空为假，被孙悟空揪衣领并踢到云外。resolve_name 无命中，建候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "孙悟空的师父",
+      "introduced_at": 39,
+      "alias_texts": [
+        "师父"
+      ],
+      "identity_notes": "仅作为孙悟空口中所提及者出现，孙悟空拒绝说出其姓名；本章未出现其本人、无外貌或身份线索，不向任何已知实体合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "丢尽妖精脸的家伙",
+      "introduced_at": 39,
+      "alias_texts": [
+        "一个早该死了的家伙"
+      ],
+      "identity_notes": "孙悟空对奎木郎所说、被其称「丢尽了我们妖精的脸」的未具名对象，原文全章未给名字、未出场，仅记录该指称存在，不作任何身份推测。",
+      "evidence_claim_local_ids": [
+        "claim-local-22"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天宫诸神",
+      "introduced_at": 39,
+      "notes": "原文以「诸神」统称在场天庭众神，章内无组织描述，仅记录其群体在场、避让与不敢吭声的行为。",
+      "certainty": "explicit"
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "天界三大定律",
+      "category": "rule",
+      "introduced_at": 39,
+      "notes": "太白金星口述的三条「定律」：玉皇大帝最大；玉帝王母同在场时王母叫拔玉帝胡子就照拔；若玉帝、王母、孙悟空同在场，前两人是孙子、姓孙的才是大爷。属角色说法，非叙述断言。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14"
+      ]
+    },
+    {
+      "label": "替补星宿",
+      "category": "title",
+      "introduced_at": 39,
+      "notes": "奎木郎自述的天界神职称谓（「前天刚调上天界的替补星宿」），全章仅此一处使用。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "金箍儿",
+      "category": "item",
+      "introduced_at": 39,
+      "notes": "武曲星君以孙悟空「没带金箍儿」作为辨别真假的依据，属角色说法；原文未叙述金箍儿的来历或现状。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "李靖（托塔天王）"
+      },
+      "candidate_b": {
+        "candidate_name": "托塔天王"
+      },
+      "note": "同一候选内部两种称法合并（同章上下文可证），非跨实体等同判定。",
+      "certainty": "inferred",
+      "basis_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-7"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "奎木郎"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "以敲头与言语威压开局，章末转为口头上认可，双方无好感或感情表述"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空用棒子敲奎木郎的头并逼问其是否知道「齐天大圣」；奎木郎当众三次要他拿走棒子；章末孙悟空大笑称其「是条汉子」。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-21"
+      ],
+      "notes": "仅记录互动事实，不作关系性质定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "李靖（托塔天王）"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空现身时李靖受惊抛塔、跳出几十丈远；孙悟空伸棒将其顶了一个跟头。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "武曲星君"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "武曲星君指认其为假孙悟空，孙悟空揪其衣领并将其一脚踢到云外。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-9"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "巨灵神在太上老君耳边低声说话被孙悟空抡棒扫上天并重重摔落。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-8"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "孙悟空的师父"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空承认自己有师父、有他要听话的人，但因怕师父责怪而不肯说出其名，并提到「师父说的话我老忘」。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "师父身份本章未揭示，不作等同推断。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "title": "孙悟空口中的「师父」身份未揭示",
+      "summary": "本章孙悟空两次提及自己的师父：承认有听其话的人、承认「答应了别人就要算数」，并说「师父说的话我老忘」，但拒绝说出姓名。师父是谁在本章内无任何直述，作为待查线索登记。",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "孙悟空的师父"
+        }
+      ],
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "title": "孙悟空所指「丢尽妖精脸的家伙」未具名",
+      "summary": "章末孙悟空脸色沉下，称有个「早该死了的家伙，丢尽了我们妖精的脸」，奎木郎追问「他是谁」而无答。本章未给名字与线索。",
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "丢尽妖精脸的家伙"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "evidence_claim_local_ids": [
+        "claim-local-22"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "category": "unresolved_conflict",
+      "status": "open",
+      "role": "continuation",
+      "title": "真假孙悟空之争尚未在叙述层面裁定",
+      "summary": "第38章有两根金箍棒混战、风雪弥漫；本章开头风雪散去、原处空无一物，孙悟空现身并被武曲星君以「没带金箍儿」指为假；孙悟空未正面证实或否认，诸神亦未再判定。后续章节开篇显示孙悟空自雪雾中撞出后身处异地，可见此线索尚未收束。",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-9"
+      ],
+      "certainty": "inferred"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第39章：风雪散尽，孙悟空现身天宫",
+    "front_matter": {
+      "as_of": 39,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "奎木郎"
+        },
+        {
+          "candidate_name": "李靖（托塔天王）"
+        },
+        {
+          "candidate_name": "武曲星君"
+        },
+        {
+          "path": "characters/char-0096/index.json",
+          "record_id": "char-0096"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        },
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n承接前三章的两根金箍棒混战：天宫忽然静下来，狂风消歇，白茫茫的雪雾开始散开。诸神抬头望着风雪散开的地方，「那儿什么也没有」（[[claim-local-1]]）。\n\n太白金星问「猴子们去哪儿了」，武曲星君立刻反对用「猴子们」这个词、自称打一只已在发抖，托塔天王则断言两人「共归于尽了吧」（[[claim-local-7]]）。\n\n## 关键行动\n\n孙悟空随即出现在李靖身旁。李靖一回头，吓得手里的塔脱手飞出，那塔正扣在太白金星头上（[[claim-local-2]]）。李靖跳出几十丈远，喝问「你……你是哪个孙悟空」，孙悟空答「孙悟空还有几个」，伸棒把他顶了个跟头（[[claim-local-3]]）。\n\n巨灵神凑到太上老君耳边低声议论，被孙悟空抡棒「像打球一样」扫到天上并重重摔下；他捂屁股对老君说自己凭经验判定「这个一定是真的」，并预言「他第二个准打我，哎哟……而且又打这儿」（[[claim-local-4]]、[[claim-local-8]]）。\n\n武曲星君定睛一看喊「这是假孙悟空」，孙悟空揪住他衣领警告「可以告你诽谤」，随后一脚把他踢到云外（[[claim-local-5]]）。\n\n## 转折与新信息\n\n**真假之辩。** 武曲星君给出的理由是「你没带金箍儿」；孙悟空的回应是抹了抹头上毫毛、抱怨自己发型乱，指责对方凭这个说他不是真的太蠢，未正面承认也未否认（[[claim-local-9]]）。之后他对诸神宣称「我不是个喜欢乱发脾气的猴子」，众神无人敢吭声（[[claim-local-6]]）。\n\n**奎木郎出场。** 人群中传来呜呜声，众神立刻左右闪开，把一个年轻人晾在中间。他浑身颤抖地说「太……可气了……太欺负人了」（[[claim-local-11]]），并自称「前天刚调上天界的替补星宿，我叫奎木郎」（[[claim-local-12]]），又表示虽不是对手、就凭这样也要拼命（[[claim-local-13]]）。\n\n**「天界三大定律」。** 孙悟空问「有谁告诉他天上的规矩」，太白金星凑上来口述三条：玉皇大帝最大；玉帝和王母在一起时王母叫拔玉帝的胡子就照拔；若玉帝、王母、孙悟空同在场，前面两个是孙子，姓孙的才是大爷（[[claim-local-14]]）。\n\n**敲头与还棒。** 孙悟空用棒子敲奎木郎的头、逼问「你知不知道什么叫齐天大圣」（[[claim-local-10]]）。奎木郎回以「对不起，齐天大圣，把你的棍子拿开」，在孙悟空三次追问下三次重复「把——你——的——棍——子——拿——走」，孙悟空随即把棒子扔到背后（[[claim-local-15]]）；扔出的棒子又砸中在场某人，他回头请人帮捡，自语「师父说的话我老忘」（[[claim-local-16]]）。\n\n## 本章结果\n\n奎木郎抓住这两句追问「你也有师父？」「你也有听他话的人？」（[[claim-local-17]]）。孙悟空承认有师父，但称「俺要是说了他的名字，他要怪俺」，拒绝说出姓名（[[claim-local-18]]），并否认这是「怕」，理由是「答应了别人就要算数」（[[claim-local-19]]）。\n\n随后他劝奎木郎「和俺老孙一齐当妖精去」（[[claim-local-20]]）；奎木郎答自己正是因不想受气才死活修炼成仙，又说「说不定哪天不爽，我真的去下界当妖精去」，孙悟空大笑称他「是条汉子，不像他」（[[claim-local-21]]）。\n\n章末奎木郎追问「他是谁」，孙悟空脸色沉下，只说那是「一个早该死了的家伙，丢尽了我们妖精的脸」（[[claim-local-22]]）。\n\n## 未决问题与补读入口\n\n- **孙悟空是否是真身？** 武曲星君以「没带金箍儿」为据指其为假，孙悟空未正面回应，诸神亦未再判定；本章叙述层面对此没有结论（[[claim-local-9]]、[[claim-local-1]]）。\n- **「师父」是谁？** 孙悟空承认有师父、有听其话的人，并提到「师父说的话我老忘」，但拒说姓名（[[claim-local-16]]、[[claim-local-18]]、[[claim-local-19]]）。\n- **「丢尽妖精脸的家伙」是谁？** 章末抛出的指称，本章未给名、未出场（[[claim-local-22]]）。\n- **跨章衔接。** 据相邻章节片段，第40章开头孙悟空自陈「刚才还和假悟空打得不可开交，正要使出全力一击，不料一头从雪雾里撞了出来」，身在异地；本章的诸神对峙与真假之辨如何在第40章被衔接，本阶段待回查。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "天宫对峙实况：孙悟空现身并连续击打李靖、巨灵神、武曲星君，对天庭众神公开施压，是本阶段（27–49）天宫线的关键武力展示节点。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-9",
+      "note": "「没带金箍儿」是本章唯一的真假判别依据，且未被孙悟空正面回应，属真假猴王线的核心待收束证据。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-18",
+      "note": "孙悟空首次在叙述中承认自己有「师父」并因承诺而守规矩，是人物转折点证据。"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-22",
+      "note": "孙悟空主动提及一个「丢尽妖精脸的家伙」，人物关系网新增未具名指称，需在后续章节回查。"
+    },
+    {
+      "kind": "character",
+      "label": "奎木郎",
+      "introduced_at": 39,
+      "note": "新增候选角色；天庭替补星宿，敢当面顶撞孙悟空，章末被孙悟空称为「是条汉子」。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "detail": "第39章出现的孙悟空是否为真身未在叙述中裁定：武曲星君据「没带金箍儿」指其为假，孙悟空未正面否认，众神亦无结论。第38章存在「两根金箍棒」的设定。不做推断，仅登记。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-9"
+      ],
+      "related_chapters": [
+        38,
+        39
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "李靖与「托塔天王」在同章可证为同一人（前句「托塔天王道」，后句「李靖一回头」），但两称在实体库中均无档案，已合为一个候选；如需正式建档，建议下游确认后再分配 char id。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-7"
+      ],
+      "related_chapters": [
+        39
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "孙悟空所述「师父」与「丢尽妖精脸的家伙」两处指称，本章均无姓名、无外貌、无身份线索，仅按候选登记，未与任何已知实体关联。",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-22"
+      ],
+      "related_chapters": [
+        39
+      ]
+    }
+  ],
+  "warnings": [
+    "本章实体库覆盖偏低：李靖/托塔天王、武曲星君、奎木郎、孙悟空的师父、丢尽妖精脸的家伙均无已有档案，已按候选登记，未与 char-0002 等既有实体合并。",
+    "章首直接承接第38章两根金箍棒混战的结尾，本章未复述对战过程细节；第38章的混战事件未在本章复用或追加更新（dedupe_event 返回 no_match，且无法确认第38章事件已在库中）。",
+    "太上老君（char-0059）、巨灵神（char-0061）、太白金星（char-0096）在库中 safe_through 分别为 18/18/30，本章第39章内容超出其 safe_through，实体 current 摘要可能滞后。",
+    "孙悟空既有的 character stage 只到第26章（safe_through 26），第27–49章尚未扫描，本章内容可能与后续回流材料冲突。"
+  ]
+}

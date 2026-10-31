@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0066",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 21,
+  "label": "紫霞请求孙悟空带她回花果山",
+  "introduced_at": 21,
+  "updates": [
+    {
+      "id": "update-thread-0066-001",
+      "revealed_at": 21,
+      "chapter_ranges": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "category": "plot",
+      "status": "open",
+      "role": "advance",
+      "summary": "紫霞请求孙悟空回花果山时带她去看看，孙悟空反问“你真的想去”，随后答“你会有机会的”并离开，未给出具体安排。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

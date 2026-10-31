@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0038",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 15,
+  "introduced_at": 15,
+  "subjects": [
+    {
+      "path": "characters/char-0053/index.json",
+      "record_id": "char-0053"
+    },
+    {
+      "path": "characters/char-0054/index.json",
+      "record_id": "char-0054"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0038-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "as_of": 15,
+      "revealed_at": 15,
+      "summary": "住持法明与寺中年轻僧人玄奘之间的师承提议与拒绝：提议由法明提出，拒绝由玄奘给出。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "住持法明与寺中年轻僧人玄奘之间的师承提议与拒绝：提议由法明提出，拒绝由玄奘给出。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0590"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0591"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0592"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0593"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0594"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

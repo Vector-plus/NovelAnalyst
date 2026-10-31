@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0148",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 60,
+  "entity_type": "character",
+  "label": "白龙马",
+  "introduced_at": 58,
+  "identity_notes": [
+    {
+      "id": "in-char-0148-001",
+      "revealed_at": 58,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2240"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2247"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2248"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2251"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0148/stages/stage-006.md",
+        "record_id": "doc-char-0148-stage-006"
+      },
+      "kind": "character_stage",
+      "title": "西行途中·界限：首次载人突围",
+      "summary": "西行途中·界限：首次载人突围（第56—60章）",
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0148/index.json",
+          "record_id": "char-0148"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 60
+    }
+  ]
+}

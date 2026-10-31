@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0006",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 3,
+  "introduced_at": 3,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0008/index.json",
+      "record_id": "char-0008"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0006-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "as_of": 3,
+      "revealed_at": 3,
+      "summary": "怪树与怪兽化为白烟后女孩现身，她自称因听唐僧说偈语、以为有道行才出手救他；随后两人就容貌、修行、金蝉子激烈辩驳，女孩变脸称要吃了唐僧。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "怪树与怪兽化为白烟后女孩现身，她自称因听唐僧说偈语、以为有道行才出手救他；随后两人就容貌、修行、金蝉子激烈辩驳，女孩变脸称要吃了唐僧。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0053"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0062"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0064"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0066"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0067"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

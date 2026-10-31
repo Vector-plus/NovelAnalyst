@@ -1,0 +1,14 @@
+{
+  "audit_summary": {
+    "candidate_count": 0,
+    "confirmed_issue_count": 0,
+    "critical_count": 0,
+    "warning_count": 0,
+    "overview": "对 wukon（source-v1）第 1~69 章已 committed 剧情记录执行 5 项 F 类检查（ref 可达性、孤儿声明、时间截断泄漏、stage 归档完整性、ledger ID 一致性），全部返回 0 命中，未发现质量问题，可放行发布。"
+  },
+  "issues": [],
+  "warnings": [
+    "check_cutoff_leak 无命中：仅说明现有 update/claim 的 revealed_at 未越过所在 event/block 的 safe_through，一期不读取原文，无法校验 safe_through 之外的隐含剧透是否被漏标。",
+    "check_ref_reachability / check_orphan_claims 无命中仅代表结构性引用完整，不代表索引内容在语义上准确；建议在二期引入原文比对抽查。"
+  ]
+}

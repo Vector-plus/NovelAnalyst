@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0112",
+  "kind": "index",
+  "revision": 4,
+  "safe_through": 55,
+  "title": "松鼠 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 55,
+        "end": 55
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0055.json",
+        "record_id": "rel-0055"
+      },
+      "kind": "relationship",
+      "title": "松鼠×须菩提",
+      "summary": "与松鼠×须菩提的关系",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0065.json",
+        "record_id": "rel-0065"
+      },
+      "kind": "relationship",
+      "title": "石猴×松鼠",
+      "summary": "与石猴×松鼠的关系",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0066.json",
+        "record_id": "rel-0066"
+      },
+      "kind": "relationship",
+      "title": "松鼠×一片叶子",
+      "summary": "与松鼠×一片叶子的关系",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 55
+    }
+  ]
+}

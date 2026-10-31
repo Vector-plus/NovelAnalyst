@@ -1,0 +1,1064 @@
+{
+  "chapter_order": 30,
+  "chapter_id": "ch-000030",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "大战之后天宫审天蓬：定罪与判罚",
+      "introduced_at": 30,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 30,
+            "end": 30
+          }
+        ],
+        "revealed_at": 30,
+        "status": "ongoing",
+        "story_time": "大战之后（天宫）",
+        "summary": "天宫大殿之上，玉帝当众问天蓬是否知罪，天蓬称因「扶起了自己所爱的人」而有罪。玉帝向殿上文武神仙征询处置，太白金星先后提出极刑、流放、赦免、升为天兵总元帅，玉帝一一摇头否决，并斥其胡言、命其按律说出当处何刑。太白金星答「极刑」，玉帝仍嫌太便宜；王母提出「让人永远失去最心爱的东西」为最残酷之刑；玉帝另出主意：让威武英俊的天神变成一只猪活下去。最终由太白金星宣布天恩浩荡、不杀天蓬，只将其打下凡间，并令其谢恩；玉帝又冷笑下令带阿月上来让二人告别。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "太白金星"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-7",
+          "claim-local-10",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天蓬与阿月告别，阿月在他口中放入红色丹药",
+      "introduced_at": 30,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 30,
+            "end": 30
+          }
+        ],
+        "revealed_at": 30,
+        "status": "completed",
+        "story_time": "大战之后（天宫）",
+        "summary": "阿月身着白纱衣裙上场，流泪却努力微笑。天蓬赞她任何时候都那么美；阿月说想让他记住自己最美的样子；天蓬承诺只要不死一定来看她；阿月则说他下界会忘记一切、不会再记住她，要他一定要忘了自己才能幸福，随后上前在他额上轻轻一吻，同时把一粒红色丹药放入他口中，说咽了它就忘记一切，随即后退、转身奔去。天蓬看着她消失在云雾中。原文未叙天蓬是否已吞下丹药。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "recipient"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-15"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-21",
+          "claim-local-23"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": [
+          {
+            "path": "events/block-0003.json",
+            "record_id": "claim-0699"
+          }
+        ]
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "「大战之后」的天宫大殿上，玉帝当众向天蓬问罪：「你可知罪？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "天蓬，你可知罪？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "天蓬回答知罪，理由是「因为我扶起了自己所爱的人，所以有罪」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "因为我扶起了自己所爱的人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "玉帝避开天蓬的目光，向殿下的文武神仙征询「如何处置」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "如何处置？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "太白金星上前，列出冒犯天庭可处的「大赦、流放、极刑、升官」四种处置。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "太白金星"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "可处以大赦、流放、极刑、升官"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "玉帝自称按律处事，怒斥太白金星卖乖，命其直接说出天蓬按律当处何刑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "我是不按律处事的天帝么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "太白金星以「孙悟空不就升了吗？」回应玉帝对「升官」一说的追问。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "太白金星"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "孙悟空不就升了吗？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "玉帝斥责太白金星闭嘴，并称还忘了为孙悟空升官一事找他算账。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "我还忘了为这事找你算账呢！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "太白金星答称天蓬情节特别严重、影响特别恶劣，按律当处「极刑」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "太白金星"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "此人情节特别严重"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "太白金星先后提出极刑、流放、赦免、升为天兵总元帅等处置，玉帝均以摇头否决。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "玉帝摇头。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "玉帝称极刑太便宜天蓬了，「想一死了之哪有那么容易」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "极刑太便宜这小子了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "王母称世上最残酷的刑罚，就是让一个人永远失去他最心爱的东西。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "世上最残酷的刑罚"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "天蓬在听处置时把牙关咬得紧紧。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "天蓬把牙关咬得紧紧。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "玉帝另提出一种刑罚设想：让威武英俊的天神变成一只猪，看他如何活下去、如何再让人去爱他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "却变成一只猪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "王母抚掌而笑，称玉帝这个主意「好」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "这个好，这个好"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "太白金星向天蓬宣布天恩浩荡、不杀他，只将他打下凡间，并令其谢恩；玉帝随后冷笑，下令带阿月上来让二人告别。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "太白金星"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "只将你打下凡间"
+        },
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "带阿月上来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "被称作「月女神」的阿月身着白纱衣裙缓缓走上殿来，神情令人想起幽寒的月空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "月女神穿着一身白纱衣裙"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "天蓬笑着对阿月说「什么时候，你都是那么美」；阿月流泪却努力微笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "什么时候，你都是那么美"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "阿月说想让他记住自己最美的样子。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "我想让你记住我最美的样子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "天蓬承诺只要自己不死，一定会来看阿月。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "我一定会来看你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "阿月对天蓬说，他下界后会忘记一切、不会再记住她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "会忘记一切，不会再记住我的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "天蓬回应「我不忘。我永远不忘。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "我不忘。我永远不忘。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "阿月要求天蓬一定要忘了她，说那样他才能幸福。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "你一定要忘了我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "阿月上前在天蓬额上轻轻一吻，同时用他的手将一粒红色丹药放入天蓬口中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "将一粒红色丹药放入天蓬口中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "阿月说咽下丹药就会忘记一切，并后退着说「忘记我，永远忘记我」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "咽了它，你就忘记一切了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "阿月转身奔去，天蓬就那样看着她消失在云雾中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "天蓬就那样看着她消失在云雾中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "天蓬所称「自己所爱的人」在此场景中指向阿月。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 30,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "让他们告个别吧"
+        },
+        {
+          "path": "source/vol-001/ch-000030.txt",
+          "chapter_id": "ch-000030",
+          "chapter_order": 30,
+          "locator": null,
+          "anchor": "因为我扶起了自己所爱的人"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "太白金星",
+      "introduced_at": 30,
+      "alias_texts": [
+        "太白金星"
+      ],
+      "identity_notes": "天宫文臣，在玉帝面前替天蓬议题刑名；先后提出极刑、流放、赦免、升为天兵总元帅，并提及孙悟空升官一事而被玉帝斥责；最终由其向天蓬宣读「不杀，只打下凡间」的处置。库内 resolve_name 无命中，登记为候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-15"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "红色丹药（令人忘记一切的丹药）",
+      "category": "item",
+      "introduced_at": 30,
+      "notes": "阿月在告别时放入天蓬口中的一粒红色丹药；阿月称「咽了它，你就忘记一切了」。丹药的存在为原文叙述，其「忘记一切」的功效仅为阿月之说；本章未写天蓬是否吞下。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-24"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "alias_text": "月女神",
+      "candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "certainty": "inferred",
+      "basis": "玉帝下令「带阿月上来」，紧接叙述「月女神穿着一身白纱衣裙…走上来」，该场景仅此一人被带上殿；本章未见「月女神」与「阿月」同时作为两人出现。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "审判与定刑关系"
+      },
+      "certainty": "explicit",
+      "summary": "玉帝当众问天蓬之罪，向众仙征询处置并否决从轻选项，最终定下「打下凡间、变成一只猪」的处置。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-10",
+        "claim-local-13",
+        "claim-local-15"
+      ],
+      "notes": "仅记互动事实，不作情感定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "facet": {
+        "type": "other",
+        "note": "告别场景中的互动事实：吻额、喂丹药、相互承诺与嘱咐"
+      },
+      "certainty": "explicit",
+      "summary": "天蓬受罚下凡前与阿月告别：天蓬赞她美、承诺不死必来看她、称自己永远不忘；阿月要他记住自己最美的样子，又坚持要他忘了自己才能幸福，并在吻他额头的同时把红色丹药放入他口中，随后转身离去。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "notes": "原文未对本关系作感情类别定性，感情定性交由后续 StageCommit 判断。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "主张重刑"
+      },
+      "certainty": "inferred",
+      "summary": "王母在审问中提出「让人永远失去最心爱的东西」为最残酷的刑罚，并对玉帝「变成一只猪」的处置抚掌称好。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-14"
+      ],
+      "notes": "行为事实为原文明述；「敌对」定性由行为归纳得出。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "太白金星"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "other",
+        "note": "议题刑名与宣读处置"
+      },
+      "certainty": "explicit",
+      "summary": "太白金星在审问中反复揣度天蓬的刑名，并在定案后向天蓬宣读「天恩浩荡，不杀你了，只将你打下凡间」。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-8",
+        "claim-local-15"
+      ],
+      "notes": "太白金星为当章新登记的候选实体。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "天蓬被贬下凡并化猪",
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "玉帝定下处置：不杀天蓬，将其打下凡间，并设想他变成一只猪后如何活下去、如何再让人去爱他。本章尚未写出执行（天蓬仍在天宫与阿月告别）。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15"
+      ],
+      "notes": "后续需查：打下凡间与化猪是否在紧接着的章节发生。"
+    },
+    {
+      "thread_key": "阿月放入天蓬口中的红色丹药",
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "阿月在告别时把一粒红色丹药放入天蓬口中，称「咽了它，你就忘记一切了」；本章未写天蓬是否吞下，也未写是否真的失忆。",
+      "source_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "notes": "与天蓬「我不忘。我永远不忘」的承诺形成对照，后续需查失忆是否生效。"
+    },
+    {
+      "thread_key": "玉帝与太白金星在孙悟空升官一事上的旧账",
+      "category": "conflict",
+      "status": "open",
+      "role": "setup",
+      "summary": "太白金星以「孙悟空不就升了吗」回应升官之议，玉帝怒斥其闭嘴并称还忘了为这事找他算账。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7"
+      ],
+      "notes": "本章未展开清算。"
+    },
+    {
+      "thread_key": "「最残酷的刑罚＝永远失去最心爱的东西」",
+      "category": "theme",
+      "status": "open",
+      "role": "setup",
+      "summary": "王母在与玉帝议刑时提出此说，随后天蓬被安排与阿月告别，此说与天蓬的实际处境相互对应。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-15"
+      ],
+      "notes": "仅记录原文陈述与场景对应，不作主题解读。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第30章：大战之后 · 天宫定罪与告别",
+    "front_matter": {
+      "as_of": 30,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "candidate_name": "太白金星"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首引一段诗（「待至英雄们在铁铸的摇篮中长成……与其孤身跋涉，不如安然沉睡」），随后场景标为「大战之后　天宫」。玉帝当众问天蓬「你可知罪」，天蓬答知罪，理由是「因为我扶起了自己所爱的人，所以有罪」。玉帝避开天蓬的目光，转向殿下的文武神仙问「如何处置」。\n\n## 关键行动\n\n- 太白金星上前应对，列出冒犯天庭可处的「大赦、流放、极刑、升官」四种处置；玉帝怒斥其卖乖，自称「是不按律处事的天帝么」，命他直接说天蓬按律当处何刑。\n- 议刑过程中，太白金星以「孙悟空不就升了吗」作答，玉帝斥其闭嘴，并称还忘了为这事找他算账。\n- 太白金星答「极刑」（称情节特别严重、影响特别恶劣），玉帝摇头，嫌极刑太便宜天蓬，「想一死了之哪有那么容易」；此后太白金星改提流放、赦免、升为天兵总元帅，玉帝一一摇头。天蓬把牙关咬得紧紧。\n- 王母提出「世上最残酷的刑罚，就是让一个人失去他最心爱的东西，永远」；玉帝另出主意：让威武英俊的天神变成一只猪，看他怎么活下去、怎么再让人去爱他。王母抚掌而笑称好。\n\n## 转折与新信息\n\n- 处置落定：太白金星向天蓬宣布「天恩浩荡，不杀你了，只将你打下凡间，你谢恩吧」。\n- 玉帝冷笑，下令「带阿月上来，让他们告个别吧」。\n- 被叙述为「月女神」的阿月身着白纱衣裙上殿，流泪却努力微笑；天蓬说「什么时候，你都是那么美」，阿月说「我想让你记住我最美的样子」；天蓬承诺「只要我不死，我一定会来看你」，阿月则断言他下界会忘记一切、不会再记住她，并要他一定要忘了自己才能幸福。天蓬答「我不忘。我永远不忘」。\n- 阿月上前在天蓬额上轻轻一吻，同时把一粒红色丹药放入他口中，说「咽了它，你就忘记一切了」，随后后退、转身奔去。\n\n## 本章结果\n\n- 审判以「不杀、打下凡间」告终，玉帝另提出「变成一只猪」的设想；本章未写执行过程，天蓬仍在天宫。\n- 天蓬与阿月完成告别：阿月留下一粒「忘记一切」的红色丹药后离去，天蓬看着她消失在云雾中。原文未写天蓬是否吞下丹药。\n\n## 未决问题与补读入口\n\n- 天蓬是否吞下红色丹药、是否真的忘记阿月，本章未叙。\n- 「打下凡间」「变成一只猪」是否在后续章节落实，需查紧接章节。\n- 玉帝与太白金星围绕「孙悟空升官」的旧账本章只被提及，未展开。\n- 叙述语「月女神」与对话中「阿月」应为同一人（已登记 identity_link 候选），需在后续章节确认称谓是否固定。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "why": "天蓬命运的判决节点：定罪、议刑、定处置",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "ref_or_local_id": "ev-local-2",
+      "kind": "event",
+      "why": "天蓬与阿月告别的关键场景，含「忘记一切」丹药这一伏笔",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "ref_or_local_id": "claim-local-13",
+      "kind": "claim",
+      "why": "玉帝亲口提出的化猪之刑设想",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "ref_or_local_id": "claim-local-23",
+      "kind": "claim",
+      "why": "红色丹药被放入天蓬口中的实体动作事实",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "ref_or_local_id": "claim-local-11",
+      "kind": "claim",
+      "why": "王母「最残酷的刑罚」之说的原话证据",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    },
+    {
+      "ref_or_local_id": "candidate:太白金星",
+      "kind": "character_candidate",
+      "why": "本章为议刑与宣读处置的执行者，需建档",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      }
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "叙述语称「月女神」，同段对话与玉帝命令中称「阿月」，本章未明示二者关系。",
+      "resolution_attempt": "已登记 identity_link_candidate（inferred），未直接合并引用。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "红色丹药的药效（忘记一切）与天蓬是否吞服，本章只到「放入口中」与阿月之言，未见结果。",
+      "source_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章标题字段为全角句点「．」，正文另标场景「大战之后　天宫」；如以此作 anchor，建议改用场景标题或首句。",
+      "source_claim_local_ids": [
+        "claim-local-1"
+      ]
+    }
+  ],
+  "warnings": [
+    "原文章节标题为「．」（无有效标题），摘要标题由提取者按内容拟定。",
+    "章首为一段诗（「待至英雄们在铁铸的摇篮中长成……」），未标注作者/出处，未作为 claim 提取。",
+    "「太白金星」在既有实体库中 resolve_name 无命中，已登记为新角色候选，未与任何既有实体合并。",
+    "本章未直接写出天蓬吞下丹药或被打下凡间的执行过程，相关表述均按原文陈述与角色所言分别标注 certainty，未做后文回填。"
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "chapter_order": 32,
+  "chapter_id": "ch-000032",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天蓬坠落凡间、转生为猪圈小猪",
+      "introduced_at": 32,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 32,
+            "end": 32
+          }
+        ],
+        "revealed_at": 32,
+        "status": "completed",
+        "story_time": "第31章天蓬被贬下坠之后一天",
+        "summary": "承接第31章天蓬被贬下坠，本章写他坠落途中看见另一人也从天界直落（他认为像阿瑶），云雾散开后看见凡间一座安宁小山村；一天后，圈中一只母猪产仔，其中一只小猪摇摇晃晃往栏外钻，并从嘴里吐出一颗红色药丸。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "猪圈中刚出生的小猪"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "下坠中，天蓬看见另一人也从天界直落下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "天蓬看见另一人也从天界直落下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "天蓬认为那位同样坠落的人是阿瑶；“像”为叙述中的比况，当章未确认其身份。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "像是阿瑶"
+        }
+      ],
+      "basis_refs": [
+        {
+          "claim_local_id": "claim-local-1"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "云雾散开，天蓬看见凡间景色，那是一个安宁的小山村。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "那是一个安宁的小山村"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "一天后，圈中一只母猪产仔；别的小猪都往她怀里拱，只有一只摇摇晃晃向栏外钻去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "只有那只，摇摇晃晃向栏外钻去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "那只小猪狠狠从嘴里吐出了一颗红色药丸。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "那是一颗红色的药丸"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "本章叙述将天蓬下坠与一天后新生小猪并置，可推知下坠的天蓬转生为那只吐药丸的小猪；原文未出现直接点明的句子。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 32,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000032.txt",
+          "chapter_id": "ch-000032",
+          "chapter_order": 32,
+          "locator": null,
+          "anchor": "一只圈中的母猪惊异地看着那只刚出生的小猪"
+        }
+      ],
+      "basis_refs": [
+        {
+          "claim_local_id": "claim-local-3"
+        },
+        {
+          "claim_local_id": "claim-local-4"
+        },
+        {
+          "claim_local_id": "claim-local-5"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "猪圈中刚出生的小猪",
+      "introduced_at": 32,
+      "alias_texts": [
+        "那只刚出生的小猪"
+      ],
+      "identity_notes": "圈中母猪所生，拒乳而向栏外钻，并吐出红色药丸；与天蓬下坠叙述在同一章紧邻并置，疑似天蓬转生之身，但当章未明说，需后章验证。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "红色药丸",
+      "category": "item",
+      "introduced_at": 32,
+      "notes": "新出生小猪从口中吐出的一颗红色药丸；来源、性质、为何在其体内均未说明。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-5"
+      ]
+    },
+    {
+      "label": "凡间小山村（天蓬坠落所见）",
+      "category": "place",
+      "introduced_at": 32,
+      "notes": "天蓬坠落途中透过云雾看见的凡间景象，被描述为安宁的小山村；是否即小猪出生所在之地未明示。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "猪圈中刚出生的小猪"
+      },
+      "candidate_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "certainty": "uncertain",
+      "note": "章内以“天蓬下坠→云雾散开见凡间山村→一天后小猪出生”顺序并置，暗示转生关系，但原文无一句明示二者同一；暂作候选，不合并实体。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-6"
+      ]
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "与天蓬一同自天界坠落的另一人"
+      },
+      "candidate_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "certainty": "uncertain",
+      "note": "叙述仅作“像是阿瑶”的比况，且该身影被风吹向遥远天边，去向与本处小猪出生地未必相同；不可据此合并为阿瑶。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "other",
+        "label": "同刻坠落凡间（疑似）"
+      },
+      "certainty": "uncertain",
+      "summary": "天蓬在下坠中看见另一人也自天界坠落，他认为像阿瑶；两人同处坠落场景但无对话、无互动，阿瑶被叙述为像落叶般被风吹向远方。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ],
+      "notes": "仅为场景层面的并置事实，不做感情定性；未发现既有关系对（find_similar_relationship 返回 no_match）。"
+    }
+  ],
+  "thread_update_candidates": [],
+  "chapter_summary_markdown": {
+    "title": "第32章：（无题）天蓬坠落与红丸小猪",
+    "front_matter": {
+      "as_of": 32,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "candidate_name": "猪圈中刚出生的小猪"
+        },
+        {
+          "candidate_name": "与天蓬一同自天界坠落的另一人"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n全章承接第31章天蓬被贬下坠的瞬间。章首先是一段卷首短句（“五百年很漫长吗？／记得／忘了……因为再重逢时／我们仍然会相爱”），无人物署名。正文自坠落中的天蓬视角展开（[[ev-local-1]]）。\n\n## 关键行动\n\n- 下坠中，天蓬看见另一人也从天界直落下来，他认为那像是阿瑶；该身影如一片落叶，被风吹向遥远的天边（[[claim-local-1]]、[[claim-local-2]]）。\n- 云雾散开，天蓬看见凡间景色，那是一个安宁的小山村（[[claim-local-3]]）。\n\n## 转折与新信息\n\n- 视角由“天界坠落”切至“凡间猪圈”：一天后，圈中母猪产仔，别的小猪都往母猪怀里拱，唯有一只摇摇晃晃往栏外钻（[[claim-local-4]]）。\n- 那只小猪狠狠从嘴里吐出一颗红色药丸（[[claim-local-5]]）。药丸的来历与性质在本章未作说明。\n- 叙述将天蓬下坠与新生小猪紧邻并置，可推知下坠者转生为这只小猪；原文并无直接点明之句（[[claim-local-6]]，certainty=inferred），故仅登记为身份链候选。\n\n## 本章结果\n\n- 天蓬自天界坠入凡间（[[ev-local-1]]）。\n- 凡间新增一端：一座安宁小山村与圈养母猪的猪栏；栏中一只新生小猪吐出红色药丸（[[claim-local-5]]）。\n- “疑似阿瑶”的另一坠落者去向与本处分开，被风吹向远方天边（[[claim-local-2]]）。\n\n## 未决问题与补读入口\n\n1. 那只吐红丸的小猪是否即天蓬转生？本章未明示，需后章验证（见身份链候选）。\n2. 红色药丸是什么、为何在小猪体内、被吐出后下落如何？全章未答。\n3. 与天蓬同刻坠落的另一人是否确为阿瑶、落向何方？仅有“像是阿瑶”的比况。\n4. 卷首“五百年”“再重逢”等语无人物署名，暂不作归属判断。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "天蓬坠落凡间、转生小猪，吐红丸；第27–49待回查段的开篇关键事件",
+      "chapter_order": 32
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-2",
+      "note": "疑似阿瑶同步坠落，身份未定",
+      "chapter_order": 32,
+      "certainty": "uncertain"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-5",
+      "note": "新生小猪吐出红色药丸——后续可能的关键物件线索",
+      "chapter_order": 32
+    },
+    {
+      "kind": "identity_link",
+      "candidate_name": "猪圈中刚出生的小猪",
+      "note": "疑似天蓬转生之身，待后章明示",
+      "chapter_order": 32
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "本章标题为占位符“．”，源文件未提供有效标题，摘要标题暂记为“（无题）”。",
+      "chapter_order": 32,
+      "locator": {
+        "para": 0
+      }
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "“天蓬转生为小猪”仅由叙述并置推出，无直接点明句；如需定论须回查后续章节。",
+      "chapter_order": 32,
+      "locator": {
+        "anchor": "一只圈中的母猪惊异地看着那只刚出生的小猪"
+      }
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "“像是阿瑶”为比况而非确认，且坠落者被风吹向遥远天边，与山村猪栏不在同一落点。",
+      "chapter_order": 32,
+      "locator": {
+        "anchor": "像是阿瑶"
+      }
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "红色药丸的来源、性质及吐出后的下落均无说明。",
+      "chapter_order": 32,
+      "locator": {
+        "anchor": "那是一颗红色的药丸"
+      }
+    }
+  ],
+  "warnings": [
+    "本章篇幅极短（12段），叙述含大量留白与卷首抒情短句，可提取的硬事实有限。",
+    "“天蓬转生为小猪”标记为 inferred，未按 explicit 处理；已同时登记身份链候选，避免实体合并。",
+    "未发现与既有事件/陈述等价记录（dedupe_event、dedupe_claim 均 no_match），故全部新建。",
+    "未做任何感情类定性；卷首“我们仍然会相爱”等语未归因于任何角色。"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "defaults": {
+    "evidence_policy": "key_claims",
+    "max_context_tokens": 12000,
+    "max_expansion_hops": 1,
+    "task_token_budget": 32000
+  },
+  "id": "task-routes",
+  "kind": "task_routes",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "routes": [
+    {
+      "entry_refs": [
+        {
+          "path": "navigation/chapters/index.json",
+          "record_id": "idx-chapters"
+        }
+      ],
+      "optional_materials": [
+        "arc_summary",
+        "entity_index",
+        "setting"
+      ],
+      "required_materials": [
+        "chapter_summary",
+        "event",
+        "source"
+      ],
+      "requires_subject": false,
+      "stop_when": "目标章节的主要行动、转折和结果已有依据；缺失前情已补足或明确标注。",
+      "task_type": "chapter_explanation"
+    },
+    {
+      "entry_refs": [
+        {
+          "path": "navigation/names/index.json",
+          "record_id": "idx-names"
+        },
+        {
+          "path": "characters/index.json",
+          "record_id": "idx-characters"
+        }
+      ],
+      "optional_materials": [
+        "relationship",
+        "setting",
+        "story_thread"
+      ],
+      "required_materials": [
+        "entity_index",
+        "character_stage",
+        "event",
+        "source"
+      ],
+      "requires_subject": true,
+      "stop_when": "相关经历阶段的关键选择、变化与转折均有依据；跨阶段缺口已明确。",
+      "task_type": "biography"
+    },
+    {
+      "entry_refs": [
+        {
+          "path": "factions/index.json",
+          "record_id": "idx-factions"
+        }
+      ],
+      "optional_materials": [
+        "relationship",
+        "setting"
+      ],
+      "required_materials": [
+        "faction_landscape",
+        "entity_index",
+        "faction_stage",
+        "event",
+        "source"
+      ],
+      "requires_subject": false,
+      "stop_when": "目标阶段的主要势力、利益与冲突变化有依据，无法比较的实力不强行排名。",
+      "task_type": "faction_landscape"
+    },
+    {
+      "entry_refs": [
+        {
+          "path": "navigation/names/index.json",
+          "record_id": "idx-names"
+        },
+        {
+          "path": "settings/index.json",
+          "record_id": "idx-settings"
+        }
+      ],
+      "optional_materials": [
+        "event",
+        "story_thread"
+      ],
+      "required_materials": [
+        "setting",
+        "source"
+      ],
+      "requires_subject": true,
+      "stop_when": "定义、条件、限制与例外已检查；缺少展示或仅有角色说法时明确说明。",
+      "task_type": "worldbuilding"
+    },
+    {
+      "entry_refs": [
+        {
+          "path": "navigation/names/index.json",
+          "record_id": "idx-names"
+        },
+        {
+          "path": "relationships/index.json",
+          "record_id": "idx-relationships"
+        }
+      ],
+      "optional_materials": [
+        "character_stage",
+        "emotional_stage"
+      ],
+      "required_materials": [
+        "relationship",
+        "event",
+        "source"
+      ],
+      "requires_subject": true,
+      "stop_when": "指定双方的关系性质、态度差异和转折有依据，不将单方态度对称化。",
+      "task_type": "relationships"
+    },
+    {
+      "entry_refs": [
+        {
+          "path": "emotions/index.json",
+          "record_id": "idx-emotions"
+        }
+      ],
+      "optional_materials": [
+        "character_stage"
+      ],
+      "required_materials": [
+        "emotional_index",
+        "emotional_stage",
+        "relationship",
+        "event",
+        "source"
+      ],
+      "requires_subject": true,
+      "stop_when": "重要互动、表达、心理与情感转折已有依据，推断与未确认关系已分开。",
+      "task_type": "emotional_arc"
+    }
+  ],
+  "safe_through": 0,
+  "schema_version": "2.0"
+}

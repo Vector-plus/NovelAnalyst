@@ -1,0 +1,54 @@
+{
+  "cases": [
+    {
+      "metrics": null,
+      "target_budget": 12000,
+      "task": null,
+      "task_type": "chapter_explanation"
+    },
+    {
+      "metrics": null,
+      "target_budget": 32000,
+      "task": null,
+      "task_type": "biography"
+    },
+    {
+      "metrics": null,
+      "target_budget": 24000,
+      "task": null,
+      "task_type": "faction_landscape"
+    },
+    {
+      "metrics": null,
+      "target_budget": 12000,
+      "task": null,
+      "task_type": "worldbuilding"
+    },
+    {
+      "metrics": null,
+      "target_budget": 24000,
+      "task": null,
+      "task_type": "relationships"
+    },
+    {
+      "metrics": null,
+      "target_budget": 24000,
+      "task": null,
+      "task_type": "emotional_arc"
+    }
+  ],
+  "construction_metrics": null,
+  "id": "benchmark-run-0001",
+  "kind": "benchmark",
+  "model": null,
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "prompt_version": null,
+  "revision": 1,
+  "safe_through": 0,
+  "sample_ranges": [],
+  "sampling_config": null,
+  "schema_version": "2.0",
+  "source_version": null,
+  "status": "pending",
+  "tokenizer": null
+}

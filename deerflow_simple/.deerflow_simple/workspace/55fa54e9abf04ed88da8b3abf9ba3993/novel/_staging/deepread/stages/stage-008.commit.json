@@ -1,0 +1,594 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-008"
+  },
+  "stage_range": {
+    "start": 68,
+    "end": 69
+  },
+  "as_of": 69,
+  "arc_summary": {
+    "doc_id": "doc-arc-008",
+    "front_matter": {
+      "title": "狮驼岭·齐天大圣归来",
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "as_of": 69,
+      "safe_through": 69,
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "events/block-0068.json",
+          "record_id": "ev-local-1"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "ev-local-2"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-3"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-4"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-16"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-18"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-19"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-21"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "claim-local-10"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "claim-local-29"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "claim-local-33"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n\n第68—69章，共 2 章。本阶段以「心障」与「齐天大圣归来」互为表里：先以「放下棒—被压坠」完成收束，再以「旧名被重呼—放行三妖—归队」完成翻转。\n\n## 起始局面\n\n第68章开篇，孙悟空被拖入「心障」之中，手中持有种子袋；一道未具名的女子声音先一步喝止他开袋（[[claim-local-16]]）。承接上一阶段，他仍处于「不认旧名」的状态，与「齐天大圣」之名保持距离。\n\n## 核心目标与冲突\n\n- 表层冲突：袋中之物与眼前之声的来历。声音否认自己是如来，自称「我是你的心」（[[claim-local-18]]）。\n- 深层冲突：孙悟空与被安排之命运的对抗，以「跳出掌心」的旧约被重新提出（[[ev-local-1]]）。冲突不落在打斗上，而落在「要不要继续握着金箍棒」。\n\n## 关键转折\n\n1. 孙悟空主动放下「一直不离身的金箍棒」（[[claim-local-19]]）；随即种子袋—巨手—整座五行山压下，他遭压坠（[[ev-local-2]]）。这是本章最大的动作与意义反转。\n2. 压坠之时「似乎有了一丝笑容」（[[claim-local-21]]），章末以留白收束。\n3. 第69章：大旗重展、众妖重呼其名、大鹏崩溃（[[ev-local-2]]），「齐天大圣归来」作为本阶段标题事件落地；金箍遗落（[[claim-local-10]]）构成坠落者与归来者之间的衔接点。\n4. 观音现身点名三妖来历，孙悟空选择放行（[[ev-local-4]]）；观音对金角银角与大鹏来历的说法以转述形式出现（[[claim-local-29]]）。\n5. 白晶晶化出原形，被风吹散（[[ev-local-3]]）。\n6. 孙悟空主动唤「师父，走吧」（[[claim-local-33]]）。\n\n## 阶段结果\n\n- 孙悟空：从「放下棒—被压」到「旧名被重呼—放行三妖—归队」。金箍已不在身上（遗落），身份线由「不认旧名」位移到「被众口重新命名」，但两说并存，未构成记忆恢复的判定。\n- 狮驼岭：由以山压人的一方转为被放行的一方，大鹏崩溃，主角一方不再追究。\n- 白晶晶线在本阶段终结（形散）。\n- 取经队伍重新集结，继续西行。\n\n## 下一阶段承接与未决问题\n\n- 「你的心」之声的来源与性质未获解释：它否认是如来，却未给出别的名字（[[claim-local-18]]）。\n- 第68章喝止开袋的未具名女子声音，身份未核（[[claim-local-16]]）。\n- 金箍遗落于何处、是否再被拾得或归还（[[claim-local-10]]）。\n- 观音所述的「金角银角与大鹏来历」为转述，尚未被其他来源交叉验证（[[claim-local-29]]）。\n- 白晶晶形散之后是否有后续（遗物、记忆、旁人反应）未在本范围出现（[[ev-local-3]]）。\n- 大鹏「崩溃」的具体形态与外延待补（[[ev-local-2]]）。"
+  },
+  "character_stages": [
+    {
+      "candidate_name": "孙悟空",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "stage_doc_id": "doc-char-0002-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "心障、放下金棒与齐天大圣归来",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0068.json",
+              "record_id": "ev-local-1"
+            },
+            {
+              "path": "events/block-0068.json",
+              "record_id": "ev-local-2"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-3"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-4"
+            },
+            {
+              "path": "events/block-0068.json",
+              "record_id": "claim-local-16"
+            },
+            {
+              "path": "events/block-0068.json",
+              "record_id": "claim-local-18"
+            },
+            {
+              "path": "events/block-0068.json",
+              "record_id": "claim-local-19"
+            },
+            {
+              "path": "events/block-0068.json",
+              "record_id": "claim-local-21"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-10"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-29"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-33"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第68章开篇，孙悟空处于「心障」之中，手中有种子袋；一道未具名的女子声音先一步喝止他开袋（[[claim-local-16]]）。承接上一阶段，他仍是「不认旧名」的人：齐天大圣之名于他是别人给的旧号，而非自认。\n\n## 目标与动机\n\n本阶段他的动机不指向胜负，而指向「不被安排」：面对自称「你的心」的声音，他不辩真伪，直接把「跳出掌心」的旧约重新摆上桌（[[ev-local-1]]）。要的是自主，而不是清白。\n\n## 关键选择与经历\n\n1. 与「你的心」正面问答。声音否认自己是如来，自称「我是你的心」（[[claim-local-18]]）；他的回应围绕「跳出掌心」这一旧约展开（[[ev-local-1]]）。\n2. 放下「一直不离身的金箍棒」（[[claim-local-19]]）。这是本阶段最重的一次选择——不是被缴械，而是主动松手。\n3. 松手后形势急转：种子袋化作巨手，再化为整座五行山，将他压坠（[[ev-local-2]]）。\n4. 压坠之际「似乎有了一丝笑容」（[[claim-local-21]]），叙述不作解释，留白收束。\n5. 第69章归来：大旗重展、众妖重呼其名、大鹏崩溃（[[ev-local-2]]）。坠落与归来互为镜像。\n6. 观音现身点名狮驼岭三妖来历后，他选择放行（[[ev-local-4]]）；观音对金角银角与大鹏来历的说法在此为转述（[[claim-local-29]]）。\n7. 主动唤「师父，走吧」（[[claim-local-33]]），归队西行。\n\n## 身份与能力变化\n\n- 金箍遗落（[[claim-local-10]]）：这是坠落者与归来者之间唯一的叙述衔接点——归来的人仍是他，但身上的记号已经不在。\n- 旧号「齐天大圣」在众妖口中被重新喊出（[[ev-local-2]]）。这构成与上一阶段「不认旧名」的反向位移，但属他人之口，不等于他自认，也不等于记忆恢复。\n- 「放下金棒」暗示其力量姿态的转变：处置权在他手上（放行三妖即为例证），而非靠棒子。\n\n## 认知与性格表现\n\n- 对「你的心」的诘问不辩、不惧，只以旧约回敬——他的骄傲不在口舌上。\n- 对三妖：不追究、选择放行，处置由「打」转为「放」（[[ev-local-4]]）。\n- 对师父：主动招呼、归队，从对抗姿态转向同行姿态（[[claim-local-33]]）。\n- 「似乎有了一丝笑容」（[[claim-local-21]]）仅为情绪线索，不作为认知结论。\n\n## 阶段终点\n\n仍在取经队伍中，与唐僧继续西行；旧名被重呼，金箍已不在身上；「你的心」之声的来源未获解释，心障的性质仍然悬空。\n\n## 证据不足与补读入口\n\n- 三妖各自处置细节、大鹏「崩溃」的具体表现：buffer 仅有一句概括（[[ev-local-4]]、[[ev-local-2]]）。\n- 金箍遗落的确切位置与后续下落（[[claim-local-10]]）。\n- 第68章喝止开袋的未具名女子声音身份（[[claim-local-16]]）。\n- 「你的心」的声音是否与既有实体同一，本范围无依据。\n- 白晶晶形散时他在场与否、有何反应（[[ev-local-3]]）：本范围未提取到依据。"
+      },
+      "current_summary_update": "第68—69章：在心障中与自称「你的心」的声音对答，重提「跳出掌心」旧约；主动放下一直不离身的金箍棒，随即被种子袋所化的巨手与整座五行山压坠。第69章以「齐天大圣」之名归来——大旗重展、众妖重呼其名、大鹏崩溃；观音点名三妖来历后他选择放行，并主动唤「师父，走吧」归队。金箍遗落，旧名被重呼与「不认旧名」并存。",
+      "identity_notes_appends": [
+        {
+          "id": "in-char-0002-002",
+          "revealed_at": 69,
+          "claims": [],
+          "claim_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-2"
+            }
+          ],
+          "note": "旧号「齐天大圣」于第69章经众妖重呼而在外部世界重新成立（大旗重展、众妖呼名）；此为群妖之口的公开事实，与第61—67章的「不认旧名」状态并存，不据此判定其记忆恢复或自我认同已改变。"
+        }
+      ]
+    },
+    {
+      "candidate_name": "白晶晶",
+      "entity_ref": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "stage_doc_id": "doc-char-baijingjing-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "化出原形，被风吹散：一条线的终结",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0016/index.json",
+              "record_id": "char-0016"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-3"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n本阶段仅第69章有其实质记录：此时她已走到自身线索的终局。第68章未见其行动，本范围不为其补写。\n\n## 目标与动机\n\n本范围尚未提取到依据——buffer 未记录她在终局前后的目的、所求或取舍。\n\n## 关键选择与经历\n\n- 化出原形，随后被风吹散（[[ev-local-3]]）。这是本阶段唯一一条关于她的实质事实，也是其线索的收束点。\n\n## 身份与能力变化\n\n存在状态发生根本改变：由可行动之身转为「原形」，再至形散。原形具体为何，buffer 未给出。\n\n## 认知与性格表现\n\n本范围尚未提取到依据。\n\n## 阶段终点\n\n形散，人物线在本阶段终结。是否留有遗物、言语、记忆或对他人的影响，本范围未记录。\n\n## 证据不足与补读入口\n\n- 化形的原因与过程、是否有言语或托付（[[ev-local-3]]）。\n- 与孙悟空等其他人的最后互动、在场者及其反应（[[ev-local-3]]）。\n- 形散是否可逆、是否与狮驼岭之局或「你的心」之声相关：本范围无依据，不作推断。"
+      },
+      "current_summary_update": "第69章于狮驼岭之局收束时化出原形，随后被风吹散，线索终结。终局前后的动机、在场者与是否有遗留，尚未提取到依据。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "观音",
+      "entity_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "stage_doc_id": "doc-char-guanyin-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "现身点名来历，交回处置权",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-4"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-29"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第69章现身于狮驼岭之局，无更早的本阶段记录。\n\n## 目标与动机\n\n本范围尚未提取到明确的动机陈述；从行动看，其作用是「把来历说清」，而非亲自处置（[[ev-local-4]]）。\n\n## 关键选择与经历\n\n- 现身并点名狮驼岭三妖的来历（[[ev-local-4]]）。\n- 就金角银角与大鹏的来历给出说法（[[claim-local-29]]）。该说法在本范围以转述形式出现，非其自述原话。\n\n## 身份与能力变化\n\n本范围尚未提取到依据。\n\n## 认知与性格表现\n\n以「点名来历」介入，把处置的正当性交给在场者；随后孙悟空放行三妖（[[ev-local-4]]），她未再干预。\n\n## 阶段终点\n\n三妖处置权回到孙悟空手中，以放行收场；她自身的去向未记录。\n\n## 证据不足与补读入口\n\n- 其现身方式、与孙悟空的直接对话内容（[[ev-local-4]]）。\n- 「金角银角与大鹏来历」说法的具体表述与可靠性，仅有转述层级（[[claim-local-29]]）。\n- 与取经队伍后续关系，本范围无依据。"
+      },
+      "current_summary_update": "第69章现身狮驼岭，点名三妖来历（含金角银角与大鹏来历的转述说法），随后由孙悟空放行三妖，她未再干预。现身方式与具体言论尚待补读。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_stages": [
+    {
+      "candidate_name": "狮驼岭",
+      "entity_ref": {
+        "path": "factions/fac-0001/index.json",
+        "record_id": "fac-0001"
+      },
+      "stage_doc_id": "doc-fac-shituoling-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "从压人的山到被放行的众妖",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "factions/fac-0001/index.json",
+              "record_id": "fac-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0068.json",
+              "record_id": "ev-local-2"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-4"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-29"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第68章，狮驼岭是本阶段压力的一方：种子袋化为巨手，再化为整座五行山，将孙悟空压坠（[[ev-local-2]]）。\n\n## 结构与成员（本范围可见）\n\nbuffer 提到「狮驼岭三妖」与大鹏，并记录观音所述「金角银角与大鹏来历」（[[ev-local-4]]、[[claim-local-29]]）。三妖各自的姓名与团体内对应关系未在 buffer 中一一对应，本范围不作认定，不补写成员名册。\n\n## 本阶段行动\n\n- 第69章大旗重展，众妖重呼「齐天大圣」之名（[[ev-local-2]]）。\n- 大鹏崩溃（[[ev-local-2]]）。\n- 观音现身点名三妖来历，随后被孙悟空放行（[[ev-local-4]]）。\n\n## 状态变化\n\n由「以山压人的一方」转为「被点名来历、被放行的一方」。处置权先由外部权威（观音）赋予来历说明，再交回孙悟空，最终以不追究收场——本势力在本阶段没有被消灭，而是被「放过」。\n\n## 阶段终点与未决\n\n- 三妖各自去向、放行后是否仍在狮驼岭，本范围未记录。\n- 「大鹏崩溃」的具体形态（战力溃败／心理崩解／身份被揭穿）未明（[[ev-local-2]]）。\n- 观音所述的出身说法仍为转述层级，未经交叉验证（[[claim-local-29]]）。\n\n## 证据不足与补读入口\n\n- 成员名册、内部秩序与彼此关系：本范围尚未提取到依据。\n- 与孙悟空的历史纠葛或私人恩怨：本范围尚未提取到依据。"
+      },
+      "current_summary_update": "第68章以种子袋—巨手—整座五行山压坠孙悟空；第69章大旗重展、众妖重呼「齐天大圣」之名，大鹏崩溃。观音现身点名三妖来历后，孙悟空选择放行，本势力以被「放过」而非被消灭收场。成员名册与三妖去向待补。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "本 stage 仅 68—69 两章，势力方只有狮驼岭一处被处置（点名来历、被放行），buffer 中无第二方势力的同时行动或互动材料，不足以支撑多方格局 Markdown；相关变化已在狮驼岭 faction stage 与 arc 摘要中记录。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "孙悟空",
+            "唐僧"
+          ],
+          "kind": "师徒"
+        }
+      },
+      "stage_doc_id": "doc-rel-sunwukong-tangseng-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "归队：主动唤「师父，走吧」",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-33"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段关系状态\n\n第69章，孙悟空主动唤「师父，走吧」（[[claim-local-33]]），师徒二人在本阶段重新走回同一条路。这是本范围内唯一一条该关系的实质记录。\n\n## 双方姿态\n\n- 孙悟空一侧：有明确表达——主动招呼、同行（[[claim-local-33]]）。\n- 唐僧一侧：本范围尚未提取到依据（未见其回应、态度或言语记录）。该维度的态度不作对称推定。\n\n## 变化解释\n\n本阶段的位移发生在孙悟空一方：从独自行动、独自面对心障，转为主动招呼师父同行。至于这一招呼是被动归队还是主动接纳，叙述未作说明。\n\n## 未决\n\n- 唐僧在孙悟空被压坠（第68章）期间的行止与反应，本范围未记录。\n- 师徒之间此前积累的隔阂是否因这一句而缓解，需要后续章节材料方可判断。"
+      },
+      "facets": [
+        {
+          "dimension": "行止与归队",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "主动招呼、归队同行",
+          "basis_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-33"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [],
+      "safe_through": 69
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "孙悟空",
+            "白晶晶"
+          ],
+          "kind": "旧识"
+        }
+      },
+      "stage_doc_id": "doc-rel-sunwukong-baijingjing-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "终局：化出原形，被风吹散",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0016/index.json",
+              "record_id": "char-0016"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-3"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段关系状态\n\n第69章，白晶晶化出原形并被风吹散（[[ev-local-3]]）。这对关系在本阶段走到终点：一方形散，另一方（孙悟空）在同章以「齐天大圣」之名归来。两条线在一章之内一散一归，形成对照。\n\n## 双方姿态\n\n- 白晶晶一侧：本范围仅记录其终局形态，未见言语或对孙悟空的态度表达。\n- 孙悟空一侧：本范围未记录他对形散一事的任何反应（在场与否亦未记录）。\n- 因此本阶段不对任何一方的态度作推定，仅记录关系状态的终止。\n\n## 变化解释\n\n本阶段没有关系内容的推进，只有关系的终止。此前阶段的互动内容不在本范围，需回溯前序 stage。\n\n## 未决\n\n- 形散时孙悟空是否在场、有何反应（[[ev-local-3]]）。\n- 是否留有遗物、言语或托付，以及是否影响后续剧情：本范围无依据。"
+      },
+      "facets": [
+        {
+          "dimension": "关系存续",
+          "direction": "symmetric",
+          "attitude": "关系状态终止（一方形散）；双方态度本范围均未提取到依据",
+          "basis_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-3"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-3"
+        }
+      ],
+      "safe_through": 69
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emotion": {
+          "pair_names": [
+            "孙悟空",
+            "白晶晶"
+          ],
+          "label": "旧识之散"
+        }
+      },
+      "new_assessment": {
+        "category": "uncertain",
+        "summary": "本阶段仅有「化出原形、被风吹散」这一终局事实（[[ev-local-3]]），双方态度与互动均未提取到依据；原文在本范围未出现明示的恋爱关系表述，故不定为 romantic，暂记 uncertain。",
+        "safe_through": 69,
+        "revealed_at": 69,
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/sunwukong__baijingjing.json",
+            "record_id": "doc-rel-sunwukong-baijingjing-stage-008"
+          }
+        ]
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "旧识之散：不足以定性的终局",
+          "chapter_ranges": [
+            {
+              "start": 68,
+              "end": 69
+            }
+          ],
+          "as_of": 69,
+          "safe_through": 69,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0016/index.json",
+              "record_id": "char-0016"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-0069.json",
+              "record_id": "ev-local-3"
+            },
+            {
+              "path": "events/block-0069.json",
+              "record_id": "claim-local-33"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n\n本阶段对这对关系的感情定性为 **uncertain（暂不定性）**。理由：本范围内唯一记录是白晶晶化出原形、被风吹散（[[ev-local-3]]），没有任何一句明示恋爱关系，也没有任何一方的态度表达。仅凭「一方形散」这一事实，不足以升格为 romantic，也不足以判为 friendship——因为缺少双向互动材料。\n\n## 变化解释\n\n本阶段没有情感推进，只有情感线的物理终止。与之同章的对照是孙悟空主动唤「师父，走吧」（[[claim-local-33]]）——同一章里，一条关系结束，一条关系重新接上。这种并置本身是叙述安排，但并置不等于恋爱关系成立的证据。\n\n## 关系阶段引用\n\n- 孙悟空 ↔ 白晶晶 阶段快照：[[doc-rel-sunwukong-baijingjing-stage-008]]（记录关系状态终止，双方态度留空）。\n- 孙悟空 ↔ 唐僧 阶段快照：[[doc-rel-sunwukong-tangseng-stage-008]]（记录归队一方姿态，另一侧态度留空）。\n\n## 推断边界\n\n- 不把「形散」解读为殉情、献身或为爱牺牲：本范围未给出动机。\n- 不把「似乎有了一丝笑容」（第68章）与白晶晶之死建立因果：两处无并置证据，本范围不作联系。\n- 若前序 stage 已记录两人互动积累，本节只是收束点，其定性应回到前序 stage 的证据上复核，而不在本 stage 升级。"
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "thread_key": "孙悟空·旧名与记忆",
+      "title": "孙悟空·旧名与记忆",
+      "change": "第68章在心障中与「你的心」对答，重提「跳出掌心」旧约；第69章众妖重呼「齐天大圣」之名，与第61—67章「不认旧名」的状态形成反向位移，但记忆未恢复。",
+      "chapter_range": {
+        "start": 68,
+        "end": 69
+      },
+      "refs": [
+        {
+          "path": "events/block-0068.json",
+          "record_id": "ev-local-1"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-18"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-2"
+        }
+      ]
+    },
+    {
+      "thread_key": "孙悟空·金箍与金箍棒",
+      "title": "孙悟空·金箍／金箍棒",
+      "change": "第68章主动放下一直不离身的金箍棒，随即被种子袋所化的巨手与五行山压坠；第69章金箍遗落，成为坠落者与归来者之间的唯一衔接点。",
+      "chapter_range": {
+        "start": 68,
+        "end": 69
+      },
+      "refs": [
+        {
+          "path": "events/block-0068.json",
+          "record_id": "claim-local-19"
+        },
+        {
+          "path": "events/block-0068.json",
+          "record_id": "ev-local-2"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "claim-local-10"
+        }
+      ]
+    },
+    {
+      "thread_key": "狮驼岭之难",
+      "title": "狮驼岭之难",
+      "change": "第68章种子袋—巨手—整座五行山压坠孙悟空；第69章大旗重展、大鹏崩溃，观音点名三妖来历后孙悟空选择放行，本难以「被放过」收场。",
+      "chapter_range": {
+        "start": 68,
+        "end": 69
+      },
+      "refs": [
+        {
+          "path": "events/block-0068.json",
+          "record_id": "ev-local-2"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-4"
+        },
+        {
+          "path": "events/block-0069.json",
+          "record_id": "claim-local-29"
+        }
+      ]
+    },
+    {
+      "thread_key": "白晶晶线",
+      "title": "白晶晶线",
+      "change": "第69章化出原形并被风吹散，线索在本阶段终结；是否留有后续未见记录。",
+      "chapter_range": {
+        "start": 69,
+        "end": 69
+      },
+      "refs": [
+        {
+          "path": "events/block-0069.json",
+          "record_id": "ev-local-3"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "fetch_event_detail 对本阶段事件引用（ev-local-2、events/block-0068.json、events/block-0007.json）均返回「事件不存在」，本产出的事件内容依据 stage_buffer 摘要与 claim 摘要组织，未经事件完整 updates 校验。",
+    "stage_buffer 中 ev-local-2 同时挂在第68章（种子袋—巨手—五行山压坠）与第69章（大旗重展／众妖重呼／大鹏崩溃）两个落点，疑为 local_id 复用或聚合口径问题，落库前需核实是否为同一事件记录。",
+    "实体索引可用范围仅到 char-0015，且 factions/ 与 relationships/pairs/ 下按 ID 猜测的路径均返回不存在；观音、白晶晶、狮驼岭等 entity_ref 为占位，落库须按 candidate_name 重新解析（白晶晶与既有角色是否同名同人亦需核对）。",
+    "第68章喝止开袋的未具名女子声音（claim-local-16）身份未明，未产出 stage；若后续核实为既有角色，需回填至相应实体。",
+    "大鹏在本阶段仅有「崩溃」一句与观音所述来历（claim-local-29），材料不足，未单独产出 character stage，其身份变化未登记 IdentityNote。"
+  ],
+  "notes_for_audit": [
+    "front_matter.record_refs 中的 path 为按章节序号推测的占位（events/block-0068.json、events/block-0069.json），需以 ledger 实际 block 路径重写；record_id 直接沿用 stage_buffer 的 local_id。",
+    "感情 assessment 采用 category=uncertain：本范围无任何明示恋爱表述，仅有白晶晶形散这一终局事实，按规则不得升为 romantic。relationship_links 指向本次产出的关系阶段快照 doc-rel-sunwukong-baijingjing-stage-008。",
+    "孙悟空—唐僧关系快照仅登记孙悟空一侧的 directed 姿态（主动唤「师父，走吧」），唐僧侧态度留空，未作对称推定。",
+    "孙悟空—白晶晶关系快照的 facet 仅为关系存续状态的 symmetric 记录，不含态度；turning_event_refs 收 ev-local-3 作为该阶段唯一转折。",
+    "狮驼岭 faction stage 未认定三妖成员名册：buffer 同时出现「狮驼岭三妖」「大鹏」「金角银角」，其一一对应关系不明，已在正文标注不作认定。",
+    "所有 safe_through=69，未超过 stage 尾章；identity note 的 revealed_at=69，与其依据（第69章事件）一致。",
+    "上一阶段（第61—67章）为 stage-007，孙悟空/唐僧等实体 stage 编号顺延为 stage-008；白晶晶、观音、狮驼岭因无法调用 list_entity_stages 校验，stage_doc_id 为占位命名，落库时可由 ID 分配器重排。",
+    "本阶段除孙悟空外，唐僧、猪八戒、沙僧虽出现在 claim-local-33 所指的归队场景中，但 buffer 内无其自身的选择、身份变化或独立行动，故未为其产出 character stage（避免空 stage）。"
+  ]
+}

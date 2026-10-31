@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0025",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 19,
+  "label": "金蝉子被如来施法走火入魔、灵魂坠入尘世",
+  "introduced_at": 19,
+  "updates": [
+    {
+      "id": "update-thread-0025-001",
+      "revealed_at": 19,
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "category": "worldbuilding",
+      "status": "open",
+      "role": "setup",
+      "summary": "紫霞称如来二弟子金蝉子质疑佛法、自行修炼妄图超越如来，被如来施法致走火入魔，灵魂坠入尘世、不知何处。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0681"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

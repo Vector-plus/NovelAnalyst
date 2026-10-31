@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0112",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 63,
+  "label": "孙悟空去除金箍与「成正果」之路",
+  "introduced_at": 63,
+  "updates": [
+    {
+      "id": "update-thread-0112-001",
+      "revealed_at": 63,
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "category": "goal",
+      "status": "escalated",
+      "role": "subject",
+      "summary": "孙悟空自述除金箍需大鹏王头颅；大鹏王反称无论是否取头颅他都不可能成正果，因为妖众会杀死唐僧；孙悟空自问「除了西天我有地方可去么」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2429"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2430"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2431"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2432"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

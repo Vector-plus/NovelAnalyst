@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0067",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 60,
+  "introduced_at": 60,
+  "subjects": [
+    {
+      "path": "characters/char-0149/index.json",
+      "record_id": "char-0149"
+    },
+    {
+      "path": "characters/char-0150/index.json",
+      "record_id": "char-0150"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0067-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "as_of": 60,
+      "revealed_at": 60,
+      "summary": "黄袍怪称百花羞为“公主”、称其父王为“我的泰山大人”；百花羞倚在他肩上、握紧他的手，要他遵守“再不杀一个人”的约定。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "kinship",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "黄袍怪称百花羞为“公主”、称其父王为“我的泰山大人”；百花羞倚在他肩上、握紧他的手，要他遵守“再不杀一个人”的约定。",
+          "basis_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2329"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2330"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2331"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2333"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

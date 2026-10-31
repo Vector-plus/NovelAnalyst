@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0019",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 18,
+  "label": "紧箍咒的施术者与金箍的约束",
+  "introduced_at": 18,
+  "updates": [
+    {
+      "id": "update-thread-0019-001",
+      "revealed_at": 18,
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "summary": "孙悟空在与沙悟净交手占优时金箍突然收紧致其坠地，他想看清是谁在念紧箍咒，但众神环绕找不到人；沙悟净称「金箍不允许你违抗天神」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0652"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0654"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0656"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

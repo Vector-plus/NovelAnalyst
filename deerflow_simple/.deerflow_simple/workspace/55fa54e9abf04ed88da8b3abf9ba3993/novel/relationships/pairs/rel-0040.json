@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0040",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 15,
+  "introduced_at": 15,
+  "subjects": [
+    {
+      "path": "characters/char-0053/index.json",
+      "record_id": "char-0053"
+    },
+    {
+      "path": "characters/char-0055/index.json",
+      "record_id": "char-0055"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0040-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "as_of": 15,
+      "revealed_at": 15,
+      "summary": "天杨与玄奘在大殿当场问答交锋，天杨认输并称其\"真有你的\"\"小小年纪便有如此功力\"。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "天杨与玄奘在大殿当场问答交锋，天杨认输并称其\"真有你的\"\"小小年纪便有如此功力\"。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0581"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0586"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0587"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

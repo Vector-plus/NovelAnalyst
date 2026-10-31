@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000032",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000032",
+    "chapter_order": 32
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1682",
+    "claim-1683",
+    "claim-1684",
+    "claim-1685",
+    "claim-1686",
+    "claim-1687",
+    "ev-0204"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第32章精读完成",
+    "record_ids": [
+      "claim-1682",
+      "claim-1683",
+      "claim-1684",
+      "claim-1685",
+      "claim-1686",
+      "claim-1687",
+      "ev-0204"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

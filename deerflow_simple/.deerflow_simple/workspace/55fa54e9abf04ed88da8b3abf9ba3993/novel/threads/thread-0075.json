@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0075",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 35,
+  "label": "被天界擒住的「妖猴」究竟是谁",
+  "introduced_at": 35,
+  "updates": [
+    {
+      "id": "update-thread-0075-001",
+      "revealed_at": 35,
+      "chapter_ranges": [
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "raised",
+      "summary": "天界众神高呼擒住妖猴，孙悟空却当场现身，自称五百年前于炼丹炉重生后从未被擒，被擒的是「一个喜欢把紧箍儿戴头上的傻帽」。被擒者的真实身份成为本章核心悬置。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1729"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1742"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1743"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

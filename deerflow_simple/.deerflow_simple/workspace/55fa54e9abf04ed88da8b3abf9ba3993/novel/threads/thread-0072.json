@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0072",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "孙悟空的身份认同：齐天大圣 vs 妖精",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0072-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "identity",
+      "status": "active",
+      "role": "main",
+      "summary": "孙悟空对头颅自陈“是齐天大圣”，对赠袍则称“我已经是齐天大圣了，不用再上战场了”；得知未被邀请后笑称“终于又是妖精了”，叙述亦明其“知道自己不属于这里”。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1516"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1528"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1531"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1535"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

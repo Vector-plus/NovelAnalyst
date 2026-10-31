@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0090",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 14,
+  "title": "船夫 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 14,
+        "end": 14
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0090/index.json",
+        "record_id": "char-0090"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0052.json",
+        "record_id": "rel-0052"
+      },
+      "kind": "relationship",
+      "title": "船夫×河边和尚",
+      "summary": "与船夫×河边和尚的关系",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0090/index.json",
+          "record_id": "char-0090"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 14
+    }
+  ]
+}

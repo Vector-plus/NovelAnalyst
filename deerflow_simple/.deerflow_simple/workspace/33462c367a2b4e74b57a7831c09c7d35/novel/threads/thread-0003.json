@@ -1,0 +1,30 @@
+{
+  "id": "thread-0003",
+  "introduced_at": 5,
+  "kind": "story_thread",
+  "label": "辛妮生父归属（奥卡是否为其父亲）",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 5,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity_mystery",
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0003-001",
+      "resolution_refs": [],
+      "revealed_at": 5,
+      "role": "subject",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

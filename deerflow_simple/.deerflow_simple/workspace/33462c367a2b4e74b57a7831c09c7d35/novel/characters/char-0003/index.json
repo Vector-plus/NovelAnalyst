@@ -1,0 +1,69 @@
+{
+  "current": {
+    "current_summary": "西亚体育代表团团长，在赛中为辛妮提供「神力药片」（后证实为维生素C）并为其性质作出说法；第7章对西亚的全面军事打击启动后，他公开否定和平视窗计划，称竞赛代替不了战争。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 3,
+      "summary": "召集者与隐瞒者：从运动局局长到代表团团长（第1—3章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0003/stages/stage-001.md",
+        "record_id": "doc-char-0003-stage-001"
+      },
+      "title": "召集者与隐瞒者：从运动局局长到代表团团长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 7,
+      "summary": "寂静奥运会：以体育代替战争（第4—7章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0003/stages/stage-002.md",
+        "record_id": "doc-char-0003-stage-002"
+      },
+      "title": "寂静奥运会：以体育代替战争"
+    }
+  ],
+  "id": "char-0003",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 1,
+  "kind": "entity_index",
+  "label": "克雷尔",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "related_materials": [],
+  "revision": 5,
+  "safe_through": 7,
+  "schema_version": "2.0"
+}

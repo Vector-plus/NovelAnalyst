@@ -1,0 +1,998 @@
+{
+  "chapter_order": 9,
+  "chapter_id": "ch-000009",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天界暮色：卯日星君驾车落山与紫霞仙子披紫纱",
+      "introduced_at": 9,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 9,
+            "end": 9
+          }
+        ],
+        "revealed_at": 9,
+        "status": "completed",
+        "story_time": "五百年前的天界日常（本章\"前因\"插叙）",
+        "summary": "太阳升落时四火龙拉着卯日星君的金色神车划过天空，紫霞仙子常在此时悄悄以纱袖为卯日星君的金冕披上紫色轻纱，云雾因此被映成紫色；卯日星君知道她的鬼主意却总是乐呵呵接受。此事传开后，星君车上与神龙颈上系满各色纱巾，他把纱巾都系在自己所住的树上。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0025/index.json",
+              "record_id": "char-0025"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天蓬开启银河巨闸并在天河入口等候月女神",
+      "introduced_at": 9,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 9,
+            "end": 9
+          }
+        ],
+        "revealed_at": 9,
+        "status": "recurring",
+        "story_time": "五百年前的天界日常（本章\"前因\"插叙）",
+        "summary": "钟鼓楼钟响三下后，天河守护神天蓬打开银河巨闸，亿万银沙飞出飘浮于众神殿之间；天蓬每次都在天河入口等候，直到月女神的银船驶来，两人同船向西。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0026/index.json",
+              "record_id": "char-0026"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-4"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "王母开蟠桃会，仙女赴桃园采桃却见桃未长成",
+      "introduced_at": 9,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 9,
+            "end": 9
+          }
+        ],
+        "revealed_at": 9,
+        "status": "completed",
+        "story_time": "五百年前（本章\"前因\"插叙）",
+        "summary": "仙女阿珏转达王母娘娘要开蟠桃会、命仙女们去桃园挑选仙桃。紫霞拒绝同行留在原处看晚霞。众仙女一路议论蟠桃园新换的园卫，到园中却发现不是季节，桃树上只有几个又小又青的果子，有人质疑王母算错时间，随即被以\"神是不会有错的\"压回。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0020/index.json",
+              "record_id": "char-0020"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-5"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "阿瑶在蟠桃园遇到桃树上的猴子",
+      "introduced_at": 9,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 9,
+            "end": 9
+          }
+        ],
+        "revealed_at": 9,
+        "status": "completed",
+        "story_time": "五百年前（本章\"前因\"插叙）",
+        "summary": "阿瑶在林中转了几圈，找到一个大桃并伸手去摘，一只猴子出现在桃树上，靠在树杈上跷着腿瞟着她，说出\"小姑娘，俺可不好吃\"。原文说明这是他和她说的第一句话，并称\"她的一生就此改变了\"。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "五百年后阿瑶在万灵之森追忆旧事",
+      "introduced_at": 9,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 9,
+            "end": 9
+          }
+        ],
+        "revealed_at": 9,
+        "status": "completed",
+        "story_time": "五百年后（承接第1—8章取经路上的当下时间）",
+        "summary": "阿瑶在终年黑暗的万灵之森中，坐在孙悟空曾坐过的那棵树上，闭眼便闪现全部往事；回忆中有两句对话——\"小姑娘，俺可不好吃……\"与\"老太太，别提你那些从前了，你认错人了……\"，她闭紧眼，泪水从老树皮般的脸上滑落。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "太阳升落时四火龙拉着卯日星君的金色神车划过天空，紫霞仙子常在这时悄悄扬起纱袖，为卯日星君的金冕披上紫色轻纱，云雾因此被映成紫色，卯日星君知道她的鬼主意却总是乐呵呵接受。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "为卯日星君的金冕披上紫色轻纱"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "紫霞为星君金冕披纱的秘密传开后，卯日星君的车上、神龙颈上都系满了各色纱巾，星君把收到的纱巾全系在他所住的一棵直达天际的巨树上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "他就把它们全系在他住的树上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "钟鼓楼的钟响三下后，天河守护神天蓬打开银河的巨闸，从那里飞出的不是水，而是亿万的银沙，飘浮在众神殿之间。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "于是天河守护神天蓬打开了银河的巨闸"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "天蓬每次都守候在天河的入口等人，直到天边一艘银船驶来；月女神在他面前像顽皮的小女孩，要他挽着手，两人在船上说话一直飘向西去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "直到天边一艘银船驶来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "仙女阿珏对阿瑶说，王母娘娘说要开蟠桃会了，要仙女们去桃园挑选仙桃。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0020/index.json",
+        "record_id": "char-0020"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "王母娘娘说了，要开蟠桃会了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "阿瑶心中感慨蟠桃会像是刚开过，而距上次已又过了九千年。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "又过了九千年，真快呀"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "众仙女邀紫霞同去蟠桃园，紫霞拒绝，说自己还想在这里待一会儿；仙女们笑说\"你看晚霞的时候不做任何事\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "不了，我还想在这待一会儿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "众仙女议论蟠桃园新换了园卫，说出\"太风\"（三千年前已换）、\"无相\"等旧任名字，有人说新来的好像不是这个名字，最后说采了就走、连管园的人也见不到。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "蟠桃园众仙女"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "蟠桃园新换了个园卫"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "仙女们到蟠桃园后发现来得不是季节，桃子还没长大，一棵树上只有几个又小又青的果子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "这桃子还没长大呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "有仙女质疑是不是王母娘娘算错了时间，另一仙女以\"神是不会有错的\"制止，并举梅花开花季节之争后\"好吓人\"为例。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "蟠桃园众仙女"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "神是不会有错的啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "阿瑶在林中找到一个伸手可及的大桃，笑着伸手去摘时，一只猴子出现在桃树上，靠在树杈上跷着腿瞟着她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "一只猴子出现在桃树上，他靠在树杈上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "桃树上的猴子对阿瑶说的第一句话是\"小姑娘，俺可不好吃\"，原文并称\"她的一生就此改变了\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "这是他和她说的第一句话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "五百年后，阿瑶在终年黑暗的万灵之森中，坐在孙悟空曾坐过的那棵树上，一闭眼就闪现出所有往事，泪水从她老树皮般的脸上滑下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "坐在孙悟空曾坐过的那棵树上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "阿瑶的回忆中重现两句对话：先是\"小姑娘，俺可不好吃……\"，后是有人称她为\"老太太\"并说\"别提你那些从前了，你认错人了……\"。后一句的说话者在原文中未明确指名。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "你认错人了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "本章结构为插叙：前半为\"前因\"（天界日常与蟠桃园初遇），后半标为\"五百年后\"，写阿瑶在万灵之森追忆；首尾有\"五百年很漫长吗？只不过是一瞬吧\"一类的旁白。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "五百年后"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "蟠桃园中出现在桃树上的那只猴子，与后文所说的\"孙悟空曾坐过的那棵树\"及同一句\"小姑娘，俺可不好吃\"相呼应，可推断该猴子即孙悟空（原文未在同一段落直接点名该猴为孙悟空）。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 9,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000009.txt",
+          "chapter_id": "ch-000009",
+          "chapter_order": 9,
+          "locator": null,
+          "anchor": "孙悟空曾坐过的那棵树"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-11"
+        },
+        {
+          "local_id": "claim-local-12"
+        },
+        {
+          "local_id": "claim-local-13"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "太风",
+      "introduced_at": 9,
+      "alias_texts": [
+        "太……太风"
+      ],
+      "identity_notes": "仅由众仙女议论提及，被指为蟠桃园早前的园卫，三千年前已换；原文未出场，名字由仙女口述，可能有误。",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "无相",
+      "introduced_at": 9,
+      "alias_texts": [
+        "无……无相什么的"
+      ],
+      "identity_notes": "仅由众仙女议论提及，被指为太风之后的一任蟠桃园园卫，名字不确定；原文未出场。",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "label": "蟠桃园新园卫",
+      "introduced_at": 9,
+      "alias_texts": [
+        "新来的"
+      ],
+      "identity_notes": "众仙女议论蟠桃园新换了园卫，但都说不出其名；本章未点明身份，勿与桃树上出现的猴子直接合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-11"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天庭仙女（蟠桃会采桃众仙女）",
+      "introduced_at": 9,
+      "notes": "由王母娘娘差遣赴蟠桃园采桃的仙女群体，阿珏、阿瑶在其中；群体内部有\"神是不会有错的\"一类顾忌。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-8",
+        "claim-local-10"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "蟠桃园",
+      "category": "location",
+      "introduced_at": 9,
+      "notes": "天庭桃园，园卫数度更换；仙女采桃处。本章时桃树未到季节，果实又小又青。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "万灵之森",
+      "category": "location",
+      "introduced_at": 9,
+      "notes": "终年黑暗的森林，内有孙悟空曾坐过的一棵树；五百年后阿瑶在此追忆。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-13"
+      ]
+    },
+    {
+      "label": "天河与钟鼓楼",
+      "category": "location",
+      "introduced_at": 9,
+      "notes": "天河由天蓬守护，巨闸开启后飞出亿万银沙；钟鼓楼钟响三下为天蓬开闸的信号。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3"
+      ]
+    },
+    {
+      "label": "蟠桃会",
+      "category": "event_custom",
+      "introduced_at": 9,
+      "notes": "天庭宴会，由王母娘娘定夺开办；阿瑶印象中距上次已又过了九千年。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "entity_candidate_a": {
+        "path": "characters/char-0026/index.json",
+        "record_id": "char-0026"
+      },
+      "entity_candidate_b": {
+        "candidate_name": "阿月"
+      },
+      "certainty": "uncertain",
+      "notes": "本章出现\"月女神\"（天蓬在天河入口等候、同乘银船）。stage-plan 中另列有\"阿月\"（第20—25章）。二者是否同一人，本章无任何明示证据，仅登记为待验证候选，禁止合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-4"
+      ]
+    },
+    {
+      "entity_candidate_a": {
+        "candidate_name": "桃树上的猴子"
+      },
+      "entity_candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "certainty": "inferred",
+      "notes": "原文在同一段内未直接点名该猴为孙悟空，仅凭后文\"孙悟空曾坐过的那棵树\"与同一句台词推断，故作为身份连接候选而非既定事实。",
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "note": "初遇与五百年后的追忆"
+      },
+      "certainty": "explicit",
+      "summary": "阿瑶在蟠桃园摘桃时遇上桃树上的猴子，对方以\"小姑娘，俺可不好吃\"作为第一句话，原文称她的一生就此改变；五百年后阿瑶在万灵之森的那棵树上追忆此番场景。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "回忆中\"老太太……你认错人了\"一句的说话者原文未指名，不据此定性二人关系变化。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0025/index.json",
+        "record_id": "char-0025"
+      },
+      "facet": {
+        "type": "other",
+        "note": "披纱与默许的互动"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞仙子常在日升日落时为卯日星君的金冕披上紫色轻纱，星君知道她的鬼主意却总是乐呵呵接受，后来车上与神龙颈上系满纱巾。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0026/index.json",
+        "record_id": "char-0026"
+      },
+      "facet": {
+        "type": "other",
+        "note": "天河入口等候与同船"
+      },
+      "certainty": "explicit",
+      "summary": "天蓬守候在天河入口，等月女神的银船驶来；月女神在他面前像顽皮的小女孩，要他挽着手，两人同船说话一直飘向西去。",
+      "source_claim_local_ids": [
+        "claim-local-4"
+      ],
+      "notes": "仅记录互动事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0020/index.json",
+        "record_id": "char-0020"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "friendship",
+        "note": "同行仙女间的打趣"
+      },
+      "certainty": "explicit",
+      "summary": "阿珏取笑阿瑶看晚霞看得脸红，并转达王母开蟠桃会、命仙女采桃的消息；两人同赴蟠桃园。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-9"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "阿瑶与桃树上猴子的五百年因缘",
+      "category": "relationship_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "本章插叙铺出阿瑶在蟠桃园与猴子的初遇（第一句话\"小姑娘，俺可不好吃\"），并以\"五百年后\"阿瑶在万灵之森落泪收束，留下二人后来究竟发生什么的悬念。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14"
+      ]
+    },
+    {
+      "thread_key": "蟠桃园园卫之谜",
+      "category": "mystery_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "众仙女议论蟠桃园新换园卫却说不准名字，紧接着桃树上出现一只猴子，本章未点明二者关系。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-11",
+        "claim-local-16"
+      ]
+    },
+    {
+      "thread_key": "蟠桃会与桃树未到季节",
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "王母下令开蟠桃会，仙女入园却见桃子尚未长大，有人质疑时被\"神是不会有错的\"压下，本文未给出原因。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-9",
+        "claim-local-10"
+      ]
+    },
+    {
+      "thread_key": "天蓬与月女神",
+      "category": "relationship_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "天河守护神天蓬每日在天河入口等候月女神的银船，二人同船西去；本章仅作天界日常呈现。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第9章：前因——蟠桃园的第一句话",
+    "front_matter": {
+      "as_of": 9,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0026/index.json",
+          "record_id": "char-0026"
+        },
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        },
+        {
+          "path": "characters/char-0020/index.json",
+          "record_id": "char-0020"
+        },
+        {
+          "candidate_name": "太风"
+        },
+        {
+          "candidate_name": "无相"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n本章是一段插叙，正文先以\"五百年很漫长吗？只不过是一瞬吧\"开篇，随后进入标为\"前因\"的天界段落。天界的日常被写成一套固定节律：日升日落时四火龙拉着卯日星君的金色神车划过天空，[[claim-local-1]]；钟鼓楼钟响三下，天河守护神天蓬打开银河巨闸，亿万银沙飘浮在众神殿之间，[[claim-local-3]]。紫霞仙子有一个习惯——在这时悄悄以纱袖为卯日星君的金冕披上紫色轻纱，星君明知她的鬼主意却总是乐呵呵接受，后来此事传开，车上与神龙颈上系满各色纱巾，星君把纱巾都系在自己所住的树上，[[claim-local-2]]。天蓬则每日守候在天河入口，直到月女神的银船驶来，两人同船向西，[[claim-local-4]]。\n\n## 关键行动\n\n仙女阿珏取笑阿瑶看晚霞看得脸红，并转达王母娘娘的话：要开蟠桃会了，命仙女们去桃园挑选仙桃，[[claim-local-5]]。阿瑶心中感慨这蟠桃会像刚开过、却又已过了九千年，[[claim-local-6]]。众仙女邀紫霞同去，紫霞拒绝，只说还想在这里待一会儿，[[claim-local-7]]。路上仙女们议论蟠桃园新换的园卫，说出\"太风\"\"无相\"等旧任名字，却都说不准新来者是谁，[[claim-local-8]]。入园后她们发现来得不是季节：一棵树上只有几个又小又青的果子，[[claim-local-9]]；有人质疑王母是否算错时间，随即被\"神是不会有错的\"压下，[[claim-local-10]]。\n\n## 转折与新信息\n\n阿瑶在林中转了几圈，找到一个伸手可及的大桃，笑着伸手去摘——一只猴子出现在桃树上，靠在树杈上跷着腿瞟着她，[[claim-local-11]]。他对她说的第一句话是\"小姑娘，俺可不好吃\"，原文紧接着一句\"她的一生就此改变了\"，并点明这是\"他和她说的第一句话\"，[[claim-local-12]]。该猴子的身份在原文该段并未直接点名，但后文以\"孙悟空曾坐过的那棵树\"与同一句台词呼应，可据此推断其为孙悟空，[[claim-local-16]]。\n\n随后场景跳到\"五百年后\"：阿瑶在终年黑暗的万灵之森中，坐在孙悟空曾坐过的那棵树上，闭眼便闪现全部往事，泪水从老树皮般的脸上滑下，[[claim-local-13]]。回忆中并存两句话——\"小姑娘，俺可不好吃……\"与\"老太太，别提你那些从前了，你认错人了……\"，后一句的说话者在原文中未指名，[[claim-local-14]]。\n\n## 本章结果\n\n本章以插叙交代了两段时间：五百年前天界的节律性日常，以及阿瑶在蟠桃园与猴子的初遇；五百年后，阿瑶以老妪之身在万灵之森追忆往事并落泪，[[claim-local-15]]。天庭一侧留下的明确事实是蟠桃园桃子未到季节却被召来采摘，以及园卫几度更换而无人知其名，[[claim-local-8]]，[[claim-local-9]]。\n\n## 未决问题与补读入口\n\n1. 蟠桃园中那只猴子与\"新换的园卫\"是否为同一人：本章未明示，[[claim-local-8]]、[[claim-local-11]]；可续读第10章开头（孙悟空与猪八戒在林中对话）核对。\n2. 回忆中\"老太太，别提你那些从前了，你认错人了\"一语的说话者及对应时点未明，[[claim-local-14]]。\n3. 蟠桃会为何在桃子未长成时开办、王母计时是否真有偏差，本章仅以仙女议论呈现，未给答案，[[claim-local-10]]。\n4. 阿瑶此后如何离开天界、其面容为何变成老树皮一般，本章只呈现结果，[[claim-local-13]]。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-4",
+      "note": "阿瑶与猴子的初遇（蟠桃园，第一句话\"小姑娘，俺可不好吃\"），为阿瑶线起点",
+      "chapter_order": 9
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-5",
+      "note": "五百年后阿瑶在万灵之森追忆并落泪，连接天界线与当下取经时间线",
+      "chapter_order": 9
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-12",
+      "note": "原文称\"这是他和她说的第一句话\"、\"她的一生就此改变了\"，阿瑶转折点关键证据",
+      "chapter_order": 9
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-14",
+      "note": "回忆中\"老太太……你认错人了\"一句，说话者未指名，需后续核对",
+      "chapter_order": 9
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-16",
+      "note": "桃树上猴子即孙悟空的推断依据（五百年后\"孙悟空曾坐过的那棵树\"）",
+      "chapter_order": 9
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-3",
+      "note": "天蓬为天河守护神、掌银河巨闸，天庭职务信息",
+      "chapter_order": 9
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "\"老太太，别提你那些从前了，你认错人了……\"一句在阿瑶回忆中出现，原文未标明说话者；不能确定是否为孙悟空、也不能确定发生时间。",
+      "related_local_ids": [
+        "claim-local-14",
+        "claim-local-13"
+      ],
+      "severity": "medium"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "桃树上出现的猴子与后文\"孙悟空\"之间的同一性缺少同段落明示证据，仅靠台词与\"孙悟空曾坐过的那棵树\"推断。",
+      "related_local_ids": [
+        "claim-local-16",
+        "claim-local-11"
+      ],
+      "severity": "medium"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "蟠桃园新园卫的名字在仙女议论中始终未确定，章内亦未交代桃树上猴子是否即为园卫。",
+      "related_local_ids": [
+        "claim-local-8",
+        "claim-local-11"
+      ],
+      "severity": "low"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章标题在原文中记为\"．\"，无实质标题；引用时需以章号定位。",
+      "related_local_ids": [],
+      "severity": "low"
+    }
+  ],
+  "warnings": [
+    "本章正文为插叙（前因+五百年后），与第8章结尾（猪八戒在银河下哭泣）无直接情节衔接，未额外读取相邻章节正文以外的片段。",
+    "\"小姑娘，俺可不好吃\"在章内出现两次（对话处与五年后回忆处），故该句不能作为唯一锚点，已改用其他片段定位。",
+    "仙女口中的人名\"太风\"\"无相\"来自转述且带有不确定语气，仅登记为候选，未与任何已建档实体合并。",
+    "月女神与第20—25章可能出现的\"阿月\"未做合并，仅登记为待验证的身份连接候选。",
+    "本章\"紫霞仙子\"按 resolve_name 唯一命中归入 char-0023（紫霞），未做其他身份扩展。"
+  ]
+}

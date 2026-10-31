@@ -1,0 +1,30 @@
+{
+  "id": "thread-0004",
+  "introduced_at": 5,
+  "kind": "story_thread",
+  "label": "辛妮所用药物（GMH—6）的来源与效果",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 5,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "object_mystery",
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0004-001",
+      "resolution_refs": [],
+      "revealed_at": 5,
+      "role": "subject",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

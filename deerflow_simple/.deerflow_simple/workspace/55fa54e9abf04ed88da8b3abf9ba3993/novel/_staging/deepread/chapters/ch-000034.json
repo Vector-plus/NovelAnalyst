@@ -1,0 +1,727 @@
+{
+  "chapter_order": 34,
+  "chapter_id": "ch-000034",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "五百年后·万灵之森：猪八戒与小白龙重逢，唐僧肉身下落不明",
+      "introduced_at": 34,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 34,
+            "end": 34
+          }
+        ],
+        "revealed_at": 34,
+        "status": "ongoing",
+        "story_time": "取经队伍失散后五百年（原文时间标记「五百年后……」，与本卷其余章节的时序关系未明）",
+        "summary": "叙述以「五百年后」起，一个白色身影在黑夜中掠过，场景见于人界万灵之森。小白龙赶回，猪八戒称自己等了她很久。小白龙追问师父（唐僧）的身体，猪八戒却说那肉身昨天还在这里，此刻不知哪去了。小白龙哭诉自己日夜赶路只为赶回，并说不相信唐僧就这么死了，指出孙悟空已去找他的魂；猪八戒则判断孙悟空若能回来早回来了。对话中双方互揭底细：小白龙称自己因不肯嫁上天庭才被罚做白马，猪八戒称她变成马的样子常让他忘了她性别。最后猪八戒叹气拍背安慰，说如今只剩下他们俩「孤魂野鬼」，又用一个「看家笑话」把带泪的小白龙逗笑；章末猪八戒抬头望天，天上一片黑影，没有月亮。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "cl-1",
+          "cl-2",
+          "cl-3",
+          "cl-4",
+          "cl-5",
+          "cl-6",
+          "cl-7",
+          "cl-8",
+          "cl-9",
+          "cl-10",
+          "cl-11",
+          "cl-12",
+          "cl-13",
+          "cl-14",
+          "cl-15",
+          "cl-16",
+          "cl-17",
+          "cl-18"
+        ],
+        "trigger_claim_local_ids": [
+          "cl-2"
+        ],
+        "action_claim_local_ids": [
+          "cl-3",
+          "cl-5",
+          "cl-13"
+        ],
+        "outcome_claim_local_ids": [
+          "cl-4",
+          "cl-15",
+          "cl-17"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "cl-1",
+      "text": "本章以「五百年后……」作为时间标记，叙述在取经队伍失散的情境之后跳跃五百年。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "五百年后……"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-2",
+      "text": "一个白色身影在黑夜中轻盈掠过，本场景地点标注为「人界　万灵之森」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "万灵之森"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-3",
+      "text": "猪八戒见到归来的小白龙，称她「死小白」，问她是不是回娘家了、去了这么久，并说自己为了等她已拒绝几百个美丽姑娘的邀请。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "死小白，你回娘家了？去这么久？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-4",
+      "text": "猪八戒说唐僧（被其称作「秃头」）的肉身昨天还有两条腿在这里，此刻却不知去哪儿了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "昨天还有两条腿在这儿的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-5",
+      "text": "小白龙直接询问「师父的……身体呢？」，并在猪八戒答不上来后斥责他「你怎么能这样」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "师父的……身体呢？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-6",
+      "text": "小白龙自述她日夜赶路、一刻也不肯歇，只为能赶回来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "我……我日夜赶路，一刻也不肯歇"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-7",
+      "text": "猪八戒对小白龙说，她就算是千里马也追不上「他的魂」，并说人死了以后没活着时好看——即以唐僧已死为前提说话。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "也追不上他的魂"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-8",
+      "text": "小白龙说她不相信唐僧就这么死了、认为他一定还能活过来，并指出孙悟空已经去找他的魂。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "孙悟空不是已经去找他的魂了吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-9",
+      "text": "猪八戒认为孙悟空若能回来早就回来了，猜测他是在哪儿遇上一只母猴过幸福生活去了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "能回来的话，他早也回来了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-10",
+      "text": "小白龙自称她是因为不肯嫁上天庭才被罚做白马，并非自己想做马。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "因为不肯嫁上天庭才被罚做白马"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-11",
+      "text": "猪八戒说小白龙变成马的样子，他老是忘了她的性别，并称「不该在女孩子面前说粗口」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "我老是忘了你性别"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-12",
+      "text": "小白龙以「老娘」自称，双方对话把她当作女孩子看待。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "别和老娘来这套"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-13",
+      "text": "猪八戒叹了一口气，上前拍拍小白龙的背。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "上去拍拍小白龙的背"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-14",
+      "text": "猪八戒对小白龙说他们都走了，现在只剩下他们俩「孤魂野鬼」，要她保重。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "现在只剩下我们俩孤魂野鬼了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-15",
+      "text": "小白龙先前大哭，随后又带着眼泪大笑起来；猪八戒自己也笑了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "小白龙突然带着眼泪大笑起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-16",
+      "text": "猪八戒称这是他的「看家笑话」，没有一个女孩子能忍住不笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "这是老猪的看家笑话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-17",
+      "text": "章末猪八戒抬头望天，天上一片黑影，没有月亮。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": "天上，一片黑影，没有月亮"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "cl-18",
+      "text": "开篇掠过黑夜的「白色身影」即为本章与猪八戒对话的小白龙。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 34,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "record_id": "cl-2"
+        },
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "record_id": "cl-3"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "万灵之森",
+      "category": "location",
+      "introduced_at": 34,
+      "notes": "本章场景地点，以「人界　万灵之森」形式标注；猪八戒与小白龙在此重逢。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "cl-2"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "秃头／和尚",
+      "linked_to_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "certainty": "inferred",
+      "summary": "猪八戒口中的「秃头」「和尚／臭皮囊」与小白龙口中的「师父」在本段对话中指同一人，即唐僧的肉身。",
+      "evidence_claim_local_ids": [
+        "cl-4",
+        "cl-5"
+      ],
+      "notes": "依据上下文问答绑定（小白龙问「师父的身体呢」，猪八戒答「你说秃头啊」），本章未出现「唐僧」三字。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "同门同伴间的见面、打趣与安慰"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙赶回万灵之森与猪八戒重逢：猪八戒抱怨她去了太久，双方互相挖苦（马会不会骂人/不是美女就是母猪），随后猪八戒叹气拍背安慰她，并用一个「看家笑话」把她逗得带泪大笑。",
+      "source_claim_local_ids": [
+        "cl-3",
+        "cl-11",
+        "cl-12",
+        "cl-13",
+        "cl-14",
+        "cl-15",
+        "cl-16"
+      ],
+      "notes": "两人见面时的互损语气与随后的安慰行为均为原文直接呈现；本章未出现其他同行者在场。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "小白龙称唐僧为「师父」"
+      },
+      "certainty": "reported",
+      "summary": "小白龙称唐僧为「师父」，赶回后首先追问其身体何在，并因找不到而大哭；她自述日夜赶路只为赶回来。",
+      "source_claim_local_ids": [
+        "cl-5",
+        "cl-6",
+        "cl-8"
+      ],
+      "notes": "师徒称谓出自小白龙本人说法（reported），本章叙述层未作说明。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "猪八戒以「秃头」「和尚」称呼唐僧"
+      },
+      "certainty": "reported",
+      "summary": "猪八戒以「秃头」「和尚」「臭皮囊」称呼唐僧的肉身，称那具肉身昨天还在这里、此刻已不见，并形容人死后不如活着时好看。",
+      "source_claim_local_ids": [
+        "cl-4",
+        "cl-7"
+      ],
+      "notes": "仅为猪八戒言谈中的称呼与态度，未出现身份明示。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "advance",
+      "summary": "唐僧肉身失踪：猪八戒称唐僧的那具肉身昨天还有两条腿在此，如今不知去向；其生死在章内存在分歧说法（猪八戒以已死为前提，小白龙不信其已死）。",
+      "evidence_claim_local_ids": [
+        "cl-4",
+        "cl-5",
+        "cl-7",
+        "cl-8"
+      ],
+      "notes": "地点为「人界　万灵之森」；本章为「五百年后」的插叙段落。"
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "advance",
+      "summary": "孙悟空去寻唐僧的魂：小白龙称孙悟空已出发去找唐僧的魂，猪八戒判断他若能回来早已回来。孙悟空本人未在本章出场。",
+      "evidence_claim_local_ids": [
+        "cl-8",
+        "cl-9"
+      ]
+    },
+    {
+      "category": "character_arc",
+      "status": "open",
+      "role": "advance",
+      "summary": "小白龙身世：她自述因不肯嫁上天庭而被罚做白马；并自称「老娘」，猪八戒称其为女孩子。",
+      "evidence_claim_local_ids": [
+        "cl-10",
+        "cl-11",
+        "cl-12"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第34章：五百年后·万灵之森",
+    "front_matter": {
+      "as_of": 34,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "cl-1",
+        "cl-2",
+        "cl-4",
+        "cl-5",
+        "cl-8",
+        "cl-10",
+        "cl-14",
+        "cl-17"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n叙述以「五百年后……」起（[[cl-1]]），一个白色身影在黑夜中掠过，场景标注为「人界　万灵之森」（[[cl-2]]）。本章只出现两个在场人物：猪八戒与小白龙；唐僧、孙悟空仅在对话中被提及。\n\n## 关键行动\n\n- 小白龙赶回，猪八戒一边抱怨她「回娘家」去得太久、一边自夸为她拒绝了几百个姑娘，随即被她追问师父的身体（[[cl-4]]、[[cl-5]]）。\n- 猪八戒答不上来：那具肉身昨天还有两条腿在这里，此刻不知去了哪里；他随后以「人死了以后没活着时好看」「千里马也追不上他的魂」的口气说话（[[cl-4]]）。\n- 小白龙哭诉自己日夜赶路一刻未歇，只为赶回来（相关陈述见事件 [[ev-local-1]]）。\n- 猪八戒叹气上前拍拍小白龙的背，说「他们都走了……现在只剩下我们俩孤魂野鬼了」，要她保重（[[cl-14]]）。\n\n## 转折与新信息\n\n- 唐僧下落：猪八戒称其肉身在原处失踪（[[cl-4]]）；小白龙则说不相信他就这么死了，指出孙悟空已经去找他的魂（[[cl-8]]）。两种说法在同章内并存，均出自人物之口。\n- 孙悟空动向：据小白龙称已去寻唐僧的魂；猪八戒判断他若能回来早该回来了（[[cl-8]]）。\n- 小白龙身世：她自称是因不肯嫁上天庭才被罚做白马；猪八戒说她变成马的样子常让他忘了她的性别（[[cl-10]]）。\n- 情绪转折：小白龙大哭之后带着眼泪大笑，猪八戒称这是他的「看家笑话」。\n\n## 本章结果\n\n本章没有战事或空间转移，只完成一次重逢与信息交换：小白龙回到万灵之森，得知唐僧肉身不在原处；孙悟空未归。二人互损又互相安慰，最后猪八戒抬头望天，天上一片黑影，没有月亮（[[cl-17]]）。唐僧肉身去向、唐僧生死、孙悟空寻魂的结果均未在本章给出。\n\n## 未决问题与补读入口\n\n1. 唐僧的肉身现在在何处、是否已死？章内猪八戒以「已死」为前提，小白龙不信其死。\n2. 孙悟空去「找他的魂」，结果如何？本章未出场、未归。\n3. 本章为「五百年后」的插叙段落，与第33章（天宫锁妖柱、妖猴受雷击）与第35章（天界「擒住妖猴啦」）的叙述时序不连续，需对照前后章确认时间线位置。\n4. 小白龙「不肯嫁上天庭」的具体对象与经过，本章只说一句，未展开。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "stage-004 内首次出现「五百年后」的人间场景；猪八戒与小白龙是仅有的在场者",
+      "chapter_order": 34
+    },
+    {
+      "kind": "claim",
+      "local_id": "cl-1",
+      "note": "关键时间标记（五百年后），影响全卷时间线",
+      "chapter_order": 34
+    },
+    {
+      "kind": "claim",
+      "local_id": "cl-4",
+      "note": "唐僧肉身失踪（猪八戒说法），重大悬置事实",
+      "chapter_order": 34
+    },
+    {
+      "kind": "claim",
+      "local_id": "cl-8",
+      "note": "孙悟空去寻唐僧的魂（小白龙说法）",
+      "chapter_order": 34
+    },
+    {
+      "kind": "claim",
+      "local_id": "cl-10",
+      "note": "小白龙自述被罚做白马的缘由（不肯嫁上天庭），人物身世转折点",
+      "chapter_order": 34
+    },
+    {
+      "kind": "claim",
+      "local_id": "cl-14",
+      "note": "「只剩下我们俩孤魂野鬼」——取经队伍离散的现状表述",
+      "chapter_order": 34
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "fact_conflict",
+      "summary": "唐僧生死说法不一致：猪八戒以「人死了」「追不上他的魂」为前提说话，小白龙则说不相信他就这么死了、认为他还能活过来。两说均为人物的口头判断，本章未作裁决。",
+      "evidence_claim_local_ids": [
+        "cl-7",
+        "cl-8"
+      ],
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34
+        }
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "叙述时序跳跃：本章以「五百年后」开头并给出人间场景，而第33章为天宫锁妖柱审讯妖猴、第35章回到天界「擒住妖猴啦」，相邻章节时序不连续，需人工确认本章在时间线上的挂靠位置。",
+      "evidence_claim_local_ids": [
+        "cl-1"
+      ],
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34,
+          "anchor": "五百年后……"
+        }
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章名在源文件中显示为「．」，无法据以校验本章标题与主题。",
+      "evidence_claim_local_ids": [],
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000034.txt",
+          "chapter_id": "ch-000034",
+          "chapter_order": 34
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "本章为「五百年后」的时间跳接段，与第33、35章时序不连续，已在 issue_candidates 登记，未做任何时序推断性补全。",
+    "唐僧的生死与肉身去向在章内存在互相矛盾的人物说法，全部按 reported 处理，未定性。",
+    "小白龙的性别仅由人物自称「老娘」与猪八戒「女孩子」等说法体现，记为 reported，未写入实体定性结论。",
+    "本章无空间/战斗推进，也未出现新命名人物；stage-plan 中的其他角色名（沙悟净、紫霞等）未在本章出现。"
+  ]
+}

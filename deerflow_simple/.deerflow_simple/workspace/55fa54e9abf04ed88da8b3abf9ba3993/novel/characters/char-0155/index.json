@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0155",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 62,
+  "entity_type": "character",
+  "label": "宝象国国王",
+  "introduced_at": 62,
+  "identity_notes": [
+    {
+      "id": "in-char-0155-001",
+      "revealed_at": 62,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2355"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2357"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

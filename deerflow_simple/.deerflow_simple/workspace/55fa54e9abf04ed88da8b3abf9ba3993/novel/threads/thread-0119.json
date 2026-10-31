@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0119",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 69,
+  "label": "金角、银角、大鹏被观音带离狮驼岭",
+  "introduced_at": 69,
+  "updates": [
+    {
+      "id": "update-thread-0119-001",
+      "revealed_at": 69,
+      "chapter_ranges": [
+        {
+          "start": 69,
+          "end": 69
+        }
+      ],
+      "category": "antagonist_disposal",
+      "status": "closed",
+      "role": "outcome",
+      "summary": "观音点名三妖来历，孙悟空只说「带走吧」，三妖遁向云头。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2607"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2608"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2609"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

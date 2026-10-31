@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0014",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 60,
+  "label": "第57—60章：等待、击碎与未答的邀约",
+  "introduced_at": 56,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 60
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 60
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0014-006",
+      "revealed_at": 60,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/rel-wukong-baijingjing.json",
+          "record_id": "doc-rel-wukong-baijingjing-stage-006"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0014/stages/stage-006.md",
+        "record_id": "doc-emo-0014-stage-006"
+      },
+      "kind": "emotional_stage",
+      "title": "第57—60章：等待、击碎与未答的邀约",
+      "summary": "第57—60章：等待、击碎与未答的邀约（第56—60章）",
+      "chapter_ranges": [
+        {
+          "start": 56,
+          "end": 60
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 60
+    }
+  ]
+}

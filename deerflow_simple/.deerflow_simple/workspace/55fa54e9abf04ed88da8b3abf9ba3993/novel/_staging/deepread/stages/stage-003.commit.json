@@ -1,0 +1,1286 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "stage_range": {
+    "start": 19,
+    "end": 26
+  },
+  "as_of": 26,
+  "arc_summary": {
+    "doc_id": "doc-arc-003",
+    "front_matter": {
+      "title": "前因·天界蟠桃园与大闹天宫",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "as_of": 26,
+      "subject_refs": [],
+      "record_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "relationships/pairs/rel-0042.json",
+          "record_id": "rel-0042"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n\n第19—26章（共8章）。本阶段把叙述切回「前因」：蟠桃园的日常相处（19—21）→ 花果山废墟的亲历（22）→ 立场分道（23—24）→ 灵霄殿上当众摊牌（25—26）。所有引用的 claim/event 均以 buffer 中的 local_id 标注，未读原文。\n\n## 起始局面\n\n- 孙悟空在天界挂名「齐天大圣」、务守蟠桃园；来历不清：紫霞称其师为菩提祖师（reported），他本人却说未得真传、真师父在凡世（claim-local-23、claim-local-27@19）——本阶段最重要的悬念。\n- 紫霞是唯一不避他的神：众神避之而她不避，并表明不怕他（claim-local-16@19）。\n- 天蓬对他仍持旧恨；天庭内部已埋告发线——阿瑶扬言向王母告状（claim-local-7@19）。\n- 金蝉子来历（如来二弟子、走火入魔、灵魂坠入尘世）以 reported 形式出现（claim-local-21@19），本阶段内未被证实。\n\n## 核心目标与冲突\n\n- 孙悟空：做神仙是为了让「命运不握在他人之手」（claim-local-8@23），同时声明「现在我只想救我自己」（claim-local-9@23）。两句话与天界的秩序要求正面冲突。\n- 紫霞：想弄清自己反复梦见的花园与松鼠（claim-local-8@21），想去花果山（claim-local-11@21），并在亲见废墟后重估「妖」这个字。\n- 天庭（王母、二郎神口径）：以「礼天敬神者风调雨顺、众类安乐」（claim-local-14@22）为合法性，把「神仙管不到、能自主自命」的存在视为必须处置者（claim-local-20@23）。\n- 天蓬与阿月：要在殿上威压之下守住彼此（claim-local-22@25）。\n\n## 关键转折\n\n1. **第20章·银河搅星**：天蓬被连续打倒二十七次（ev-local-1@20）；阿月到场后，天蓬口头放下对孙悟空的恨（claim-local-14@20）。紫霞说出「因为你有灵魂」（claim-local-20@20）——孙悟空认知转向的起点。\n2. **第21章·蟠桃园长谈**：紫霞自述反复梦见的无边花园与松鼠（claim-local-8@21）；悟空听她描述花果山，反问「好像你在那儿住过似的」（claim-local-7@21），并答「你会有机会的」（claim-local-11@21）。他对靠近本能戒备，抓腕出棒随即收手（claim-local-2@21）。\n3. **第22章·花果山**：焦土与界石「花果山福地，水帘洞洞天」（claim-local-12@22）首次以物证呈现；二郎神以死雁诱群妖争食撕咬（ev-local-3@22），并给出妖族/神族战争与「妖精灵气不得超生」的口径（claim-local-16@22）。紫霞完成「听信传说」到「亲见废墟」的位移。\n4. **第23章·分道**：紫霞当面判其「和那些神佛没什么不同了」（claim-local-10@23），并声言不再来蟠桃园（claim-local-4@23）；悟空自陈做神仙的动机（claim-local-8@23）；「妖」被定义为「神仙管不到、能自主自命的灵物」（claim-local-20@23）；花果山妖众长生不死却困于废墟，悟空自称救不了他们（claim-local-23、claim-local-24@23）。\n5. **第24章·触发**：孙悟空得知蟠桃大会未邀自己，动身赴灵霄宝殿（ev-local-4@24）；紫霞赠袍被拒，他以「齐天大圣」自我定位（ev-local-3@24）；石柱头颅口述花果山被封禁/监狱化（ev-local-1@24）。章末叙述点明大闹天宫当即发生（claim-local-c33@24）。\n6. **第25章·蟠桃会**：王母当殿责罚阿瑶（ev-local-1@25、claim-local-14@25）；阿月为阿瑶求情遭威压，太上老君在压力下改口（ev-local-2@25、claim-local-17@25）；天蓬当众扶阿月走出灵霄大殿，无视王母喝止（ev-local-3@25、claim-local-22@25）。\n7. **第26章·摊牌**：孙悟空当众认下偷桃并掀翻王母宝座（ev-local-1@26），自报姓名「从今往后一万年，你们都会记住我的名字」（claim-local-12@26），「齐天大圣孙悟空」称号首次出现在原文诗行（claim-local-21@26）；天将合围、战斗爆发（ev-local-2@26）；其间护持阿瑶并让出宝座（claim-local-7@26，不作感情定性）。\n\n## 阶段结果\n\n- 孙悟空由「守园的自保者」变为公开反叛者，与天庭进入战争状态。\n- 阿瑶从「扬言告状的人」变成「被当殿处置的人」，蟠桃之事归责于她，又因加害者的当众认罪而被悬置。\n- 天蓬公开违逆王母（扶阿月出殿），与阿月的关系在众目之下成立；与孙悟空维持在 20 章的「不再恨」。\n- 紫霞与孙悟空的往来进入低点：赠袍退回、她声明不再来蟠桃园；但她对「妖／废墟／灵魂」的认知已被整体置换。\n- 天庭的合法性话语与「妖＝不受管束」的定义在本阶段被双方明确表述，为后续冲突定下框架。\n\n## 下一阶段承接与未决问题\n\n- 师承之谜（「凡世真师父」）本阶段只有 reported 依据，未推进。\n- 紫霞的梦境／前世猜想仍未解释。\n- 「齐天大圣孙悟空」称号首次出现，后续称号演变需对齐。\n- 金蝉子来历与唐僧／玄奘身份线的关系，原文未在本阶段明示。\n- 花果山妖众「长生不死却困于废墟」与「花果山被封禁」的说法待证实。\n- 孙悟空护持阿瑶、让出宝座之后，阿瑶的处置后果未写；殿上开战的结局本阶段以「合围」收尾。"
+  },
+  "character_stages": [
+    {
+      "candidate_name": "孙悟空",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "stage_doc_id": "doc-char-0002-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "蟠桃园到灵霄殿：自保者转为反叛者",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第19章的孙悟空仍待在「挂名守园」的框架内：身份是「齐天大圣」，职守是蟠桃园，来历却说不清——紫霞称其师为菩提祖师（reported），他自己说未得真传、真师父在凡世（claim-local-23、claim-local-27@19）。他对来者本能戒备：紫霞靠近时他抓腕出棒，随即收手（claim-local-2@21）。天蓬对他仍持旧恨。\n\n## 目标与动机\n\n- 表层：守园、自保。第23章他把动机说得极直白——「现在我只想救我自己」（claim-local-9@23）。\n- 深层：做神仙是为让「命运不握在他人之手」（claim-local-8@23）。\n- 对花果山：他梦见它、又自问是否愿回去（ev-local-1@22）；对紫霞要去花果山的请求，他答「你会有机会的」（claim-local-11@21），却没有给出兑现路径。\n\n## 关键选择与经历\n\n- 第20章 银河搅星，与天蓬交手并将他连续打倒二十七次（ev-local-1@20）；阿月到场后，天蓬口头放下旧恨（claim-local-14@20）。\n- 第21章 与紫霞长谈花果山，听她说「好像你在那儿住过似的」（claim-local-7@21）。\n- 第22章 在花果山废墟前做梦、惊醒（ev-local-1@22），直面自己「救不了」的位置。\n- 第23章 被紫霞当面判为「和那些神佛没什么不同了」（claim-local-10@23）；他自陈救不了困在废墟里的妖众（claim-local-23、claim-local-24@23）。\n- 第24章 得知蟠桃大会未邀自己，当即动身赴灵霄宝殿（ev-local-4@24）；拒收紫霞所赠袍甲，以「齐天大圣」自我定位（ev-local-3@24）。\n- 第25章 蟠桃会冲突中他未出手，冲突由王母、阿月、天蓬承载；他此时是矛盾的引信而非当事者。\n- 第26章 当众认下偷桃、掀翻王母宝座（ev-local-1@26），自报姓名（claim-local-12@26），在合围中开战（ev-local-2@26）；同时护持阿瑶并让出宝座（claim-local-7@26）。\n\n## 身份与能力变化\n\n- 称号层面：「齐天大圣」由自我定位（ev-local-3@24）走到原文诗行中的「齐天大圣孙悟空」（claim-local-21@26），并由「从今往后一万年，你们都会记住我的名字」（claim-local-12@26）完成自我命名。\n- 能力层面：本阶段只有战绩与声势记录（二十七次打倒天蓬），没有新的法术／法宝来源说明。第23章「妖＝神仙管不到、能自主自命的灵物」（claim-local-20@23）改变的是他的自我理解，不构成新的能力来源。\n- 未确认：师承（菩提祖师 vs 凡世真师父）在本阶段仍只有 reported 依据。\n\n## 认知与性格表现\n\n- 对「灵魂」的反应是阶段起点：紫霞一句「因为你有灵魂」（claim-local-20@20）在他身上留下了未被消化的东西——他随后会梦见花果山、会自问愿不愿回去。\n- 他的自我辩护是自保式的（「我只想救我自己」），同时又承认救不了旧部（claim-local-23@23）。二者不矛盾：他先把「救所有人」的义务从自己身上摘下来。\n- 被指出「和那些神佛没什么不同」（claim-local-10@23）时，他没有反驳，而是转向行动（赴凌霄殿）。\n- 对阿瑶的护持（claim-local-7@26）显示敌意是定向的：他要打的是「管人的人」，不是被管的人。\n\n## 阶段终点\n\n第26章末，他是公开的反叛者：认下偷桃、掀座、自报姓名、开战。身后是天将合围，身前是「一万年」的宣告。\n\n## 证据不足与补读入口\n\n- 师承线只有 reported 陈述（claim-local-23、claim-local-27@19），本阶段无实证。\n- 「齐天大圣」称号的授予与演变在 buffer 中只有 24、26 两处，缺中间环节。\n- 与阿瑶互动的另一端（阿瑶的态度）在本阶段无表达依据，不作对称推断。\n- 第25章蟠桃会中他的具体行动无记录，仅知其为章末冲突的引信。"
+      },
+      "current_summary_update": "第19—26章：在蟠桃园一边自保一边被追问来历（师承仅 reported）；对紫霞由戒备到有限接纳，终以拒收袍甲与赴凌霄殿划断往来；亲历花果山废墟后自陈「我只想救我自己」「救不了他们」；得知蟠桃大会未邀自己后赴灵霄宝殿，当众认下偷桃、掀翻王母宝座，自报姓名「齐天大圣孙悟空」，与天庭开战。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "紫霞",
+      "entity_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "stage_doc_id": "doc-char-0023-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "从蟠桃园到花果山：看见真相的人",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第19章：众神避孙悟空而她不避，她主动接近并表明不怕他（claim-local-16@19）。她点出他的师承（claim-local-23@19），也开始追问「他到底是什么」。\n\n## 目标与动机\n\n- 想弄清自己：反复梦见无边花园、梦里是松鼠，她自猜那是前世（claim-local-8@21）。\n- 想弄清他：想知道花果山是什么样，并求他带自己去（claim-local-11@21）。\n- 想弄清「妖」：亲眼看过废墟与群妖之后，她不再满足于天庭的传说口径。\n\n## 关键选择与经历\n\n- 第20章 对悟空说「因为你有灵魂」（claim-local-20@20）——本阶段最重要的一句，也是她判断人的标准。\n- 第21章 蟠桃园长谈：讲自己的梦（claim-local-8@21），听悟空讲花果山，得到「你会有机会的」（claim-local-11@21）。\n- 第22章 亲见花果山：焦土与界石刻字（claim-local-12@22）；目睹二郎神以死雁诱群妖争食撕咬（ev-local-3@22）。这是她由「听信传说」到「亲见废墟」的认知位移。\n- 第23章 当面判悟空「和那些神佛没什么不同了」（claim-local-10@23），并声言不再来蟠桃园（claim-local-4@23）。\n- 第24章 赠袍被拒（ev-local-3@24）——她最后一次主动示好被退回。\n\n## 身份与能力变化\n\n本阶段无身份揭示或能力变化记录。她的「前世／松鼠之梦」只是本人猜想（claim-local-8@21），无旁证，不能上升为身份结论。\n\n## 认知与性格表现\n\n- 判断标准是「有没有灵魂」，而非「是不是神」（claim-local-20@20）：这使她是本阶段唯一以个体而非阵营看人的角色。\n- 她敢正面否定悟空（claim-local-10@23），也敢当众收回往来（claim-local-4@23）：温和的表述下是清晰的边界。\n- 亲见废墟与群妖撕咬之后，她既没有转向恨，也没有替天庭辩护，而是转向重估「妖」这个字。\n\n## 阶段终点\n\n第24章之后 buffer 中不再有她的直接行动记录：赠袍被拒、声明不再来园。她带着一套被整体置换的认知离开蟠桃园。\n\n## 证据不足与补读入口\n\n- 梦境／前世线仍为 open，原文未解释。\n- 第25—26章灵霄殿事件中她的位置无依据，不作推断。\n- 「承认喜欢」一类定性在本阶段 buffer 中无直接陈述支撑；感情层面见感情阶段文档的推断边界。"
+      },
+      "current_summary_update": "第19—26章：主动接近孙悟空并表明不怕他，以「因为你有灵魂」为判断人的标准；讲述反复出现的花园/松鼠之梦（自猜为前世），求他带去花果山；亲见花果山焦土、界石与二郎神以死雁诱群妖争食后，完成从「听信传说」到「亲见废墟」的认知位移；第23章判其「和那些神佛没什么不同了」并声明不再来蟠桃园，第24章赠袍被拒，往来中断。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "天蓬",
+      "entity_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "stage_doc_id": "doc-char-0015-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "放下旧恨，扶人出殿",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第19—20章：天蓬对孙悟空怀有旧恨，在银河与其交手，被连续打倒二十七次（ev-local-1@20）。\n\n## 目标与动机\n\n他的目标在本阶段很具体：不是赢，而是把一件旧事放下。促成这一转变的是阿月的到场（ev-local-2@20）。\n\n## 关键选择与经历\n\n- 第20章 口头放下对孙悟空的恨：「我不再恨你了」（claim-local-14@20）。本阶段第一个选择。\n- 第20章 听阿月自述星辰银河只为天蓬一人欣赏而造（claim-local-12@20）；并对「灵魂」留下伏笔式的一句「等你看见你的灵魂在另一个人身上的时候」（claim-local-16@20）。\n- 第25章 灵霄殿上，阿月为阿瑶求情遭王母威压，他当众扶阿月走出大殿、对抗王母喝止（ev-local-3@25、claim-local-22@25）。本阶段第二个、也更重的选择。\n\n## 身份与能力变化\n\n本阶段无身份或能力变化记录。变化在立场上：由「对一人怀恨的武将」变为「当众违逆王母的人」。\n\n## 认知与性格表现\n\n- 放下恨的时机是「阿月来了」（ev-local-2@20），不是被打服——行为由关系驱动，而非由胜负驱动。\n- 殿上他没有与王母争辩（buffer 无对话依据），只用动作（扶人、出殿）表态。\n\n## 阶段终点\n\n第25章末已带阿月离开灵霄殿，站在王母权威的对面。第26章天将合围时他是否在场，buffer 中无依据，不作推断。\n\n## 证据不足与补读入口\n\n- 第26章他的位置（是否参与合围、是否旁观）无依据。\n- 「不再恨」之后与孙悟空是否有实际和解行为，本阶段无记录。"
+      },
+      "current_summary_update": "第19—26章：银河与孙悟空交手被连续打倒二十七次，因阿月到场而口头放下旧恨（「我不再恨你了」），并留下「灵魂在另一个人身上」的伏笔；第25章灵霄殿上阿月为阿瑶求情遭王母威压，他当众扶阿月走出大殿、无视王母喝止，立场由此转为公开违逆天庭权威。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "阿月",
+      "entity_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "stage_doc_id": "doc-char-0066-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "为一人造星，为一人求情",
+          "chapter_ranges": [
+            {
+              "start": 20,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第20章首次在本 stage 的 buffer 内出现：孙悟空与天蓬交手之后她到场（ev-local-2@20）。本文件只覆盖第20—26章的依据；此前档案中「月／月女神」（第7、9章条目）与本条目是否为同一人，buffer 未给出依据，不作合并。\n\n## 目标与动机\n\n她的行动轴是「护人」：为天蓬造星汉（claim-local-12@20）、为阿瑶求情（claim-local-14@25）、并承担由此而来的威压。\n\n## 关键选择与经历\n\n- 第20章 自述星辰银河只为天蓬一人欣赏而造（claim-local-12@20）。\n- 第25章 在灵霄殿公开为阿瑶求情（claim-local-14@25），遭王母威压；随后由天蓬扶着走出大殿（claim-local-22@25）。\n\n## 身份与能力变化\n\n无身份／能力变化记录。\n\n## 认知与性格表现\n\n- 她的表态是公开的、当众的（求情在殿上），不是私下周旋。\n- 求情对象阿瑶是蟠桃之事的下位受责者；这使她的行为带有利害之外的立场性质。\n\n## 阶段终点\n\n第25章末随天蓬离殿，处于王母权威的对立面。\n\n## 证据不足与补读入口\n\n- 与「月／月女神」（第7／9章条目）的身份合并缺依据，未做合并。\n- 第26章及之后她的处境无记录。"
+      },
+      "current_summary_update": "第20—26章：自述星辰银河只为天蓬一人欣赏而造；第25章灵霄殿上公开为阿瑶求情、遭王母威压，随后由天蓬扶着走出大殿，与天蓬一同站到王母权威的对立面。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "阿瑶",
+      "entity_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "stage_doc_id": "doc-char-0021-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "从告状者到被处置者",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第19章：因蟠桃园失桃，她扬言向王母告状（claim-local-7@19）。她把「规矩」当成可用的武器。\n\n## 目标与动机\n\n求自保、求上位者的裁决：把失桃之事交给王母处置。\n\n## 关键选择与经历\n\n- 第19章 扬言告状（claim-local-7@19），让失桃之事成为悬在孙悟空头上的线。\n- 第25章 蟠桃会上，王母当殿责罚她（ev-local-1@25、claim-local-14@25）；阿月为她求情而遭威压。\n- 第26章 孙悟空当众认下偷桃并掀翻王母宝座（ev-local-1@26、claim-local-12@26）；其间他护持她，并把宝座让给她（claim-local-7@26）。\n\n## 身份与能力变化\n\n无身份／能力变化。位置变了：由「持规矩告发的人」变成「被规矩处置的人」，又因加害者的当众承担而获得一次意外庇护。\n\n## 认知与性格表现\n\n- 她的策略依赖「上面有人管」这一前提；当王母既是裁决者又是威压来源时，策略反噬自身。\n- 本阶段她的表达集中于告状一事，缺少更多内心依据。\n\n## 阶段终点\n\n第26章末，归责问题被孙悟空的公开认罪打断，处置悬置；她的处境仍是「被追责者」。\n\n## 证据不足与补读入口\n\n- 她对孙悟空护持的反应在本阶段 buffer 中无表达依据，关系快照中不作对称推断。\n- 告状之后到被罚之间（20—24章）她的经历无记录。"
+      },
+      "current_summary_update": "第19—26章：因蟠桃园失桃扬言向王母告状；第25章蟠桃会上被王母当殿责罚（阿月为她求情遭威压）；第26章孙悟空当众认下偷桃并掀翻王母宝座，其间护持她并让出宝座，她的归责问题被暂时悬置，身份由「告状者」变为「被处置者」。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "王母",
+      "entity_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "stage_doc_id": "doc-char-0022-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "灵霄殿上的威压与失座",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n第19章的告发线指向她，但她在 buffer 中首次实际出手是第25章的蟠桃会。\n\n## 目标与动机\n\n维持殿上秩序与权威：对失桃之事当殿处置（claim-local-14@25），对求情者施加威压。\n\n## 关键选择与经历\n\n- 第25章 当殿责罚阿瑶（ev-local-1@25、claim-local-14@25）。\n- 第25章 对为阿瑶求情的阿月施压，太上老君在威压下改口（ev-local-2@25、claim-local-17@25）。\n- 第25章 喝止天蓬带阿月出殿，未果（claim-local-22@25）。\n- 第26章 孙悟空当众认下偷桃并掀翻她的宝座（ev-local-1@26）；「齐天大圣孙悟空」的宣告（claim-local-21@26）成为其权威的反面注脚。\n\n## 身份与能力变化\n\n无身份／能力变化。本阶段记录的是权威的实际效力：能罚下位者（阿瑶）、能压迫旁观者（太上老君改口），但不能阻止天蓬带人离殿，也不能阻止宝座被掀。\n\n## 认知与性格表现\n\n- 处置方式是当众的，以殿为场；威压对象先是被告，再是求情者。\n- 权威在第25—26章连续两次失效：一次是天蓬的背身，一次是宝座的倾覆。\n\n## 阶段终点\n\n第26章末宝座被掀、殿上开战，她的秩序在当场失效。\n\n## 证据不足与补读入口\n\n- 「蟠桃大会未邀孙悟空」的决策过程在 buffer 中无依据（只记结果，ev-local-4@24）。\n- 第26章开战后她的处境无记录。"
+      },
+      "current_summary_update": "第19—26章：蟠桃会风波中的裁决者与威压来源——第25章当殿责罚阿瑶，对求情的阿月施压致太上老君改口，喝止天蓬带阿月出殿而未果；第26章孙悟空当众认下偷桃并掀翻她的宝座，殿上开战，其权威连续两次当场失效。",
+      "identity_notes_appends": []
+    },
+    {
+      "candidate_name": "二郎神",
+      "entity_ref": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "stage_doc_id": "doc-char-0064-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "果园外的清剿者：礼天敬神与「妖」的证据",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 22
+            }
+          ],
+          "as_of": 26,
+          "cover_through": 22,
+          "subject_refs": [
+            {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n\n他此前已在第19章被建档（identity note in-char-0064-001，safe_through 仅到 19）。本文件补第20—22章的依据；其中第22章是他本阶段唯一的实际出场，第23—26章 buffer 中无他的出场记录，故本文件实质性内容集中在第22章。\n\n## 目标与动机\n\n执行天庭的秩序口径：处置不受管束的「妖」，并以「礼天敬神之处风调雨顺、众类安乐」（claim-local-14@22）为自己行为的辩护。\n\n## 关键选择与经历\n\n- 第22章 以死雁诱出群妖争食撕咬（ev-local-3@22）——他以妖的饥饿为证，向观察者（紫霞）展示妖的本性。\n- 第22章 陈述妖族／神族战争与「妖精灵气不得超生」的说法（claim-local-16@22），以及礼天敬神者的安乐（claim-local-14@22）。\n\n## 身份与能力变化\n\n无。本阶段补充的是行为方式与话语立场，不是身份揭示。\n\n## 认知与性格表现\n\n- 他先造现场、再给解释：让紫霞看见群妖争食，再告诉她这就是妖。演示与话语同步，是有意的说服。\n- 他不用第一人称的敌意表达，而用「秩序—安乐」的普遍命题为处置辩护。\n\n## 阶段终点\n\n第22章之后在 buffer 中无出场记录。\n\n## 证据不足与补读入口\n\n- 第20—21章他的行踪无依据。\n- 他是否参与第25—26章的殿上事件，无依据，不作推断。"
+      },
+      "current_summary_update": "第19—22章（重点为第22章）：以死雁诱群妖争食撕咬，向紫霞演示「妖」的本性；并以「妖族/神族战争、妖精灵气不得超生」「礼天敬神者风调雨顺」的口径为天庭秩序辩护。第23—26章无出场记录。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "factions/index.json 当前为空、无任何势力实体建档；本阶段的势力对立（天庭秩序 vs 花果山妖族 vs 反叛者）已在 arc 摘要与关系快照中表达，不新建势力实体或格局文档，以免凭空建档。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0042.json",
+          "record_id": "rel-0042"
+        },
+        "pair_names": [
+          "紫霞",
+          "孙悟空"
+        ]
+      },
+      "stage_doc_id": "doc-rel-zixia-wukong-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "紫霞×孙悟空：从蟠桃园长谈到赠袍被拒",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0042.json",
+              "record_id": "rel-0042"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第19—26章。二人关系在本阶段从「单方面不避」走到「赠袍被拒、往来中断」。\n\n## 互动事实\n\n- 第19章 众神避之而她不避，她主动接近并表明不怕他（claim-local-16@19）。\n- 第20章 她给出判断：「因为你有灵魂」（claim-local-20@20）。\n- 第21章 蟠桃园单独长谈：她讲自己的梦（claim-local-8@21）；他听她说花果山，反问「好像你在那儿住过似的」（claim-local-7@21），并答「你会有机会的」（claim-local-11@21）。他对突然靠近有戒备：抓腕出棒、随即收手（claim-local-2@21）。\n- 第22章 她亲见花果山废墟，认知位移（ev-local-2@22、claim-local-12@22）。\n- 第23章 她判他「和那些神佛没什么不同了」（claim-local-10@23），并声明不再来蟠桃园（claim-local-4@23）；他自陈「现在我只想救我自己」（claim-local-9@23）。\n- 第24章 赠袍被拒（ev-local-3@24）。\n\n## 两端态度（不对称）\n\n- 紫霞→孙悟空：主动、好奇、愿意相信；后转为失望与划界。\n- 孙悟空→紫霞：戒备—有限接纳—拒收；本阶段无任何主动示好的记录。\n\n## 转折\n\n第21章的长谈是唯一一次真正的双向交流；第23章的价值否定与第24章的赠袍被拒把这段往来关掉。\n\n## 边界与未决\n\n- 原文未明示恋爱关系，本快照不作感情定性（见 emotions/emo-0005 的 assessment，category=uncertain）。\n- 第25—26章她在殿上事件中的位置无依据。"
+      },
+      "facets": [
+        {
+          "facet": "主动接近与关切",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0023/index.json",
+            "record_id": "char-0023"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "主动、好奇、愿意相信；第23章后转为失望与划界",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-16",
+              "chapter_order": 19,
+              "note": "她不避他、表明不怕他"
+            },
+            {
+              "local_id": "claim-local-20",
+              "chapter_order": 20,
+              "note": "「因为你有灵魂」"
+            },
+            {
+              "local_id": "claim-local-8",
+              "chapter_order": 21,
+              "note": "讲述梦境/前世猜想"
+            },
+            {
+              "local_id": "claim-local-11",
+              "chapter_order": 21,
+              "note": "求带去花果山并得到许诺"
+            }
+          ],
+          "note": "本阶段关系中唯一有明确表达的主动一方"
+        },
+        {
+          "facet": "戒备与自我封闭",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "to_ref": {
+            "path": "characters/char-0023/index.json",
+            "record_id": "char-0023"
+          },
+          "attitude": "戒备—有限接纳—拒收",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-2",
+              "chapter_order": 21,
+              "note": "被靠近即抓腕出棒，随即收手"
+            },
+            {
+              "local_id": "claim-local-9",
+              "chapter_order": 23,
+              "note": "「现在我只想救我自己」"
+            },
+            {
+              "local_id": "ev-local-3",
+              "chapter_order": 24,
+              "kind": "event",
+              "note": "赠袍被拒"
+            }
+          ],
+          "note": "以行为证据为主：无主动示好，仅有条件性回应"
+        },
+        {
+          "facet": "价值判断分歧与往来中断",
+          "direction": "symmetric",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-10",
+              "chapter_order": 23,
+              "note": "她判其「和那些神佛没什么不同了」"
+            },
+            {
+              "local_id": "claim-local-4",
+              "chapter_order": 23,
+              "note": "她声言不再来蟠桃园"
+            }
+          ],
+          "note": "冲突由她单方提出，他未反驳；故记为分歧事实，不记为双向争执"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-1",
+          "chapter_order": 21,
+          "note": "蟠桃园单独长谈，本阶段唯一双向交流"
+        },
+        {
+          "local_id": "ev-local-2",
+          "chapter_order": 22,
+          "note": "花果山废墟亲见，她的认知位移"
+        },
+        {
+          "local_id": "ev-local-3",
+          "chapter_order": 24,
+          "note": "赠袍被拒，往来中断"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0044.json",
+          "record_id": "rel-0044"
+        },
+        "pair_names": [
+          "天蓬",
+          "阿月"
+        ]
+      },
+      "stage_doc_id": "doc-rel-tianpeng-ayue-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "天蓬×阿月：星汉为一人而造，携手出殿",
+          "chapter_ranges": [
+            {
+              "start": 20,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0044.json",
+              "record_id": "rel-0044"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第20—26章。本阶段二人的关系有两次决定性事件：第20章的「造星」与第25章的「出殿」。\n\n## 互动事实\n\n- 第20章 阿月到场，天蓬随即放下对孙悟空的旧恨（ev-local-2@20、claim-local-14@20）。\n- 第20章 阿月自述星辰银河只为天蓬一人欣赏而造（claim-local-12@20）。\n- 第25章 阿月为阿瑶求情遭王母威压（ev-local-2@25、claim-local-14@25）；天蓬当众扶她走出灵霄大殿，无视王母喝止（ev-local-3@25、claim-local-22@25）。\n\n## 两端态度\n\n- 阿月→天蓬：造物式的偏护（「只为一人」），并在殿上以行动承担风险。\n- 天蓬→阿月：因她到场而放弃旧恨；在她受压时用动作（扶、走）而非言语表态。\n两端的表达都明确，方向也一致，故记为互惠。\n\n## 转折\n\n第25章的「当众离殿」把私人偏护变成公开立场：这一步付出的是与王母的正面冲突。\n\n## 边界与未决\n\n- 原文未明示恋爱或婚姻关系，本快照不作感情定性（见新建 emotions 条目的 assessment，category=uncertain）。\n- 阿月与既有档案中「月／月女神」（第7／9章）是否同一人无依据，未做身份合并。\n- 第26章天将合围时二人位置无依据。"
+      },
+      "facets": [
+        {
+          "facet": "偏护与付出",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0066/index.json",
+            "record_id": "char-0066"
+          },
+          "to_ref": {
+            "path": "characters/char-0015/index.json",
+            "record_id": "char-0015"
+          },
+          "attitude": "星辰银河只为一人欣赏而造；殿上求情承压",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-12",
+              "chapter_order": 20,
+              "note": "「只为天蓬一人欣赏而造」"
+            }
+          ],
+          "note": "单向表达，但指向明确"
+        },
+        {
+          "facet": "守护与公开同行",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0015/index.json",
+            "record_id": "char-0015"
+          },
+          "to_ref": {
+            "path": "characters/char-0066/index.json",
+            "record_id": "char-0066"
+          },
+          "attitude": "因她到场而放下旧恨；在她受压时扶她出殿",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-14",
+              "chapter_order": 20,
+              "note": "阿月到场后「我不再恨你了」"
+            },
+            {
+              "local_id": "claim-local-22",
+              "chapter_order": 25,
+              "note": "携手无视王母怒吼出殿"
+            }
+          ],
+          "note": "以行为为主，无对话依据"
+        },
+        {
+          "facet": "公开立场一致",
+          "direction": "symmetric",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-22",
+              "chapter_order": 25,
+              "note": "二人携同离殿，共同违逆王母"
+            }
+          ],
+          "note": "殿上事件后关系由私人偏好转为公开立场"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-2",
+          "chapter_order": 20,
+          "note": "阿月到场，天蓬放下旧恨"
+        },
+        {
+          "local_id": "ev-local-2",
+          "chapter_order": 25,
+          "note": "阿月求情遭王母威压"
+        },
+        {
+          "local_id": "ev-local-3",
+          "chapter_order": 25,
+          "note": "天蓬当众扶阿月走出灵霄大殿"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0043.json",
+          "record_id": "rel-0043"
+        },
+        "pair_names": [
+          "孙悟空",
+          "天蓬"
+        ]
+      },
+      "stage_doc_id": "doc-rel-sunwukong-tianpeng-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空×天蓬：二十七次打倒与一句「不再恨」",
+          "chapter_ranges": [
+            {
+              "start": 20,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0043.json",
+              "record_id": "rel-0043"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第20—26章。二人的直接接触集中在第20章银河一场，之后旧恨以「口头放下」收束。\n\n## 互动事实\n\n- 第20章 银河搅星，天蓬被孙悟空连续打倒二十七次（ev-local-1@20）。\n- 第20章 阿月到场，天蓬口头放下对孙悟空的恨（ev-local-2@20、claim-local-14@20）。\n- 第20章 天蓬对「灵魂」留下伏笔式陈述（claim-local-16@20），该句并非针对孙悟空的态度表达。\n\n## 两端态度（不对称）\n\n- 天蓬→孙悟空：由旧恨转为口头放下（claim-local-14@20）。\n- 孙悟空→天蓬：本阶段无任何态度表达记录，故不设该方向 facet，也不推断其是否接受这份「不再恨」。\n\n## 转折\n\n第20章「被二十七次打倒」是力量对比的确认；「我不再恨你了」是情绪层面的了结。二者同章发生，顺序不可倒置。\n\n## 边界与未决\n\n- 第25—26章殿上事件中，天蓬属天庭武官一方，但 buffer 未记载他是否参与第26章的天将合围，不作阵营推论。\n- 「不再恨」为天蓬单方口头陈述，无后续行为佐证。"
+      },
+      "facets": [
+        {
+          "facet": "旧恨与放下",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0015/index.json",
+            "record_id": "char-0015"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "旧恨→口头放下",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-14",
+              "chapter_order": 20,
+              "note": "「我不再恨你了」"
+            }
+          ],
+          "note": "单方陈述；促成者为阿月到场（ev-local-2@20）"
+        },
+        {
+          "facet": "交手与力量对比",
+          "direction": "symmetric",
+          "basis_refs": [
+            {
+              "local_id": "ev-local-1",
+              "chapter_order": 20,
+              "kind": "event",
+              "note": "天蓬被连续打倒二十七次"
+            }
+          ],
+          "note": "以战斗事实记录，不延伸为敌意判断"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-1",
+          "chapter_order": 20,
+          "note": "银河搅星交手"
+        },
+        {
+          "local_id": "ev-local-2",
+          "chapter_order": 20,
+          "note": "阿月到场，天蓬放下旧恨"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0045.json",
+          "record_id": "rel-0045"
+        },
+        "pair_names": [
+          "孙悟空",
+          "王母"
+        ]
+      },
+      "stage_doc_id": "doc-rel-sunwukong-wangmu-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空×王母：不邀之辱与掀座之叛",
+          "chapter_ranges": [
+            {
+              "start": 24,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0045.json",
+              "record_id": "rel-0045"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第24—26章。二人此前无直接对手戏记录；本阶段以「蟠桃大会未邀」为起点，以「掀翻宝座」为终点。\n\n## 互动事实\n\n- 第24章 蟠桃大会未邀孙悟空，他得知后动身赴灵霄宝殿（ev-local-4@24）。\n- 第25章 王母当殿责罚阿瑶（claim-local-14@25）——处置名义正是蟠桃之事，而此事最终归到孙悟空身上。\n- 第26章 孙悟空当众认下偷桃并掀翻王母宝座（ev-local-1@26），自报姓名（claim-local-12@26）。\n\n## 两端态度（不对称表达）\n\n- 王母→孙悟空：以「不邀」为处置，以规矩而非言语表达排斥。\n- 孙悟空→王母：由被排除转为公开挑战（认罪＋掀座）。\n两侧虽无语，行为上的对立是双向的，故另设对称 facet。\n\n## 转折\n\n第24章的「未邀」是整条线的直接触发；第26章的「认下偷桃」把私人失桃升格为公开宣战。\n\n## 边界与未决\n\n- 「未邀」的决策过程在 buffer 中无依据，只知结果。\n- 第26章开战后王母的处境无记录。"
+      },
+      "facets": [
+        {
+          "facet": "排斥与不邀",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0022/index.json",
+            "record_id": "char-0022"
+          },
+          "to_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "attitude": "以不邀与规矩处置表达排斥",
+          "basis_refs": [
+            {
+              "local_id": "ev-local-4",
+              "chapter_order": 24,
+              "kind": "event",
+              "note": "蟠桃大会未邀孙悟空"
+            },
+            {
+              "local_id": "claim-local-14",
+              "chapter_order": 25,
+              "note": "以蟠桃之事当殿责罚阿瑶"
+            }
+          ],
+          "note": "决策过程无依据，仅记结果"
+        },
+        {
+          "facet": "公开挑战",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "to_ref": {
+            "path": "characters/char-0022/index.json",
+            "record_id": "char-0022"
+          },
+          "attitude": "认罪、掀座、自报姓名",
+          "basis_refs": [
+            {
+              "local_id": "ev-local-1",
+              "chapter_order": 26,
+              "kind": "event",
+              "note": "认下偷桃并掀翻王母宝座"
+            },
+            {
+              "local_id": "claim-local-12",
+              "chapter_order": 26,
+              "note": "「一万年你们都会记住我的名字」"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "facet": "敌对关系成立",
+          "direction": "symmetric",
+          "basis_refs": [
+            {
+              "local_id": "ev-local-4",
+              "chapter_order": 24,
+              "kind": "event",
+              "note": "不邀触发"
+            },
+            {
+              "local_id": "ev-local-1",
+              "chapter_order": 26,
+              "kind": "event",
+              "note": "当殿掀座"
+            }
+          ],
+          "note": "以行为记录敌对，不作情绪推断"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-4",
+          "chapter_order": 24,
+          "note": "得知蟠桃大会未邀自己，动身赴凌霄殿"
+        },
+        {
+          "local_id": "ev-local-1",
+          "chapter_order": 26,
+          "note": "认下偷桃、掀翻宝座，冲突公开化"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0046.json",
+          "record_id": "rel-0046"
+        },
+        "pair_names": [
+          "紫霞",
+          "二郎神"
+        ]
+      },
+      "stage_doc_id": "doc-rel-zixia-erlangshen-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "紫霞×二郎神：一场以群妖为教材的演示",
+          "chapter_ranges": [
+            {
+              "start": 22,
+              "end": 22
+            }
+          ],
+          "as_of": 26,
+          "cover_through": 22,
+          "subject_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            {
+              "path": "characters/char-0064/index.json",
+              "record_id": "char-0064"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0046.json",
+              "record_id": "rel-0046"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第22章。二人唯一的交汇是花果山外的一场「演示」，本快照只覆盖这一章。\n\n## 互动事实\n\n- 第22章 二郎神以死雁诱出群妖争食撕咬，紫霞在场目睹（ev-local-3@22）。\n- 第22章 他给出妖族／神族战争与「妖精灵气不得超生」的说法（claim-local-16@22），以及礼天敬神者的安乐（claim-local-14@22）。\n\n## 两端态度（不对称）\n\n- 二郎神→紫霞：演示＋说教，属有意的说服。\n- 紫霞→二郎神：本阶段无回应记录，仅有目睹与接受信息这一事实，故不设该方向 facet。\n\n## 转折\n\n这一场直接把紫霞的「妖」观念推向亲见层面——她的认知位移有一部分是被他造成的。\n\n## 边界与未决\n\n- 紫霞是否反驳、是否被说服，buffer 中无依据。\n- 二郎神此后再无出场记录。"
+      },
+      "facets": [
+        {
+          "facet": "演示与说教",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0064/index.json",
+            "record_id": "char-0064"
+          },
+          "to_ref": {
+            "path": "characters/char-0023/index.json",
+            "record_id": "char-0023"
+          },
+          "attitude": "以现场演示与秩序命题施教",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-16",
+              "chapter_order": 22,
+              "note": "妖族/神族战争与妖精灵气不得超生"
+            },
+            {
+              "local_id": "claim-local-14",
+              "chapter_order": 22,
+              "note": "礼天敬神者风调雨顺、众类安乐"
+            },
+            {
+              "local_id": "ev-local-3",
+              "chapter_order": 22,
+              "kind": "event",
+              "note": "死雁诱群妖争食撕咬"
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-3",
+          "chapter_order": 22,
+          "note": "死雁诱群妖争食，紫霞目睹"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0020.json",
+          "record_id": "rel-0020"
+        },
+        "pair_names": [
+          "王母",
+          "阿瑶"
+        ]
+      },
+      "stage_doc_id": "doc-rel-wangmu-ayao-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王母×阿瑶：告状者的反噬",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0020.json",
+              "record_id": "rel-0020"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第19—26章。自上而下的依附关系，本阶段以「告状—受罚」完成一次反转。\n\n## 互动事实\n\n- 第19章 阿瑶扬言向王母告状（claim-local-7@19）——把王母视为可用的裁决者。\n- 第25章 王母当殿责罚阿瑶（ev-local-1@25、claim-local-14@25）。\n- 第25章 阿月为阿瑶求情遭王母威压（ev-local-2@25、claim-local-17@25）。\n- 第26章 孙悟空认下偷桃并掀翻宝座（ev-local-1@26），阿瑶的归责被悬置。\n\n## 两端态度\n\n- 王母→阿瑶：以当众责罚行使权威。\n- 阿瑶→王母：先依附求裁（告状），后成为受罚对象；本阶段无她对王母的直接表态记录。\n\n## 转折\n\n第25章的当殿责罚是唯一实质转折：告状把责任引向他人，最终落回自己。\n\n## 边界与未决\n\n- 阿瑶受罚后的处置（是否幽禁、是否逐出）无记录。\n- 第26章之后她的处境与王母的后续态度均无依据。"
+      },
+      "facets": [
+        {
+          "facet": "权威行使与惩戒",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0022/index.json",
+            "record_id": "char-0022"
+          },
+          "to_ref": {
+            "path": "characters/char-0021/index.json",
+            "record_id": "char-0021"
+          },
+          "attitude": "当殿责罚、以规矩处置",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-14",
+              "chapter_order": 25,
+              "note": "阿瑶被当殿责罚的转折点"
+            }
+          ],
+          "note": ""
+        },
+        {
+          "facet": "依附与求裁",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0021/index.json",
+            "record_id": "char-0021"
+          },
+          "to_ref": {
+            "path": "characters/char-0022/index.json",
+            "record_id": "char-0022"
+          },
+          "attitude": "以告状求上位者裁决",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-7",
+              "chapter_order": 19,
+              "note": "扬言向王母告状"
+            }
+          ],
+          "note": "行为动机为自保，非对抗"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-1",
+          "chapter_order": 25,
+          "note": "灵霄殿蟠桃会：王母当殿责罚阿瑶"
+        }
+      ],
+      "safe_through": 26
+    },
+    {
+      "relationship_ref_or_new": {
+        "existing_ref": {
+          "path": "relationships/pairs/rel-0049.json",
+          "record_id": "rel-0049"
+        },
+        "pair_names": [
+          "孙悟空",
+          "阿瑶"
+        ]
+      },
+      "stage_doc_id": "doc-rel-sunwukong-ayao-stage-003",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "孙悟空×阿瑶：掀座之后的护持与让座",
+          "chapter_ranges": [
+            {
+              "start": 26,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0049.json",
+              "record_id": "rel-0049"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n\n第26章。二人在殿上的直接交集只有这一处记录。\n\n## 互动事实\n\n- 第26章 孙悟空当众认下偷桃并掀翻王母宝座（ev-local-1@26）；其间护持阿瑶，并把宝座让给她（claim-local-7@26）。\n\n## 两端态度（严重不对称）\n\n- 孙悟空→阿瑶：护持与让座，属保护性动作。\n- 阿瑶→孙悟空：本阶段无任何表达依据，故不添加该方向 facet，也不推断她是感激、畏惧还是不解。\n\n## 转折\n\n第19章阿瑶「扬言告状」、第25章被罚、第26章获护持——同一人物在关系中的位置在八章内翻了一次面。\n\n## 边界与未决\n\n- 本条**不作感情定性**：一次护持与一次让座不构成感情升级的依据。\n- 阿瑶对护持的反应、二人此后是否有往来，均无依据（既有 emo-0006 属第1—10章的另一条线索，不可与本条混用）。"
+      },
+      "facets": [
+        {
+          "facet": "护持与让座",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "to_ref": {
+            "path": "characters/char-0021/index.json",
+            "record_id": "char-0021"
+          },
+          "attitude": "保护性动作，且当众完成",
+          "basis_refs": [
+            {
+              "local_id": "claim-local-7",
+              "chapter_order": 26,
+              "note": "对阿瑶的护持与宝座让与"
+            },
+            {
+              "local_id": "ev-local-1",
+              "chapter_order": 26,
+              "kind": "event",
+              "note": "掀翻宝座的具体场景"
+            }
+          ],
+          "note": "单向表达；另一端无依据"
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "local_id": "ev-local-1",
+          "chapter_order": 26,
+          "note": "认下偷桃、掀座并护持阿瑶"
+        }
+      ],
+      "safe_through": 26
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "existing_ref": {
+          "path": "emotions/emo-0005/index.json",
+          "record_id": "emo-0005"
+        },
+        "pair_names": [
+          "紫霞",
+          "孙悟空"
+        ]
+      },
+      "new_assessment": {
+        "id": "assessment-emo-0005-004",
+        "revealed_at": 26,
+        "category": "uncertain",
+        "status": "uncertain",
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/rel-0042.json",
+            "record_id": "rel-0042",
+            "note": "本阶段关系快照 doc-rel-zixia-wukong-stage-003"
+          }
+        ],
+        "notes": "本阶段只有关切与拒收的行为证据，原文未明示恋爱关系，故保持 uncertain，不升级为 romantic"
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [],
+          "record_refs": [
+            {
+              "path": "emotions/emo-0005/index.json",
+              "record_id": "assessment-emo-0005-004"
+            },
+            {
+              "path": "relationships/pairs/rel-0042.json",
+              "record_id": "rel-0042"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n\n本阶段（19—26章）二人的互动密度最高，但可核验的事实都停在「关切与拒绝」层面：她主动接近并说出「因为你有灵魂」（claim-local-20@20）；她讲自己的梦，换来一句「你会有机会的」（claim-local-8、claim-local-11@21）；她赠袍被拒（ev-local-3@24）；她当面判他「和那些神佛没什么不同了」并声明不再来蟠桃园（claim-local-10、claim-local-4@23）。方向是清楚的——她朝他走近，他把她推远。但原文未在任何一处明示二人为恋爱关系，故本阶段定性为 **uncertain**。\n\n## 变化解释\n\n- **走近的理由不是情爱，而是「灵魂」**：她判断人的标准是「有没有灵魂」（claim-local-20@20），这解释了她为何独独不避他（claim-local-16@19）。\n- **退开的理由是立场**：「和那些神佛没什么不同了」（claim-local-10@23）。她否定的不是他这个人，而是他选择的那条路。\n- **赠袍被拒是收束点**（ev-local-3@24）：示好被退回，往来自此中断。第24章之后 buffer 中不再有她的直接行动记录。\n\n## 关系阶段引用\n\n见 relationships/pairs/rel-0042.json 的阶段快照 doc-rel-zixia-wukong-stage-003：三处 facets——她的主动接近与关切（directed 紫霞→悟空）、他的戒备与拒收（directed 悟空→紫霞）、双方的价值分歧与往来中断（symmetric）。两端态度明确不对称：本阶段无任何孙悟空主动示好的记录。\n\n## 推断边界\n\n- 一次赠袍、一句「你有灵魂」、一次被拒，均不构成为恋爱定性；本阶段 assessment 记为 category=uncertain。\n- 紫霞的「前世／松鼠之梦」（claim-local-8@21）与二人关系是否相关，原文未给依据，不作推断。\n- 第25—26章灵霄殿事件中她无出场依据；不得据后续或外部认知回填本阶段感情。\n- 若后续章节出现「承认喜欢」一类明示陈述，需以该章 claim 重新评估；本文件不预判。"
+      }
+    },
+    {
+      "emotional_ref_or_new": {
+        "new_emotion": {
+          "pair_names": [
+            "天蓬",
+            "阿月"
+          ],
+          "label": "天蓬—阿月：星汉为一人而造"
+        }
+      },
+      "new_assessment": {
+        "id": "assessment-emo-0008-001",
+        "revealed_at": 26,
+        "category": "uncertain",
+        "status": "uncertain",
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/rel-0044.json",
+            "record_id": "rel-0044",
+            "note": "本阶段关系快照 doc-rel-tianpeng-ayue-stage-003"
+          }
+        ],
+        "notes": "造星与当众离殿是强互惠与公开承担的行为证据，但原文未明示恋爱/婚姻关系，故记 uncertain"
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "天蓬—阿月感情阶段：星汉为一人而造",
+          "chapter_ranges": [
+            {
+              "start": 20,
+              "end": 26
+            }
+          ],
+          "as_of": 26,
+          "subject_refs": [],
+          "record_refs": [
+            {
+              "path": "emotions/emo-0008/index.json",
+              "record_id": "assessment-emo-0008-001"
+            },
+            {
+              "path": "relationships/pairs/rel-0044.json",
+              "record_id": "rel-0044"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n\n第20章阿月自述星辰银河只为天蓬一人欣赏而造（claim-local-12@20）；天蓬在她到场后放下对孙悟空的旧恨（claim-local-14@20）；第25章她为阿瑶求情遭王母威压，他当众扶她走出灵霄大殿（claim-local-22@25）。事实是双向的、公开的，并且要付代价的。但原文在本阶段未明示恋爱或婚姻关系，故定性为 **uncertain**，只记录「强互惠与公开承担」。\n\n## 变化解释\n\n- 第20章的关键不是星汉本身，而是「只为一人」这个限定：造物被用来表达指向性，而不是表达审美。\n- 第25章的关键是「当众」：扶人出殿是在王母喝止之下完成的，关系由私人偏好变为公开立场，代价是与最高权威正面冲突。\n\n## 关系阶段引用\n\n见 relationships/pairs/rel-0044.json 的阶段快照 doc-rel-tianpeng-ayue-stage-003：三处 facets——阿月的偏护与付出（directed 阿月→天蓬）、天蓬的守护与公开同行（directed 天蓬→阿月）、殿上事件后的公开立场一致（symmetric）。\n\n## 推断边界\n\n- 「只为一人造星」＋「携手出殿」仍是行为证据，不足以确定为 romantic；不得因既有「天蓬×月」线索的联想而升级定性。\n- 阿月与既有档案中的「月／月女神」（第7／9章条目）是否同一人，buffer 无依据，未做身份合并；若后续确认合并，需重估本条。\n- 第26章天将合围时二人的位置无依据，不作推断。"
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "thread_ref": {
+        "path": "threads/thread-0023.json",
+        "record_id": "thread-0023"
+      },
+      "status": "resolved",
+      "chapter_order": 26,
+      "note": "失桃一事在第26章由孙悟空当众认下（ev-local-1@26、claim-local-12@26）而结案；阿瑶的告状威胁在第25章以被王母当殿责罚告终（claim-local-14@25）。",
+      "evidence_local_ids": [
+        "ev-local-1",
+        "claim-local-12",
+        "claim-local-14"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0031.json",
+        "record_id": "thread-0031"
+      },
+      "status": "progressed",
+      "chapter_order": 26,
+      "note": "蟠桃会小桃风波在本阶段由阿瑶受罚（claim-local-14@25）升级为孙悟空认罪掀座的正面冲突（ev-local-1@26），与 thread-0074 合流。",
+      "evidence_local_ids": [
+        "claim-local-14",
+        "ev-local-1"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0074.json",
+        "record_id": "thread-0074"
+      },
+      "status": "progressed",
+      "chapter_order": 26,
+      "note": "大闹灵霄殿正式发生：认下偷桃、掀翻王母宝座（ev-local-1@26）、自报姓名（claim-local-12@26）、天将合围开战（ev-local-2@26）；结局未写。",
+      "evidence_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-12"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0022.json",
+        "record_id": "thread-0022"
+      },
+      "status": "open",
+      "chapter_order": 26,
+      "note": "师承之谜本阶段未推进：紫霞称其师为菩提祖师（claim-local-23@19）与悟空自述「真师父在凡世」（claim-local-27@19）仍只有 reported 依据，无实证。",
+      "evidence_local_ids": [
+        "claim-local-23",
+        "claim-local-27"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0065.json",
+        "record_id": "thread-0065"
+      },
+      "status": "open",
+      "chapter_order": 21,
+      "note": "紫霞反复梦见的无边花园与松鼠（claim-local-8@21）仍为本人猜想，原文未解释；与其「前世」是否相关未明。",
+      "evidence_local_ids": [
+        "claim-local-8"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0026.json",
+        "record_id": "thread-0026"
+      },
+      "status": "open",
+      "chapter_order": 24,
+      "note": "孙悟空「你会有机会的」（claim-local-11@21）未兑现：第23章紫霞被否、第24章赠袍被拒（ev-local-3@24），赴花果山一行未在本阶段发生。",
+      "evidence_local_ids": [
+        "claim-local-11",
+        "ev-local-3"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0072.json",
+        "record_id": "thread-0072"
+      },
+      "status": "progressed",
+      "chapter_order": 26,
+      "note": "身份认同从自封（ev-local-3@24）走到原文诗行中的「齐天大圣孙悟空」（claim-local-21@26），并以「一万年你们都会记住我的名字」（claim-local-12@26）完成自我命名；「妖」的定义（claim-local-20@23）同时被明确。",
+      "evidence_local_ids": [
+        "ev-local-3",
+        "claim-local-21",
+        "claim-local-12",
+        "claim-local-20"
+      ]
+    },
+    {
+      "thread_ref": {
+        "path": "threads/thread-0034.json",
+        "record_id": "thread-0034"
+      },
+      "status": "open",
+      "chapter_order": 26,
+      "note": "阿瑶的归责问题因孙悟空认罪而被打断、处置悬置（ev-local-1@26、claim-local-7@26）；她的最终处境未写。",
+      "evidence_local_ids": [
+        "ev-local-1",
+        "claim-local-7"
+      ]
+    }
+  ],
+  "warnings": [
+    "二郎神（char-0064）建档时 safe_through 仅到 19，本文件按 buffer 回溯补齐至 22 章；其 stage front_matter 的 as_of 按 stage 尾章记 26，但实质内容止于 22，已在正文与 cover_through 字段标明，audit 请勿据此认为 23—26 章有其依据。",
+    "第23章 buffer 中的 character_turn / relationship_shift / revelation / open_thread 条目只提供 claim local_id，无独立 event_ref，因此该章只以 claim 形式组织，未虚构事件引用。",
+    "relationships/index.json 中 rel-0042、rel-0043、rel-0044、rel-0045、rel-0046 已有条目，但对应 pairs/*.json 文件读取为「实体不存在」；落库时需先补建关系实体再挂 stage 快照。",
+    "所有感情 assessment 均记为 category=uncertain：本阶段 buffer 中无任何明示恋爱关系的陈述（「因为你有灵魂」「只为一人造星」「护持与让座」均为单点行为证据，不足以升级为 romantic）。",
+    "孙悟空×阿瑶一句护持与让座（claim-local-7@26）明确不作感情定性；既有 emo-0006（孙悟空—阿瑶，第1—10章）属另一条线索，未与本阶段合并。",
+    "阿月（char-0066）与既有「月」（char-0016）、「月女神」（char-0026）是否为同一人，buffer 无依据，未做 identity_links 合并。"
+  ],
+  "notes_for_audit": [
+    "identity_notes_appends 本阶段全部留空：可追加的候选包括「齐天大圣孙悟空」称号首次出现在原文诗行（claim-local-21@26）与悟空自报姓名（claim-local-12@26），以及紫霞「前世/松鼠之梦」的自猜（claim-local-8@21，属本人猜想、不得升为 confirmed）；但 buffer 只给出 claim local_id、无 events/block-*.json 的真实路径，为避免虚构 claim_refs，暂不写入，待 claim 路径解析后补齐。",
+    "story_thread 存在明显重复条目，本阶段涉及的重复组：thread-0023 ≡ thread-0031（蟠桃失桃/阿瑶告状与受罚）、thread-0074 ≡ thread-0033（大闹天宫）、thread-0026 ≡ thread-0066（带紫霞去花果山的许诺）、thread-0027 ≡ thread-0065（紫霞的梦）、thread-0030 ≡ thread-0073（赠袍被拒）。本次只对每组中一条做 thread_updates，建议后续合并去重。",
+    "新建关系/感情条目的 doc_id 与 assessment id（doc-emo-0008-stage-003、assessment-emo-0008-001）为按现有编号顺序的占位推测，落库层应以 ID 分配器实际结果为准；已存在条目沿用现有 file 名（doc-char-XXXX-stage-003、doc-emo-0005-stage-003）。",
+    "relationship_snapshots 中 basis_refs 与 turning_event_refs 统一使用 buffer 的 {local_id, chapter_order} 形式（事件类另加 kind=event），未编造 events/block-*.json 路径；若需要 pointer 级引用，请在 claim/event 落库后按 (chapter_order, local_id) 回填。",
+    "关系快照严格区分 direction：紫霞→悟空、悟空→紫霞、天蓬→阿月、阿月→天蓬、王母→阿瑶、阿瑶→王母、二郎神→紫霞、悟空→阿瑶 均为 directed 单向记录；凡对方无表达依据的方向（如孙悟空对天蓬、紫霞对二郎神、阿瑶对孙悟空、孙悟空对孙悟空—王母之外）一律不设 facet，避免两端态度自动对称。",
+    "faction_landscape 置 produce=false：factions/index.json 为空，若强行生成格局文档会引入无实体支撑的势力建档；天庭秩序与妖族对立已写在 arc 摘要的「核心目标与冲突」与「阶段结果」中。",
+    "太上老君在 25 章仅有「在威压下改口」（claim-local-17@25）一条依据，未单独生成人物 stage，仅作为王母权威受压环境的证据写入其 stage 与 arc。"
+  ]
+}

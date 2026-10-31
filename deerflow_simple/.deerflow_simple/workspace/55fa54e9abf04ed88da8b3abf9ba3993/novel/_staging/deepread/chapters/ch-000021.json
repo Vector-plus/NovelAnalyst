@@ -1,0 +1,487 @@
+{
+  "chapter_order": 21,
+  "chapter_id": "ch-000021",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "蟠桃园中紫霞问花果山，求孙悟空带她同去",
+      "introduced_at": 21,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 21,
+            "end": 21
+          }
+        ],
+        "revealed_at": 21,
+        "status": "ongoing",
+        "story_time": "天宫的一个清晨",
+        "summary": "清晨紫霞到蟠桃园，见孙悟空睡在树上且手微微抖动。她靠近时被惊醒的孙悟空一把抓住手腕、金箍棒压至头顶，随后收手并警告她不要在他睡着时靠近。紫霞讲自己的梦、问花果山的样子，孙悟空承认花果山很美、并说天上不用找吃的；紫霞请求他回花果山时带她同去，孙悟空答“你会有机会的”后离开。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-5",
+          "claim-local-10"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "天宫又一个清晨，紫霞来到蟠桃园，看见孙悟空躺在树上睡着，他的手在微微抖动。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "他的手却在微微地抖动"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "紫霞靠近时，孙悟空翻身跳起，一把抓住她手腕，金箍棒已砸到她头顶，却在触到她头发的一瞬停住。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "那棒在触到紫霞头发的那一瞬停住了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空问“怎么是你”，并要紫霞以后不要在他睡着时一声不吭靠近他；紫霞问是否做噩梦，孙悟空答“没有”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "以后不要在我睡着时一声不吭靠近我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "紫霞说自己刚睡着时做了一个很美的梦，特别想讲给一个人听，但那些神仙们都不愿听。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "紫霞问花果山是什么样，孙悟空答“花果山？很美……对，很美”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "花果山？很美……对，很美"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "紫霞向孙悟空详细描述她想象中的花果山四季：夏天满山开花、秋天落叶如地毯而山林仍绿、鹿群跳跃、冬天白雪覆盖、冰挂如玉、松鼠在树洞里做梦。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空纠正说花果山的花“是红色的”，并在听完紫霞的描述后说“好像你在那儿住过似的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "连雪落的声音你都听见了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "紫霞称自己一直做同一个梦：梦见一座无边美丽的花园，而她是园中的一只松鼠，并猜想“也许那是我的前世”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "而我是园中的一只松鼠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空说天上不错：有星星有月亮，没有野兽，还不用天天找吃的。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "有星星有月亮，没有野兽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "紫霞说天上太寂寞、太死气沉沉，问孙悟空难道不想回花果山，并请求他回去时带她去，称只看一看、偿了心愿就回天宫。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "你回去时，带我也去看看啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空问“你真的想去”，紫霞使劲点头，孙悟空说“你会有机会的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "你会有机会的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "说完这句后孙悟空一翻身走了；紫霞转身往回走，一想起自己的梦又笑了起来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "然后他一翻身走了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "紫霞对离开的孙悟空称“怪人”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 21,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000021.txt",
+          "chapter_id": "ch-000021",
+          "chapter_order": 21,
+          "locator": null,
+          "anchor": "“怪人。”紫霞转身怏怏地往回走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "note": "蟠桃园中的多次主动接近与交谈"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞主动到蟠桃园找孙悟空，讲自己的梦、追问花果山的样子，并请求他回花果山时带她同去；孙悟空对她靠近极度戒备并出棒（随即收手），警告她不要在他睡着时靠近，否认做噩梦，但在被追问时承认花果山很美、也说天上不用找吃的，最后答应“你会有机会的”后离开。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-13"
+      ],
+      "notes": "仅记录互动事实，不对关系性质作定性；find_similar_relationship 查询未命中既有关系对。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "advance",
+      "title": "紫霞反复出现的“花园/松鼠”之梦与她自猜的“前世”",
+      "summary": "紫霞自述一直做一个梦：一座无边美丽的花园，她是园中的一只松鼠，并猜想那也许是她的前世；她把梦中的四季景象当作花果山来描述，孙悟空听后惊问她“好像你在那儿住过似的”。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "notes": "本章未作任何解释性定论。"
+    },
+    {
+      "category": "plot",
+      "status": "open",
+      "role": "advance",
+      "title": "紫霞请求孙悟空带她回花果山",
+      "summary": "紫霞请求孙悟空回花果山时带她去看看，孙悟空反问“你真的想去”，随后答“你会有机会的”并离开，未给出具体安排。",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11"
+      ],
+      "notes": ""
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第21章：蟠桃园里的梦与花果山",
+    "front_matter": {
+      "as_of": 21,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n天宫的又一个清晨，紫霞来到蟠桃园。她看见孙悟空躺在树上睡着了，而他的手在微微抖动（[[claim-local-1]]）。紫霞走上前，犹豫要不要叫醒他。\n\n## 关键行动\n\n紫霞还没喊出声，孙悟空已翻身跳起，一把抓住她的手腕，金箍棒砸到她头顶——那棒在触到她头发的一瞬停住，重压之势几乎把她压进地里（[[claim-local-2]]）。孙悟空问她“怎么是你”，并要她以后不要在他睡着时一声不吭靠近他；紫霞问他是否做噩梦，他答“没有”（[[claim-local-3]]）。\n\n紫霞转而讲自己的梦：刚睡着时做了一个很美的梦，特别想讲给一个人听，但神仙们都不愿听（[[claim-local-4]]）。她问孙悟空花果山是什么样，孙悟空答“很美……对，很美”（[[claim-local-5]]）。紫霞接着把她想象中的花果山四季详细说出来：夏天的花、秋天如地毯的落叶与跳跃的鹿群、冬天覆盖山野的白雪与玉般的冰挂、以及在树洞里做梦的松鼠（[[claim-local-6]]）。\n\n## 转折与新信息\n\n孙悟空抓住两处细节：花“是红色的”，以及听完描述后说“好像你在那儿住过似的”（[[claim-local-7]]）。紫霞随即自述：她一直做同一个梦，梦见一座无边美丽的花园，而她是园中的一只松鼠，并猜想“也许那是我的前世”（[[claim-local-8]]）。\n\n被问为何上天，孙悟空给出的理由是天上不错：有星星有月亮、没有野兽、不用天天找吃的（[[claim-local-9]]）。紫霞反问天上是否太寂寞、死气沉沉，并直接请求他回花果山时带她去看看，称只看一看、偿了心愿就回天宫（[[claim-local-10]]）。\n\n## 本章结果\n\n孙悟空反问“你真的想去”，见紫霞使劲点头后，只答了一句“你会有机会的”（[[claim-local-11]]），随即翻身离开（[[claim-local-12]]）。紫霞称他“怪人”（[[claim-local-13]]），转身怏怏地往回走，但一想起自己的梦又笑了起来（[[claim-local-12]]）。这一场对话没有形成任何具体承诺或安排（[[ev-local-1]]）。\n\n## 未决问题与补读入口\n\n- 紫霞的“花园与松鼠”之梦是否与她的来历有关：她自猜“前世”，孙悟空反问“好像你在那儿住过似的”，本章均无解释。\n- 孙悟空“你会有机会的”是否指带她回花果山，原文未明说。\n- 孙悟空睡着时手微微抖动、被靠近即出棒的状况，本章未给出原因。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-1",
+      "note": "stage-003 第一个紫霞—孙悟空单独对话场景，含花果山话题与“你会有机会的”承诺性回应"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-8",
+      "note": "紫霞自述反复梦见的无边花园与松鼠身份，并自猜为前世（关键陈述，未解释）"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-7",
+      "note": "孙悟空对紫霞描述花果山的反应：“好像你在那儿住过似的”"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-11",
+      "note": "孙悟空答“你会有机会的”，指向日后回花果山"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-2",
+      "note": "孙悟空戒备反应：被靠近即抓腕出棒（随即收手）"
+    },
+    {
+      "kind": "thread",
+      "ref_local_id": "thread-local-1",
+      "note": "紫霞梦境/前世线索，status=open"
+    },
+    {
+      "kind": "thread",
+      "ref_local_id": "thread-local-2",
+      "note": "紫霞求带往花果山，status=open"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "notes": "本章原文在“孙悟空睁开……眼”一行存在乱码字符（原文呈现为“睁开�杈个�睁开�眼”），该处未取用为 anchor；如后续需要精确定位该行，建议校订源文本。",
+      "chapter_order": 21,
+      "path": "source/vol-001/ch-000021.txt"
+    }
+  ],
+  "warnings": [
+    "本章全部对话内容（含孙悟空对花果山、天上的说法，以及紫霞对梦境与“前世”的说法）均按 reported 处理，未采信为事实。",
+    "紫霞与孙悟空此前是否已有关系档案未能确认：find_similar_relationship 返回 no_match，故按新关系候选提交。",
+    "未登记新场景实体：花果山、蟠桃园可能已有既有 setting 档案，本次无可用查询工具，故未新建场景候选。"
+  ]
+}

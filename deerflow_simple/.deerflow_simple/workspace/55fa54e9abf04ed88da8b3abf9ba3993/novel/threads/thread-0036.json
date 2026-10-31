@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0036",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 28,
+  "label": "琉璃盏碎裂与王母追查",
+  "introduced_at": 28,
+  "updates": [
+    {
+      "id": "update-thread-0036-001",
+      "revealed_at": 28,
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "introduced",
+      "summary": "王母发现殿中的琉璃碎片，追问「是谁扔了我的宝贝琉璃盏」；本章未给出经手人。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0864"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0865"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0230",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 66,
+  "label": "破界之处",
+  "category": "other",
+  "introduced_at": 66,
+  "updates": [
+    {
+      "id": "update-setting-0230-001",
+      "revealed_at": 66,
+      "chapter_ranges": [
+        {
+          "start": 66,
+          "end": 66
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2503"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+{
+  "chapter_order": 61,
+  "chapter_id": "ch-000061",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "五百年前孙悟空破炉复生，大闹天宫直逼灵霄殿",
+      "introduced_at": 61,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 61,
+            "end": 61
+          }
+        ],
+        "revealed_at": 61,
+        "status": "ongoing",
+        "story_time": "五百年前",
+        "summary": "五百年前某日，巨响震醒天宫，孙悟空从炼丹炉中复生。流星探马接连回报：他打死五行官、冲过虚斗门，杀无相真君、过太辰门，李天王军落败、他冲过无忧宫。玉帝传旨令所有天将星官汇集南天门守卫灵霄殿；遣云宫、毗沙宫、无忧宫接连碎裂倒塌，巨灵神、武曲星君先后被抛落南天门前。最终一道金光射入灵霄宝殿，大殿被劈成两半倒下，戴皇冠的小人儿愣坐在瓦砾中，有人高喊去请如来佛祖。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0107/index.json",
+              "record_id": "char-0107"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "武曲星君"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "胃土雉"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-19"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-18",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "紫霞在南天门战场呼唤孙悟空，悟空回头问『你是谁』后离去",
+      "introduced_at": 61,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 61,
+            "end": 61
+          }
+        ],
+        "revealed_at": 61,
+        "status": "concluded",
+        "story_time": "五百年前，天宫大乱之际",
+        "summary": "奎木郎在南天门望见风暴边缘的紫色身影，认出是紫霞。紫霞望着被狂风撕卷、被火燃红的天空，忍不住喊出『孙悟空』。孙悟空越过她身边后回头，对她说出三个字『你是谁？』，随后纵身飞逝，头也不回地飞走，紫霞落泪。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0107/index.json",
+              "record_id": "char-0107"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "本章叙述时间标为「五百年前」；某日巨响震醒天宫，有人心胆俱裂地喊『妖猴复生了』，称其从炼丹炉中复生。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "巨响震醒了天宫"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "流星探马回报：妖猴已打死五行官，冲过了虚斗门。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "妖猴已打死了五行官"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "流星探马回报：无相真君被杀，妖猴已过了太辰门。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "无相真君被杀"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "流星探马回报：李天王军落败，妖猴冲过无忧宫。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "李天王军落败"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "传令神将宣布玉帝旨意：所有天将星官全部汇集南天门，守卫灵霄殿。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "玉帝有旨"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "奎木郎质疑把星辰神灵全部集中到南天门之举，认为那样星座会移位、天穹失衡、人间会起极大恐慌而大乱。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "那样星座就会移位"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "胃土雉对奎木郎说：众神不是为了凡人而存在，人间不过是托起天界的平台。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "胃土雉"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "人间不过是托起天界的平台"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "南天门里挤满退守的诸神；巨灵神头朝下从空中重重砸在南天门前空地上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "却是巨灵神"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "武曲星君随后从空中飞来，撞坏南天门牌楼摔到地上，跳起来还乱挥兵器、连方向也找不着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "武曲星君"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "武曲星君"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "遣云宫、毗沙宫、无忧宫接连碎裂，倒塌声由远及近，红光漫过诸神头顶。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "遣云宫碎了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "奎木郎在南天门望见一个紫色身影站在风暴边缘，心想『是她？』。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "奎木郎忽然看见了一个紫色的身影"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "紫霞站在风暴边缘望着被狂风撕卷、被火燃红的天空，忍不住喊出『孙悟空！』。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "紫霞忍不住叫道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空越过紫霞身边后回头，有些吃惊地看她，并说了三个字：『你是谁？』。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "你是谁？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "据本章对话与紫霞自述，复生后的孙悟空已不认得紫霞。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "你是谁？"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_order": 61,
+          "anchor": "他记忆中只有刻骨仇恨"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "紫霞自述：她不能再向孙悟空解释什么，他已不再记得她，记忆中只有刻骨仇恨，甚至连恨她也不会了；从此世上再没有人想起她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "他记忆中只有刻骨仇恨"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空一纵飞逝，头也不回地飞走了；紫霞的泪流了下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "孙悟空头也不回地飞走了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "紫霞望着远去的高大身影，说过『尽情地飞吧，忘记情感才能有这样的力量啊！』。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "尽情地飞吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "金光射入灵霄宝殿，大殿轰然分成两半向两边倒下去，金光停也未停地游走。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "金光射入了灵霄宝殿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "本章将奎木郎置于星位上，让他目睹诸星官慌乱奔跑、星座急剧移动变形的天宫乱局。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "奎木郎站在他的星位上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "灵霄殿倒塌后，只剩一个戴皇冠的小人儿愣愣地坐在露天瓦砾中，有人高喊『快去请如来佛祖』。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "快去请如来佛祖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "末段『戴皇冠的小人儿』即玉帝（本章未直接点名，据前文玉帝传旨守灵霄殿一节推定）。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "revealed_at": 61,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "locator": null,
+          "anchor": "剩下一个戴皇冠的小人儿愣愣地坐在露天瓦砾中"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_order": 61,
+          "anchor": "玉帝有旨"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "武曲星君",
+      "introduced_at": 61,
+      "alias_texts": [],
+      "identity_notes": "天宫星君，五百年前天宫之乱中被抛落南天门，撞坏牌楼。本章未与其他已建档实体关联。",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "胃土雉",
+      "introduced_at": 61,
+      "alias_texts": [],
+      "identity_notes": "天宫星宿之一（二十八宿名号），在南天门向奎木郎解释诸神不为凡人存在的立场。本章未与其他已建档实体关联。",
+      "evidence_claim_local_ids": [
+        "claim-local-7"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "炼丹炉",
+      "category": "artifact",
+      "introduced_at": 61,
+      "notes": "孙悟空从中复生的炉具（本章称『妖猴复生了……炼丹炉中复生了』）。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "label": "呼唤与不识"
+      },
+      "certainty": "explicit",
+      "summary": "五百年前天宫之乱中，紫霞在风暴边缘喊出孙悟空之名；孙悟空回头看她并说『你是谁？』，随后头也不回地飞走，紫霞落泪。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-16"
+      ],
+      "notes": "仅记录本章可核的互动事实与对话；紫霞自述其不再被记得见 claim-local-15。不对感情性质作判定。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "复生后的孙悟空不认得紫霞，其记忆据紫霞自述只剩刻骨仇恨——旧日经历与记忆的去向成为悬置问题。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    {
+      "category": "conflict",
+      "status": "open",
+      "role": "setup",
+      "summary": "五百年前天宫被攻破，灵霄殿倒塌，玉帝一方呼救如来，天界最高层战力即将介入。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-18",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "character_arc",
+      "status": "open",
+      "role": "setup",
+      "summary": "奎木郎在天宫之乱中目睹宫殿倒塌与诸神失序，质疑玉帝集兵南天门会使天穹失衡、人间大乱。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-10",
+        "claim-local-19"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第61章：五百年前——破炉、天宫之乱与『你是谁』",
+    "front_matter": {
+      "as_of": 61,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0107/index.json",
+          "record_id": "char-0107"
+        },
+        {
+          "candidate_name": "武曲星君"
+        },
+        {
+          "candidate_name": "胃土雉"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n本章叙述时间标为「五百年前」。一道光芒、一声巨响、喷薄的烈火之后，天宫被惊醒，有人惊呼妖猴从炼丹炉中复生（[[claim-local-1]]）。视角落在星宿奎木郎身上：他站在自己的星位上，看着血红色火焰在天宫漫开，四周星宿乱成一片，诸星官慌乱奔跑（[[claim-local-19]]）。从下界看，是宇宙深处泛红、星座急速移动变形。\n\n## 关键行动\n\n流星探马接连来回穿梭，战报一封比一封紧迫：五行官被打死、虚斗门被冲过（[[claim-local-2]]）；无相真君被杀、太辰门失守（[[claim-local-3]]）；李天王军落败、无忧宫被冲过（[[claim-local-4]]）。传令神将掠过赤九星座，宣布玉帝旨意：所有天将星官全部汇集南天门，守卫灵霄殿（[[claim-local-5]]）。\n\n奎木郎当面质疑这道命令——把星辰神灵全部集中到南天门，星座会移位、天穹失衡、人间会起极大恐慌而大乱（[[claim-local-6]]）。胃土雉答以另一套立场：众神不为凡人而存在，人间不过是托起天界的平台（[[claim-local-7]]）。\n\n南天门挤满退守的诸神，景象「像人间的难民」。巨灵神头朝下重重砸在门前空地（[[claim-local-8]]），随后武曲星君撞坏南天门牌楼摔到地上，跳起来还乱挥兵器、连方向也找不着（[[claim-local-9]]）。遣云宫、毗沙宫、无忧宫接连碎裂，倒塌声一步步逼近，红光漫过诸神头顶（[[claim-local-10]]）。\n\n## 转折与新信息\n\n奎木郎在风暴边缘望见一个紫色身影，心想「是她？」（[[claim-local-11]]）。紫霞望着被狂风撕卷、被火燃红的天空，忍不住喊出「孙悟空！」（[[claim-local-12]]）。\n\n孙悟空越过她身边后回头，有些吃惊地看她，说了三个字：「你是谁？」（[[claim-local-13]]）。由此可推，此刻的孙悟空已不认得紫霞（[[claim-local-14]]）；紫霞自述她已无法向他解释，他不再记得她，记忆里只有刻骨仇恨，甚至连恨她也不会了，从此世上再没有人想起她（[[claim-local-15]]）。\n\n她望着那高大身影，说出「尽情地飞吧，忘记情感才能有这样的力量啊！」（[[claim-local-17]]）。孙悟空头也不回地飞走，她的泪流了下来（[[claim-local-16]]）。叙述随即抛出一问式的旁白笔法：孙悟空活了，但活过来的真的是孙悟空么。\n\n战场另一侧，金光射入灵霄宝殿，大殿轰然分成两半向两边倒下，金光未曾停留地游走（[[claim-local-18]]）。只剩一个戴皇冠的小人儿愣愣坐在露天瓦砾中，有人高喊「快去请如来佛祖——！」（[[claim-local-20]]，据前文玉帝传旨一节，该身影应指玉帝：[[claim-local-21]]）。\n\n## 本章结果\n\n- 天宫防线全面崩溃：五行官、无相真君、李天王军相继失利，三座宫殿碎毁，诸神退守南天门（[[claim-local-2]]，[[claim-local-3]]，[[claim-local-4]]，[[claim-local-10]]）。\n- 灵霄宝殿被金光劈成两半，玉帝一方转入呼救如来的最后一步（[[claim-local-18]]，[[claim-local-20]]）。\n- 紫霞与孙悟空在南天门战场正面相遇，孙悟空只回以「你是谁？」便飞走，紫霞留在原地落泪（[[claim-local-12]]，[[claim-local-13]]，[[claim-local-16]]）。\n- 奎木郎以旁观者身份记录这一切，并对天宫应对方式提出质疑（[[claim-local-6]]，[[claim-local-19]]）。\n\n## 未决问题与补读入口\n\n- 孙悟空为何不认得紫霞、他的旧日记忆去了哪里（[[claim-local-13]]，[[claim-local-15]]）。\n- 「快去请如来佛祖」之后天宫之乱如何收束，如来是否登场（[[claim-local-20]]）。\n- 奎木郎由天宫乱局生出的动摇，将在其后如何延续（[[claim-local-6]]，[[claim-local-11]]）。\n- 本章为「五百年前」的独立闪回，与第60章结尾（黄袍怪与百花羞之约）不直接衔接；第62章开头转向「五百年后 宝象国」。\n- 原文存在 OCR 乱码段（如「从/p>生了…炼丹炉中复生了」「你是谁…是谀」），影响该处字面精读。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "stage-007 首章即回退至五百年前，交代天宫被破的原始场面（破炉→诸宫碎毁→灵霄殿倒→呼救如来）"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "note": "紫霞与孙悟空的正面相遇与「你是谁」对话，为本章情感/记忆线索的关键节点"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-13",
+      "note": "孙悟空不认得紫霞的直接台词证据，后续记忆/身份线索的基准点"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-15",
+      "note": "紫霞自述“他记忆中只有刻骨仇恨”“世上再没有人想起我”，为记忆主题的关键转述"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-20",
+      "note": "玉帝呼救如来，天界最高战力介入的起点，交接后续章节"
+    },
+    {
+      "kind": "character",
+      "candidate_name": "奎木郎",
+      "note": "本章视角人物，其对玉帝应对的质疑可作 character_arc 追踪起点"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "原文含多处 OCR 乱码：「妖猴复生了，从/p>生了�炼丹炉中复生了！」以及「你是谁�\"2em\"����是谀�」，后者似为紫霞内心独白段落被串行压缩。",
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61
+        }
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章末只以「戴皇冠的小人儿」指称玉帝，未直接点名；本条已按前文玉帝传旨一节作 inferred 处理，若后续章节明示可升级为 explicit。",
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61,
+          "anchor": "剩下一个戴皇冠的小人儿愣愣地坐在露天瓦砾中"
+        }
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "五行官、无相真君、李天王、传令神将、流星探马等仅在战报与过场中出现，未建立实体档案，且五行官与无相真君已被报称死亡；本轮未建候选，如需追踪需回读本章。",
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000061.txt",
+          "chapter_id": "ch-000061",
+          "chapter_order": 61
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "本章为「五百年前」闪回章，叙述时间与第60章（第五天）不连续；第62章开头标注「五百年后 宝象国」，故本章人物状态不得回填至第61章之后的现时线。",
+    "原文多处 OCR 乱码，个别句子（尤其紫霞独白）无法可靠断句，相关 claim 的 anchor 取自可唯一匹配的短片段。",
+    "「戴皇冠的小人儿」是否即玉帝为推断（claim-local-21），非原文点名。",
+    "紫霞与孙悟空的过往关系在本章仅有对话与自述材料，未对关系性质作出定性。",
+    "工具调用已达预算上限（约19次），部分配角（五行官、无相真君、李天王）未建立候选档案，改以 issue_candidates 记录。"
+  ]
+}

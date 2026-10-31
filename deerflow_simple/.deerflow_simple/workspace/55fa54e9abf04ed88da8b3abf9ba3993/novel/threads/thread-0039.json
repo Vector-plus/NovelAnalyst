@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0039",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 2,
+  "label": "唐僧丛林遇险与呼救",
+  "introduced_at": 2,
+  "updates": [
+    {
+      "id": "update-thread-0039-001",
+      "revealed_at": 2,
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "唐僧在紫色丛林被怪树与妖怪围困，脚被藤蔓缠住、妖怪搭肩，最后大喊救命；呼救是否被徒弟们听见、如何脱身尚未交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0918"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0919"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0921"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

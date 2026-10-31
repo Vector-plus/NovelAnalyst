@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0049",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "金蝉子质疑小乘佛法的往事故事",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0049-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "background_revelation",
+      "status": "open",
+      "role": "introduced",
+      "summary": "绿衣女孩称金蝉子曾质疑小乘佛法、欲自行通悟，结果走火入魔陷于万劫之中，并极力为其辩护；唐僧则评「他笨嘛」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1073"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1074"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

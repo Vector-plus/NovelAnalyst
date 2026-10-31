@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0096",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 42,
+  "label": "天庭遭袭、灵霄殿顶端身影",
+  "introduced_at": 42,
+  "updates": [
+    {
+      "id": "update-thread-0096-001",
+      "revealed_at": 42,
+      "chapter_ranges": [
+        {
+          "start": 42,
+          "end": 42
+        }
+      ],
+      "category": "conflict",
+      "status": "open",
+      "role": "new",
+      "summary": "章首天庭被燃烧星尘摧毁、诸神惊慌躲藏，灵霄殿顶端有一未具名身影狂笑；本章未交代其身份与后续。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1896"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1897"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

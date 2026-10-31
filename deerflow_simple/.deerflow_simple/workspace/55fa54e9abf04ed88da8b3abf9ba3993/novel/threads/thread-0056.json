@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0056",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "唐僧肉身只剩半边与魂魄归处",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0056-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "unresolved_mystery",
+      "status": "open",
+      "role": "raise",
+      "summary": "猪八戒称师父的身子烧坏了只剩半边；孙悟空提出去地府带回唐僧鬼魂以便继续取经。唐僧死亡/肉身损毁的具体经过在本章未直接叙述。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

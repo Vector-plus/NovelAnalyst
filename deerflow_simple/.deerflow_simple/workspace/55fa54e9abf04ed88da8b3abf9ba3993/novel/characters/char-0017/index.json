@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0017",
+  "kind": "entity_index",
+  "revision": 4,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "小白龙",
+  "introduced_at": 8,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0017/stages/stage-001.md",
+        "record_id": "doc-char-0017-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0017/stages/stage-002.md",
+        "record_id": "doc-char-0017-stage-002"
+      },
+      "kind": "character_stage",
+      "title": "离水入世：从龙宫到随行与被放归",
+      "summary": "离水入世：从龙宫到随行与被放归（第11—18章）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "characters/char-0017/stages/stage-004.md",
+        "record_id": "doc-char-0017-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "守墓、隐瞒与私雨：被罚者的三次承担",
+      "summary": "守墓、隐瞒与私雨：被罚者的三次承担（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

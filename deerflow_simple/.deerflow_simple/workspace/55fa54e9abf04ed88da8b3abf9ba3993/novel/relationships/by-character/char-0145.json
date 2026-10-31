@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0145",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 54,
+  "title": "老猴 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 54,
+        "end": 54
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0145/index.json",
+        "record_id": "char-0145"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0064.json",
+        "record_id": "rel-0064"
+      },
+      "kind": "relationship",
+      "title": "老猴×石头",
+      "summary": "与老猴×石头的关系",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0145/index.json",
+          "record_id": "char-0145"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 54
+    }
+  ]
+}

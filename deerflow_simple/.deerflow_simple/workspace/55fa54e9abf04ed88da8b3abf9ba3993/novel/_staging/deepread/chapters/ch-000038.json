@@ -1,0 +1,927 @@
+{
+  "chapter_order": 38,
+  "chapter_id": "ch-000038",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "风雪中孙悟空与不明对手的镜像之战",
+      "introduced_at": 38,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 38,
+            "end": 38
+          }
+        ],
+        "revealed_at": 38,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空在风雪中与一个对手交战，对方招式与金箍棒质地都与他等同：他变幻位置、连出上百招却只击中空气；双棒相击时力量互消，像砸在钢铁上。孙悟空推断对方与他一样同时向四面八方攻击、同样击不中自己，因而此战也许永不能分出胜负。他想起观音关于紧箍咒的话，反而越打越快，诸神只听见兵器相击声连成一片嚣鸣。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "不明对手（与孙悟空招式相同）"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-7"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "万灵之森唐僧墓前：小白龙与猪八戒谈江流与西行",
+      "introduced_at": 38,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 38,
+            "end": 38
+          }
+        ],
+        "revealed_at": 38,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "人界万灵之森大雪，小白龙跪在唐僧的墓前，对着墓呼唤「江流」。猪八戒误以为江流是小白龙的前任男友，小白龙说明江流就是师父、玄奘。两人随后争论唐僧的性情变化、八戒被起名「猪八」、取经的任务性质与天谴，最后小白龙叹息没人告诉他们西天在哪儿，八戒抬头说出「雪在烧」之语。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空在风雪中遭遇一个他从未见过的对手，感到自己的每一举动都在对方预料之中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 2
+          },
+          "anchor": "孙悟空发现自己遇上了从未见过的对手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空觉得自己像在同一个幻影作战：每次认为要击中对手时，对手都奇迹般地避开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 4
+          },
+          "anchor": "孙悟空觉得自己在同一个幻影作战"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空一瞬之间变幻几十个位置、攻出上百招，但每次金箍棒击下都只击中空气。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 5
+          },
+          "anchor": "每次金箍棒击下，却又只击中了空气"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空的金箍棒与对手的棒相撞，他感觉自己像用力击在钢铁上，金箍棒嗡鸣，震荡从手心直传到心脏。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 14
+          },
+          "anchor": "震荡从手心直传到心脏"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空想到：对手与他一样同时向四面八方攻击，因此同样无法击中目标；他每次能击中对手时也是对手能击中自己之时，所以双棒相击、力量互消。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 11
+          },
+          "anchor": "他每次可以击中对手时，也是对手可以击中自己之时"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空疑惑自己究竟在和什么作战，并判断这样下去战斗也许永远分不出胜负。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 19
+          },
+          "anchor": "战斗也许是永不能分出胜负的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "观音（据孙悟空回忆）曾说：「你杀了他，紧箍咒自然就解除了」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 20
+          },
+          "anchor": "你杀了他，紧箍咒自然就解除了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空在激战中想起观音那句话，决意不能输，大吼「我就不信打不中你！」，把棒舞得更快更急。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 21
+          },
+          "anchor": "我就不信打不中你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "旁观的天神只听见风雪中兵器相击声越来越密，最后连成一片刺耳的嚣鸣。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 22
+          },
+          "anchor": "成为一种刺耳的嚣鸣"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "人界万灵之森中，大雪把唐僧的墓覆盖成一个白丘，与白茫茫的大地融成一体。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 23
+          },
+          "anchor": "看着大雪把唐僧的墓覆盖成一个白丘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "小白龙跪在唐僧墓前说：天空快要烧塌了、世界就要毁灭了，并呼唤「江流」是否会有一个地方在等他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 24
+          },
+          "anchor": "江流，会不会有一个地方，你在那儿等我？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "猪八戒把「江流」当成小白龙的前任男友，说这名字比「秃子」强。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 25
+          },
+          "anchor": "你的前任男友？听名字就比秃子强"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "小白龙说：「江流就是师父，就是玄奘，就是你们说的秃子！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 26
+          },
+          "anchor": "江流就是师父，就是玄奘，就是你们说的秃子！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "小白龙说从前见到的江流像自在的流水，现在的唐僧却像深不可测的湖泊。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 28
+          },
+          "anchor": "从前像自在的流水，而现在，却像深不可测的湖泊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "猪八戒抱怨唐僧整天没个好脸色，好像谁都欠他八百两银子，还给他起名叫「猪八」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 29
+          },
+          "anchor": "好像谁都欠他八百两银子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "猪八戒说唐僧每次都不喊他名字后面的「戒」，害得「猴子」和「沙包」都跟着喊。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 31
+          },
+          "anchor": "害的猴子沙包都跟着喊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "小白龙说师父以前看什么都是笑着的、像看朋友一样，并推测西天的路太苦、他们又处处和唐僧过不去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 32
+          },
+          "anchor": "像看着朋友一样"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "猪八戒说他们只是负责完成任务的人，如同公差把囚犯押到目的地，交差走人，不必与囚犯交流感情。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 33
+          },
+          "anchor": "就好像公差把囚犯押到目的地"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "小白龙反驳说：「我们除了师父，哪一个不是受了天谴的人？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 34
+          },
+          "anchor": "我们除了师父，哪一个不是受了天谴的人？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "小白龙长叹说：「说是到了西天就功德圆满，可是没人告诉我们西天在哪儿啊？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 36
+          },
+          "anchor": "可是没人告诉我们西天在哪儿啊？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "猪八戒说母亲生他时也没告诉他猪一生的意义，并说自己当初只顾跟着兄弟抢奶头。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 37
+          },
+          "anchor": "也没告诉俺猪一生的意义是什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "猪八戒抬头望天说：「你看，雪在烧，龙要下海，猪要上天了。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 38,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000038.txt",
+          "chapter_id": "ch-000038",
+          "chapter_order": 38,
+          "locator": {
+            "para": 39
+          },
+          "anchor": "你看，雪在烧，龙要下海，猪要上天了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "江流",
+      "introduced_at": 38,
+      "alias_texts": [
+        "江流"
+      ],
+      "identity_notes": "仅在小白龙与猪八戒的对话中出现，未以本人身份登场。小白龙称「江流就是师父，就是玄奘」；猪八戒则误以为是小白龙的前任男友。该名与已建档「唐僧」的关系由角色口述给出，未合并建档。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14"
+      ]
+    },
+    {
+      "label": "不明对手（与孙悟空招式相同）",
+      "introduced_at": 38,
+      "alias_texts": [
+        "对手"
+      ],
+      "identity_notes": "风雪中与孙悟空交战者，其招式、行动方式与金箍棒质地似与孙悟空等同；本章未给出姓名、面貌或身份说明，孙悟空自己也不确定「究竟在和什么作战」。本章不据第37章前文推断其身份。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "万灵之森",
+      "category": "place",
+      "introduced_at": 38,
+      "notes": "位于人界的森林，本章场景标注为「人界　万灵之森」；唐僧的墓在此，正逢大雪。可能已有档案，需下游去重。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11"
+      ]
+    },
+    {
+      "label": "唐僧的墓",
+      "category": "object",
+      "introduced_at": 38,
+      "notes": "位于万灵之森，被大雪覆盖成白丘；小白龙跪于其前呼唤「江流」。墓的存在为本章原文叙述（「唐僧的墓」）。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-10"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "left": {
+        "candidate_name": "江流"
+      },
+      "right": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "relation": "same_person_suspected",
+      "certainty": "reported",
+      "summary": "小白龙在唐僧墓前明言「江流就是师父，就是玄奘，就是你们说的秃子」，将「江流」指向唐僧。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-11"
+      ],
+      "notes": "依据仅为角色对白（reported），本章未见叙述层直接确认；按身份谨慎原则不自动合并，交由 StageCommit 判定。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "reported",
+      "summary": "小白龙称唐僧为「师父」，并说「江流就是师父，就是玄奘」；他守在唐僧墓前呼唤其旧名。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-14"
+      ],
+      "notes": "关系定性来自小白龙自述，未经叙述层确认；已查无既有关系对。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "reported",
+      "summary": "猪八戒称唐僧为师父，抱怨其整天没好脸色、给他起名「猪八」且从不肯喊出「戒」字。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": "关系定性来自猪八戒自述。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "两人在万灵之森唐僧墓前对话：小白龙倾诉并多次纠正八戒的说法，八戒抱怨师父与取经任务；小白龙把八戒等人都归为「受了天谴的人」。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "仅记录互动事实，不作感情定性；已查无既有关系对。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_key": "孙悟空与同貌对手的未决之战",
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "advance",
+      "summary": "孙悟空与招式、兵器都与他等同的对手交战，力量互消、无法分出胜负；他因观音关于紧箍咒的话而不肯退让。对手身份在本章未揭示。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-8"
+      ],
+      "event_local_ids": [
+        "ev-local-1"
+      ]
+    },
+    {
+      "thread_key": "西行任务、唐僧之死与「西天在哪儿」",
+      "category": "mystery",
+      "status": "ongoing",
+      "role": "advance",
+      "summary": "唐僧的墓立于人界万灵之森；小白龙与猪八戒讨论唐僧由「江流」到如今的变化，并指出没人告诉他们西天在哪儿、取经者本身也是受天谴/被押送的囚犯。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-14",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ],
+      "event_local_ids": [
+        "ev-local-2"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第38章：风雪中的镜像之战与万灵之森墓前夜话",
+    "front_matter": {
+      "as_of": 38,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "candidate_name": "江流"
+        },
+        {
+          "candidate_name": "不明对手（与孙悟空招式相同）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-7",
+        "claim-local-13",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n风雪之中，孙悟空与一个「从未见过的对手」交上了手；他感到自己的每一举动都在对方预料之中。同一章另开一条线：人界万灵之森大雪，小白龙跪在唐僧的墓前，墓已被雪覆盖成一个白丘（见 [[ev-local-1]]、[[ev-local-2]]）。\n\n## 关键行动\n\n- 孙悟空变幻几十个位置、攻出上百招，金箍棒却每次都只击中空气；偶尔下意识一挥，反而与对方的棒相撞。\n- 双棒相击时，他感觉像用力砸在钢铁上，金箍棒嗡鸣、震荡从手心直传到心脏。\n- 他由此推断：对手与他一样同时向四面八方攻击，所以同样击不中目标；他能击中对手的那一刻，也是对手能击中他的时刻，故而两棒互击、力量互消。\n- 他想起 [[claim-local-7]] 这句观音的话，决意不能输，大吼「我就不信打不中你！」把棒舞得更快更急；旁观的天神只听见兵器相击声越来越密，连成一片刺耳的嚣鸣。\n- 墓前一线：小白龙对着墓呼唤「江流」；猪八戒误以为江流是小白龙的前任男友，小白龙纠正——[[claim-local-13]]。此后两人围绕唐僧的性情、八戒名字被喊成「猪八」、取经者的处境与任务性质反复争论。\n\n## 转折与新信息\n\n- 交战层面：孙悟空判断此战「也许永不能分出胜负」，并自问「他究竟在和什么作战」；对手的招式、兵器质地似与被他自己等同，其身份在本章没有交代。\n- 名称层面：小白龙口述「江流 = 师父 = 玄奘 = 秃子」，为本章唯一的身份类新信息（仅角色口述，未作实体合并）。\n- 处境层面：小白龙称「我们除了师父，哪一个不是受了天谴的人」（[[claim-local-19]]），猪八戒则把他们的角色比作公差押囚犯、交差即走。\n- 疑问层面：[[claim-local-20]]——说是到了西天就功德圆满，却没人告诉他们西天在哪儿。\n- 章末，八戒抬头望天说「你看，雪在烧，龙要下海，猪要上天了」，局面未收束。\n\n## 本章结果\n\n- 孙悟空与不明对手的战斗仍在进行，胜负未分，对手身份未明。\n- 唐僧之墓立于人界万灵之森，小白龙在墓前守候倾诉；猪八戒与其完成一段关于师父与西行的对话，无实际任务推进或决定产生。\n\n## 未决问题与补读入口\n\n- 与孙悟空对阵的「对手」是谁、为何招式与兵器都与他等同？本章不给答案（第39章开头写天宫忽静、雪雾散开，可作为后续入口）。\n- 观音所说「你杀了他，紧箍咒自然就解除了」中的「他」指谁，本章未指明。\n- 唐僧的墓为何在万灵之森、其死因与「江流」这一旧名的来历，本章仅有对白，需回查前文。\n- 猪八戒提到的「猴子」「沙包」两个称呼指向何人，本章未解释（「沙包」疑为某人的绰号，已登记待查）。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "ref_local_id": "ev-local-1",
+      "chapter_order": 38,
+      "note": "孙悟空与招式、兵器等同的不明对手交战，力量互消，胜负未分；章末无收束。"
+    },
+    {
+      "kind": "key_event",
+      "ref_local_id": "ev-local-2",
+      "chapter_order": 38,
+      "note": "唐僧之墓出现在人界万灵之森，小白龙跪墓呼唤「江流」。"
+    },
+    {
+      "kind": "key_statement",
+      "ref_local_id": "claim-local-13",
+      "chapter_order": 38,
+      "note": "小白龙明言「江流就是师父，就是玄奘」——身份线索，仅口述。"
+    },
+    {
+      "kind": "key_statement",
+      "ref_local_id": "claim-local-7",
+      "chapter_order": 38,
+      "note": "孙悟空回忆观音之言：杀了他，紧箍咒自然解除。"
+    },
+    {
+      "kind": "character_turning_point",
+      "ref_local_id": "claim-local-8",
+      "chapter_order": 38,
+      "note": "孙悟空由困惑转为硬拼，主动加速攻势，不肯认输。"
+    },
+    {
+      "kind": "key_statement",
+      "ref_local_id": "claim-local-20",
+      "chapter_order": 38,
+      "note": "取经者对「西天在哪儿」的公开疑问。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "第37段（小白龙长叹一段）存在乱码片段：「虽然他没有䕌就����没朸�天要他赎罪，可我看他心里却好像比我们每个人心里都沉」，文字损坏，无法确认原意，未据此产出 Claim。",
+      "evidence": "原文段落含替换字符（�），疑编码/切分问题",
+      "suggested_action": "回查 source-v1 原始文件或对照其他版本校订该句后再提取"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "「江流」为本章出现的新名字，解析无既有实体，仅由小白龙口述等同唐僧；未合并建档，另登记 identity_link_candidate。",
+      "evidence": "claim-local-13",
+      "suggested_action": "由 StageCommit 结合前文（唐僧身世相关章节）判定是否合并至 char-0001"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "「沙包」仅出现在猪八戒对白中（「害的猴子沙包都跟着喊」），疑为某同行者的绰号，本章未指明指代对象，未解析建档。",
+      "evidence": "claim-local-16",
+      "suggested_action": "回查相关章节确认「沙包」「猴子」所指"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "与孙悟空交战的不明对手本章未给名字/面貌；第37章结尾出现「和他一模一样的脸」，本章未在叙述层确认二者同一（二者是否同一人属推断，未采纳）。",
+      "evidence": "claim-local-1 / claim-local-6",
+      "suggested_action": "待第39章揭示后回填身份链接"
+    }
+  ],
+  "warnings": [
+    "本章原文存在一处乱码段落（小白龙长叹一段），相关语义未纳入 Claim，已登记 issue。",
+    "工具调用次数略超预算（约 22 次，主要用于对 8 条陈述与 2 个事件做去重），后续章建议合并同类去重调用。",
+    "「江流」「不明对手」「万灵之森」均按候选登记，未与既有档案合并；「万灵之森」「唐僧的墓」是否已有 setting 档案未经 dedupe 校验（无对应工具），请下游去重。"
+  ]
+}

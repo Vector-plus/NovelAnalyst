@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0001",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 10,
+  "label": "猪八戒—阿瑶：感情阶段（类型未定）",
+  "introduced_at": 1,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 10
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "revealed_at": 10
+    }
+  ],
+  "assessments": [],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0001/stages/stage-001.md",
+        "record_id": "doc-emo-0001-stage-001"
+      },
+      "kind": "emotional_stage",
+      "title": "猪八戒—阿瑶：感情阶段（类型未定）",
+      "summary": "猪八戒—阿瑶：感情阶段（类型未定）（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "stage_range": {
+    "start": 11,
+    "end": 18
+  },
+  "as_of": 18,
+  "arc_summary": {
+    "doc_id": "doc-arc-002",
+    "front_matter": {
+      "title": "三界奔走·追查真相",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        },
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        }
+      ],
+      "source_refs": [],
+      "tags": [
+        "arc",
+        "stage-002"
+      ],
+      "safe_through": 18
+    },
+    "body_markdown": "## 阶段范围\n\n第 11—18 章（共 8 章）。本阶段三条线并行推进：孙悟空自地府→龙宫→灵霄殿的追查线（11、12、18 章），小白龙自龙宫出走→入世→随行→被放归的线（12—17 章），玄奘自金山寺成名→离寺远行的线（15—17 章）。地府与天庭两处场景构成\"上层已布好棋局\"的背景。\n\n## 起始局面\n\n本阶段开始时，取经队伍的\"林中之变\"已成事实（上一阶段结果）：唐僧肉身与魂灵分离，孙悟空须取回和尚魂灵，小白龙与队伍离散。三方各自握着不同碎片：孙悟空只有\"从山下爬出、见和尚微笑\"这一记忆起点（claim-local-11，第 11 章），并自陈来意为取回和尚魂灵；小白龙尚在龙宫之外游荡；玄奘仍在金山寺，尚未与取经主线直接接合。\n\n## 核心目标与冲突\n\n- **孙悟空的目标**：取回和尚魂灵，并弄清自己是谁。冲突在于他触到的每一层信息都提示他\"被安排\"：判官称\"观世音的主意起作用、孙悟空如被驯服的狗\"（claim-local-17，第 11 章），暗示其记忆缺失与受制并非偶然。\n- **地府冲突**：孙悟空折返掷飞幽冥王、杀入鬼卒，幽冥王被掷撞陷空山、地府权威受挫（claim-local-19，第 11 章），地府与孙悟空的关系由交涉转为公开敌对（ev-local-2，第 11 章）。\n- **小白龙的冲突**：\"离水失神通\"的能力限制（ev-local-1，第 14 章）使他必须以鲤鱼之形介入人间；其动机自陈为\"想了解一个人、探知他的心\"（claim-local-1，第 14 章），这与龙宫身份构成张力——他既已与父王重逢并被允准带走定颜珠，仍选择离开（claim-local-10，第 12 章）。\n- **天庭/上层的冲突**：天庭明令不得帮助那四人、四人命数由上天定好不可违改（claim-local-8，第 12 章）；太上老君已布十万天兵并断言孙悟空什么都不记得，玉帝态度受其影响（cl-8，第 18 章）。\n\n## 关键转折\n\n1. **第 11 章·地府**：引路鬼叙述五百年前勾销并烧尽生死簿之人被称为魔王、引发百年神魔战争（claim-local-9），把孙悟空的\"失忆\"与一段被抹去的历史并置；随即孙悟空动手，地府转为公开敌对。\n2. **第 12 章·龙宫后殿**：一个\"去而复返的孙悟空\"亮金箍棒一击，血雾弥散，敖广生死未明，敖广当场称\"你……你是另一个……\"（ev-local-3、claim-local-28）。这是全书\"两个孙悟空\"最明确的台词级提示，同时意味着本章暴力行为的归属**尚未裁定**（来访者行为逻辑与孙悟空不同，claim-local-24）。\n3. **第 14—15 章·入世与成名**：小白龙由水入世接触凡人；玄奘在公开场合以机锋令云游禅师认输而\"一战成名\"（ev-local-3，第 15 章），自陈\"天遮不住眼、诸佛烟消云散\"（claim-local-35）；他称看见\"会脸红的白色百灵\"（claim-local-24），是否已识破小白龙身份留作悬念。\n4. **第 16 章·远行起点**：玄奘正式离寺远行，携化金色鲤鱼的小白龙（ev-local-3、claim-l23）；如来\"是他。他又回来了。\"（claim-l2）为高悬念钩子，指代未明。\n5. **第 17 章·放归**：玄奘放归小白龙，小白龙欲现真身相伴而最终未行、未表露身份，向出海口游去，珍珠沉江（ev-local-1、claim-local-10、claim-local-9）。\n6. **第 18 章·灵霄殿**：\"五百年后\"时间跳转（cl-1），孙悟空自认不记得天宫；沙悟净当殿指证他与万灵之森女妖阿瑶勾结害师（cl-15），太上老君自述沙悟净为其安插在取经队伍中的监视者（cl-17）；天兵合围之下金箍收紧致其坠地负伤（cl-22），反叛局面成形。\n\n## 阶段结果\n\n- 孙悟空的处境由\"追查者\"变为\"被围困的反叛者\"：地府敌对、天庭定罪、金箍受制，且被断言\"什么都不记得\"。\n- 玄奘成为本阶段新登场并立即承担主线重量的人物：成名、远行、放归；其身世被点出（江上飘来、姓名不知、父母不识，claim-l12，第 16 章，由玄淇说出）。\n- 小白龙完成\"离宫—入世—随行—被放归\"的完整弧段，并确立\"人形为白衣绝美女子且为本相\"的形态定锚（claim-local-13，第 15 章）。\n- 敖广在龙宫后殿遭重创、生死未明，龙宫线留下悬空状态。\n- 势力层面确认为地府、天庭、龙宫三方皆受上层意志牵引，\"取经四人\"的命数已被预设（claim-local-8）。\n\n## 下一阶段承接与未决问题\n\n- **\"两个孙悟空\"之谜**：第 12 章龙宫血案的行为归属未定；第 16 章\"是他。他又回来了。\"所指未明。后续阶段需重点裁定。\n- **孙悟空的反叛线**：第 18 章金箍受制后其去向，与 next stage 标题所指的蟠桃园一线待接。\n- **诬告线**：沙悟净指证\"与阿瑶勾结害师\"与太上老君的监视安排（cl-15、cl-17）需追踪其动机与结果。\n- **身份候选未决**：小龙女（char-0046）与小白龙（char-0017）疑为同一存在（第 13 章 idlink-local-1）；玄奘（char-0053）与唐僧（char-0001）疑为同一人物不同阶段（第 15 章 identity-link-local-1）。二者均只有候选关系，本阶段不作确认。\n- **玄奘与小白龙的再会**：小白龙未表露身份离去、珍珠沉江，留作后续钩子。"
+  },
+  "character_stages": [
+    {
+      "candidate_name": "孙悟空",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "stage_doc_id": "doc-char-0002-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "地府·龙宫·灵霄殿：追查者被围成反叛者",
+          "chapter_ranges": [
+            {
+              "start": 11,
+              "end": 18
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "character",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 阶段起点\n\n本阶段开场于地府。孙悟空自陈记忆起点仅\"从山下爬出、见和尚微笑\"（claim-local-11），来意为取回和尚魂灵；他带着这一近乎空白的自我认知进入三界追查。\n\n## 目标与动机\n\n单一而执拗：取回和尚魂灵（claim-local-11）。追查过程中目标被动扩展为\"我为何不记得\"。引路鬼为其讲述欲望、记忆与神人因果，并提及五百年前勾销并烧尽生死簿者被称为魔王、由此引发百年神魔战争（claim-local-9）——这段叙述事实上把\"失忆\"与一段被抹去的历史并置，但本阶段他未获得任何确认。\n\n## 关键选择与经历\n\n- **第 11 章·动手而非继续交涉**：听罢叙述后折返，掷飞幽冥王、杀入鬼卒（ev-local-2）；幽冥王被掷撞陷空山，地府权威受挫（claim-local-19）。这是他本阶段最明确的一次主动选择，直接后果是与地府转为公开敌对，也关死了通过地府文牍查证的路。\n- **第 18 章·在灵霄殿不认罪**：面对沙悟净当殿指证其与万灵之森女妖阿瑶勾结害师（cl-15，沙之说，reported），他未取得辩解空间；天兵合围、金箍收紧致其坠地（cl-22），反抗以受伤收场。\n- **第 12 章·须与他本人区分的事件**：龙宫后殿\"去而复返的孙悟空\"一击致敖广生死未明、敖广称\"你是另一个\"（ev-local-3、claim-local-28）。该来访者同章内表现出与\"孙悟空\"不同的行为逻辑（claim-local-24），故**不能直接记为孙悟空本人的行为**，本摘要仅将其作为围绕他的身份谜团记录。\n\n## 身份与能力变化\n\n- **能力受限首次明确展示**：第 18 章金箍收紧致其坠地，在近身格斗中因外力被打断（cl-22）。此前的地府、龙宫场景中他均处于压倒性优势，此处第一次呈现\"受制于人\"。\n- **时间线锚点**：第 18 章出现\"五百年后\"的时间跳跃，而他自认不记得天宫（cl-1）——身份时间轴出现断层。\n- **被指认为\"魔王\"关联**：仅出现在引路鬼叙述中（claim-local-9），属他人陈述，未由他本人承认或证据支持。\n- **\"另一个孙悟空\"的存在**：由敖广台词（claim-local-28）与行为逻辑差异（claim-local-24）提示，本阶段只升到\"候选谜团\"，不做身份合并。\n\n## 认知与性格表现\n\n- 对\"被安排\"的敏感：判官称\"观世音的主意起作用、孙悟空如被驯服的狗\"（claim-local-17），他被告知自己的驯顺是设计结果；太上老君亦断言他\"什么都不记得\"（cl-8）。两次都由敌方之口给出，他本人未回应。\n- 行事方式：以暴力换取信息与推进，遇阻即破局（地府掷幽冥王）；本阶段未见以谋略或谈判破局的情形。\n- 尚存的自持：面对\"与阿瑶勾结害师\"的指证，文本未记录其认罪或求饶。\n\n## 阶段终点\n\n第 18 章收束于灵霄殿：十万天兵合围、金箍收紧、坠地负伤，同时被沙悟净指证、被太上老君定性为\"不记得\"。他从\"入三界追查真相的人\"变成\"被三界共同定罪的反叛者\"，追查线索一条未解。\n\n## 证据不足与补读入口\n\n- 龙宫血案是否为他所为：本阶段证据只到\"另一个\"的台词级提示，倾向\"非本人\"但未裁定，需第 12 章原文细节复核。\n- 他为何戴金箍、金箍由谁所制、第 18 章\"收紧\"由谁发动：本阶段仅有结果（cl-22），无来源。\n- 沙悟净指证与太上老君的监视安排（cl-15、cl-17）之间的因果链：本阶段为两条独立陈述，未连成证据。\n- 他对引路鬼所述\"魔王\"故事的反应：本阶段未提取到相应陈述。"
+      },
+      "current_summary_update": "至第 18 章：入地府追查和尚魂灵、自陈仅记得从山下爬出见和尚微笑，因掷飞幽冥王而与地府公开敌对；第 12 章龙宫后殿出现\"另一个\"他去而复返并击伤敖广（归属未定）；第 18 章在灵霄殿被十万天兵合围、金箍收紧坠地，遭沙悟净指证勾结阿瑶害师，反叛局面成形。追查未获任何确认。",
+      "identity_notes_appends": [
+        {
+          "id": "in-char-0002-002",
+          "revealed_at": 18,
+          "summary": "金箍可在外力作用下收紧并致其坠地，战力受金箍制约（能力限制首次明确展示）",
+          "claim_refs": []
+        },
+        {
+          "id": "in-char-0002-003",
+          "revealed_at": 18,
+          "summary": "时间线锚点：第 18 章为\"五百年后\"，其自认不记得天宫，记忆出现断层",
+          "claim_refs": []
+        }
+      ]
+    },
+    {
+      "candidate_name": "小白龙",
+      "entity_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "stage_doc_id": "doc-char-0017-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "离水入世：从龙宫到随行与被放归",
+          "chapter_ranges": [
+            {
+              "start": 12,
+              "end": 17
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "character",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 阶段起点\n\n上阶段（第 1—10 章）之后的离散状态：小白龙在龙宫之外，取经队伍已散。本阶段他做的第一件事是回龙宫。\n\n## 目标与动机\n\n动机在第 14 章被明确表述：想了解一个人、探知他的心（claim-local-1）。这不是求庇护或复归本位，而是主动向人间靠近。与之配套的具体目标在第 12 章：向父王求取定颜珠，用于保存唐僧肉身直至寻回魂魄（claim-local-7）。\n\n## 关键选择与经历\n\n- **第 12 章·回龙宫又离开**：与父王敖广重逢后，仍选择离开龙宫，并获允准带走定颜珠（claim-local-10）。同章龙宫后殿发生血案——他被卷入的这场变故中，敖广遭一击、生死未明、并称来者\"你是另一个\"（ev-local-3、claim-local-28）；本阶段未提取到他对此的反应。\n- **第 13 章·前史**：偷出龙宫、化鲤游海、现出龙形、望见大陆复化鲤鱼（ev-local-1@ch13）；同章出现\"小龙女\"与\"小白龙\"指为同一存在的关键语句（claim-local-11@ch13），并有\"宿命\"式收束句（claim-local-16）。\n- **第 14 章·入世与被带走**：由水入世、首次主动接触凡人，同时揭示\"离水失神通\"这一能力限制（ev-local-1@ch14）；随即金鲤被和尚带走跑出城（ev-local-2@ch14、claim-local-12），构成取经人线索的钩子。\n- **第 15 章·人形定锚**：人形为\"白衣绝美女子\"且为本相（claim-local-13）。玄奘称看见\"会脸红的白色百灵\"（claim-local-24），他是否被识破留作悬念。\n- **第 16 章·随行**：本体为金色鲤鱼、被玄奘以钵盂带走（claim-l23），随之正式踏上远行。\n- **第 17 章·被放归而未表露**：玄奘放归他，他欲现真身相伴而最终未行、离去时未表露身份（ev-local-1@ch17、claim-local-9@ch17），向出海口游去、珍珠沉江（claim-local-10@ch17）。\n\n## 身份与能力变化\n\n- **形态设定定锚**：人形\"白衣绝美女子\"即本相（第 15 章）；本体可化金色鲤鱼，亦可现龙形与金龙形态（第 13 章 setting-local-2）。\n- **能力限制确立**：离水则失神通（第 14 章），这直接决定了他只能以鲤鱼之形被\"带走\"、无法以本相随行。\n- **身份候选未决**：\"小龙女\"（char-0046）与\"小白龙\"被叙述指向同一存在（第 13 章 idlink-local-1、claim-local-11@ch13），但仅为候选线索，本阶段不合并。\n\n## 认知与性格表现\n\n- 主动且自持：既已与父王重逢、拿到所需之物，仍选择离开（第 12 章），说明其行动的驱动力在\"了解那个人\"而非龙宫归属。\n- 克制：被放归时\"欲现真身相伴而最终未行\"（claim-local-9@ch17），选择以不揭露身份的方式退出，而不是以真相换取停留。\n- 好奇与试探：入世动机（claim-local-1@ch14）与其在玄奘面前的隐蔽存在方式一致。\n\n## 阶段终点\n\n第 17 章末：他离开玄奘，向出海口游去，珍珠沉江，身份对玄奘仍未公开。手里握着第 12 章取得定颜珠的目标（保存唐僧肉身），而唐僧线在本阶段并无推进。\n\n## 证据不足与补读入口\n\n- 第 12 章龙宫后殿血案中他是否在场、如何反应：本阶段未提取到。\n- 他为何在第 15、16 章未以本相相见、却接受被钵盂带走的处置：本阶段只有结果，动机需复核原文。\n- \"小龙女\"与\"小白龙\"是否为同一存在：仅候选，需后续阶段裁定。\n- 定颜珠的最终用途与落点：本阶段未见执行。"
+      },
+      "current_summary_update": "至第 17 章：回龙宫与父王重逢并获允取走定颜珠，仍选择离开；离水失神通，只能化金色鲤鱼入世，被玄奘以钵盂带走随行；人形为本相\"白衣绝美女子\"。第 17 章被玄奘放归，欲现真身相伴而未行、未表露身份，向出海口游去、珍珠沉江。与\"小龙女\"是否同一存在仍待裁定。",
+      "identity_notes_appends": [
+        {
+          "id": "in-char-0017-001",
+          "revealed_at": 15,
+          "summary": "人形为\"白衣绝美女子\"且为本相（非化身），形态设定定锚",
+          "claim_refs": []
+        },
+        {
+          "id": "in-char-0017-002",
+          "revealed_at": 14,
+          "summary": "能力限制：离水则失神通，只能以鲤鱼形介入人间",
+          "claim_refs": []
+        }
+      ]
+    },
+    {
+      "candidate_name": "玄奘",
+      "entity_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "stage_doc_id": "doc-char-0053-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "金山寺成名与远行起点",
+          "chapter_ranges": [
+            {
+              "start": 15,
+              "end": 17
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "character",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 阶段起点\n\n第 15 章首次登场，身份为金山寺僧人（setting-candidate-金山寺，本阶段主要场景）。登场即处于公共场合的机锋论辩之中，而非私密场景。\n\n## 目标与动机\n\n第 15 章自陈所求为其核心宣言：天遮不住眼、诸佛烟消云散（claim-local-35）。这是一条反权威式的表述，且由他本人在公开辩论中说出，因此不仅是心境，也是公开立场。\n\n## 关键选择与经历\n\n- **第 15 章·公开辩论令云游禅师认输**：首次在公开场合展示机锋与胆识，\"一战成名\"（ev-local-3@ch15）。这是他人物线的起点事件，也决定了他此后被外界注意的方式。\n- **第 15 章·对\"白色百灵\"的注视**：他称看见\"会脸红的白色百灵\"（claim-local-24）。此语是否表明他已识破小白龙身份存疑，构成本阶段最有效的跨章悬念之一。\n- **第 16 章·离寺远行**：正式离寺远行，并携化金色鲤鱼的小白龙（ev-local-3@ch16、claim-l23）。这是全书远行起点的标记。\n- **第 17 章·放归与自述来处**：放归小白龙（ev-local-1@ch17），并在江边自述当年从此处来（claim-local-1@ch17，reported）。\n\n## 身份与能力变化\n\n- **身世被点出**：江上飘来、姓名不知、父母不识，由玄淇说出（claim-l12，第 16 章）。这是一条关键身世陈述，但来源为他人转述。\n- **机锋能力被公开验证**：以论辩胜云游禅师（第 15 章）。\n- **身份候选未决**：他与唐僧（char-0001）疑为同一人物的不同阶段（第 15 章 identity-link-local-1）。二者仅有候选关系，本阶段不作确认，也不并入同一实体。\n\n## 认知与性格表现\n\n- 言辞锋利、敢于当面否定权威（claim-local-35），与其僧人身份的常规期待形成反差。\n- 处置从容：对钵盂中的金鲤不追问亦不即刻放生，而是携行一段后再于江边放归（第 16—17 章），步骤带有分寸感。\n- 对来处的关注：江边自述\"当年从此处来\"，说明他对自身来历并非无知无觉。\n\n## 阶段终点\n\n第 17 章末：已离金山寺、在江边放归小白龙，独自继续远行；身世之谜（江上飘来）与\"是否识破白龙\"两条悬念均未收束。\n\n## 证据不足与补读入口\n\n- \"会脸红的白色百灵\"是否为识破身份之语：本阶段只有该句陈述，无内心描写依据。\n- 他的身世（claim-l12）由玄淇说出，本人自述仅有\"当年从此处来\"（claim-local-1@ch17，reported），两者需并列复核。\n- 与唐僧（char-0001）的关系：仅有候选，若后续确认，将影响本阶段多条线的归属。\n- 他放归小白龙的真实判断过程：本阶段只见结果。"
+      },
+      "current_summary_update": "第 15—17 章：以金山寺僧人身分在公开辩论中令云游禅师认输而一战成名，自陈\"天遮不住眼、诸佛烟消云散\"；称见\"会脸红的白色百灵\"（疑识破小白龙，未定）；第 16 章携化金鲤的小白龙离寺远行，第 17 章江边放归小白龙并自述当年从此处来。身世（江上飘来、父母不识，玄淇所述）未解，与唐僧是否同一人仍待裁定。",
+      "identity_notes_appends": [
+        {
+          "id": "in-char-0053-002",
+          "revealed_at": 16,
+          "summary": "身世关键陈述：江上飘来、姓名不知、父母不识（由玄淇说出，reported）",
+          "claim_refs": []
+        },
+        {
+          "id": "in-char-0053-003",
+          "revealed_at": 17,
+          "summary": "本人自述\"当年从此处来\"（江边，reported），与玄淇所述身世互为参照",
+          "claim_refs": []
+        }
+      ]
+    },
+    {
+      "candidate_name": "敖广",
+      "entity_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "stage_doc_id": "doc-char-0032-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "龙宫重逢与后殿之变",
+          "chapter_ranges": [
+            {
+              "start": 12,
+              "end": 12
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "character",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 阶段起点\n\n第 12 章登场即为龙宫之主：面对离散归来的小白龙，他既是父亲，也是龙王。\n\n## 目标与动机\n\n作为父亲允准小白龙带走定颜珠（claim-local-10）；作为龙宫一方，他同时是天庭明令的传达者——不得帮助那四人、四人命数由上天定好不可违改（claim-local-8）。这两重身份在同一章内并存，构成本阶段他最重要的信息价值。\n\n## 关键选择与经历\n\n- **允许而非挽留**：与小白龙重逢后并未强留，允其取走定颜珠并离开（claim-local-10）。\n- **后殿之变**：在龙宫后殿遭\"去而复返的孙悟空\"亮金箍棒一击，血雾弥散，生死未明（ev-local-3@ch12）；当场称\"你……你是另一个……\"（claim-local-28）。这是本阶段他最关键的一次经历，也是\"两个孙悟空\"谜团的核心证据来源。\n\n## 身份与能力变化\n\n- 未见能力层面的新展示；其重要性在于**认知**：他成为第一个明确区分\"这一个\"与\"另一个\"孙悟空的人（虽未展开解释）。\n- 龙宫权威在本阶段受直接冲击（在自家后殿被一击），但后果（生死、龙宫反应）在本阶段未写明。\n\n## 认知与性格表现\n\n- 对天命秩序采取服从表述（claim-local-8），并不尝试绕开禁令去帮助取经四人，而是把限制告之于子。\n- 面对来者时判语极短且指认性极强（\"你是另一个\"），事后无进一步解释记录。\n\n## 阶段终点\n\n第 12 章后殿之变后生死未明。此后至第 18 章未见其再次出场，龙宫线的反应与后果悬空。\n\n## 证据不足与补读入口\n\n- 后殿一击后他的实际生死与伤势：本阶段明确为\"生死未明\"，不可推定死亡。\n- 他何以能辨认\"另一个\"：本阶段无依据，需复核第 12 章原文。\n- \"天庭明令不得帮助那四人\"的下达者与时间点：本阶段仅为其转述（reported）。"
+      },
+      "current_summary_update": "第 12 章：与离散归来的小白龙重逢，允其取走定颜珠并离开；同章转述天庭明令不得帮助取经四人、四人命数由上天定好；同章在龙宫后殿遭\"去而复返的孙悟空\"一击，血雾弥散、生死未明，当场称对方\"你是另一个\"，成为\"两个孙悟空\"谜团的核心证言来源。第 12 章后未见再出场。",
+      "identity_notes_appends": [
+        {
+          "id": "in-char-0032-001",
+          "revealed_at": 12,
+          "summary": "首位明确指认\"另一个孙悟空\"存在的角色（台词级，未展开解释）",
+          "claim_refs": []
+        }
+      ]
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": true,
+    "reason": "本阶段四方态势均有实质推进，但均未建立 faction 实体档案，故只产格局 Markdown、不产 faction stage。(1) 地府：孙悟空掷飞幽冥王、杀入鬼卒、幽冥王撞陷空山，地府权威受挫且与孙悟空转为公开敌对（第 11 章）。(2) 天庭：明令不得帮助那四人、四人命数由上天定好不可违改（第 12 章，敖广转述）；太上老君已布十万天兵并断言孙悟空什么都不记得，玉帝态度受其影响；太上老君自述沙悟净为其安插在取经队伍中的监视者（第 18 章）——天庭对取经队伍的控制由\"命令\"落到\"人身监视\"。(3) 龙宫：敖广在自家后殿被一击、生死未明，龙宫线与天庭禁令的关系成为待解点。(4) 佛门：如来\"是他。他又回来了。\"（第 16 章）与判官所称\"观世音的主意\"（第 11 章）两条线索并置，暗示佛门在上层安排中亦有位置。格局主轴：上层早已布好棋局，取经四人命数被预设，而孙悟空在明处逐层撞上这些安排。",
+    "chapter_ranges": [
+      {
+        "start": 11,
+        "end": 18
+      }
+    ],
+    "as_of": 18,
+    "stage_ref": {
+      "path": "navigation/stage-plan.json",
+      "record_id": "stage-002"
+    },
+    "body_markdown": "## 阶段范围\n\n第 11—18 章。\n\n## 势力格局\n\n- **地府**：本阶段首个与主角正面冲突的势力。幽冥王被掷撞陷空山、鬼卒被杀伤（claim-local-19、ev-local-2），其对孙悟空的立场由交涉转为公开敌对。\n- **天庭**：以\"命数」为名管控全局。明令不得帮助那四人、四人命数由上天定好不可违改（claim-local-8，第 12 章）；第 18 章太上老君布下十万天兵、断言孙悟空什么都不记得，玉帝态度受其影响（cl-8）。\n- **龙宫**：敖广在自家后殿被一击、生死未明，龙宫权威受冲击；其对取经一事采取服从天庭禁令的姿态（claim-local-8）。\n- **佛门（间接）**：判官称\"观世音的主意起作用、孙悟空如被驯服的狗\"（claim-local-17，第 11 章）；第 16 章如来\"是他。他又回来了。\"（claim-l2）——两条线索均未展开，但都指向佛门对孙悟空处境的知情或参与。\n\n## 势力间的牵引\n\n- 天庭→龙宫：以禁令形式传导，龙宫先服从再告之（第 12 章）。\n- 天庭→取经队伍：太上老君安插沙悟净为监视者（cl-17，第 18 章）；沙悟净随即当殿指证孙悟空勾结阿瑶害师（cl-15）——监视与诬告两条线在同一章汇合。\n- 地府↔天庭：本阶段未见直接互动；地府权威受挫后未见天庭回应。\n\n## 格局判断\n\n上层（天庭、佛门）对取经四人的\"命数\"已有既定安排，且已进入执行阶段（监视者已就位、天兵已布置）；执行层（地府、龙宫）处在被动承受与服从位置；孙悟空是唯一在明处、且不知自己身处棋局中而逐层撞击安排的势力个人。\n\n## 证据不足\n\n- 太上老君与玉帝的从属/影响关系具化为制度还是私人影响：本阶段只有\"态度受其影响\"。\n- 如来\"他又回来了\"所指对象：未明。\n- 龙宫在敖广生死未明后的立场：本阶段未提取到。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "小白龙",
+            "敖广"
+          ],
+          "kind": "familial",
+          "note": "父子：龙王与出走归来的龙子"
+        }
+      },
+      "stage_doc_id": "doc-rel-char0017-char0032-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "重逢与后殿之变",
+          "chapter_ranges": [
+            {
+              "start": 12,
+              "end": 12
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "relationship",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 本阶段关系状态\n\n第 12 章重逢，先以父子关系开场（求取定颜珠、获允离开），随后在同一章的龙宫后殿之变中转入失联状态：敖广遭一击、生死未明。关系从\"可求取资源的父方\"变为\"下落不明的父方\"。\n\n## 双方立场与表达\n\n- 小白龙一侧有明确表达：向父王求定颜珠（用于保存唐僧肉身）、与父王重逢后仍选择离开并获允准（claim-local-7、claim-local-10）。行动表明他需要龙宫的资源而不愿回到龙宫的位置。\n- 敖广一侧有明确表达：允准取珠与离开；转述天庭明令不得帮助那四人、四人命数由上天定好不可违改（claim-local-8）。即以\"天命不可违\"为边界，同时不阻止儿子取走所需之物。\n- 后殿之变时敖广所说\"你是另一个\"（claim-local-28）的对象是行凶的来访者，不是小白龙，故不构成本关系中的态度表达。\n\n## 变化节点\n\n1. 重逢与求珠（第 12 章）——关系被重新接续，但目的明确指向\"取物后离开\"。\n2. 获允离开（第 12 章）——父子的分歧以\"不阻拦\"解决，未发生正面冲突。\n3. 后殿之变（第 12 章）——敖广生死未明，关系进入信息中断状态。\n\n## 不对称与不确定性\n\n- 两端表达并不对等：小白龙的行动指向\"为了唐僧\"，敖广的允准夹带\"天命不可违\"的限定，二者动机不同源。\n- 小白龙对后殿之变的态度在本阶段**没有依据**，故本快照未为该情形记录任何一端态度，也不作\"必然悲恸\"之类的推断。\n\n## 证据不足与补读入口\n\n- 后殿之变是否发生在小白龙离开之前或之后、他是否在场：本阶段章节顺序不足以判定。\n- 敖广生死：明确为未明，不可推定死亡。\n- 龙宫后续立场（是否追责、是否仍受天庭禁令）：本阶段未提取到。"
+      },
+      "facets": [
+        {
+          "facet": "亲缘/父子",
+          "direction": "symmetric",
+          "note": "第 12 章重逢，敖广允准小白龙带走定颜珠，小白龙仍选择离开",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-10"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-7"
+            }
+          ]
+        },
+        {
+          "facet": "求助与允准",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "to_ref": {
+            "path": "characters/char-0032/index.json",
+            "record_id": "char-0032"
+          },
+          "note": "小白龙向父王求定颜珠以保存唐僧肉身，视龙宫为可求取资源的一方",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-7"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-10"
+            }
+          ]
+        },
+        {
+          "facet": "禁令传达",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0032/index.json",
+            "record_id": "char-0032"
+          },
+          "to_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "note": "敖广转述天庭明令不得帮助那四人、命数由上天定好不可违改",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-8"
+            }
+          ]
+        },
+        {
+          "facet": "后殿之变后的关系状态",
+          "direction": "symmetric",
+          "note": "敖广在后殿遭\"另一个孙悟空\"一击、生死未明；小白龙对此的反应本阶段未提取到，故不记录任何一端态度",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "ev-local-3@ch12"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-28"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-10"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "ev-local-3@ch12"
+        }
+      ],
+      "safe_through": 18
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "pair_names": [
+            "玄奘",
+            "小白龙"
+          ],
+          "kind": "acquaintance",
+          "note": "携行一段后的放归：一方不知对方本相"
+        }
+      },
+      "stage_doc_id": "doc-rel-char0053-char0017-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "钵盂携行与江边放归",
+          "chapter_ranges": [
+            {
+              "start": 14,
+              "end": 17
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "relationship",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 本阶段关系状态\n\n以\"鱼—僧\"的形态不对称开局，以\"放归而互不相认\"结束。第 14 章和尚夺鱼跑出城（ev-local-2@ch14、claim-local-12），第 16 章玄奘以钵盂携化金色鲤鱼的小白龙远行（claim-l23），第 17 章江边放归（ev-local-1@ch17）。\n\n## 双方立场与表达\n\n- **玄奘一侧**：表达集中在动作而非言语——带走、携行、放归。第 15 章曾称看见\"会脸红的白色百灵\"（claim-local-24@ch15），是否针对小白龙存疑；本阶段未见他对这条鱼有更明确的态度表述。\n- **小白龙一侧**：动机明确\"想了解一个人、探知他的心\"（claim-local-1@ch14）；接受被带走而不抗辩；第 17 章\"欲现真身相伴而最终未行\"、未表露身份即离去（claim-local-9@ch17），向出海口游去、珍珠沉江（claim-local-10@ch17）。\n\n## 变化节点\n\n1. 被带走（第 14 章）：关系以不对等的形态开始——一方是持有者，一方是鱼形。\n2. 随行（第 16 章）：小白龙以鱼形获得持续接近的机会，但未揭露身份。\n3. 放归（第 17 章）：玄奘主动结束持有；小白龙放弃显露本相，关系归零但留下\"珍珠沉江\"的物证与钩子。\n\n## 不对称与不确定性\n\n- **严重不对称**：小白龙全程知情，玄奘（至少明面上）只把对方当作一条鱼。因此本快照的多数维度都是 directed 而非 symmetric。\n- 玄奘的情感/判断没有依据记录，不可由\"放归\"直接推出惜别或试探。\n- 小白龙\"未行\"的原因（是怕惊扰、是不愿以身份换取停留、还是别有所虑）在本阶段没有依据。\n\n## 证据不足与补读入口\n\n- \"会脸红的白色百灵\"是否指小白龙：需第 15 章原文语气与上下文复核。\n- 玄奘是否在放归前已知情：本阶段不支持任何一方向结论。\n- 两人是否会在后续阶段重逢：本阶段无依据。"
+      },
+      "facets": [
+        {
+          "facet": "携行与放归（处置权）",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0053/index.json",
+            "record_id": "char-0053"
+          },
+          "to_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "note": "第 16 章以钵盂带走化金色鲤鱼的小白龙；第 17 章在江边放归",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-l23"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "ev-local-1@ch17"
+            }
+          ]
+        },
+        {
+          "facet": "好奇与靠近",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "to_ref": {
+            "path": "characters/char-0053/index.json",
+            "record_id": "char-0053"
+          },
+          "note": "小白龙自陈想了解一个人、探知他的心；被带走而未抗辩，随行不表露身份",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-1@ch14"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "ev-local-2@ch14"
+            }
+          ]
+        },
+        {
+          "facet": "是否被识破身份",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0053/index.json",
+            "record_id": "char-0053"
+          },
+          "to_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "note": "玄奘称见\"会脸红的白色百灵\"，是否识破存疑，本阶段不定性",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-24@ch15"
+            }
+          ]
+        },
+        {
+          "facet": "相伴意愿",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "to_ref": {
+            "path": "characters/char-0053/index.json",
+            "record_id": "char-0053"
+          },
+          "note": "小白龙欲现真身相伴而最终未行，未表露身份即离去；玄奘一侧对此无表达记录",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "claim-local-9@ch17"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "ev-local-2@ch14"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "ev-local-1@ch17"
+        }
+      ],
+      "safe_through": 18
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emotion": {
+          "pair_names": [
+            "玄奘",
+            "小白龙"
+          ],
+          "label": "单向的靠近与被放归"
+        }
+      },
+      "new_assessment": {
+        "category": "uncertain",
+        "relationship_links": [
+          {
+            "path": "_staging/stage-002/buffer.jsonl",
+            "record_id": "doc-rel-char0053-char0017-stage-002"
+          }
+        ],
+        "confidence": "low",
+        "summary": "小白龙一侧有明确的靠近动机（想了解这个人、探知他的心）与相伴意愿（欲现真身相伴而未行），玄奘一侧本阶段无对应情感表达，且双方存在\"身份未被揭露\"的信息落差。原文未出现任何恋爱指向，故定性为 uncertain（不可升为 romantic，亦不宜直接定为 friendship——玄奘一侧无双向互动依据）。",
+        "chapter_ranges": [
+          {
+            "start": 14,
+            "end": 17
+          }
+        ],
+        "as_of": 18,
+        "stage_ref": {
+          "path": "navigation/stage-plan.json",
+          "record_id": "stage-002"
+        }
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "钵盂与珍珠：单向靠近的边界",
+          "chapter_ranges": [
+            {
+              "start": 14,
+              "end": 17
+            }
+          ],
+          "as_of": 18,
+          "stage_ref": {
+            "path": "navigation/stage-plan.json",
+            "record_id": "stage-002"
+          },
+          "subject_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            },
+            {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            {
+              "path": "_staging/stage-002/buffer.jsonl",
+              "record_id": "doc-rel-char0053-char0017-stage-002"
+            }
+          ],
+          "source_refs": [],
+          "tags": [
+            "emotion",
+            "stage-002"
+          ],
+          "safe_through": 18
+        },
+        "body_markdown": "## 分析结论\n\n定性为 **uncertain（情感方向未明，非恋爱）**，置信度低。依据仅有两条：小白龙自陈的靠近动机（想了解一个人、探知他的心，claim-local-1@ch14）与第 17 章\"欲现真身相伴而最终未行\"（claim-local-9@ch17）。这两条都是**小白龙单方**的表达，玄奘一侧在本阶段没有任何对应的情感表达。原文未出现任何恋爱话语、身体亲近或排他性表述，因此不可用 romantic。\n\n## 变化解释\n\n关系的形态变化是\"物—人\"→\"同行者—持物者\"→\"各自离去\"：\n- 第 14 章被带走时，小白龙处于被动且失神通的形态（离水失神通），这既是情节限制，也使\"靠近\"只能以隐蔽方式发生。\n- 第 16 章随行获得的是**物理上的近距离**而非关系上的接近，因为身份未揭露。\n- 第 17 章的\"欲现真身相伴而未行\"是本阶段唯一一次把靠近意愿推到临界点又主动收回：意愿与行动反向，说明阻碍来自他自身的判断而非玄奘的拒绝（玄奘未有机会表态）。\n\n## 关系阶段引用\n\n- 关系阶段快照：doc-rel-char0053-char0017-stage-002（钵盂携行与江边放归，第 14—17 章）\n\n## 推断边界\n\n- \"会脸红的白色百灵\"（claim-local-24@ch15）**不能**当作情感线索使用：其对象是否即小白龙本阶段存疑，且该句更可能是识别/机锋层面。\n- 玄奘的放归**不可**解读为惜别或试探；本阶段无内心依据。\n- 小白龙\"未行\"的原因无依据，不可推为自卑、敬畏或牺牲。\n- 珍珠沉江（claim-local-10@ch17）为物证式意象，本阶段不赋予情感定性，仅记为后续可复用的线索。"
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "thread_id": "两个孙悟空之谜",
+      "label": "两个孙悟空之谜",
+      "status": "active",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "summary": "第 12 章龙宫后殿出现\"去而复返的孙悟空\"一击致敖广生死未明，敖广称\"你是另一个\"（claim-local-28、ev-local-3）；来访者行为逻辑与此前出现的孙悟空不同（claim-local-24）。第 16 章如来\"是他。他又回来了。\"（claim-l2）指代未明。本阶段仅升为强候选谜团，未做任何身份合并。",
+      "open_questions": [
+        "第 12 章龙宫血案是否由孙悟空本人所为",
+        "如来\"他又回来了\"所指对象",
+        "两个孙悟空的出现机制与关系"
+      ],
+      "evidence_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-28"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-24"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-l2"
+        }
+      ]
+    },
+    {
+      "thread_id": "孙悟空的反叛与受制",
+      "label": "孙悟空的反叛与受制",
+      "status": "active",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "summary": "第 11 章地府冲突（掷飞幽冥王、幽冥王撞陷空山）使关系转为公开敌对；第 18 章灵霄殿十万天兵合围、金箍收紧致其坠地（cl-22），\"五百年后\"时间跳跃与其不记得天宫自认（cl-1）并出。反叛局面成形，去向待下一阶段承接。",
+      "open_questions": [
+        "金箍的来历与收紧的发动者",
+        "第 18 章后孙悟空的去向",
+        "其记忆缺失是否为人为安排（判官所称观世音的主意，claim-local-17）"
+      ],
+      "evidence_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "cl-22"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "cl-1"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-17"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-19"
+        }
+      ]
+    },
+    {
+      "thread_id": "诬告与天庭监视",
+      "label": "诬告与天庭监视",
+      "status": "active",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "summary": "第 18 章沙悟净当殿指证孙悟空与万灵之森女妖阿瑶勾结害师（cl-15，沙之说，reported）；同章太上老君自述沙悟净为其安插在取经队伍中的监视者（cl-17），并已布十万天兵、断言孙悟空什么都不记得，玉帝态度受其影响（cl-8）。监视线与诬告线在同一章汇合，因果未连成证据。",
+      "open_questions": [
+        "沙悟净的指证是否受太上老君授意",
+        "玉帝的最终裁决内容",
+        "\"阿瑶\"与万灵之森在本阶段未出场，其真实角色待查"
+      ],
+      "evidence_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "cl-15"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "cl-17"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "cl-8"
+        }
+      ]
+    },
+    {
+      "thread_id": "小白龙的身世与去向",
+      "label": "小白龙的身世与去向",
+      "status": "active",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 17
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "summary": "第 12 章回龙宫求取定颜珠、获允后仍离开；第 13 章前史（偷出龙宫、化鲤游海、现龙形）与\"小龙女/小白龙同一存在\"候选语句（claim-local-11、idlink-local-1）；第 14 章入世并确立\"离水失神通\"；第 15 章人形为本相白衣女子（claim-local-13）；第 16—17 章被玄奘钵盂带走后放归，未表露身份，向出海口游去、珍珠沉江（claim-local-10@ch17）。",
+      "open_questions": [
+        "小龙女与小白龙是否同一存在（仅候选）",
+        "定颜珠的最终用途与落点",
+        "\"珍珠沉江\"的象征与后续作用"
+      ],
+      "evidence_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-10"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-11@ch13"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-13"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-10@ch17"
+        }
+      ]
+    },
+    {
+      "thread_id": "玄奘的身世与远行",
+      "label": "玄奘的身世与远行",
+      "status": "active",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "as_of": 18,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "summary": "第 15 章金山寺公开辩论令云游禅师认输而\"一战成名\"，自陈\"天遮不住眼、诸佛烟消云散\"（claim-local-35），并称见\"会脸红的白色百灵\"（claim-local-24）；第 16 章离寺远行、携化金鲤的小白龙（claim-l23）；身世由玄淇说出：江上飘来、姓名不知、父母不识（claim-l12）；第 17 章江边自述当年从此处来（claim-local-1@ch17）。",
+      "open_questions": [
+        "玄奘与唐僧（char-0001）是否同一人物不同阶段（仅候选 identity-link-local-1）",
+        "\"会脸红的白色百灵\"是否识破小白龙",
+        "其身世与江上飘来之谜的真相"
+      ],
+      "evidence_refs": [
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-35"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-l12"
+        },
+        {
+          "path": "_staging/stage-002/buffer.jsonl",
+          "record_id": "claim-local-1@ch17"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "events/*.json 事件详情在本环境不可读取（fetch_event_detail 对 events/block-0001.json、block-0002.json、block-0003.json 均返回\"事件不存在\"），本阶段全部依据取自 stage_buffer 摘要与已有 index.json，未做原文核对。",
+    "第 12 章龙宫血案的行为主体存在争议：敖广称来者\"你是另一个\"（claim-local-28），且来访者行为逻辑不同于孙悟空（claim-local-24）。本聚合未将该行为记为孙悟空本人的行为，但 Buffer 中 ev-local-3@ch12 的事件主体记录需在后续阶段裁定。",
+    "两个身份候选（char-0046 小龙女 vs char-0017 小白龙；char-0053 玄奘 vs char-0001 唐僧）本阶段均未升为 confirmed，identity_links 未新增；需后续阶段给出原始 claim 依据才能合并。",
+    "孙悟空第 18 章\"五百年后\"（cl-1）与全书前面章节的时间关系存在明显的叙事时间跳跃，本阶段按 reported 记录，未做时间线统一裁定。",
+    "小白龙 stage 的 chapter_ranges 记为 12—17（第 11、18 章无其实质经历）；玄奘记为 15—17；敖广记为第 12 章单章。这些区间均落在 stage-002 范围内。",
+    "emotional assessment 定性为 uncertain 且置信度低：玄奘一侧无任何情感表达依据，小白龙的靠近动机为单方陈述；未使用 romantic/friendship 定性。"
+  ],
+  "notes_for_audit": [
+    "relationship_snapshots 的两组均使用 new_rel 新建（已有索引中 relationships/pairs/char-0017--char-0032.json、char-0017--char-0053.json、char-0002--char-0001.json 均返回\"实体不存在\"），落库层需按 pair_names 解析真实实体。",
+    "未产出孙悟空相关的关系快照：本阶段他与敖广的直接接触归属未定（因\"另一个\"问题），与太上老君/沙悟净只有单方指控而无双向关系事实，故不建关系阶段，避免把指控当成关系。",
+    "faction_landscape.produce=true 但 faction_stages=[]：地府、天庭、龙宫、佛门在本阶段均有态势推进，但索引中不存在对应 faction 实体档案（factions/faction-0001、faction-0002 均返回不存在），故只产格局 Markdown 而不产 faction stage，避免生成无实体挂载的空 stage。",
+    "identity_notes_appends 中的 claim_refs 均留空：本阶段不新建 Claim，且 Buffer 只提供 local_id（如 claim-local-13、cl-22），无持久化 claim 路径，需落库层以 local_id 回填真实 claim_refs 后再入库。",
+    "小白龙 stage 的 front_matter 中 chapter_ranges 起点为 12（第 12 章回龙宫为其实质起点），未覆盖第 11 章；safe_through 统一取 18（stage 尾章）未超限。",
+    "关系快照 facets 中\"后殿之变后的关系状态\"一条为 symmetric 但不填两端态度，理由是小龙对此无依据；此类空态度维度若下游校验要求必须有态度，请降级为不产出该 facet。",
+    "第 13 章 ev-local-1 与第 14 章 ev-local-1 同为 local_id \"ev-local-1\"，本聚合以 @ch13 / @ch14 / @ch17 后缀区分；同样 claim-local-1、claim-local-9、claim-local-10、claim-local-11、claim-local-13、claim-local-24 在跨章存在同号复用，已在正文与 refs 中标注章号。"
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "chapter_order": 20,
+  "chapter_id": "ch-000020",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "银河搅星：孙悟空与天蓬交手",
+      "introduced_at": 20,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 20,
+            "end": 20
+          }
+        ],
+        "revealed_at": 20,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空嫌蟠桃园太闷，翻出园去，来到银河拨捞银星，将天河银星搅得七零八落。自称天河守护神的天蓬出面阻止无果，一手抓住金箍棒与孙悟空战在一处，银河被搅出漩涡。天蓬因怕星辰更乱而心慌，被孙悟空打倒共二十七次，仍要起身再战，并称孙悟空弄坏了阿月造化的星辰、毁了他的家。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "阿月赶到银河，天蓬消恨",
+      "introduced_at": 20,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 20,
+            "end": 20
+          }
+        ],
+        "revealed_at": 20,
+        "status": "completed",
+        "story_time": null,
+        "summary": "白衣女子阿月飘落银河，冲到天蓬面前抱住他并落泪。阿月说星星乱了不要紧，她一粒一粒摆星辰只是为让天蓬看了高兴，真正在乎的是天蓬。天蓬恨意消失，真心而笑，靠在阿月怀中；随后对孙悟空说不再恨他，并对孙悟空说“等你看见你的灵魂在另一个人身上的时候”便会懂。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "蟠桃园云边：紫霞两次与孙悟空对话",
+      "introduced_at": 20,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 20,
+            "end": 20
+          }
+        ],
+        "revealed_at": 20,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "章首孙悟空见紫霞坐在云边出神，出言驱赶后离开；从天河回来后见紫霞仍站在云边，问她站了一整天在看什么。紫霞连番反问，问“你关心我么”，称孙悟空“果然与他们不一样”，并说之所以只有他会问，是因为“你有灵魂”。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "章末：唐僧师徒论“唯我独尊”",
+      "introduced_at": 20,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 20,
+            "end": 20
+          }
+        ],
+        "revealed_at": 20,
+        "status": "completed",
+        "story_time": null,
+        "summary": "章末场景中，唐僧问“什么东西天上地下，唯我独尊”，孙悟空答“猴子”，猪八戒叫“是猪”，唐僧纠正说“是佛”，并称如来祖出生时一手指天、一手指地如此说过；沙僧没好气地说要在场便一杖打烂，随后打呵欠又睡去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-25"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "孙悟空在蟠桃园树上睡不着，一纵身翻出蟠桃园，见紫霞仍坐在云边出神。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "他一纵身翻出了蟠桃园"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "紫霞对孙悟空说，以前她坐在这儿一万年，也不会有个人理她。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "以前我坐这儿一万年"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空离开紫霞后到银河之畔，在银河里东一下西一下拨捞银星，将天河的银星搅得七零八落。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "于是他开始在银河里东一下西一下地拨捞"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "孙悟空在银河遇到一个英武高大、身后生着双翼的年轻人。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "身后还生着双翼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "年轻人自称“天河守护神天蓬”，并说河中银星俱是千万年精心摆排才成现在这样。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "在下天河守护神天蓬"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "天蓬称天宫人的相貌随心意而定，心若不喜老态，人自然也不会显老。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "天宫人相貌随心意而定"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空不听劝阻挥棒搅散银星，天蓬纵身一劈手抓住金箍棒，两人战在一处，将银河搅出一个越转越大的漩涡。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "一劈手竟将金箍棒抓住"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "天蓬心慌怕星辰更乱，被孙悟空一脚扫倒；此后他共被孙悟空打倒二十七次，仍要起身再战。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "如此二十七次。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "天蓬对孙悟空说，孙悟空弄坏了他最心爱的东西、毁了他的家，所以说有仇；并说“你心中无爱，怎会懂珍惜二字”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "你心中无爱，怎会懂珍惜二字"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "一名白衣女子惊呼“天蓬”并飘落银河，冲到天蓬面前一把抱住他，落泪问他为什么会变成这样。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "天际一白衣女子飘落于银河中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "天蓬忍着伤痛对阿月笑说“没事的”，又望向孙悟空说，他弄乱了阿月造化的星辰，自己决不饶他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "他弄乱了你造化的星辰"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "阿月对天蓬说，星星乱了不要紧，不值得他拼杀受伤；她花这么多时间做星辰银河只因天蓬一个人欣赏，一粒一粒摆只因他看了高兴，她心中真正在乎的是天蓬。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "只是因为你看了高兴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "天蓬脸上的恨意慢慢消失，真心而笑，像孩子般靠在阿月怀中；阿月抚他的头，眼泪落到他的发上。孙悟空觉得心里怪怪的，大叫两人当他不存在，却没人理他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "他忽然真心地笑了，像个孩子般靠在阿月怀中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "天蓬对孙悟空说“你去吧，我不再恨你了”；孙悟空表示不信，认为自己恨一个人一辈子都记得，对方说不恨就不恨变得太快。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "你去吧，我不再恨你了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "阿月对孙悟空说，听说他是石中所生，想必心中少一样东西，并叹道一个人心中要是没有爱、只有恨，也是一件苦事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "想必你心中少一样东西"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "天蓬对孙悟空说，以后他也许会懂，“等你看见你的灵魂在另一个人身上的时候”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "等你看见你的灵魂在另一个人身上的时候"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空自言自语说最讨厌打哑谜、当年师父也喜欢这样戏耍他，随后转身出了天河，这回没有飞，而是慢慢走远。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "转身出了天河"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空回到蟠桃园，见紫霞还在云边站着，问她站了一整天在看什么。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "你站了一整天了，在看什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "紫霞反问孙悟空为什么要问她、为什么别人都不问而只有他问，并问“你关心我么”，随后说“你果然与他们不一样”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "为什么别人都不问我看什么？你却问我看什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "紫霞对孙悟空说，他之所以会问，是因为“你有灵魂”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "因为你有灵魂"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空听紫霞说“因为你有灵魂”后又愣了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "孙悟空又愣了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "章末场景中，唐僧问“什么东西天上地下，唯我独尊”，孙悟空答“猴子”，猪八戒叫“是猪”，唐僧纠正说是“佛”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "什么东西天上地下，唯我独尊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "唐僧说，如来祖出生时一手指天、一手指地，如此说出“天上地下，唯我独尊”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "如来祖出生时，一手指天，一手指地"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "沙僧没好气地说，当时他不在，他若在便一杖打烂，免得如来胡言乱语、惹人心烦。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "一杖打烂，免得他胡言乱语"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "沙和尚打个呵欠又睡去了，唐僧、猪八戒、孙悟空三个都盯着他。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "locator": null,
+          "anchor": "沙和尚却打个呵欠，又睡去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "天河（银河）",
+      "category": "location",
+      "introduced_at": 20,
+      "notes": "孙悟空离蟠桃园后所到之处，天河中有银星；天蓬自称此河的守护神，并称河中银星是千万年精心摆排而成。银河在交战中被搅出漩涡。银星摆排的来历出自天蓬之口。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-7"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "subject_b": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅记录互动事实，不做感情定性"
+      },
+      "certainty": "explicit",
+      "summary": "阿月赶到银河抱住受伤的天蓬落泪；天蓬说孙悟空弄乱了阿月造化的星辰、决不饶他，后又靠在阿月怀中真心而笑；阿月称星辰银河只为天蓬一人欣赏而造，她在乎的是天蓬。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "find_similar_relationship 未命中（本次查询结果为 no_match）。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "交手二十七次，后由天蓬口头表示不再恨"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空搅乱银星，天蓬抓住其金箍棒与其交战，被孙悟空打倒二十七次仍要起身；天蓬称孙悟空毁其家故有仇，后又说“我不再恨你了”。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-14"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅记录对话互动事实"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞坐在蟠桃园云边，孙悟空两度上前問她看什么；紫霞反问并问“你关心我么”，称孙悟空“果然与他们不一样”，并说因“你有灵魂”才会问；孙悟空闻言又愣了。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": ""
+      },
+      "certainty": "explicit",
+      "summary": "阿月对孙悟空说，听说他是石中所生，想必心中少一样东西，并说心中若没有爱只有恨也是苦事；孙悟空表示不懂她说什么。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [],
+  "chapter_summary_markdown": {
+    "title": "第20章：银河搅星、阿月与“你有灵魂”",
+    "front_matter": {
+      "as_of": 20,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n孙悟空在蟠桃园树上打了一百个呵欠仍睡不着，自说“太闷了”，一纵身翻出蟠桃园（[[claim-local-1]]）。园外云边，紫霞仍坐着出神；她对孙悟空说，以前她坐在这儿一万年也不会有个人理她（[[claim-local-1]]、[[claim-local-2]]）。孙悟空回了一句便离开。\n\n## 关键行动\n\n1. **银河搅星**：孙悟空来到银河之畔，东一下西一下拨捞银星，把天河的银星搅得七零八落（[[claim-local-3]]）。一名英武高大、身后生双翼的年轻人出面阻拦，自称“天河守护神天蓬”，并说河中银星是千万年精心摆排才成这样（[[ev-local-1]]、[[claim-local-4]]、[[claim-local-5]]）。\n2. **交手**：孙悟空挥棒更搅，天蓬一劈手抓住金箍棒，两人战在一处，银河被搅出漩涡（[[claim-local-7]]）。天蓬怕星辰更乱而心慌，被孙悟空一脚扫倒，此后共被打倒二十七次仍要再起（[[claim-local-8]]）。\n3. **阿月到场**：一名白衣女子惊呼“天蓬”并飘落银河，冲上前抱住他落泪（[[ev-local-2]]、[[claim-local-10]]）。天蓬忍痛笑说“没事的”，并对孙悟空说其弄乱了阿月造化的星辰、决不饶他（[[claim-local-11]]）。\n4. **重新提问**：孙悟空回到蟠桃园，见紫霞还站在云边，问她站了一整天在看什么（[[ev-local-3]]、[[claim-local-18]]）。\n\n## 转折与新信息\n\n- 天蓬自述天宫人相貌随心意而定，心不喜老态便不显老（[[claim-local-5]]、[[claim-local-6]]）。\n- 天蓬说孙悟空弄坏了阿月最心爱之物、毁了他的家，故有仇，并说“你心中无爱，怎会懂珍惜二字”（[[claim-local-9]]）。\n- 阿月说星星乱了不要紧，她做星辰银河只因天蓬一人欣赏、一粒一粒摆只因他看了高兴，她真正在乎的是天蓬（[[claim-local-12]]）。天蓬恨意消失、真心而笑、靠在阿月怀中；孙悟空自觉被忽略，心里“怪怪的”（[[claim-local-13]]）。\n- 天蓬对孙悟空说“你去吧，我不再恨你了”（[[claim-local-14]]）。\n- 阿月说孙悟空石中所生、想必心中少一样东西，并说心中若只有恨而没有爱也是苦事（[[claim-local-15]]）；天蓬补充“等你看见你的灵魂在另一个人身上的时候”便会懂（[[claim-local-16]]）。\n- 紫霞连番反问孙悟空为何问她、为何别人不问，问“你关心我么”，称“你果然与他们不一样”，最终说原因在于“你有灵魂”；孙悟空又愣了（[[claim-local-19]]、[[claim-local-20]]、[[claim-local-21]]）。\n- 章末场景中，唐僧问“什么东西天上地下，唯我独尊”，孙悟空答“猴子”，猪八戒叫“是猪”，唐僧纠正为“佛”，并称如来祖出生时一手指天、一手指地（[[ev-local-4]]、[[claim-local-22]]、[[claim-local-23]]）；沙僧说当时不在、若在一杖打烂，随后打呵欠又睡去（[[claim-local-24]]、[[claim-local-25]]）。\n\n## 本章结果\n\n- 银河银星被搅乱，天蓬二十七次被打倒；阿月到场后，天蓬口头表示不再恨孙悟空。\n- 孙悟空没再飞，而是慢慢走出天河，自语抱怨众人打哑谜、当年师父也如此（[[claim-local-16]]、[[claim-local-17]]）。\n- 紫霞对孙悟空说出“因为你有灵魂”，成为本章对孙悟空认知的直接冲击点。\n- 章末以唐僧师徒关于“唯我独尊”的短对话收束。\n\n## 未决问题与补读入口\n\n- 天蓬所说“毁了他的家”“最心爱的东西”的具体所指，本章未展开（仅天蓬口述）。\n- “等你看见你的灵魂在另一个人身上的时候”所指何事，本章未说明，属待跟进伏笔。\n- 紫霞“你有灵魂”的判断依据，本章未作解释。\n- 章末唐僧师徒场景与前述蟠桃园／银河场景的叙事时段关系，原文未明示，建议对照相邻章节核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "note": "银河搅星与天蓬交手，天蓬被二十七次打倒（关键动作场面）"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-2",
+      "note": "阿月到场，天蓬口头放下对孙悟空的恨"
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "note": "紫霞对孙悟空说“因为你有灵魂”"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-14",
+      "note": "天蓬“我不再恨你了”——与 stage 标题“放下旧恨”直接对应"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-20",
+      "note": "紫霞：“因为你有灵魂”——孙悟空认知转折的关键陈述"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-12",
+      "note": "阿月自述星辰银河只为天蓬一人欣赏而造"
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-16",
+      "note": "天蓬：“等你看见你的灵魂在另一个人身上的时候”——伏笔陈述"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "detail": "原文存在字符损坏：金箍棒指到头顶处出现“〭��。�头顶�”；阿月一句出现“没慢中要有爱”。提取时按上下文作最低限度还原（“心中要是没有爱”），建议以更干净的源版本复核。",
+      "chapter_order": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "anchor": "没慢中要有爱"
+        }
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "detail": "章末“三个家伙都盯着他”中的三人身份原文未逐一列明，提取时按对话参与者还原为唐僧、猪八戒、孙悟空，证据强度有限。",
+      "chapter_order": 20,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000020.txt",
+          "chapter_id": "ch-000020",
+          "chapter_order": 20,
+          "anchor": "三个家伙都盯着他"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "工具调用预算已用至 19 次，未能对全部 claim 逐条执行 dedupe_claim，也未对“孙悟空↔紫霞”“孙悟空↔天蓬”“阿月↔孙悟空”三组关系执行 find_similar_relationship；仅对 4 个事件草稿执行了 dedupe_event（均 no_match）与 3 条代表性 claim 执行 dedupe_claim（均 no_match），以及天蓬↔阿月一次 find_similar_relationship（no_match）。",
+    "实体 char-0066（阿月）index 已存在 introduced_at=20 且 identity_notes 引用 claim-0699/claim-0700/claim-0704，但本次 dedupe_claim 未命中相应陈述，可能与前次提取并存，落地时需合并去重。",
+    "原文存在字符损坏（“〭��。�头顶�”“没慢中要有爱”），相关 claim 依上下文最低限度还原。",
+    "章末唐僧师徒对话与前述蟠桃园/银河场景的叙事时段关系原文未明示，本输出未对 story_time 作断言。",
+    "本章未出现需新建档的新角色；“天河守护神”为天蓬的自我称谓（reported），未据此建立新实体。"
+  ]
+}

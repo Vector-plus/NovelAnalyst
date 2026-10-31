@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0030",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "紫霞所赠袍甲被弃",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0030-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "plot_thread",
+      "status": "ongoing",
+      "role": "setup",
+      "summary": "紫霞为孙悟空织出他当年当魔王大战天兵时的袍甲，被孙悟空甩飞拒绝，紫霞将袍冠全部丢下云层并流泪。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0779"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0781"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0783"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

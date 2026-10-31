@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0013",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "取经队伍的离散与补救",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0013-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "plot_thread",
+      "status": "escalating",
+      "role": "development",
+      "summary": "唐僧身死且尸身只剩半边，沙和尚已走人，小白龙请假回家离开，孙悟空独自赴地府欲带回唐僧魂魄，只余猪八戒守着行李与尸首。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0455"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0456"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0457"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0459"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0460"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0463"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

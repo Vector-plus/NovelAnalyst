@@ -1,0 +1,1053 @@
+{
+  "chapter_order": 11,
+  "chapter_id": "ch-000011",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空入地府，听引路鬼解说欲望、记忆与神人因果",
+      "introduced_at": 11,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 11,
+            "end": 11
+          }
+        ],
+        "revealed_at": 11,
+        "status": "completed",
+        "story_time": null,
+        "summary": "孙悟空进入只有黑暗与透明魂灵的地府，见万足怪将魂灵体内小虫抓入熔岩之海，并被一只发光人皮灯笼状的鬼告知那是欲望。二者一路问答：此地魂灵需舍弃欲望与记忆方能重新开始，转世是为赎罪；鬼又论神以人的欲望与痛苦换取供奉。孙悟空据此推问神非不能而是不愿赐人安乐，鬼惊问其名，孙悟空自报姓名。鬼随即讲述五百年前有人勾销并烧尽生死簿、天下生灵从此不死、神怒斥其为妖魔、百年神魔战争爆发、世人称其魔王之事。孙悟空自述只有从山底爬出的记忆，来地府是为找回那个和尚的魂灵。鬼引他走过数万里黑路至地府深处悬崖，告以生死之事须问幽冥王。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "引路的鬼（地府解说者）"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0029/index.json",
+              "record_id": "char-0029"
+            },
+            "role": "mentioned"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-12"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空折返地府，举幽冥王掷向陷空山并杀入鬼卒阵中",
+      "introduced_at": 11,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 11,
+            "end": 11
+          }
+        ],
+        "revealed_at": 11,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空离去后幽冥王长出一口气，地府各处钻出无数持兵器鬼卒；曾被孙悟空推下悬崖的鬼（幽冥王称其为判官）钻出称赞大王一瞪眼吓退齐天大圣，判官称观世音的主意起了作用，幽冥王说孙悟空如今像被驯服的狗。笑声中众人发现孙悟空正一步步走回，地府随之震动；孙悟空问谁笑得最响，众鬼都指向幽冥王。孙悟空闪身抓住幽冥王手腕，将其抛过众鬼头顶撞到陷空山上，随后跃入涌上的鬼卒阵中厮杀。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0029/index.json",
+              "record_id": "char-0029"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0027/index.json",
+              "record_id": "char-0027"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "地府只有无边的黑暗，黑暗中有透明的魂灵不断从上方渗下、被一个洞口吸进去；孙悟空想深吸气却发现无气可吸，此处没有饥饿、寒冷、痛苦。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 1,
+            "para_end": 8
+          },
+          "anchor": "这里只有无边的黑暗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "黑暗深处一只巨大的万足怪把触角伸入万千魂灵之中，将魂灵体内彩色萤火般的小虫抓出来丢入一侧的熔岩之海。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 11,
+            "para_end": 12
+          },
+          "anchor": "一只巨大的万足怪正在将触角伸入万千魂灵之中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "被万足怪抓出的那些小虫，据那只形状古怪的发光鬼说，是「欲望」；深渊中的小虫怪叫「让我们走！不要被消灭」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 14,
+            "para_end": 17
+          },
+          "anchor": "那是欲望。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "引路鬼称：来到这里的魂不仅要放弃欲望，还要放弃记忆——没有欲望就无烦无恼不再痛苦，没有记忆就无牵无挂不再留恋，如此才能洗刷过往、重新开始；转世是为赎罪，还清前世所欠便不必再转世。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 20,
+            "para_end": 26
+          },
+          "anchor": "不仅是欲望，还有记忆。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "引路鬼称：贪怒杀伐都是罪，爱恨痴缠必有相欠，「活着，即是罪孽；有情，就会相欠」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 31,
+            "para_end": 32
+          },
+          "anchor": "活着，即是罪孽；有情，就会相欠。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "引路鬼称：鬼神靠活物供奉；神从万物灵蕴中吸取能量，世间无活物则神也枯萎消亡；「灵魂是种子，人是庄稼」，神让种子长大、产生欲望去争斗爱恋，人因痛苦而祈求神灵、愿供奉一切，神才成为神，正因人的卑微神才高高在上。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 35,
+            "para_end": 36
+          },
+          "anchor": "灵魂是种子，人是庄稼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空据此推问：若没有人神也不复存在，故神的力量并非无法赐予所有人安乐，只是不愿；神故意控制所有人的命运，让人求之不得、痛失所爱，人才会乞求供奉。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 38,
+            "para_end": 38
+          },
+          "anchor": "所以神的力量，并非无法赐予所有人安乐，只是不愿。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "鬼惊异于孙悟空听完这番话立刻看穿真相并追问他是谁，孙悟空回答「我的名字是孙悟空」，那鬼听后突然不说话。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 40,
+            "para_end": 43
+          },
+          "anchor": "我的名字是孙悟空。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "引路鬼讲述：五百年前有人拿着写着自己寿命的生死簿说「我要在世上活多少年，凭什么由你们来决定」，一笔勾了；又指着库中如山的亿万本生死簿册说这些生灵活多少年、如何生如何死都不关他们的事，于是通通烧尽。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 47,
+            "para_end": 47
+          },
+          "anchor": "我要在世上活多少年，凭什么由你们来决定"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "引路鬼续称：此后天下生灵皆长生不死，再无人需要神，人人把勾销生死簿者敬为英雄；神大怒将所有不死者斥为妖魔，百年神魔战争爆发，世间几乎化为炼狱，世人认为那人触怒神带来灾难，称他为魔王。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 51,
+            "para_end": 52
+          },
+          "anchor": "百年的神魔战争便爆发了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空称自己只有从一座山底下爬出来的记忆，睁眼刚适应光线就看见一个和尚对他笑；他说自己来地府是为找回那和尚的魂灵，因为那和尚还没把他带到西天，不能死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 53,
+            "para_end": 54
+          },
+          "anchor": "我只有自己从一座山底下爬出来的记忆"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "那鬼带孙悟空又走了几万里黑路来到地府深处，前面是一道无边的悬崖，悬崖外是无尽虚空；孙悟空认出这是大地的尽头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 55,
+            "para_end": 62
+          },
+          "anchor": "是一道无边的悬崖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "鬼把孙悟空带到悬崖边说，生死之事没有幽冥王不知道的，让他去问幽冥王。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 57,
+            "para_end": 58
+          },
+          "anchor": "生死之事，没有幽冥王不知道的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空离去后，幽冥王长出一口气说「天哪，他终于走了」，地府各处各角钻出无数手持兵器、密密麻麻的鬼卒。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 64,
+            "para_end": 66
+          },
+          "anchor": "天哪，他终于走了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "那被孙悟空推下悬崖的鬼又钻出来，赞幽冥王「一瞪眼就吓退了齐天大圣」；幽冥王称他为「判官」，并自言当时也很怕，随后收了变化、现出本来人形，是个胖家伙。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 64,
+            "para_end": 66
+          },
+          "anchor": "一瞪眼就吓退了齐天大圣"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id_basis": "claim-local-16"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "叙述交代：曾被孙悟空推下悬崖的那只鬼，此时又钻了出来（推鬼下崖的具体过程在本章原文中缺失）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 64,
+            "para_end": 66
+          },
+          "anchor": "那被孙悟空推下悬崖的鬼不知什么时候又钻了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "判官说「看来观世音的主意真的起作用了」，幽冥王回应说孙悟空现在就像一只被驯服的狗，连汪汪都喊不出来，众鬼随之大笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 67,
+            "para_end": 70
+          },
+          "anchor": "看来观世音的主意真的起作用了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "众鬼笑到一半突然哽住，看见黑暗中一个身影一步步走出，走得很慢但每步都让地府隐隐震动；孙悟空问「你们怎么不笑了，笑啊」，并低头拄棒问刚才是谁笑得最响，所有鬼卒都把手一指幽冥王，判官也指着幽冥王，被幽冥王瞪后才缩手。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 71,
+            "para_end": 78
+          },
+          "anchor": "你们怎么不笑了，笑啊。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空闪身抓住幽冥王手腕，发力一扬手把幽冥王像大包袱般丢出去，越过众鬼卒头顶，撞到陷空山上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 79,
+            "para_end": 83
+          },
+          "anchor": "撞到陷空山上去了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "无边鬼卒从四周涌上，孙悟空吼道「让俺老孙杀个痛快」跃入阵中，鬼众像纸片一样被翻扬起来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 11,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000011.txt",
+          "chapter_id": "ch-000011",
+          "chapter_order": 11,
+          "locator": {
+            "para_start": 84,
+            "para_end": 85
+          },
+          "anchor": "让俺老孙杀个痛快"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "引路的鬼（地府解说者）",
+      "introduced_at": 11,
+      "alias_texts": [
+        "鬼",
+        "一个形状古怪的鬼",
+        "发光的人皮灯笼"
+      ],
+      "identity_notes": "地府中给孙悟空引路、解说欲望与记忆之事的鬼；外形像发光的人皮灯笼，光会变青变红。原文未明示其真实身份，可能与判官或幽冥王的变化有关，但未确认。",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "地府（幽冥界）",
+      "introduced_at": 11,
+      "notes": "本章明写其结构：黑暗空间承接透明魂灵、有熔岩之海与万足怪处理欲望、有幽冥王与判官及无数持兵器鬼卒，深处有通往大地尽头悬崖的路径。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "生死簿",
+      "category": "item",
+      "introduced_at": 11,
+      "notes": "据引路鬼所述，五百年前有人以写着自己寿命的生死簿一笔勾销自己的寿数，又将库中如山的亿万本生死簿册通通烧尽。本章只见于鬼的讲述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "熔岩之海",
+      "category": "location",
+      "introduced_at": 11,
+      "notes": "地府黑暗深处的一侧，万足怪将从魂灵中抓出的欲望小虫丢入其中。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "陷空山",
+      "category": "location",
+      "introduced_at": 11,
+      "notes": "孙悟空将幽冥王掷出后撞上的山。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "大地尽头的悬崖",
+      "category": "location",
+      "introduced_at": 11,
+      "notes": "地府深处，前方再无土地，悬崖外是无尽虚空。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "百年神魔战争",
+      "category": "historical_event",
+      "introduced_at": 11,
+      "notes": "据引路鬼讲述：生灵长生不死、无人需要神之后，神将不死者斥为妖魔，爆发百年神魔战争，世间几乎化为炼狱。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-10"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "status": "unconfirmed",
+      "summary": "疑似同一人：本章后段被孙悟空推下悬崖的鬼被幽冥王称为「判官」，而前段引路解说之鬼的身份未被原文点名。",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": "不确定：原文缺失孙悟空与幽冥王对峙段落，无法确认引路鬼与判官是否同一。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "引路的鬼（地府解说者）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      },
+      "status": "unconfirmed",
+      "summary": "疑似同一人：幽冥王在孙悟空离去后「收了变化，现出本来的人形」，暗示其曾以变化之形出现；引路鬼是否即其变化，原文未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-15"
+      ],
+      "notes": "仅据「收了变化」一句推测，无直接证据。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "和尚（对孙悟空笑的取经僧）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "status": "unconfirmed",
+      "summary": "孙悟空口中的「一个和尚」自称要带他到西天、他此来是为取回其魂灵，疑为唐僧，但本章未点明法名。",
+      "evidence_claim_local_ids": [
+        "claim-local-11"
+      ],
+      "notes": "依据仅为孙悟空转述的目的（带他去西天），按谨慎原则不直接合并。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "三百年前勾销生死簿者（被称魔王）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "status": "unconfirmed",
+      "summary": "引路鬼描述的那人行为特征与孙悟空相符，并反问孙悟空「你不记得了么」；孙悟空本人则称只有从山底爬出的记忆。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11"
+      ],
+      "notes": "原文未明示同一人，仅为鬼的暗示与反问，登记待后续章节确认。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空识破地府方的假退，抓住幽冥王手腕将其掷过众鬼头顶撞到陷空山上。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "此前幽冥王以变化之形应对孙悟空并自称神勇吓退大圣。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "subject_b": {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      },
+      "facet": {
+        "type": "cooperation"
+      },
+      "certainty": "explicit",
+      "summary": "判官称幽冥王为「大王」并赞其神勇，二人一同议论观世音的主意与孙悟空被驯服，随众大笑。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-17"
+      ],
+      "notes": "众鬼指认时判官也指向幽冥王，被瞪后缩手。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "判官曾被孙悟空推下悬崖，事后又钻出并嘲笑孙悟空被驯服；孙悟空折返后判官亦指认幽冥王。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "推鬼下崖的具体过程在本章原文缺失。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "reported",
+      "summary": "判官称「观世音的主意真的起作用了」，并称孙悟空如今像被驯服的狗——即地府方认为观音的安排已使孙悟空受制。",
+      "source_claim_local_ids": [
+        "claim-local-17"
+      ],
+      "notes": "仅为判官一方之语，观音的具体安排未在本章交代。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "seeded",
+      "summary": "判官称「观世音的主意」起了作用，孙悟空像被驯服的狗：观音对孙悟空做过何种安排、地府是否参与其中，尚未交代。",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0027/index.json",
+          "record_id": "char-0027"
+        },
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-17"
+      ]
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "seeded",
+      "summary": "孙悟空自称只有从山底下爬出的记忆；引路鬼所述五百年前勾销生死簿、被称魔王之人与孙悟空高度相合并被反问「你不记得了么」，其失忆与身份成为待解线索。",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11"
+      ]
+    },
+    {
+      "category": "quest",
+      "status": "open",
+      "role": "advanced",
+      "summary": "孙悟空此来地府是为找回带他去西天的和尚的魂灵；他被引至大地尽头的悬崖，被告知生死之事须问幽冥王，但本章末双方已动手，和尚魂灵尚未取回。",
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-20"
+      ]
+    },
+    {
+      "category": "world_rule",
+      "status": "open",
+      "role": "seeded",
+      "summary": "引路鬼所述世界规则：神靠活物的欲望与痛苦换取供奉，若生灵安乐则无人供奉；该说法与神魔战争叙事是否属实尚未被其他来源印证。",
+      "subject_refs_or_candidates": [
+        {
+          "candidate_name": "引路的鬼（地府解说者）"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-10"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第11章：地府·欲望与记忆",
+    "front_matter": {
+      "as_of": 11,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "引路的鬼（地府解说者）"
+        },
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        },
+        {
+          "path": "characters/char-0027/index.json",
+          "record_id": "char-0027"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n地府只有无边的黑暗，透明魂灵不断从上方渗下被洞口吸走；此处无饥饿、寒冷、痛苦，孙悟空却因仍活着而无气可吸、仍能感觉（[[claim-local-1]]）。黑暗深处一只巨大的万足怪把触角伸入万千魂灵，抓出其中的彩色小虫丢入熔岩之海（[[claim-local-2]]）。本章开篇即接续此前孙悟空要下地府取回和尚魂灵的动身。（[[ev-local-1]]）\n\n## 关键行动\n\n孙悟空向一只形如发光人皮灯笼的鬼发问：被抓出的东西是「欲望」；鬼进一步说此地魂灵还须舍弃记忆，如此才能洗刷过往、重新开始，转世是为赎罪（[[claim-local-3]]、[[claim-local-4]]）。鬼又论「活着，即是罪孽；有情，就会相欠」，并称神从万物灵蕴吸能、以「灵魂是种子，人是庄稼」的方式养出人的欲望与痛苦，人才祈求供奉（[[claim-local-5]]、[[claim-local-6]]）。孙悟空顺着这番话推问：神并非不能赐人安乐，只是不愿（[[claim-local-7]]）。\n\n## 转折与新信息\n\n鬼惊于孙悟空立刻看穿这套说辞，追问其身份；孙悟空报出名字，鬼突然不语，随即讲起五百年前有人以写着自己寿命的生死簿一笔勾销、又把亿万生死簿册通通烧尽（[[claim-local-8]]、[[claim-local-9]]）。据其所言，此后生灵皆长生不死、无人再需要神，神怒斥不死者为妖魔，百年神魔战争爆发、世间几成炼狱，世人则称那人为魔王（[[claim-local-10]]）。孙悟空对此只说自己仅有从山底下爬出的记忆，睁眼即见一个和尚对他笑；他此来正是为找回那和尚的魂灵（[[claim-local-11]]）。鬼遂引他走过几万里黑路至地府深处的大地尽头悬崖，告以生死之事须问幽冥王（[[claim-local-12]]、[[claim-local-13]]）。\n\n## 本章结果\n\n孙悟空离去后，幽冥王长出一口气，无数持兵器鬼卒从地府各处钻出（[[claim-local-14]]）。被孙悟空推下悬崖的鬼又钻出来，被幽冥王称为「判官」，并赞大王「一瞪眼就吓退了齐天大圣」；幽冥王收了变化现出胖人形，判官称「观世音的主意」起了作用，幽冥王说孙悟空如今像被驯服的狗（[[claim-local-15]]、[[claim-local-16]]、[[claim-local-17]]）。笑声中孙悟空一步步走回、每步震动地府，追问谁笑得最响，众鬼与判官都指向幽冥王（[[claim-local-18]]）。他抓住幽冥王手腕将其掷过众鬼头顶、撞到陷空山，随后跃入涌上的鬼卒阵中厮杀（[[claim-local-19]]、[[claim-local-20]]）。（[[ev-local-2]]）\n\n## 未决问题与补读入口\n\n- 引路的鬼究竟是谁：原文只明示「被孙悟空推下悬崖的鬼」是判官，而前段引路者身份未点名；幽冥王「收了变化」一句亦留有可能。\n- 本章文本在「凡人到此，再也不能」后出现断句并直接跳到「第十二章．」，孙悟空与幽冥王之间如何对峙、鬼如何被推下悬崖均缺失，需核对异文或后章回溯。\n- 「观世音的主意」内容、孙悟空被「驯服」的机制未交代。\n- 五百年前勾销生死簿者与孙悟空是否同一人，本章止于鬼的反问与孙悟空的失忆自述。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "note": "孙悟空入地府听引路鬼论欲望/记忆与神人因果，并自述失忆与来意为取回和尚魂灵",
+      "importance": "high"
+    },
+    {
+      "ref_or_local_id": "ev-local-2",
+      "kind": "event",
+      "note": "孙悟空折返掷飞幽冥王、杀入鬼卒，地府方与孙悟空关系转为公开敌对",
+      "importance": "high"
+    },
+    {
+      "ref_or_local_id": "claim-local-9",
+      "kind": "claim",
+      "note": "五百年前勾销并烧尽生死簿之人被称为魔王，引发百年神魔战争（引路鬼叙述）",
+      "importance": "high"
+    },
+    {
+      "ref_or_local_id": "claim-local-11",
+      "kind": "claim",
+      "note": "孙悟空的记忆起点仅为从山下爬出、见和尚微笑；来意为取回和尚魂灵",
+      "importance": "high"
+    },
+    {
+      "ref_or_local_id": "claim-local-17",
+      "kind": "claim",
+      "note": "判官称观世音的主意起作用、孙悟空如被驯服的狗——提示上层安排线索",
+      "importance": "high"
+    },
+    {
+      "ref_or_local_id": "claim-local-19",
+      "kind": "claim",
+      "note": "幽冥王被掷撞陷空山，地府权威受挫",
+      "importance": "medium"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "本章第 62—63 段附近文本残缺：「凡人到此，再也不能」后直接出现「第十二章．」字样并跳到幽冥王「天哪，他终于走了」，原文段落疑似被截断/混入他章标题。",
+      "evidence": "read_source(chapter_order=11) 返回段落 62~64",
+      "suggested_action": "核对原始文本来源与段落切分，确认是否缺失孙悟空与幽冥王对峙及推鬼下崖的段落"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "孙悟空如何「推下悬崖」那只鬼、幽冥王如何「一瞪眼就吓退了齐天大圣」，本章原文中均无对应正文，仅由后段对话与叙述回指。",
+      "evidence": "claim-local-15 / claim-local-16",
+      "suggested_action": "在缺失文本补齐前，相关情节不得补写为 explicit 过程"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "引路的鬼（发光人皮灯笼之鬼）身份未明示：既可能是判官，也可能是幽冥王的变化之形。",
+      "evidence": "claim-local-13 / claim-local-15 / claim-local-16",
+      "suggested_action": "留待后续章节或补充文本确认后再合并身份"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "「观世音的主意」的具体内容及其对孙悟空的作用机制，本章仅有一句判官之语，缺少可对应原文细节。",
+      "evidence": "claim-local-17",
+      "suggested_action": "跟踪后续涉及观音与地府的章节"
+    }
+  ],
+  "warnings": [
+    "工具调用次数已超出建议预算（约 22 次），部分 dedupe 检查（如观音与孙悟空关系对、引路鬼与判官关系）未能执行，可能产生与既有档案重复的关系/陈述条目。",
+    "本章原文第 62—64 段之间文本残缺并混入「第十二章．」字样，孙悟空与幽冥王对峙、鬼被推下悬崖的过程缺失，相关结论仅按原文可见部分提取，未作补写。",
+    "判官（char-0027）、幽冥王（char-0029）已存在实体档案（introduced_at=11），本次直接引用其 Ref；引路的鬼因原文未点名身份，单独登记为候选并给出 identity_link_candidates。",
+    "「和尚」未直接合并为唐僧（char-0001），仅在 claim 中以孙悟空转述呈现，并登记为身份链接候选。"
+  ]
+}

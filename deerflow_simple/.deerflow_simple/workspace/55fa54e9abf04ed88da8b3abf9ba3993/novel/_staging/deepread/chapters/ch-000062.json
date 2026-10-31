@@ -1,0 +1,1739 @@
+{
+  "chapter_order": 62,
+  "chapter_id": "ch-000062",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "宝象国殿上：唐僧被黄袍怪法力变作猛虎",
+      "introduced_at": 62,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 62,
+            "end": 62
+          }
+        ],
+        "revealed_at": 62,
+        "status": "ongoing",
+        "story_time": "五百年前 宝象国 入夜",
+        "summary": "入夜，奎木郎在为驸马准备的宫中按剑而坐，卫兵禀报国王要为他擒住\"化成西行和尚的虎妖\"设宴庆贺，他以作法擒虎太累为由推辞到明日。他回想白天之事：自述曾从虎妖口中救出公主，公主饶虎不死，那虎三年后化成西行和尚来陷害他；殿上唐僧反问\"你真知我本相？\"，随后黄袍怪的法力落到唐僧身上，唐僧变成一只猛虎，殿中大乱；黄袍怪事后自问\"若我不知他本相，我又如何变化他\"。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0107/index.json",
+              "record_id": "char-0107"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0149/index.json",
+              "record_id": "char-0149"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "宝象国国王"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "小白龙化身白衣女子夜入驸马宫行刺，被一掌击退",
+      "introduced_at": 62,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 62,
+            "end": 62
+          }
+        ],
+        "revealed_at": 62,
+        "status": "ongoing",
+        "story_time": "五百年前 宝象国 夜",
+        "summary": "一名白衣女子如雾气般托着酒具进入奎木郎宫中，叙事点明她是小白龙。奎木郎先盛赞其绝色、自陈远观银月与紫霞皆不如\"云中玉龙\"，随后说\"你虽美，可惜却还不如一人\"——内子百花羞，并称十三年前为她不做神仙去做妖精。小白龙自述爱人永远见不到她的笑，随即夺下奎木郎腰中剑刺出；黄袍怪纵身穿出宫殿，说\"你救不了他，叫孙悟空、天蓬来吧\"，一掌把她击飞，剑光游向天上入云不见。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0107/index.json",
+              "record_id": "char-0107"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0149/index.json",
+              "record_id": "char-0149"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0150/index.json",
+              "record_id": "char-0150"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "白晶晶携孙悟空上天庭，灵霄殿门始终不开",
+      "introduced_at": 62,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 62,
+            "end": 62
+          }
+        ],
+        "revealed_at": 62,
+        "status": "ongoing",
+        "story_time": "五百年前 天庭 白日（白云光影）",
+        "summary": "白晶晶带孙悟空来到天庭，称界限是天宫所设、不如去与他们说说。她教孙悟空对守门天将说粗话挑衅，四天将吓得跑进灵霄殿报\"孙悟空又打回来了\"；白晶晶称不怕，因为\"齐天大圣\"会护她，孙悟空却反问\"是那魔头，他在哪儿\"，并问自己以前是否来过。两人越过摆造型的天兵天将，登上据说必须逐级踩全才开门的灵霄殿玉阶；孙悟空撞窗、踢门均未使殿门开启。孙悟空说天将全是妖精扮的、天庭全是布景，自称修的是正果自然往西天去；白晶晶抱住他大哭，称其力量不及从前一半，话未说完便剧烈咳嗽吐血，孙悟空拿棒绕开她独自走远。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0147/index.json",
+              "record_id": "char-0147"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-23",
+          "claim-local-24"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-25",
+          "claim-local-31"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "孙悟空夜访南海紫竹林，求观音指路与解紧箍咒",
+      "introduced_at": 62,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 62,
+            "end": 62
+          }
+        ],
+        "revealed_at": 62,
+        "status": "ongoing",
+        "story_time": "五百年前 南海紫竹林 静夜",
+        "summary": "观音在紫竹林编花篮、逗金鱼后，孙悟空突然从阴影中跳出，自称\"没地儿可去\"，并说这条金鱼在哪儿见过；他请求观音像从前收留妖怪那样把他收下，被拒绝。他转述唐僧忽然发疯、说世界有界限、不能破界限便不能做他的徒弟；观音失态称自己竟算不到\"我的师兄\"发现边界，孙悟空追问\"什么师兄\"未得回答。孙悟空求观音指\"家\"的方向，并因已不保唐僧而请求解下紧箍咒；观音称走不到西天永远解不下来、他没有退路，还要除去四个魔王，指他向北走便能碰见魔王，随后把他推出竹林。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-32",
+          "claim-local-33",
+          "claim-local-34",
+          "claim-local-35",
+          "claim-local-36",
+          "claim-local-37",
+          "claim-local-38",
+          "claim-local-39",
+          "claim-local-40"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-35"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-34",
+          "claim-local-37"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-38",
+          "claim-local-40"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-5",
+      "title": "观音在竹林深处与如来密谈：玄奘似乎察觉边界",
+      "introduced_at": 62,
+      "update": {
+        "local_id": "update-local-5",
+        "chapter_ranges": [
+          {
+            "start": 62,
+            "end": 62
+          }
+        ],
+        "revealed_at": 62,
+        "status": "ongoing",
+        "story_time": "五百年前 南海紫竹林深处 静夜",
+        "summary": "观音推出孙悟空后直奔竹林深处，展开一轮光环，如来现身其中。观音说\"玄奘他似乎察觉什么了\"，如来答自己都知道了、无妨，\"他一开始就看破，又能如何？他走不出去\"。观音打开匣子取出一卷经文握在手中，试着拆开绑卷的布带，那个结却怎么也打不开。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-41",
+          "claim-local-42",
+          "claim-local-43",
+          "claim-local-44"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-41",
+          "claim-local-44"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-42",
+          "claim-local-43"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "卫兵向奎木郎禀报：国王要为他擒住\"化成西行和尚的虎妖\"一事设宴庆贺。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你擒住了化成西行和尚的虎妖"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "奎木郎以\"今日作法擒虎太累\"为由，请卫兵禀报国王把庆贺改到明日。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "我今日作法擒虎太累了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "奎木郎自述：他从虎妖口中救出公主，公主有好生之德饶那虎不死，不想三年后那虎化成西行和尚来此陷害他、想加害国王。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "我从虎妖口中救出公主"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "殿上唐僧反问奎木郎\"现形？你真知我本相？\"，随后拿起桌上茶杯一抿。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "现形？你真知我本相？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "黄袍怪的法力落到唐僧身上，唐僧当场变成一只猛虎，殿中大乱。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "唐僧变成了一只猛虎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "黄袍怪事后抓头，心中自问\"我真知他本相？若我不知，我又如何变化他？\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "若我不知，我又如何变化他"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "夜间托酒具如雾气般进入奎木郎宫中的白衣女子，叙事直接点明是小白龙。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "小白龙笑道"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "奎木郎赞白衣女子非人间绝色，称自己也曾远远遥望\"银月圣洁，紫霞流彩\"，却都不如\"那雾不沾衣的云中玉龙\"，今日得睹是此生幸事。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "却还都不如那雾不沾衣的云中玉龙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "小白龙问奎木郎\"莫非你见过天上仙女？我比之如何？\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "莫非你见过天上仙女？我比之如何？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "小白龙滑到奎木郎身边，纤手轻探却触在他按剑的手上，不由一抖。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "却触在奎木郎按剑的手上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "奎木郎对小白龙说\"你虽美，可惜却还不如一人\"，并称那人是内子百花羞；又称十三年前自己神仙也不做，为她去当妖精，只为她一笑。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "十三年前，我神仙也不做，为她去当妖精"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "奎木郎称小白龙的笑是假的、无有真情只有杀意，并说她也有心上人，那人若有幸见她会心的笑才是天下最美。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "可你的笑却是假的，无有真情，只有杀意"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "小白龙咬牙说\"他永远也见不到我的笑\"，称自己所爱的人永远不知道她的真面目，她留了最美的笑那人却要看不见了，\"我恨\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "他永远也见不到我的笑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "小白龙动作如闪电拔出黄袍怪腰中剑，剑光游于壁上；黄袍怪一纵身穿出宫殿，剑光追出。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "黄袍怪腰中剑已被小白龙拔出"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "黄袍怪对小白龙说\"你救不了他，叫孙悟空、天蓬来吧\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你救不了他，叫孙悟空、天蓬来吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "黄袍怪一掌挥出，小白龙惨呼一声摔了出去；剑光游向天上，隐入云中不见。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "小白龙惨呼一声摔了出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "白晶晶带孙悟空来到天庭，孙悟空问\"你带我来这里作甚\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "白晶晶与孙悟空来到了天庭"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "白晶晶对孙悟空说\"你不是要超出界限么？界限便是天宫设的了，不如与他们说说吧\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "界限便是天宫设的了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "守门四天将盘问孙悟空名姓，白晶晶教他该说\"叫玉帝孙子滚出来见他爷爷\"一类的粗话；四天将连滚带爬跑进灵霄殿喊\"那孙悟空他又打回来了\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "他又打回来了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空说\"祸事了，你这不是找死？\"；白晶晶说\"我不怕，因为有人会护着我\"，并说护她的是\"齐天大圣\"；孙悟空左顾右盼反问\"是那魔头，他在哪儿？\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "是那魔头，他在哪儿？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空对白晶晶说\"以前？我以前来过这儿么？\"，对自己是否来过天庭表示不知。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "我以前来过这儿么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "叙事称\"据说\"灵霄殿前三千三百级玉阶若不全踩到，殿门不会开；凡人自修仙法上天见驾还须一级一级磕上去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "三千三百级台阶不全踩到"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "孙悟空先几十级地往上蹦，随后觉得不对，又跳下去重新一级一级慢慢往上走。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "又跳下去重新慢慢往上走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "白晶晶跳起撞窗，窗子毫发无损；孙悟空运气一脚踢向殿门，仍未踢开，说\"我真的踢不开\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "我真的踢不开"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空恼怒地说\"你当我看不出那些天将全是妖精扮的？这些全是布景\"，并称自己\"修的是正果，自然是往西天去\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "这些全是布景"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "白晶晶一把抱住孙悟空大哭，称他\"受了那么多苦，没有人说，没有人帮你\"，说那次打黑风魔时他的力量\"还没从前的一半\"，并说妖精们\"不能不杀唐僧，因……\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你的力量还没从前的一半"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "白晶晶猛烈咳起来，血染红了孙悟空的布靴。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "血染红了孙悟空的布靴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "孙悟空问\"妖精也有紧箍咒么？是谁给你们安了这个？你们的首领大鹏王？\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你们的首领大鹏王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "白晶晶摇头说\"现在已不是齐天大圣的时代了\"，并说自己的不是法咒，而是\"心锁\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "不过我的不是法咒，是心锁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "白晶晶说\"这个罪，是我要受的\"，又低头喃喃\"谁要我还总想着，总不肯忘了，总盼着有一天回到从前的日子\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "这个罪，是我要受的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "孙悟空拿出棒子担在肩上，绕开白晶晶走远；白晶晶俯身吮她洒在衣服上、地上的血。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "绕开白晶晶走了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "南海静夜，观音在紫竹林编完花篮、逗了莲花池的金鱼，披散头发赤着脚在石子路上一蹦一蹦。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "观音在紫竹林中编完她的花篮"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "孙悟空忽然从阴影里跳出来，观音吓得尖叫，责怪他进来不敲门；孙悟空答\"我没找着门\"，并说自己\"没地儿可去\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你进来怎么不敲门？"
+        }
+      ],
+      "basis_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-34",
+      "text": "孙悟空说\"这条金鱼我在哪儿见过\"，又提起观音从前总把将被打死的妖怪收去做看门的、种树的，求菩萨也把他收下；观音暗恼，称\"我这儿不是无家可归的妖精的营地\"并拒绝收留他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "这条金鱼我在哪儿见过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-35",
+      "text": "孙悟空告诉观音：唐僧忽然发了疯，说世界有什么界限，说我们不能破那个界限，便不能做他的徒弟。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "说我们不能破那个界限"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-36",
+      "text": "观音失态说\"天哪！怎么会这样？我真的没法算到我的师兄……他居然发现了边界？\"；孙悟空追问\"什么师兄\"，观音以\"嗯，没有\"岔开。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "他居然发现了边界"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-37",
+      "text": "孙悟空说总觉得自己的家在一个山明水秀的地方却找不到，求观音指一条明路；又因现在不保唐僧，请求观音把紧箍咒给他解了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "那紧箍咒也请予我解了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-38",
+      "text": "观音答\"你走不到西天，永远解不下来的。你没有退路\"，并提醒他还要除去四个魔王。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你没有退路"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-39",
+      "text": "孙悟空说找不着那些魔王、求观音把他们叫来一次解决；观音说\"你从这儿出去向北走，就能碰见他们了\"，并称不骗他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "你从这儿出去向北走"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-40",
+      "text": "观音一把把孙悟空推出竹林。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "观音一把把孙悟空推出竹林"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-41",
+      "text": "观音转身直奔竹林深处，一轮光环展开，如来出现在光环之中。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "一轮光环展开，如来出现在光环之中"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-42",
+      "text": "观音对如来说\"玄奘他似乎察觉什么了\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "玄奘他似乎察觉什么了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-43",
+      "text": "如来答\"我都知道了，不过无妨\"，称对方\"一开始就看破，又能如何？他走不出去\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "他走不出去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-44",
+      "text": "观音打开匣子取出一卷经文握在手中，忽然开始拆那绑卷的布带，那个结却怎么也打不开。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 62,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000062.txt",
+          "chapter_id": "ch-000062",
+          "chapter_order": 62,
+          "locator": null,
+          "anchor": "那个结却怎么也打不开"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "大鹏王",
+      "introduced_at": 62,
+      "alias_texts": [
+        "大鹏王"
+      ],
+      "identity_notes": "本章仅由孙悟空向白晶晶提问\"你们的首领大鹏王？\"时提及；白晶晶摇头，未确认也未否认此说法。stage-plan 中列为第62—69章候选人物，但尚无独立档案。",
+      "evidence_claim_local_ids": [
+        "claim-local-28",
+        "claim-local-29"
+      ]
+    },
+    {
+      "label": "宝象国国王",
+      "introduced_at": 62,
+      "alias_texts": [
+        "国王"
+      ],
+      "identity_notes": "本章由卫兵禀报中出现，称庭上虎妖\"想加害国王\"；本人未出场。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天兵天将（天庭守备）",
+      "introduced_at": 62,
+      "notes": "本章出现的守门四天将与列队摆造型的天兵天将；孙悟空称\"那些天将全是妖精扮的\"（reported）。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-19",
+        "claim-local-25"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "界限／边界（世界的边界）",
+      "category": "world_rule",
+      "introduced_at": 62,
+      "notes": "由孙悟空转述唐僧的说法：世界有什么界限，若不能破那个界限便不能做他的徒弟；白晶晶称\"界限便是天宫设的了\"；观音称\"他居然发现了边界\"；如来称\"他走不出去\"。三条均为人物说法，未由叙述直接确认性质。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-43"
+      ]
+    },
+    {
+      "label": "灵霄殿玉阶（三千三百级）",
+      "category": "place_rule",
+      "introduced_at": 62,
+      "notes": "叙事称\"据说\"三千三百级台阶不全踩到，灵霄殿的门不会开；凡人自修仙法上天见驾还须一级一级磕上去。以\"据说\"形式给出，非叙述直证。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23"
+      ]
+    },
+    {
+      "label": "心锁",
+      "category": "ability_rule",
+      "introduced_at": 62,
+      "notes": "白晶晶自称囚她的不是法咒而是\"心锁\"，并说\"这个罪，是我要受的\"；具体机制未说明。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-29",
+        "claim-local-30"
+      ]
+    },
+    {
+      "label": "紧箍咒不可解",
+      "category": "world_rule",
+      "introduced_at": 62,
+      "notes": "观音对孙悟空称\"你走不到西天，永远解不下来的。你没有退路\"，并提到还要除去四个魔王。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-38"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "candidate_b": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "basis": "同一夜场景中，宫中驸马被写作\"奎木郎\"，而施法变虎、穿出宫殿、击飞小白龙者被写作\"黄袍怪\"；文中未出现两人同时登场的段落，也未明示二者同一。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-14",
+        "claim-local-16"
+      ],
+      "notes": "不在本章做合并，仅登记候选，待后续章明示。"
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "candidate_b": {
+        "candidate_name": "齐天大圣"
+      },
+      "basis": "白晶晶说\"有人会护着我\"、护她的是\"齐天大圣\"；在场的孙悟空却反问\"是那魔头，他在哪儿？\"，并问白晶晶\"我以前来过这儿么？\"，且对天庭毫不熟悉。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-29"
+      ],
+      "notes": "本章叙述显示孙悟空本人不与\"齐天大圣\"自我认同（或不记得），禁止据此直接合并。"
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "candidate_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "basis": "观音在如来面前以\"玄奘\"指称孙悟空所保、刚在宝象国被变作猛虎的师父；本章前段一律称\"唐僧\"，末段改称\"玄奘\"，文中未明示两者同一。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-42"
+      ],
+      "notes": "两份档案（char-0053 玄奘、char-0001 唐僧）并存，仅登记候选。"
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "candidate_b": {
+        "path": "characters/char-0148/index.json",
+        "record_id": "char-0148"
+      },
+      "basis": "本章白衣女子被叙述点名为\"小白龙\"；stage-plan 将\"白龙马\"列为第58—62章候选人物，本章未出现\"白龙马\"字样，两者是否同一未明示。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-16"
+      ],
+      "notes": "按原文用\"小白龙\"建档引用（char-0017），不擅自合并。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "subject_b": {
+        "path": "characters/char-0150/index.json",
+        "record_id": "char-0150"
+      },
+      "facet": {
+        "type": "other",
+        "label": "夫妻（自称内子）"
+      },
+      "certainty": "reported",
+      "summary": "奎木郎称\"你虽美，可惜却还不如一人\"，那人是\"内子百花羞\"；并称十三年前为她的笑不做神仙、去做妖精。",
+      "source_claim_local_ids": [
+        "claim-local-11"
+      ],
+      "notes": "仅为奎木郎自述；本章百花羞未出场，未出现感情定性描写。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "facet": {
+        "type": "hostility",
+        "label": "行刺与击退"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙化身白衣女子夜入奎木郎宫中，拔其腰中剑行刺，被黄袍怪一掌击飞，剑光游上天入云。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "facet": {
+        "type": "other",
+        "label": "同行与劝慰"
+      },
+      "certainty": "explicit",
+      "summary": "白晶晶主动带孙悟空上天庭、教他说话、教他踢门，抱住他大哭并劝他哭出来；孙悟空甩开她、称不需要她可怜，最后拿棒绕开她独自走远。",
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-26",
+        "claim-local-31"
+      ],
+      "notes": "只记录互动事实，不做关系定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "facet": {
+        "type": "other",
+        "label": "求助与被驱"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空夜闯紫竹林求观音收留他、指\"家\"的方向、解下紧箍咒并帮他聚来魔王；观音拒绝收留，称咒永解不下来，指他向北走，随后把他推出竹林。",
+      "source_claim_local_ids": [
+        "claim-local-34",
+        "claim-local-37",
+        "claim-local-38",
+        "claim-local-39",
+        "claim-local-40"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "subject_b": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "facet": {
+        "type": "other",
+        "label": "同门（自称师兄）"
+      },
+      "certainty": "reported",
+      "summary": "观音失态称\"我真的没法算到我的师兄……他居然发现了边界？\"，随后向如来报\"玄奘他似乎察觉什么了\"。",
+      "source_claim_local_ids": [
+        "claim-local-36",
+        "claim-local-42"
+      ],
+      "notes": "\"师兄\"所指是否即玄奘，原文以相邻台词暗示而未明说；玄奘与唐僧是否同一另行登记为身份候选。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "subject_b": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "facet": {
+        "type": "other",
+        "label": "上下/联络"
+      },
+      "certainty": "explicit",
+      "summary": "观音在竹林深处展开光环召出如来，向其报告玄奘的异动；如来答已知、无妨，称对方走不出去。",
+      "source_claim_local_ids": [
+        "claim-local-41",
+        "claim-local-42",
+        "claim-local-43"
+      ],
+      "notes": "仅记录本章呈现的问答与出场方式，未定性组织关系。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "世界界限与西行真相",
+      "category": "plot",
+      "status": "ongoing",
+      "role": "escalate",
+      "summary": "本章首次由孙悟空转述唐僧师徒关系因\"界限不可破\"而断裂；白晶晶称界限为天宫所设；观音称\"师兄\"发现边界；如来称\"他走不出去\"。",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-43"
+      ]
+    },
+    {
+      "thread_label": "孙悟空解箍与除魔任务",
+      "category": "plot",
+      "status": "ongoing",
+      "role": "reveal",
+      "summary": "孙悟空已不保唐僧，求观音解紧箍咒被拒；观音称走不到西天永解不下来、无退路，仍须除去四个魔王，并指他向北去遇魔王。",
+      "evidence_claim_local_ids": [
+        "claim-local-37",
+        "claim-local-38",
+        "claim-local-39"
+      ]
+    },
+    {
+      "thread_label": "唐僧被变作猛虎",
+      "category": "plot",
+      "status": "unresolved",
+      "role": "escalate",
+      "summary": "黄袍怪在宝象国殿上以法力把唐僧变作猛虎，殿中大乱；本章未叙述猛虎（唐僧）之后去向，黄袍怪自问能否真知本相。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6"
+      ]
+    },
+    {
+      "thread_label": "小白龙行刺失败",
+      "category": "plot",
+      "status": "unresolved",
+      "role": "escalate",
+      "summary": "小白龙化身白衣女子行刺未成，被一掌击飞出宫，剑光入云；黄袍怪嘱她\"叫孙悟空、天蓬来\"。",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第62章：宝象国虎变·天庭布景·南海问答",
+    "front_matter": {
+      "as_of": 62,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0107/index.json",
+          "record_id": "char-0107"
+        },
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0150/index.json",
+          "record_id": "char-0150"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "ev-local-5",
+        "claim-local-5",
+        "claim-local-7",
+        "claim-local-20",
+        "claim-local-25",
+        "claim-local-35",
+        "claim-local-36",
+        "claim-local-38",
+        "claim-local-43"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n「五百年后　宝象国」：入夜，奎木郎在为驸马准备的宫中按剑而坐，卫兵禀报国王要为他擒住\"化成西行和尚的虎妖\"设宴庆贺；他以\"今日作法擒虎太累\"推辞到明日（[[claim-local-1]]）。第62章的宝象国线即由此前的虎妖、公主、驸马纠葛接续而来。\n\n## 关键行动\n\n**殿上变虎。** 奎木郎回想白天之事：自述从虎妖口中救出公主、公主饶虎不死、三年后那虎化成西行和尚来陷害他。殿上唐僧反问\"现形？你真知我本相？\"，随后黄袍怪的法力落到他身上，唐僧变成一只猛虎，殿中大乱（[[ev-local-1]]、[[claim-local-5]]）。\n\n**小白龙夜刺。** 一名白衣女子托酒具如雾入宫，叙述点明她是小白龙（[[claim-local-7]]）。奎木郎盛赞其绝色、自陈远观\"银月圣洁，紫霞流彩\"皆不如\"云中玉龙\"，随后称\"你虽美，可惜却还不如一人\"——内子百花羞，并称十三年前为她神仙也不做、去做妖精。小白龙自述爱人永远见不到她的笑，随即夺下其腰中剑；黄袍怪穿出宫殿，说\"你救不了他，叫孙悟空、天蓬来吧\"，一掌把她击飞，剑光游上天入云（[[ev-local-2]]）。\n\n**天庭叩门。** 白晶晶带孙悟空来到天庭，称\"界限便是天宫设的了\"，教他对守门天将说粗话，四天将奔入灵霄殿喊\"那孙悟空他又打回来了\"。白晶晶说不怕，因为\"齐天大圣\"会护她，孙悟空却反问\"是那魔头，他在哪儿？\"（[[claim-local-20]]），并问自己\"以前来过这儿么\"。两人踏上须逐级踩全才开门的玉阶，白晶晶撞窗、孙悟空踢门都未能使殿门开启；孙悟空恼怒道\"你当我看不出那些天将全是妖精扮的？这些全是布景\"，并称自己\"修的是正果，自然是往西天去\"（[[claim-local-25]]）。白晶晶抱住他大哭，称其力量不及从前一半、话未说完便咳血染红他的布靴；孙悟空拿棒绕开她走远（[[ev-local-3]]）。\n\n**南海问答。** 紫竹林中，孙悟空跳出求观音收留他、指\"家\"的方向、解下紧箍咒，并转述唐僧说世界有界限、不能破界限便不能做他的徒弟（[[claim-local-35]]、[[ev-local-4]]）。观音失态称\"我真的没法算到我的师兄……他居然发现了边界？\"（[[claim-local-36]]）；随后称\"你走不到西天，永远解不下来的。你没有退路\"，提醒他还须除去四个魔王（[[claim-local-38]]），指他向北可遇魔王，并把他推出竹林。\n\n## 转折与新信息\n\n- 唐僧以\"界限\"为条件断绝师徒关系：\"说我们不能破那个界限，便不能做他的徒弟\"（孙悟空转述，[[claim-local-35]]）。\n- 白晶晶称界限为天宫所设；孙悟空称天庭的天将与场景\"全是布景\"、皆妖精所扮（[[claim-local-25]]）——两说均出自人物之口，未经叙述确认。\n- 观音脱口说出\"我的师兄\"，被孙悟空追问\"什么师兄\"后岔开；本章末改称其名\"玄奘\"（[[claim-local-36]]）。\n- 如来在光环中现身，称\"我都知道了，不过无妨\"、\"他一开始就看破，又能如何？他走不出去\"（[[claim-local-43]]）。\n- 白晶晶称自己所受的不是法咒而是\"心锁\"，并说\"这个罪，是我要受的\"。\n- 黄袍怪自称十三年前为百花羞不做神仙、去做妖精；又对小白龙称她的笑无真情、只有杀意。\n\n## 本章结果\n\n- 唐僧在宝象国殿上被变作猛虎，殿中大乱；本章未交代猛虎之后的去向（[[ev-local-1]]）。\n- 小白龙行刺失败，被一掌击飞出宫，剑光入云（[[ev-local-2]]）。\n- 天庭一行未入灵霄殿，孙悟空未见到玉帝；他明确表示自己\"往西天去\"，同时向观音求解紧箍咒被拒（[[ev-local-3]]、[[ev-local-4]]）。\n- 观音与如来的密谈以\"玄奘察觉\"为内容收束，观音拆经文布带时那个结怎么也打不开（[[ev-local-5]]）。\n\n## 未决问题与补读入口\n\n- 奎木郎与黄袍怪在本章为同一夜的两套称呼但未明示同一，已登记身份候选，需后文核对。\n- 孙悟空与\"齐天大圣\"的关系在本章呈反向张力（他不认\"齐天大圣\"、也不记得来过天庭），需结合前后章确认。\n- 黄袍怪对小白龙所说\"你救不了他\"中的\"他\"所指未明。\n- \"玄奘\"与本章前段\"唐僧\"的称呼切换未作说明。\n- 观音手中那卷经文的内容与打不开的结，本章未解。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-1",
+      "why": "宝象国线本章最高强度转折：唐僧被外力变作猛虎"
+    },
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-4",
+      "why": "孙悟空\"不保唐僧\"后首次直接向观音求解紧箍咒被拒，并接受除四魔任务"
+    },
+    {
+      "kind": "event",
+      "ref_local_id": "ev-local-5",
+      "why": "观音与如来密谈确认上级已知\"边界\"问题，阶段级权力线证据"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-35",
+      "why": "师徒关系断裂的直接起因（界限不可破）转述"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-36",
+      "why": "观音称\"我的师兄\"发现边界，同门关系线索"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-38",
+      "why": "紧箍咒不可解 + 除四魔任务的约束条件"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-43",
+      "why": "如来对西行受控的明确表态\"他走不出去\""
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-25",
+      "why": "孙悟空指认天庭天将皆妖精所扮、场景是布景，世界观线索"
+    },
+    {
+      "kind": "claim",
+      "ref_local_id": "claim-local-20",
+      "why": "孙悟空与\"齐天大圣\"自认错位，阶段内身份谜题关键证据"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "同一夜同一宫中，驸马被称\"奎木郎\"，施法者与击退小白龙者被称\"黄袍怪\"；本章未出现二者同场或明示同一",
+      "related_local_ids": [
+        "claim-local-5",
+        "claim-local-14",
+        "claim-local-16"
+      ],
+      "suggested_action": "登记身份候选，待后续章明示后再合并"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "在场的孙悟空不认\"齐天大圣\"（反问\"是那魔头，他在哪儿\"），也不记得来过天庭",
+      "related_local_ids": [
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "suggested_action": "保留为候选，不合并到齐天大圣档案"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "白衣女子由叙述点名为\"小白龙\"；stage-plan 第58—62章另有\"白龙马\"候选，本章无\"白龙马\"字样",
+      "related_local_ids": [
+        "claim-local-7"
+      ],
+      "suggested_action": "按原文用\"小白龙\"引用，合并事宜另行判定"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "观音口中\"玄奘\"与前文\"唐僧\"的称呼切换未明示同一；两份档案（char-0053 / char-0001）并存",
+      "related_local_ids": [
+        "claim-local-42"
+      ],
+      "suggested_action": "登记身份候选，勿直接改写引用"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "黄袍怪对小白龙说\"你救不了他\"，此\"他\"指谁（唐僧？小白龙的心上人？）本章未明示",
+      "related_local_ids": [
+        "claim-local-15",
+        "claim-local-13"
+      ],
+      "suggested_action": "登记为未决指代，勿指定对象"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "唐僧被变作猛虎后在本章无后续叙述（殿中大乱后直接转入夜间宫中场景），缺少去向与状态证据",
+      "related_local_ids": [
+        "claim-local-5",
+        "claim-local-6"
+      ],
+      "suggested_action": "标记覆盖缺口，待后章补读"
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章标题为\"．\"，且部分段落存在乱码/替换字符（如\"仍�ht=pt却仍\"、\"她整个�着我\"、\"吮着她吀�串吮着她\"），相关语句按可读文本提取",
+      "related_local_ids": [],
+      "suggested_action": "提示校对源文件编码，避免影响后续引文锚点"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "本章未说明奎木郎\"三年后虎化成西行和尚\"与\"十三年前不做神仙去当妖精\"两条时间线如何对应",
+      "related_local_ids": [
+        "claim-local-3",
+        "claim-local-11"
+      ],
+      "suggested_action": "保留原文陈述，不作时间线整合"
+    }
+  ],
+  "warnings": [
+    "原文标题为\"．\"（疑似缺失或乱码），章标题采用描述性拟题。",
+    "第5、17、24、40等段含乱码/替换字符，锚点取可唯一匹配的短语；若校订后正文变动需复核锚点。",
+    "工具调用约25次，超出20次预算，原因：本章新出现与疑似新出现人名较多（含\"齐天大圣\"\"大鹏王\"\"玄奘\"）及两轮实体摘要核对；已停止进一步核对，未读取相邻章。",
+    "本章未对\"奎木郎/黄袍怪\"\"孙悟空/齐天大圣\"\"玄奘/唐僧\"\"小白龙/白龙马\"作任何合并，仅登记身份候选。",
+    "所有由人物说出的规则性内容（界限、天庭布景、心锁、紧箍咒不可解、玉阶规矩）均按 reported 记录，不作为已证事实。",
+    "感情类定性未输出：奎木郎与百花羞、白晶晶与孙悟空、小白龙与其\"心上人\"仅记录互动与自述事实。"
+  ]
+}

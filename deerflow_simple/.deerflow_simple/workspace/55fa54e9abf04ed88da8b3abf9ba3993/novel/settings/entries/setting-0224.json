@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0224",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 65,
+  "label": "界限（神所设决定命运方向的屏障）",
+  "category": "other",
+  "introduced_at": 65,
+  "updates": [
+    {
+      "id": "update-setting-0224-001",
+      "revealed_at": 65,
+      "chapter_ranges": [
+        {
+          "start": 65,
+          "end": 65
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2477"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2478"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

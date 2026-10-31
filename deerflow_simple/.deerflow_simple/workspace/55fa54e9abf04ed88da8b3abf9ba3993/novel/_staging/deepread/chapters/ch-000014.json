@@ -1,0 +1,618 @@
+{
+  "chapter_order": 14,
+  "chapter_id": "ch-000014",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "小白龙窥看人间，化为金鲤游近岸边被船夫擒获当众展览",
+      "introduced_at": 14,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 14,
+            "end": 14
+          }
+        ],
+        "revealed_at": 14,
+        "status": "closed",
+        "story_time": null,
+        "summary": "小白龙在河中窥看岸上人间，生出「了解一个人、探知他的心」的强烈渴望，沿岸打量行人，最终只注意河边一个目光温暖的光头和尚。她急于让和尚看见自己，便以罕见的纯金色鲤鱼之形游向岸边，却被水中绳索缠住、被船夫提出水面大喊招人围观。离水后她失了神通无法变化，只能任人观看、听人竞价。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "船夫"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "河边和尚"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "和尚以「娃娃鱼」之说骗船夫递鱼，夺鱼揣入怀中跑出城",
+      "introduced_at": 14,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 14,
+            "end": 14
+          }
+        ],
+        "revealed_at": 14,
+        "status": "closed",
+        "story_time": null,
+        "summary": "围观者正为金色鲤鱼加价时，河边的和尚出声说「那条鱼吃不得的」，声称这不是鲤鱼而是珍稀的娃娃鱼（有四只脚、会娃娃音），并以佛祖名义担保。船夫半信半疑把鱼递过去，和尚一把夺过鱼揣进怀里转身就跑，一溜烟跑出城；船夫才反应过来高喊「和尚抢鱼」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "河边和尚"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "船夫"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "小白龙在水中窥看岸上人间的众生相（欢乐与哀愁、各样衣着表情），生出强烈渴望：她要去了解一个人，去探知他的心。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "她忽然有一种强烈的渴望，她要去了解一个人，去探知他的心。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "小白龙沿岸打量每个人，最终只注意到河边一个光头和尚，原因是他的眼睛——他看草木、柳树、街上行人的目光温暖愉悦，像太阳一样在欣赏和赞美。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "是了，因为他的眼睛。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "岸上有女子冲那和尚喊「那和尚！你盯着人家女孩子家看干吗？色迷迷的！讨厌！」，围观的人也都骂他「花痴和尚」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "色迷迷的！讨厌！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "那和尚被骂并不生气，笑着答道：「你入我眼，如花映水中，便不是花，色本是空，万物皆为红尘。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "河边和尚"
+      },
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "色本是空，万物皆为红尘"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "小白龙迫不及待想游到岸边让和尚看自己，因为她所化的是少见的纯金色鲤鱼，料想和尚一定会赞美她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "和尚一定会赞美她的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "小白龙游过去时被水中之物缠住，随即被提出水面；一名船夫大喊自己抓到了纯金色的鲤鱼，招呼众人来看。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "我抓了一条什么？金色的鲤鱼！纯金色的！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "小白龙被擒后觉得被一个「俗物」所擒又羞又气，想变化脱身，但离了水就失了神通。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "她想要变化，但没了水她就失了神通。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "围观人群为这条金色鲤鱼争相加价，起价「我要买它，十文钱！」，随后有人出十一文、十二文，船夫称这是「一辈子也不一定能见到一条」的稀罕物。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "我要买它，十文钱！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "小白龙在网中乱挣时发现所有人都往这边看，唯独那和尚不看，仍在望着河面出神；和尚一出声，她便不再蹦跳。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "就他不看，还在那儿看着河面出神"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "河边的和尚开口说「阿弥陀大爷，那条鱼吃不得的」，并称这条纯金色鱼不是鲤鱼，而是珍稀的娃娃鱼——有四只脚、会娃娃音。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "河边和尚"
+      },
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "这是一条珍稀的娃娃鱼！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "和尚自称「我以佛祖名义担保」所言有假就让佛祖头上长满大包，要船夫把鱼拿给他指着看，船夫半信半疑把金色鲤鱼递了过去。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "河边和尚"
+      },
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "我以佛祖名义担保"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "和尚一把夺过船夫递来的鱼，往怀里一揣，转身就跑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "河边和尚"
+      },
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "和尚一把夺过鱼，往怀里一揣，转身就跑！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "船夫恍然大悟，高喊「和尚抢鱼」，而和尚跑得极快，一溜烟出了城。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 14,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000014.txt",
+          "chapter_id": "ch-000014",
+          "chapter_order": 14,
+          "locator": null,
+          "anchor": "有和尚抢鱼啦"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "河边和尚",
+      "introduced_at": 14,
+      "alias_texts": [
+        "和尚",
+        "花痴和尚"
+      ],
+      "identity_notes": "章内只以「和尚」称呼，未出现姓名或法号。光头，目光温暖如太阳地看待草木与行人；被女子与众人骂「色迷迷」「花痴和尚」而不生气，答「色本是空，万物皆为红尘」；后以「珍稀娃娃鱼」之说说服船夫递鱼，以佛祖名义担保，随即夺鱼揣怀跑出城。是否为已建档实体「唐僧」章内未明示，另见 identity_link_candidates。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "船夫",
+      "introduced_at": 14,
+      "alias_texts": [
+        "船夫"
+      ],
+      "identity_notes": "在河边用绳/网捕到纯金色鲤鱼并提上岸，当众招人围观、等人竞价；听信和尚「娃娃鱼」之说把鱼递过去，鱼被夺走后高喊「和尚抢鱼」。章内无姓名，疑为一次性出场角色。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-11",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "河岸上的凡人城镇",
+      "category": "place",
+      "introduced_at": 14,
+      "notes": "水道紧邻凡人聚居的城镇：岸上有街道、柳树、挑猪头的屠户、低头赶路的书生、楼上招手的女子、酒楼、以及通出城外的城门。凡人不知水中生灵的真身，可当街买卖活鱼。章内未给出地名。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "河边和尚"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "hypothesis": "河边和尚与已建档实体「唐僧」为同一人",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-10",
+        "claim-local-11"
+      ],
+      "notes": "支持点：身份为佛教僧人（光头、自称以佛祖名义担保）；出现于小白龙离开水域后的人间河岸，时间上落在「取经人出现」的章节区间。缺失点：本章通篇未出现「唐僧」或任何法号，称呼仅为「和尚」，无法在章内锚定姓名。按身份谨慎原则不合并，仅登记候选。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "candidate_name": "河边和尚"
+      },
+      "facet": {
+        "type": "other",
+        "detail": "单向的注意与期待"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙在河中窥看人间时，唯独注意到岸上的和尚：她喜欢他看万物的温暖目光，想游近被他看见并料想会得到赞美；被擒当众展览时她仍留意他不看自己，和尚一出声她便停止挣扎；最终她（所化金鲤）被这和尚从船夫手中夺走、揣入怀中带出城。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-9",
+        "claim-local-12"
+      ],
+      "notes": "仅记录互动事实与小白龙本人的想法，不作感情类别定性。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "船夫"
+      },
+      "subject_b": {
+        "candidate_name": "河边和尚"
+      },
+      "facet": {
+        "type": "hostility",
+        "detail": "鱼被夺后的对立"
+      },
+      "certainty": "explicit",
+      "summary": "和尚以「娃娃鱼」之说让船夫把金色鲤鱼递过来，随后夺鱼揣怀跑走；船夫恍然大悟后当街高喊「和尚抢鱼啦」并唤人来。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13"
+      ],
+      "notes": "由一次性的骗取与追逐构成，非长期敌意。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "小白龙自水入世：对「人心」的渴望与初次接触凡人",
+      "category": "character_arc",
+      "status": "advanced",
+      "role": "setup_and_turn",
+      "chapter_order": 14,
+      "summary": "小白龙明确表示渴望了解一个人、探知他的心，并在河岸锁定一个目光温暖的和尚；她主动现身却被凡人当作买卖的货物，随即被该和尚带走。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-12"
+      ]
+    },
+    {
+      "thread_label": "金色鲤鱼被和尚带出城（取经人线索）",
+      "category": "plot_thread",
+      "status": "opened",
+      "role": "hook",
+      "chapter_order": 14,
+      "summary": "章末和尚把金鲤揣入怀中一溜烟出城，鱼（小白龙）落入他手中，去向未在本章交代。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第14章：金鲤入世（原章标题「．」）",
+    "front_matter": {
+      "as_of": 14,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "candidate_name": "河边和尚"
+        },
+        {
+          "candidate_name": "船夫"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-10",
+        "claim-local-12"
+      ]
+    },
+    "body_markdown": "## 开始局面\n承接上一章她「选一个方向顺意游去」之后：[[claim-local-1]] 小白龙从水下望见岸上的凡人世界，看着人的喜怒种种，第一次生出想去了解一个人、探知他的心的渴望。她沿着河岸打量每一个行人。\n\n## 关键行动\n[[claim-local-2]] 她最终只留意到河边一个光头和尚：他看草、看柳、看匆匆行人的目光温暖愉悦，像太阳一样在欣赏与赞美。岸上女子骂他「色迷迷」，众人骂「花痴和尚」，他也不恼。小白龙迫不及待想让和尚看见自己——她所化的是少见的纯金色鲤鱼，本以为会换来赞美，于是主动游向岸边。\n\n结果迎面而来的是另一种「被看见」：[[claim-local-6]] 她被水中之物缠住、被船夫提出水面，船夫当众大喊自己捕到了纯金色的鲤鱼，围观者争相加价，从十文起一路抬高。[[claim-local-7]] 她想以变化脱身，却因离水失了神通，只能任人展览。\n\n## 转折与新信息\n正当竞价热闹时，河边的和尚开口了：[[claim-local-10]] 他说「那条鱼吃不得的」，声称这不是鲤鱼，而是珍稀的娃娃鱼，有四只脚、会娃娃音，还自称以佛祖名义担保。船夫半信半疑地把鱼递了过去。\n\n## 本章结果\n[[claim-local-12]] 和尚一把夺过鱼揣进怀里转身就跑，船夫这才反应过来，高喊「和尚抢鱼」，而和尚已一溜烟跑出城。小白龙（所化金鲤）就此落入这个和尚手中，本章未交代被带到何处。\n\n## 未决问题与补读入口\n- 被擒期间小白龙注意到全场的目光只有和尚不在她身上，和尚一出声她便停止挣扎；这条互动的后续（她被带走后的处境与两人的相处）需读下一章。\n- 和尚本章通篇未出现姓名与法号，只能以「河边和尚」候选登记；其是否为已建档的取经僧人，见 identity_link_candidates，待后文明确。\n- 「离水便失神通」这一限制为本章明确交代，可作为后续她能否自行脱困的判断依据。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "reason": "小白龙由水入世、首次主动接触凡人的关键节点，并揭示「离水失神通」这一能力限制"
+    },
+    {
+      "ref_or_local_id": "ev-local-2",
+      "kind": "event",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "reason": "金鲤被和尚带走，构成取经人线索的钩子，直接影响后续小白龙去向"
+    },
+    {
+      "ref_or_local_id": "claim-local-1",
+      "kind": "claim",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "reason": "小白龙动机的核心表述（想了解一个人、探知他的心），人物转折点"
+    },
+    {
+      "ref_or_local_id": "claim-local-12",
+      "kind": "claim",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "reason": "和尚夺鱼跑出城的既成事实，用于后续身份与去向核对"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "chapter_order": 14,
+      "summary": "本章出场的「和尚」未出现任何姓名或法号，是否即已建档实体「唐僧」仅能凭僧人身份与章节位置推测，章内无可锚定的姓名证据。",
+      "related_candidate_labels": [
+        "河边和尚"
+      ],
+      "notes": "已登记 identity_link_candidates，未合并引用。"
+    },
+    {
+      "category": "missing_evidence",
+      "chapter_order": 14,
+      "summary": "「河边和尚」与「小白龙」之间的关系走向（带走后的相处、是否同行）在本章无任何交代，章末仅止于「跑出城」。",
+      "related_candidate_labels": [
+        "河边和尚"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "chapter_order": 14,
+      "summary": "原文第 6 段存在一处乱码字符（「她变的是一条正的是〔乱码〕很少见的金色鲤鱼」），相关陈述已改用同段落其他完整片段作为锚点，避免锚点无法唯一匹配。",
+      "related_candidate_labels": []
+    }
+  ],
+  "warnings": [
+    "本章章内未出现「唐僧」姓名，「和尚」按身份谨慎原则登记为候选实体而非合并到 char-0001；如需下游引用请以 identity_link_candidates 的 uncertain 结论为准。",
+    "原文含一处乱码字符（金鲤外形描述句），已避开该片段选取锚点。",
+    "ch-000014 原章标题为「．」（疑为占位符），摘要标题保留原名并加注。"
+  ]
+}

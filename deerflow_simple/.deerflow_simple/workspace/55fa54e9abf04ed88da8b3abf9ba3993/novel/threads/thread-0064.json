@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0064",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 16,
+  "label": "玄奘离寺远行、送小白龙回家",
+  "introduced_at": 16,
+  "updates": [
+    {
+      "id": "update-thread-0064-001",
+      "revealed_at": 16,
+      "chapter_ranges": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "category": "journey",
+      "status": "open",
+      "role": "setup",
+      "summary": "玄奘打点行装辞别法明，捧金色鲤鱼（小白龙）离寺，叙述者称「一次伟大的远行，就此拉开序幕」；目的地与结果未明。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1340"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1341"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1345"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1347"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1348"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

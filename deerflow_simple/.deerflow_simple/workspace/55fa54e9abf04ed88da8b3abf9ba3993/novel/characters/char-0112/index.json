@@ -1,0 +1,77 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0112",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 55,
+  "entity_type": "character",
+  "label": "松鼠",
+  "introduced_at": 40,
+  "identity_notes": [
+    {
+      "id": "in-char-0112-001",
+      "revealed_at": 40,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1840"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1841"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1845"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1850"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1852"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1853"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1855"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0112/stages/stage-005.md",
+        "record_id": "doc-char-0112-stage-005"
+      },
+      "kind": "character_stage",
+      "title": "松鼠·登峰见海与名字之约（第 50–55 章）",
+      "summary": "松鼠·登峰见海与名字之约（第 50–55 章）（第50—55章）",
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 55
+    }
+  ]
+}

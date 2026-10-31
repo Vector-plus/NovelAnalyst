@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0199",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 54,
+  "label": "每个生灵都会去的那个地方（老猴所述去处）",
+  "category": "other",
+  "introduced_at": 54,
+  "updates": [
+    {
+      "id": "update-setting-0199-001",
+      "revealed_at": 54,
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2155"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

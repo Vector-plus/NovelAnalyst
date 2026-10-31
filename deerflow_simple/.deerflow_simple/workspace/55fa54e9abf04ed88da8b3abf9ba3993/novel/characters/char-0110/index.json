@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0110",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 39,
+  "entity_type": "character",
+  "label": "孙悟空的师父",
+  "introduced_at": 39,
+  "identity_notes": [
+    {
+      "id": "in-char-0110-001",
+      "revealed_at": 39,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1826"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1828"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1829"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0104",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 49,
+  "label": "五行山与「漫长岁月后的一声巨响」",
+  "introduced_at": 49,
+  "updates": [
+    {
+      "id": "update-thread-0104-001",
+      "revealed_at": 49,
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "category": "plot_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "章末叙述：观音与二郎神飞过的天空下，五行山默默立着，等着那漫长岁月后的一声巨响。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-2074"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

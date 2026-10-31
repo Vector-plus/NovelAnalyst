@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0054",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 18,
+  "introduced_at": 11,
+  "subjects": [
+    {
+      "path": "characters/char-0017/index.json",
+      "record_id": "char-0017"
+    },
+    {
+      "path": "characters/char-0053/index.json",
+      "record_id": "char-0053"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0054-stage-002",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 18
+        }
+      ],
+      "as_of": 18,
+      "revealed_at": 18,
+      "summary": "acquaintance",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "携行与放归（处置权）",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "好奇与靠近",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "是否被识破身份",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "相伴意愿",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

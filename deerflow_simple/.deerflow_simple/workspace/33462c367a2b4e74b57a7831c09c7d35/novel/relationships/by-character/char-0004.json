@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "与克雷尔×萨里的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0002.json",
+        "record_id": "rel-0002"
+      },
+      "title": "克雷尔×萨里"
+    }
+  ],
+  "id": "idx-rel-char-0004",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 2,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 1,
+        "start": 1
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0004/index.json",
+        "record_id": "char-0004"
+      }
+    ]
+  },
+  "title": "char-0004 关系入口"
+}

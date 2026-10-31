@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0073",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "紫霞与孙悟空的往来：赠袍被拒",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0073-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "relationship",
+      "status": "active",
+      "role": "subplot",
+      "summary": "紫霞在巨灵神面前维护孙悟空并承认对他有意，织成其旧日战袍相赠；孙悟空挥飞并出言讥讽，紫霞捡起后于云层边丢弃落泪；后续她在落霞宫独自看晚霞并自语。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1518"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1519"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1524"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1527"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1530"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1538"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1540"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

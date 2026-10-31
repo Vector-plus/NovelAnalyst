@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0035",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 10,
+  "entity_type": "character",
+  "label": "丑面女妖",
+  "introduced_at": 4,
+  "identity_notes": [
+    {
+      "id": "in-char-0035-001",
+      "revealed_at": 4,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0327"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0333"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0336"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0339"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0340"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0035/stages/stage-001.md",
+        "record_id": "doc-char-0035-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0035/index.json",
+          "record_id": "char-0035"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

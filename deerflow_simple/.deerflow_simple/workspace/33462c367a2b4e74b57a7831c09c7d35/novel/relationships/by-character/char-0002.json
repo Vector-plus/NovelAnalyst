@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "与格兰特×拾荒者（英美文学教授）的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0005.json",
+        "record_id": "rel-0005"
+      },
+      "title": "格兰特×拾荒者（英美文学教授）"
+    }
+  ],
+  "id": "idx-rel-char-0002",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 2,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 1,
+        "start": 1
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      }
+    ]
+  },
+  "title": "char-0002 关系入口"
+}

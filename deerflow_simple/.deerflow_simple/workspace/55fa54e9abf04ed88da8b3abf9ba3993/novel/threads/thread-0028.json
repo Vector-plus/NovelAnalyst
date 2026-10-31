@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0028",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "孙悟空与天界的决裂",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0028-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "plot_thread",
+      "status": "ongoing",
+      "role": "setup",
+      "summary": "孙悟空因蟠桃大会未受邀而自称\"我要回家\"，飞向灵霄宝殿，章末点出大闹天宫之日到来。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0785"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0786"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0789"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

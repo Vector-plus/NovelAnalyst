@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0148",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 29,
+  "label": "天界战车（天界战车在调集的声音）",
+  "category": "artifact",
+  "introduced_at": 29,
+  "updates": [
+    {
+      "id": "update-setting-0148-001",
+      "revealed_at": 29,
+      "chapter_ranges": [
+        {
+          "start": 29,
+          "end": 29
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1614"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1615"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

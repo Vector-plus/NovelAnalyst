@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0234",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 68,
+  "label": "心障（幻境）",
+  "category": "other",
+  "introduced_at": 68,
+  "updates": [
+    {
+      "id": "update-setting-0234-001",
+      "revealed_at": 68,
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 68
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2573"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2561"
+        },
+        {
+          "path": "events/block-0008.json",
+          "record_id": "claim-2567"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

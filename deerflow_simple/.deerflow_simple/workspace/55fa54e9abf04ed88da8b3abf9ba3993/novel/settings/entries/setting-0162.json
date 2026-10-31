@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0162",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 36,
+  "label": "天囚塔",
+  "category": "other",
+  "introduced_at": 36,
+  "updates": [
+    {
+      "id": "update-setting-0162-001",
+      "revealed_at": 36,
+      "chapter_ranges": [
+        {
+          "start": 36,
+          "end": 36
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1759"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1765"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1766"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

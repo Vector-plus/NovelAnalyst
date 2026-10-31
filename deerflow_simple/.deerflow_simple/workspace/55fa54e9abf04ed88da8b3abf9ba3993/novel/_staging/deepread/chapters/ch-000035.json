@@ -1,0 +1,1093 @@
+{
+  "chapter_order": 35,
+  "chapter_id": "ch-000035",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天界欢庆擒住妖猴，紫霞独自走到天界一角的云边",
+      "introduced_at": 35,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 35,
+            "end": 35
+          }
+        ],
+        "revealed_at": 35,
+        "status": "completed",
+        "story_time": "孙悟空被擒之后（时间点未明示）",
+        "summary": "天界传出「擒住妖猴啦」的欢呼，众神像过节一样庆祝，宫殿被围得铁桶一般。紫霞立于云端远望，面色平静；她回想当年孙悟空拒绝她紫色披巾时的吼叫，独自离开众神聚集处，走到天界一角的云边。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空在天界云边现身，与紫霞重逢对话",
+      "introduced_at": 35,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 35,
+            "end": 35
+          }
+        ],
+        "revealed_at": 35,
+        "status": "completed",
+        "story_time": "同上，紧接紫霞到云边之后",
+        "summary": "紫霞转身之际，一个熟悉的声音喊住她，孙悟空手拿蟠桃站在云边，笑着与她说话。他称紫霞眼睛好看、想起好吃的葡萄，称她就是「阿月」并让她代问天蓬好，又改叫「阿紫」问她是否认出自己。紫霞冷冷质问他不是去了西天、不是大闹灵霄殿被擒；孙悟空自称五百年前于炼丹炉重生后便未被抓住过，被抓的是「一个喜欢把紧箍儿戴头上的傻帽」。紫霞听后心乱如麻，无法判断五百年记忆的真假。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0015/index.json",
+              "record_id": "char-0015"
+            },
+            "role": "mentioned"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "孙悟空击破天顶，火流入燃烧天际，天宫众神大乱",
+      "introduced_at": 35,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 35,
+            "end": 35
+          }
+        ],
+        "revealed_at": 35,
+        "status": "ongoing",
+        "story_time": "同上，紧接二人对话",
+        "summary": "孙悟空说天界闷得慌，要「开个天窗透透风」，金箍棒化作一束金光直插天穹，天顶破开一个大口，火从缺口流淌下来燃着天际。紫霞惊呆（自女娲补天以来天从未裂过）。孙悟空先狂笑称是新鲜空气、说这破天烂地烧了也罢，随即抱头呜咽喊不要烧花果山，重抬头时眼中被火光映红、神情狰狞。天宫另一边太白金星、巨灵神、太上老君等乱成一片，巨灵神把火因归到太上老君生完炉子不看火，太上老君否认并惊叫指天，众神尖叫，王母当场吓晕。火越烧越大，天宫却越来越冷。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0096/index.json",
+              "record_id": "char-0096"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0066/index.json",
+              "record_id": "char-0066"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-20"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-21",
+          "claim-local-24",
+          "claim-local-26"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "天界传出「擒住妖猴啦」的欢呼，众神像在庆祝节日一样，宫殿被围得铁桶似的。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "擒住妖猴啦！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "紫霞立在一片云端，望着被众神围住的宫殿，脸庞平静，看不出悲喜。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "紫霞立在一片云端"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "紫霞回想起当年孙悟空对她吼叫，说「俺已经是齐天大圣了，俺已经用不着他们了」，并质问紫色披巾「不要告诉我你是用西天的彩霞做的」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "你还拿这东西来做什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "紫霞心中生出疑问：「齐天大圣」五百年前败了，五百年后是否还是要败，他何时逃出过天的手掌。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "紫霞离开众神聚集的地方，独自走到天界一角的云边（她此前也曾来过这块云边）。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "紫霞离开众神聚集的地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "紫霞下定决心转身时，一个熟悉的声音说「小姑娘，又在这儿哭鼻子啊」，孙悟空手拿蟠桃站在当地，笑着看她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "小姑娘，又在这儿哭鼻子啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空对紫霞说她的眼睛很好看，让他想起好吃的葡萄。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "你的眼睛很好看"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "紫霞当面说对方不是孙悟空，理由是「孙悟空不这样说话」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "孙悟空不这样说话"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空自称五百年前就在此处见到紫霞时就想说这话，只是张嘴变成了别的，如今不再那样没出息。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空称紫霞「就是阿月」，并让她代自己问天蓬好。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "你不就是阿月嘛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空神色转严肃，改称紫霞为「阿紫」，问她是否认得自己了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "紫霞很想立刻投进孙悟空怀里哭一场，但口中只冷冷地问他不是去西天了吗。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空反问「西天在哪儿」，称老孙一高兴把天翻个个，这就变西天。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": null
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空自称自五百年前在炼丹炉里重生以后就没有被抓住过。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "就没被抓住过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空说天界抓的不是他，而是「一个喜欢把紧箍儿戴头上的傻帽」，说时望着灵霄殿方向叹气。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "一个喜欢把紧箍儿戴头上的傻帽"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "紫霞听罢心乱如麻，五百年来的记忆一片混乱，分不清哪些是真哪些是假，也无法确认孙悟空是否真死过、自己与他说过的话以及骸骨手上的紫纱巾是否真实。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "紫霞忽觉得心乱如麻"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空说天界阴沉闷得慌，要「开个天窗透透风」，一伸手，金箍棒从手中变成一束金光直插天穹。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "金箍棒从手中变成一束金光直插天穹"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "天庭震动，天顶破了一个大口，火从那里流淌下来，燃着了天际。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "天顶破了一个大口"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "紫霞惊呆，因为自女娲补天以来天还没有裂过。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "自女娲补天以来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空先狂笑称「新鲜空气」，说「这样一个破天烂地，烧了吧」，随即抱头呜咽，喊「火……不要烧，不要烧我的花果山」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "不要烧，不要烧我的花果山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空重新抬起头时，眼中被火光映红，神情分外狰狞。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "神情分外狰狞"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "太白金星问「怎么了」；巨灵神称定是太上老君生完炉子不看着才烧起来，并说五百年前那猴子复活时就是这么大火。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "定是太上老君生完炉子不看着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "太上老君否认是自己，随即惊叫指天：「这火……啊！看哪，天上！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "不是我啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "众神抬头看天，顿时一片尖叫，王母当场吓晕过去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "王母当场就吓晕了过去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空笑嘻嘻地问紫霞「好玩，是不？」，并说自己也「不知道」天外边是什么，奇怪以前为什么没人想打开来看看。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "好玩，是不？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "火光冲天之际，紫霞觉得身上一阵寒冷；火越烧越大，天宫却越来越冷。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 35,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000035.txt",
+          "chapter_id": "ch-000035",
+          "chapter_order": 35,
+          "locator": null,
+          "anchor": "天宫却越来越冷"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "天顶／天穹（女娲补天）",
+      "category": "cosmology",
+      "introduced_at": 35,
+      "notes": "叙述明确：孙悟空以金箍棒击破天顶，紫霞惊呆，因为「自女娲补天以来，天还从没裂过」。天外是什么，本章无人知道。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-25"
+      ]
+    },
+    {
+      "label": "炼丹炉重生（孙悟空自称）",
+      "category": "ability_or_history",
+      "introduced_at": 35,
+      "notes": "孙悟空自称五百年前于炼丹炉里重生后便未被抓住过；原文此处有文字残损，句子不完整。属角色自述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-22"
+      ]
+    },
+    {
+      "label": "紧箍儿",
+      "category": "item",
+      "introduced_at": 35,
+      "notes": "孙悟空称天界擒走的是「一个喜欢把紧箍儿戴头上的傻帽」。紧箍儿的来源、功能在本章未说明。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-15"
+      ]
+    },
+    {
+      "label": "紫色披巾（西天彩霞所制）",
+      "category": "item",
+      "introduced_at": 35,
+      "notes": "紫霞回忆中孙悟空当年的话提到「这披巾居然是紫色的……不要告诉我你是用西天的彩霞做的」；本章另提到「骸骨的手上……那条紫纱巾」。两者是否同一物，原文未明示。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "喜欢把紧箍儿戴头上的傻帽（孙悟空所指、被天界擒住者）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "relation_hypothesis": "not_same_person",
+      "certainty": "reported",
+      "notes": "孙悟空称天界抓的不是自己而是「一个喜欢把紧箍儿戴头上的傻帽」。该被擒者姓名原文未点明，本章也未明示其与任何已建档实体（含前文「妖猴」「骸骨」等）是否同一。仅记录孙悟空本人的指认，不作合并。",
+      "source_claim_local_ids": [
+        "claim-local-15"
+      ]
+    },
+    {
+      "candidate_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "candidate_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "relation_hypothesis": "alias_mention",
+      "certainty": "reported",
+      "notes": "孙悟空称紫霞「就是阿月」，并让她代问天蓬好。这是孙悟空单方面的称呼与关联暗示；紫霞本人未确认「我是阿月」。故不将紫霞并入阿月实体，仅登记候选，待后文佐证。",
+      "source_claim_local_ids": [
+        "claim-local-10"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "旧识重逢互动事实"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞认出孙悟空后很想立刻投进他怀里哭一场，却只冷冷质问他的去向；孙悟空主动搭话、称她眼睛好看、说五百年前就想说这话、称她「阿月」又称「阿紫」问她是否认出自己。此前紫霞曾回想孙悟空吼她、拒绝紫色披巾的旧事，并自述「我转身的时候，从此就会忘记那只猴子」。双方对五百年前往事的记忆存在不一致。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-16"
+      ],
+      "notes": "仅记录互动与言语事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "subject_b": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅由孙悟空一句转达提及"
+      },
+      "certainty": "reported",
+      "summary": "孙悟空称紫霞「就是阿月」，让她代自己问天蓬好，暗示紫霞（或其所对应的「阿月」身份）与天蓬相识。本章未展开，紫霞未作回应。",
+      "source_claim_local_ids": [
+        "claim-local-10"
+      ],
+      "notes": "依据仅为孙悟空一句口述，且「阿月＝紫霞」本身尚未被紫霞确认。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "raised",
+      "title": "被天界擒住的「妖猴」究竟是谁",
+      "summary": "天界众神高呼擒住妖猴，孙悟空却当场现身，自称五百年前于炼丹炉重生后从未被擒，被擒的是「一个喜欢把紧箍儿戴头上的傻帽」。被擒者的真实身份成为本章核心悬置。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": "孙悟空为当章在场亲口陈述，属 reported；叙述未给出旁证。"
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "raised",
+      "title": "紫霞五百年记忆的真伪",
+      "summary": "紫霞自问「哪些是真，哪些是假」：孙悟空是否真死过、他与自己说过的话是真是假、骸骨手上是否真的握过紫纱巾。本章未给出解答。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-16"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "event_consequence",
+      "status": "ongoing",
+      "role": "raised",
+      "title": "天顶被击破后的三界灾殃",
+      "summary": "孙悟空击破天顶，火流入燃着天际；紫霞警告「这样三界都会有大灾殃」。天宫诸神大乱、王母吓晕，火越烧越大而天宫越来越冷。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-20",
+        "claim-local-24",
+        "claim-local-26"
+      ],
+      "notes": ""
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "witnessed",
+      "title": "五百年前天界大火与炼丹炉之说",
+      "summary": "巨灵神把本次火因归为太上老君生完炉子不看火，并称五百年前那猴子复活时就是这么大火；太上老君当场否认。此说属巨灵神口述，未获证实。",
+      "source_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23"
+      ],
+      "notes": ""
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第35章：擒妖猴之日，天顶破裂",
+    "front_matter": {
+      "as_of": 35,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        },
+        {
+          "path": "characters/char-0096/index.json",
+          "record_id": "char-0096"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n天界传出「擒住妖猴啦」的欢呼，众神如过节般庆祝，宫殿被围得铁桶一般 [[claim-local-1]]。紫霞立在一片云端远望，脸庞平静，看不出悲喜 [[claim-local-2]]；她回想起当年孙悟空吼她、拒绝那条紫色披巾的旧话，并自问「齐天大圣」五百年前败了、五百年后是否仍要败，他何时逃出过天的手掌 [[claim-local-3]] [[claim-local-4]]。她离开众神聚集处，独自走到天界一角的云边 [[claim-local-5]]。\n\n## 关键行动\n\n紫霞下定决心转身欲「从此忘记那只猴子」之际，一个熟悉的声音喊住她，孙悟空手拿蟠桃站在当地笑着看她 [[claim-local-6]]。他称她眼睛好看、想起好吃的葡萄 [[claim-local-7]]；紫霞当面说「你不是孙悟空，孙悟空不这样说话」 [[claim-local-8]]。孙悟空自称五百年前在此见她时就想说这话 [[claim-local-9]]，称她「就是阿月」并让她代问天蓬好 [[claim-local-10]]，随后神色严肃改叫「阿紫」，问她是否认得自己了 [[claim-local-11]]。紫霞想立刻投进他怀里哭一场，却只冷冷追问他不是去了西天、不是大闹灵霄殿被擒 [[claim-local-12]]。\n\n## 转折与新信息\n\n孙悟空反问「西天在哪儿」，说自己一高兴把天翻个个就是西天 [[claim-local-13]]；又称自五百年前在炼丹炉里重生后就没被抓住过 [[claim-local-14]]，被抓的是「一个喜欢把紧箍儿戴头上的傻帽」 [[claim-local-15]]。紫霞随即心乱如麻，五百年来的记忆一片混乱，分不清哪些是真、哪些是假 [[claim-local-16]]。随后他以「开个天窗透透风」为由，一伸手让金箍棒化作一束金光直插天穹 [[claim-local-17]]，天庭震动，天顶破开一大口，火从缺口流淌燃着天际 [[claim-local-18]]——紫霞惊呆，因为自女娲补天以来天还没裂过 [[claim-local-19]]。天宫那边，巨灵神把火因归到太上老君「生完炉子不看着」，并称五百年前那猴子复活时就是这么大火的 [[claim-local-22]]；太上老君当场否认并惊叫指天 [[claim-local-23]]。\n\n## 本章结果\n\n众神抬头看天，一片尖叫，王母当场吓晕 [[claim-local-24]]。孙悟空先狂笑称「新鲜空气」、「这样一个破天烂地，烧了吧」，随即抱头呜咽喊「不要烧我的花果山」，重抬头时眼中映红、神情狰狞 [[claim-local-20]] [[claim-local-21]]。他笑嘻嘻问紫霞「好玩，是不？」并说自己也不知道天外边是什么 [[claim-local-25]]。火光冲天，紫霞却觉得身上一阵寒冷；火越烧越大，天宫却越来越冷 [[claim-local-26]]。\n\n## 未决问题与补读入口\n\n- 天界擒住的「妖猴」到底是谁？孙悟空所说「喜欢把紧箍儿戴头上的傻帽」姓名未明，需回查前文被擒、骸骨等段落。\n- 紫霞／「阿月」的身份关系：孙悟空单方称她为阿月并提及天蓬，紫霞未确认，待后文佐证。\n- 紫霞五百年记忆的真伪（孙悟空是否真死过、骸骨手上的紫纱巾），本章未解。\n- 天顶破裂后「三界大灾殃」的后续，以及天宫为何火光冲天却越来越冷。\n- 五百年前天界大火与太上老君丹炉的关系，仅有巨灵神口述，太上老君否认。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 35,
+      "note": "孙悟空击破天顶、火流入天界，天宫大乱——本阶段重大转折点候选",
+      "salience": "high"
+    },
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 35,
+      "note": "孙悟空登场与紫霞重逢，交代「被擒者另有其人」",
+      "salience": "high"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-15",
+      "chapter_order": 35,
+      "note": "孙悟空自称被擒的是「喜欢把紧箍儿戴头上的傻帽」，身份悬念核心证据",
+      "salience": "high"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-10",
+      "chapter_order": 35,
+      "note": "孙悟空称紫霞即「阿月」，并提及天蓬",
+      "salience": "medium"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-16",
+      "chapter_order": 35,
+      "note": "紫霞记忆混乱，五百年前事件真伪存疑",
+      "salience": "medium"
+    },
+    {
+      "kind": "faction_trend",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 35,
+      "note": "天宫诸神（太白金星、巨灵神、太上老君、王母等）在突发火灾前失序",
+      "salience": "medium"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "detail": "孙悟空称天界擒住的是「一个喜欢把紧箍儿戴头上的傻帽」，原文未给出该人姓名，也未明示其与前文「妖猴」或「骸骨」等指称是否为同一人。",
+      "source_claim_local_ids": [
+        "claim-local-15"
+      ],
+      "anchor": "一个喜欢把紧箍儿戴头上的傻帽"
+    },
+    {
+      "category": "fact_conflict",
+      "detail": "天界众神欢呼「擒住妖猴啦」并庆祝；孙悟空当场现身并自称五百年前炼丹炉重生后从未被擒。两者为对立说法：前者为叙述呈现的众神言行，后者为孙悟空口述，均未获独立旁证。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "anchor": "就没被抓住过"
+    },
+    {
+      "category": "source_locator",
+      "detail": "原文「老孙自五百年前于炼??年前?丹炉里重生就没被抓住过」一句存在字符残损（OCR/编码问题），无法逐字引用完整原句，语义按上下文归纳。",
+      "anchor": "就没被抓住过"
+    },
+    {
+      "category": "identity_ambiguity",
+      "detail": "紫霞回忆中的「紫色披巾（用西天的彩霞做的）」与叙述提到的「骸骨的手上……那条紫纱巾」是否为同一物，原文未明示。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-16"
+      ],
+      "anchor": "这披巾居然是紫色的"
+    }
+  ],
+  "warnings": [
+    "本章标题为「．」，疑为原文标题缺失或占位，未作标题语义推断。",
+    "正文含残损片段（炼丹炉一句），anchor 选用残损之外的相邻完整短句，语义存在小幅不确定。",
+    "紫霞＝「阿月」仅出自孙悟空单方称呼，未按同一人合并，已登记 identity_link_candidate。",
+    "所有角色说出口的内容（孙悟空自述、巨灵神归因、太上老君否认等）均标为 reported，未按叙述事实处理。"
+  ]
+}

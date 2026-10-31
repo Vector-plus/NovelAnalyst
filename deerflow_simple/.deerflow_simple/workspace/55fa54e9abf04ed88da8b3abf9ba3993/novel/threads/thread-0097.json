@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0097",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 43,
+  "label": "沙悟净补全琉璃盏以求重返天界",
+  "introduced_at": 43,
+  "updates": [
+    {
+      "id": "update-thread-0097-001",
+      "revealed_at": 43,
+      "chapter_ranges": [
+        {
+          "start": 43,
+          "end": 43
+        }
+      ],
+      "category": "quest",
+      "status": "ongoing",
+      "role": "introduced",
+      "summary": "沙悟净自称当年打碎琉璃盏被罚下天庭，五百年间搜寻洒落世间的琉璃碎片，已拼补成盏，仅差最后一片；玉帝命他先把最后一片找到再说。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1930"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1932"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1935"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1940"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0060",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 12,
+  "label": "天庭封锁取经四人：不得相助之令",
+  "introduced_at": 12,
+  "updates": [
+    {
+      "id": "update-thread-0060-001",
+      "revealed_at": 12,
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "category": "faction",
+      "status": "open",
+      "role": "setting_constraint",
+      "summary": "敖广称天庭已有明令，谁也不得帮助那四人，且那四人的命数由上天定好不能违改；他仍将定颜珠交给女儿，并说“你改变不了什么的”。小白龙反问“被注定的一切就无法改变么”。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1235"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1236"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

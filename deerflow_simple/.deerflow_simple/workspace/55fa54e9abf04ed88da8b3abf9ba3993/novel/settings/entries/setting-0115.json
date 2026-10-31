@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0115",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 11,
+  "label": "大地尽头的悬崖",
+  "category": "other",
+  "introduced_at": 11,
+  "updates": [
+    {
+      "id": "update-setting-0115-001",
+      "revealed_at": 11,
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1219"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

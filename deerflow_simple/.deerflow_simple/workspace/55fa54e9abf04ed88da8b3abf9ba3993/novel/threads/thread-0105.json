@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0105",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 50,
+  "label": "松鼠远行的承诺（把所见带回告诉老树）",
+  "introduced_at": 50,
+  "updates": [
+    {
+      "id": "update-thread-0105-001",
+      "revealed_at": 50,
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 50
+        }
+      ],
+      "category": "foreshadowing",
+      "status": "open",
+      "role": "setup",
+      "summary": "松鼠答应老树“我会每天去旅行，然后把我看见的回来告诉你”，本章刚开始远行并首次看见海，尚未返回兑现。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2083"
+        },
+        {
+          "path": "events/block-0005.json",
+          "record_id": "claim-2092"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "issue_collection",
+      "safe_through": 0,
+      "summary": "第1—7章问题分片。",
+      "tags": [
+        "quality"
+      ],
+      "target": {
+        "path": "quality/issues/block-0001.json",
+        "record_id": "issues-block-0001"
+      },
+      "title": "问题 1—7"
+    }
+  ],
+  "id": "idx-issues",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [],
+    "subject_refs": []
+  },
+  "title": "问题索引"
+}

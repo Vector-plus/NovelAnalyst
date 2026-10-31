@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0035",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 28,
+  "label": "大闹天宫后的天宫残局",
+  "introduced_at": 28,
+  "updates": [
+    {
+      "id": "update-thread-0035-001",
+      "revealed_at": 28,
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "introduced",
+      "summary": "蟠桃会大殿一片狼藉，众神鼻青脸肿、包纱拄拐，王母回殿后发怒。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0862"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0863"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0866"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

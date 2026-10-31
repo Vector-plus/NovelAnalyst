@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0064",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 1,
+  "label": "身上的诅咒",
+  "category": "other",
+  "introduced_at": 1,
+  "updates": [
+    {
+      "id": "update-setting-0064-001",
+      "revealed_at": 1,
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0871"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

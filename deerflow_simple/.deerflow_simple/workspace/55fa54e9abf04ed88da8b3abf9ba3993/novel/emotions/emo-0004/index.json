@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0004",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 10,
+  "label": "取经路上·林中之变",
+  "introduced_at": 1,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 10
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 10
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0004-001",
+      "revealed_at": 10,
+      "category": "mixed",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "pair_names": [
+            "唐僧",
+            "孙悟空"
+          ],
+          "stage_doc_id": "doc-rel-tangseng-sunwukong-stage-001"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0004/stages/stage-001.md",
+        "record_id": "doc-emo-0004-stage-001"
+      },
+      "kind": "emotional_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

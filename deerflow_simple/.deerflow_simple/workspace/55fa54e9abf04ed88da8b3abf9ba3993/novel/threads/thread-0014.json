@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0014",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 10,
+  "label": "阿瑶与“以前的名字”之谜",
+  "introduced_at": 10,
+  "updates": [
+    {
+      "id": "update-thread-0014-001",
+      "revealed_at": 10,
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "category": "identity_mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "猪八戒知晓林中之人“以前的名字”为阿瑶，应答者本人却不认为这是现名；猪八戒以“不肯忘记前世而宁愿承受痛苦的人”自况。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0465"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0466"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0467"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0468"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

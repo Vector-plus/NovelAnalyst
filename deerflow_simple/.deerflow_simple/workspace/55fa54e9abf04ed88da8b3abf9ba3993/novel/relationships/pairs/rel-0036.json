@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0036",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 13,
+  "introduced_at": 13,
+  "subjects": [
+    {
+      "path": "characters/char-0046/index.json",
+      "record_id": "char-0046"
+    },
+    {
+      "path": "characters/char-0047/index.json",
+      "record_id": "char-0047"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0036-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "as_of": 13,
+      "revealed_at": 13,
+      "summary": "叙述称小龙女出宫时没有告诉「他的父王」，可确认二者为父女关系（父王本章未出场）。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "kinship",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "叙述称小龙女出宫时没有告诉「他的父王」，可确认二者为父女关系（父王本章未出场）。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0533"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

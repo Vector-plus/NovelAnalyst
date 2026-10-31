@@ -1,0 +1,893 @@
+{
+  "chapter_order": 47,
+  "chapter_id": "ch-000047",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "双猴决战收场：孙悟空站于倒地的战败者之上，紫霞在其手中发现紫色纱巾",
+      "introduced_at": 47,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 46,
+            "end": 47
+          }
+        ],
+        "revealed_at": 47,
+        "status": "ended",
+        "story_time": null,
+        "summary": "第46章末起跳出手的最后一击在第47章开头落地：火星溅落，孙悟空站在倒地的战败者身上，众神议论究竟谁死了、谁活着。他摸头确认金箍仍在。紫霞走到他面前却跪下，跪在倒地那只猴子身旁哭泣，掰开那只妖猴的手，手中是一条紫色纱巾——那只手刚才本应拿金箍棒打中孙悟空，却伸向了紫霞。孙悟空随即感到体内如石崩碎，记起了一切。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "倒地的妖猴"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天界众神"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-5"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空识破成佛骗局，向如来一击落空后身死",
+      "introduced_at": 47,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 47,
+            "end": 47
+          }
+        ],
+        "revealed_at": 47,
+        "status": "ended",
+        "story_time": null,
+        "summary": "孙悟空七窍流血说“我明白了”。如来在虚空中称魔王孙悟空已不复存在、今后世人只知孙悟空成佛。孙悟空身体开始粉碎、力量流失，他不愿忘记一切，高喊“天地生我孙悟空！”用最后的力量冲击天地间至高无上的意志，却落空——那只是幻影。落地后他几乎握不住金箍棒，仍反复高喊要如来现身一战。如来笑称自己无本无根、以空为凭，而孙悟空是欲望化出的实物；笑声中孙悟空意识消散。他问“我是谁”，紫霞含泪作答，并要他记住自己的本性比所有神明高贵。他手中的火星熄灭，孙悟空死了，手渐渐冰凉。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-5"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-8",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-13"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-14"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "天界之火未熄，紫霞托起孙悟空尸体走向火焰",
+      "introduced_at": 47,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 47,
+            "end": 47
+          }
+        ],
+        "revealed_at": 47,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "天界之火仍在燃烧。玉帝请如来灭火，如来称此乃天外之炎，无根而出，其源是人间欲望，心魔一去火自灭。紫霞反驳说这火灭不了，因为我们会做它的燃料；随后她托起孙悟空的尸体走向火焰，众神闪开一条路，仍忌惮那个身躯。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0012/index.json",
+              "record_id": "char-0012"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "天界众神"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "战斗结束后，孙悟空站在倒地的战败者旁边，火星落在他肩上、臂上，也落在脚下的战败者身上；众神交头接耳议论到底是谁死了、谁活着，叙述并提问“死的真的是妖猴？”",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 1,
+            "para_end": 10
+          },
+          "anchor": "他又一次胜利了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空摸了摸头上，金箍还在；叙述称那是证明他是孙悟空的唯一标志。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 11,
+            "para_end": 13
+          },
+          "anchor": "那是证明他是孙悟空的唯一标志。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "紫霞走到孙悟空面前却跪了下去，跪在倒地那只猴子身边，哭着握起那只妖猴的手并掰开它，手中是一条紫色纱巾。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 14,
+            "para_end": 25
+          },
+          "anchor": "那手里，是一条紫色的纱巾。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "叙述交代：倒地妖猴的那只手，刚才本应拿金箍棒打中孙悟空，却伸向了紫霞。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 22,
+            "para_end": 23
+          },
+          "anchor": "就是刚才本应拿金箍棒打中他却伸向了紫霞的那只手"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "孙悟空忽然觉得身体里什么东西裂开了，像石头崩碎，随即记起了一切，五百年前与五百年后的时光重合到一起。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 26,
+            "para_end": 28
+          },
+          "anchor": "他突然记起了一切。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "叙述断言：西游只是一个骗局；没有人能打败孙悟空，能打败孙悟空的只有他自己；所以战胜他的唯一办法是让他怀疑自己、否认自己，把过去的一切当成罪孽、把当年的自己看成敌人，一心只要解脱与正果。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 29,
+            "para_end": 32
+          },
+          "anchor": "西游果然只是一个骗局。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "叙述断言：在神的字典里，所谓解脱不过是死亡，所谓正果不过是幻灭，所谓成佛不过是放弃所有的爱与理想、变成一座没有灵魂的塑像。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 33,
+            "para_end": 33
+          },
+          "anchor": "所谓成佛，不过就是放弃所有的爱与理想"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "血开始从孙悟空的七窍中流下来（叙述给出两种解释：久战震坏五脏，或他笑得太厉害）；他说“我明白了”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 34,
+            "para_end": 36
+          },
+          "anchor": "血开始从他的七窍中流下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "如来在虚空中说：当孙悟空杀死过去的自己，才终于找到了通向成佛之路；魔王孙悟空已经不复存在，以后世人只知道孙悟空成佛了，再也不会看见他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 37,
+            "para_end": 38
+          },
+          "anchor": "现在，魔王孙悟空已经不复存在"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "孙悟空身体开始粉碎、力量流失，将要消失成为虚无的佛；他不愿忘记一切与所有痛苦、身边之人、路上的足迹，突然跳起来高举金箍棒，喊着自己的名字“天地生我孙悟空！”，使出最后的所有力量冲向天地间至高无上的意志。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 39,
+            "para_end": 45
+          },
+          "anchor": "天地生我孙悟空！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空这一击落空了——那只是个幻影；落地时他几乎拿不起金箍棒，仍挣扎着站起，反复高喊“如来！出来！与我一战！”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 46,
+            "para_end": 53
+          },
+          "anchor": "然而他落空了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "虚空中的声音大笑，称孙悟空战胜不了他，因为他无本无根、以空为凭，而孙悟空是欲望化出的实物。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 50,
+            "para_end": 51
+          },
+          "anchor": "因为我无本无根，以空为凭"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "意识开始消失时，孙悟空问身边看不清的影子“我是谁”，紫霞含泪答“你是不肯放弃梦想的人”；孙悟空再问“那……在与如来决战的又是谁”，紫霞答“他是失去了一切，除了自己，什么也没有了的人”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 54,
+            "para_end": 59
+          },
+          "anchor": "你是不肯放弃梦想的人。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "一颗火星落在孙悟空脸上熄灭；叙述称孙悟空死了，并说或许他早已死去——当年从炼丹炉中跳出来的是那不甘心、不认输、不肯死的意志。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 60,
+            "para_end": 62
+          },
+          "anchor": "孙悟空死了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "紫霞握住孙悟空的手、把手贴在自己脸上，那只手却渐渐冰凉；她哭着说“我要你记住你是一只猴子，因为你根本不用去学做神仙，你的本性比所有的神明都高贵。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 63,
+            "para_end": 71
+          },
+          "anchor": "你的本性比所有的神明都高贵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "天界的火还在烧，玉帝请如来把火灭掉；如来答此乃天外之炎，无根而出，其源却是人间的欲望，心魔一去其火就自灭。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 72,
+            "para_end": 76
+          },
+          "anchor": "此乃天外之炎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "紫霞反驳说“这火是灭不了的”，因为“我们会做它的燃料”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 77,
+            "para_end": 77
+          },
+          "anchor": "因为我们会做它的燃料。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "紫霞托起孙悟空的尸体走向火焰，众神闪开一条路，且仍在忌惮那个身躯。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 47,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000047.txt",
+          "chapter_id": "ch-000047",
+          "chapter_order": 47,
+          "locator": {
+            "para_start": 78,
+            "para_end": 79
+          },
+          "anchor": "她托起孙悟空的尸体，走向火焰。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "倒地的妖猴",
+      "introduced_at": 47,
+      "alias_texts": [
+        "妖猴",
+        "倒在地上那只猴子",
+        "那个身躯",
+        "战败者"
+      ],
+      "identity_notes": "第47章开头被孙悟空击倒、倒在地上的猴子。紫霞跪在其身旁哭泣，掰开其手，手中是一条紫色纱巾；叙述称其手刚才本应拿金箍棒打中孙悟空却伸向了紫霞。叙述与如来之言均指向“孙悟空杀死过去的自己”，但本章未直呼其名，也未明示与孙悟空为同一人，故单列候选，不合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "天界众神",
+      "introduced_at": 47,
+      "alias_texts": [
+        "众神"
+      ],
+      "identity_notes": "在场观战的天界众神：交头接耳议论谁死了谁活着；紫霞托尸走向火焰时闪开一条路，并仍忌惮那个身躯。本章未点具体神名，作为群体候选登记。",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "金箍",
+      "category": "object",
+      "introduced_at": 47,
+      "notes": "孙悟空摸头确认仍在的东西；本章叙述称其为“证明他是孙悟空的唯一标志”。与金箍棒为不同物件。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "label": "紫色纱巾",
+      "category": "object",
+      "introduced_at": 47,
+      "notes": "倒地妖猴手中攥着的紫色纱巾，被紫霞掰开手指后取出。来历与意义本章未交代。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3"
+      ]
+    },
+    {
+      "label": "天外之炎",
+      "category": "phenomenon",
+      "introduced_at": 47,
+      "notes": "天界正在燃烧之火。如来称其“无根而出，其源却是人间的欲望。心魔一去，其火就自灭了”；紫霞称此火灭不了，因为“我们会做它的燃料”。性质与能否熄灭仅有角色说法，无叙述确认。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "倒地的妖猴",
+      "linked_entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "relation_type": "suspected_same_being",
+      "certainty": "uncertain",
+      "summary": "本章暗示倒地妖猴与孙悟空高度关联：紫霞在其身旁哭泣、掰出的纱巾、其手在应打中孙悟空时伸向紫霞；如来又称“当你杀死过去的自己”“魔王孙悟空已经不复存在”，叙述亦称“能打败孙悟空的只有他自己”。但章内从未以叙述直陈二者为同一人，故仅登记候选，不合并引用。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-9"
+      ],
+      "notes": "如后续章节或 StageCommit 判定为同一人，需回补本实体引用。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "facet": {
+        "type": "other",
+        "notes": "仅记录互动事实，不作感情定性"
+      },
+      "certainty": "explicit",
+      "summary": "紫霞在孙悟空面前跪下、却跪在倒地妖猴身边哭泣；孙悟空意识消散时她含泪回答“我是谁”的追问，并说“你是不肯放弃梦想的人”；他死后她握住他的手贴在自己脸上、说他本性比所有神明高贵，最后托起他的尸体走向火焰。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-18"
+      ],
+      "notes": "既有关系对查询无命中，作为新关系候选登记。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空识破骗局后高喊“如来！出来！与我一战！”并冲击天地间至高无上的意志，一击落空；如来全程只在虚空中发声大笑，称孙悟空战胜不了他，因为自己无本无根、以空为凭，而孙悟空是欲望化出的实物。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "既有关系对查询无命中，作为新关系候选登记。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "西游/成佛是否骗局",
+      "category": "mystery",
+      "status": "revealed",
+      "role": "core",
+      "summary": "本章由叙述直接断言“西游果然只是一个骗局”，并给出机制：无法力克孙悟空，只能让他自我怀疑、自我否认、把过去当罪孽；如来亦以“杀死过去的自己”“魔王不复存在”作结。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-9"
+      ]
+    },
+    {
+      "thread_label": "孙悟空之死（成佛即虚无）",
+      "category": "character_arc",
+      "status": "closed_in_chapter",
+      "role": "core",
+      "summary": "孙悟空拒绝成为“虚无的佛”，最后一击落空于幻影，意识消散后身死，手渐渐冰凉；叙述称当年跳出炼丹炉的是那不甘心的意志。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-14"
+      ]
+    },
+    {
+      "thread_label": "天界之火与“燃料”",
+      "category": "world",
+      "status": "open",
+      "role": "setting",
+      "summary": "天界之火仍在烧；如玉来所称其源为欲望、心魔去则自灭，紫霞则称此火必然不灭、因为人会作它的燃料，并托尸走向火焰。两种说法并存，章内未给出结果。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第47章：双猴相杀之后——识破骗局与孙悟空之死",
+    "front_matter": {
+      "as_of": 47,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        },
+        {
+          "candidate_name": "倒地的妖猴"
+        },
+        {
+          "candidate_name": "天界众神"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-14",
+        "claim-local-18"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n承接上一章末尾那一次“旷古绝后的进击”：火星溅落，孙悟空站着，火花落在他肩上、臂上，也落在他脚下的战败者身上——他又一次成为胜利者。但众神在交头接耳议论“到底是谁死了，谁活着”，叙述本身也在追问死的是不是那只妖猴，以及倒在地上的是否才是我自己。他摸了摸头上，金箍还在，而叙述说那是证明他是孙悟空的唯一标志。（[[claim-local-3]] 之前的场景见 [[ev-local-1]]）\n\n## 关键行动\n\n紫霞一步步走到他面前，却跪了下去——跪倒在倒地那只猴子身边，哭着握起那只妖猴的手，把手指轻轻掰开：手里是一条紫色的纱巾。那只手刚才本应拿金箍棒打中孙悟空，却伸向了紫霞。\n\n孙悟空忽然觉得身体里什么东西裂开了，像一块石头崩碎，随即记起了一切，五百年前与五百年后的时光重合。叙述在此断言：西游只是一个骗局，没有人能打败孙悟空，能打败他的只有他自己；唯一战胜他的办法是让他怀疑自己、否认自己，把过去的一切当成罪孽，一心只要解脱与正果。所谓解脱不过是死亡，所谓正果不过是幻灭，所谓成佛不过是放弃所有的爱与理想，变成一座没有灵魂的塑像。（[[claim-local-6]]）\n\n## 转折与新信息\n\n血从七窍流下，他说“我明白了”。如来的声音在虚空中承认了这套机制：杀死过去的自己才找到通向成佛之路，魔王孙悟空已不复存在，此后世人只知道孙悟空成佛，再也不会看见他。（[[claim-local-9]]）\n\n孙悟空的身体开始粉碎，力量流失，他不愿忘记一切，跳起来高举金箍棒喊着自己的名字“天地生我孙悟空！”，以最后的力量冲向天地间至高无上的意志——却落空了，那只是幻影。落地后他几乎拿不起金箍棒，仍反复高喊要如来现身一战。虚空中的声音大笑，说自己无本无根、以空为凭，而孙悟空是欲望化出的实物。\n\n意识消散之际，他问身边看不清的影子“我是谁”，紫霞含泪答“你是不肯放弃梦想的人”；他再问与如来决战的又是谁，紫霞答“他是失去了一切，除了自己，什么也没有了的人”。（[[ev-local-2]]）\n\n## 本章结果\n\n一颗火星落在他脸上熄灭，孙悟空死了；叙述又说，或许他早已死去，当年从炼丹炉中跳出来的只是那不甘心、不认输、不肯死的意志。（[[claim-local-14]]）紫霞握住他的手贴在自己脸上，那只手渐渐冰凉；她哭着要他记住自己是一只猴子，本性比所有神明都高贵。\n\n天界的火还在烧。玉帝请如来灭火，如来称此乃天外之炎，其源是人间欲望，心魔一去火自灭；紫霞则说这火灭不了，因为“我们会做它的燃料”。她托起孙悟空的尸体走向火焰，众神闪开一条路，仍在忌惮那个身躯。（[[claim-local-18]]、[[ev-local-3]]）\n\n## 未决问题与补读入口\n\n- 倒地那只妖猴与孙悟空是否本为同一人/其“过去的自己”：章内只有叙述暗示与如来之言，未以叙述直陈，已登记身份关联候选。\n- 紫色纱巾的来历与先前归属（为何在妖猴手中）本章未交代。\n- 天界之火究竟能否熄灭：如来与紫霞各持一说，章内无结论；紫霞托尸入火后的结果留待下一章。\n- 孙悟空“身死”的最终状态（是否与下章“五行山已重现在人间”相衔接）需跨章核对。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 47,
+      "note": "双猴决战收场，紫霞在倒地妖猴手中取出紫色纱巾，孙悟空随即记起一切"
+    },
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-2",
+      "chapter_order": 47,
+      "note": "孙悟空识破成佛骗局，最后一击落空于幻影后身死；如来承认“魔王不复存在”"
+    },
+    {
+      "kind": "key_event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 47,
+      "note": "天界之火未熄，紫霞称人将作燃料，托尸走向火焰"
+    },
+    {
+      "kind": "key_claim",
+      "ref_or_local_id": "claim-local-6",
+      "chapter_order": 47,
+      "note": "叙述断言“西游果然只是一个骗局”，并给出使孙悟空自我否定的机制——核心命题证据"
+    },
+    {
+      "kind": "character_turn",
+      "ref_or_local_id": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "chapter_order": 47,
+      "note": "孙悟空在本章恢复记忆、拒绝成佛、身死——角色弧线终点候选"
+    },
+    {
+      "kind": "character_turn",
+      "ref_or_local_id": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "chapter_order": 47,
+      "note": "紫霞由旁观转为托尸入火，并否定成佛/正统价值"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "倒地妖猴的身份未在本章明示：叙述以提问方式暗示（“倒在地上那个才是他自己呢”），如来以角色身份称“杀死过去的自己”，但均非叙述直陈其为孙悟空本人。已登记 identity_link_candidates，待后续章节或 StageCommit 判定。",
+      "related_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-9"
+      ],
+      "chapter_order": 47
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "紫色纱巾出现在倒地妖猴手中的原因、与紫霞的关联，本章无任何交代，无法建立来源链。",
+      "related_claim_local_ids": [
+        "claim-local-3"
+      ],
+      "chapter_order": 47
+    },
+    {
+      "category": "source_locator",
+      "summary": "本章标题仅为“．”，疑为源文档标点残缺，正式章题缺失；摘要标题依内容暂拟。",
+      "chapter_order": 47
+    }
+  ],
+  "warnings": [
+    "本章标题在源文件中为“．”，无法确认为正式章题，摘要标题为依内容暂拟。",
+    "claim-local-6 与 claim-local-7 为叙述者直接断言（主题性宣言），非角色台词；已按 explicit 处理，但其性质属作者/叙述声音，下游如需可归入“叙述断言”子类。",
+    "claim-local-13 中“影子”为孙悟空意识消散时的视觉呈现，未明确说话者为紫霞其人（叙述称“紫霞含泪说”），故归为 reported 并归属紫霞。",
+    "倒地妖猴未与 char-0002 合并；如后续确认同一，需回补实体引用与关系对。",
+    "本章事件跨 46—47 章（ev-local-1 的 chapter_ranges 为 46—47），第 46 章既有事件未在本提取中读取核验，可能存在重复建档风险，建议 StageCommit 时合并。"
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "chapter_order": 42,
+  "chapter_id": "ch-000042",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "天界遭燃烧星尘摧毁，灵霄殿顶端身影狂笑",
+      "introduced_at": 42,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 42,
+            "end": 42
+          }
+        ],
+        "revealed_at": 42,
+        "status": "ongoing",
+        "story_time": "与灵山法会同时（并列叙述，未明示先后）",
+        "summary": "天外涌出的火光映照巨大雪片与红亮星尘，席卷天庭，诸神宫殿支离破碎；诸神惊慌躲藏，灵霄殿顶端立着一个身影放声狂笑，阴影随火焰升高移向整个天庭。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "灵霄殿顶端的身影"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "灵山法会：如来拈花，迦叶微笑得正法，金蝉子被判再修五百年",
+      "introduced_at": 42,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 42,
+            "end": 42
+          }
+        ],
+        "revealed_at": 42,
+        "status": "concluded",
+        "story_time": "灵山法会（金蝉子赌胜之前）",
+        "summary": "如来问金蝉子是否准备好法论，金蝉子转而追问生命真义且拒绝以语言回答；如来拈花，迦叶微笑，如来称迦叶得正法，金蝉子则被判定未悟、命其再修行五百年。金蝉子立于原地，观音推之不动。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "迦叶"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "金蝉子以千年修行与如来赌胜：赌众神能否控制世人命运",
+      "introduced_at": 42,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 42,
+            "end": 42
+          }
+        ],
+        "revealed_at": 42,
+        "status": "ongoing",
+        "story_time": "灵山法会现场，紧接金蝉子被判再修五百年之后",
+        "summary": "金蝉子提出以自己的千年修行与如来赌胜负，赌众神是否真能控制世人的命运；如来陈述赌约后果（胜则神佛不再现身世间，败则金蝉散道行重坠轮回）。现场天现异象：灵山炸雷、大殿化作黑白两色、众佛惊疑「雷音寺原来真的会有雷音」，最终灵山云层崩塌、大雨狂泻。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "迦叶"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-27"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-21",
+          "claim-local-27"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-4",
+      "title": "金蝉子将三藏经手卷托付观音，望传于世间",
+      "introduced_at": 42,
+      "update": {
+        "local_id": "update-local-4",
+        "chapter_ranges": [
+          {
+            "start": 42,
+            "end": 42
+          }
+        ],
+        "revealed_at": 42,
+        "status": "concluded",
+        "story_time": "赌胜条件议定之后，灵山大雨之前",
+        "summary": "金蝉子从怀中掏出三藏经手卷，请观音不论赌胜胜负都将其传于世间；观音接过打开后惊讶询问，金蝉子微笑答「是」。随后如来问金蝉子为何修成功德还要冒险重走西天路，金蝉子反问「西天在何处」，并复述如来的「我处便是西天」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23",
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-24"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-23",
+          "claim-local-25"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "天外涌出的火光映照巨大雪片与红亮星尘，充满整个天界，诸神的宫殿在这股狂潮中支离破碎、分崩瓦解。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "诸神的宫殿在这狂潮中支离破碎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "诸神惊慌躲藏；灵霄殿顶端立着一个身影，发出纵是飓风也盖不过的狂笑声，其巨大阴影随着火焰升高移向整个天庭。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "那个身影立着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "如来称金蝉子回来了，并问他是否准备好了法论。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "你准备好了你的法论么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "金蝉子说突然不想论什么，称永远无法用语言表述一棵树的生长、一朵花的全貌，并问生命真义是什么、要求不要用语言告诉他。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "生命的真义是什么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "如来不再看金蝉子，从座边拈起一朵花；金蝉子定在原地一句话也说不出来，迦叶在一旁微笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "他从座边拈起一朵花"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "迦叶上前跪倒，众弟子唱法颂，西天霞光大盛、天空花雨纷纷散下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "众弟子皆唱法颂"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "如来叹称本以为悟的会是金蝉子，并称迦叶得了他的正法。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "我本以为悟的会是你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "花雨纷扬中，落在金蝉子身上的花瓣全都枯谢了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "落在他身上的，却全都枯谢了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "金蝉子答称「通便通了，悟却未悟，花落死木，不得生机」，随后对如来的话保持沉默。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "通便通了，悟却未悟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "如来命金蝉子再去修行个五百年再回来，随后说「你走吧」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "再去修行个五百年再回来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "观音上前劝说并去推金蝉子，却挪不动他分毫。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "却挪不得他分毫"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "金蝉子抬头直视如来，双目如电，声称要与如来赌胜，用自己千年修行赌个胜负。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "我用千年修行，与你赌个胜负"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "观音拉住金蝉子并出言阻止，称「师兄不可」；普贤等众弟子与迦叶也出言劝阻。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "观音拉金蝉子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "金蝉子自称「我为真义」，并质问迦叶已为自己的悟而笑、却忘了天下万千笑不出之人。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "我为真义"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "灵山顶上响起一声炸雷，众佛一颤，闪电照入每个人心深处；那一刹那大殿中一切忽然变成黑白两色，黑是死寂，白是灵动，两者不断流传而互消长。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "灵山顶上轰隆隆一声炸雷"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "众佛向天惊疑地望着，说「雷音寺，原来真的会有雷音的」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "灵山众佛"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "原来真的会有雷音的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "迦叶说金蝉子分明是误会了他；如来叫迦叶莫与他争，并问金蝉子要以什么赌胜。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "迦叶"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "你这分明是误会于我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "金蝉子答称赌的是众神是否真能控制世人的命运。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "便赌众神是否真能控制世人的命运"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "如来断言金蝉子输定了，称无人能跳出他的掌心。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "无人能跳出我的掌心"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "金蝉子称自己坚信有（能跳出如来掌心者）。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "我坚信有"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "如来陈述赌约后果：金蝉子若胜，众神被证明无法掌控苍生，神佛便从此不再现身世间；若败，金蝉子便散去道行、重坠轮回做平常人，在凡生中找他所要找的东西。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "神佛便从此不再现身世间"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "金蝉子从怀中掏出一部手卷，转头对观音说话。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "从怀中掏出一部手卷"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "金蝉子对观音称自己有三藏经一部，内含千年苦思的大乘教义，望她不论赌胜胜负都将此卷传于世间，并称这不是经案、不是度人的法门，而是他毕生所得。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "我有三藏经一部"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "观音接过手卷，见那薄薄一卷心中疑惑，打开一看不由叫出声来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "观音接过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "观音惊问「师兄，这是……？」，金蝉子对她微笑答「是」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "师兄，这是……？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "如来问金蝉子好不容易修得如此功德、为何还要冒险重走西天路；金蝉子反问「西天在何处」，如来答「我处便是西天」，金蝉子复述「说的是，我处便是西天」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "西天在何处"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "灵山云层越来越低沉、闷得让人透不过气，随后久积的云层崩塌，大雨狂泻；其间神色平静的只有金蝉子与如来二人，无风而他们的袍袖却全高高鼓动。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 42,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000042.txt",
+          "chapter_id": "ch-000042",
+          "chapter_order": 42,
+          "locator": null,
+          "anchor": "大雨狂泻下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "迦叶",
+      "introduced_at": 42,
+      "alias_texts": [
+        "迦叶"
+      ],
+      "identity_notes": "灵山如来弟子之一；本章在如来拈花时微笑，被如来称「得我正法」并上前跪倒；与金蝉子当殿争执，称金蝉子误会了他。",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-13",
+        "claim-local-17"
+      ]
+    },
+    {
+      "label": "普贤",
+      "introduced_at": 42,
+      "alias_texts": [
+        "普贤"
+      ],
+      "identity_notes": "灵山如来弟子之一，与「众弟子」一同出言劝阻金蝉子以千年道行与如来斗。仅在并称中出现，独立言行未展开。",
+      "evidence_claim_local_ids": [
+        "claim-local-13"
+      ]
+    },
+    {
+      "label": "灵霄殿顶端的身影",
+      "introduced_at": 42,
+      "alias_texts": [
+        "那个身影"
+      ],
+      "identity_notes": "章首天庭毁灭场景中立于灵霄殿顶端、发出狂笑的身影；本章未给出姓名或外貌确证，不得与任何已知角色合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "三藏经（手卷）",
+      "category": "artifact",
+      "introduced_at": 42,
+      "notes": "金蝉子从怀中掏出交付观音的一部手卷，据其自述内含千年苦思的大乘教义，非经案、非度人法门，为其毕生所得，望传于世间。观音接过打开后惊讶。卷内实际内容本章未展开。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    },
+    {
+      "label": "灵山雷音异象（雷音寺雷音）",
+      "category": "phenomenon",
+      "introduced_at": 42,
+      "notes": "金蝉子说「我为真义」后，灵山顶响起炸雷、闪电照入众佛心中，大殿一刹那化为黑白两色；众佛据此惊疑「雷音寺，原来真的会有雷音的」。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject": {
+        "candidate_name": "灵霄殿顶端的身影"
+      },
+      "possible_target": {
+        "candidate_name": "孙悟空"
+      },
+      "status": "unresolved",
+      "certainty": "uncertain",
+      "basis": "本章未具名；相邻章（第43章开头）出现「猴子」在灵霄殿揪住玉帝衣领、玉帝喊「快去请如来佛祖」，暗示该身影可能为同一人，但本章原文未明示，故不作合并。",
+      "source_claim_local_ids": [
+        "claim-local-2"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "subject_b": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "如来为法会主导者、金蝉子为其弟子（迦叶口中「与师父斗」指向如来，属其说辞）"
+      },
+      "certainty": "reported",
+      "summary": "如来判定金蝉子未悟、命其再修行五百年；金蝉子当场提出以千年修行与如来赌胜，二人形成赌约关系，并就赌约后果当面议定。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-18",
+        "claim-local-21"
+      ],
+      "notes": "师徒身份与「师父」称谓出自迦叶之口，属 reported；赌约事实本身为双方当面对话内容。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "subject_b": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "facet": {
+        "type": "other",
+        "note": "同门称谓：观音称金蝉子为「师兄」，金蝉子称观音为「观音」（自称「我有三藏经一部…望你…」）"
+      },
+      "certainty": "reported",
+      "summary": "观音称金蝉子为师兄，劝其下殿、又拉住阻止赌胜；金蝉子将三藏经手卷托付观音，请她传于世间，观音接过查看后惊讶。",
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "notes": "同门关系依据为观音口中「师兄」称谓，属 reported。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "迦叶"
+      },
+      "subject_b": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "reported",
+      "summary": "如来称迦叶得了他的正法，迦叶上前跪倒；迦叶亦称如来为「师父」。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-13"
+      ],
+      "notes": "「得正法」「师父」均为如来与迦叶口中说法。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "subject_b": {
+        "candidate_name": "迦叶"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "当殿争执；金蝉子指责迦叶为己悟而笑、忘了天下笑不出之人，迦叶称被误会"
+      },
+      "certainty": "reported",
+      "summary": "如来拈花后迦叶微笑被认为得法，金蝉子当殿质问并指责迦叶，迦叶回应「你这分明是误会于我」。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-14",
+        "claim-local-17"
+      ],
+      "notes": "争执内容为双方言辞，属 reported；无肢体冲突。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "title": "金蝉子与如来的赌胜",
+      "category": "conflict",
+      "status": "open",
+      "role": "new",
+      "subject_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "summary": "金蝉子以千年修行赌众神是否真能控制世人命运；胜则神佛不再现身世间，败则金蝉子散道行重坠轮回。本章只议定赌约与后果，胜负未决。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "title": "三藏经手卷的传世托付",
+      "category": "foreshadowing",
+      "status": "open",
+      "role": "new",
+      "subject_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "summary": "金蝉子将三藏经手卷交予观音，请其不论胜负传于世间；观音打开后惊讶而内容未明。",
+      "source_claim_local_ids": [
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "title": "神佛不再现身世间之约",
+      "category": "setting_change",
+      "status": "open",
+      "role": "new",
+      "summary": "如来所述赌约后果：若众神被证明无法掌控苍生，神佛便从此不再现身世间。该后果为条件性表述，尚未发生。",
+      "source_claim_local_ids": [
+        "claim-local-21"
+      ],
+      "certainty": "reported"
+    },
+    {
+      "title": "天庭遭袭、灵霄殿顶端身影",
+      "category": "conflict",
+      "status": "open",
+      "role": "new",
+      "summary": "章首天庭被燃烧星尘摧毁、诸神惊慌躲藏，灵霄殿顶端有一未具名身影狂笑；本章未交代其身份与后续。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ],
+      "certainty": "explicit"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第42章：灵山拈花与千年赌胜",
+    "front_matter": {
+      "as_of": 42,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "candidate_name": "迦叶"
+        },
+        {
+          "candidate_name": "普贤"
+        },
+        {
+          "candidate_name": "灵霄殿顶端的身影"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "ev-local-4",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-10",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首是处于毁灭之中的天界：天外涌出的火光映照巨大雪片与红亮星尘，诸神的宫殿在这股狂潮中支离破碎、分崩瓦解（[[claim-local-1]]）；诸神惊慌躲藏，而灵霄殿顶端立着一个身影，狂笑声纵是飓风也盖不过（[[claim-local-2]]，见 [[ev-local-1]]）。\n\n场景随即转向西天灵山法会：如来问金蝉子是否已准备好法论（[[claim-local-3]]）。\n\n## 关键行动\n\n金蝉子不愿论法，转而追问生命真义，并要求不以语言回答（[[claim-local-4]]）。如来从座边拈起一朵花，金蝉子定在原地一句话也说不出，迦叶在一旁微笑（[[claim-local-5]]）；迦叶上前跪倒，众弟子唱法颂，西天霞光大盛、天空花雨散下（[[claim-local-6]]）。如来叹称本以为悟的会是金蝉子、迦叶得了正法（[[claim-local-7]]）。\n\n金蝉子自陈「通便通了，悟却未悟」，如来命他再去修行个五百年再回来，随后让他走（[[claim-local-10]]）；观音上前去推，却挪不动他分毫（[[ev-local-2]]）。\n\n## 转折与新信息\n\n金蝉子转头直视如来，声称要用千年修行与如来赌个胜负（[[claim-local-12]]）。观音拉住他阻止，普贤等众弟子与迦叶也一同劝阻（[[ev-local-3]]）。金蝉子自称「我为真义」，并质问迦叶为己悟而笑、忘了天下万千笑不出之人（[[claim-local-14]]）。\n\n随即灵山顶上响起炸雷，闪电照入众佛心中，那一刹那大殿一切化作黑白两色（[[claim-local-15]]），众佛惊疑「雷音寺，原来真的会有雷音的」（[[claim-local-16]]）。\n\n赌约内容当殿议定：金蝉子赌的是众神是否真能控制世人的命运（[[claim-local-18]]）；如来断言他输定了、无人能跳出自己的掌心，金蝉子则称坚信有。如来陈述后果——金蝉子若胜，众神被证明无法掌控苍生，神佛便从此不再现身世间；若败，金蝉子便散去道行、重坠轮回做平常人（[[claim-local-21]]）。\n\n金蝉子从怀中掏出三藏经手卷交予观音（[[claim-local-22]]），自称内有千年苦思的大乘教义，望她不论胜负都传于世间（[[claim-local-23]]）；观音接过、打开后叫出声来，惊问「师兄，这是……？」，金蝉子微笑答「是」（[[claim-local-24]]）。此后如来问他既修成功德为何还要冒险重走西天路，金蝉子反问「西天在何处」，并复述如来所答的「我处便是西天」（[[claim-local-26]]，见 [[ev-local-4]]）。\n\n## 本章结果\n\n灵山云层越来越低沉、闷得让人透不过气，随后崩塌为大雨狂泻；其间神色平静的只有金蝉子与如来二人，无风而袍袖高高鼓动（[[claim-local-27]]）。\n\n本章结束时：金蝉子与如来的赌约已议定条件但胜负未决；三藏经手卷已交到观音手中、卷内内容未展开；天庭正在被摧毁，灵霄殿顶端身影的身份未见交代。\n\n## 未决问题与补读入口\n\n- 灵霄殿顶端发出狂笑的身影究竟是谁：本章未具名，已登记为身份待定项（见 issue 记录）。\n- 三藏经手卷中究竟写的是什么：观音见到后惊讶，但内容未在章内呈现。\n- 赌胜如何裁定、金蝉子是否重坠轮回：本章只立约，无结果。\n- 灵山雷音与大殿黑白异象的含义：仅有众佛一句惊疑，无解释。\n- 补读入口：第41章结尾（应龙/顾岩与猴子的场景）与第43章开头（灵霄殿玉帝呼救、猴子揪住玉帝）用于核对天庭场景的衔接对象。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "note": "本阶段关键事件：金蝉子以千年修行与如来赌众神能否控制世人命运，赌约后果涉及神佛是否再现身世间。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-4",
+      "note": "三藏经手卷交付观音、托其传于世间，可能为后续取经线索。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-21",
+      "note": "赌约后果的权威表述（如来之口）：胜则神佛不再现身世间，败则金蝉子散道行重坠轮回。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-16",
+      "note": "「雷音寺，原来真的会有雷音的」——众佛惊疑，可作为灵山异象设定证据。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-2",
+      "note": "灵霄殿顶端未具名身影狂笑，需与后续章节天庭战况合看。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "章首灵霄殿顶端「那个身影」未具名；第43章开头出现「猴子」在灵霄殿揪住玉帝，疑似同一人，但第42章原文未明示，未作合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "summary": "章内两处原文出现乱码/断字：「金蝉子定�一���蝉子��那里，一句话也说不出来」「那是慈wid，那�祥深邃的目光」，影响该段落细节的精确引用。",
+      "evidence_claim_local_ids": [
+        "claim-local-5"
+      ]
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "观音打开三藏经手卷后叫出声，但章内未描写卷中内容，无法提取手卷实质信息。",
+      "evidence_claim_local_ids": [
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "「普贤」仅在与「众弟子」并称时出现，无可归于其个人的独立言行，实体边界待后续章节确认。",
+      "evidence_claim_local_ids": [
+        "claim-local-13"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章标题为「．」，疑为源文件标题缺失，已按 ch-000042 记录。",
+    "本章存在明显的原文乱码片段（详见 issue_candidates.source_locator），相关 claim 仅提取可判读部分。",
+    "章内「金蝉」「金蝉子」为同一角色的两种称法，已统一引用 char-0009（金蝉子）；未与「唐僧」等任何实体建立链接。",
+    "章首天界毁灭场景与灵山法会为并列/交替叙述，原文未交代时间先后，story_time 已按不确定处理。",
+    "本章大量核心信息来自角色对白（如来、金蝉子、观音、迦叶），已全部标记 certainty=reported，未按事实级采用。"
+  ]
+}

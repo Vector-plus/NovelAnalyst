@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0101",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 45,
+  "label": "小白龙要去寻找的「他」",
+  "introduced_at": 45,
+  "updates": [
+    {
+      "id": "update-thread-0101-001",
+      "revealed_at": 45,
+      "chapter_ranges": [
+        {
+          "start": 45,
+          "end": 45
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "introduction",
+      "summary": "小白龙独自没入风雪时表示只剩自己一个，一定要找到「他」，不想一个人死去；「他」在本章未被点名。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

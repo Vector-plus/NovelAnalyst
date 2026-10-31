@@ -1,0 +1,81 @@
+{
+  "coverage_status": "complete",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 49,
+      "summary": "第1—49章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-001/index.json",
+        "record_id": "source-vol-001"
+      },
+      "title": "第一卷　悟空传"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 50
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 55,
+      "summary": "第50—55章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-002/index.json",
+        "record_id": "source-vol-002"
+      },
+      "title": "第二卷　花果山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 56
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 69,
+      "summary": "第56—69章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-003/index.json",
+        "record_id": "source-vol-003"
+      },
+      "title": "第三卷　百年孤寂"
+    }
+  ],
+  "id": "idx-source",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 69,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "原文清单"
+}

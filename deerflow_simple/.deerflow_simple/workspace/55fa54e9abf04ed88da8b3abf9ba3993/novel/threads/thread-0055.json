@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0055",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 8,
+  "label": "猪八戒的高老庄媳妇之说",
+  "introduced_at": 8,
+  "updates": [
+    {
+      "id": "update-thread-0055-001",
+      "revealed_at": 8,
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "category": "character_background",
+      "status": "open",
+      "role": "advanced",
+      "summary": "猪八戒称自己梦见高老庄的漂亮媳妇，小白龙指出从没人听说过那个庄子；猪八戒激烈禁止他提自己媳妇一个字。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1160"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1161"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1162"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

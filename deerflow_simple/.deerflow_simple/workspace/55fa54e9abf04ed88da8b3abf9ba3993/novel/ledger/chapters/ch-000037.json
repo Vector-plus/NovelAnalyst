@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000037",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000037",
+    "chapter_order": 37
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1777",
+    "claim-1778",
+    "claim-1779",
+    "claim-1780",
+    "claim-1781",
+    "claim-1782",
+    "claim-1783",
+    "claim-1784",
+    "claim-1785",
+    "claim-1786",
+    "claim-1787",
+    "claim-1788",
+    "ev-0214"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第37章精读完成",
+    "record_ids": [
+      "claim-1777",
+      "claim-1778",
+      "claim-1779",
+      "claim-1780",
+      "claim-1781",
+      "claim-1782",
+      "claim-1783",
+      "claim-1784",
+      "claim-1785",
+      "claim-1786",
+      "claim-1787",
+      "claim-1788",
+      "ev-0214"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0088",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 9,
+  "label": "天河",
+  "category": "other",
+  "introduced_at": 9,
+  "updates": [
+    {
+      "id": "update-setting-0088-001",
+      "revealed_at": 9,
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1009"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

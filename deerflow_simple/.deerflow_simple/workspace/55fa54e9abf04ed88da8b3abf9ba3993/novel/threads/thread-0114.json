@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0114",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 63,
+  "label": "唐僧一行安危",
+  "introduced_at": 63,
+  "updates": [
+    {
+      "id": "update-thread-0114-001",
+      "revealed_at": 63,
+      "chapter_ranges": [
+        {
+          "start": 63,
+          "end": 63
+        }
+      ],
+      "category": "threat",
+      "status": "escalated",
+      "role": "affected",
+      "summary": "大鹏王当面宣称「不管怎么样我们也会杀死唐僧」，并在章末借金角银角之宝准备对付「另外三个」。唐僧本章未出场，仅在对话中被提及。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2430"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2432"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2435"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

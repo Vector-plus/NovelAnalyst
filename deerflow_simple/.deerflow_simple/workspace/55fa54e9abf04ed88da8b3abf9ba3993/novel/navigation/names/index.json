@@ -1,0 +1,16 @@
+{
+  "id": "idx-names",
+  "kind": "name_catalog",
+  "match_mode": "exact",
+  "normalization": "nfkc_trim",
+  "novel_id": "wukon",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "shard_refs": [
+    {
+      "path": "navigation/names/part-0001.json",
+      "record_id": "names-part-0001"
+    }
+  ]
+}

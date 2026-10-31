@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0061",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 12,
+  "label": "小白龙出走寻回“他”的魂魄、保存其身",
+  "introduced_at": 12,
+  "updates": [
+    {
+      "id": "update-thread-0061-001",
+      "revealed_at": 12,
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "category": "character_arc",
+      "status": "open",
+      "role": "protagonist_goal",
+      "summary": "小白龙带着定颜珠离开龙宫，称“他”一定还在这三界的某个地方，要去找他；敖广称她“回去也是救你师父的”“也是一片痴心”；去而复返的孙悟空面貌者扬言“待我回去先结果了她”。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1233"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1234"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1252"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1253"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0046",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 2,
+  "label": "唐僧独自入林遇险（怪树与暗伏怪物）",
+  "introduced_at": 2,
+  "updates": [
+    {
+      "id": "update-thread-0046-001",
+      "revealed_at": 2,
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "category": "danger_thread",
+      "status": "ongoing",
+      "role": "escalation",
+      "summary": "唐僧因独自入林而迷路，被怪树与背后未露面的存在困住，呼救收尾。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

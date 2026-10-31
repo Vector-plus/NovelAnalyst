@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0070",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 24,
+  "label": "孙悟空与天界的对立走向大闹天宫",
+  "introduced_at": 24,
+  "updates": [
+    {
+      "id": "update-thread-0070-001",
+      "revealed_at": 24,
+      "chapter_ranges": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "category": "conflict",
+      "status": "escalating",
+      "role": "main",
+      "summary": "孙悟空因未被邀参加蟠桃大会而自称“终于又是妖精”，指众神都是骗子并喊“我要回家”，随后纵身飞往灵霄宝殿；章末叙述点明“大闹天宫，这一天终于来了”。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1533"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1534"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1535"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1536"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1541"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

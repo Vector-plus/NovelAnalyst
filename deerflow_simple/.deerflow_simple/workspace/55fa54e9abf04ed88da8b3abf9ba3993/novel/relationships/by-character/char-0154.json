@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0154",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 67,
+  "title": "大鹏王 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 67,
+        "end": 67
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0071.json",
+        "record_id": "rel-0071"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×大鹏王",
+      "summary": "与孙悟空×大鹏王的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

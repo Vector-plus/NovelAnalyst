@@ -1,0 +1,620 @@
+{
+  "chapter_order": 13,
+  "chapter_id": "ch-000013",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "小龙女偷出龙宫：化鲤游海、现龙形、望见大陆",
+      "introduced_at": 13,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 13,
+            "end": 13
+          }
+        ],
+        "revealed_at": 13,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "本章以\"前因\"为小标题。小龙女厌烦无边无际的蓝色海水，想\"到海外面去看一看\"，遂变成一条金色鲤鱼、不告父王地偷偷出宫。她先游三天，抓住一条鱼（自称鲨鱼）问到岸还需多久，随后又游三天，被一条箭鱼告知离岸还有好几万里。她遂喊\"我变\"现出龙形——叙述直接写作\"小白龙的身形现了出来\"——金光与海面水柱惊动鱼群，她用水珠把被浪卷上天的小鱼送回海里，并因鱼群的话体会到超越界限的力量之可贵。她望见云层下的大陆，却\"不能就这样下去\"，于是回到海中重新变作鲤鱼，随意选一个方向游去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0046/index.json",
+              "record_id": "char-0046"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-7"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-6",
+          "claim-local-9",
+          "claim-local-12",
+          "claim-local-15"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "小龙女因放眼只见无边无际的蓝色海水而嘟囔\"怎么老是海水呀，没有别的么\"，并说出\"我要到海外面去看一看\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "怎么老是海水呀，没有别的么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "叙述说明小龙女\"从来想做的事，就一定要做到的\"，并称她已长大，想偷偷出宫就偷偷出宫。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "她从来想做的事，就一定要做到的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "小龙女变成一条金色鲤鱼出宫，没有告诉她的父王。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "于是她就变成一条金色鲤鱼出宫啦！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "小龙女在海中游了三天，仍只见一片蓝色，于是抓住路边一条鱼询问还要多久到岸边。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "她抓住路边一条鱼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "被抓住的那条鱼自称\"我可是一条鲨鱼\"，并质问小龙女怎敢这样和它说话。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "鲨鱼"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "我可是一条鲨鱼啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "小龙女以\"我从来就这么说话\"\"因为我是我啊\"回应鲨鱼，随后笑着游走，鲨鱼仍在纳闷自己为什么不能咬她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "因为我是我啊！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "小龙女又游了三天，自称太累，并认为应该快到岸边了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "她又游了三天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "一条箭鱼告诉小龙女此处离岸还有好几万里，照她这个速度只能一直游到死。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "箭鱼"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "这里离岸还有好几万里"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "箭鱼称她是\"莫明其妙的鲤鱼\"，说她游不到岸边打它，还揶揄她\"一定嫁不出去的\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "箭鱼"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "一定嫁不出去的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "小龙女喊\"我变\"后，周围海水振荡、形成金光闪耀的真空，一道水柱冲出海面，水花散成漫天映着金光的水珠，鱼群惊呼\"太阳掉到海里来了\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "形成了一个金光闪耀的真空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "水珠激射中\"小白龙的身形现了出来\"，叙述描写她身体如玉般莹洁、身形如云般宛转。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "小白龙的身形现了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "海中的鱼惊叹\"太美了\"，海葵海草称\"看到龙，这一辈子都值了\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "看到龙，这一辈子都值了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "被水浪带到天上的鱼喊\"救命\"并称自己有恐高症，小白龙微笑轻摆身躯，用水滴将它们包裹起来轻轻落回海面，鱼群惊喜地说\"我们在飞\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "我们有恐高症"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "海里一条小鱼嚷着\"我也要飞\"，被她妈妈敲了一下，并被告知\"你是一条鱼，鱼是永远不能飞的\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "鱼是永远不能飞的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "叙述称小白龙由这些鱼想到做一条龙可以海空任遨游，才体会到\"超越界限的力量的可贵\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "超越界限的力量的可贵"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "只一会儿她就看见云层下的大陆，但因\"不能就这样下去\"，又回到海中变成一条鲤鱼，随意选一个方向游去；结尾叙述抛出\"是不是选择任何一个方向，都会游向同一个宿命呢\"的句子。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "revealed_at": 13,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000013.txt",
+          "chapter_id": "ch-000013",
+          "chapter_order": 13,
+          "locator": null,
+          "anchor": "只一会儿，她就看见云层下的大陆了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "父王（小龙女之父）",
+      "introduced_at": 13,
+      "alias_texts": [
+        "他的父王"
+      ],
+      "identity_notes": "原文仅以\"父王\"指称小龙女的父亲，未给出名号、位号或所属海域；是否为既有档案中的龙王类实体尚无证据，登记为临时候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-3"
+      ]
+    },
+    {
+      "label": "鲨鱼",
+      "introduced_at": 13,
+      "alias_texts": [
+        "路边一条鱼"
+      ],
+      "identity_notes": "海中会说话的鱼，自称\"我可是一条鲨鱼\"（自称，属 reported）；被小龙女抓住问路。仅为过场角色。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5"
+      ]
+    },
+    {
+      "label": "箭鱼",
+      "introduced_at": 13,
+      "alias_texts": [],
+      "identity_notes": "海中会说话的箭鱼，告知小龙女离岸还有好几万里并揶揄她。仅为过场角色。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "海底龙宫",
+      "category": "location",
+      "introduced_at": 13,
+      "notes": "原文只说小龙女\"偷偷出宫\"且\"没有告诉他的父王\"，可推知她居于父王的海中宫殿，但章节未给出名称与位置。",
+      "certainty": "inferred",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ]
+    },
+    {
+      "label": "化鲤/化龙之变",
+      "category": "ability",
+      "introduced_at": 13,
+      "notes": "小龙女可自如变成金色鲤鱼，也可在\"我变\"后现出龙形（龙身、海空可遨游）；变化伴随海水振荡、金光与冲出水面。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "subject_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "relation": "same_entity_suspected",
+      "certainty": "explicit",
+      "reason": "本章叙述先以\"小龙女\"称呼该主体，在其喊\"我变\"后直接写\"小白龙的身形现了出来\"，此后同章继续以\"小白龙\"称呼同一主体；文本层面已将两个称谓指为同一存在。是否要把两档案合并，交由汇总阶段判断。",
+      "chapter_order": 13,
+      "evidence_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-11",
+        "claim-local-15",
+        "claim-local-16"
+      ],
+      "notes": "本条仅登记指称对应关系，未在任何 Claim 中做实体合并。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "subject_b": {
+        "candidate_name": "父王（小龙女之父）"
+      },
+      "facet": {
+        "type": "kinship",
+        "detail": "父女"
+      },
+      "certainty": "explicit",
+      "summary": "叙述以\"他的父王\"指称小龙女的父亲；小龙女此次偷偷出宫未告知父王。除此以外，本章未描写父女间的互动或态度。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3"
+      ],
+      "notes": "仅记录亲属指称与\"未告知出宫\"这一事实，不做任何感情定性。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "open_thread",
+      "status": "open",
+      "role": "setup",
+      "subject_ref_or_candidate": {
+        "candidate_name": "小白龙"
+      },
+      "summary": "章末叙述以\"是不是选择任何一个方向，都会游向同一个宿命呢\"收束：小白龙看见大陆却\"不能就这样下去\"，复化为鲤鱼择向而游，去向与宿命未定。",
+      "chapter_order": 13,
+      "evidence_claim_local_ids": [
+        "claim-local-16"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第13章：前因·小龙女偷出龙宫",
+    "front_matter": {
+      "as_of": 13,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0046/index.json",
+          "record_id": "char-0046"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "candidate_name": "父王（小龙女之父）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-7",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-16"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n本章以\"前因\"为小标题，是一段独立起笔的前情片段：场景是一片无边无际的蓝碧碧海水。[[claim-local-1]] 小龙女嘟囔\"怎么老是海水呀，没有别的么\"，说出\"我要到海外面去看一看\"。叙述交代她的性子——\"从来想做的事，就一定要做到的\"——以及她自认已长大，可以瞒着父王偷偷出宫。[[claim-local-3]]\n\n## 关键行动\n\n- 她变成一条金色鲤鱼出宫，没有告诉她的父王。[[claim-local-3]]\n- 游了三天仍是蓝色，她抓住路边一条鱼（对方自称\"我可是一条鲨鱼\"）问到岸还要多久；她以\"我从来就这么说话\"\"因为我是我啊\"回应，笑着游走，留下鲨鱼纳闷为何不能咬她。\n- 又游三天，她自称太累、认为快到岸；一条箭鱼告知此处离岸还有好几万里，照她这速度只能游到死，并揶揄她\"一定嫁不出去的\"。[[claim-local-7]]\n- 她喊\"我变\"：海水振荡、形成金光闪耀的真空，一道水柱冲出海面，水花散成漫天映光的水珠，鱼群惊呼\"太阳掉到海里来了\"。[[claim-local-10]]\n\n## 转折与新信息\n\n- 水珠激射中\"小白龙的身形现了出来\"，叙述描写她身体如玉莹洁、身形如云宛转。[[claim-local-11]] 文本在此把先前被称为\"小龙女\"的主体直接称作\"小白龙\"，两个档案的指称对应关系已登记为待裁定项，未做实体合并。\n- 海中鱼群惊叹\"太美了\"，海葵海草称\"看到龙，这一辈子都值了\"。\n- 被水浪卷上天的鱼喊\"救命\"、称有恐高症，小白龙轻摆身躯用水滴把它们包住、送回海面，鱼群惊喜地说\"我们在飞\"。[[claim-local-13]]\n- 一条小鱼嚷着要飞，被妈妈敲了一下，并被告知\"你是一条鱼，鱼是永远不能飞的\"；叙述称小白龙由此想到做龙的自由，才体会到\"超越界限的力量的可贵\"。\n\n## 本章结果\n\n只一会儿她就看见云层下的大陆，但\"不能就这样下去\"，于是回到海中变回一条鲤鱼，随意选一个方向游去；结尾叙述抛出\"是不是选择任何一个方向，都会游向同一个宿命呢\"。[[claim-local-16]] 本章到此为止，没有交代她最终抵达何处，也没有交代\"不能就这样下去\"的具体缘由。[[ev-local-1]]\n\n## 未决问题与补读入口\n\n- 她望见大陆后为何\"不能就这样下去\"？原文未作说明。\n- 她此行的目的地在何处、与父王（未具名的龙王）后续是否有交代？本章未明示。\n- 本章叙述以\"小白龙\"称呼此前名为\"小龙女\"的主体，称谓对应已登记为身份关联候选，合并与否留待汇总阶段。\n- 章内\"她\"与\"他\"的代词混用（\"没有告诉他的父王\"），且原文存在乱码片段，已登记为源文本问题。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-1",
+      "note": "小白龙前史事件：偷出龙宫、化鲤游海、现出龙形、望见大陆复化鲤鱼"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-11",
+      "note": "叙述将\"小龙女\"与\"小白龙\"指为同一存在的关键语句（anchor: 小白龙的身形现了出来）"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-16",
+      "note": "章末\"宿命\"式收束句，为后续游历/取经线埋线"
+    },
+    {
+      "kind": "identity_link",
+      "local_id": "idlink-local-1",
+      "note": "char-0046 与 char-0017 疑似同一存在，待汇总阶段裁定"
+    },
+    {
+      "kind": "setting",
+      "local_id": "setting-local-2",
+      "note": "化鲤/化龙之变的能力展示（首次出现金龙形态与龙身现形）"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "summary": "原文中段出现乱码片段\"”�鲊�=\"2em\">�糟了！太阳掉到海里来了！\"，疑为排版/编码损坏，影响该句可引用锚点质量。",
+      "chapter_order": 13,
+      "evidence": "该段紧接小龙女\"我变！\"之后，鱼群惊叫句被乱码前缀污染。"
+    },
+    {
+      "category": "fact_conflict",
+      "summary": "原文代词不一致：\"没有告诉他的父王\"中\"他\"用于指称该女性主体（小龙女），与全章\"她\"的用法冲突；按原文照录，未作改写。",
+      "chapter_order": 13,
+      "evidence": "claim-local-3 所依据句子"
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "本章为\"前因\"片段，未说明小龙女望见大陆后\"不能就这样下去\"的原因、最终去处及与其父王的后续，需后续章节补读。",
+      "chapter_order": 13,
+      "evidence": "claim-local-16"
+    }
+  ],
+  "warnings": [
+    "本章以\"前因\"小标题独立起笔，属回溯性片段；story_time 置空，未与前一章时序强行对齐。",
+    "char-0046（小龙女）档案 identity_notes 已引用 events/block-0002.json 中 claim-0529/0530/0532/0533/0542，可能已在其他流程中登记过本章内容；本次对三条核心陈述做 dedupe 均返回 no_match，故仍按新 claim 产出，若下游发现重复请按已存 ref 归并。",
+    "小白龙 char-0017 的 safe_through 为 10，本章证据（claim-local-11/13/15）超出其安全边界，是否合并到 char-0046 请由汇总阶段裁定，本次未做任何实体合并。",
+    "过场角色（鲨鱼、箭鱼、小鱼母子）仅登记必要候选，未做完整建档。"
+  ]
+}

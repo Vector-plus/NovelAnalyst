@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0009",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 5,
+  "introduced_at": 5,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0011/index.json",
+      "record_id": "char-0011"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0009-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "as_of": 5,
+      "revealed_at": 5,
+      "summary": "女子当面声称与孙悟空是旧识（第一次见面在蟠桃树下、他「还是老样子」），并称等了他几万年；孙悟空当场否认认识她、称她认错人。实际交手未发生：他自称不杀无还手之力者，最终举棒不下，饶她一命离去，离去时未看见她伸手相送。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "女子当面声称与孙悟空是旧识（第一次见面在蟠桃树下、他「还是老样子」），并称等了他几万年；孙悟空当场否认认识她、称她认错人。实际交手未发生：他自称不杀无还手之力者，最终举棒不下，饶她一命离去，离去时未看见她伸手相送。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0089"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0090"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0091"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0092"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0101"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0102"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0103"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0104"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 1
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第1—7章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0001.json",
+        "record_id": "chapters-block-0001"
+      },
+      "title": "章节 1—7"
+    }
+  ],
+  "id": "idx-chapters",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 7,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "章节导航"
+}

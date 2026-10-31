@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0069",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 23,
+  "label": "'妖'的定义：神仙管不到的自主自命之物",
+  "introduced_at": 23,
+  "updates": [
+    {
+      "id": "update-thread-0069-001",
+      "revealed_at": 23,
+      "chapter_ranges": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "category": "revelation",
+      "status": "open",
+      "role": "new",
+      "summary": "孙悟空说神仙没法管的东西全都叫'妖'，并称神仙容不得世上有能自主自命的灵物（claim-local-20）；紫霞由此推翻原先'妖即作恶怪物'的认知（claim-local-21）。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1502"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1503"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

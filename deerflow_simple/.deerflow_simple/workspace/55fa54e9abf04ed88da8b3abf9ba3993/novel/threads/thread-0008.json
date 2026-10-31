@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0008",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 2,
+  "label": "紫色丛林中袭击唐僧的妖物身份",
+  "introduced_at": 2,
+  "updates": [
+    {
+      "id": "update-thread-0008-001",
+      "revealed_at": 2,
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "new",
+      "summary": "第2章末藤蔓缠脚、呜嗷声与双爪出现，妖物始终未露面；唐僧喊出救命后本章戛然而止，身份与后续处置未交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0290"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0293"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

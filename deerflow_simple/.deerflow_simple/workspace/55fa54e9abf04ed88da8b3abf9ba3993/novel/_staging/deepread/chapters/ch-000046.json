@@ -1,0 +1,912 @@
+{
+  "chapter_order": 46,
+  "chapter_id": "ch-000046",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "两个孙悟空的漫长拼杀",
+      "introduced_at": 46,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 46,
+            "end": 46
+          }
+        ],
+        "revealed_at": 46,
+        "status": "ongoing",
+        "story_time": "与第45章天界风雪段落同时或相近时段",
+        "summary": "两个孙悟空不知连续拼杀多久，四围的火光、风声、叫喊都已消失，双方只剩不能认输的意志并将力量耗尽；孙悟空觉出战斗怪异，却始终捕捉不到对手影子，有时怀疑自己是独自在世界上挥舞金箍棒。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "没戴金箍的猴子"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "如来现身提出掌心赌约，妖猴被五行山压坠又挣脱",
+      "introduced_at": 46,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 46,
+            "end": 46
+          }
+        ],
+        "revealed_at": 46,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "两猴力竭之际如来出现，向斗成一片的二人呼唤「孙悟空」并提出掌心赌约；未戴金箍的猴子狂笑拒绝，自称已在如来掌心之外；如来挥手散云露出青翠群山，以花果山相问；猴子先说想回家，随即指出花果山已被毁、怒斥诸神是毁去一切的人，并冲向诸神；巨手化作整整一座五行山将其压得直坠，众神欢呼，但山随即被拱起、妖猴暴怒将挣脱。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "没戴金箍的猴子"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "诸神"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-5"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-16"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-15"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "如来催促后孙悟空跃起挥棒进击",
+      "introduced_at": 46,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 46,
+            "end": 46
+          }
+        ],
+        "revealed_at": 46,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "大山轰塌的巨响中妖猴再度跃起并喊出「我不认输」；孙悟空听到如来「你还不动手，更待何时」，浑身一震并否认挣扎者是自己，随后以猎手等待时机般的姿态蹲身、曲足、起跳，棒已在手，向妖猴发出一次进击。本章未写该进击的结果。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "没戴金箍的猴子"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-17",
+          "claim-local-20"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "两个孙悟空不知连续拼杀了多久，四周的火光、风声、叫喊都已消失。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "两个孙悟空不知连续拼杀了多久"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "孙悟空觉出这场战斗的怪异，却始终捕捉不到对手的影子，有时怀疑自己是独自在世界上疯狂地挥舞金箍棒。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "尽管他有时怀疑自己是独自在世界上疯狂地挥舞着金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "在两个孙悟空都快用尽最后一点儿力量时，如来出现。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "当两个孙悟空都快用尽最后一点儿力量的时候，如来出现了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "如来向斗成一片的二人开口呼唤「孙悟空」，两人全跳了开来，同声反问「叫俺老孙作甚？」",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "两人全跳了开来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "如来对孙悟空说：「你若跳得出我掌心，便把天宫让你，若跳不出时，你便老实下界，再修几劫，莫来争吵。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "你若跳得出我掌心，便把天宫让你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空反问如来「你在和谁说话？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "你在和谁说话？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "那只没戴金箍的猴子拄棒狂笑，说「我现在不就已在你的掌心外么？谁要与你赌，老孙很忙，还有很多地方要拆，没空陪你耍子。」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "我现在不就已在你的掌心外么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空觉得眼前这个场景如此熟悉，却想不起来在哪里见过。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "这个场景如此熟悉，可又想不起来哪里见过"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "如来一挥手，云雾散开，露出一片青翠群山。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "云散开了，露出一片青翠群山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "如来问那只猴子「你不想回花果山么？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "你不想回花果山么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "那猴子眼望天外、流露憧憬之光，喃喃说「花果山……漫山的花，漫山的果，漫山的朋友……回花果山……回家」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "漫山的花，漫山的果，漫山的朋友"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "那猴子接着喃喃「可是花果山已经毁了，没有了，没有花果，没有生灵」，随即转头怒视诸神，说「是你们毁了它，毁了他们！我已经什么都没有了！你们也什么都不会有！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "是你们毁了它，毁了他们"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "那猴子大叫一声，冲向诸神。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "他大叫一声，冲向诸神"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "一片巨大的黑暗直扑过来，是一只巨手、是整整一座五行山，将那妖猴压着直坠下去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "是整整一座五行山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "山压落之后，众神发出了一阵欢呼。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "众神发出了一阵欢呼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "欢呼随即止住，众神惊恐地看着那山被拱起，那妖猴暴怒着将要挣脱而出。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "他们惊恐地看着那山被拱了起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "如来对孙悟空说「你还不动手，更待何时？」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "你还不动手，更待何时"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "听到如来这句话，孙悟空一震，不确定是否在叫自己；他此前几乎以为那个挣扎着的就是自己，随即否认「那不是我」，并自问「我是孙悟空，孙悟空怎么可能忍受那样的失败？怎么可能接受那种毫无胜利希望的战斗」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "他刚才几乎以为那个挣扎着的就是自己"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "大山轰塌的巨响中，那妖猴再次猛地跃了起来，血从他的眼睛里喷了出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "大山轰塌的巨响中，妖猴再次猛地跃了起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "那妖猴发出野兽般的吼叫「我——不——认——输！」",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "我——不——认——输"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空判断这是那妖猴最后一次跃起，并像静伏的猎手一样等待这个机会。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "他像一个静伏的猎手等待着这样一个机会"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空蹲身、曲足、起跳，那一瞬棒已在手，发出一道纯正的金光、一个完美的弧线，构成一次进击。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 46,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000046.txt",
+          "chapter_id": "ch-000046",
+          "chapter_order": 46,
+          "locator": null,
+          "anchor": "一次旷古绝后的进击"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "没戴金箍的猴子",
+      "introduced_at": 46,
+      "alias_texts": [
+        "那只没戴金箍的猴子",
+        "妖猴",
+        "猴子"
+      ],
+      "identity_notes": "与孙悟空斗成一片的另一只猴子，未戴金箍；如来向二人同称「孙悟空」，故其身份在本章内未被明确交代；自称「老孙」，拒赌、宣称已在如来掌心外，并怒斥诸神毁去花果山。严禁与 char-0002（孙悟空）合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-7",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "诸神",
+      "introduced_at": 46,
+      "certainty": "explicit",
+      "identity_notes": "在场围观两猴相斗与五行山镇猴的众神群体，被那猴子指为毁去花果山与其生灵的一方；欢呼与惊恐均为群体反应，未点出个体。",
+      "evidence_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-15",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "五行山",
+      "category": "location",
+      "introduced_at": 46,
+      "notes": "以巨手化作的整整一座大山，将妖猴压着直坠；随后被妖猴拱起、轰塌。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-16",
+        "claim-local-19"
+      ]
+    },
+    {
+      "label": "花果山（如来所指的幻象群山）",
+      "category": "location",
+      "introduced_at": 46,
+      "notes": "如来一挥手散云后露出的青翠群山，用来向猴子提出「你不想回花果山么」；猴子自述花果山已被毁、没有花果与生灵。实际地点状态本章未直接叙述。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "subject_a": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "status": "ambiguous",
+      "relation_hypothesis": "同一人／镜像／宿命重演均未被本章明示",
+      "notes": "依据：如来向斗成一片的二人同称「孙悟空」；孙悟空自己觉得这个场景如此熟悉却想不起何时见过，且一度以为挣扎者就是自己，随即否认。本章未给出任何身份结论，不得合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "candidate_name": "没戴金箍的猴子"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "两猴连续拼杀至双方力量耗尽；孙悟空捕捉不到对方影子，最终在如来催促下起跳挥棒进击对方。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-22"
+      ],
+      "notes": "本章未交代交手起因与最终胜负。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction"
+      },
+      "certainty": "explicit",
+      "summary": "如来在两猴力竭时现身呼唤「孙悟空」并提出掌心赌约，其后又以「你还不动手，更待何时」促孙悟空出手；孙悟空听到后一震，未能确定是否是叫他。",
+      "source_claim_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "如来发话对象存在歧义：场上有两只都被称作「孙悟空」的猴子。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "conflict",
+      "status": "ongoing",
+      "role": "core",
+      "title": "两个孙悟空之间的拼杀与如来掌心赌局",
+      "summary": "两猴相斗至力竭，如来现身以掌心赌约介入，妖猴拒赌并冲撞诸神，被五行山压坠后再度挣脱，孙悟空受如来催促起跳进击；结局未在本章交代。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-5",
+        "claim-local-14",
+        "claim-local-16",
+        "claim-local-22"
+      ],
+      "notes": "承接第45章天界线；第47章开头写进击后火星四溅、孙悟空立于战败者身旁。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第46章：两猴相斗与如来的掌心赌约",
+    "front_matter": {
+      "as_of": 46,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "candidate_name": "没戴金箍的猴子"
+        },
+        {
+          "candidate_name": "诸神"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n两个孙悟空在场上连续拼杀，久到不知过了多久。四周的火光、风声、叫喊都已消失，只剩一种意志：绝不让「失败」的阴影进入脑海。孙悟空已不能停下，尽管他觉出这场战斗的怪异，尽管始终捕捉不到对手的影子，尽管他有时怀疑自己是独自在世界上疯狂地挥舞金箍棒（[[claim-local-1]]、[[claim-local-2]]）。\n\n## 关键行动\n\n当双方都快用尽最后一点儿力量时，如来出现，向斗成一片的二人开口呼唤「孙悟空」，两人全跳了开来，同声反问「叫俺老孙作甚？」（[[claim-local-3]]、[[claim-local-4]]）。\n\n如来开价：「你若跳得出我掌心，便把天宫让你，若跳不出时，你便老实下界，再修几劫，莫来争吵。」孙悟空反问「你在和谁说话？」；那只没戴金箍的猴子拄棒狂笑，回敬「我现在不就已在你的掌心外么？谁要与你赌，老孙很忙，还有很多地方要拆，没空陪你耍子」（[[claim-local-5]]、[[claim-local-6]]、[[claim-local-7]]）。\n\n## 转折与新信息\n\n孙悟空觉得这个场景如此熟悉，却想不起在哪里见过（[[claim-local-8]]）。\n\n如来一挥手，云散开，露出一片青翠群山，问他「你不想回花果山么？」。那猴子眼望天外，流露憧憬之光，喃喃念着「漫山的花，漫山的果，漫山的朋友……回花果山……回家」；随即话锋一转：「可是花果山已经毁了，没有了，没有花果，没有生灵」，并转头怒视诸神，「是你们毁了它，毁了他们！我已经什么都没有了！你们也什么都不会有！」（[[claim-local-9]]、[[claim-local-10]]、[[claim-local-11]]、[[claim-local-12]]）\n\n他大叫一声冲向诸神；一片巨大的黑暗直扑过来——一只巨手、整整一座五行山将他压着直坠下去，众神发出欢呼（[[claim-local-13]]、[[claim-local-14]]、[[claim-local-15]]）。欢呼随即止住：山被拱了起来，妖猴暴怒着将要挣脱（[[claim-local-16]]）。\n\n## 本章结果\n\n如来道「你还不动手，更待何时？」。孙悟空一震，不确定是否在叫他；他刚才几乎以为那个挣扎着的就是自己，随即否认「那不是我」，并以「我是孙悟空，孙悟空怎么可能忍受那样的失败」自我说服（[[claim-local-17]]、[[claim-local-18]]）。\n\n大山轰塌的巨响中，妖猴再次猛地跃起，血从眼睛里喷出，吼出「我——不——认——输！」（[[claim-local-19]]、[[claim-local-20]]）。孙悟空判断这是对方最后一次跃起，像静伏的猎手等待这个机会（[[claim-local-21]]）。他蹲身、曲足、起跳，那一瞬棒已在手，一道纯正的金光、一个完美的弧线、一次旷古绝后的进击——本章至此收束（[[claim-local-22]]）。\n\n## 未决问题与补读入口\n\n- 两只被同称「孙悟空」的猴子究竟是什么关系：正文只给出孙悟空的熟悉感与自我否认，未给结论，本章不作合并判断。\n- 如来两句话（掌心赌约、「你还不动手」）的确切受话人在两猴并立时无法确定。\n- 五行山镇猴之后为何又被拱起、山体是否真正崩坏，本章只写「轰塌的巨响」与「再次跃起」。\n- 花果山被毁的说法出自那猴子之口，属其自述，本章未以叙述者身份确认。\n- 衔接提示：第45章为天界风雪线（猪八戒、小白龙），第46章转入两猴相斗场面的延续；第47章开头写火星溅开、孙悟空立于战败者身旁。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-1",
+      "chapter_order": 46,
+      "reason": "两个孙悟空拼杀这一核心冲突的首次完整呈现",
+      "salience": "high"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-2",
+      "chapter_order": 46,
+      "reason": "如来现身、掌心赌约与五行山镇猴：身份与宿命线索关键",
+      "salience": "high"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-3",
+      "chapter_order": 46,
+      "reason": "孙悟空在如来催促下出手，为第47章胜负作铺垫",
+      "salience": "high"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-8",
+      "chapter_order": 46,
+      "reason": "孙悟空对场景的熟悉感，是身份线索的重要伏笔",
+      "salience": "high"
+    },
+    {
+      "kind": "character_candidate",
+      "label": "没戴金箍的猴子",
+      "chapter_order": 46,
+      "reason": "新出现且身份未定的核心角色候选，需后续定性",
+      "salience": "high"
+    },
+    {
+      "kind": "identity_link_candidate",
+      "chapter_order": 46,
+      "reason": "「没戴金箍的猴子」与孙悟空身份关系悬置，待后续章节确认",
+      "salience": "high"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "「没戴金箍的猴子／妖猴」与已建档 char-0002（孙悟空）在本章内被如来同称「孙悟空」，但正文未给出任何身份结论；孙悟空本人只觉得场景熟悉并否认挣扎者是自己。需后续章节确认是同一人、镜像还是另一实体。",
+      "related_local_ids": [
+        "claim-local-4",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-18"
+      ],
+      "suggested_action": "在后续章节（尤其第47章起）核对身份揭示后再决定是否建立 identity_link。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "如来「孙悟空，你若跳得出我掌心……」与「你还不动手，更待何时」两句的具体受话人，在两只同名猴子同时在场时无法确定。",
+      "related_local_ids": [
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-17"
+      ],
+      "suggested_action": "保留为 reported 陈述，不做受话人断言。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "本章结尾停在孙悟空起跳挥棒的瞬间，进击结果、双方胜负均未在本章叙述。",
+      "related_local_ids": [
+        "claim-local-22"
+      ],
+      "suggested_action": "第47章开头已述火星溅开、孙悟空立于战败者身旁；本章不越界推断。"
+    }
+  ],
+  "warnings": [
+    "本章原文存在字符编码残缺（「几亿万钧的力量全…在了他身上」一句中有乱码字符），相关力量描写未作为独立 claim 提取。",
+    "「没戴金箍的猴子／妖猴」身份未定，已登记为角色候选与 identity_link 候选，未与 char-0002 合并。",
+    "第46章原文标题为空（「．」），摘要标题依正文内容拟定。"
+  ]
+}

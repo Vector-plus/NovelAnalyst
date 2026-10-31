@@ -1,0 +1,57 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0154",
+  "kind": "entity_index",
+  "revision": 2,
+  "safe_through": 67,
+  "entity_type": "character",
+  "label": "大鹏王",
+  "introduced_at": 62,
+  "identity_notes": [
+    {
+      "id": "in-char-0154-001",
+      "revealed_at": 62,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2382"
+        },
+        {
+          "path": "events/block-0007.json",
+          "record_id": "claim-2383"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0154/stages/stage-007.md",
+        "record_id": "doc-char-0154-stage-007"
+      },
+      "kind": "character_stage",
+      "title": "接旗者与封锁者：以唐僧性命为条件的妖王",
+      "summary": "接旗者与封锁者：以唐僧性命为条件的妖王（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

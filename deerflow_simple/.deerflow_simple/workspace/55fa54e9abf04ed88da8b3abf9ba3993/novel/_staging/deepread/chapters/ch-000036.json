@@ -1,0 +1,956 @@
+{
+  "chapter_order": 36,
+  "chapter_id": "ch-000036",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "万灵之森上空天现赤红火光并飘雪，林中妖精嘶号",
+      "introduced_at": 36,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 36,
+            "end": 36
+          }
+        ],
+        "revealed_at": 36,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "小白龙望天发问，猪八戒看见天空东面一片赤红如血扩散；满天空都是火光却飘下雪来。猪八戒自述这样的场面他只见过一次——五百年前。万灵之森中传出无数妖精的嘶号。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-4"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空在天囚塔醒来，发现自己被锁链穿过琵琶骨",
+      "introduced_at": 36,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 36,
+            "end": 36
+          }
+        ],
+        "revealed_at": 36,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "天囚塔巨大锁链动了一下，随后出现断续低语与「戴上它，你就自由了」等碎片化声音/画面。有人喊「孙悟空」，孙悟空应道「是谁叫俺！」后完全醒来，置身黑暗巨大空间，只有几点火焰，巨大锁链纵横交错不见头尾；身上剧痛，有东西穿过琵琶骨，不能运气、不能呼吸。长鼻子天将木岸在旁质问其身份，并说「你是孙悟空，那外面那个是什么？」。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "木岸"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-14"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "观音至天囚塔与孙悟空对话，提出再给他一次机会被拒",
+      "introduced_at": 36,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 36,
+            "end": 36
+          }
+        ],
+        "revealed_at": 36,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "观音从黑暗处走出，命木岸退下，与孙悟空叙谈。孙悟空要求去掉头上金箍，观音以其旧罪未销、又犯天条为由拒绝，并追述其当年身死又在炼丹炉复活、上天给机会保唐僧成正果，质问其为何反杀唐僧、再反天庭。孙悟空否认杀唐僧。观音再提给一次机会，并以三问逼问（不想成正果、不想知道杀唐僧陷害他的是谁、不想拿下金箍），孙悟空拒绝并让其杀了自己。此后天囚塔巨大锁链开始微微颤动。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-16"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-19",
+          "claim-local-21"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-22"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "小白龙望着天上问「出什么事了」，猪八戒望去，看见天空东面一片赤红，红色像鲜血一样流淌过天际，被染红的天穹越来越大。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "红色像鲜血一样流淌过天际"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "一片火光的天上飘下了雪；小白龙说「好冷啊！」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "居然有雪飘了下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "猪八戒说，这样的场面他只见过一次——五百年前。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "这样的场面，我只见过一次"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "万灵之森里传来无数妖精的嘶号。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "传来了无数妖精的嘶号"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "天界天囚塔的巨大锁链动了一下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "巨大的锁链动了一下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "天囚塔中出现断续的低语/内心声音，提到火、黑暗、黑暗中的火、花果山，并问「是谁」「谁在喊我」「谁是孙悟空」。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "黑暗中的火……花果山"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "文中出现碎片化的问答与画面：一只猴子问「我是谁」，老者答「你就是问问题的人」；另有「戴上它，你就自由了！」的声音，以及年轻和尚笑问「你是谁」、猴子答「我是孙悟空！孙悟空啊！」。这些片段是回忆、幻象还是当下场景，原文本章未明示。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "戴上它，你就自由了！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "有声音指认「他就是五百年前大闹天宫的孙悟空」，并有多个声音嘲笑他现在「乖得紧」、「傻样」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "五百年前大闹天宫的孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "金角笑着称，只要人心中抛不下自己，就会被他的法术所制；相关言语提到应答「孙悟空」会被葫芦吸进去，并称「行者孙也照吸」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "金角"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "只要人心中抛不下自己"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "有人喊「孙悟空」，孙悟空应道「是谁叫俺！」，随后完全醒过来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "是谁叫俺！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空醒来后眼前是黑暗的巨大空间，只亮着几点火焰；他看见蜿蜒在整个空间、纵横交错不见头尾的巨大锁链。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "蜿蜒在整个空间的巨大锁链"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空身上一阵剧痛，有东西穿过他的琵琶骨，使他不能运气、不能呼吸。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "有什么穿过了他的琵琶骨"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "一个长鼻子天将站在孙悟空面前，问他「你真的是孙悟空？」，孙悟空想了想答「应该没错」。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "你真的是孙悟空？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "长鼻子天将（后被称为木岸）发火道：孙悟空若在此，那「外面那个」又是什么。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "木岸"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "那外面那个是什么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "一个声音命「木岸，你先退下」，随后观音从黑暗处走了出来，向孙悟空问好。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "观音从黑暗处走了出来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空见到观音后，第一件事是要求把头上的箍儿去掉。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "把我头上的箍儿去了吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "观音称孙悟空「旧罪未销，又犯天条」，不应还想去掉金箍儿。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "你旧罪未销，又犯天条"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "观音称孙悟空当年也曾死去，却又在炼丹炉里复活，并提及如来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "还不是又在炼丹炉里复活？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "观音称上天因其心中尚有佛性而给他机会去「保唐僧成正果」，并质问孙悟空为何「反杀了唐僧，还再反天庭」。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "怎么你又反杀了唐僧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "孙悟空回应称「杀秃头的不是我」，表示观音不信也没法，并让观音走时把门带上。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "说了杀秃头的不是我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "观音再次称上天看他心中还有一点儿佛性、要「再给你一个机会」，并以三问逼问：真的不想再成正果？真的不想知道杀唐僧陷害他的是谁？真的不想拿下金箍？",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "你真的不想知道杀唐僧陷害你的是谁？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空以「烦不烦，耍俺老孙？有本事把俺杀了，大家清静！」作答，拒绝观音的提议；此后天囚塔那些巨大的锁链都开始微微颤动。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 36,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000036.txt",
+          "chapter_id": "ch-000036",
+          "chapter_order": 36,
+          "locator": null,
+          "anchor": "那些巨大的锁链忽地都开始微微颤动起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "木岸",
+      "introduced_at": 36,
+      "alias_texts": [
+        "长鼻子天将"
+      ],
+      "identity_notes": "天界天囚塔守将被观音唤作「木岸」，长鼻子，负责看守被锁链穿琵琶骨的孙悟空；质问孙悟空「你是孙悟空，那外面那个是什么？」。",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ]
+    },
+    {
+      "label": "金角",
+      "introduced_at": 36,
+      "alias_texts": [],
+      "identity_notes": "在本章碎片化的声音/画面中「笑着说」：只要人心中抛不下自己，就会被其法术所制；提到应答会被葫芦吸进去、「行者孙也照吸」。说话场景性质（回忆/幻象/当下）本章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    }
+  ],
+  "new_faction_candidates": [
+    {
+      "label": "天界天囚塔守军",
+      "introduced_at": 36,
+      "certainty": "explicit",
+      "notes": "天囚塔内有天将值守（木岸），受观音指令调度，奉命看管被锁链穿琵琶骨的孙悟空。",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15"
+      ]
+    }
+  ],
+  "new_setting_candidates": [
+    {
+      "label": "天囚塔",
+      "category": "location",
+      "introduced_at": 36,
+      "notes": "天界的囚禁场所：黑暗的巨大空间，只亮着几点火焰，有纵横交错不见头尾的巨大锁链；孙悟空被囚此处，琵琶骨被穿透，不能运气、不能呼吸。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "年轻和尚（第36章碎片画面中笑问「你是谁」者）",
+      "candidate_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "basis_claim_local_ids": [
+        "claim-local-7"
+      ],
+      "certainty": "uncertain",
+      "notes": "本章仅出现「年轻和尚」称呼，未点名；因与猴子（疑为孙悟空）对话且涉及「你是谁」的身份问答，疑似与唐僧相关，但本章无明示，不做合并。",
+      "evidence_gap": "缺少原文明确的姓名或身份指认"
+    },
+    {
+      "candidate_label": "「外面那个」孙悟空（与孙悟空同貌者）",
+      "candidate_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "basis_claim_local_ids": [
+        "claim-local-14"
+      ],
+      "certainty": "uncertain",
+      "notes": "天将木岸质疑「你是孙悟空，那外面那个是什么？」，暗示天囚塔外另有一个被称作孙悟空的存在；本章未出场，仅有此一句转述，身份关系不明，禁止合并。",
+      "evidence_gap": "第36章未正面描写该存在，仅有一句对话转述"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "other",
+        "note": "同居万灵之森共观天象、互相搭话"
+      },
+      "certainty": "explicit",
+      "summary": "小白龙望天发问，猪八戒望去并说出自己只在五百年前见过这样的场面；两人同处万灵之森观望天空异象。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3"
+      ],
+      "notes": ""
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "观音代上天传话并提出条件，孙悟空要求去除金箍、拒绝条件"
+      },
+      "certainty": "explicit",
+      "summary": "观音到天囚塔见被囚的孙悟空，指其旧罪未销又犯天条，转述上天给他「保唐僧成正果」的机会并质问其反杀唐僧、再反天庭；孙悟空否认杀唐僧、索要去掉金箍，并拒绝观音「再给一次机会」的提议。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ],
+      "notes": "双方立场对立，但互动形式为传话与交涉，未出现直接动手。"
+    },
+    {
+      "subject_a": {
+        "candidate_name": "木岸"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "看守者与被囚者的质问对峙"
+      },
+      "certainty": "explicit",
+      "summary": "长鼻子天将木岸站在被锁链穿透琵琶骨的孙悟空面前质问其身份，并因孙悟空答「应该没错」而发火，追问「外面那个」是谁；随后被观音喝令退下。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15"
+      ],
+      "notes": ""
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "unresolved_mystery",
+      "status": "active",
+      "role": "advance",
+      "label": "杀唐僧的真凶与「外面那个孙悟空」",
+      "summary": "观音当面指孙悟空反杀唐僧、再反天庭；孙悟空明确否认「杀秃头的不是我」。天将木岸又说「你是孙悟空，那外面那个是什么？」，观音以「你真的不想知道杀唐僧陷害你的是谁？」逼问，暗示真凶另有其人且观音知道线索。孙悟空拒绝追问。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "character_goal",
+      "status": "active",
+      "role": "advance",
+      "label": "孙悟空索要去掉金箍",
+      "summary": "孙悟空醒来后第一诉求是让观音去掉头上的箍儿，并称即便砍头也要记得先去箍；观音以旧罪未销、又犯天条拒绝，最后以「你真的不想拿下金箍？」作为劝服条件。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "world_event",
+      "status": "active",
+      "role": "advance",
+      "label": "天降赤红火光与飞雪、妖精嘶号",
+      "summary": "万灵之森上空东面一片赤红如血，满空火光却有雪飘落，林中妖精齐声嘶号；猪八戒称这样的场面只在五百年前见过一次。与天囚塔锁链颤动同处一章。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第36章：天囚塔中的孙悟空",
+    "front_matter": {
+      "as_of": 36,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "candidate_name": "木岸"
+        },
+        {
+          "candidate_name": "金角"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n人界万灵之森。小白龙望着天上问「出什么事了」，猪八戒举目望去：天空东面一片赤红，红色像鲜血一样流淌过天际，被染红的天穹越来越大（[[claim-local-1]]）。一片火光的天空里居然飘下雪来，小白龙喊「好冷啊！」（[[claim-local-2]]）。猪八戒说这样的场面他只在五百年前见过一次（[[claim-local-3]]）。万灵之森里传来无数妖精的嘶号（[[claim-local-4]]）。\n\n镜头切至天界天囚塔：巨大的锁链动了一下（[[ev-local-1]] 相关，见 [[claim-local-5]] 所在事件 [[ev-local-2]]）。\n\n## 关键行动\n\n天囚塔中先是一串断续的声音与画面：火、黑暗、黑暗中的火、花果山，以及「是谁」「谁在喊我」「谁是孙悟空」；随后出现猴子问「我是谁」、老者答「你就是问问题的人」、「戴上它，你就自由了！」、年轻和尚笑问「你是谁」而猴子答「我是孙悟空」等碎片（场景性质本章未明示）。有声音指认「他就是五百年前大闹天宫的孙悟空」，并有多声嘲笑他如今「乖得紧」；「金角」笑称只要人心中抛不下自己就会被其法术所制，提到应答会被葫芦吸进去、「行者孙也照吸」。\n\n有人喊「孙悟空」，孙悟空应「是谁叫俺！」后完全醒过来（[[claim-local-10]]）。他置身黑暗的巨大空间，只见几点火焰与纵横交错、不见头尾的巨大锁链，身上剧痛——有东西穿过琵琶骨，使他不能运气、不能呼吸（[[claim-local-11]]、[[claim-local-12]]）。\n\n## 转折与新信息\n\n长鼻子天将（木岸）质问「你真的是孙悟空？」，孙悟空答「应该没错」；木岸发火追问：「你是孙悟空，那外面那个是什么？」（[[claim-local-14]]）——文本首次以角色之口指出另有一个「孙悟空」在外。\n\n观音从黑暗处走出，喝令木岸退下，向孙悟空问好（[[claim-local-15]]）。孙悟空开口便索要去掉头上的箍儿；观音以「旧罪未销，又犯天条」拒绝（[[claim-local-17]]），并追述他当年曾死、又在炼丹炉里复活，称上天因其心中尚有佛性而给他「保唐僧成正果」的机会，质问其为何「反杀了唐僧，还再反天庭」（[[claim-local-19]]）。孙悟空答「说了杀秃头的不是我」，要他走时把门带上（[[claim-local-20]]）。观音再提「再给你一个机会」，并以三问逼问：真的不想再成正果？真的不想知道杀唐僧陷害你的是谁？真的不想拿下金箍？（[[claim-local-21]]）\n\n## 本章结果\n\n孙悟空以「烦不烦，耍俺老孙？有本事把俺杀了，大家清静！」拒绝，未接受任何条件；此后天囚塔那些巨大的锁链都开始微微颤动（[[claim-local-22]]）。本章在观音三问与锁链颤动处收束，孙悟空与观音的交涉未达成任何结果。\n\n## 未决问题与补读入口\n\n1. 「外面那个」是谁、与孙悟空是何关系：本章只有木岸一句质问（[[claim-local-14]]），无正面描写。\n2. 杀唐僧者究竟是谁：孙悟空否认（[[claim-local-20]]），观音以「你真的不想知道杀唐僧陷害你的是谁」暗示另有其人（[[claim-local-21]]），但未给出答案。\n3. 金箍能否去掉：孙悟空的核心诉求，观音以罪名未销拒绝（[[claim-local-17]]）。\n4. 万灵之森的赤红火光与飞雪、妖精嘶号与天囚塔锁链颤动是否同一事件的两面：本章仅并置呈现，未明示因果（[[ev-local-1]]、[[ev-local-3]]）。\n5. 需补读：第35章末（擒妖猴、火起）与第37章起（塔外出现与孙悟空同貌者）以确认时间线与「外面那个」的身份。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "key_event",
+      "local_ref": "ev-local-2",
+      "chapter_order": 36,
+      "note": "孙悟空被囚天囚塔、琵琶骨被穿透，首次出现「外面那个也是孙悟空」的指称"
+    },
+    {
+      "kind": "key_event",
+      "local_ref": "ev-local-3",
+      "chapter_order": 36,
+      "note": "观音亲自现身天囚塔传上天之意，提出再给机会并以杀唐僧真凶为饵，被孙悟空拒绝"
+    },
+    {
+      "kind": "key_claim",
+      "local_ref": "claim-local-20",
+      "chapter_order": 36,
+      "note": "孙悟空当面否认杀害唐僧（reported，本人陈述）"
+    },
+    {
+      "kind": "key_claim",
+      "local_ref": "claim-local-14",
+      "chapter_order": 36,
+      "note": "天将木岸指认塔外另有一个「孙悟空」"
+    },
+    {
+      "kind": "character_turning_point",
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "chapter_order": 36,
+      "note": "孙悟空拒绝成正果、拒绝追问真相，只坚持去箍；结尾锁链颤动"
+    },
+    {
+      "kind": "faction_movement",
+      "entity_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "chapter_order": 36,
+      "note": "天界（观音代表上天）对孙悟空采取「给机会」的招抚策略"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "missing_evidence",
+      "chapter_order": 36,
+      "detail": "本章两次出现同类锚点候选：「戴上它，你就自由了！」与「戴上它！你就自由了！！」文本几乎相同，若下游做严格唯一匹配需注意版本差异。",
+      "related_local_ids": [
+        "claim-local-7"
+      ]
+    },
+    {
+      "category": "identity_ambiguity",
+      "chapter_order": 36,
+      "detail": "「年轻和尚」「老者」均未点名，且其对话处于碎片化声音/画面中，无法确定是回忆、幻象还是当下发生；不做实体合并。",
+      "related_local_ids": [
+        "claim-local-7"
+      ]
+    },
+    {
+      "category": "coverage_gap",
+      "chapter_order": 36,
+      "detail": "天囚塔场景与前文（第35章擒妖猴）及万灵之森场景的时间先后关系，本章未明示，story_time 留空。",
+      "related_local_ids": [
+        "ev-local-1",
+        "ev-local-2"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章大量内容为碎片化低语与问答（火、黑暗、花果山、戴上它你就自由了、年轻和尚等），原文未明示是回忆、幻象还是当下场景，故以 certainty=uncertain 记录，未与任何既有实体或事件合并。",
+    "金角在本章仅出现名字与其「笑着」的言语，场景性质不明，仅登记为人物候选，未与后续章节（第63章起）的同名人物合并。",
+    "「外面那个」孙悟空的身份不做推断，仅作为 identity_link_candidate 与 thread_update_candidate 记录。"
+  ]
+}

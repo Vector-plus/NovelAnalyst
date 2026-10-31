@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0041",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "唐僧所修“大乘”尚未成形",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0041-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "character_arc",
+      "status": "open",
+      "role": "setup",
+      "summary": "唐僧自称修大乘、修圆满，但承认“还没想好”，与绿衣女孩所说金蝉子质疑小乘、自行通悟形成呼应。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0928"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0929"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0930"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

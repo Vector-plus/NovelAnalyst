@@ -1,0 +1,31 @@
+{"kind": "event", "ref_local_id": "ev-local-2", "note": "本 stage（花果山·众生之问与石猴出海）首章关键进展：松鼠登峰初见大海，是把“众生之问”推向海外的起点", "chapter_order": 50}
+{"kind": "event", "ref_local_id": "ev-local-3", "note": "峰顶孤石 + 光贯穿天地，可能是石猴线的启动节点；需在第51章确认石头是否开口", "chapter_order": 50}
+{"kind": "claim", "ref_local_id": "claim-local-16", "note": "松鼠首次看见海（关键证据，anchor：那是……海）", "chapter_order": 50}
+{"kind": "claim", "ref_local_id": "claim-local-19", "note": "峰顶不与山体相连的孤立石头（石猴候选载体的首次描写）", "chapter_order": 50}
+{"kind": "claim", "ref_local_id": "claim-local-6", "note": "“爬到大地最高处便知世界是什么样”——推动松鼠出走的直接动因（reported by 老树）", "chapter_order": 50}
+{"kind": "thread", "name": "松鼠把所见带回告诉老树的承诺", "note": "跨章伏笔，需在 stage-005 后续章节跟踪是否兑现", "chapter_order": 50}
+{"kind": "event", "local_id": "ev-local-1", "note": "石猴首次直接追问“我是谁”，自述与猴群不同且因此恐惧——本 stage 人物主线起点", "subject_ref_or_candidate": {"path": "characters/char-0067/index.json", "record_id": "char-0067"}, "chapter_order": 51}
+{"kind": "event", "local_id": "ev-local-2", "note": "叫名字的约定首次执行即失效，松鼠无法辨认那片叶子", "subject_ref_or_candidate": {"path": "characters/char-0112/index.json", "record_id": "char-0112"}, "chapter_order": 51}
+{"kind": "claim", "local_id": "claim-local-8", "note": "一片叶子关于存在、消失与被记住的自述——新角色核心陈述", "chapter_order": 51}
+{"kind": "claim", "local_id": "claim-local-9", "note": "松鼠答应每日呼唤名字的约定（对象为石猴与一片叶子）", "chapter_order": 51}
+{"candidate_name": "一片叶子", "kind": "entity_candidate", "note": "本 stage 新出场说话角色，待建档", "chapter_order": 51}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "石头夜跳水帘失败 + 与松鼠关于“可及与不可及”的对话，是 stage-005 “众生之问/石猴出海”主题的核心情节", "chapter_order": 52}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "note": "石头关于“永远不可到达之处是否存在”的疑问，日后转变的关键动机陈述", "chapter_order": 52}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "note": "松鼠掌上蓝色月光，石头“怔住”——对“触摸”问题的具象回应", "chapter_order": 52}
+{"kind": "character", "candidate_name": "石头", "note": "本章唯一行动主体，与 char-0067“石猴”疑似同一但当章未明示，待后续确认", "chapter_order": 52}
+{"kind": "faction", "candidate_name": "花果山众猴", "note": "以“进水帘再出来”为试胆约定的猴群集体，排除石头在外", "chapter_order": 52}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "why": "stage-005 主题线（众生之问）的关键场景：正反两种活法主张首次同时出现", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "chapter_order": 53}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "why": "阿明以「不做不想做的事」的方式活到入秋死亡，构成对前一场景的实践回应", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "chapter_order": 53}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "why": "松鼠以「石头」称呼某声音，是判断「石头」与石猴是否同一人的新增称呼证据", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "chapter_order": 53}
+{"kind": "character_turning_point", "ref_or_local_id": "claim-local-8", "why": "阿明主张「你可以不做自己不想做的事情」，是该角色在本章的唯一立场表达", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "chapter_order": 53}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "why": "「这么幸福的日子为什么要死呢」为 stage-005 生死追问线的悬置问句", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "chapter_order": 53}
+{"type": "event_ref", "local_ref": "ev-local-1", "reason": "阶段内“花果山众生之问”主题的关键场景：老猴论述生灭、时间与失去，并给出“得到”", "chapter_order": 54}
+{"type": "event_ref", "local_ref": "ev-local-2", "reason": "翔鸟迁徙宿命与离别主题的关键场景", "chapter_order": 54}
+{"type": "claim_ref", "local_ref": "claim-local-5", "reason": "“你是从石头中蹦出来的吧”为石头身世的关键表述，供后续身份汇总使用", "chapter_order": 54}
+{"type": "claim_ref", "local_ref": "claim-local-6", "reason": "首次出现“山外大海中有不死的神龙”的传说，可能关联后续出海线", "chapter_order": 54}
+{"type": "claim_ref", "local_ref": "claim-local-9", "reason": "石头饮下“得到”后的自称“我就是天，我就是所有”，是人物状态的转折证据", "chapter_order": 54}
+{"type": "character_turning_point", "local_ref": "claim-local-7", "reason": "石头立下“我会变得很强，强到可以承受一切”的目标表述", "chapter_order": 54}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 55, "note": "stage-005 收束点：石猴离山出海的关键动作事件，阶段骨架标题所指「石猴出海」在本章落实。"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 55, "note": "群叶告别场景，含叶子\"我在，记住我\"的告别语与明年之约。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "chapter_order": 55, "note": "石猴道出的离山动机与心愿原文，本阶段主题陈述的关键证据。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 55, "note": "叶子留下「明年，你再在枝头上叫我的名字」的约定，可能成为后续伏笔。"}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0037",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 28,
+  "label": "孙悟空携阿瑶离开天宫",
+  "introduced_at": 28,
+  "updates": [
+    {
+      "id": "update-thread-0037-001",
+      "revealed_at": 28,
+      "chapter_ranges": [
+        {
+          "start": 28,
+          "end": 28
+        }
+      ],
+      "category": "character_arc",
+      "status": "ongoing",
+      "role": "introduced",
+      "summary": "孙悟空应阿瑶之请，带她离开天宫；阿瑶提出的去处标准是「没有神的地方」，孙悟空答「好，我带你走」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0859"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0860"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-0861"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0059",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 49,
+  "introduced_at": 27,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0123/index.json",
+      "record_id": "char-0123"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0059-stage-004",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "as_of": 49,
+      "revealed_at": 49,
+      "summary": "identity_rival",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "两端招式与兵器完全相同，力量互消、胜负未分；第46章拼杀、第47章一击落空于幻影",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "「没带金箍儿」是天庭一方提出的唯一判别依据，孙悟空本人未正面回应",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "第44章孙悟空直面「狂笑的自己」，第47章「看见了自己」——同一性表述存在但未定性",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

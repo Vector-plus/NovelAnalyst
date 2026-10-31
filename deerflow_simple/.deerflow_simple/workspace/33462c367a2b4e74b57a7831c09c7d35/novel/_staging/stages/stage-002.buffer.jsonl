@@ -1,0 +1,21 @@
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 4, "note": "莱丽做卡曼琳腾跃失手重伤致脊椎断裂，西亚运动员以命相搏的关键证据"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 4, "note": "萨里索要五百万美元被拒并退赛：代表团裂痕与国家信誉问题"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 4, "note": "韦斯特将军私访辛妮、赠送定做跑鞋，涉及敌方统帅的个人关注"}
+{"kind": "claim", "ref_or_local_id": "claim-local-36", "chapter_order": 4, "note": "克雷尔给辛妮服用来源与性质未明的白色药片"}
+{"kind": "claim", "ref_or_local_id": "claim-local-48", "chapter_order": 4, "note": "韦斯特称「我害怕她的眼睛」，动机线索待跟"}
+{"kind": "event", "local_id_or_ref": "ev-local-1", "reason": "本阶段核心赛事事件，辛妮与埃玛的正面竞逐贯穿本章，赛果延续至下一章", "chapter_order": 5}
+{"kind": "event", "local_id_or_ref": "ev-local-5", "reason": "关键身世反转证据：骨灰中的弹片推翻父女说法，主权人物背景转折", "chapter_order": 5}
+{"kind": "claim", "local_id_or_ref": "claim-local-10", "reason": "克雷尔对药物的说法，涉及比赛公平与团长引导辛妮参赛的动机线", "chapter_order": 5}
+{"kind": "claim", "local_id_or_ref": "claim-local-28", "reason": "奥卡自称辛妮父亲的直接陈述，身份线索核心证据", "chapter_order": 5}
+{"kind": "claim", "local_id_or_ref": "claim-local-37", "reason": "遗嘱文字未给出的悬置点，后续可能回收", "chapter_order": 5}
+{"kind": "faction", "local_id_or_ref": "西亚体育代表团", "reason": "代表团分裂、官员不知去向，势力动向证据", "chapter_order": 5}
+{"target": "event", "local_id": "ev-local-1", "note": "stage-002 主线赛事收束事件：马拉松胜负落定，对应本阶段“体育代替战争”的核心命题", "chapter_order": 6}
+{"target": "event", "local_id": "ev-local-4", "note": "主角级关键事件：辛妮冲线后身亡，本阶段最强情绪与现实落点，后续阶段人物状态需承接", "chapter_order": 6}
+{"target": "claim", "local_id": "claim-local-5", "note": "关键反转陈述：所谓“神力药片”实为维生素C，涉及克雷尔与辛妮互动性质", "chapter_order": 6}
+{"target": "claim", "local_id": "claim-local-7", "note": "势力/群体动向：中国观众集体用西亚语高呼，打破“寂静奥运会”设定", "chapter_order": 6}
+{"ref_local_id": "ev-local-1", "ref_type": "event", "note": "本 stage 收束点：和平视窗计划被全面军事打击推翻，克雷尔公开否定该计划", "chapter_order": 7}
+{"ref_local_id": "ev-local-2", "ref_type": "event", "note": "萨里由运动员转为首都保卫战参战者", "chapter_order": 7}
+{"ref_local_id": "claim-local-6", "ref_type": "claim", "note": "对西亚的全面军事打击已启动（机长转述），本章核心事实", "chapter_order": 7}
+{"ref_local_id": "claim-local-11", "ref_type": "claim", "note": "正规军解散但轻武器散落民间的战力结构说明", "chapter_order": 7}
+{"ref_local_id": "claim-local-12", "ref_type": "claim", "note": "克雷尔对和平视窗计划的判断：美丽的童话，竞赛代替不了战争", "chapter_order": 7}
+{"ref_local_id": "claim-local-18", "ref_type": "claim", "note": "萨里自认「普通一兵」，参战态度确立", "chapter_order": 7}

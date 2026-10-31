@@ -1,0 +1,867 @@
+{
+  "chapter_order": 65,
+  "chapter_id": "ch-000065",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-007"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "黄袍怪质问孙悟空为何要成佛",
+      "introduced_at": 65,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 65,
+            "end": 65
+          }
+        ],
+        "revealed_at": 65,
+        "status": "completed",
+        "story_time": null,
+        "summary": "章首为黄袍怪与孙悟空的对答：黄袍怪问他为何要成佛，孙悟空在心中答“佛是没有边界可约束的”；黄袍怪追问是否要为了打碎界限而成为界限，并断言孙悟空胜不了他。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0149/index.json",
+              "record_id": "char-0149"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "猪八戒跌入村庄猪圈，与母猪花花论苦与界限",
+      "introduced_at": 65,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 65,
+            "end": 65
+          }
+        ],
+        "revealed_at": 65,
+        "status": "completed",
+        "story_time": null,
+        "summary": "猪八戒在山路上滑倒滚下山坡，钉耙稍后落下砸出大包；他望见山坡下农田村庄，进村后躺进村民猪圈睡着，被少女发现。圈中母猪与他对话，自称上辈子是天上的仙女“花花”，讲人猪皆受规律支配、超出边界又会得到新边界；猪八戒称自己并不想上西天却无从选择，最后道破对方并非真猪并亮出钉耙。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "花花"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [
+          "claim-local-4",
+          "claim-local-6"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "猪八戒殿宇受点拨、识破妖魔幻象并怒吼退敌",
+      "introduced_at": 65,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 65,
+            "end": 65
+          }
+        ],
+        "revealed_at": 65,
+        "status": "completed",
+        "story_time": null,
+        "summary": "猪圈在光芒中融化为巨大殿宇，诸神高坐，光中声音问“猪八戒，你悟了吧”，并称唐三藏离经叛道自有天谴、又提出“如果你不再是一只猪”。猪八戒大骂拒绝被变来变去；声音转为狂笑，殿宇消失、妖雾升起，自称“逗你玩”，并引用金角大王“不受点拨，就去死吧”。无数黑影穿梭伤其身，他挥耙打不到，跪地自责；最后仰天大吼“我不任你们宰”，狂风把黑影吹散，云散月现，他倒地自语答应过“你”会记着她。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "光中的声音（未具名）"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-16",
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "黄袍怪问孙悟空“为什么要成佛”，孙悟空在心中回答“佛是没有边界可约束的”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "你为什么要成佛？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "黄袍怪说孙悟空胜不了他，并称五百年前自己根本无法阻挡孙悟空。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "五百年前我根本无法阻挡你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "黄袍怪说孙悟空盼望着打碎一切界限，并问他是否要为了这个力量成为界限。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "你要成为界限么"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "猪八戒叼着草叶扛着钉耙在山路上走时脚下一滑，滚下山坡，直摔到山脚。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "忽然他脚下一滑"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "猪八戒的钉耙比他晚落到山脚，砸在他头上打出大包；他因此胡思乱想天是否早已定下他的死处。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "为什么它会比我晚到呢"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "猪八戒望见山坡下是一片农田与一个宁静的村庄，随后走进村中，见村中无人，走到一个猪圈边看圈里的猪。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "山坡下是一片农田"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "猪八戒低头看自己划破的衣衫与新伤旧痕，叹气说“原来我不知道什么叫幸福”，随后躺在猪圈中张着嘴睡着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "原来我不知道什么叫幸福"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "一名提篮的少女从田里回来，往自家猪圈看了一眼后大喊“老爹，我们家圈里多了一头猪”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我们家圈里多了一头猪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "猪圈中的母猪自称上辈子是天上的仙女“花花”，并说人和猪都不过是受规律支配的东西，超出边界又会得到另一个边界。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "花花"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我上辈子是天上的仙女花花"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "猪八戒说自己一点儿也不想上西天，却根本没有选择，因为超不出神设下决定命运方向的“界限”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我一点儿也不想上西天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "猪八戒跳起来亮出钉耙，说“如果真是一头猪，我就把自己的鼻子吃下去”，要对方“亮本相”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我就把自己的鼻子吃下去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "光线大亮后猪圈在光芒下融化，猪八戒发现自己身处一座巨大殿宇中，诸神高坐。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "猪圈在光芒下融化"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "强光中的声音问猪八戒“你悟了吧”，并说唐三藏离经叛道、自有天谴。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "光中的声音（未具名）"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "他离经叛道，自有天谴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "猪八戒反问对方在怕什么、是否边界之外有不能让人知道的东西，并说当初是菩萨让他们跟着唐僧上西天的，如今唐僧找不着路跑了、猴子跟着小妖精飞了，历史不会写上一只猪把经文带回东土。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "历史是不会写上一只猪把经文带回东土的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "光中的声音提出“如果你不再是一只猪呢”，猪八戒随即心绪翻涌，骂着拒绝，声明自己就爱做一只猪、不许被变来变去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "现在老子就爱做一只猪"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "座上的声音变为一片欷歔与议论，说“一个好好的人怎么会变成这样的”、“那唐僧果然是个魔障的”，猪八戒咆哮乱舞钉耙。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "那唐僧果然是个魔障的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "那些声音变成一阵阵狂笑，殿宇不见、妖雾升起，声音说“逗你玩呢，蠢猪”、“你真当你见着佛祖了”，并说“金角大王说，不受点拨，就去死吧”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "金角大王说，不受点拨，就去死吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "无数黑影在猪八戒身边穿梭，他挥钉耙四下乱挥却一个也够不到，身上不断出现伤痕，随后跪倒在地颤抖。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "一个也够不到"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "猪八戒跪地自责控制不住自己、说要回家，并说唐僧走不出迷宫、孙悟空不能杀死自己、沙僧找不着那些碎片，全是“不可能的事”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "全是不可能的事"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "猪八戒仰天一字一字大喊“我虽然是只猪！可是我不任你们宰”，吼声卷起狂风，黑影被吹散，云散开、月亮重现天空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我不、任、你、们、宰"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "月光下猪八戒泪流满面，自语到了西天就不能再记着“你”、永远见不到“你”，但会想着“你”、答应过“你”，随后重重栽倒在地。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 65,
+      "source_refs": [
+        {
+          "path": "source/vol-003/ch-000065.txt",
+          "chapter_id": "ch-000065",
+          "chapter_order": 65,
+          "locator": null,
+          "anchor": "我答应过你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "花花",
+      "introduced_at": 65,
+      "alias_texts": [
+        "母猪"
+      ],
+      "identity_notes": "村民猪圈中的母猪，在对话中自称上辈子是天上的仙女“花花”。此身份为其自身说法（reported），章内未获第三方确认；随后猪八戒道破其并非真猪并要其亮本相，猪圈随光芒融化，其真实身份本章未明示。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-12"
+      ]
+    },
+    {
+      "label": "光中的声音（未具名）",
+      "introduced_at": 65,
+      "alias_texts": [
+        "光亮之处的声音",
+        "光芒中的声音"
+      ],
+      "identity_notes": "殿宇中诸神之上、强光中发言的未具名声音：问猪八戒“你悟了吧”、称唐三藏离经叛道自有天谴、提出“如果你不再是一只猪呢”。后随地声音变作狂笑、殿宇消失，自称“逗你玩”，本章未点明其究竟为谁。",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-17"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "界限（神所设决定命运方向的屏障）",
+      "category": "concept",
+      "introduced_at": 65,
+      "notes": "猪八戒向母猪解释：“是神做出来设置你命运方向的屏障，你无法往他们意志不允许的地方去”；母猪则回应“你超出了一个边界，就又得到了另一个边界”。属章内角色对世界规则的表述（reported），非叙述者定论。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10"
+      ]
+    },
+    {
+      "label": "宝象国某山村（农田与猪圈）",
+      "category": "location",
+      "introduced_at": 65,
+      "notes": "猪八戒滚下山坡后所见山坡下的农田与宁静村庄，村中有猪圈；猪圈在光芒中化为殿宇，故该场景的真实性质（现实村庄或幻境所化）本章未明确交代。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_label": "金角大王",
+      "suspected_target_ref": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "basis": "本章妖魔话语中仅以“金角大王说，不受点拨，就去死吧——”提及该称谓；与已建档实体“金角”名称相近，但章内未明示二者同一，暂不作合并。",
+      "certainty": "uncertain",
+      "source_claim_local_ids": [
+        "claim-local-17"
+      ]
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "言语对峙：一方质问、断言对方胜不了自己"
+      },
+      "certainty": "explicit",
+      "summary": "黄袍怪当面质问孙悟空为何要成佛，并断言他胜不了自己，说五百年前自己根本无法阻挡他。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3"
+      ],
+      "notes": "仅本章对答场景，未发生肢体冲突。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "candidate_name": "花花"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "母猪向猪八戒讲述人猪皆受规律支配、界限与出圈之说"
+      },
+      "certainty": "explicit",
+      "summary": "猪八戒躺进村民猪圈后与该圈母猪对话：母猪自称仙女花花并向他讲界限与规律，猪八戒则说自己不想上西天却无从选择。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10"
+      ],
+      "notes": "对话对象真实身份本章未明示。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "instruction",
+        "notes": "取经队伍中的师徒/同行关系，仅由猪八戒口述"
+      },
+      "certainty": "reported",
+      "summary": "猪八戒说自己是被菩萨安排跟着唐僧上西天的，如今唐僧找不着路跑了，问对方为何不去问唐僧。",
+      "source_claim_local_ids": [
+        "claim-local-14"
+      ],
+      "notes": "“当初是菩萨让我们跟着他上西天的”为猪八戒的说法。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "character_arc",
+      "status": "open",
+      "role": "escalation",
+      "subject": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "summary": "猪八戒在被“点拨”的幻境中拒绝被改变身份（“现在老子就爱做一只猪”），并以“我不任你们宰”的怒吼吹散黑影；事后又因去到西天便不能再记着“你”而痛哭栽倒。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    {
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "subject": {
+        "candidate_name": "光中的声音（未具名）"
+      },
+      "summary": "“诸神点拨”场景自称为“逗你玩”，并引用“金角大王说，不受点拨，就去死吧”，施术者与主使者本章未明示。",
+      "source_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    },
+    {
+      "category": "conflict",
+      "status": "open",
+      "role": "setup",
+      "subject": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "summary": "黄袍怪在章首对孙悟空提出“成佛/界限”的质问，并称五百年后自己已知孙悟空胜不了他。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第65章：成佛之问与猪圈之悟",
+    "front_matter": {
+      "as_of": 65,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        },
+        {
+          "candidate_name": "花花"
+        },
+        {
+          "candidate_name": "光中的声音（未具名）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n章首是一段对答：黄袍怪问孙悟空“你为什么要成佛”，叙述写明孙悟空“听见自己的心在回答”——因为佛是没有边界可约束的。黄袍怪继续追问：是否为了打碎一切界限而要成为界限；并断言孙悟空因为害怕自己的力量，所以胜不了他，还说自己五百年前根本无法阻挡孙悟空（[[claim-local-1]]、[[claim-local-2]]、[[claim-local-3]]）。这段对答的发生地点与在场第三方，本章未交代。\n\n随后视角转开：猪八戒叼着草叶、扛着钉耙在山路上哼小曲，脚下一滑滚下山坡，直摔到山脚，摊开四肢躺着不想动。\n\n## 关键行动\n\n- 猪八戒的钉耙比他晚落到山脚，砸在他头上打出大包；他由此胡思乱想：若一切都是天定，天是否在他出生时就为他的死设计好了万里之外某座山上无数草的长法。\n- 包不太痛后，他抬头看见山坡下的农田与阳光里的宁静村庄，流着口水走进村中；村中静悄悄，他走到一个猪圈边看圈里的猪，又低头看自己划破的衣衫和新伤旧痕，叹气说“原来我不知道什么叫幸福”（[[claim-local-7]]）。\n- 少女提篮从田里回来，往自家猪圈看了一眼便大喊“老爹，我们家圈里多了一头猪”——猪八戒已躺在圈中张着嘴睡着。\n- 圈中母猪与猪八戒对话，自称上辈子是天上的仙女“花花”，讲猪和人都是受规律支配的东西、超出边界又会得到另一个边界（[[claim-local-9]]）。猪八戒说自己一点儿也不想上西天，可根本没有选择，因为超不出神设下的“界限”（[[claim-local-10]]）。\n- 猪八戒跳起来亮出钉耙，说“如果真是一头猪，我就把自己的鼻子吃下去”，要对方亮本相（[[claim-local-11]]）。\n\n## 转折与新信息\n\n- 光线大亮，猪圈在光芒下融化，猪八戒身处一座巨大殿宇，诸神高坐；强光中的声音问“猪八戒，你悟了吧”，并称唐三藏“离经叛道，自有天谴”（[[claim-local-12]]、[[claim-local-13]]）。猪八戒反问对方在怕什么，又说当初是菩萨让他们跟着唐僧上西天，如今唐僧找不着路跑了、猴子跟着小妖精飞了，历史不会写上一只猪把经文带回东土（[[claim-local-14]]）。\n- 光中声音提出“如果你不再是一只猪呢”。猪八戒心绪翻涌（先咸如眼泪、再酸如五百年感伤、后腥如血），随即大骂拒绝：“现在老子就爱做一只猪”（[[claim-local-15]]）。座上转为欷歔议论，指责“一个好好的人怎么会变成这样的”“那唐僧果然是个魔障的”。\n- 声音变作狂笑，殿宇消失、妖雾升起，自称“逗你玩呢，蠢猪”“你真当你见着佛祖了”，并说“金角大王说，不受点拨，就去死吧——”（[[claim-local-17]]）。\n- 无数黑影穿梭，猪八戒挥耙乱挥却一个也够不到，身上不断出现伤痕，跪地自责“我又控制不住自己了”、说要回家；并说唐僧走不出迷宫、孙悟空不能杀死自己、沙僧找不着那些碎片，全是“不可能的事”（[[claim-local-19]]）。\n- 他仰天一字一字大喊“我虽然是只猪！可是我不任你们宰”，吼声卷起狂风，黑影被吹散，云散开、月亮重现（[[claim-local-20]]）。\n\n## 本章结果\n\n猪八戒在月光下泪流满面、抖个不停、分不清方向，自语：到了西天就不能再记着“你”、永远见不到“你”，但会想着“你”、答应过“你”；随后重重栽倒在地，尘埃被风送上天空，冷月孤照（[[claim-local-21]]）。本章未交代他之后的起身、伤势与去向。章首黄袍怪与孙悟空的对答在本章亦无后续。\n\n## 未决问题与补读入口\n\n- 章首黄袍怪对答发生于何处、是否实境，本章未说明；需回看上一章（第64章为宝象国、黄袍怪翻看唐僧行李）与下一章衔接。\n- “诸神点拨”场景由声音自己揭示为“逗你玩”，但施术者是谁、金角大王在其中的角色，本章未明示。\n- 母猪“花花”自称仙女的身份仅为自身说法，且被猪八戒道破并非真猪，其真实身份待后文。\n- 猪八戒口中“你”在本章未点名，只以“答应过你”的约定形式出现。\n- 猪八戒提到“沙僧找不着那些碎片”，此处“碎片”的所指本章未交代，需回溯前文。\n- 猪八戒提到“唐僧走不出那个迷宫”“孙悟空不能杀了他自己”，为本章对三人处境的口头概括，未有本章内的事件支撑。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "local_id": "ev-local-3",
+      "reason": "猪八戒本章的核心转折：拒受“点拨”、识破幻象、怒吼退敌后倒地痛哭",
+      "chapter_order": 65
+    },
+    {
+      "kind": "event",
+      "local_id": "ev-local-1",
+      "reason": "黄袍怪对孙悟空的“成佛/界限”质问，立起冲突线索",
+      "chapter_order": 65
+    },
+    {
+      "kind": "claim",
+      "local_id": "claim-local-21",
+      "reason": "猪八戒所述“答应过你”“到了西天就不能再记着你”的约定，重要伏笔",
+      "chapter_order": 65
+    },
+    {
+      "kind": "setting",
+      "label": "界限（神所设决定命运方向的屏障）",
+      "reason": "本章由猪八戒与母猪对话给出的世界规则表述，后续可能复用",
+      "chapter_order": 65
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "母猪自称“天上的仙女花花”，但随即被猪八戒道破并非真猪，章内未确认其身份；“花花”是否即某人化名，尚不可判定。",
+      "related_local_ids": [
+        "claim-local-9",
+        "claim-local-11"
+      ],
+      "chapter_order": 65,
+      "anchor": "我上辈子是天上的仙女花花"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "殿宇中强光里的“声音”及其“诸神”身份，被其自己称为“逗你玩”，本章未点名任何具体神佛，不可径行对应已建档的如来/观音等实体。",
+      "related_local_ids": [
+        "claim-local-13",
+        "claim-local-17"
+      ],
+      "chapter_order": 65,
+      "anchor": "逗你玩呢，蠢猪"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章首黄袍怪与孙悟空对答缺少场景交代（地点、是否实境、是否有第三方在场），未见可唯一匹配的场景描写段落。",
+      "related_local_ids": [
+        "claim-local-1",
+        "claim-local-2"
+      ],
+      "chapter_order": 65
+    },
+    {
+      "category": "coverage_gap",
+      "summary": "猪八戒口中“沙僧找不着那些碎片”“唐僧走不出那个迷宫”“孙悟空不能杀了他自己”三项处境，本章仅为其口头概括，无本章内事件支撑，需回溯前文核对。",
+      "related_local_ids": [
+        "claim-local-19"
+      ],
+      "chapter_order": 65
+    }
+  ],
+  "warnings": [
+    "本章原文正文存在若干乱码/缺字符片段（如“一p h山去�直摔到山脚”“氎来在�抗的�力”“�僧�苰音说�”），相关处仅提取语义可辨的最小事实，未据此推断被截断的内容。",
+    "章首黄袍怪与孙悟空的段落未交代场景与在场者，未做任何地点或实境假设。",
+    "“金角大王”仅以称谓出现于妖魔话语中，已登记 identity_link_candidates，未擅自并入实体 char-0102（金角）。",
+    "“光中的声音”“诸神”未对应到任何已建档神佛实体，作为候选登记。",
+    "本章对“花花”“光中的声音”等新出现对象仅建立候选，未建档实体。"
+  ]
+}

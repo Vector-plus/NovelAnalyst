@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0056",
+  "kind": "relationship",
+  "revision": 3,
+  "safe_through": 67,
+  "introduced_at": 27,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0023/index.json",
+      "record_id": "char-0023"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0056-stage-004",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "as_of": 49,
+      "revealed_at": 49,
+      "summary": "companion",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "以旧名相认并交付信息：称其为「阿月」，告知被擒的是「喜欢把紧箍儿戴头上的傻帽」，即被擒者非我",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "对眼前孙悟空形象的认知动摇，拒绝作出真假判断",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "取出紫色纱巾／披巾，使对方恢复全部记忆",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "托其尸身走向未熄天火，称人将作燃料",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0056-stage-007",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "as_of": 67,
+      "revealed_at": 67,
+      "summary": "旧识（记忆单边存续）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "保有其记忆，并能描述对方此刻只余刻骨仇恨；明确感知到「世上再没有人想起我」",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "不认得，以「你是谁」回应式的陌生视之；本阶段未见任何辨认或情绪反应",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "一端记得、一端不认得，形成单边存续的关系；双方对此的认知并不对等",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

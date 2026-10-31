@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0043",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "孙悟空的三件事与赎罪条件",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0043-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "quest",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空自述需完成三件事赎前罪：保唐僧上西天、杀四个魔王（含齐天大圣美猴王）、第三件待定。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0960"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0961"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0962"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0963"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

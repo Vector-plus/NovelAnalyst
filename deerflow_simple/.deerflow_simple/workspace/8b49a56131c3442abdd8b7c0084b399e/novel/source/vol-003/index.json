@@ -1,0 +1,141 @@
+{
+  "chapters": [
+    {
+      "chapter_order": 56,
+      "id": "ch-000056",
+      "paragraph_count": 30,
+      "path": "source/vol-003/ch-000056.txt",
+      "safe_through": 56,
+      "sha256": "0d46b9f8b071f4d5541ecfb2b212476dd2b0394f7c03d954ecb2ef64400f466d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 57,
+      "id": "ch-000057",
+      "paragraph_count": 109,
+      "path": "source/vol-003/ch-000057.txt",
+      "safe_through": 57,
+      "sha256": "633ce97a17d0255bd7aadfdaa36847dc1e096c74774b9e1db705dfe36529721c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 58,
+      "id": "ch-000058",
+      "paragraph_count": 61,
+      "path": "source/vol-003/ch-000058.txt",
+      "safe_through": 58,
+      "sha256": "de32acec99988def4662e58027a882286b3c4ef9a53c92eab8f8a1adf3f4d8e2",
+      "title": "．"
+    },
+    {
+      "chapter_order": 59,
+      "id": "ch-000059",
+      "paragraph_count": 58,
+      "path": "source/vol-003/ch-000059.txt",
+      "safe_through": 59,
+      "sha256": "6e603b79daa0972a3dd4e7a3c6ff13056412263a0c88e4e36893f180a3a98491",
+      "title": "．"
+    },
+    {
+      "chapter_order": 60,
+      "id": "ch-000060",
+      "paragraph_count": 92,
+      "path": "source/vol-003/ch-000060.txt",
+      "safe_through": 60,
+      "sha256": "ccc16d8ebb2eaede6bd19c26661206fd61f45df0d644621d914c75fa91eec84d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 61,
+      "id": "ch-000061",
+      "paragraph_count": 48,
+      "path": "source/vol-003/ch-000061.txt",
+      "safe_through": 61,
+      "sha256": "21ae5359d7fb098c4aed50fbd7d3fd5d804f3ba15a8399a9b50ef6e38a1a2063",
+      "title": "．"
+    },
+    {
+      "chapter_order": 62,
+      "id": "ch-000062",
+      "paragraph_count": 111,
+      "path": "source/vol-003/ch-000062.txt",
+      "safe_through": 62,
+      "sha256": "8501af5dc3d375ceb2edc1a92305ab28704051189726ea9f80919e01b726c247",
+      "title": "．"
+    },
+    {
+      "chapter_order": 63,
+      "id": "ch-000063",
+      "paragraph_count": 54,
+      "path": "source/vol-003/ch-000063.txt",
+      "safe_through": 63,
+      "sha256": "87e13711ecbf4f3b0ecedf64e466455dcc3af223a7df7d00a3b60478b12289ce",
+      "title": "．"
+    },
+    {
+      "chapter_order": 64,
+      "id": "ch-000064",
+      "paragraph_count": 45,
+      "path": "source/vol-003/ch-000064.txt",
+      "safe_through": 64,
+      "sha256": "4572b567a75433d9b7b19c2b3217e086c77fed8ba70d0349943351579a42690e",
+      "title": "．"
+    },
+    {
+      "chapter_order": 65,
+      "id": "ch-000065",
+      "paragraph_count": 81,
+      "path": "source/vol-003/ch-000065.txt",
+      "safe_through": 65,
+      "sha256": "ee53a276a7d1142c37ee02896df281ccf7d22e8f1c5fd3bfac0167d4b8360572",
+      "title": "．"
+    },
+    {
+      "chapter_order": 66,
+      "id": "ch-000066",
+      "paragraph_count": 89,
+      "path": "source/vol-003/ch-000066.txt",
+      "safe_through": 66,
+      "sha256": "db297f46eb65fbb551ccb1e764b93f32981bde7e5afe3a5aee05f0fd6809797c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 67,
+      "id": "ch-000067",
+      "paragraph_count": 98,
+      "path": "source/vol-003/ch-000067.txt",
+      "safe_through": 67,
+      "sha256": "d9ec8865b0531750aea46a81f9080044b8b839f4181c491a9f93f5fb5f166413",
+      "title": "．"
+    },
+    {
+      "chapter_order": 68,
+      "id": "ch-000068",
+      "paragraph_count": 51,
+      "path": "source/vol-003/ch-000068.txt",
+      "safe_through": 68,
+      "sha256": "af508d6d915a1906bc8033d376d6c83ee9f258232553b4620b55fe65e634bd96",
+      "title": "．"
+    },
+    {
+      "chapter_order": 69,
+      "id": "ch-000069",
+      "paragraph_count": 56,
+      "path": "source/vol-003/ch-000069.txt",
+      "safe_through": 69,
+      "sha256": "0351c28ca993c1ceb72039b890b54401d7e60ecabc1a5bf16489548598b039c6",
+      "title": "．"
+    }
+  ],
+  "encoding": "utf-8",
+  "id": "source-vol-003",
+  "kind": "source_chapters",
+  "normalization": "lf",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "paragraph_rule": "blank_line_separated",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "source_version": "source-v1",
+  "volume_id": "vol-003"
+}

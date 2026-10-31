@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0018",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 18,
+  "label": "唐僧之死的真凶与真相",
+  "introduced_at": 18,
+  "updates": [
+    {
+      "id": "update-thread-0018-001",
+      "revealed_at": 18,
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "category": "mystery",
+      "status": "escalated",
+      "role": "core",
+      "summary": "本章出现三方互相冲突的说法：孙悟空称取经人被人打死、他只是想找回魂魄；太上老君与沙悟净坚称是孙悟空勾结万灵之森女妖阿瑶谋害师父。真相未定。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0640"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0641"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0643"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-0647"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

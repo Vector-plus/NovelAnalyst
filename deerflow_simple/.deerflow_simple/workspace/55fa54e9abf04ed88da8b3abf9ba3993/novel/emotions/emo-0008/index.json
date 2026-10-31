@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0008",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 26,
+  "label": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒",
+  "introduced_at": 19,
+  "participants": [],
+  "assessments": [
+    {
+      "id": "assessment-emo-0008-003",
+      "revealed_at": 26,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/rel-0042.json",
+          "record_id": "rel-0042",
+          "note": "本阶段关系快照 doc-rel-zixia-wukong-stage-003"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0008/stages/stage-003.md",
+        "record_id": "doc-emo-0008-stage-003"
+      },
+      "kind": "emotional_stage",
+      "title": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒",
+      "summary": "紫霞—孙悟空感情阶段：关切、划界与赠袍被拒（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

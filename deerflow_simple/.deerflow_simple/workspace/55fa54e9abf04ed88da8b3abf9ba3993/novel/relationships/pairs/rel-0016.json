@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0016",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 9,
+  "introduced_at": 9,
+  "subjects": [
+    {
+      "path": "characters/char-0015/index.json",
+      "record_id": "char-0015"
+    },
+    {
+      "path": "characters/char-0026/index.json",
+      "record_id": "char-0026"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0016-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "as_of": 9,
+      "revealed_at": 9,
+      "summary": "天蓬每日守在天河入口，众人都知道他在等月女神；月女神乘银船而来，在他面前像顽皮小女孩，要他挽着自己的手，两人在船上有说不完的话，一直飘向西去。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "天蓬每日守在天河入口，众人都知道他在等月女神；月女神乘银船而来，在他面前像顽皮小女孩，要他挽着自己的手，两人在船上有说不完的话，一直飘向西去。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0174"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

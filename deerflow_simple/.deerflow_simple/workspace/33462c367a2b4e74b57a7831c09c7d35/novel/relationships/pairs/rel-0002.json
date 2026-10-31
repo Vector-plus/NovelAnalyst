@@ -1,0 +1,50 @@
+{
+  "id": "rel-0002",
+  "introduced_at": 1,
+  "kind": "relationship",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 1,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "克雷尔把萨里从监狱保释出来，并称这救了他一命；二人同车前往机场",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "other"
+        }
+      ],
+      "id": "rel-0002-stage-001",
+      "revealed_at": 1,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "summary": "克雷尔把萨里从监狱保释出来，并称这救了他一命；二人同车前往机场",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0003/index.json",
+      "record_id": "char-0003"
+    },
+    {
+      "path": "characters/char-0004/index.json",
+      "record_id": "char-0004"
+    }
+  ]
+}

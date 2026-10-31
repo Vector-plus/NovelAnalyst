@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0042",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 4,
+  "label": "林中女妖的身份与「玉帝的咒」",
+  "introduced_at": 4,
+  "updates": [
+    {
+      "id": "update-thread-0042-001",
+      "revealed_at": 4,
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "女妖自称受玉帝的咒不能变回原形、不能说出自己是谁，且与孙悟空有旧；本章未揭示其身份。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0951"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0952"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

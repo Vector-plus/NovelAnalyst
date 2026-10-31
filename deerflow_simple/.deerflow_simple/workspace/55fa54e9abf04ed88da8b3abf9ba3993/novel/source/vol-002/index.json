@@ -1,0 +1,69 @@
+{
+  "chapters": [
+    {
+      "chapter_order": 50,
+      "id": "ch-000050",
+      "paragraph_count": 38,
+      "path": "source/vol-002/ch-000050.txt",
+      "safe_through": 50,
+      "sha256": "9f3a777e1bf95064e730896dbc69772595141c382dc2994ea0191abbf1023593",
+      "title": "．"
+    },
+    {
+      "chapter_order": 51,
+      "id": "ch-000051",
+      "paragraph_count": 29,
+      "path": "source/vol-002/ch-000051.txt",
+      "safe_through": 51,
+      "sha256": "75987982eaa11aa36e739be44bcd616813c157475d9b6109fcca2941f0c1a646",
+      "title": "．"
+    },
+    {
+      "chapter_order": 52,
+      "id": "ch-000052",
+      "paragraph_count": 47,
+      "path": "source/vol-002/ch-000052.txt",
+      "safe_through": 52,
+      "sha256": "3968d123ac483b2ff15d219a45e1823389ba6aa3488b965b370981416e004d55",
+      "title": "．"
+    },
+    {
+      "chapter_order": 53,
+      "id": "ch-000053",
+      "paragraph_count": 21,
+      "path": "source/vol-002/ch-000053.txt",
+      "safe_through": 53,
+      "sha256": "55049fab2cd0e4e0b68806b5b35f59ecf7c6539822cd654eaf4ccb2ebd6c0f6d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 54,
+      "id": "ch-000054",
+      "paragraph_count": 30,
+      "path": "source/vol-002/ch-000054.txt",
+      "safe_through": 54,
+      "sha256": "d65056cf4d80f6dfe6954dc82be49464df16f9da3dddb28b9729d5a30eb848c3",
+      "title": "．"
+    },
+    {
+      "chapter_order": 55,
+      "id": "ch-000055",
+      "paragraph_count": 17,
+      "path": "source/vol-002/ch-000055.txt",
+      "safe_through": 55,
+      "sha256": "df59a46200a10a01c42222cd9870331863c8bc0b8120e62704dbe22835c72d31",
+      "title": "．"
+    }
+  ],
+  "encoding": "utf-8",
+  "id": "source-vol-002",
+  "kind": "source_chapters",
+  "normalization": "lf",
+  "novel_id": "wukon",
+  "paragraph_rule": "blank_line_separated",
+  "revision": 1,
+  "safe_through": 55,
+  "schema_version": "2.0",
+  "source_version": "source-v1",
+  "volume_id": "vol-002"
+}

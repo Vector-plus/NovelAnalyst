@@ -1,0 +1,159 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0023",
+  "kind": "index",
+  "revision": 6,
+  "safe_through": 49,
+  "title": "紫霞 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 9,
+        "end": 9
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0015.json",
+        "record_id": "rel-0015"
+      },
+      "kind": "relationship",
+      "title": "紫霞×卯日星君",
+      "summary": "与紫霞×卯日星君的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0018.json",
+        "record_id": "rel-0018"
+      },
+      "kind": "relationship",
+      "title": "紫霞×阿瑶",
+      "summary": "与紫霞×阿瑶的关系",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0042.json",
+        "record_id": "rel-0042"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "与孙悟空×紫霞的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0046.json",
+        "record_id": "rel-0046"
+      },
+      "kind": "relationship",
+      "title": "紫霞×二郎神",
+      "summary": "与紫霞×二郎神的关系",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0056.json",
+        "record_id": "rel-0056"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "与孙悟空×紫霞的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0068",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 60,
+  "introduced_at": 60,
+  "subjects": [
+    {
+      "path": "characters/char-0149/index.json",
+      "record_id": "char-0149"
+    },
+    {
+      "path": "characters/char-0151/index.json",
+      "record_id": "char-0151"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0068-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "as_of": 60,
+      "revealed_at": 60,
+      "summary": "黑翼鸟落在黄衣人肩上并向他交代：前面就是宝象国、那是其领地，决不能让唐僧到真正的西天；黄衣人答“放心”。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "cooperation",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "黑翼鸟落在黄衣人肩上并向他交代：前面就是宝象国、那是其领地，决不能让唐僧到真正的西天；黄衣人答“放心”。",
+          "basis_refs": [
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2326"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2327"
+            },
+            {
+              "path": "events/block-0006.json",
+              "record_id": "claim-2328"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

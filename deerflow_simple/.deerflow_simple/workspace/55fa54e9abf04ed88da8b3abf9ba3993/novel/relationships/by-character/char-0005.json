@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0005",
+  "kind": "index",
+  "revision": 4,
+  "safe_through": 10,
+  "title": "怪树 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 2,
+        "end": 2
+      },
+      {
+        "start": 10,
+        "end": 10
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0004.json",
+        "record_id": "rel-0004"
+      },
+      "kind": "relationship",
+      "title": "怪树×唐僧",
+      "summary": "与怪树×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0005.json",
+        "record_id": "rel-0005"
+      },
+      "kind": "relationship",
+      "title": "怪树×怪树背后的怪物",
+      "summary": "与怪树×怪树背后的怪物的关系",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0051.json",
+        "record_id": "rel-0051"
+      },
+      "kind": "relationship",
+      "title": "唐僧×怪树",
+      "summary": "与唐僧×怪树的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    }
+  ]
+}

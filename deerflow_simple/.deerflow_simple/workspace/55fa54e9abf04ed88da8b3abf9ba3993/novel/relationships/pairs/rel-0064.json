@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0064",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 54,
+  "introduced_at": 54,
+  "subjects": [
+    {
+      "path": "characters/char-0137/index.json",
+      "record_id": "char-0137"
+    },
+    {
+      "path": "characters/char-0145/index.json",
+      "record_id": "char-0145"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0064-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "as_of": 54,
+      "revealed_at": 54,
+      "summary": "老猴在狂欢之夜离开猴群与石头独处，向他讲述生灭、时间与失去的道理，并给他“得到”让他饮下；石头饮后自认得到一切、加入猴群狂舞。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "instruction",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "老猴在狂欢之夜离开猴群与石头独处，向他讲述生灭、时间与失去的道理，并给他“得到”让他饮下；石头饮后自认得到一切、加入猴群狂舞。",
+          "basis_refs": [
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2154"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2155"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2157"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2158"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2160"
+            },
+            {
+              "path": "events/block-0005.json",
+              "record_id": "claim-2161"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

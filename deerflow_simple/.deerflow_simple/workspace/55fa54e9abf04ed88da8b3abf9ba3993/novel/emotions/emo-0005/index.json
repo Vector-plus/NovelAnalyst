@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "emo-0005",
+  "kind": "emotional_index",
+  "revision": 2,
+  "safe_through": 26,
+  "label": "紫霞—孙悟空感情阶段：承认喜欢与拒收袍甲",
+  "introduced_at": 19,
+  "participants": [
+    {
+      "character_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "revealed_at": 26
+    },
+    {
+      "character_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 26
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assessment-emo-0005-003",
+      "revealed_at": 26,
+      "category": "uncertain",
+      "status": "uncertain",
+      "relationship_links": [
+        {
+          "path": "relationships/pairs/紫霞-孙悟空.json",
+          "record_id": "rel-zixia-sunwukong",
+          "note": "本阶段关系快照 doc-rel-zixia-wukong-stage-003"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "target": {
+        "path": "emotions/emo-0005/stages/stage-003.md",
+        "record_id": "doc-emo-0005-stage-003"
+      },
+      "kind": "emotional_stage",
+      "title": "紫霞—孙悟空感情阶段：承认喜欢与拒收袍甲",
+      "summary": "紫霞—孙悟空感情阶段：承认喜欢与拒收袍甲（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [],
+      "tags": [
+        "emotion"
+      ],
+      "safe_through": 26
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "chapter_order": 48,
+  "chapter_id": "ch-000048",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-004"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "如来宣告金蝉子“输了”，金蝉子自毁其身",
+      "introduced_at": 48,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 48,
+            "end": 48
+          }
+        ],
+        "revealed_at": 48,
+        "status": "closed",
+        "story_time": null,
+        "summary": "幻影散去后，如来回头对金蝉子说“你输了”。金蝉子答“就让我永远忘记这一幕吧”，头顶汇聚巨大云旋，狂风使诸神佛睁不开眼；他称“这才只是开始呢”“我去也”，随后云旋中心一道巨大闪电直劈而下，将其身体击碎。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0057/index.json",
+              "record_id": "char-0057"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0009/index.json",
+              "record_id": "char-0009"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "诸神佛"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-6"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "五行山重现人间，天火与人间仰望的异象",
+      "introduced_at": 48,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 48,
+            "end": 48
+          }
+        ],
+        "revealed_at": 48,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "幻影消失后现实是一片无边黑暗，五行山重现在人间。此后天火熊熊燃烧，人间仰望被映红的夜空，燃烧巨云的光彩被一老者说成展翅的凤凰、被一少年说成挥兵器跃起怒吼的人；旁边一名青衣女孩仰望夜空，面容丑陋而流泪。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "老者"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "少年"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "青衣女孩"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "trigger_claim_local_ids": [],
+        "action_claim_local_ids": [],
+        "outcome_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-8"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "沙悟净凑齐最后一片琉璃盏，王母松手摔碎",
+      "introduced_at": 48,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 48,
+            "end": 48
+          }
+        ],
+        "revealed_at": 48,
+        "status": "closed",
+        "story_time": null,
+        "summary": "王母出现询问“一切都结束了么”。沙悟净喊“等一等”，冲到太上老君脚下请他抬脚，举起一片谁也看不清的细小之物，称找到了“最后一片”，颤抖着把琉璃盏捧到王母面前。王母接过看了看，说“我要这东西还有什么用呢”，松手让盏坠下重新摔成粉末。沙悟净喊“不——”，看着凝聚修复五百年的盏在一瞬间重新绽开，随后歇斯底里大吼要宰尽诸神，而所有神都看着他大笑。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0060/index.json",
+              "record_id": "char-0060"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0059/index.json",
+              "record_id": "char-0059"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "诸神"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "幻影消失后，现实是一片无边黑暗；五行山已重现在人间。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "五行山已重现在人间。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "如来回头对金蝉子说：“你输了。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "如来回头望金蝉子道：“你输了。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "金蝉子回应称“是的，就让我永远忘记这一幕吧”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "“是的，就让我永远忘记这一幕吧。”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "一个巨大云旋在金蝉子头顶汇聚，本弱下去的风又急起来，吹得诸神佛也睁不开眼；金蝉子伫立狂风中，衣袍狂舞，神情安然。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "一个巨大云旋开始在他头顶汇聚"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "金蝉子缓缓道：“这才只是开始呢，……我去也。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "“这才只是开始呢，”"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "云旋中心一道巨大闪电直劈下来，把金蝉子的身体击了个粉碎；随后风散云弱，一切又平静下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "把金蝉子的身体击了个粉碎。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "此后天火熊熊燃烧。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "天火熊熊燃烧。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "在人间看去，天空中幻化着浓烈的光彩，燃烧的巨云像一幅巨大的穹顶画。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "燃烧的巨云像是一幅巨大的穹顶画。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "一名老者看着夜空说：“看哪，那是一只展翅的凤凰。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "老者"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "那是一只展翅的凤凰"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "一名少年反驳说：“不！那是一个人挥舞着兵器跃起怒吼。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "少年"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "一个人挥舞着兵器跃起怒吼"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "老者与少年旁边，一名青衣女孩也在仰望被映红的夜空；她的脸丑陋，眼里有晶莹的泪，人们没有注意到她。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "一个青衣女孩也在仰望被映红的夜空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "王母不知从哪儿冒出来问：“一切都结束了么？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "“一切都结束了么？”王母不知从哪儿冒出来问。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "沙悟净喊“等一等！”，冲到太上老君的脚下。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "他冲到太上老君的脚下"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "沙悟净请太上老君抬脚（“麻烦你，麻烦你把脚抬一抬”），并举起一样细小的谁也看不清的东西，称“我找到了，我终于找到了！最后一片！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "最后一片！最后一片哪！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "沙悟净颤抖着把琉璃盏捧到了王母面前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "他颤抖着把琉璃盏捧到了王母面前。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "王母接过盏看了看，说：“我要这东西还有什么用呢？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "我要这东西还有什么用呢？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "王母一松手，那盏坠下，重新摔成粉末。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "那盏坠下，重新摔成粉末。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "沙悟净（原文此处叙述称“沙僧”）喊“不——”，就那样看着那五百年凝聚修复的盏在一瞬间重新美丽绽开，随后愣愣地站在那儿，脸上神情渐渐有了变化。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "那五百年凝聚修复的盏在一瞬间重新美丽绽开"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "沙悟净歇斯底里地大吼“我要宰了你们！我要宰了你们这些兔崽子！来呀，我要杀了你们！”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "我要宰了你们这些兔崽子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "在场所有的神都看着沙悟净笑，哈哈大笑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 48,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000048.txt",
+          "chapter_id": "ch-000048",
+          "chapter_order": 48,
+          "locator": null,
+          "anchor": "可是所有的神都看着他笑，他们都在笑。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "青衣女孩",
+      "introduced_at": 48,
+      "alias_texts": [
+        "一个青衣女孩"
+      ],
+      "identity_notes": "本章在人间仰望被映红夜空的女孩：面容丑陋、眼里有晶莹的泪，旁人不曾注意她。原文未给出姓名，也未与既有角色（如紫霞、阿瑶）建立任何明示关联，故单独登记候选，不做合并。",
+      "evidence_claim_local_ids": [
+        "claim-local-11"
+      ]
+    },
+    {
+      "label": "老者",
+      "introduced_at": 48,
+      "alias_texts": [
+        "一老者"
+      ],
+      "identity_notes": "人间围观天象的无名老者，称天上景象“是一只展翅的凤凰”。仅一处出场，无身份线索。",
+      "evidence_claim_local_ids": [
+        "claim-local-9"
+      ]
+    },
+    {
+      "label": "少年",
+      "introduced_at": 48,
+      "alias_texts": [
+        "一个少年"
+      ],
+      "identity_notes": "人间围观天象的无名少年，称景象“是一个人挥舞着兵器跃起怒吼”。仅一处出场，无身份线索。",
+      "evidence_claim_local_ids": [
+        "claim-local-10"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "五行山（重现人间）",
+      "category": "location",
+      "introduced_at": 48,
+      "notes": "叙述称“五行山已重现在人间”，并被称作“战死者的墓碑”，上面写着“这个人曾经震撼天地”。原文未交代其方位与重现机制。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1"
+      ]
+    },
+    {
+      "label": "琉璃盏（五百年凝聚修复）",
+      "category": "object",
+      "introduced_at": 48,
+      "notes": "沙悟净寻得“最后一片”后把琉璃盏捧到王母面前；叙述称其为“那五百年凝聚修复的盏”，被王母松手摔碎后“重新美丽绽开”。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "candidate_b": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "link_type": "suspected_same_person",
+      "basis": "本章同一段落内叙述先称“沙悟净”、后称“沙僧”，指同一连续动作（捧盏、看盏破碎、大吼）；两者在现有档案中为独立实体（char-0060 标签“沙悟净”，introduced_at 18；char-0014 标签“沙僧”，introduced_at 6）。",
+      "certainty": "uncertain",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "notes": "仅记录候选，不擅自合并引用；待 StageCommit 阶段结合前文裁定。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "subject_b": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "facet": {
+        "type": "other",
+        "label": "对局胜负宣告"
+      },
+      "certainty": "explicit",
+      "summary": "本章如来回头向金蝉子宣告“你输了”，金蝉子答“就让我永远忘记这一幕吧”后引动云旋闪电击碎自身；金蝉子临去称“这才只是开始呢”。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6"
+      ],
+      "notes": "只记录可对应原文的互动事实；对局的具体内容与条件本章未交代。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "facet": {
+        "type": "other",
+        "label": "献盏与毁盏"
+      },
+      "certainty": "explicit",
+      "summary": "沙悟净寻得最后一片后颤抖着把琉璃盏捧到王母面前；王母接过看了看，称“我要这东西还有什么用呢”，随即松手使盏坠地摔成粉末。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17"
+      ],
+      "notes": "同时登记在场诸神围观大笑的事实（claim-local-20），但诸神为群体，未建关系对。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "thread_label": "沙悟净修复琉璃盏",
+      "category": "quest",
+      "status": "failed",
+      "role": "climax",
+      "summary": "沙悟净在本章凑齐“最后一片”并捧盏至王母面前，王母随即松手使盏再次摔成粉末；五百年修复过程被叙述称为“一个骗局”。",
+      "evidence_claim_local_ids": [
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-17",
+        "claim-local-18"
+      ],
+      "notes": "本章为该线索的收束点；后续是否延续需读第49章。"
+    },
+    {
+      "thread_label": "金蝉子与如来的胜负",
+      "category": "conflict",
+      "status": "closed",
+      "role": "climax",
+      "summary": "如来宣告金蝉子“输了”，金蝉子引云旋闪电自毁身躯并称“这才只是开始呢”。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6"
+      ],
+      "notes": "“赢了/输了”所指对局内容本章未交代。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第48章：五行山重现与琉璃盏再碎",
+    "front_matter": {
+      "as_of": 48,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        },
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "path": "characters/char-0060/index.json",
+          "record_id": "char-0060"
+        },
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        },
+        {
+          "candidate_name": "青衣女孩"
+        },
+        {
+          "candidate_name": "老者"
+        },
+        {
+          "candidate_name": "少年"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n幻影消失后，现实是一片无边黑暗；五行山已重现在人间（[[claim-local-1]]、[[ev-local-2]]）。叙述把眼前一切归于宿命与轮回，并以“战死者的墓碑”称呼五行山，山上写着“这个人曾经震撼天地”。\n\n## 关键行动\n\n如来回头向金蝉子宣告“你输了”；金蝉子答“是的，就让我永远忘记这一幕吧”，随即在头顶汇聚出一个巨大云旋，狂风骤急到诸神佛也睁不开眼，而他伫立风中、衣袍狂舞、神情安然（[[claim-local-2]]、[[claim-local-3]]、[[claim-local-4]]）。\n\n金蝉子缓缓说出“这才只是开始呢，……我去也”，云旋中心一道巨大闪电直劈而下，把他的身体击得粉碎，随后风散云弱，一切又平静下来（[[claim-local-5]]、[[claim-local-6]]）。此段构成如来与金蝉子的“胜负宣告—自毁”完整过程（[[ev-local-1]]）。\n\n## 转折与新信息\n\n天火熊熊燃烧，人间仰望被映红的夜空，燃烧的巨云被形容为一幅巨大的穹顶画（[[claim-local-7]]、[[claim-local-8]]）。围观者给出两种彼此冲突的描述：一名老者说那是一只展翅的凤凰，一名少年说那是一个人挥舞着兵器跃起怒吼（[[claim-local-9]]、[[claim-local-10]]）。二人旁边，一名青衣女孩也在仰望夜空——她面容丑陋、眼里有晶莹的泪，而人们没有注意到她（[[claim-local-11]]）。这是本章唯一一处指向未具名女性人物的细节，其身份未交代。\n\n场景转回神佛一侧：王母不知从哪儿冒出来，问“一切都结束了么？”（[[claim-local-12]]）。沙悟净喊“等一等”，冲到太上老君脚下请他抬脚，举起一片谁也看不清的细小之物，宣称找到了“最后一片”（[[claim-local-13]]、[[claim-local-14]]）。\n\n## 本章结果\n\n沙悟净颤抖着把琉璃盏捧到王母面前；王母接过看了看，说“我要这东西还有什么用呢”，一松手让盏坠下，重新摔成粉末（[[claim-local-15]]、[[claim-local-16]]、[[claim-local-17]]）。沙悟净喊“不——”，就那样看着那五百年凝聚修复的盏在一瞬间重新美丽绽开，愣愣地站着，脸上神情渐渐变化（[[claim-local-18]]）。\n\n随后他歇斯底里大吼，要“宰了你们这些兔崽子”、要杀尽对方；而在场所有的神都看着他笑，哈哈大笑（[[claim-local-19]]、[[claim-local-20]]）。本章以“当五百年的光阴只是一个骗局”一句收束（[[ev-local-3]]）。\n\n## 未决问题与补读入口\n\n- 青衣女孩是谁：本章只给出“青衣”“丑陋的脸”“晶莹的泪”与“人们没注意她”，未与任何既有实体建立明示关联，已登记为候选（见身份候选），需回查后文与前文对照。\n- 沙悟净与“沙僧”是否同一人：本章同一段落叙述先称“沙悟净”、后称“沙僧”，指同一连续动作；现有档案为两个独立实体，仅登记 identity 候选，未合并。\n- 如来所述“你输了”指何种对局、其规则与代价，本章未交代；五行山为何“重现在人间”、与第49章天宫大火熄灭后的“烧焦的石头”如何衔接，需读第49章。\n- 老者与少年的两种描述互相排斥（凤凰／挥兵器的人），原文未裁定何者为真。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-1",
+      "chapter_order": 48,
+      "note": "金蝉子与如来对局以“你输了”+闪电自毁收束，含关键台词，stage-004 末段关键转折。"
+    },
+    {
+      "kind": "event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 48,
+      "note": "琉璃盏线索收束点：沙悟净凑齐最后一片、王母松手摔碎、诸神围观大笑。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-1",
+      "chapter_order": 48,
+      "note": "五行山重现人间的直接叙述，跨章衔接第49章废墟中的焦石。"
+    },
+    {
+      "kind": "claim",
+      "ref_or_local_id": "claim-local-18",
+      "chapter_order": 48,
+      "note": "原文标注“五百年凝聚修复的盏”，为沙悟净线索时间跨度的直接叙述。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章出现“青衣女孩”（面容丑陋、流泪、旁人不曾注意），原文未给姓名，未与紫霞、阿瑶等既有实体建立任何明示关联。",
+      "evidence_claim_local_ids": [
+        "claim-local-11"
+      ],
+      "suggested_action": "回查第49—55章及后文，确认是否为既有角色或其另一形态，勿在本阶段合并。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章同一段落内“沙悟净”与“沙僧”两个称呼指同一连续动作，但现有档案为两个独立实体（char-0060 / char-0014）。",
+      "evidence_claim_local_ids": [
+        "claim-local-13",
+        "claim-local-15",
+        "claim-local-18",
+        "claim-local-19"
+      ],
+      "suggested_action": "StageCommit 阶段裁定是否合并；本输出仅登记 identity_link_candidate。"
+    },
+    {
+      "category": "fact_conflict",
+      "summary": "对同一夜空异象，老者称是“展翅的凤凰”、少年称是“挥舞兵器跃起怒吼的人”，两种描述互斥，原文未裁定。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10"
+      ],
+      "suggested_action": "保留双方说法为 reported，不做取舍。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "如来所说“你输了”指何种对局、双方赌约内容及自毁的代价，本章无任何交代。",
+      "evidence_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-6"
+      ],
+      "suggested_action": "回查第40—47章确认对局设定。"
+    }
+  ],
+  "warnings": [
+    "本章为短章（31 段），含大量抒情性旁白与两处重复的格言式反问句（“虚无时间中的人物又为什么而苦，为什么而喜呢”），此类抒情句未作为事实性 Claim 提取。",
+    "本章章末停在沙悟净崩溃大吼与诸神大笑处，与会话随后场景（第49章天宫大火熄灭后的焦石）之间无明确时间标记，wrap-up 未做因果推断。",
+    "“沙悟净”与“沙僧”在原文同段混用，故按身份谨慎原则未合并实体，仅在 identity_link_candidates 与 issue_candidates 中登记。",
+    "本章出现的“老者”“少年”“青衣女孩”均为无名人物，已登记为 character candidates，未与既有实体合并。"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0019",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 49,
+  "title": "观音 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0058.json",
+        "record_id": "rel-0058"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×观音",
+      "summary": "与孙悟空×观音的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

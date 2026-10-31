@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0151",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 31,
+  "label": "谪仙井",
+  "category": "other",
+  "introduced_at": 31,
+  "updates": [
+    {
+      "id": "update-setting-0151-001",
+      "revealed_at": 31,
+      "chapter_ranges": [
+        {
+          "start": 31,
+          "end": 31
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1681"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1680"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

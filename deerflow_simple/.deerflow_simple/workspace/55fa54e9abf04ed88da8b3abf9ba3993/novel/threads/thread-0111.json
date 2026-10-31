@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0111",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 59,
+  "label": "唐僧与白晶晶的“流放者/家”之辩留下的立场分歧",
+  "introduced_at": 59,
+  "updates": [
+    {
+      "id": "update-thread-0111-001",
+      "revealed_at": 59,
+      "chapter_ranges": [
+        {
+          "start": 59,
+          "end": 59
+        }
+      ],
+      "category": "setting_thread",
+      "status": "open",
+      "role": "setup",
+      "summary": "唐僧主张世上有些人是无家可归的流放者、对他任何地方都是家，并自称“我不是忘记一切，我是一无所有”；白晶晶认为他在抛弃与忘记，喊“你简直就不是人！”后离去。双方立场对立未解。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2271"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2273"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2275"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2276"
+        },
+        {
+          "path": "events/block-0006.json",
+          "record_id": "claim-2280"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

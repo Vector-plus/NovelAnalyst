@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0019",
+  "kind": "entity_index",
+  "revision": 4,
+  "safe_through": 69,
+  "entity_type": "character",
+  "label": "观音",
+  "introduced_at": 8,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0019/stages/stage-004.md",
+        "record_id": "doc-char-0019-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "判语与招抚：以机制驱人的说客",
+      "summary": "判语与招抚：以机制驱人的说客（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "characters/char-0019/stages/stage-007.md",
+        "record_id": "doc-char-0019-stage-007"
+      },
+      "kind": "character_stage",
+      "title": "拒解紧箍、交付任务：知道「边界」的中间人",
+      "summary": "拒解紧箍、交付任务：知道「边界」的中间人（第61—67章）",
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "characters/char-0019/stages/stage-008.md",
+        "record_id": "doc-char-0019-stage-008"
+      },
+      "kind": "character_stage",
+      "title": "现身点名来历，交回处置权",
+      "summary": "现身点名来历，交回处置权（第68—69章）",
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 69
+    }
+  ]
+}

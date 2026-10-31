@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0066",
+  "kind": "relationship",
+  "revision": 2,
+  "safe_through": 55,
+  "introduced_at": 50,
+  "subjects": [
+    {
+      "path": "characters/char-0112/index.json",
+      "record_id": "char-0112"
+    },
+    {
+      "path": "characters/char-0138/index.json",
+      "record_id": "char-0138"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0066-stage-005",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "chapter_ranges": [
+        {
+          "start": 50,
+          "end": 55
+        }
+      ],
+      "as_of": 55,
+      "revealed_at": 55,
+      "summary": "companionship",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠答应每日叫名字",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "松鼠无法辨认那片叶子，约定首次执行即失效",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "叶子请求「记住我」，并约定明年再叫它的名字",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

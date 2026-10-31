@@ -1,0 +1,11 @@
+{
+  "id": "idx-names",
+  "kind": "name_catalog",
+  "match_mode": "exact",
+  "normalization": "nfkc_trim",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "shard_refs": []
+}

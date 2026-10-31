@@ -1,0 +1,111 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0058",
+  "kind": "relationship",
+  "revision": 3,
+  "safe_through": 67,
+  "introduced_at": 27,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0019/index.json",
+      "record_id": "char-0019"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0058-stage-004",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "as_of": 49,
+      "revealed_at": 49,
+      "summary": "adversarial_bargain",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "给出灵猴生死机制的判语：心不死则杀不死；并说明杀了他紧箍咒自解",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "亲临天囚塔传上天之意，以杀唐僧真凶为饵提出「再给机会」",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "拒绝成正果、拒绝追问真相，只坚持去箍；当面否认杀害唐僧；并指其「观音你够狠」",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0058-stage-007",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "as_of": 67,
+      "revealed_at": 67,
+      "summary": "上级与受制者（任务交换）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "拒绝解箍，交付除四魔任务作为交换条件；对「边界」知情而不解释",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "主动求解紧箍咒被拒后接受任务，把诉求从解除约束改为换取条件",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "双方的上位约束一致：如来已明确表态「他走不出去」，交涉只能在既定轨道内进行",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0048",
+  "kind": "relationship",
+  "revision": 4,
+  "safe_through": 69,
+  "introduced_at": 1,
+  "subjects": [
+    {
+      "path": "characters/char-0001/index.json",
+      "record_id": "char-0001"
+    },
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0048-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "as_of": 10,
+      "revealed_at": 10,
+      "summary": "师徒/护送关系",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "公开宣称不依赖对方而独行，遇险后立即呼救；两者交替出现，未见稳定信任",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "第3章赶到救场；第6章以“既知你是谁”为由击杀对方后纵身离去；第8章归来追问其下落",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "名义上的师徒/护送关系在第6章实际终止；本阶段末双方已不在同一行动单元",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0048-stage-007",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-007"
+      },
+      "chapter_ranges": [
+        {
+          "start": 61,
+          "end": 67
+        }
+      ],
+      "as_of": 67,
+      "revealed_at": 67,
+      "summary": "师徒（本阶段断裂）",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "公开宣布「不保唐僧」，解除护送承诺，改以任务交换行动",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "界限不可破；紧箍咒不可解。关系的形式由外部规定，双方都不能单方解除",
+          "basis_refs": []
+        },
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "以唐僧性命为条件封锁孙悟空的正果之路，使断裂后的关系仍具有杠杆效力",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    },
+    {
+      "id": "rel-0048-stage-008",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-008"
+      },
+      "chapter_ranges": [
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "as_of": 69,
+      "revealed_at": 69,
+      "summary": "师徒",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "directed",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "主动招呼、归队同行",
+          "basis_refs": []
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

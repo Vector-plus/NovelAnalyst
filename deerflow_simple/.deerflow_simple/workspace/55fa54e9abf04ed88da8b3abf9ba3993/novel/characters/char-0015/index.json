@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0015",
+  "kind": "entity_index",
+  "revision": 5,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "天蓬",
+  "introduced_at": 7,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0015/stages/stage-001.md",
+        "record_id": "doc-char-0015-stage-001"
+      },
+      "kind": "character_stage",
+      "title": "取经路上·林中之变",
+      "summary": "取经路上·林中之变（第1—10章）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "characters/char-0015/stages/stage-003.md",
+        "record_id": "doc-char-0015-stage-003"
+      },
+      "kind": "character_stage",
+      "title": "放下旧恨，扶人出殿",
+      "summary": "放下旧恨，扶人出殿（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "characters/char-0015/stages/stage-004.md",
+        "record_id": "doc-char-0015-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "定罪、谪仙井与化猪：记忆被夺的处置者",
+      "summary": "定罪、谪仙井与化猪：记忆被夺的处置者（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

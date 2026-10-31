@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "ledger-ch-000027",
+  "kind": "chapter_ledger",
+  "revision": 1,
+  "safe_through": 0,
+  "chapter_ref": {
+    "chapter_id": "ch-000027",
+    "chapter_order": 27
+  },
+  "source_version": "source-v1",
+  "stage_plan_revision": 1,
+  "status": "committed",
+  "allocated_ids": [
+    "claim-1585",
+    "claim-1586",
+    "claim-1587",
+    "claim-1588",
+    "claim-1589",
+    "claim-1590",
+    "ev-0191"
+  ],
+  "input_revisions": [],
+  "extraction": {
+    "summary": "第27章精读完成",
+    "record_ids": [
+      "claim-1585",
+      "claim-1586",
+      "claim-1587",
+      "claim-1588",
+      "claim-1589",
+      "claim-1590",
+      "ev-0191"
+    ],
+    "coverage_topics": {}
+  },
+  "operations": [],
+  "error": null
+}

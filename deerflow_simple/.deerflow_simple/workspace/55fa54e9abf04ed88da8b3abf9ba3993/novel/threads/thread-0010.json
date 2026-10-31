@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0010",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "绿衣女孩的身份与对唐僧的态度反转",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0010-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "plot_thread",
+      "status": "active",
+      "role": "setup",
+      "summary": "女孩先救人、后因论佛争执翻脸，面容化为狰狞并扬言吃唐僧；其身份与来历本章未明示。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

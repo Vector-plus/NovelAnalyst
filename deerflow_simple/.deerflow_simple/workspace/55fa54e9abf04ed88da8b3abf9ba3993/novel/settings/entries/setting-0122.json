@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0122",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 14,
+  "label": "河岸上的凡人城镇",
+  "category": "other",
+  "introduced_at": 14,
+  "updates": [
+    {
+      "id": "update-setting-0122-001",
+      "revealed_at": 14,
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1277"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1282"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1284"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1289"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

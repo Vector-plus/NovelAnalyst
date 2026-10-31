@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0108",
+  "kind": "entity_index",
+  "revision": 1,
+  "safe_through": 39,
+  "entity_type": "character",
+  "label": "李靖（托塔天王）",
+  "introduced_at": 39,
+  "identity_notes": [
+    {
+      "id": "in-char-0108-001",
+      "revealed_at": 39,
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1812"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1813"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1817"
+        }
+      ]
+    }
+  ],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": []
+}

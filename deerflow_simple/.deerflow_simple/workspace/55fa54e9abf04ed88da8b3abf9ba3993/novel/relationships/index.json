@@ -1,0 +1,1849 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0001.json",
+        "record_id": "rel-0001"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "唐僧×孙悟空（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0001.json",
+          "record_id": "rel-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0002.json",
+        "record_id": "rel-0002"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "孙悟空×猪八戒（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0002.json",
+          "record_id": "rel-0002"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0003.json",
+        "record_id": "rel-0003"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×唐僧",
+      "summary": "猪八戒×唐僧（第1章起）",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0003.json",
+          "record_id": "rel-0003"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0004.json",
+        "record_id": "rel-0004"
+      },
+      "kind": "relationship",
+      "title": "怪树×唐僧",
+      "summary": "怪树×唐僧（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0004.json",
+          "record_id": "rel-0004"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0005.json",
+        "record_id": "rel-0005"
+      },
+      "kind": "relationship",
+      "title": "怪树×怪树背后的怪物",
+      "summary": "怪树×怪树背后的怪物（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0005.json",
+          "record_id": "rel-0005"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0006.json",
+        "record_id": "rel-0006"
+      },
+      "kind": "relationship",
+      "title": "绿衣女孩×唐僧",
+      "summary": "绿衣女孩×唐僧（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0006.json",
+          "record_id": "rel-0006"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0007.json",
+        "record_id": "rel-0007"
+      },
+      "kind": "relationship",
+      "title": "绿衣女孩×金蝉子",
+      "summary": "绿衣女孩×金蝉子（第3章起）",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0007.json",
+          "record_id": "rel-0007"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0008.json",
+        "record_id": "rel-0008"
+      },
+      "kind": "relationship",
+      "title": "林中丑脸女妖×孙悟空",
+      "summary": "林中丑脸女妖×孙悟空（第4章起）",
+      "chapter_ranges": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0008.json",
+          "record_id": "rel-0008"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 4
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0009.json",
+        "record_id": "rel-0009"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×林中女子（本章未具名）",
+      "summary": "孙悟空×林中女子（本章未具名）（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0009.json",
+          "record_id": "rel-0009"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0010.json",
+        "record_id": "rel-0010"
+      },
+      "kind": "relationship",
+      "title": "玉帝×孙悟空",
+      "summary": "玉帝×孙悟空（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0010.json",
+          "record_id": "rel-0010"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0011.json",
+        "record_id": "rel-0011"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×平天大圣牛魔王",
+      "summary": "孙悟空×平天大圣牛魔王（第5章起）",
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0011.json",
+          "record_id": "rel-0011"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 5
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0012.json",
+        "record_id": "rel-0012"
+      },
+      "kind": "relationship",
+      "title": "沙僧×唐僧",
+      "summary": "沙僧×唐僧（第6章起）",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0012.json",
+          "record_id": "rel-0012"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0013.json",
+        "record_id": "rel-0013"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "天蓬×月（第7章起）",
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0013.json",
+          "record_id": "rel-0013"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 7
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0014.json",
+        "record_id": "rel-0014"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×小白龙",
+      "summary": "猪八戒×小白龙（第8章起）",
+      "chapter_ranges": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0014.json",
+          "record_id": "rel-0014"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 8
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0015.json",
+        "record_id": "rel-0015"
+      },
+      "kind": "relationship",
+      "title": "紫霞×卯日星君",
+      "summary": "紫霞×卯日星君（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0015.json",
+          "record_id": "rel-0015"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0016.json",
+        "record_id": "rel-0016"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月女神",
+      "summary": "天蓬×月女神（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0016.json",
+          "record_id": "rel-0016"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0017.json",
+        "record_id": "rel-0017"
+      },
+      "kind": "relationship",
+      "title": "阿珏×阿瑶",
+      "summary": "阿珏×阿瑶（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0017.json",
+          "record_id": "rel-0017"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0018.json",
+        "record_id": "rel-0018"
+      },
+      "kind": "relationship",
+      "title": "紫霞×阿瑶",
+      "summary": "紫霞×阿瑶（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0018.json",
+          "record_id": "rel-0018"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0019.json",
+        "record_id": "rel-0019"
+      },
+      "kind": "relationship",
+      "title": "阿瑶×桃树上的猴子",
+      "summary": "阿瑶×桃树上的猴子（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0019.json",
+          "record_id": "rel-0019"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0020.json",
+        "record_id": "rel-0020"
+      },
+      "kind": "relationship",
+      "title": "王母×阿瑶",
+      "summary": "王母×阿瑶（第9章起）",
+      "chapter_ranges": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0020.json",
+          "record_id": "rel-0020"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 9
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0021.json",
+        "record_id": "rel-0021"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×阿瑶",
+      "summary": "猪八戒×阿瑶（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0021.json",
+          "record_id": "rel-0021"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0022.json",
+        "record_id": "rel-0022"
+      },
+      "kind": "relationship",
+      "title": "判官×孙悟空",
+      "summary": "判官×孙悟空（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0022.json",
+          "record_id": "rel-0022"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0023.json",
+        "record_id": "rel-0023"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×幽冥王",
+      "summary": "孙悟空×幽冥王（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0023.json",
+          "record_id": "rel-0023"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0024.json",
+        "record_id": "rel-0024"
+      },
+      "kind": "relationship",
+      "title": "判官×幽冥王",
+      "summary": "判官×幽冥王（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0024.json",
+          "record_id": "rel-0024"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0025.json",
+        "record_id": "rel-0025"
+      },
+      "kind": "relationship",
+      "title": "观世音×孙悟空",
+      "summary": "观世音×孙悟空（第11章起）",
+      "chapter_ranges": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0025.json",
+          "record_id": "rel-0025"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 11
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0026.json",
+        "record_id": "rel-0026"
+      },
+      "kind": "relationship",
+      "title": "敖广×小白龙",
+      "summary": "敖广×小白龙（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0026.json",
+          "record_id": "rel-0026"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0027.json",
+        "record_id": "rel-0027"
+      },
+      "kind": "relationship",
+      "title": "小白龙×唐僧",
+      "summary": "小白龙×唐僧（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0027.json",
+          "record_id": "rel-0027"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0028.json",
+        "record_id": "rel-0028"
+      },
+      "kind": "relationship",
+      "title": "敖广×孙悟空",
+      "summary": "敖广×孙悟空（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0028.json",
+          "record_id": "rel-0028"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0029.json",
+        "record_id": "rel-0029"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×小白龙",
+      "summary": "孙悟空×小白龙（第12章起）",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0029.json",
+          "record_id": "rel-0029"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0030.json",
+        "record_id": "rel-0030"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "唐僧×孙悟空（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0030.json",
+          "record_id": "rel-0030"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0031.json",
+        "record_id": "rel-0031"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "孙悟空×猪八戒（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0031.json",
+          "record_id": "rel-0031"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0032.json",
+        "record_id": "rel-0032"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×丑面女妖",
+      "summary": "孙悟空×丑面女妖（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0032.json",
+          "record_id": "rel-0032"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0033.json",
+        "record_id": "rel-0033"
+      },
+      "kind": "relationship",
+      "title": "唐僧×绿衣女孩",
+      "summary": "唐僧×绿衣女孩（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0033.json",
+          "record_id": "rel-0033"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0034.json",
+        "record_id": "rel-0034"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "天蓬×月（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0034.json",
+          "record_id": "rel-0034"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0035.json",
+        "record_id": "rel-0035"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×小白龙",
+      "summary": "猪八戒×小白龙（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0035.json",
+          "record_id": "rel-0035"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0036.json",
+        "record_id": "rel-0036"
+      },
+      "kind": "relationship",
+      "title": "小龙女×父王",
+      "summary": "小龙女×父王（第13章起）",
+      "chapter_ranges": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0036.json",
+          "record_id": "rel-0036"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 13
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0037.json",
+        "record_id": "rel-0037"
+      },
+      "kind": "relationship",
+      "title": "和尚（第14章河边看风景的僧人）×船夫（第14章河上捕鱼者）",
+      "summary": "和尚（第14章河边看风景的僧人）×船夫（第14章河上捕鱼者）（第14章起）",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0037.json",
+          "record_id": "rel-0037"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 14
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0038.json",
+        "record_id": "rel-0038"
+      },
+      "kind": "relationship",
+      "title": "法明×玄奘",
+      "summary": "法明×玄奘（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0038.json",
+          "record_id": "rel-0038"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0039.json",
+        "record_id": "rel-0039"
+      },
+      "kind": "relationship",
+      "title": "天杨×法明",
+      "summary": "天杨×法明（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0039.json",
+          "record_id": "rel-0039"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0040.json",
+        "record_id": "rel-0040"
+      },
+      "kind": "relationship",
+      "title": "天杨×玄奘",
+      "summary": "天杨×玄奘（第15章起）",
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0040.json",
+          "record_id": "rel-0040"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 15
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0041.json",
+        "record_id": "rel-0041"
+      },
+      "kind": "relationship",
+      "title": "太上老君×沙悟净",
+      "summary": "太上老君×沙悟净（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0041.json",
+          "record_id": "rel-0041"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0042.json",
+        "record_id": "rel-0042"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "孙悟空×紫霞（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0042.json",
+          "record_id": "rel-0042"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0043.json",
+        "record_id": "rel-0043"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×天蓬",
+      "summary": "孙悟空×天蓬（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0043.json",
+          "record_id": "rel-0043"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0044.json",
+        "record_id": "rel-0044"
+      },
+      "kind": "relationship",
+      "title": "天蓬×阿月",
+      "summary": "天蓬×阿月（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0044.json",
+          "record_id": "rel-0044"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0045.json",
+        "record_id": "rel-0045"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×王母",
+      "summary": "孙悟空×王母（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0045.json",
+          "record_id": "rel-0045"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0046.json",
+        "record_id": "rel-0046"
+      },
+      "kind": "relationship",
+      "title": "紫霞×二郎神",
+      "summary": "紫霞×二郎神（第26章起）",
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0046.json",
+          "record_id": "rel-0046"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0047.json",
+        "record_id": "rel-0047"
+      },
+      "kind": "relationship",
+      "title": "会说话的怪树×搭肩的妖怪",
+      "summary": "会说话的怪树×搭肩的妖怪（第2章起）",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0047.json",
+          "record_id": "rel-0047"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0048.json",
+        "record_id": "rel-0048"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "唐僧×孙悟空（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0048.json",
+          "record_id": "rel-0048"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0049.json",
+        "record_id": "rel-0049"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×阿瑶",
+      "summary": "孙悟空×阿瑶（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0049.json",
+          "record_id": "rel-0049"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0050.json",
+        "record_id": "rel-0050"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×猪八戒",
+      "summary": "孙悟空×猪八戒（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0050.json",
+          "record_id": "rel-0050"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0051.json",
+        "record_id": "rel-0051"
+      },
+      "kind": "relationship",
+      "title": "唐僧×怪树",
+      "summary": "唐僧×怪树（第10章起）",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0051.json",
+          "record_id": "rel-0051"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0052.json",
+        "record_id": "rel-0052"
+      },
+      "kind": "relationship",
+      "title": "船夫×河边和尚",
+      "summary": "船夫×河边和尚（第14章起）",
+      "chapter_ranges": [
+        {
+          "start": 14,
+          "end": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0052.json",
+          "record_id": "rel-0052"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 14
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0053.json",
+        "record_id": "rel-0053"
+      },
+      "kind": "relationship",
+      "title": "小白龙×敖广",
+      "summary": "小白龙×敖广（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0053.json",
+          "record_id": "rel-0053"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0054.json",
+        "record_id": "rel-0054"
+      },
+      "kind": "relationship",
+      "title": "小白龙×玄奘",
+      "summary": "小白龙×玄奘（第18章起）",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0054.json",
+          "record_id": "rel-0054"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0055.json",
+        "record_id": "rel-0055"
+      },
+      "kind": "relationship",
+      "title": "松鼠×须菩提",
+      "summary": "松鼠×须菩提（第40章起）",
+      "chapter_ranges": [
+        {
+          "start": 40,
+          "end": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0055.json",
+          "record_id": "rel-0055"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 40
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0056.json",
+        "record_id": "rel-0056"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×紫霞",
+      "summary": "孙悟空×紫霞（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0056.json",
+          "record_id": "rel-0056"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0057.json",
+        "record_id": "rel-0057"
+      },
+      "kind": "relationship",
+      "title": "天蓬×月",
+      "summary": "天蓬×月（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0057.json",
+          "record_id": "rel-0057"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0058.json",
+        "record_id": "rel-0058"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×观音",
+      "summary": "孙悟空×观音（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0058.json",
+          "record_id": "rel-0058"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0059.json",
+        "record_id": "rel-0059"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×没戴金箍的猴子",
+      "summary": "孙悟空×没戴金箍的猴子（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0059.json",
+          "record_id": "rel-0059"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0060.json",
+        "record_id": "rel-0060"
+      },
+      "kind": "relationship",
+      "title": "唐僧×小白龙",
+      "summary": "唐僧×小白龙（第49章起）",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0060.json",
+          "record_id": "rel-0060"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0061.json",
+        "record_id": "rel-0061"
+      },
+      "kind": "relationship",
+      "title": "大鸟×阿笨",
+      "summary": "大鸟×阿笨（第52章起）",
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0061.json",
+          "record_id": "rel-0061"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 52
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0062.json",
+        "record_id": "rel-0062"
+      },
+      "kind": "relationship",
+      "title": "众猴×石头",
+      "summary": "众猴×石头（第52章起）",
+      "chapter_ranges": [
+        {
+          "start": 52,
+          "end": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0062.json",
+          "record_id": "rel-0062"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 52
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0063.json",
+        "record_id": "rel-0063"
+      },
+      "kind": "relationship",
+      "title": "阿明×石头",
+      "summary": "阿明×石头（第53章起）",
+      "chapter_ranges": [
+        {
+          "start": 53,
+          "end": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0063.json",
+          "record_id": "rel-0063"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 53
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0064.json",
+        "record_id": "rel-0064"
+      },
+      "kind": "relationship",
+      "title": "老猴×石头",
+      "summary": "老猴×石头（第54章起）",
+      "chapter_ranges": [
+        {
+          "start": 54,
+          "end": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0064.json",
+          "record_id": "rel-0064"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 54
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0065.json",
+        "record_id": "rel-0065"
+      },
+      "kind": "relationship",
+      "title": "石猴×松鼠",
+      "summary": "石猴×松鼠（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0065.json",
+          "record_id": "rel-0065"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0066.json",
+        "record_id": "rel-0066"
+      },
+      "kind": "relationship",
+      "title": "松鼠×一片叶子",
+      "summary": "松鼠×一片叶子（第55章起）",
+      "chapter_ranges": [
+        {
+          "start": 55,
+          "end": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0066.json",
+          "record_id": "rel-0066"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 55
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0067.json",
+        "record_id": "rel-0067"
+      },
+      "kind": "relationship",
+      "title": "黄袍怪×百花羞",
+      "summary": "黄袍怪×百花羞（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0067.json",
+          "record_id": "rel-0067"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0068.json",
+        "record_id": "rel-0068"
+      },
+      "kind": "relationship",
+      "title": "黑翼鸟×黄袍怪",
+      "summary": "黑翼鸟×黄袍怪（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0068.json",
+          "record_id": "rel-0068"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0069.json",
+        "record_id": "rel-0069"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×白晶晶",
+      "summary": "孙悟空×白晶晶（第60章起）",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0069.json",
+          "record_id": "rel-0069"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0070.json",
+        "record_id": "rel-0070"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×黄袍怪",
+      "summary": "孙悟空×黄袍怪（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0070.json",
+          "record_id": "rel-0070"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0071.json",
+        "record_id": "rel-0071"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×大鹏王",
+      "summary": "孙悟空×大鹏王（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0071.json",
+          "record_id": "rel-0071"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0072.json",
+        "record_id": "rel-0072"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×沙僧",
+      "summary": "孙悟空×沙僧（第67章起）",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0072.json",
+          "record_id": "rel-0072"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    }
+  ],
+  "id": "idx-relationships",
+  "kind": "index",
+  "novel_id": "wukon",
+  "revision": 73,
+  "safe_through": 67,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 1,
+        "end": 15
+      },
+      {
+        "start": 18,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 26
+      },
+      {
+        "start": 40,
+        "end": 40
+      },
+      {
+        "start": 49,
+        "end": 49
+      },
+      {
+        "start": 52,
+        "end": 55
+      },
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 67,
+        "end": 67
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "人物关系"
+}

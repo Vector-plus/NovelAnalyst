@@ -1,0 +1,30 @@
+{
+  "id": "thread-0002",
+  "introduced_at": 2,
+  "kind": "story_thread",
+  "label": "北京对西亚代表团的异常警戒与沉默氛围",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 1,
+  "safe_through": 2,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0002-001",
+      "resolution_refs": [],
+      "revealed_at": 2,
+      "role": "setup",
+      "status": "open",
+      "summary": "记者围堵不提问、直升机盘旋、警车护送、公路清空、奥运村公寓黑灯且旗杆无国旗，辛妮两次感到“事情不对”并把奥运村比作陵墓。"
+    }
+  ]
+}

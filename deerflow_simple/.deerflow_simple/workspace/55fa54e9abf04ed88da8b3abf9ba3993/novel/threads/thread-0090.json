@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0090",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 41,
+  "label": "金蝉子欲向师尊问难、“我为如来”",
+  "introduced_at": 41,
+  "updates": [
+    {
+      "id": "update-thread-0090-001",
+      "revealed_at": 41,
+      "chapter_ranges": [
+        {
+          "start": 41,
+          "end": 41
+        }
+      ],
+      "category": "foreshadow",
+      "status": "open",
+      "role": "new_thread",
+      "summary": "金蝉子称师尊之法不能解其疑惑，坚持回灵山请教并与师尊问明白，须菩提劝阻无效；金蝉子自问自答“如来是什么”“我为如来，又有何惧”。",
+      "claims": [],
+      "claim_refs": [],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

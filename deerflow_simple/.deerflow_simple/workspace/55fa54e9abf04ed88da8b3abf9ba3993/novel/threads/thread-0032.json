@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0032",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 25,
+  "label": "天蓬当众扶阿月离殿、违逆王母",
+  "introduced_at": 25,
+  "updates": [
+    {
+      "id": "update-thread-0032-001",
+      "revealed_at": 25,
+      "chapter_ranges": [
+        {
+          "start": 25,
+          "end": 25
+        }
+      ],
+      "category": "relationship_thread",
+      "status": "ongoing",
+      "role": "develop",
+      "summary": "天蓬在阿月独自跪殿时起身扶她，并与其相依偎走出灵霄大殿，王母怒吼阻止未生效。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0808"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0809"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0810"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0001",
+  "kind": "index",
+  "revision": 12,
+  "safe_through": 49,
+  "title": "唐僧 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 1,
+        "end": 3
+      },
+      {
+        "start": 6,
+        "end": 6
+      },
+      {
+        "start": 10,
+        "end": 10
+      },
+      {
+        "start": 12,
+        "end": 12
+      },
+      {
+        "start": 49,
+        "end": 49
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0001.json",
+        "record_id": "rel-0001"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0003.json",
+        "record_id": "rel-0003"
+      },
+      "kind": "relationship",
+      "title": "猪八戒×唐僧",
+      "summary": "与猪八戒×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 1
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0004.json",
+        "record_id": "rel-0004"
+      },
+      "kind": "relationship",
+      "title": "怪树×唐僧",
+      "summary": "与怪树×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 2
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0006.json",
+        "record_id": "rel-0006"
+      },
+      "kind": "relationship",
+      "title": "绿衣女孩×唐僧",
+      "summary": "与绿衣女孩×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 3
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0012.json",
+        "record_id": "rel-0012"
+      },
+      "kind": "relationship",
+      "title": "沙僧×唐僧",
+      "summary": "与沙僧×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 6
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0027.json",
+        "record_id": "rel-0027"
+      },
+      "kind": "relationship",
+      "title": "小白龙×唐僧",
+      "summary": "与小白龙×唐僧的关系",
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 12
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0030.json",
+        "record_id": "rel-0030"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0033.json",
+        "record_id": "rel-0033"
+      },
+      "kind": "relationship",
+      "title": "唐僧×绿衣女孩",
+      "summary": "与唐僧×绿衣女孩的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0048.json",
+        "record_id": "rel-0048"
+      },
+      "kind": "relationship",
+      "title": "唐僧×孙悟空",
+      "summary": "与唐僧×孙悟空的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0051.json",
+        "record_id": "rel-0051"
+      },
+      "kind": "relationship",
+      "title": "唐僧×怪树",
+      "summary": "与唐僧×怪树的关系",
+      "chapter_ranges": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 10
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0060.json",
+        "record_id": "rel-0060"
+      },
+      "kind": "relationship",
+      "title": "唐僧×小白龙",
+      "summary": "与唐僧×小白龙的关系",
+      "chapter_ranges": [
+        {
+          "start": 49,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

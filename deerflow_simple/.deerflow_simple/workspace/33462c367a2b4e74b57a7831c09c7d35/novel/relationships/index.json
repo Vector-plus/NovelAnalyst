@@ -1,0 +1,146 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0001.json",
+          "record_id": "rel-0001"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "克雷尔×辛妮（第1章起）",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0001.json",
+        "record_id": "rel-0001"
+      },
+      "title": "克雷尔×辛妮"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0002.json",
+          "record_id": "rel-0002"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "克雷尔×萨里（第1章起）",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0002.json",
+        "record_id": "rel-0002"
+      },
+      "title": "克雷尔×萨里"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0003.json",
+          "record_id": "rel-0003"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "穆拉德×伊西娅（第1章起）",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0003.json",
+        "record_id": "rel-0003"
+      },
+      "title": "穆拉德×伊西娅"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0004.json",
+          "record_id": "rel-0004"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "克雷尔×莱丽（第1章起）",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0004.json",
+        "record_id": "rel-0004"
+      },
+      "title": "克雷尔×莱丽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "relationships/pairs/rel-0005.json",
+          "record_id": "rel-0005"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 1,
+      "summary": "格兰特×拾荒者（英美文学教授）（第1章起）",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0005.json",
+        "record_id": "rel-0005"
+      },
+      "title": "格兰特×拾荒者（英美文学教授）"
+    }
+  ],
+  "id": "idx-relationships",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 6,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 1,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "人物关系"
+}

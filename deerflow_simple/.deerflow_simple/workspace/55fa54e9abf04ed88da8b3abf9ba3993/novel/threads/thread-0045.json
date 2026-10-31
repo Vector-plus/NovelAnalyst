@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0045",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 7,
+  "label": "天蓬与「月」的过往（造月往事）",
+  "introduced_at": 7,
+  "updates": [
+    {
+      "id": "update-thread-0045-001",
+      "revealed_at": 7,
+      "chapter_ranges": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "category": "backstory",
+      "status": "revealed",
+      "role": "setup",
+      "summary": "本章以回溯方式交代天蓬与「月」在天河的八十万年往事及月亮、银河的由来，为后续天蓬相关情节埋下背景。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0983"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0985"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0989"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0990"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

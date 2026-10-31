@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0181",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 46,
+  "label": "花果山（如来所指的幻象群山）",
+  "category": "other",
+  "introduced_at": 46,
+  "updates": [
+    {
+      "id": "update-setting-0181-001",
+      "revealed_at": 46,
+      "chapter_ranges": [
+        {
+          "start": 46,
+          "end": 46
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1993"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1994"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1995"
+        },
+        {
+          "path": "events/block-0004.json",
+          "record_id": "claim-1996"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

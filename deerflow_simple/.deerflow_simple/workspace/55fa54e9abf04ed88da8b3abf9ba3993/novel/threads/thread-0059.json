@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0059",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 12,
+  "label": "“变作孙悟空模样打死唐僧”者的身份",
+  "introduced_at": 12,
+  "updates": [
+    {
+      "id": "update-thread-0059-001",
+      "revealed_at": 12,
+      "chapter_ranges": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "core",
+      "summary": "孙悟空（先入后殿者）自称不知是哪个家伙变作他的模样打死和尚、害他去不得西天；敖广推测其目的就是让他们去不得西天。同章另有一名去而复返、自称“俺老孙可没忘”的孙悟空面貌者，敖广惊呼“你是另一个”，但原文未明示此人是否即冒充者。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1245"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1246"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1255"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

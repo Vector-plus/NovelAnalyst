@@ -1,0 +1,1274 @@
+{
+  "chapter_order": 12,
+  "chapter_id": "ch-000012",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "小白龙潜回东海龙宫，向父王敖广求取定颜珠",
+      "introduced_at": 12,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 12,
+            "end": 12
+          }
+        ],
+        "revealed_at": 12,
+        "status": "completed",
+        "story_time": "章首（夜访东海龙宫，未标明具体时序）",
+        "summary": "小白龙偷偷潜入东海龙宫，抱住正在座上瞌睡的龙王敖广并落泪。敖广认出女儿后揽她入怀。小白龙说“他”被孙悟空杀死，自己相信他还在这三界某处，请求用龙宫定颜珠保存他的身体直到找到其魂魄。敖广告知天庭有明令不得帮助那四人，最终仍把定颜珠给她，让她先走。小白龙含泪退出殿。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0017/index.json",
+              "record_id": "char-0017"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            },
+            "role": "participant"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-33"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-4",
+          "claim-local-6",
+          "claim-local-7"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "孙悟空到龙宫后殿借定颜珠，敖广称已丢失，孙悟空离去",
+      "introduced_at": 12,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 12,
+            "end": 12
+          }
+        ],
+        "revealed_at": 12,
+        "status": "completed",
+        "story_time": "小白龙离殿之后",
+        "summary": "孙悟空在门外等得不耐烦，跳进龙宫，与一名白衣女子迎面相遇。后殿只有敖广与他两人，他提出借定颜珠；敖广提及其信誉与金箍棒，问他是否全不记得从前。孙悟空说不知是哪个家伙变作他的模样打死和尚、害他去不得西天。敖广称定颜珠“丢了”，孙悟空抱怨后一跃而去。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "白衣女子（第12章龙宫门外）"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21",
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-16",
+          "claim-local-18",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-22",
+          "claim-local-23"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-3",
+      "title": "去而复返的「孙悟空」逼问定颜珠下落，在金箍棒一击下龙王敖广血雾弥散",
+      "introduced_at": 12,
+      "update": {
+        "local_id": "update-local-3",
+        "chapter_ranges": [
+          {
+            "start": 12,
+            "end": 12
+          }
+        ],
+        "revealed_at": 12,
+        "status": "completed",
+        "story_time": "紧接孙悟空离去之后",
+        "summary": "敖广望着孙悟空远去的方向感叹其“当年也是一代英雄”“浑然不知自己为何奔忙”，一回身惊叫，发现孙悟空站在身后。此人喝问敖广把定颜珠给了自己女儿，扬言回去先结果她；敖广抓住其衣袖求情，说女儿回去也是救“你师父”。此人自称“老孙最恨的就是一片痴心”，敖广惊疑地说“你……你是另一个……”。此人甩开敖广、亮出金箍棒，说“俺老孙可没忘……结果了你，就不会再欠你了”，一击之后数缕血雾在海水中弥散。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0032/index.json",
+              "record_id": "char-0032"
+            },
+            "role": "recipient"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-24",
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30",
+          "claim-local-31",
+          "claim-local-32"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-24"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-25",
+          "claim-local-26",
+          "claim-local-27",
+          "claim-local-28",
+          "claim-local-29",
+          "claim-local-30"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-31",
+          "claim-local-32"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "小白龙偷偷潜入东海龙宫，见龙王敖广正在座上瞌睡，四周无人。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "小白龙偷偷潜入了宫殿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "小白龙蹑手蹑脚走到敖广身边，轻轻搂住他，一滴眼泪落在龙王脸上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "轻轻搂住龙王"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "敖广睁眼认出小白龙，惊呼“孩子，真的是你么”，把她揽在怀里，老泪纵横，说她“终于肯回来了”。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "你终于肯回来了？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "小白龙对敖广说“他死了，被孙悟空杀死了”，并说自己眼睁睁看着他倒下、一点儿办法也没有。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "他死了，被孙悟空杀死了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "敖广对小白龙说，嫁作天庭的妃子并不比驮一个和尚万里跋涉更难，问她“这又是何苦”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "难道嫁作天庭的妃子"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "小白龙对敖广说，她相信“他”一定还在这三界的某个地方，要去找到他，并说以后可能要走更长的路，让父王自己保重。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "我相信他一定还在这三界的某个地方"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "小白龙请求用龙宫的定颜珠保存“他”的身体，直到她找到他的魂魄。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "我想用龙宫的定颜珠"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "敖广对小白龙说，天庭已有明令，谁也不得帮助“那四人”，那四人自有上天早已定好的命数，不能违改。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "天庭已有明令，谁也不得帮助那四人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "敖广让小白龙先走，说“定颜珠在此，拿去吧”，并说“你改变不了什么的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "定颜珠在此，拿去吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "小白龙说“父王，告辞了”，含泪退出龙宫殿堂。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "小白龙含泪退出了殿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空在门外等得不耐烦，跳进龙宫，迎面遇到一名白衣女子；该女子瞟他一眼便惊慌地低头快步走过。（原文未明示该女子身份）",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "却见一白衣女子迎面而来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空心想那白衣女子“怎么像在哪儿见过一般”，觉得似曾相识。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "怎么像在哪儿见过一般？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "场景转到清静龙宫后殿，殿中只有龙王与孙悟空两人。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "只有龙王和孙悟空两人"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "孙悟空对敖广说想借定颜珠一用，并自称“俺老孙定是有借有还的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "想借老龙王的定颜珠一用"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "敖广对孙悟空说“大圣的信誉，在下是领教过的”，并问“那金箍棒还好使么”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "那金箍棒还好使么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空惊讶敖广怎会知道他有金箍棒，自称“这东西好像是一生下来就在俺老孙耳朵里了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "一生下来就在俺老孙耳朵里了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "敖广苦笑问孙悟空“你真的全不记得从前？”，并说有些事忘了也好，忘了便安乐了。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "你真的全不记得从前？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空对敖广说，不知是哪个家伙变作他的模样打死了和尚，害他去不得西天。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "打死了和尚，害老孙去不得西天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "敖广沉吟推测：那冒充者“或许他就是为了让你们去不得西天”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "或许他就是为了让你们去不得西天"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "敖广对孙悟空称定颜珠“其实……丢了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "其实……丢了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "孙悟空抱怨老龙王小气，说“让那唐僧烂去了吧”，并说“反正猪八戒用猪身还不一样活得好好的，唐僧也一样能用”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "让那唐僧烂去了吧"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-22",
+      "text": "孙悟空一跃而去，离开龙宫。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "孙悟空一跃而去"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-23",
+      "text": "敖广望着孙悟空远去，喃喃“竟然就这么走了？”，叹息称其“当年也是一代英雄”，如今“却浑然不知自己为何奔忙”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "浑然不知自己为何奔忙"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-24",
+      "text": "敖广一回身惊叫，发现孙悟空已站在他身后。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "一回身，却惊叫了起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-25",
+      "text": "孙悟空（去而复返者）凶喝敖广“你把珠子给了自己女儿，不给俺老孙”，并说“待我回去先结果了她”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "你把珠子给了自己女儿"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-26",
+      "text": "敖广抓住孙悟空衣袖求他不要伤害女儿，说“她回去也是救你师父的”“她也是一片痴心”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "她回去也是救你师父的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-27",
+      "text": "孙悟空（去而复返者）说“老孙最恨的就是一片痴心，偏要一个个打醒”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "最恨的就是一片痴心"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-28",
+      "text": "敖广惊疑地看着眼前这位孙悟空，说出“你……你是另一个……”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "你是另一个"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-29",
+      "text": "孙悟空（去而复返者）手一挥将敖广甩开，亮出手中金箍棒。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "亮出手中金箍棒"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-30",
+      "text": "孙悟空（去而复返者）说“俺老孙可没忘，你的东西？这就用它结果了你，就不会再欠你了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+      },
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "这就用它结果了你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-31",
+      "text": "一声“啪”之后，几缕血雾开始在海水中弥散开来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "几缕血雾开始在海水中弥散开来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-32",
+      "text": "敖广在亮出金箍棒者的一击之后受伤，原文只写到血雾弥散，未明写其生死。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "几缕血雾开始在海水中弥散开来"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-29",
+          "note": "亮出金箍棒"
+        },
+        {
+          "local_id": "claim-local-30",
+          "note": "扬言“这就用它结果了你”"
+        },
+        {
+          "local_id": "claim-local-31",
+          "note": "一声过后血雾弥散"
+        }
+      ],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-33",
+      "text": "小白龙与敖广口中所说的“他”，按上下文（被孙悟空杀死、需保存身体、她回去是“救你师父”的、“驮一个和尚万里跋涉”）所指为唐僧。",
+      "certainty": "inferred",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 12,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000012.txt",
+          "chapter_id": "ch-000012",
+          "chapter_order": 12,
+          "locator": null,
+          "anchor": "她回去也是救你师父的"
+        }
+      ],
+      "basis_refs": [
+        {
+          "local_id": "claim-local-4"
+        },
+        {
+          "local_id": "claim-local-5"
+        },
+        {
+          "local_id": "claim-local-7"
+        },
+        {
+          "local_id": "claim-local-26"
+        }
+      ],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "东海龙宫",
+      "category": "place",
+      "introduced_at": 12,
+      "notes": "小白龙潜入的宫殿，龙王敖广在座上瞌睡，殿外有人求见通报；另有“清静龙宫后殿”作为敖广与孙悟空单独谈话之处。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-13",
+        "claim-local-24"
+      ]
+    },
+    {
+      "label": "定颜珠",
+      "category": "item",
+      "introduced_at": 12,
+      "notes": "龙宫宝物。敖广言“定颜珠在此，拿去吧”并要小白龙先走；小白龙称要用它保存“他”的身体直到找到其魂魄。保存肉身的用途表述仅出自角色台词；后文敖广对另一来访者称“丢了”，而来访者称敖广把珠子给了自己女儿。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-9",
+        "claim-local-20",
+        "claim-local-25"
+      ]
+    },
+    {
+      "label": "天庭禁令：不得帮助那四人",
+      "category": "rule",
+      "introduced_at": 12,
+      "notes": "敖广对小白龙所述：“天庭已有明令，谁也不得帮助那四人。那四人自有他们的命数，是上天早就定好的，不能违改。”仅由角色台词给出，无第三方叙述佐证。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-8"
+      ]
+    }
+  ],
+  "identity_link_candidates": [
+    {
+      "candidate_a": {
+        "candidate_name": "白衣女子（第12章龙宫门外）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "relation_type": "possible_same_entity",
+      "certainty": "uncertain",
+      "summary": "孙悟空跳进龙宫时迎面遇到一名“白衣女子”，此人瞟他一眼后惊慌低头快步走过，孙悟空心想“怎么像在哪儿见过一般”。原文未明示该女子是谁；此前小白龙刚自称告辞退出殿，二人出场位置紧接。",
+      "evidence_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "notes": "不得据此直接合并；需后续章节或叙述明示。「白衣」为衣饰描述，与小白龙既有档案中是否有此特征未核实。"
+    },
+    {
+      "candidate_a": {
+        "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+      },
+      "candidate_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "relation_type": "same_name_different_entity_suspected",
+      "certainty": "uncertain",
+      "summary": "本章同一场景先后出现两名外貌为“孙悟空”的来者：先入后殿借珠、自称金箍棒“一生下来就在耳朵里”、说不知谁变作自己模样打死和尚、随后一跃而去者；以及在其离去后现身于敖广身后、称“俺老孙可没忘”、亮金箍棒一击致血雾者。敖广对后者脱口而出“你……你是另一个……”。",
+      "evidence_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-22",
+        "claim-local-24",
+        "claim-local-28",
+        "claim-local-30"
+      ],
+      "notes": "本案不裁决二者中哪一位对应既有 entity char-0002；亦未明示后者是否即前述“变作孙悟空模样打死唐僧”的冒充者。"
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "facet": {
+        "type": "kinship",
+        "label": "父女（龙王—龙女）"
+      },
+      "certainty": "explicit",
+      "summary": "敖广称小白龙“孩子”“傻丫头”并自称“为父”，小白龙称其“父王”“爹”；小白龙潜回龙宫搂住他落泪，敖广将她揽入怀中老泪纵横，问她能否不要再走，最终仍让她带走定颜珠并让她先走。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-10"
+      ],
+      "notes": "关系类型依据双方互相称谓与“为父”自指，属原文台词明示。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "subject_b": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "facet": {
+        "type": "other",
+        "label": "旧识（大圣信誉与金箍棒旧事）"
+      },
+      "certainty": "inferred",
+      "summary": "敖广以“大圣”相称，说“大圣的信誉，在下是领教过的，那金箍棒还好使么”，问他“你真的全不记得从前”，并在他离去后感叹“当年也是一代英雄”“却浑然不知自己为何奔忙”；来者则称不知敖广为何知道他有金箍棒。",
+      "source_claim_local_ids": [
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-23"
+      ],
+      "notes": "仅有敖广与来者的台词为据；且本章出现两名“孙悟空”面貌者，本关系仅指向先入后殿并离去的那一位，是否即 char-0002 待核。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "membership",
+        "label": "同行/驮负与救援"
+      },
+      "certainty": "inferred",
+      "summary": "敖广提到小白龙“驮一个和尚万里跋涉”，并对“孙悟空”说小白龙“回去也是救你师父的”；小白龙自称要找到“他”并保存其身体直到找到魂魄。据此推断她与此前同行、现被保存肉身的和尚（即唐僧）存在驮负同行与救援关系。",
+      "source_claim_local_ids": [
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-26",
+        "claim-local-33"
+      ],
+      "notes": "推断链：stub“和尚”与“你师父”由 claim-local-33 归并为唐僧；未在原文中直接出现“白龙马驮唐僧”之类叙述句。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "mystery",
+      "title": "“变作孙悟空模样打死唐僧”者的身份",
+      "status": "open",
+      "role": "core",
+      "summary": "孙悟空（先入后殿者）自称不知是哪个家伙变作他的模样打死和尚、害他去不得西天；敖广推测其目的就是让他们去不得西天。同章另有一名去而复返、自称“俺老孙可没忘”的孙悟空面貌者，敖广惊呼“你是另一个”，但原文未明示此人是否即冒充者。",
+      "source_claim_local_ids": [
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-28"
+      ],
+      "notes": "本章新增“两个孙悟空面貌者同处一地”的事实，谜团由“有人冒充”推进为“冒充者与本体可能同时在场”。"
+    },
+    {
+      "category": "faction",
+      "title": "天庭封锁取经四人：不得相助之令",
+      "status": "open",
+      "role": "setting_constraint",
+      "summary": "敖广称天庭已有明令，谁也不得帮助那四人，且那四人的命数由上天定好不能违改；他仍将定颜珠交给女儿，并说“你改变不了什么的”。小白龙反问“被注定的一切就无法改变么”。",
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ],
+      "notes": "禁令内容仅由敖广台词给出；是否被违背后的处置未写。"
+    },
+    {
+      "category": "character_arc",
+      "title": "小白龙出走寻回“他”的魂魄、保存其身",
+      "status": "open",
+      "role": "protagonist_goal",
+      "summary": "小白龙带着定颜珠离开龙宫，称“他”一定还在这三界的某个地方，要去找他；敖广称她“回去也是救你师父的”“也是一片痴心”；去而复返的孙悟空面貌者扬言“待我回去先结果了她”。",
+      "source_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-25",
+        "claim-local-26"
+      ],
+      "notes": "目标成立，执行尚未开始；同时出现针对她的追杀威胁。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第12章：东海龙宫——定颜珠与“另一个”",
+    "front_matter": {
+      "as_of": 12,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        },
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        },
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "candidate_name": "白衣女子（第12章龙宫门外）"
+        },
+        {
+          "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "ev-local-3",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21",
+        "claim-local-22",
+        "claim-local-23",
+        "claim-local-24",
+        "claim-local-25",
+        "claim-local-26",
+        "claim-local-27",
+        "claim-local-28",
+        "claim-local-29",
+        "claim-local-30",
+        "claim-local-31",
+        "claim-local-32",
+        "claim-local-33"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n东海龙宫。小白龙偷偷潜入宫殿，龙王敖广正在座上瞌睡，四周无人（[[claim-local-1]]）。她蹑手蹑脚走近，轻轻搂住龙王，一滴眼泪落在龙王脸上；敖广睁眼认出她，惊呼“孩子，真的是你么”，把她揽在怀里、老泪纵横（[[claim-local-2]]、[[claim-local-3]]）。这一段让本章以「父女重逢」开场，但重逢立刻转入告别（[[ev-local-1]]）。\n\n## 关键行动\n\n- 小白龙告诉敖广“他死了，被孙悟空杀死了”，并说自己眼睁睁看着他倒下、毫无办法（[[claim-local-4]]）。\n- 敖广问她何苦——嫁作天庭的妃子并不比“驮一个和尚万里跋涉”难（[[claim-local-5]]）。\n- 小白龙坚持要走：她相信“他”一定还在这三界的某个地方，要去找他，让父王保重（[[claim-local-6]]）。\n- 她提出真正目的：借龙宫的定颜珠保存“他”的身体，直到找到他的魂魄（[[claim-local-7]]）。\n- 敖广以天庭明令为阻：谁也不得帮助那四人，那四人自有上天定好的命数，不能违改（[[claim-local-8]]）；小白龙反问“被注定的一切就无法改变么”。\n- 最终敖广说“定颜珠在此，拿去吧”，并说“你改变不了什么的”（[[claim-local-9]]）；小白龙含泪告辞退出殿（[[claim-local-10]]）。\n\n## 转折与新信息\n\n1. **两名“孙悟空”面貌者先后现身龙宫。** 小白龙退出后，孙悟空在门外等得不耐烦，跳进龙宫，与一名白衣女子迎面相遇，那女子瞟他一眼便惊慌低头快步走过，孙悟空心想“怎么像在哪儿见过一般”（[[claim-local-11]]、[[claim-local-12]]；身份未明示，见 [[claim-local-33]] 之外的待核项）。后殿只剩敖广与他两人（[[claim-local-13]]），他开口就借定颜珠，自称“有借有还”（[[claim-local-14]]）。\n2. **敖广掌握“从前”，而孙悟空不记得。** 敖广说“大圣的信誉，在下是领教过的，那金箍棒还好使么”（[[claim-local-15]]）；孙悟空惊讶对方知道自己有金箍棒，称“这东西好像是一生下来就在俺老孙耳朵里了”（[[claim-local-16]]）；敖广苦笑问“你真的全不记得从前”（[[claim-local-17]]）。\n3. **冒充者之说被再次说出。** 孙悟空称不知是哪个家伙变作他的模样打死和尚、害他去不得西天（[[claim-local-18]]）；敖广推测那人的目的“或许他就是为了让你们去不得西天”（[[claim-local-19]]）。\n4. **敖广说谎后被杀机反噬。** 敖广称定颜珠“其实……丢了”（[[claim-local-20]]）；孙悟空抱怨小气，说“让那唐僧烂去了吧”，还提到“猪八戒用猪身还不一样活得好好的”（[[claim-local-21]]），随后一跃而去（[[claim-local-22]]）。敖广望着他远去喃喃“竟然就这么走了？”，叹息其“当年也是一代英雄”“却浑然不知自己为何奔忙”（[[claim-local-23]]）。\n5. **“你是另一个”。** 敖广一回身惊叫，孙悟空已站在他身后（[[claim-local-24]]）。此人喝问“你把珠子给了自己女儿，不给俺老孙”，扬言“待我回去先结果了她”（[[claim-local-25]]）；敖广抓住他衣袖求情，说“她回去也是救你师父的”（[[claim-local-26]]）。此人称“老孙最恨的就是一片痴心，偏要一个个打醒”（[[claim-local-27]]）；敖广惊疑道“你……你是另一个……”（[[claim-local-28]]）。\n6. **一击与血雾。** 此人甩开敖广、亮出金箍棒（[[claim-local-29]]），说“俺老孙可没忘……这就用它结果了你，就不会再欠你了”（[[claim-local-30]]）；一声之后几缕血雾在海水中弥散（[[claim-local-31]]）。原文未明写敖广生死（[[claim-local-32]]，inferred）。\n\n## 本章结果\n\n- 小白龙取得（被允准带走）定颜珠，含泪离开龙宫，目标是保存“他”（按上下文为唐僧，[[claim-local-33]]）的身体并寻找其魂魄（[[ev-local-1]]）。\n- 敖广对前一位来访的“孙悟空”隐瞒珠子下落，此事随后被去而复返者当面揭破（[[ev-local-2]]、[[ev-local-3]]）。\n- 龙宫后殿发生流血：亮出金箍棒者一击，血雾弥散，敖广的状况原文未明确交代（[[ev-local-3]]、[[claim-local-31]]、[[claim-local-32]]）。\n- 本章确立一条结构性事实：同一场景中存在两名外貌为“孙悟空”的来者，且敖广当场以“你是另一个”点明其不同（[[claim-local-28]]）。\n\n## 未决问题与补读入口\n\n- 门外“白衣女子”究竟是谁？原文只说孙悟空觉得“像在哪儿见过一般”（[[claim-local-11]]、[[claim-local-12]]）；该身份只登记为身份候选，未与既有实体合并。\n- 去而复返的“另一个”是否即“变作孙悟空模样打死唐僧”的冒充者？本章仅并列呈现，未作明示（[[claim-local-18]]、[[claim-local-28]]）。\n- 敖广是否死于这一击？原文止于血雾弥散（[[claim-local-31]]、[[claim-local-32]]）。\n- 小白龙是否恰好与孙悟空在殿门外擦身而过、是否已把定颜珠带出龙宫？原文只写“定颜珠在此，拿去吧”与“他见一白衣女子迎面而来”，未直接描写她持珠出殿。\n- 章首数行抒情短句（“五百年很漫长吗？你忘了哭／也不再笑／唯有沉默”）无明确主体与场景归属，未提取为事实。\n- 第40段原文有编码损坏（“去eig\"2em\">�不得西天”），该句仅能读作敖广推测“为了让你们去不得西天”（[[claim-local-19]]），需补读校勘。"
+  },
+  "stage_buffer_appends": [
+    {
+      "type": "key_event",
+      "ref_or_local_id": "ev-local-3",
+      "chapter_order": 12,
+      "note": "本章核心事件：去而复返的「孙悟空」在龙宫后殿亮金箍棒一击，血雾弥散，敖广生死未明；敖广当场称其“你是另一个”。"
+    },
+    {
+      "type": "key_statement",
+      "ref_or_local_id": "claim-local-28",
+      "chapter_order": 12,
+      "speaker": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "certainty": "reported",
+      "note": "“你……你是另一个……”——本章对“两个孙悟空”的唯一显式台词级提示，身份谜团关键证据。"
+    },
+    {
+      "type": "key_statement",
+      "ref_or_local_id": "claim-local-8",
+      "chapter_order": 12,
+      "speaker": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "certainty": "reported",
+      "note": "天庭明令不得帮助那四人、四人命数由上天定好不可违改——势力层面约束首次被点明。"
+    },
+    {
+      "type": "key_statement",
+      "ref_or_local_id": "claim-local-7",
+      "chapter_order": 12,
+      "speaker": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "certainty": "reported",
+      "note": "小白龙求取定颜珠以保存唐僧肉身至寻回魂魄，为其后续行动目标。"
+    },
+    {
+      "type": "character_turn",
+      "ref_or_local_id": "claim-local-10",
+      "chapter_order": 12,
+      "subject": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "note": "小白龙与父王重逢后仍选择离开龙宫，并获允准带走定颜珠。"
+    },
+    {
+      "type": "character_turn",
+      "ref_or_local_id": "claim-local-24",
+      "chapter_order": 12,
+      "subject": {
+        "candidate_name": "去而复返的「孙悟空」（第12章龙宫后殿）"
+      },
+      "note": "同章内出现与“孙悟空”不同行为逻辑的第二来访者，对敖广转為敌对并动手。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章同一场景出现两名“孙悟空”面貌者：先入后殿借珠、称金箍棒“一生下来就在耳朵里”、随后一跃而去者；以及去而复返、称“俺老孙可没忘”、亮金箍棒一击者。敖广明言“你……你是另一个……”，但原文未指明哪一位对应既有实体 char-0002（孙悟空）。",
+      "source_claim_local_ids": [
+        "claim-local-16",
+        "claim-local-18",
+        "claim-local-22",
+        "claim-local-24",
+        "claim-local-28",
+        "claim-local-30"
+      ],
+      "suggested_action": "在后续章节取得明示前，暂以 candidates 区分二者；不要将任何一方直接改写为 char-0002。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "summary": "孙悟空跳进龙宫时遇到“一白衣女子”，她瞟他一眼便惊慌低头快步走过，孙悟空心想“怎么像在哪儿见过一般”。原文未点名，紧接小白龙退殿的叙述顺序，但无明示同一性。",
+      "source_claim_local_ids": [
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12"
+      ],
+      "suggested_action": "登记为身份候选，待后续章节核实后再决定是否合并到 char-0017。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "章末仅写“一声过后，几缕血雾开始在海水中弥散开来”，未明写敖广是否死亡或受伤程度；本章无“尸体／死了”等叙述。",
+      "source_claim_local_ids": [
+        "claim-local-31",
+        "claim-local-32"
+      ],
+      "suggested_action": "敖广状态标注为不明；勿据“结果了你”的台词直接断言死亡。"
+    },
+    {
+      "category": "source_locator",
+      "summary": "第40段原文存在编码损坏：“去eig\"2em\">�不得西天……或许他就是为了让你们去不得西天……”，前段字符无法还原。",
+      "source_claim_local_ids": [
+        "claim-local-19"
+      ],
+      "suggested_action": "补读原始校勘本，核对敖广该句完整表述。"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "小白龙是否真的把定颜珠带出龙宫、是否与孙悟空在门外擦身而过，原文只有敖广的“定颜珠在此，拿去吧”与“他见一白衣女子迎面而来”两句，二者之间无直接衔接叙述。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-25"
+      ],
+      "suggested_action": "以 reported 记录“敖广允准取珠”，勿升级为 explicit 的持珠出殿事实；身份衔接见 ID 候选。"
+    }
+  ],
+  "warnings": [
+    "本章原文第40段存在编码损坏（“去eig\"2em\">�不得西天”），该句仅提取了可读部分（敖广推测“为了让你们去不得西天”）。",
+    "本章出现两名外貌为“孙悟空”的来者，且敖广以“你是另一个”点明其不同；未擅自把其中任何一位与既有实体 char-0002（孙悟空）合并，也未将其与“变作孙悟空模样打死唐僧”者判为同一人，相关待核项已登记 identity_link_candidates 与 issue_candidates。",
+    "门外“白衣女子”身份原文未明示，未建档为新角色，也未合并到 char-0017（小白龙），仅登记身份候选。",
+    "敖广（char-0032）在实体档案中 introduced_at=12，本次未重复建立角色候选；一水族通报者（“有只猴子求见，说姓孙”）为无名字的一次性背景人物，未建档。",
+    "凡出自角色台词的内容（敖广所述天庭明令、定颜珠用途、金箍棒旧事、小白龙所述“他死了”）一律标 reported；有关“他”指唐僧、敖广遭重击的判断标 inferred 并附 basis。",
+    "感情层面仅记录互动事实（拥抱、落泪、求情、威胁杀其女），未作任何感情类别定性。",
+    "本次工具调用 19 次（read_source 1、read_source_window 1、resolve_name 6、fetch_entity_current 3、lookup_stage 1、dedupe 5、relationship 2），未超出预算。"
+  ]
+}

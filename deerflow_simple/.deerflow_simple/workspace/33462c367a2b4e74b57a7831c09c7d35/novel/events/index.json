@@ -1,0 +1,71 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "block-0001"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 1,
+      "summary": "stage-001 事件块（第1章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0001.json",
+        "record_id": "block-0001"
+      },
+      "title": "stage-001 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "block-0002"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 4,
+      "summary": "stage-002 事件块（第4章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0002.json",
+        "record_id": "block-0002"
+      },
+      "title": "stage-002 事件块"
+    }
+  ],
+  "id": "idx-events",
+  "kind": "index",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "revision": 8,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 7,
+        "start": 1
+      }
+    ],
+    "subject_refs": []
+  },
+  "title": "共享事件"
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0149",
+  "kind": "index",
+  "revision": 4,
+  "safe_through": 67,
+  "title": "黄袍怪 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 60,
+        "end": 60
+      },
+      {
+        "start": 67,
+        "end": 67
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0067.json",
+        "record_id": "rel-0067"
+      },
+      "kind": "relationship",
+      "title": "黄袍怪×百花羞",
+      "summary": "与黄袍怪×百花羞的关系",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0068.json",
+        "record_id": "rel-0068"
+      },
+      "kind": "relationship",
+      "title": "黑翼鸟×黄袍怪",
+      "summary": "与黑翼鸟×黄袍怪的关系",
+      "chapter_ranges": [
+        {
+          "start": 60,
+          "end": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 60
+    },
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0070.json",
+        "record_id": "rel-0070"
+      },
+      "kind": "relationship",
+      "title": "孙悟空×黄袍怪",
+      "summary": "与孙悟空×黄袍怪的关系",
+      "chapter_ranges": [
+        {
+          "start": 67,
+          "end": 67
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 67
+    }
+  ]
+}

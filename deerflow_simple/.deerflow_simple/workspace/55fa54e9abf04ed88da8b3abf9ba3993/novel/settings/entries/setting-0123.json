@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0123",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 15,
+  "label": "金山寺",
+  "category": "other",
+  "introduced_at": 15,
+  "updates": [
+    {
+      "id": "update-setting-0123-001",
+      "revealed_at": 15,
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1303"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1305"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1306"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1308"
+        },
+        {
+          "path": "events/block-0002.json",
+          "record_id": "claim-1320"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

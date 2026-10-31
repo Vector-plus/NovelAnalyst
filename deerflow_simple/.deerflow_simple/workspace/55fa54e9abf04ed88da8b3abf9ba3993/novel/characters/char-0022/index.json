@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "char-0022",
+  "kind": "entity_index",
+  "revision": 4,
+  "safe_through": 49,
+  "entity_type": "character",
+  "label": "王母",
+  "introduced_at": 9,
+  "identity_notes": [],
+  "identity_links": [],
+  "related_materials": [],
+  "entries": [
+    {
+      "target": {
+        "path": "characters/char-0022/stages/stage-003.md",
+        "record_id": "doc-char-0022-stage-003"
+      },
+      "kind": "character_stage",
+      "title": "灵霄殿上的威压与失座",
+      "summary": "灵霄殿上的威压与失座（第19—26章）",
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 26
+    },
+    {
+      "target": {
+        "path": "characters/char-0022/stages/stage-004.md",
+        "record_id": "doc-char-0022-stage-004"
+      },
+      "kind": "character_stage",
+      "title": "追责者与摔盏者",
+      "summary": "追责者与摔盏者（第27—49章）",
+      "chapter_ranges": [
+        {
+          "start": 27,
+          "end": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "tags": [
+        "character"
+      ],
+      "safe_through": 49
+    }
+  ]
+}

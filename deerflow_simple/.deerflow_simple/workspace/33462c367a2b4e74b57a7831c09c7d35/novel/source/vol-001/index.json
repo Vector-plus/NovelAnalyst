@@ -1,0 +1,78 @@
+{
+  "chapters": [
+    {
+      "chapter_order": 1,
+      "id": "ch-000001",
+      "paragraph_count": 83,
+      "path": "source/vol-001/ch-000001.txt",
+      "safe_through": 1,
+      "sha256": "e62d552021e71e689ab46fb45784161a955e7c7cae7bcd6f45601adf8d829fae",
+      "title": "被推迟的奥运会"
+    },
+    {
+      "chapter_order": 2,
+      "id": "ch-000002",
+      "paragraph_count": 14,
+      "path": "source/vol-001/ch-000002.txt",
+      "safe_through": 2,
+      "sha256": "0e04e45333c0cbb15a3a1ea9650d8e1ea4fed886026b1fa79e848d2abfa59714",
+      "title": "北京"
+    },
+    {
+      "chapter_order": 3,
+      "id": "ch-000003",
+      "paragraph_count": 21,
+      "path": "source/vol-001/ch-000003.txt",
+      "safe_through": 3,
+      "sha256": "a7279f89e5006fd82bcd8fc475d207249139e2cd72d52ec20e2883e48680556a",
+      "title": "和平视窗"
+    },
+    {
+      "chapter_order": 4,
+      "id": "ch-000004",
+      "paragraph_count": 51,
+      "path": "source/vol-001/ch-000004.txt",
+      "safe_through": 4,
+      "sha256": "fb2c073e5a7ff39c2839ab20562ed5eaf15f320bf50ceff934690c2077f34cd5",
+      "title": "两个国家的奥运会"
+    },
+    {
+      "chapter_order": 5,
+      "id": "ch-000005",
+      "paragraph_count": 23,
+      "path": "source/vol-001/ch-000005.txt",
+      "safe_through": 5,
+      "sha256": "ca5f5e994d8db98a7850654b47ba9282a60186c8f9e0aa5ea721ec10565e4bb6",
+      "title": "马拉松"
+    },
+    {
+      "chapter_order": 6,
+      "id": "ch-000006",
+      "paragraph_count": 11,
+      "path": "source/vol-001/ch-000006.txt",
+      "safe_through": 6,
+      "sha256": "22105f619ac31756e871dc29764b863661dcd5936f71430fcdad882bfa7b8fe3",
+      "title": "光荣与梦想"
+    },
+    {
+      "chapter_order": 7,
+      "id": "ch-000007",
+      "paragraph_count": 18,
+      "path": "source/vol-001/ch-000007.txt",
+      "safe_through": 7,
+      "sha256": "ff4baa4c0ec59f635a230e0383527cd4526aa98d36dc8617d5dd75c4d5dfb7a7",
+      "title": "跑到头的国家"
+    }
+  ],
+  "encoding": "utf-8",
+  "id": "source-vol-001",
+  "kind": "source_chapters",
+  "normalization": "lf",
+  "novel_id": "33462c367a2b4e74b57a7831c09c7d35",
+  "paragraph_rule": "blank_line_separated",
+  "revision": 1,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "source_version": "source-v1",
+  "volume_id": "vol-001"
+}

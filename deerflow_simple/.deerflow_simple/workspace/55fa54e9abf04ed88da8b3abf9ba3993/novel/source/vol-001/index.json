@@ -1,0 +1,456 @@
+{
+  "chapters": [
+    {
+      "chapter_order": 1,
+      "id": "ch-000001",
+      "paragraph_count": 19,
+      "path": "source/vol-001/ch-000001.txt",
+      "safe_through": 1,
+      "sha256": "86547b93c7c206d4bc3e91da774966eb60cb01ecc7166ae7f8edd39174c7df12",
+      "title": "．"
+    },
+    {
+      "chapter_order": 2,
+      "id": "ch-000002",
+      "paragraph_count": 33,
+      "path": "source/vol-001/ch-000002.txt",
+      "safe_through": 2,
+      "sha256": "88ec58cb4601568023a0cdfdf09be25e43f707e26eba8e67149333a348334de2",
+      "title": "．"
+    },
+    {
+      "chapter_order": 3,
+      "id": "ch-000003",
+      "paragraph_count": 56,
+      "path": "source/vol-001/ch-000003.txt",
+      "safe_through": 3,
+      "sha256": "c21ce6224f663bcb8e72618f08a7e84fe418591a32a86d9461e6fa04a14c91c3",
+      "title": "．"
+    },
+    {
+      "chapter_order": 4,
+      "id": "ch-000004",
+      "paragraph_count": 28,
+      "path": "source/vol-001/ch-000004.txt",
+      "safe_through": 4,
+      "sha256": "d8a700d839dd989b9e60df61b172980840ec5874fc6bdf4756f735a2c38a9614",
+      "title": "．"
+    },
+    {
+      "chapter_order": 5,
+      "id": "ch-000005",
+      "paragraph_count": 27,
+      "path": "source/vol-001/ch-000005.txt",
+      "safe_through": 5,
+      "sha256": "18fc7f6be2920c7d978797f231fca6c3f4e6178477d286023efc90747904b147",
+      "title": "．"
+    },
+    {
+      "chapter_order": 6,
+      "id": "ch-000006",
+      "paragraph_count": 39,
+      "path": "source/vol-001/ch-000006.txt",
+      "safe_through": 6,
+      "sha256": "d23df990f86af2be425164c6fdf4460dd1e6369c8465c0f68d92dd49a2872e7c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 7,
+      "id": "ch-000007",
+      "paragraph_count": 32,
+      "path": "source/vol-001/ch-000007.txt",
+      "safe_through": 7,
+      "sha256": "575dfa95c13dcd82652bd37dc17bcd798686d7eb02223fd1da82dfd7223bb62d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 8,
+      "id": "ch-000008",
+      "paragraph_count": 38,
+      "path": "source/vol-001/ch-000008.txt",
+      "safe_through": 8,
+      "sha256": "4487ca200246a233e7286c49651417b702f7e04f51e8c3a3b7a418c8ba66eb12",
+      "title": "．"
+    },
+    {
+      "chapter_order": 9,
+      "id": "ch-000009",
+      "paragraph_count": 43,
+      "path": "source/vol-001/ch-000009.txt",
+      "safe_through": 9,
+      "sha256": "97ee062feb312edfbda359c5804b2bd78d518bf5a58696947fdff11ab0af12b3",
+      "title": "．"
+    },
+    {
+      "chapter_order": 10,
+      "id": "ch-000010",
+      "paragraph_count": 13,
+      "path": "source/vol-001/ch-000010.txt",
+      "safe_through": 10,
+      "sha256": "21d968b29621edd7f0b0600d8bc5187adfa6375ba0bb760e85a8fc10498bc866",
+      "title": "．"
+    },
+    {
+      "chapter_order": 11,
+      "id": "ch-000011",
+      "paragraph_count": 66,
+      "path": "source/vol-001/ch-000011.txt",
+      "safe_through": 11,
+      "sha256": "c4b2418610dc2a37bad2d8c0b73cd5264ac4ec9adfb6fe4f24dde6d7d89632b4",
+      "title": "．"
+    },
+    {
+      "chapter_order": 12,
+      "id": "ch-000012",
+      "paragraph_count": 55,
+      "path": "source/vol-001/ch-000012.txt",
+      "safe_through": 12,
+      "sha256": "868a433b7401048c0f029f29560617fda1a2fcdfa728def3f39b8b6fa381af3d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 13,
+      "id": "ch-000013",
+      "paragraph_count": 38,
+      "path": "source/vol-001/ch-000013.txt",
+      "safe_through": 13,
+      "sha256": "aff98cc2053900a5da2f7fbebb2b95908db6887c12638a10090def7ad8c7922f",
+      "title": "．"
+    },
+    {
+      "chapter_order": 14,
+      "id": "ch-000014",
+      "paragraph_count": 39,
+      "path": "source/vol-001/ch-000014.txt",
+      "safe_through": 14,
+      "sha256": "b9639216518060b23a7d5e5dcf66d3236911d5c9725f31fa06a9e2b55584992e",
+      "title": "．"
+    },
+    {
+      "chapter_order": 15,
+      "id": "ch-000015",
+      "paragraph_count": 99,
+      "path": "source/vol-001/ch-000015.txt",
+      "safe_through": 15,
+      "sha256": "79387d15707e60b78d497942e9a0e4ab2997132c155c762593a9cd4e2b5a2a26",
+      "title": "．"
+    },
+    {
+      "chapter_order": 16,
+      "id": "ch-000016",
+      "paragraph_count": 47,
+      "path": "source/vol-001/ch-000016.txt",
+      "safe_through": 16,
+      "sha256": "21bca8bc8ca50f6989bacceb31ebccb324b61f7d65bb06643bcffd9854be1087",
+      "title": "．"
+    },
+    {
+      "chapter_order": 17,
+      "id": "ch-000017",
+      "paragraph_count": 12,
+      "path": "source/vol-001/ch-000017.txt",
+      "safe_through": 17,
+      "sha256": "c62d2e1508822414ecf529eb53602f40e4c0f6f9070c9f05203ae8a8c4d03c1c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 18,
+      "id": "ch-000018",
+      "paragraph_count": 77,
+      "path": "source/vol-001/ch-000018.txt",
+      "safe_through": 18,
+      "sha256": "fa0c3a3ff5b7555f8118e03870470f62a58716a7234d0469d265c15b54dac2b7",
+      "title": "．"
+    },
+    {
+      "chapter_order": 19,
+      "id": "ch-000019",
+      "paragraph_count": 64,
+      "path": "source/vol-001/ch-000019.txt",
+      "safe_through": 19,
+      "sha256": "4f820f1f7decfa18cbfbfac125aa20953afb91af2f746f83553288b844467785",
+      "title": "．"
+    },
+    {
+      "chapter_order": 20,
+      "id": "ch-000020",
+      "paragraph_count": 81,
+      "path": "source/vol-001/ch-000020.txt",
+      "safe_through": 20,
+      "sha256": "96e3a5ff2aee1eed5dce7e5c31693b8d3a1f1d781af5fb3c8340ad36096da0bd",
+      "title": "．"
+    },
+    {
+      "chapter_order": 21,
+      "id": "ch-000021",
+      "paragraph_count": 36,
+      "path": "source/vol-001/ch-000021.txt",
+      "safe_through": 21,
+      "sha256": "5872e96e705adbde8495106d3354dc60e37ef15d54e11236e6c987694c533ae0",
+      "title": "．"
+    },
+    {
+      "chapter_order": 22,
+      "id": "ch-000022",
+      "paragraph_count": 51,
+      "path": "source/vol-001/ch-000022.txt",
+      "safe_through": 22,
+      "sha256": "54d443ab0eaa16fd6c766e54784f34a3cf6c5c51c1c314287e546570b6eee45d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 23,
+      "id": "ch-000023",
+      "paragraph_count": 55,
+      "path": "source/vol-001/ch-000023.txt",
+      "safe_through": 23,
+      "sha256": "9842bb73c21462a43fc221b399592269f7f7c9adb48273cdf3c931273413da2b",
+      "title": "．"
+    },
+    {
+      "chapter_order": 24,
+      "id": "ch-000024",
+      "paragraph_count": 72,
+      "path": "source/vol-001/ch-000024.txt",
+      "safe_through": 24,
+      "sha256": "e51f2f89e9f77c9030d237c098f3e7b92919387e400f6955cafcdc145b63f5ba",
+      "title": "．"
+    },
+    {
+      "chapter_order": 25,
+      "id": "ch-000025",
+      "paragraph_count": 38,
+      "path": "source/vol-001/ch-000025.txt",
+      "safe_through": 25,
+      "sha256": "b54045352e3888f16382899700906a98bb02be2db56c399124ae10d8f83d8d81",
+      "title": "．"
+    },
+    {
+      "chapter_order": 26,
+      "id": "ch-000026",
+      "paragraph_count": 67,
+      "path": "source/vol-001/ch-000026.txt",
+      "safe_through": 26,
+      "sha256": "b14ecd0a8e17ad2ab4676f4e4676c6e662a3bb142ce933681918de801e1ba24c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 27,
+      "id": "ch-000027",
+      "paragraph_count": 8,
+      "path": "source/vol-001/ch-000027.txt",
+      "safe_through": 27,
+      "sha256": "5bb4931e018d0edc35461cd238fd1f1b477f5bf8e4acd686de4b670bcb22f685",
+      "title": "．"
+    },
+    {
+      "chapter_order": 28,
+      "id": "ch-000028",
+      "paragraph_count": 17,
+      "path": "source/vol-001/ch-000028.txt",
+      "safe_through": 28,
+      "sha256": "442db091a15cfe6fbd73e5d77368d70100fdd01dd4847636abaebb36395cb375",
+      "title": "．"
+    },
+    {
+      "chapter_order": 29,
+      "id": "ch-000029",
+      "paragraph_count": 45,
+      "path": "source/vol-001/ch-000029.txt",
+      "safe_through": 29,
+      "sha256": "23bcf03182e9db5e9591abd59268b26366254a7b3303a5e4eee105cdba96e5b3",
+      "title": "．"
+    },
+    {
+      "chapter_order": 30,
+      "id": "ch-000030",
+      "paragraph_count": 44,
+      "path": "source/vol-001/ch-000030.txt",
+      "safe_through": 30,
+      "sha256": "d14bf70b43fcb5936944ef0adad1a4f1e3f4914746492254e36ec0b784300515",
+      "title": "．"
+    },
+    {
+      "chapter_order": 31,
+      "id": "ch-000031",
+      "paragraph_count": 14,
+      "path": "source/vol-001/ch-000031.txt",
+      "safe_through": 31,
+      "sha256": "ab4177db619dfdaed130703ae717601e12a28fc20ce62d8feee7b4a1ddc2eb38",
+      "title": "．"
+    },
+    {
+      "chapter_order": 32,
+      "id": "ch-000032",
+      "paragraph_count": 12,
+      "path": "source/vol-001/ch-000032.txt",
+      "safe_through": 32,
+      "sha256": "e5c51d7cd32ed86b1cc13216df814ea8c01930d823552aafc36083a4c872b1be",
+      "title": "．"
+    },
+    {
+      "chapter_order": 33,
+      "id": "ch-000033",
+      "paragraph_count": 67,
+      "path": "source/vol-001/ch-000033.txt",
+      "safe_through": 33,
+      "sha256": "553a07a7d3bffc4d7f7020ffad1a89aa77e6dde53a0c1ea11f5bf88afe9ea0c8",
+      "title": "．"
+    },
+    {
+      "chapter_order": 34,
+      "id": "ch-000034",
+      "paragraph_count": 25,
+      "path": "source/vol-001/ch-000034.txt",
+      "safe_through": 34,
+      "sha256": "50cf2ad3651cdeac34bb0aeab94dd91e0261a215351937b72523122dfc34e995",
+      "title": "．"
+    },
+    {
+      "chapter_order": 35,
+      "id": "ch-000035",
+      "paragraph_count": 52,
+      "path": "source/vol-001/ch-000035.txt",
+      "safe_through": 35,
+      "sha256": "9c366676cda4029f7df8b6a63c23b4613f5640b0afaf9c8d551a687fe9e0b860",
+      "title": "．"
+    },
+    {
+      "chapter_order": 36,
+      "id": "ch-000036",
+      "paragraph_count": 56,
+      "path": "source/vol-001/ch-000036.txt",
+      "safe_through": 36,
+      "sha256": "ea6431fe77ffd1ade3438f34ad73da6086a39bc1508bff93550ad8cbf35f984e",
+      "title": "．"
+    },
+    {
+      "chapter_order": 37,
+      "id": "ch-000037",
+      "paragraph_count": 22,
+      "path": "source/vol-001/ch-000037.txt",
+      "safe_through": 37,
+      "sha256": "da346cfe1764cdf4efb4defcc63a4e324bfc8f9b438d1c18219f3bc2c33e842a",
+      "title": "．"
+    },
+    {
+      "chapter_order": 38,
+      "id": "ch-000038",
+      "paragraph_count": 40,
+      "path": "source/vol-001/ch-000038.txt",
+      "safe_through": 38,
+      "sha256": "1f420a4edf8af67edfa391a991ca1fbbf933b17d200d2bf2ccdeca36d130c338",
+      "title": "．"
+    },
+    {
+      "chapter_order": 39,
+      "id": "ch-000039",
+      "paragraph_count": 52,
+      "path": "source/vol-001/ch-000039.txt",
+      "safe_through": 39,
+      "sha256": "945069d68b2fdc91f170b2112e5bb0e75fb3a44ba107024ef413f1e6d3fd8450",
+      "title": "．"
+    },
+    {
+      "chapter_order": 40,
+      "id": "ch-000040",
+      "paragraph_count": 98,
+      "path": "source/vol-001/ch-000040.txt",
+      "safe_through": 40,
+      "sha256": "d6c067dd2c999de1264b8ebf1cf5ac175f59bbca53975d47fa624985ed19e771",
+      "title": "．"
+    },
+    {
+      "chapter_order": 41,
+      "id": "ch-000041",
+      "paragraph_count": 204,
+      "path": "source/vol-001/ch-000041.txt",
+      "safe_through": 41,
+      "sha256": "3827b76ecece1ea15fbabba03a0154a894796d848299e00058531d268afa8a31",
+      "title": "．"
+    },
+    {
+      "chapter_order": 42,
+      "id": "ch-000042",
+      "paragraph_count": 48,
+      "path": "source/vol-001/ch-000042.txt",
+      "safe_through": 42,
+      "sha256": "591eb4a69b0d957f50f33660654880ab71461201883a0c620b0aa66697a32e5d",
+      "title": "．"
+    },
+    {
+      "chapter_order": 43,
+      "id": "ch-000043",
+      "paragraph_count": 18,
+      "path": "source/vol-001/ch-000043.txt",
+      "safe_through": 43,
+      "sha256": "456e6df8032d829f09e4de6d8c383f7b255dda0fbe0a273b4b925ce5bdf0b600",
+      "title": "．"
+    },
+    {
+      "chapter_order": 44,
+      "id": "ch-000044",
+      "paragraph_count": 23,
+      "path": "source/vol-001/ch-000044.txt",
+      "safe_through": 44,
+      "sha256": "312012f929327d81381a8a2401c77d026a20970de0f19b170d335349f095eb0c",
+      "title": "．"
+    },
+    {
+      "chapter_order": 45,
+      "id": "ch-000045",
+      "paragraph_count": 59,
+      "path": "source/vol-001/ch-000045.txt",
+      "safe_through": 45,
+      "sha256": "23ddd0a2c6febee4ea5a1f60c03c6c077faeaed7babbcdcf4f378e83f4104486",
+      "title": "．"
+    },
+    {
+      "chapter_order": 46,
+      "id": "ch-000046",
+      "paragraph_count": 33,
+      "path": "source/vol-001/ch-000046.txt",
+      "safe_through": 46,
+      "sha256": "550d44829a62397496c0517051c352a99335c81d889137a9e60925e2a3cca8ae",
+      "title": "．"
+    },
+    {
+      "chapter_order": 47,
+      "id": "ch-000047",
+      "paragraph_count": 62,
+      "path": "source/vol-001/ch-000047.txt",
+      "safe_through": 47,
+      "sha256": "fb9f51c485a62863b5059fa5fa860ad85e995030a8cc243078e723dcecf4f600",
+      "title": "．"
+    },
+    {
+      "chapter_order": 48,
+      "id": "ch-000048",
+      "paragraph_count": 31,
+      "path": "source/vol-001/ch-000048.txt",
+      "safe_through": 48,
+      "sha256": "05dd56b12bdfbc02743bbf7aa265223e72bd5467b88d4530b783cc0567b9a0ad",
+      "title": "．"
+    },
+    {
+      "chapter_order": 49,
+      "id": "ch-000049",
+      "paragraph_count": 68,
+      "path": "source/vol-001/ch-000049.txt",
+      "safe_through": 49,
+      "sha256": "0c66c532acd470403cc91d21f6bc494a138c6d68527580ec6b7ede27b9b60504",
+      "title": "．"
+    }
+  ],
+  "encoding": "utf-8",
+  "id": "source-vol-001",
+  "kind": "source_chapters",
+  "normalization": "lf",
+  "novel_id": "wukon",
+  "paragraph_rule": "blank_line_separated",
+  "revision": 1,
+  "safe_through": 49,
+  "schema_version": "2.0",
+  "source_version": "source-v1",
+  "volume_id": "vol-001"
+}

@@ -1,0 +1,694 @@
+{
+  "chapter_order": 2,
+  "chapter_id": "ch-000002",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "唐僧在紫色丛林迷路并与会说话的怪树交谈",
+      "introduced_at": 2,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 2,
+            "end": 2
+          }
+        ],
+        "revealed_at": 2,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "唐僧独自走进紫色丛林迷路，遇到一棵会说话、长出眼睛的怪树；怪树讲述自己长出眼睛的经历与那张捡来的人嘴，唐僧与之对话并批评它投机取巧。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "唐僧被藤蔓缠住、暗伏怪物逼近，怪树索要其双手，唐僧大喊救命",
+      "introduced_at": 2,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 2,
+            "end": 2
+          }
+        ],
+        "revealed_at": 2,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "对话中唐僧的脚被藤蔓缠住，背后出现呜嗷声与腥气，有爪子搭上其肩头；怪树要求把唐僧的手留给它，唐僧讥讽后深吸一口气大喊救命。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0005/index.json",
+              "record_id": "char-0005"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "candidate_name": "林中未露面的食人怪物"
+            },
+            "role": "initiator"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-16"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-13",
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "唐僧走入一片紫色丛林，林中到处长着奇怪植物、飘着终年不散的青色雾气，越往里越潮湿昏暗，枝叶完全遮蔽天空，唐僧完全迷路。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "唐僧也完全迷路了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "有声音回答\"谢谢\"，唐僧回头看见一棵会说话的树，紫黑色树干上有两只一眨一眨的眼睛。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "看见一棵会说话的树"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "唐僧认为这地方生机旺盛、生命奇妙，伸手去摸那棵树，树干上泌满紫色汁液，触感湿滑。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "那树干上泌满紫色的汁液"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "怪树自述：上万年来没有人来到它面前；几千年前有一群猴子在它身上戏耍，后来都不知去向，那时它还没有眼睛，只能感觉到身边有许多会动的生灵在说话唱歌。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "有上万年没有人来到我面前了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "怪树自称花了十万年才长出眼睛，并说它还没有手、没有腿，以后都会长出来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "我花了十万年才长出眼睛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "唐僧回答那群猴子\"他们死了\"，并向怪树解释死就是什么也看不见、听不见、感觉不到、不会想，如同未出生时一样。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "他们死了。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "怪树表示不要死也不要孤独地生活，说它现在就想摸一摸身边的同类、摸一摸唐僧，并称唐僧身上的气味令它心醉。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "你身上的气味真令我心醉"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "唐僧问怪树没有嘴用什么说话，怪树抖了抖身前一根枝条，枝条上有一张人的嘴。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "那上面有一张人的嘴"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "怪树称那张嘴不是自己的、是它捡来的：三百年前有一个人在这里被吃了，剩下这张嘴，它用自己的树汁浸泡使其不腐烂，又花几十年长出枝条把它捡起。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "是我捡的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧批评怪树投机取巧，说\"不是你的，就要把它还给来处\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "不是你的，就要把它还给来处"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "怪树反问唐僧是否想知道那个人为什么被吃，唐僧问是否因为看见了它的缘故，怪树答\"是\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "是因为看见了你的缘故吗"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "唐僧发现自己的脚不知何时已被藤蔓缠住，他背后响起低沉的呜嗷声，一股腥气喷到脖子上，他无法回头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "已被藤蔓缠住了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "怪树对背后的存在说\"把他的手留给我，我喜欢那双手\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "把他的手留给我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "唐僧讥讽怪树\"别人吃剩的你也要，做妖做到你这份儿上，是我就一头撞死算了\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "做妖做到你这份儿上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "怪树回应唐僧说\"如果有头的话，我会考虑的\"。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "我会考虑的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "有双爪子搭上了唐僧的肩头。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "有双爪子搭上了唐僧的肩头"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "怪树要求等一下，说想最后再和唐僧说一句话，因为有了这张嘴之后唐僧是第一个能和它说话的，它对一个人被吃时的心理活动很感兴趣。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "这是第一个能和我说话的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧说\"早死早超生，我才不怕\"，随后深吸一口气，突然大叫\"救命啊\"。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 2,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000002.txt",
+          "chapter_id": "ch-000002",
+          "chapter_order": 2,
+          "locator": null,
+          "anchor": "救——命——啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [
+    {
+      "label": "林中未露面的食人怪物",
+      "introduced_at": 2,
+      "alias_texts": [
+        "呜嗷声",
+        "腥气",
+        "爪子"
+      ],
+      "identity_notes": "第2章末在唐僧背后发出低沉的呜嗷声、腥气喷到其脖子，并有双爪子搭上唐僧肩头；当章未露面、未命名。怪树与其对话，要求把唐僧的手留给它；怪树自称三百年前有一人在此被吃。",
+      "evidence_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-16"
+      ]
+    }
+  ],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "紫色丛林",
+      "category": "location",
+      "introduced_at": 2,
+      "notes": "长满奇怪植物、飘着终年不散青色雾气、脚下潮湿、枝叶完全遮蔽天空的密林，唐僧在其中迷路；林中有会说话、长出眼睛的怪树，以及足以缠住人脚的藤蔓。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "怪树与暗中怪物一同图谋吃掉唐僧，并向其索要唐僧的双手；唐僧讥讽怪树"
+      },
+      "certainty": "explicit",
+      "summary": "怪树与唐僧在林中第一次相遇并对话；怪树讲述有人因看见它而被吃，随后要求背后存在把唐僧的手留给自己，唐僧则出言讥讽。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-11",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-17"
+      ],
+      "notes": "仅记录本章互动事实，不作情感或立场定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "candidate_name": "林中未露面的食人怪物"
+      },
+      "facet": {
+        "type": "hostility",
+        "notes": "该存在以藤蔓困住唐僧、以爪搭肩并发出呜嗷声；怪树向其索取唐僧的手"
+      },
+      "certainty": "explicit",
+      "summary": "未露面的存在在唐僧背后逼近，与怪树共同构成对唐僧的威胁。",
+      "source_claim_local_ids": [
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-16"
+      ],
+      "notes": "对方主体当章未露面、未命名，暂以候选主体记录。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "label": "唐僧独自入林遇险（怪树与暗伏怪物）",
+      "category": "danger_thread",
+      "status": "ongoing",
+      "role": "escalation",
+      "summary": "唐僧因独自入林而迷路，被怪树与背后未露面的存在困住，呼救收尾。",
+      "chapter_order": 2,
+      "evidence_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-12",
+        "claim-local-16",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第2章：紫色丛林中的怪树",
+    "front_matter": {
+      "as_of": 2,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        },
+        {
+          "candidate_name": "林中未露面的食人怪物"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n唐僧独自走入一片紫色丛林：到处长着奇怪植物，飘着终年不散的青色雾气，脚下愈发潮湿，枝叶完全遮蔽天空，他已完全迷路（[[claim-local-1]]）。他并不畏惧，笑着感叹这里的生机与众多不同的生命。\n\n## 关键行动\n\n一个声音回了他一句\"谢谢\"。唐僧回头，看见一棵会说话的树，紫黑色树干上有两只一眨一眨的眼睛（[[claim-local-2]]）。他伸手去摸，树干上泌满紫色汁液，湿滑无比（[[claim-local-3]]）。两方由此开始一段长谈：怪树讲自己长出眼睛之前的漫长岁月，唐僧向它解释\"死\"是什么（[[claim-local-4]]、[[claim-local-5]]、[[claim-local-6]]）。怪树说它想摸一摸身边的同类，称唐僧身上的气味令它心醉（[[claim-local-7]]）。唐僧追问它没有嘴如何说话，怪树抖出身前一根枝条，上面有一张人的嘴（[[claim-local-8]]）。\n\n## 转折与新信息\n\n怪树承认那张嘴不是自己的、是捡来的：三百年前有一人在此被吃，它用树汁浸泡使嘴不腐烂，又费几十年长出枝条将其捡起（[[claim-local-9]]）。唐僧斥其投机取巧，说\"不是你的，就要把它还给来处\"（[[claim-local-10]]）。怪树反问那人为何被吃，并确认答案是\"看见了它\"（[[claim-local-11]]）——这句自述与后文对唐僧的围困直接相扣。\n\n## 本章结果\n\n唐僧发现自己的脚不知何时已被藤蔓缠住，背后响起低沉的呜嗷声，腥气喷上脖子，他无法回头（[[claim-local-12]]）。怪树对那背后的存在说\"把他的手留给我，我喜欢那双手\"（[[claim-local-13]]），唐僧以\"别人吃剩的你也要\"讥讽回去（[[claim-local-14]]），怪树答\"如果有头的话，我会考虑的\"（[[claim-local-15]]）。随后一双爪子搭上唐僧的肩头（[[claim-local-16]]），怪树还要\"最后再说一句话\"，说唐僧是它有了这张嘴后第一个能与它说话的人（[[claim-local-17]]）。唐僧口头说\"早死早超生，我才不怕\"，深吸一口气后突然大叫\"救命啊\"（[[claim-local-18]]）。\n\n## 未决问题与补读入口\n\n- 背后那双爪子属于谁、怪树与它是什么关系：本章未露面、未命名，只能确认二者协同围困唐僧（[[claim-local-12]]、[[claim-local-16]]）。\n- 悟空等三名徒弟此时不在场，唐僧的呼救是否有回应、谁来解围，需看后续章节。\n- 怪树所称\"几千年前有一群猴子在我身上戏耍\"（[[claim-local-4]]）与取经队伍的来历是否有牵连，本章只由怪树自述，未获旁证。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_or_local_id": "ev-local-1",
+      "kind": "event",
+      "chapter_order": 2,
+      "note": "本stage首次出现会说话的怪树与唐僧对话，含怪树自述的关键信息"
+    },
+    {
+      "ref_or_local_id": "ev-local-2",
+      "kind": "event",
+      "chapter_order": 2,
+      "note": "唐僧首次被藤蔓与暗伏存在困住并呼救，与第1章独自入林的行动直接接续"
+    },
+    {
+      "ref_or_local_id": "claim-local-4",
+      "kind": "claim",
+      "chapter_order": 2,
+      "note": "怪树自述几千年前有猴群在其身上戏耍（reported，尚无旁证）"
+    },
+    {
+      "ref_or_local_id": "claim-local-9",
+      "kind": "claim",
+      "chapter_order": 2,
+      "note": "怪树自称三百年前有人在此被吃、留下人嘴（reported）"
+    },
+    {
+      "ref_or_local_id": "claim-local-18",
+      "kind": "claim",
+      "chapter_order": 2,
+      "note": "唐僧以大喊救命收尾，与第1章\"别以为我离了你们就不行\"形成人物行为重复点"
+    },
+    {
+      "ref_or_local_id": "characters/char-0005/index.json",
+      "kind": "entity",
+      "chapter_order": 2,
+      "note": "怪树（char-0005）本章正式出场并与唐僧建立敌对图谋关系"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "source_locator",
+      "chapter_order": 2,
+      "detail": "原文存在乱码/编码残留：第1段\"�� h��枝叶完全遮蔽了天空\"、第29段\"如果我ht=“如�有头的话\"。已避开这些片段选取锚点，后续若引用该处文字需以清洗版为准。",
+      "suggested_action": "由源文件清洗流程修正，不影响本章事实提取。"
+    },
+    {
+      "category": "identity_ambiguity",
+      "chapter_order": 2,
+      "detail": "第2章末搭爪、发呜嗷声的存在当章未露面、未命名，仅通过怪树的一句\"把他的手留给我\"间接呈现，无法确定其种类与名号。",
+      "suggested_action": "保留为候选主体\"林中未露面的食人怪物\"，待后续章节明示后再建档或与已有实体合并。"
+    },
+    {
+      "category": "missing_evidence",
+      "chapter_order": 2,
+      "detail": "怪树所称\"花十万年长出眼睛\"\"三百年前有人在此被吃\"\"几千年前有猴群在其身上戏耍\"均为怪树单方陈述，本章无叙述旁证。",
+      "suggested_action": "保持 certainty=reported，不做事实化升级。"
+    }
+  ],
+  "warnings": [
+    "本章仅唐僧与怪树（char-0005）两个已建档实体出场，第三个\"存在\"仅有声音与爪子，已登记为候选主体。",
+    "char-0005 的 index 中 stage 条目标题写作\"取经路上·林中之变（第4–5章）\"，与 introduced_at=2 不一致；本次仍按 resolve_name 返回的唯一实体 char-0005 引用，未改动档案。",
+    "原文存在少量乱码字符，锚点均选自未乱码片段。"
+  ]
+}

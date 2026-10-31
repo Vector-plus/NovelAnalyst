@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0039",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 15,
+  "introduced_at": 15,
+  "subjects": [
+    {
+      "path": "characters/char-0054/index.json",
+      "record_id": "char-0054"
+    },
+    {
+      "path": "characters/char-0055/index.json",
+      "record_id": "char-0055"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0039-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-002"
+      },
+      "chapter_ranges": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "as_of": 15,
+      "revealed_at": 15,
+      "summary": "云游僧天杨与本寺住持法明在大殿公开论法，天杨占上风。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "other",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "云游僧天杨与本寺住持法明在大殿公开论法，天杨占上风。",
+          "basis_refs": [
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0578"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0579"
+            },
+            {
+              "path": "events/block-0002.json",
+              "record_id": "claim-0580"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

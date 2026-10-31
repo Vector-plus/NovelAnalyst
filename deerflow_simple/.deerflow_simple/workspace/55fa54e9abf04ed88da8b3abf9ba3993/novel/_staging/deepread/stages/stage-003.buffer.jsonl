@@ -1,0 +1,47 @@
+{"buffer_kind": "key_event", "local_ref": "ev-local-2", "chapter_order": 19, "note": "紫霞与孙悟空首次长谈；师承线开启"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-23", "chapter_order": 19, "note": "紫霞点出孙悟空之师为菩提祖师（reported，需与 claim-local-25 一并看）"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-27", "chapter_order": 19, "note": "悟空自述未得真传、真师父在凡世——本 stage 主线悬念"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-21", "chapter_order": 19, "note": "金蝉子的来历（如来二弟子、走火入魔、灵魂坠入尘世）为后续身份线提供 reported 依据"}
+{"buffer_kind": "character_turn", "local_ref": "claim-local-16", "chapter_order": 19, "note": "紫霞主动接近孙悟空并表明不怕他；众神避之而她不避"}
+{"buffer_kind": "faction_move", "local_ref": "claim-local-7", "chapter_order": 19, "note": "阿瑶扬言向王母告状，天庭内部告发线埋点"}
+{"kind": "event", "local_id": "ev-local-1", "note": "银河搅星与天蓬交手，天蓬被二十七次打倒（关键动作场面）", "chapter_order": 20}
+{"kind": "event", "local_id": "ev-local-2", "note": "阿月到场，天蓬口头放下对孙悟空的恨", "chapter_order": 20}
+{"kind": "event", "local_id": "ev-local-3", "note": "紫霞对孙悟空说“因为你有灵魂”", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-14", "note": "天蓬“我不再恨你了”——与 stage 标题“放下旧恨”直接对应", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-20", "note": "紫霞：“因为你有灵魂”——孙悟空认知转折的关键陈述", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-12", "note": "阿月自述星辰银河只为天蓬一人欣赏而造", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-16", "note": "天蓬：“等你看见你的灵魂在另一个人身上的时候”——伏笔陈述", "chapter_order": 20}
+{"kind": "event", "ref_local_id": "ev-local-1", "note": "stage-003 第一个紫霞—孙悟空单独对话场景，含花果山话题与“你会有机会的”承诺性回应", "chapter_order": 21}
+{"kind": "claim", "ref_local_id": "claim-local-8", "note": "紫霞自述反复梦见的无边花园与松鼠身份，并自猜为前世（关键陈述，未解释）", "chapter_order": 21}
+{"kind": "claim", "ref_local_id": "claim-local-7", "note": "孙悟空对紫霞描述花果山的反应：“好像你在那儿住过似的”", "chapter_order": 21}
+{"kind": "claim", "ref_local_id": "claim-local-11", "note": "孙悟空答“你会有机会的”，指向日后回花果山", "chapter_order": 21}
+{"kind": "claim", "ref_local_id": "claim-local-2", "note": "孙悟空戒备反应：被靠近即抓腕出棒（随即收手）", "chapter_order": 21}
+{"kind": "thread", "ref_local_id": "thread-local-1", "note": "紫霞梦境/前世线索，status=open", "chapter_order": 21}
+{"kind": "thread", "ref_local_id": "thread-local-2", "note": "紫霞求带往花果山，status=open", "chapter_order": 21}
+{"kind": "event", "ref": {"local_id": "ev-local-2"}, "note": "花果山真实面貌首次展示（焦土、界石刻字），是紫霞认知转折的关键场景。", "chapter_order": 22}
+{"kind": "event", "ref": {"local_id": "ev-local-3"}, "note": "二郎神以死雁诱出群妖争食撕咬，紫霞目睹；对「妖」的形象构成冲击。", "chapter_order": 22}
+{"kind": "event", "ref": {"local_id": "ev-local-1"}, "note": "孙悟空梦境+惊醒，自问是否愿回花果山，与其身后动机相关。", "chapter_order": 22}
+{"kind": "claim", "ref": {"local_id": "claim-local-12"}, "note": "界石「花果山福地，水帘洞洞天」为花果山身份的可核验物证。", "chapter_order": 22}
+{"kind": "claim", "ref": {"local_id": "claim-local-16"}, "note": "妖族/神族战争与妖精灵气不得超生的说法（二郎神口径），可作为阶段背景。", "chapter_order": 22}
+{"kind": "claim", "ref": {"local_id": "claim-local-14"}, "note": "二郎神口径：礼天敬神之处风调雨顺、众类安乐，暗示天界秩序的价值取向。", "chapter_order": 22}
+{"kind": "entity", "ref": {"path": "characters/char-0064/index.json", "record_id": "char-0064"}, "note": "二郎神本章为主要行动者，safe_through 目前仅到 19，建议本阶段回溯补齐 20—22 记录。", "chapter_order": 22}
+{"kind": "entity", "ref": {"path": "characters/char-0023/index.json", "record_id": "char-0023"}, "note": "紫霞本章完成「听信传说」到「亲见废墟」的认知位移，属阶段内转折点。", "chapter_order": 22}
+{"kind": "character_turn", "chapter_order": 23, "subject_ref": {"path": "characters/char-0002/index.json", "record_id": "char-0002"}, "local_record_ref": "claim-local-8", "note": "孙悟空当面向紫霞陈述做神仙的动机：让命运不握在他人之手；并称'现在我只想救我自己'（claim-local-9）"}
+{"kind": "relationship_shift", "chapter_order": 23, "subject_refs": [{"path": "characters/char-0023/index.json", "record_id": "char-0023"}, {"path": "characters/char-0002/index.json", "record_id": "char-0002"}], "local_record_ref": "claim-local-10", "note": "紫霞当面指其'和那些神佛没什么不同了'，并声言不再来蟠桃园（claim-local-4）；互动事实层面关系明显疏离，不做感情定性"}
+{"kind": "revelation", "chapter_order": 23, "subject_ref": {"path": "characters/char-0002/index.json", "record_id": "char-0002"}, "local_record_ref": "claim-local-20", "note": "'妖'=神仙管不到、能自主自命的灵物；神仙容不得此类存在"}
+{"kind": "open_thread", "chapter_order": 23, "local_record_ref": "claim-local-24", "note": "花果山妖众长生不死却困于战火废墟（claim-local-23、claim-local-24），孙悟空自称救不了他们"}
+{"kind": "event_ref", "local_id": "ev-local-4", "chapter_order": 24, "note": "孙悟空得知蟠桃大会未邀自己并动身赴灵霄宝殿，为 stage-003 高潮（大闹天宫）的直接触发"}
+{"kind": "event_ref", "local_id": "ev-local-3", "chapter_order": 24, "note": "紫霞赠袍被拒，孙悟空自我定位“齐天大圣”的关键证据"}
+{"kind": "event_ref", "local_id": "ev-local-1", "chapter_order": 24, "note": "头颅所述花果山被封禁/监狱化，为对立动因背景证据（口述）"}
+{"kind": "claim_ref", "local_id": "claim-local-c33", "chapter_order": 24, "note": "章末叙述点明大闹天宫当即发生"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "salience": "high", "note": "灵霄殿蟠桃会冲突爆发：王母当殿责罚阿瑶", "chapter_order": 25}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "salience": "high", "note": "阿月为阿瑶求情遭王母威压，太上老君被逼改口", "chapter_order": 25}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "salience": "high", "note": "天蓬当众扶阿月走出灵霄大殿，对抗王母喝止", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "salience": "high", "note": "阿月公开为阿瑶求情的转折点", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "salience": "high", "note": "天蓬与阿月携手无视王母怒吼出殿", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "salience": "medium", "note": "太上老君在威压下改口，殿内话语环境受压证据", "chapter_order": 25}
+{"kind": "event_ref", "local_id": "ev-local-1", "reason": "孙悟空当众认下偷桃并掀翻王母宝座，是阶段19—26内反叛公开化的关键节点。", "chapter_order": 26}
+{"kind": "event_ref", "local_id": "ev-local-2", "reason": "灵霄殿上天将合围、战斗爆发，直接衔接第27章天宫被毁。", "chapter_order": 26}
+{"kind": "claim_ref", "local_id": "claim-local-12", "reason": "孙悟空自报姓名并宣称“从今往后一万年，你们都会记住我的名字”，为其身份确立性台词。", "chapter_order": 26}
+{"kind": "claim_ref", "local_id": "claim-local-21", "reason": "章末出现“齐天大圣孙悟空”称号，为称号首次在原文诗行中出现，后续称号演变需对齐。", "chapter_order": 26}
+{"kind": "claim_ref", "local_id": "claim-local-7", "reason": "孙悟空对阿瑶的护持与宝座让与，人物互动关键证据（不作感情定性）。", "chapter_order": 26}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "idx-rel-char-0059",
+  "kind": "index",
+  "revision": 2,
+  "safe_through": 18,
+  "title": "太上老君 关系入口",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "start": 18,
+        "end": 18
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      }
+    ]
+  },
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "target": {
+        "path": "relationships/pairs/rel-0041.json",
+        "record_id": "rel-0041"
+      },
+      "kind": "relationship",
+      "title": "太上老君×沙悟净",
+      "summary": "与太上老君×沙悟净的关系",
+      "chapter_ranges": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        }
+      ],
+      "tags": [
+        "relationship"
+      ],
+      "safe_through": 18
+    }
+  ]
+}

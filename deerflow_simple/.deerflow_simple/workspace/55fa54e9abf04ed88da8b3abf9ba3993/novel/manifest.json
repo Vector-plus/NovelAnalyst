@@ -1,0 +1,51 @@
+{
+  "author": "今何在",
+  "catalog_ref": {
+    "path": "navigation/catalog.json",
+    "record_id": "idx-catalog"
+  },
+  "chapter_index_ref": {
+    "path": "navigation/chapters/index.json",
+    "record_id": "idx-chapters"
+  },
+  "chapter_ledger_directory": "ledger/chapters/",
+  "coverage_ref": {
+    "path": "quality/coverage.json",
+    "record_id": "idx-coverage"
+  },
+  "id": "manifest",
+  "id_state_ref": {
+    "path": "ledger/id-state.json",
+    "record_id": "id-state"
+  },
+  "issues_ref": {
+    "path": "quality/issues.json",
+    "record_id": "idx-issues"
+  },
+  "kind": "manifest",
+  "language": "zh-CN",
+  "name_index_ref": {
+    "path": "navigation/names/index.json",
+    "record_id": "idx-names"
+  },
+  "novel_id": "wukon",
+  "published_through": 0,
+  "retrieval_guide_path": "retrieval-guide.md",
+  "revision": 1,
+  "safe_through": 0,
+  "schema_version": "2.0",
+  "source_index_ref": {
+    "path": "source/index.json",
+    "record_id": "idx-source"
+  },
+  "source_version": "source-v1",
+  "stage_plan_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-plan"
+  },
+  "task_routes_ref": {
+    "path": "navigation/task-routes.json",
+    "record_id": "task-routes"
+  },
+  "title": "悟空传"
+}

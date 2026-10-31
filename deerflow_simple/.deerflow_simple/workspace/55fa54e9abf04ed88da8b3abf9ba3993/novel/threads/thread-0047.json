@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0047",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 3,
+  "label": "绿衣女孩与唐僧的冲突待收束",
+  "introduced_at": 3,
+  "updates": [
+    {
+      "id": "update-thread-0047-001",
+      "revealed_at": 3,
+      "chapter_ranges": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "category": "open_conflict",
+      "status": "open",
+      "role": "introduced",
+      "summary": "绿衣女孩现出妖相欲吃唐僧，孙悟空已凌空赶到，冲突结果未在本章交代。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1077"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

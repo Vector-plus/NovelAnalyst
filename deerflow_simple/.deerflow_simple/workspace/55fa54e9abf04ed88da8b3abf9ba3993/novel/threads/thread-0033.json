@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0033",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 26,
+  "label": "孙悟空与天庭的正面冲突（大闹天宫）",
+  "introduced_at": 26,
+  "updates": [
+    {
+      "id": "update-thread-0033-001",
+      "revealed_at": 26,
+      "chapter_ranges": [
+        {
+          "start": 26,
+          "end": 26
+        }
+      ],
+      "category": "conflict",
+      "status": "escalating",
+      "role": "anchor",
+      "summary": "本章由蟠桃争议升级为孙悟空在大殿上摄座、斥神、挥棒，与近百天将混战，冲突仍未收束（第27章起延续）。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0820"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0829"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0830"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0836"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

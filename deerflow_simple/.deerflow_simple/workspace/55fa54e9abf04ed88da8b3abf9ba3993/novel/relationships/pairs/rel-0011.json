@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "rel-0011",
+  "kind": "relationship",
+  "revision": 1,
+  "safe_through": 5,
+  "introduced_at": 5,
+  "subjects": [
+    {
+      "path": "characters/char-0002/index.json",
+      "record_id": "char-0002"
+    },
+    {
+      "path": "characters/char-0013/index.json",
+      "record_id": "char-0013"
+    }
+  ],
+  "stages": [
+    {
+      "id": "rel-0011-stage-001",
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "as_of": 5,
+      "revealed_at": 5,
+      "summary": "孙悟空自述第二件事是「杀了四个魔王」，牛魔王为其中之首（西贺牛洲平天大圣）。",
+      "claims": [],
+      "facets": [
+        {
+          "type": "hostility",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "description": "孙悟空自述第二件事是「杀了四个魔王」，牛魔王为其中之首（西贺牛洲平天大圣）。",
+          "basis_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0097"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0098"
+            }
+          ]
+        }
+      ],
+      "attitudes": [],
+      "turning_event_refs": []
+    }
+  ]
+}

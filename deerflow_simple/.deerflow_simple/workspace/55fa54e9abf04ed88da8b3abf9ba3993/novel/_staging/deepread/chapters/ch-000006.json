@@ -1,0 +1,858 @@
+{
+  "chapter_order": 6,
+  "chapter_id": "ch-000006",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-001"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "火堆夜谈：孙悟空归来后一棒打死唐僧",
+      "introduced_at": 6,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 6,
+            "end": 6
+          }
+        ],
+        "revealed_at": 6,
+        "status": "concluded",
+        "story_time": "取经途中某夜，火堆旁等汤时",
+        "summary": "唐僧与沙僧、猪八戒在火堆旁等汤，孙悟空从林中走出。唐僧招呼他坐下，沙僧察觉气氛异常。孙悟空先称自己没杀那女子，随后称女子已告知他本人与队伍每个人的身份，并以棒指唐僧说既知你是谁便不能不杀你，随即一棒击中唐僧头部，唐僧流血倒下。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "recipient"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10",
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-6",
+          "claim-local-8"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-11"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "天雷劈落、森林燃烧，孙悟空纵身离去",
+      "introduced_at": 6,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 6,
+            "end": 6
+          }
+        ],
+        "revealed_at": 6,
+        "status": "concluded",
+        "story_time": "紧接杀唐僧之后",
+        "summary": "孙悟空仰天叫嚣后，一道闪电直劈下来，巨响中整个森林燃烧起来。孙悟空狂笑指着自己脑门叫对方照这里打，雷声随后渐息、天空平静。孙悟空察觉什么后纵身穿入天际不见。唐僧尸身倒在地上已被火燃着，沙僧劝阻猪八戒别笑，猪八戒笑说死了好、大家分行李，同时泪流满面。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0014/index.json",
+              "record_id": "char-0014"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0003/index.json",
+              "record_id": "char-0003"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-14"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-15",
+          "claim-local-17"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-18",
+          "claim-local-19",
+          "claim-local-20",
+          "claim-local-21"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "火堆前，唐僧与另两个徒弟围着架起的锅灶等汤熟，孙悟空从林中慢慢走了出来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "唐僧和另两个徒弟围着架起的锅灶等汤熟"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "唐僧抬头对孙悟空说：“咦？你回来了？请坐。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "你回来了？请坐"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "沙僧皱眉反问师父为何突然这般客气、好似见到生人一般。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "师父怎突然这般客气"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "沙僧说不知为何突然觉得空气中充满可怕的压力，说话时面孔扭曲、满头大汗。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "空气中充满可怕的压力"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "唐僧盯住孙悟空说“一切都对。该来的，他自会来”，并问孙悟空“你说，是吗”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "该来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空说“我没杀她”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "我没杀她"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "唐僧回应孙悟空说“那么漂亮的小姑娘，我就知道你下不去手的”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "我就知道你下不去手的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "孙悟空说那女子“全告诉我了”，说了他是谁，也说了他们每一个人是谁。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "她说了我是谁，也说了我们每一个人是谁"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空用棒指着唐僧说：“我既已知你是谁，便不能不杀你。”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "我既已知你是谁，便不能不杀你"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "唐僧对孙悟空说“我是谁？你杀我之前能不能先告诉我”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "你杀我之前能不能先告诉我"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "孙悟空直跃起来，一棒打在唐僧头上，顿时鲜血飞溅，唐僧倒了下去。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "一棒打在唐僧头上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空哈哈大笑，以第三人称自称“孙悟空，你又犯了一桩天条了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "又犯了一桩天条了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空仰天大叫“我杀了他，如何，有种来杀我呀”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "有种来杀我呀"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "天上突然一道闪电直劈下来，一声巨响后整个森林都燃烧起来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "整个森林都燃烧起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "孙悟空狂笑道“没打中”，用手指着自己的脑门叫对方“打呀，打呀”，讥其不敢、没种。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "没打中，照准这里打"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "天空暗雷滚动却不再见闪电，雷声渐息，天空又平静了下来。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "天空又平静了下来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "孙悟空忽然像察觉了什么，一纵身，穿入天际不见了。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "穿入天际不见了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "唐僧的尸体倒在地上，已被火燃着。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "唐僧的尸体在地上，已被火燃着"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "沙僧对猪八戒说“别笑了，师父都死了”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "别笑了，师父都死了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "猪八戒笑说“死了好，死了好，大家分行李啊”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "大家分行李啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "猪八戒笑着，泪流满面。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "revealed_at": 6,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000006.txt",
+          "chapter_id": "ch-000006",
+          "chapter_order": 6,
+          "locator": null,
+          "anchor": "猪八戒笑着，泪流满面"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "天条",
+      "category": "rule_system",
+      "introduced_at": 6,
+      "notes": "孙悟空大笑时自称“孙悟空，你又犯了一桩天条了”，为本章唯一的规则性提及；具体条文、执行者、后果均未交代。",
+      "certainty": "reported",
+      "evidence_claim_local_ids": [
+        "claim-local-12"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "facet": {
+        "type": "hostility",
+        "note": "本章由同行同伴转为致命敌意行为"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空以棒指着唐僧称既知你是谁便不能不杀你，随即一棒击中唐僧头部致其流血倒地；此前三章内二人以师徒相称（沙僧称唐僧“师父”）。",
+      "source_claim_local_ids": [
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-18"
+      ],
+      "notes": "师徒名分来自角色对话中的称呼（reported），击杀行为本身为原文直述（explicit）；不对双方感情作定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "subject_b": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "facet": {
+        "type": "instruction",
+        "note": "沙僧称唐僧为“师父”，属同行师徒名分"
+      },
+      "certainty": "reported",
+      "summary": "沙僧在对话中称唐僧为“师父”，并在唐僧被杀后说“师父都死了”。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-19"
+      ],
+      "notes": "名分仅见于角色称呼。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "facet": {
+        "type": "cooperation",
+        "note": "同队同行者，本章为旁观/打趣互动"
+      },
+      "certainty": "explicit",
+      "summary": "同处火堆旁的取经队伍中，猪八戒先打趣孙悟空“被打傻了”，孙悟空不发一言、随后跳起；唐僧死后猪八戒仍笑说大家分行李。",
+      "source_claim_local_ids": [
+        "claim-local-1",
+        "claim-local-20"
+      ],
+      "notes": "不判定两人关系性质，仅记互动事实。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "identity_reveal",
+      "status": "open",
+      "role": "advance",
+      "summary": "孙悟空声称林中女子已告知“我是谁”，以及“我们每一个人是谁”，但身份内容本章未揭示。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    },
+    {
+      "category": "conflict",
+      "status": "open",
+      "role": "advance",
+      "summary": "孙悟空一棒击杀唐僧并仰天挑衅，自称又犯一桩天条；闪电劈下引燃森林，但追责/惩罚并未在本章落实。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-14"
+      ]
+    },
+    {
+      "category": "party_fate",
+      "status": "open",
+      "role": "advance",
+      "summary": "唐僧死后队伍动向未定：沙僧劝阻猪八戒发笑，猪八戒说“大家分行李”；孙悟空已穿入天际不见。",
+      "subject_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "source_claim_local_ids": [
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第6章：火堆旁的杀局",
+    "front_matter": {
+      "as_of": 6,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-001"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        },
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-3",
+        "claim-local-4",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-14",
+        "claim-local-17",
+        "claim-local-19",
+        "claim-local-20"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n火堆前，唐僧与另两个徒弟围着架起的锅灶等汤熟，孙悟空从林中慢慢走了出来（[[claim-local-1]]）。唐僧抬头招呼“你回来了？请坐”，沙僧却皱眉反问师父为何突然这般客气、好似见到生人（[[claim-local-3]]），并说不知为何突然觉得空气中充满可怕的压力，面孔扭曲、满头大汗（[[claim-local-4]]）。猪八戒先以“被打傻了”打趣猴子，见无人应和才收笑。\n\n## 关键行动\n\n唐僧盯住孙悟空说“一切都对。该来的，他自会来”，并反问“你说，是吗”（[[claim-local-5]]）。孙悟空先声明“我没杀她”（[[claim-local-6]]），唐僧随即答“那么漂亮的小姑娘，我就知道你下不去手的”。\n\n## 转折与新信息\n\n孙悟空说那女子“全告诉我了”——“她说了我是谁，也说了我们每一个人是谁”（[[claim-local-8]]）。他随即用棒指着唐僧：“我既已知你是谁，便不能不杀你”（[[claim-local-9]]）。唐僧以“我是谁？你杀我之前能不能先告诉我”回应，未获答复。同一片段中，猪八戒继续以“我其实并不是一头猪”作玩笑。\n\n## 本章结果\n\n孙悟空直跃起来，一棒打在唐僧头上，鲜血飞溅，唐僧倒下（[[claim-local-11]]）。他继而哈哈大笑，以第三人称自称“孙悟空，你又犯了一桩天条了”（[[claim-local-12]]），并仰天叫嚣“我杀了他，如何，有种来杀我呀”。天上随即一道闪电直劈下来，巨响之后整个森林都燃烧起来（[[claim-local-14]]）；孙悟空狂笑指着自己脑门叫对方照这里打，雷声随后渐息、天空平静，他像察觉了什么，一纵身穿入天际不见了（[[claim-local-17]]）。唐僧的尸体倒在地上已被火燃着；沙僧对仍在发笑的猪八戒说“别笑了，师父都死了”（[[claim-local-19]]），猪八戒则笑说“死了好，死了好，大家分行李啊”（[[claim-local-20]]），笑着泪流满面。\n\n## 未决问题与补读入口\n\n- 女子究竟告知了怎样的“我是谁”“我们每一个人是谁”，本章未写出具体内容，只作为孙悟空动手的理由被引用（[[claim-local-8]]、[[claim-local-9]]）。\n- 孙悟空自称“又犯了一桩天条”，天条内容、执行者与追责结果均未落地；闪电劈下后雷声即息（[[claim-local-12]]、[[claim-local-14]]）。\n- 孙悟空离去的方向与原因（“忽然像察觉了什么”）未交代（[[claim-local-17]]）。\n- 唐僧身死之后，沙僧与猪八戒何去何从、猪八戒“分行李”之言是否落实，均为待补读点（[[claim-local-19]]、[[claim-local-20]]）。"
+  },
+  "stage_buffer_appends": [
+    {
+      "ref_local_id": "ev-local-1",
+      "ref_type": "event",
+      "chapter_order": 6,
+      "note": "阶段内关键转折：孙悟空以“既知你是谁”为由击杀唐僧",
+      "local_id_alias": "ev-local-1"
+    },
+    {
+      "ref_local_id": "ev-local-2",
+      "ref_type": "event",
+      "chapter_order": 6,
+      "note": "闪电引燃森林、孙悟空纵身离去，队伍解体状态开始"
+    },
+    {
+      "ref_local_id": "claim-local-11",
+      "ref_type": "claim",
+      "chapter_order": 6,
+      "note": "击杀的直述证据（explicit），可作为身份/立场变化锚点"
+    },
+    {
+      "ref_local_id": "claim-local-8",
+      "ref_type": "claim",
+      "chapter_order": 6,
+      "note": "“她说了我是谁，也说了我们每一个人是谁”——身份揭示线索的唯一来源，仍为角色自述"
+    },
+    {
+      "ref_local_id": "claim-local-12",
+      "ref_type": "claim",
+      "chapter_order": 6,
+      "note": "“又犯了一桩天条”——暗示此前已有前科，属角色自述"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "description": "本章多次出现“她/那女子/小姑娘”，即前章林中女子，但章内无姓名或可解析代号，resolve_name 返回 no_match，无法软链接到既有实体或建立稳定候选。",
+      "evidence_claim_local_ids": [
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "suggested_action": "待后文给出该女子姓名/称谓后再做 identity_link 判定，暂不合并。"
+    },
+    {
+      "category": "missing_evidence",
+      "description": "孙悟空称已被告知“我是谁”与“我们每一个人是谁”，但本章未写出任何具体身份内容，击杀动机只能停在角色自述层面。",
+      "evidence_claim_local_ids": [
+        "claim-local-8",
+        "claim-local-9"
+      ]
+    },
+    {
+      "category": "source_locator",
+      "description": "第5段附近原文存在乱码字符（“他自焸�� al�他自�会来”），涉及唐僧台词“该来的，他自会来”，anchor 已选取不含乱码的短片段“该来的”。",
+      "evidence_claim_local_ids": [
+        "claim-local-5"
+      ]
+    },
+    {
+      "category": "fact_conflict",
+      "description": "本章叙述唐僧倒地流血并被火燃着，猪八戒亦称“师父都死了”，但唐僧在后文段落仍有活动记录，需在后续阶段核对是叙述层面的事实分歧还是另有交代。",
+      "evidence_claim_local_ids": [
+        "claim-local-11",
+        "claim-local-18"
+      ]
+    }
+  ],
+  "warnings": [
+    "本章原文章節標題顯示為“．”，疑似源檔案標題缺失；章節標題沿用自擬“火堆旁的殺局”，如需正式標題請以源檔為準。",
+    "第5段唐僧台詞處原文有亂碼，已避免將亂碼片段用作 anchor。",
+    "章首“五百年，很漫長嗎？沒有記憶能穿透它。”為敘述性題記式語句，歸屬與敘述者不明確，未作為 Claim 提取，僅在正文概述中不涉及。",
+    "身份揭示（“我是誰”）全部出自孫悟空自述，已標記 reported，不得升級為 explicit。",
+    "未對唐僧與孫悟空、沙僧與豬八戒等關係作感情定性，僅記錄互動事實。"
+  ]
+}

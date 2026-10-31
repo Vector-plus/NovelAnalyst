@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0055",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 22,
+  "label": "花果山（被战火摧毁后的样貌）",
+  "category": "other",
+  "introduced_at": 22,
+  "updates": [
+    {
+      "id": "update-setting-0055-001",
+      "revealed_at": 22,
+      "chapter_ranges": [
+        {
+          "start": 22,
+          "end": 22
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0738"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0739"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

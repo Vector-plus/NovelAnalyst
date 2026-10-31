@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "setting-0097",
+  "kind": "setting",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "五岳山（孙悟空称被罚关押之地）",
+  "category": "other",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-setting-0097-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "claims": [],
+      "definition_refs": [],
+      "condition_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1105"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1106"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-1107"
+        }
+      ],
+      "limitation_refs": [],
+      "cost_refs": [],
+      "exception_refs": [],
+      "change_refs": [],
+      "demonstration_event_refs": [],
+      "related_event_refs": [],
+      "links": []
+    }
+  ]
+}

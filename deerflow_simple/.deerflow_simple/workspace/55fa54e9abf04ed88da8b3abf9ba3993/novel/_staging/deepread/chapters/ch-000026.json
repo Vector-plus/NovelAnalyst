@@ -1,0 +1,788 @@
+{
+  "chapter_order": 26,
+  "chapter_id": "ch-000026",
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-003"
+  },
+  "new_events": [
+    {
+      "local_id": "ev-local-1",
+      "title": "孙悟空闯入灵霄大殿、认下偷桃并掀翻王母宝座",
+      "introduced_at": 26,
+      "update": {
+        "local_id": "update-local-1",
+        "chapter_ranges": [
+          {
+            "start": 26,
+            "end": 26
+          }
+        ],
+        "revealed_at": 26,
+        "status": "completed",
+        "story_time": null,
+        "summary": "大殿朝会中王母气得发抖出声（被巨灵神当作苍蝇），殿门被撞开，阿瑶与孙悟空先后入殿。孙悟空当众宣称桃子是他吃的，索要椅子，踢飞王母命人搬来的小矮凳；王母喝问其是否造反，孙悟空扬手把王母宝座掀翻并移到阿瑶面前让她坐，又讥讽王母为“变色大白薯”，阿瑶随之大笑失控。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0021/index.json",
+              "record_id": "char-0021"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "affected"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0061/index.json",
+              "record_id": "char-0061"
+            },
+            "role": "witness"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0070/index.json",
+              "record_id": "char-0070"
+            },
+            "role": "witness"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2",
+          "claim-local-3",
+          "claim-local-4",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-7",
+          "claim-local-8",
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-1",
+          "claim-local-2"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-3",
+          "claim-local-5",
+          "claim-local-6",
+          "claim-local-8"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-9",
+          "claim-local-10"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    },
+    {
+      "local_id": "ev-local-2",
+      "title": "灵霄殿上天将合围孙悟空，双方开战",
+      "introduced_at": 26,
+      "update": {
+        "local_id": "update-local-2",
+        "chapter_ranges": [
+          {
+            "start": 26,
+            "end": 26
+          }
+        ],
+        "revealed_at": 26,
+        "status": "ongoing",
+        "story_time": null,
+        "summary": "孙悟空骂王母为妖猴回应后自报姓名，纵身挥棒冲向诸天众神；一只琉璃杯飞来被他横棒击碎，四大天王一齐拥上，持国、增长迎战，广目、多闻拖着王母撤离；二十八宿、九曜星官、十二元辰、五方揭谛掀桌齐冲，近百天将无人能近，被击飞的神撞碎殿宇。",
+        "participants": [
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            },
+            "role": "initiator"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0071/index.json",
+              "record_id": "char-0071"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0072/index.json",
+              "record_id": "char-0072"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0070/index.json",
+              "record_id": "char-0070"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0073/index.json",
+              "record_id": "char-0073"
+            },
+            "role": "participant"
+          },
+          {
+            "entity_ref_or_candidate": {
+              "path": "characters/char-0022/index.json",
+              "record_id": "char-0022"
+            },
+            "role": "affected"
+          }
+        ],
+        "new_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-12",
+          "claim-local-13",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-16",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "trigger_claim_local_ids": [
+          "claim-local-11",
+          "claim-local-13"
+        ],
+        "action_claim_local_ids": [
+          "claim-local-12",
+          "claim-local-14",
+          "claim-local-15",
+          "claim-local-17",
+          "claim-local-18"
+        ],
+        "outcome_claim_local_ids": [
+          "claim-local-16",
+          "claim-local-19"
+        ],
+        "reused_claim_refs": [],
+        "related_event_refs": []
+      }
+    }
+  ],
+  "appended_updates_to_existing_events": [],
+  "new_claims": [
+    {
+      "local_id": "claim-local-1",
+      "text": "天宫大殿中传来嗡嗡声，巨灵神问“哪儿来的苍蝇”，坐在他旁边的广目天王忙把一个桃子塞入他嘴里；那声音实为王母气得浑身打抖发出。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "那声音却是王母发出来的"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-2",
+      "text": "大殿门刚关上又被砰的一声撞开，进来的却是阿瑶，她身后走出孙悟空。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "这回进来的，却是阿瑶。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-3",
+      "text": "孙悟空当众说“桃子是俺老孙吃了，怎么了？不行？”，并要求给他搬个椅子来。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "桃子是俺老孙吃了"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-4",
+      "text": "王母说“搬给他”，一个小矮凳被搬了上来，摆在大殿的一角；孙悟空一脚把凳子踢飞。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "一个小矮凳被搬了上来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-5",
+      "text": "王母喝问孙悟空“你想造反么？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "你想造反么？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-6",
+      "text": "孙悟空一扬手，王母的宝座飞了起来，将王母掀个大跟头，越过众神飞到孙悟空面前。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "只见王母的宝座飞了起来"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-7",
+      "text": "孙悟空把飞来的宝座移到阿瑶面前让给她坐，说“让给受伤小姑娘坐才对啊”；阿瑶脸都白了，像怕那椅子会吃人一样不坐。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "让给受伤小姑娘坐才对啊"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-8",
+      "text": "王母笑着对阿瑶说“阿瑶，你坐啊，你为什么不坐呢？”",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "你为什么不坐呢？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-9",
+      "text": "孙悟空左右张望，问“哪儿来的鸟叫唤？”，又称“那边那个会变色的东西……好像个大白薯”，讥指王母。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "哪儿来的鸟叫唤？"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-10",
+      "text": "阿瑶忍不住笑出声，说“变色大白薯，哈哈哈哈，变色大白薯，王母娘娘是变色大白薯”；她笑到滚倒地上、用手捶地、眼泪哗哗流下，最后把头埋在地上呜咽不停。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "王母娘娘是变色大白薯"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-11",
+      "text": "王母爆发，骂孙悟空“你……这个妖猴！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "你……这个妖猴！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-12",
+      "text": "孙悟空说“多谢，我就是那只妖猴”，并声明自己的名字叫孙悟空，还说“从今往后一万年，你们都会记住我的名字！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "从今往后一万年，你们都会记住我的名字！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-13",
+      "text": "孙悟空纵身而起，挥棒向诸天众神；王母眼睁睁看着棒子飞来呆在那里，没人来得及出手相救。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "他纵身而起，挥棒向诸天众神。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-14",
+      "text": "一物直飞而来，孙悟空横挥棒将它击得粉碎，碎片散落满天满地，该物是一个琉璃杯。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "却是一个琉璃杯"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-15",
+      "text": "四大天王一齐拥上，持国、增长迎住孙悟空，广目、多闻拖着王母撤离。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "四大天王一齐拥上"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-16",
+      "text": "孙悟空以一敌二（持国、增长）如耍子一般。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "孙悟空以一敌二，如耍子一般。"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-17",
+      "text": "二十八宿、九曜星官、十二元辰、五方揭谛掀了桌子，喊“砍他”一齐冲上。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "那二十八宿、九曜星官、十二元辰、五方揭谛"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-18",
+      "text": "孙悟空大笑说“天上有多少神仙，全数来吧！让我杀个痛快！”。",
+      "certainty": "reported",
+      "attributed_to_candidate_or_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "让我杀个痛快！"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-19",
+      "text": "孙悟空将棒舞得金光四射，近百天将无人能近；不时有神惨叫被击飞出阵，撞到诸天殿上把殿宇撞得粉碎。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "把那殿宇撞个粉碎"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-20",
+      "text": "本章开头与章中各有一段第一人称诗体独白（“我爱你。我却总是沉默”“当我乞求时，你傲慢冷笑”等），原文未指明说话者。",
+      "certainty": "uncertain",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "这是我的许诺，寂静无声"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    },
+    {
+      "local_id": "claim-local-21",
+      "text": "章末诗以“从今往后一万年，你们都会记住我的名字，齐天大圣孙悟空”收束。",
+      "certainty": "explicit",
+      "attributed_to_candidate_or_ref": null,
+      "revealed_at": 26,
+      "source_refs": [
+        {
+          "path": "source/vol-001/ch-000026.txt",
+          "chapter_id": "ch-000026",
+          "chapter_order": 26,
+          "locator": null,
+          "anchor": "齐天大圣孙悟空"
+        }
+      ],
+      "basis_refs": [],
+      "supersedes_refs": []
+    }
+  ],
+  "new_character_candidates": [],
+  "new_faction_candidates": [],
+  "new_setting_candidates": [
+    {
+      "label": "诸天殿",
+      "category": "location",
+      "introduced_at": 26,
+      "notes": "本章叙述中被击飞的天将撞上并撞碎的殿宇名称，与灵霄大殿的关系原文未说明。",
+      "certainty": "explicit",
+      "evidence_claim_local_ids": [
+        "claim-local-19"
+      ]
+    }
+  ],
+  "identity_link_candidates": [],
+  "relationship_candidates": [
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空当众认下偷桃、踢飞王母所赐座凳、以法力掀翻王母宝座并讥其为“变色大白薯”，随后挥棒冲向王母及诸天众神；王母骂其“妖猴”，被广目、多闻拖走撤离。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-9",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-15"
+      ],
+      "notes": "本章为双方冲突的正面爆发。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "other"
+      },
+      "certainty": "explicit",
+      "summary": "孙悟空闯入大殿后把王母的宝座移到阿瑶面前，让她“受伤小姑娘”坐；阿瑶由脸白不敢坐到忍不住大笑王母是“变色大白薯”，笑到滚地捶地流泪。",
+      "source_claim_local_ids": [
+        "claim-local-2",
+        "claim-local-7",
+        "claim-local-10"
+      ],
+      "notes": "仅记录互动事实，不作感情定性。"
+    },
+    {
+      "subject_a": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "subject_b": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "facet": {
+        "type": "hostility"
+      },
+      "certainty": "inferred",
+      "summary": "王母在殿上笑着说“阿瑶，你坐啊，你为什么不坐呢？”，阿瑶脸都白了不敢坐。",
+      "source_claim_local_ids": [
+        "claim-local-7",
+        "claim-local-8"
+      ],
+      "notes": "王母言语的压迫性与阿瑶的恐惧由行为与表情推得，原文未明言敌意；敌对定性为推断，需结合第25章处置情节判断。"
+    }
+  ],
+  "thread_update_candidates": [
+    {
+      "category": "main_plot",
+      "status": "escalating",
+      "role": "turning_point",
+      "label": "大闹灵霄殿：孙悟空与天庭正式开战",
+      "summary": "第26章孙悟空现身灵霄大殿认下偷桃、掀翻王母宝座、自报姓名并向诸天众神挥棒，四大天王及二十八宿等天将合围，战斗爆发。",
+      "source_claim_local_ids": [
+        "claim-local-3",
+        "claim-local-6",
+        "claim-local-12",
+        "claim-local-15",
+        "claim-local-19"
+      ],
+      "notes": "承第25章王母追查蟠桃一事、阿瑶被拽上殿；本章为阶段（19—26）收尾并直接引出第27章天宫被毁的大战场面。"
+    }
+  ],
+  "chapter_summary_markdown": {
+    "title": "第26章：妖猴入殿·灵霄殿开战（原题“．”）",
+    "front_matter": {
+      "as_of": 26,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-003"
+      },
+      "subject_refs_or_candidates": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        },
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        },
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        },
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        }
+      ],
+      "record_refs_or_local_ids": [
+        "ev-local-1",
+        "ev-local-2",
+        "claim-local-1",
+        "claim-local-2",
+        "claim-local-3",
+        "claim-local-5",
+        "claim-local-6",
+        "claim-local-7",
+        "claim-local-8",
+        "claim-local-9",
+        "claim-local-10",
+        "claim-local-11",
+        "claim-local-12",
+        "claim-local-13",
+        "claim-local-14",
+        "claim-local-15",
+        "claim-local-16",
+        "claim-local-17",
+        "claim-local-18",
+        "claim-local-19",
+        "claim-local-20",
+        "claim-local-21"
+      ]
+    },
+    "body_markdown": "## 开始局面\n\n大殿朝会进行中，天宫里突然传来嗡嗡声。巨灵神问“哪儿来的苍蝇”，坐在他旁边的广目天王忙把一个桃子塞进他嘴里——那声音其实是王母气得浑身打抖发出的（[[claim-local-1]]）。\n\n殿门刚关上又被砰的一声撞开，进来的是阿瑶，她身后走出孙悟空（[[claim-local-2]]）。此前一章王母正追查“谁摘来的桃子”，阿瑶被拽上大殿。\n\n## 关键行动\n\n- 孙悟空当众宣称“桃子是俺老孙吃了，怎么了？不行？”，并要求搬个椅子来（[[claim-local-3]]）；王母说“搬给他”，结果搬来的是摆在大殿一角的小矮凳，被孙悟空一脚踢飞（[[claim-local-4]]）。\n- 王母喝问“你想造反么？”（[[claim-local-5]]）。孙悟空一扬手，王母的宝座飞起，将王母掀个大跟头，越过众神落到他面前（[[claim-local-6]]）。\n- 孙悟空不坐，反把宝座移到阿瑶面前，说“让给受伤小姑娘坐才对啊”；阿瑶脸都白了，像怕那椅子会吃人一样不坐（[[claim-local-7]]）。王母笑着劝她坐：“阿瑶，你坐啊，你为什么不坐呢？”（[[claim-local-8]]）\n- 孙悟空左右张望，问“哪儿来的鸟叫唤？”，又说“那边那个会变色的东西……好像个大白薯”，讥指王母（[[claim-local-9]]）。\n- 阿瑶忍不住笑出声，喊“变色大白薯……王母娘娘是变色大白薯”，笑到滚倒地上、捶地流泪，最后把头埋在地上呜咽不停（[[claim-local-10]]）。\n- 王母爆发骂“你……这个妖猴！”（[[claim-local-11]]）；孙悟空答“多谢，我就是那只妖猴”，声明自己名字叫孙悟空，并称“从今往后一万年，你们都会记住我的名字！”（[[claim-local-12]]）。\n\n## 转折与新信息\n\n- 孙悟空纵身而起，挥棒向诸天众神；王母呆立当场，已无人来得及出手相救（[[claim-local-13]]）。\n- 一只琉璃杯直飞而来，被孙悟空横棒击得粉碎，碎片溅满天地（[[claim-local-14]]）。\n- 四大天王一齐拥上：持国、增长迎住孙悟空，广目、多闻拖着王母撤离（[[claim-local-15]]）；孙悟空以一敌二如耍子一般（[[claim-local-16]]）。\n- 二十八宿、九曜星官、十二元辰、五方揭谛掀了桌子齐冲上去（[[claim-local-17]]）；孙悟空大笑“天上有多少神仙，全数来吧！让我杀个痛快！”（[[claim-local-18]]）。\n- 他舞棒金光四射，近百天将无人能近，被击飞的神撞到诸天殿上把殿宇撞碎（[[claim-local-19]]）。\n- 本章开头与章中各有一段第一人称诗体独白（“我爱你。我却总是沉默”“当我乞求时，你傲慢冷笑”等），原文未指明说话者（[[claim-local-20]]）；章末诗以“从今往后一万年，你们都会记住我的名字，齐天大圣孙悟空”收束（[[claim-local-21]]）。\n\n## 本章结果\n\n孙悟空在灵霄大殿公开认下偷桃、掀翻王母宝座、自报姓名并向诸天众神挥棒，四大天王与二十八宿等天将合围，王母被广目、多闻拖离，双方战斗全面展开（[[ev-local-1]]、[[ev-local-2]]）。下一章开篇即是大火焚烧天宫、殿宇接连崩碎的场景。\n\n## 未决问题与补读入口\n\n- 孙悟空如何从蟠桃园事态走到直闯灵霄殿，本章仅以“殿门被撞开”接入，过程需回看第25章末段。\n- 阿瑶在本章由被追查者变为被孙悟空护在身前的人，她此前“受伤”的由来与本章王母“你为什么不坐”的用意，需回看第24—25章。\n- 章首、章中两段第一人称独白的说话者身份原文未指明，不作推断。\n- 阿瑶笑至失控一节，原文只描写笑声、捶地与呜咽，其成因本章未直接说明。"
+  },
+  "stage_buffer_appends": [
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-1",
+      "reason": "孙悟空当众认下偷桃并掀翻王母宝座，是阶段19—26内反叛公开化的关键节点。"
+    },
+    {
+      "kind": "event_ref",
+      "local_id": "ev-local-2",
+      "reason": "灵霄殿上天将合围、战斗爆发，直接衔接第27章天宫被毁。"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-12",
+      "reason": "孙悟空自报姓名并宣称“从今往后一万年，你们都会记住我的名字”，为其身份确立性台词。"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-21",
+      "reason": "章末出现“齐天大圣孙悟空”称号，为称号首次在原文诗行中出现，后续称号演变需对齐。"
+    },
+    {
+      "kind": "claim_ref",
+      "local_id": "claim-local-7",
+      "reason": "孙悟空对阿瑶的护持与宝座让与，人物互动关键证据（不作感情定性）。"
+    }
+  ],
+  "issue_candidates": [
+    {
+      "category": "identity_ambiguity",
+      "summary": "本章开头及中段的第一人称诗体独白（“我爱你。我却总是沉默”“当我乞求时，你傲慢冷笑”）未指明说话者，可能与孙悟空相关，也可能为叙述者旁白。",
+      "evidence_claim_local_ids": [
+        "claim-local-20"
+      ],
+      "severity": "low"
+    },
+    {
+      "category": "missing_evidence",
+      "summary": "孙悟空从蟠桃园/被追查事态到“撞开殿门”直入灵霄殿的过程，本章未叙述，存在叙事跳跃。",
+      "evidence_claim_local_ids": [
+        "claim-local-2"
+      ],
+      "severity": "low"
+    }
+  ],
+  "warnings": [
+    "本章卷标为 vol-001（read_source 元信息显示），但任务预填路径格式为 source/vol-XXX/ch-NNNNNN.txt，source_refs 中已按实际卷号 vol-001 填写。",
+    "『诸天殿』与既有『灵霄大殿』是否为同一殿宇，原文未说明，仅登记为候选设定，未合并。",
+    "章末诗句出现『齐天大圣孙悟空』称号，属叙述文本而非角色对话，已单列 claim-local-21，未与既有身份结论合并。"
+  ]
+}

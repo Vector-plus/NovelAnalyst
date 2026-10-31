@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0023",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 19,
+  "label": "蟠桃园失桃与阿瑶的告状威胁",
+  "introduced_at": 19,
+  "updates": [
+    {
+      "id": "update-thread-0023-001",
+      "revealed_at": 19,
+      "chapter_ranges": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "category": "conflict",
+      "status": "open",
+      "role": "setup",
+      "summary": "孙悟空吃光阿瑶等人采的蟠桃并用定身法定住她，阿瑶说没采到蟠桃回去会被王母娘娘打死，威胁要去告状；悟空自报名号后阿瑶逃跑，此事尚未了结。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0668"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0670"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0672"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-0674"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}

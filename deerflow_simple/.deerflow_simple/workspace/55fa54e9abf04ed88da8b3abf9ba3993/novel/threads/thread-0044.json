@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "novel_id": "wukon",
+  "id": "thread-0044",
+  "kind": "story_thread",
+  "revision": 1,
+  "safe_through": 5,
+  "label": "林中女子与孙悟空的旧识之谜",
+  "introduced_at": 5,
+  "updates": [
+    {
+      "id": "update-thread-0044-001",
+      "revealed_at": 5,
+      "chapter_ranges": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "category": "mystery",
+      "status": "open",
+      "role": "setup",
+      "summary": "女子坚称与孙悟空在蟠桃树上初次见面、等了他几万年，孙悟空完全否认；她欲说出其身份时被打断，并提及「逃不出他的掌心」。",
+      "claims": [],
+      "claim_refs": [
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0957"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0964"
+        },
+        {
+          "path": "events/block-0001.json",
+          "record_id": "claim-0965"
+        }
+      ],
+      "event_refs": [],
+      "resolution_refs": []
+    }
+  ]
+}
