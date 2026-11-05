@@ -1,8 +1,13 @@
 import type {
   CreateSpaceInput,
   CreateTaskInput,
+  HistoryMessage,
   ResultReadResult,
   ReviewDecision,
+  Session,
+  SessionCreateInput,
+  SessionCreateResult,
+  SessionDetail,
   SourceReadResult,
   Space,
   Task,
@@ -121,6 +126,34 @@ export async function deleteResult(id: string, filename: string): Promise<void> 
 
 export async function cancelRun(threadId: string, runId: string): Promise<void> {
   await request<void>(`/api/threads/${threadId}/runs/${runId}/cancel`, { method: 'POST' });
+}
+
+export async function getThreadHistory(threadId: string): Promise<HistoryMessage[]> {
+  return request<HistoryMessage[]>(`/api/threads/${threadId}/history`);
+}
+
+// ---------------------------------------------------------------------------
+// 会话（session）+ 线程（thread），对应后端 /api/sessions
+// ---------------------------------------------------------------------------
+
+export async function listSessions(): Promise<Session[]> {
+  return request<Session[]>('/api/sessions');
+}
+
+export async function createSession(input: SessionCreateInput): Promise<SessionCreateResult> {
+  return request<SessionCreateResult>('/api/sessions', {
+    method: 'POST',
+    headers: JSON_HEADERS,
+    body: JSON.stringify(input),
+  });
+}
+
+export async function getSession(sessionId: string): Promise<SessionDetail> {
+  return request<SessionDetail>(`/api/sessions/${sessionId}`);
+}
+
+export async function deleteSession(sessionId: string): Promise<void> {
+  await request<void>(`/api/sessions/${sessionId}`, { method: 'DELETE' });
 }
 
 // ---------------------------------------------------------------------------

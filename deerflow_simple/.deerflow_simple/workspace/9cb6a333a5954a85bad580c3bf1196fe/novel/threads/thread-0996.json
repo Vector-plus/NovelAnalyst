@@ -1,0 +1,30 @@
+{
+  "id": "thread-0996",
+  "introduced_at": 945,
+  "kind": "story_thread",
+  "label": "赵欣梦请求王林加固封印（以千年元阴为报）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 945,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 945,
+          "start": 945
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0996-001",
+      "resolution_refs": [],
+      "revealed_at": 945,
+      "role": "赵欣梦提出的交易性请求，王林仅答‘会考虑’，尚未应允",
+      "status": "open",
+      "summary": "赵欣梦自称修道千年仍处子之身，愿以千年元阴换取王林帮她加固封印；王林顾虑此事不为天运子所喜而犹豫；赵欣梦离去后暗中跟随王林。"
+    }
+  ]
+}

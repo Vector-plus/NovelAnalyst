@@ -1,14 +1,324 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0001.json",
+          "record_id": "thread-0001"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 1,
+      "summary": "碧玉念珠中的深紫圆珠（第1章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0001.json",
+        "record_id": "thread-0001"
+      },
+      "title": "碧玉念珠中的深紫圆珠"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0002.json",
+          "record_id": "thread-0002"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 1,
+      "summary": "草庙老僧的身份（第1章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0002.json",
+        "record_id": "thread-0002"
+      },
+      "title": "草庙老僧的身份"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0003.json",
+          "record_id": "thread-0003"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 1,
+      "summary": "青云门与草庙村的关系（第1章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0003.json",
+        "record_id": "thread-0003"
+      },
+      "title": "青云门与草庙村的关系"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0004.json",
+          "record_id": "thread-0004"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 2,
+      "summary": "黑衣人夜袭草庙、强索噬血珠（第2章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0004.json",
+        "record_id": "thread-0004"
+      },
+      "title": "黑衣人夜袭草庙、强索噬血珠"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0005.json",
+          "record_id": "thread-0005"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 3,
+      "summary": "普智的佛道互参长生之愿与托付张小凡（第3章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0005.json",
+        "record_id": "thread-0005"
+      },
+      "title": "普智的佛道互参长生之愿与托付张小凡"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0006.json",
+          "record_id": "thread-0006"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 3,
+      "summary": "黑衣人未除、扬言将折返杀人灭口（第3章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0006.json",
+        "record_id": "thread-0006"
+      },
+      "title": "黑衣人未除、扬言将折返杀人灭口"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0007.json",
+          "record_id": "thread-0007"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "草庙村惨案调查（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0007.json",
+        "record_id": "thread-0007"
+      },
+      "title": "草庙村惨案调查"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0008.json",
+          "record_id": "thread-0008"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "两名孩子被移至松树下的原因（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0008.json",
+        "record_id": "thread-0008"
+      },
+      "title": "两名孩子被移至松树下的原因"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0009.json",
+          "record_id": "thread-0009"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "王二叔的“鬼”之言（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0009.json",
+        "record_id": "thread-0009"
+      },
+      "title": "王二叔的“鬼”之言"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0010.json",
+          "record_id": "thread-0010"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 5,
+      "summary": "张小凡入大竹峰门下（第5章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0010.json",
+        "record_id": "thread-0010"
+      },
+      "title": "张小凡入大竹峰门下"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0011.json",
+          "record_id": "thread-0011"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 6,
+      "summary": "七脉会武（约五年后举行）（第6章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0011.json",
+        "record_id": "thread-0011"
+      },
+      "title": "七脉会武（约五年后举行）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0012.json",
+          "record_id": "thread-0012"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 6,
+      "summary": "张小凡的大竹峰入门功课（每日砍竹、门规道法）（第6章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0012.json",
+        "record_id": "thread-0012"
+      },
+      "title": "张小凡的大竹峰入门功课（每日砍竹、门规道法）"
+    }
+  ],
   "id": "idx-threads",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 13,
+  "safe_through": 6,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 3,
+        "start": 1
+      },
+      {
+        "end": 6,
+        "start": 5
+      }
+    ],
     "subject_refs": []
   },
   "title": "故事线"

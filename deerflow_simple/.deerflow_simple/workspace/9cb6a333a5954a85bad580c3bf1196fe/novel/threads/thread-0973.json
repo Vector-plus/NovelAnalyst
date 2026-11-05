@@ -1,0 +1,30 @@
+{
+  "id": "thread-0973",
+  "introduced_at": 921,
+  "kind": "story_thread",
+  "label": "虚无之界压制元力",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 921,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "setting",
+      "chapter_ranges": [
+        {
+          "end": 921,
+          "start": 921
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0973-001",
+      "resolution_refs": [],
+      "revealed_at": 921,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

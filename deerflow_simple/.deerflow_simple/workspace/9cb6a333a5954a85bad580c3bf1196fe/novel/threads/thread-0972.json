@@ -1,0 +1,30 @@
+{
+  "id": "thread-0972",
+  "introduced_at": 921,
+  "kind": "story_thread",
+  "label": "极贤天为古神一星所化的古神傀儡",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 921,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 921,
+          "start": 921
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0972-001",
+      "resolution_refs": [],
+      "revealed_at": 921,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

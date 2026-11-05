@@ -1,0 +1,146 @@
+{"local_id": "ev-local-1", "kind": "event", "reason": "阶段开局：王林脱离虚无之地、回归星空的起点状态", "chapter_order": 929}
+{"local_id": "ev-local-2", "kind": "event", "reason": "清水现身并展示杀戮成果，牵出杀域界追杀线", "chapter_order": 929}
+{"local_id": "ev-local-3", "kind": "event", "reason": "玄宝上人元神被搜魂、灵智尽失，产生新线索（清水据此提出取物计划）", "chapter_order": 929}
+{"local_id": "ev-local-4", "kind": "event", "reason": "十日之约：后续剧情的关键时间节点与二人行动绑定", "chapter_order": 929}
+{"local_id": "ev-local-5", "kind": "event", "reason": "王林抵达暗月星杏花村，故人骨灰线索落地", "chapter_order": 929}
+{"local_id": "claim-local-17", "kind": "claim", "reason": "清水获得线索的关键陈述", "chapter_order": 929}
+{"local_id": "claim-local-21", "kind": "claim", "reason": "王林十天内两件事未明，属阶段内需追踪的悬念", "chapter_order": 929}
+{"local_id": "claim-local-29", "kind": "claim", "reason": "故人骨灰嘱托原话，跨章回收的核心目标", "chapter_order": 929}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 930, "why": "王林与烈云子完成条件交换：以「资格」换得一枚罗浮血球，并取得观看战字帖第二幅的机会，是本阶段起点上王林地位变化的关键证据。"}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 930, "why": "战字帖第二幅的考验开始，结果跨章延续至931章，属阶段内的连续性事件锚点。"}
+{"local_id": "claim-local-18", "kind": "claim", "chapter_order": 930, "why": "王林仅以一声低喝与目光便令许霆血液逆转、仙元将崩，是其修为层级提升后的首次当众实力展示。"}
+{"local_id": "claim-local-20", "kind": "claim", "chapter_order": 930, "why": "叙述明示王林此行目的是敲山震虎、取得谈条件的资格，为其后续与烈云子交涉的动机定锚。"}
+{"local_id": "ev-local-1", "kind": "event", "chapter_order": 930, "why": "孙泰骨灰归乡之诺已践、恩怨了结，是延续多章的一条因果线的收束点。"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 931, "reason": "王林首次在烈云子面前全开战字第二帖并令兽灵畏服，是阶段内的能力展示与关系转折点"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 931, "reason": "战字六帖与传人条件的核心陈述，是后续阶段的关键线索"}
+{"kind": "claim", "local_id": "claim-local-24", "chapter_order": 931, "reason": "烈云子把先祖失踪与“传承”相连，牵动战家线"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 931, "reason": "战帖会吸走试者本源，涉及战帖机制的重要证据"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 931, "reason": "本章叙述点明王林为五星王族古神"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "烈云子-王林就第三幅战字帖的交换与许诺，含烈云子私下杀意", "chapter_order": 932}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "note": "烈云子判定清水将死、欲待其死后处置许木的关键陈述", "chapter_order": 932}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "清水以幽冥引路打开杀域界通道，仙术首次展示", "chapter_order": 932}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "清水宣告取故物、灭此界，杀域界战局开端", "chapter_order": 932}
+{"ref_or_local_id": "claim-local-27", "kind": "claim", "note": "王林对清水「故物」与玄宝上人记忆关联的推断", "chapter_order": 932}
+{"local_ref": "ev-local-2", "kind": "event", "note": "王林以古神之体与缩地成寸、古神手掌屠戮杀域界修士，为战力与身法的重要展示（stage-023 内）", "chapter_order": 933}
+{"local_ref": "ev-local-3", "kind": "event", "note": "清水「天地冰封」封锁整个杀域界并擒下副界主，杀域界自建立以来首次被正面攻入", "chapter_order": 933}
+{"local_ref": "claim-local-10", "kind": "claim", "note": "杀域界修士当众喊出「罗天正品雷仙许木」，为身份公开认定的关键陈述（reported）", "chapter_order": 933}
+{"local_ref": "claim-local-19", "kind": "claim", "note": "清水仙术「天地冰封」首次在本章展示，具备空间封印效果", "chapter_order": 933}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 934, "note": "凌云子自称杀域界界主，与清水极境相搏；清水指其妻遗物在对方手中"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 934, "note": "王林以太古雷龙元神降服刻「九」字飞剑"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 934, "note": "清水妻子遗物落在凌云子手中的当章陈述"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 934, "note": "杀域界镇界之宝为修真联盟大长老所赠次空涅法宝"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 934, "note": "王林起意夺取杀域界九十九把飞剑以对抗凌天候"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 934, "note": "第一把（刻「九」字）飞剑被王林收服"}
+{"kind": "entity", "candidate_name": "凌云子", "chapter_order": 934, "note": "新登场，杀域界界主（自称）"}
+{"ref_type": "event", "local_id": "ev-local-3", "reason": "本阶段首次出现净涅级敌手幻虚子，并明确「许木」被他人指认为净涅修士", "chapter_order": 935}
+{"ref_type": "event", "local_id": "ev-local-4", "reason": "王林以古神之力正面抗衡净涅修士，为其战力定位的关键证据", "chapter_order": 935}
+{"ref_type": "event", "local_id": "ev-local-6", "reason": "章末紫雾紫影坠落，为后续走向钩子", "chapter_order": 935}
+{"ref_type": "claim", "local_id": "claim-local-13", "reason": "敌方能力规则首次明示（幻之则），可用于后续神通体系描述", "chapter_order": 935}
+{"ref_type": "claim", "local_id": "claim-local-22", "reason": "提及「联盟招引净涅修士」，为势力动向线索", "chapter_order": 935}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "why": "清水极境之力首次于本 stage 集中展示，一击灭净涅修士神魔子并横扫杀域界修士", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "why": "仙术「山崩」首次完整施展三崩，灭尽杀域界修士与建筑", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "why": "杀域界彻底毁灭、清水以奴印收幻虚子与界主并离场，清水与王林就此分别", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "why": "清水将八十八道银光赠与王林，王林所得器物积累", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "claim", "ref_or_local_id": "claim-local-27", "why": "清水以「许木」称王林并道别，涉及称谓与身份线索", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "why": "王林明确动身前往天运星，衔接本 stage 后续走向", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"kind": "claim", "ref_or_local_id": "claim-local-36", "why": "清水对亡妻的承诺「找出一切的原因」为长期悬置目标，可能与白凡/仙界线相关", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "chapter_order": 936}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-2", "note": "王林寻回仙卫塔山并收入身后，寻回旧部行动第一步完成", "chapter_order": 937}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-4", "note": "蓝衫青年（本少爷）首次出场，以樱桃核化绿骷髅攻击雷吉，被虚空之手捏爆", "chapter_order": 937}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-18", "note": "蓝衫青年角色说法：联盟星域看中的肉身从未逃过、巨魔族皇族肉身、家族长辈告诫联盟大战乱世勿外出", "chapter_order": 937}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-12", "note": "雷吉自称巨魔族之人，交代大头为救他受伤、追兵目标是自己", "chapter_order": 937}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-8", "note": "王林感应大头的印记极弱，为本章寻回行动的紧迫性依据", "chapter_order": 937}
+{"buffer_type": "faction_move", "ref_or_local_id": "claim-local-18", "note": "势力动向线索：联盟星域处于大战乱世，有家族告诫子弟勿外出", "chapter_order": 937}
+{"kind": "event", "local_id": "ev-local-3", "note": "尸阴宗内宗弟子首次与王林正面结怨并遁走，属本阶段势力线关键节点", "chapter_order": 938}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林以袖力与掌力瞬杀窥涅初期巨魔族肉身修士并擒其元神，能力展示", "chapter_order": 938}
+{"kind": "claim", "local_id": "claim-local-14", "note": "反派身份唯一自述来源：尸阴宗内宗弟子", "chapter_order": 938}
+{"kind": "claim", "local_id": "claim-local-22", "note": "尸阴宗报复伏线，需跨章跟读", "chapter_order": 938}
+{"kind": "claim", "local_id": "claim-local-23", "note": "第三辆射神车首次祭出，器物线新进展", "chapter_order": 938}
+{"kind": "claim", "local_id": "claim-local-11", "note": "大头伤势由死转生的救治结果，人物状态更新", "chapter_order": 938}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林眉心显化赤红朱雀印记，自推与黄龙掌门有关，是朱雀一脉线索的关键节点", "chapter_order": 939}
+{"kind": "event", "local_id": "ev-local-6", "note": "凌天候率大罗剑宗及诸老怪聚于天运宗外索问天机，本 stage 主线冲突开场", "chapter_order": 939}
+{"kind": "event", "local_id": "ev-local-7", "note": "天运子应声「来了」、众人察觉，王林登场在即", "chapter_order": 939}
+{"kind": "claim", "local_id": "claim-local-31", "note": "天运子当年的「紫青双霞」预言，为天机之局的触发条件", "chapter_order": 939}
+{"kind": "claim", "local_id": "claim-local-21", "note": "王林对朱雀印记来源的推断，牵出黄龙掌门关联", "chapter_order": 939}
+{"kind": "claim", "local_id": "claim-local-6", "note": "蓝衫青年重伤未死、被「爷爷」接走，其生死与后台归属留待后续", "chapter_order": 939}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林数百年后首次现身天运宗，威压显露，为stage-023「破天运子算局」开场节点", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-25", "kind": "claim", "note": "凌天候当众指出王林修为已达窥涅初期（对比当年婴变），是关键实力定位陈述", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-36", "kind": "claim", "note": "王林在天运子与诸老怪面前承认持有仙府令牌，触发后续冲突", "chapter_order": 940}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "凌天候出剑、王林黑色漩涡相抗、天运子七彩之风化解，三人力量关系首次当面展现", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-41", "kind": "claim", "note": "王林拳上凝出黑色漩涡横扫的具体能力展示", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-42", "kind": "claim", "note": "天运子七彩之风同时化解王林之力与凌天候剑气，显示其压制诸方的手段", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-44", "kind": "claim", "note": "凌天候四把元神之剑飞出，直指天运子欲独吞令牌，与天运子对峙升级", "chapter_order": 940}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "note": "王林眉心朱雀印记外另有两股力量，为其隐秘状态的重要线索", "chapter_order": 940}
+{"target_type": "event", "local_id": "ev-local-2", "why": "王林回归天运星首战硬撼剑尊，二十七剑与四十五剑阵首次同时展现，是stage-023的关键战力节点", "chapter_order": 941}
+{"target_type": "event", "local_id": "ev-local-5", "why": "王林与天运子单独对话，提出进入妖灵之地，直接指向本阶段后续目标", "chapter_order": 941}
+{"target_type": "claim", "local_id": "claim-local-24", "why": "凌天候宣布恩怨勾销并提出仙府之约，属跨阶段的势力关系变动", "chapter_order": 941}
+{"target_type": "claim", "local_id": "claim-local-41", "why": "天运子道出朱雀序列仅三人，为身份/命格设定的关键陈述", "chapter_order": 941}
+{"target_type": "claim", "local_id": "claim-local-10", "why": "天运子明言算不出王林回天运星后的过程与真实修为，对应本阶段“破天运子算局”主题", "chapter_order": 941}
+{"target_type": "claim", "local_id": "claim-local-32", "why": "葫芦老者自报奇梦谭并邀约梦星，新增可追踪的外部势力接口", "chapter_order": 941}
+{"kind": "key_event", "local_id": "ev-local-6", "note": "本章核心新信息：王林自悟天运子为数千分身同处一具肉身交替变化", "chapter_order": 942}
+{"kind": "key_claim", "local_id": "claim-local-26", "note": "关于天运子本质的关键推断（王林视角，非叙述确认）", "chapter_order": 942}
+{"kind": "key_event", "local_id": "ev-local-1", "note": "天运子亲口安排妖灵之地开启前的等待与紫林阁保留，涉势力动向", "chapter_order": 942}
+{"kind": "key_claim", "local_id": "claim-local-6", "note": "王林察觉天运子安排“太过顺利”，为后续破局伏笔", "chapter_order": 942}
+{"kind": "minor_event", "local_id": "ev-local-3", "note": "鬼眼坊市七日后开启，涉场景道具鬼眼邀请简", "chapter_order": 942}
+{"ref": {"local_id": "ev-local-3"}, "kind": "event", "note": "王林首次窥见火之规则并触到本源（第三目吸收、元力暴动）", "chapter_order": 943}
+{"ref": {"local_id": "ev-local-4"}, "kind": "event", "note": "章末阁楼外有人以「老七」相称求见，来客身份未明", "chapter_order": 943}
+{"ref": {"local_id": "claim-local-8"}, "kind": "claim", "note": "王林自述悟得「心动故山动」", "chapter_order": 943}
+{"ref": {"local_id": "claim-local-13"}, "kind": "claim", "note": "王林指认所见为「火之规则」", "chapter_order": 943}
+{"ref": {"local_id": "claim-local-15"}, "kind": "claim", "note": "王林自疑所见为「本源」，一瞬即承受不住", "chapter_order": 943}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "why": "本阶段核心谜团「天运宗隐匿修为者失踪」首次由当事人正面陈述，多处关键情报集中于此事件", "chapter_order": 944}
+{"kind": "claim", "ref_or_local_id": "claim-local-8", "why": "宗内修为逾问鼎者一年内失踪的禁忌，是本阶段与天运子算局相关的关键陈述（reported）", "chapter_order": 944}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "why": "赵欣梦命魂受制于师尊、无法脱离天运宗，涉及宗门控制手段", "chapter_order": 944}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "why": "自我封印将崩溃、请求王林凝固封印，构成后续待办线索", "chapter_order": 944}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "why": "白薇称王林不该回来并约定鬼眼坊市之行，是下一章衔接点", "chapter_order": 944}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "why": "白薇性别的自我陈述，影响后续人物引用与关系记录", "chapter_order": 944}
+{"kind": "identity_link", "ref_or_local_id": "char-1125 <-> char-1162", "why": "「四师姐」与「赵欣梦」在本章被原文指向同一人，需在写入侧处理实体归并", "chapter_order": 944}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 945, "note": "赵欣梦首次明确以千年元阴换加固封印，王林未允诺（stage-023 主线相关）"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 945, "note": "白薇引路坊市，王林离天运宗外出"}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "chapter_order": 945, "note": "关键陈述：赵欣梦的交易条件"}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "chapter_order": 945, "note": "人物转折点：王林决定再次祭炼许立国"}
+{"kind": "claim", "ref_or_local_id": "claim-local-38", "chapter_order": 945, "note": "人物动向：白薇阴气弥漫、心性改变（与封印/阴气线索相关）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-39", "chapter_order": 945, "note": "赵欣梦暗中跟随王林，线索待续"}
+{"kind": "event", "local_ref": "ev-local-6", "note": "王林神识被尘道三子围困，首次出现「尘道三子」与鬼眼城守卫势力", "salience": "high", "chapter_order": 946}
+{"kind": "event", "local_ref": "ev-local-7", "note": "王林以肉身之力破鬼眼城禁制、击溃神识巨龙，实力暴露端倪", "salience": "high", "chapter_order": 946}
+{"kind": "event", "local_ref": "ev-local-8", "note": "青袍老者吐血惊呼「净涅老怪」，对王林实力作出判断", "salience": "high", "chapter_order": 946}
+{"kind": "claim", "local_ref": "claim-local-8", "note": "白薇阴气形成的奇异印记，伏笔性关键陈述", "salience": "high", "chapter_order": 946}
+{"kind": "claim", "local_ref": "claim-local-7", "note": "白薇自称所修功法「双欲仙诀」", "salience": "medium", "chapter_order": 946}
+{"kind": "claim", "local_ref": "claim-local-3", "note": "天运宗后山白阳木开黑花三息即死的异象", "salience": "medium", "chapter_order": 946}
+{"ref_kind": "event", "local_id": "ev-local-2", "label": "尘道三子现身赔罪，与王林化敌为友", "chapter_order": 947, "why": "本阶段内王林在天运星/鬼眼城一侧的重要势力关系转折点，可作后续对抗天运子算局的旁证"}
+{"ref_kind": "claim", "local_id": "claim-local-11", "label": "尘道三子判定王林修为达净涅", "chapter_order": 947, "why": "王林修为在外界认知中的定性陈述，影响后续各方态度"}
+{"ref_kind": "claim", "local_id": "claim-local-30", "label": "王林推断白薇有难言之隐、所惧为『师尊』", "chapter_order": 947, "why": "与「破天运子算局」阶段主线直接相关的线索陈述"}
+{"ref_kind": "claim", "local_id": "claim-local-31", "label": "白薇体内阴气流转形成的诡异印记", "chapter_order": 947, "why": "白薇异常的关键物证线索，供后续身份/禁制解释对照"}
+{"ref_kind": "event", "local_id": "ev-local-3", "label": "一尘子邀王林入住鬼眼城阁楼并约定论道", "chapter_order": 947, "why": "王林一行在鬼眼城的落脚点与后续拍卖/论道场景入口"}
+{"local_id": "claim-local-17", "kind": "claim", "reason": "王林对外自报道号「魔道子」，为其身份对外定性的关键陈述", "chapter_order": 948}
+{"local_id": "claim-local-16", "kind": "claim", "reason": "叙述交代「魔道子」道号源于罗天星域杀戮，补充王林过往身份的叙述性事实", "chapter_order": 948}
+{"local_id": "claim-local-10", "kind": "claim", "reason": "灵儿的水灵体与声音引动王林旧日伤痛，为人物转折点证据", "chapter_order": 948}
+{"local_id": "claim-local-27", "kind": "claim", "reason": "尘道三子与王林互赠礼物，关系由「有过节」转向结交的势力动向证据", "chapter_order": 948}
+{"local_id": "ev-local-2", "kind": "event", "reason": "赠礼往来事件，可作为本阶段人物关系变化的锚点", "chapter_order": 948}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 949, "note": "王林串起白薇全部隐语并推断幕后为天运子，是本阶段关键转折点"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 949, "note": "白薇房间被强破、人失踪，引出强行带走者线索"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 949, "note": "王林首次施展“唤雨”神通，被一尘子评为净涅修士层次"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 949, "note": "白薇以男身现身山谷，身份谜题进入当面说明阶段"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 949, "note": "王林推断天运子为白薇处境成因，指向师徒冲突"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 949, "note": "旁证性评价：唤雨神通唯有净涅修士可掌"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 949, "note": "罗天星域与修真联盟北部战事的势力动向（角色转述）"}
+{"ref_or_local_id": "ev-local-2", "kind": "key_event", "chapter_order": 950, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "note": "王林接受白巍体内至阳，成为对抗天运子算局的开端"}
+{"ref_or_local_id": "claim-local-21", "kind": "key_statement", "chapter_order": 950, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "note": "白巍点明天运子所图为其体内巅峰时刻的那一刹那至阳"}
+{"ref_or_local_id": "claim-local-25", "kind": "character_turning_point", "chapter_order": 950, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "note": "王林以「有何不敢」正面接下天运子的算局"}
+{"ref_or_local_id": "ev-local-3", "kind": "character_entrance", "chapter_order": 950, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-023"}, "note": "紫袍男子赶赴天运星（身份待核，见 identity_link_candidates）"}
+{"kind": "event", "local_id": "ev-local-1", "note": "白巍身死并凝出极阳交予王林，是王林在此阶段的关键转折点，含「以死换天运子算错一次」的核心陈述。", "chapter_order": 951}
+{"kind": "event", "local_id": "ev-local-2", "note": "天运子首次施展自创大神通「一指篡天运」，是阶段主线冲突的升级点。", "chapter_order": 951}
+{"kind": "claim", "local_id": "claim-local-7", "note": "白巍对天运子的公开宣言，涉及其死因动机的关键陈述（reported）。", "chapter_order": 951}
+{"kind": "claim", "local_id": "claim-local-16", "note": "天运子对王林的明确态度表态，指向后续出手。", "chapter_order": 951}
+{"kind": "faction", "note": "天运宗山巅场景与天运子的行动，可用于势力动向更新。", "chapter_order": 951}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "天运子巨指神通降临天运星、直指王林所在山谷，stage-023 主线冲突高点", "chapter_order": 952}
+{"ref_or_local_id": "claim-local-7", "kind": "claim", "note": "王林识出气息属于天运子，确认追杀者为天运子本人", "chapter_order": 952}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "note": "天逆珠子对极阳出现抖动反应，为天逆后续变化埋点", "chapter_order": 952}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "note": "凌天候许诺王林不死便相助，可能改变后续对局力量对比", "chapter_order": 952}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "note": "朱雀序列/四圣宗/昆虚星域背景由凌天候说出，属势力与设定线索", "chapter_order": 952}
+{"kind": "event", "record_ref_or_local_id": "ev-local-1", "note": "本 stage 内天运子与王林的正面交锋正式爆发，唤雨之晶+清水幻影首次用于对抗。", "chapter_order": 953}
+{"kind": "event", "record_ref_or_local_id": "ev-local-4", "note": "王林动用炎雷子所赠仙界碎片保命，碎片化大陆未崩溃并反伤巨指，为后续反攻起点。", "chapter_order": 953}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-25", "note": "王林判断天运子不问那一丝极阳「有玄机」，是本章给出的悬念线索。", "chapter_order": 953}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-29", "note": "仙界碎片可承受天运子一指而不崩，确立该物的防御层级。", "chapter_order": 953}
+{"kind": "event", "local_id": "ev-local-3", "note": "本 stage 核心命题「破天运子算局」在章内由王林内心明确为「死结之局」，并首次提出破局条件：让天运子算错一次。", "chapter_order": 954}
+{"kind": "event", "local_id": "ev-local-4", "note": "剑尊凌天候（char-0762）本 stage 首次以真身携赤红麒麟到场，与天运子隔空对峙。", "chapter_order": 954}
+{"kind": "claim", "local_id": "claim-local-11", "note": "王林的关键转折性决断陈述，可作为后续破局行动的触发依据。", "chapter_order": 954}
+{"kind": "claim", "local_id": "claim-local-9", "note": "涉及白巍（char-2103）与其「师尊」关系及极阳之日的因果链，属势力/因果设定线索。", "chapter_order": 954}

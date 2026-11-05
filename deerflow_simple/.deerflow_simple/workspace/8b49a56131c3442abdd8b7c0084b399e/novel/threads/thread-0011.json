@@ -1,0 +1,30 @@
+{
+  "id": "thread-0011",
+  "introduced_at": 6,
+  "kind": "story_thread",
+  "label": "七脉会武（约五年后举行）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 6,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "upcoming_event",
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0011-001",
+      "resolution_refs": [],
+      "revealed_at": 6,
+      "role": "setup",
+      "status": "open",
+      "summary": "苏茹称再过五年即是青云门一甲子一次的七脉会武，并在堂上以此喝斥弟子不用功；叙述补充大竹峰弟子连届屡败、成为门内笑柄。"
+    }
+  ]
+}

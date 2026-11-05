@@ -63,6 +63,14 @@ export interface RunFinished {
   status: string;
   result: string | null;
   error: string | null;
+  tokens: number;
+  tool_calls: number;
+}
+
+/** 线程历史消息（后端 /api/threads/{id}/history 返回，仅 human/ai 两类） */
+export interface HistoryMessage {
+  role: 'human' | 'ai';
+  content: string;
 }
 
 export type StreamTaskStatus =
@@ -106,3 +114,38 @@ export interface CreateTaskInput {
 
 /** 人工审核决策：review_plan 用 approve/reject，review_issues 用 fixed/skip/stop */
 export type ReviewDecision = 'approve' | 'reject' | 'fixed' | 'skip' | 'stop';
+
+// ---------------------------------------------------------------------------
+// 会话（session）+ 线程（thread），对应后端 /api/sessions
+// ---------------------------------------------------------------------------
+
+export interface Session {
+  session_id: string;
+  novel_id: string | null;
+  title: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface Thread {
+  thread_id: string;
+  session_id: string;
+  title: string;
+  created_at: string;
+  updated_at: string;
+}
+
+/** 会话详情（含线程列表），对应 SessionDetailResponse */
+export interface SessionDetail extends Session {
+  threads: Thread[];
+}
+
+export interface SessionCreateInput {
+  novel_id?: string;
+  title?: string;
+}
+
+/** 创建会话的响应：额外返回默认线程 id，便于直接开始对话 */
+export interface SessionCreateResult extends Session {
+  thread_id: string;
+}

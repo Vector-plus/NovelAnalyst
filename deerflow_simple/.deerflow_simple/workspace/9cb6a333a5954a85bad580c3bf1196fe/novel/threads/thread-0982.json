@@ -1,0 +1,30 @@
+{
+  "id": "thread-0982",
+  "introduced_at": 928,
+  "kind": "story_thread",
+  "label": "符文族（符族）自虚无而来及其与仙遗族的关系",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 928,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 928,
+          "start": 928
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0982-001",
+      "resolution_refs": [],
+      "revealed_at": 928,
+      "role": "setup",
+      "status": "active",
+      "summary": "清水称符族从星空下虚无而来、被仙人打散奴役；王林因此联想此前遇到的月噬一族老者。原文未给出定论。"
+    }
+  ]
+}

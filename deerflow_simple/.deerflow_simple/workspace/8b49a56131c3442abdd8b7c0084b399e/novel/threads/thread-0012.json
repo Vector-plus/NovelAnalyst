@@ -1,0 +1,30 @@
+{
+  "id": "thread-0012",
+  "introduced_at": 6,
+  "kind": "story_thread",
+  "label": "张小凡的大竹峰入门功课（每日砍竹、门规道法）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 6,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_thread",
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0012-001",
+      "resolution_refs": [],
+      "revealed_at": 6,
+      "role": "setup",
+      "status": "open",
+      "summary": "田不易命宋大仁传授门规戒条与入门道法；大竹峰规矩要求初入门弟子每日到后山砍竹，张小凡头三个月每日砍一棵。"
+    }
+  ]
+}

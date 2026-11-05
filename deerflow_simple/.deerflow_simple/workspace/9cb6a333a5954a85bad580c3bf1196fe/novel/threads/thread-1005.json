@@ -1,0 +1,30 @@
+{
+  "id": "thread-1005",
+  "introduced_at": 949,
+  "kind": "story_thread",
+  "label": "白薇隐语与真实面目",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 949,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 949,
+          "start": 949
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1005-001",
+      "resolution_refs": [],
+      "revealed_at": 949,
+      "role": "reveal",
+      "status": "progressed",
+      "summary": ""
+    }
+  ]
+}

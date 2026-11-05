@@ -1,0 +1,30 @@
+{
+  "id": "thread-1012",
+  "introduced_at": 951,
+  "kind": "story_thread",
+  "label": "天运子出手对付王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 951,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 951,
+          "start": 951
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1012-001",
+      "resolution_refs": [],
+      "revealed_at": 951,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "天运子望向鬼眼城方向称王林好大的胆，并以自创大神通一指篡天运凝聚巨指降临天运星。"
+    }
+  ]
+}

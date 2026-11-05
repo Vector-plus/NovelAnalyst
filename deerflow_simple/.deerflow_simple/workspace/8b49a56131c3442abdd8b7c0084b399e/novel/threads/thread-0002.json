@@ -1,0 +1,30 @@
+{
+  "id": "thread-0002",
+  "introduced_at": 1,
+  "kind": "story_thread",
+  "label": "草庙老僧的身份",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0002-001",
+      "resolution_refs": [],
+      "revealed_at": 1,
+      "role": "setup",
+      "status": "open",
+      "summary": "草庙中的年老和尚在本章出场并制止孩童相争，但本章未出现其法号、来历或门派信息。"
+    }
+  ]
+}

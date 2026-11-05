@@ -82,6 +82,7 @@ class RunManager:
         thread_id: str,
         *,
         multitask_strategy: str = "reject",
+        session_id: str | None = None,
     ) -> RunRecord:
         """原子地为一个线程准入一个新 run。
 
@@ -101,6 +102,7 @@ class RunManager:
         record = RunRecord(
             run_id=run_id,
             thread_id=thread_id,
+            session_id=session_id,
             status=RunStatus.pending,
             multitask_strategy=multitask_strategy,
             created_at=now,
@@ -209,6 +211,21 @@ class RunManager:
             record.error = error
         if result is not None:
             record.result = result
+        record.updated_at = _now_iso()
+
+    async def set_token_usage(
+        self,
+        run_id: str,
+        *,
+        tokens: int = 0,
+        tool_calls: int = 0,
+    ) -> None:
+        """落一次 run 的 token 消耗统计（估算口径）。"""
+        record = self._runs.get(run_id)
+        if record is None:
+            return
+        record.tokens = tokens
+        record.tool_calls = tool_calls
         record.updated_at = _now_iso()
 
     async def set_finalizing(self, run_id: str, value: bool) -> None:

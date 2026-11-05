@@ -1,0 +1,30 @@
+{
+  "id": "thread-0010",
+  "introduced_at": 5,
+  "kind": "story_thread",
+  "label": "张小凡入大竹峰门下",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 5,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0010-001",
+      "resolution_refs": [],
+      "revealed_at": 5,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "因资质一般无人愿收，张小凡被道玄真人指派给田不易，由宋大仁抱回大竹峰，田不易心中不喜。"
+    }
+  ]
+}

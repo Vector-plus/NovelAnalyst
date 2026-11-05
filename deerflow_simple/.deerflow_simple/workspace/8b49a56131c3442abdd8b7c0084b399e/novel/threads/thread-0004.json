@@ -1,0 +1,30 @@
+{
+  "id": "thread-0004",
+  "introduced_at": 2,
+  "kind": "story_thread",
+  "label": "黑衣人夜袭草庙、强索噬血珠",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 2,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0004-001",
+      "resolution_refs": [],
+      "revealed_at": 2,
+      "role": "escalating",
+      "status": "ongoing",
+      "summary": "黑衣人挟持林惊羽引来普智出手，祭毒血幡放毒血尸王并以七尾蜈蚣暗算得手；普智击散鬼物但身中剧毒，黑衣人现身后施展神剑御雷真诀，冲突未决。"
+    }
+  ]
+}

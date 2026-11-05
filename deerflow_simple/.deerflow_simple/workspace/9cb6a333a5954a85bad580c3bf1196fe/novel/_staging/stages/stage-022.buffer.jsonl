@@ -57,3 +57,146 @@
 {"ref_kind": "claim", "local_id": "claim-local-10", "note": "王林元神配有古神皮甲，反震夺舍；太古雷龙元神可吞噬魂魄", "chapter_order": 902}
 {"ref_kind": "claim", "local_id": "claim-local-15", "note": "周天由血祖之死认定许木（王林）实力，放弃抵抗", "chapter_order": 902}
 {"ref_kind": "claim", "local_id": "claim-local-19", "note": "周天魂魄被血祖之魂等擒获，无一虚影逃出", "chapter_order": 902}
+{"local_id": "ev-local-2", "kind": "event", "note": "西部立威的阶段性核心事件：王林以天虎旗聚众、获「雷仙许木」声望", "chapter_order": 903}
+{"local_id": "claim-local-10", "kind": "claim", "note": "罗天修士公开以「正品雷仙许木」称呼王林，名声在联盟西部扩散", "chapter_order": 903}
+{"local_id": "claim-local-13", "kind": "claim", "note": "修真联盟资料将罗天修士分七级、许木列第五级，反映双方情报体系", "chapter_order": 903}
+{"local_id": "claim-local-23", "kind": "claim", "note": "见望月时王林体内古神震动，为古神相关线索", "chapter_order": 903}
+{"local_id": "ev-local-3", "kind": "event", "note": "参天巨木与望月现身联盟西部中心，构成战场格局转折", "chapter_order": 903}
+{"target_type": "event", "local_id": "ev-local-2", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-022"}, "note": "王林在罗天阵营中以从容登巨木完成公开立威，被三名窥涅后期修士认可为同层次", "chapter_order": 904}
+{"target_type": "event", "local_id": "ev-local-4", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-022"}, "note": "古神之语「荀芸岣」首次出现，唯王林听懂且面色一变，为后续古神线索的关键证据", "chapter_order": 904}
+{"target_type": "claim", "local_id": "claim-local-2", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-022"}, "note": "王林对「望月被驱逐送至联盟」之人的身份猜测，涉及其两度所见的同一身影", "chapter_order": 904}
+{"target_type": "claim", "local_id": "claim-local-11", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-022"}, "note": "王林掌握「一丝规则明悟」被窥涅后期修士明确识别，能力定位证据", "chapter_order": 904}
+{"kind": "event", "local_id": "ev-local-4", "note": "北部决战态势与云龙妖尊登场，stage 内关键战局节点", "chapter_order": 905}
+{"kind": "event", "local_id": "ev-local-5", "note": "极贤天首次现身并对决炎雷子，四尊级人物首次集体出场", "chapter_order": 905}
+{"kind": "event", "local_id": "ev-local-1", "note": "望月受古神之语驱使前往毁雨之下界星域，主角线关键推进", "chapter_order": 905}
+{"kind": "claim", "local_id": "claim-local-01", "note": "古神之语的条件内容（reported）", "chapter_order": 905}
+{"kind": "claim", "local_id": "claim-local-33", "note": "王林对望月“古神幼子”身份的私下判断", "chapter_order": 905}
+{"kind": "claim", "local_id": "claim-local-26", "note": "极贤天形貌与性别判定，人物关键设定", "chapter_order": 905}
+{"kind": "claim", "local_id": "claim-local-31", "note": "罗浮由十八减为十七，阵法状态变化", "chapter_order": 905}
+{"kind": "event", "record_ref_or_local_id": "ev-local-3", "chapter": 906, "note": "参天巨木与炎雷子、申公老祖、烈云子三方合击极贤天，本章战力对比关键节点", "chapter_order": 906}
+{"kind": "event", "record_ref_or_local_id": "ev-local-4", "chapter": 906, "note": "极贤天自爆四层蓝意脱身，十三层蓝意全毁", "chapter_order": 906}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-25", "chapter": 906, "note": "炎雷子真实修为已超过极贤天", "chapter_order": 906}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-31", "chapter": 906, "note": "王林在极贤天逃遁关口出手施「定」", "chapter_order": 906}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 907, "note": "极贤天被王林定身术阻截、遭炎雷子轰出后被望月吞噬——本阶段两域大战的关键战果"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 907, "note": "炎雷子反哺元力，王林修为几近窥涅初期巅峰"}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "chapter_order": 907, "note": "武东禅首次现身并与炎雷子交战"}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "chapter_order": 907, "note": "炎雷子称极贤天为修真联盟四尊之首、当年可排第九"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 907, "note": "炎雷子承诺战后归还雷兽并赠防身之宝（待兑现）"}
+{"kind": "identity", "ref_or_local_id": "identity-link-许木-王林", "chapter_order": 907, "note": "炎雷子当面对王林称「许木」，身份对应存在多索引歧义，待后续确认"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-908-2", "chapter_order": 908, "note": "联盟「百万兽血锁天神」成阵，望月被彻底封死——北部决战关键节点"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-908-4", "chapter_order": 908, "note": "烈云子以战字帖唤出罗浮血人，罗浮操控权归属成为战局变量"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-908-21", "chapter_order": 908, "note": "战家独占罗浮操控神通、源出战字帖，为罗天星域公认隐秘"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-908-27", "chapter_order": 908, "note": "王林与水罗蓝裙女子对视并生疑惑，身份悬念钩子"}
+{"kind": "event", "local_id": "ev-local-1", "reason": "王林古神之体与新神通“呼风”在本战中的实战展示，属阶段内关键战力证据", "chapter_order": 909}
+{"kind": "event", "local_id": "ev-local-3", "reason": "联盟方“修星波动”破罗天守势，交代战场攻防态势转变", "chapter_order": 909}
+{"kind": "claim", "local_id": "claim-local-19", "reason": "副品雷仙许霆的当场身份明确与出场", "chapter_order": 909}
+{"kind": "claim", "local_id": "claim-local-22", "reason": "王林与许霆立约共杀水罗蓝裙女子，形成新的阶段行动目标", "chapter_order": 909}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "水罗蓝裙女子为大战主持者、身份显高，敌对首脑线索", "chapter_order": 909}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 910, "note": "王林在战阵中以「换位」将赤色波纹转嫁许霆，许霆重伤血遁——关键能力展示与二人决裂节点"}
+{"local_id": "claim-local-20", "kind": "claim", "chapter_order": 910, "note": "许霆本体尚存本源、一线天所杀为分身（王林自述记忆），为二人后续对决埋线"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 910, "note": "水罗蓝裙女子投入八叶莲花台一叶压制王林，态势跨至 911 章仍未解"}
+{"local_id": "claim-local-22", "kind": "claim", "chapter_order": 910, "note": "女子自述「君不识妾，然妾却识君」，暗示其与王林有旧但本章无旁证"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 911, "note": "望月封印黑壳崩溃、古神手指首次伸出，是玄孙/古神线在本阶段的关键节点", "subject_ref_or_candidate": {"candidate_name": "王林"}}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 911, "note": "骸狱界炼尸投入战场，局势逆转，含两银一金特殊炼尸", "subject_ref_or_candidate": {"candidate_name": "骸狱界"}}
+{"local_id": "claim-local-4", "kind": "claim", "chapter_order": 911, "note": "王林首次亲自施展仙帝白凡仙术第二式「唤雨」", "subject_ref_or_candidate": {"candidate_name": "王林"}}
+{"local_id": "claim-local-24", "kind": "claim", "chapter_order": 911, "note": "王林明确目标：伺机进入望月体内抢夺古神幼子的力之传承", "subject_ref_or_candidate": {"candidate_name": "王林"}}
+{"local_id": "claim-local-15", "kind": "claim", "chapter_order": 911, "note": "炼尸设定：尸阴宗供骸、骸狱界炼化、仅十八具、窥涅后期级", "subject_ref_or_candidate": {"candidate_name": "炼尸"}}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 912, "note": "望月封印崩溃、古神一指首次显威，北部战局节点"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 912, "note": "古神一指自爆致双方大批陨落，联盟黑煞魔尊溃逃"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 912, "note": "万里星空被撕开、修士被卷入虚无的关键战况陈述"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 912, "note": "王林对银色炼尸与半截木雕的归属宣示，后续法宝线索起点"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 912, "note": "望月双目清明、疑似有自主意识（王林视角）"}
+{"kind": "event", "record_ref_or_local_id": "ev-local-1", "chapter_order": 913, "note": "王林夺取银尸女尸并封印收入储物袋——本 stage 主角战力与收获节点"}
+{"kind": "event", "record_ref_or_local_id": "ev-local-2", "chapter_order": 913, "note": "玄宝上人应召现身，联盟长老团首次被明确交代"}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-27", "chapter_order": 913, "note": "玄宝上人为联盟长老团成员，可决定联盟星域一切事情（势力层级关键依据）"}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-30", "chapter_order": 913, "note": "天运子为长老团成员且因变故地位一落千丈（旧线索回扣）"}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-11", "chapter_order": 913, "note": "「雷仙许木」称谓出现，待核身份等同关系"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 914, "note": "玄宝上人展示「雨之仙卫」召唤术，四名金品金甲仙卫登场"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 914, "note": "望月被仙卫与黑蝶合围，展开古神神通"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 914, "note": "王林夺走半截木雕并与辰龙正面冲突，辰龙似已认出王林"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 914, "note": "次空涅箭登场，炎雷子叫破其名"}
+{"kind": "claim", "local_id": "claim-local-13", "chapter_order": 914, "note": "王林将法术神通与古神巨力初步融合的攻击方式首次成形"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 914, "note": "王林此行目标明确：伺机进入望月体内取得传承"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 914, "note": "水罗蓝裙女子对王林态度古怪，身份待查"}
+{"ref_or_local_id": "ev-local-5", "type": "event", "note": "次空涅箭真形（三寸鲜红血迹）首次登场并重创望月", "chapter_order": 915}
+{"ref_or_local_id": "ev-local-6", "type": "event", "note": "望月首次动用古神碎星自爆逼出箭矢", "chapter_order": 915}
+{"ref_or_local_id": "claim-local-16", "type": "claim", "note": "王林确认战场凝聚出古神之气", "chapter_order": 915}
+{"ref_or_local_id": "claim-local-15", "type": "claim", "note": "王林第四颗古神之星出现向实质凝聚趋势（能力成长节点）", "chapter_order": 915}
+{"ref_or_local_id": "claim-local-34", "type": "claim", "note": "炎雷子转述前辈布局：月兽入联盟是为激其发怒造破坏", "chapter_order": 915}
+{"ref_or_local_id": "claim-local-19", "type": "claim", "note": "玄宝上人欲夺望月炼宝以抗衡长老团内重玄子", "chapter_order": 915}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-1", "chapter_order": 916, "note": "望月以古神之臂击碎次空涅法宝，玄宝上人本命法宝被毁"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-2", "chapter_order": 916, "note": "清水现身与玄宝上人正面交战，战斗未结"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-3", "chapter_order": 916, "note": "玄宝上人身份揭示：雨之仙界仙人、天宝上人师弟"}
+{"kind": "key_statement", "record_ref_or_local_id": "claim-local-6", "chapter_order": 916, "note": "清水自称雷界本君（角色陈述）"}
+{"kind": "key_statement", "record_ref_or_local_id": "claim-local-12", "chapter_order": 916, "note": "玄宝上人称仙界已不再、此处为联盟星域"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-4", "chapter_order": 916, "note": "法宝本源之力掠夺众修法宝与储物袋，王林以第三目守住储物袋"}
+{"kind": "character_turning_point", "record_ref_or_local_id": "claim-local-17", "chapter_order": 916, "note": "王林默记玄宝上人手印，存揣摩之意"}
+{"kind": "event", "record_ref_or_local_id": "ev-local-1", "note": "玄宝上人肉身崩溃、元神出窍，金衣碎裂（本次决战的关键节点）", "chapter_order": 917}
+{"kind": "event", "record_ref_or_local_id": "ev-local-4", "note": "望月吞下金尸化形之金龙并钻入星空崩溃漩涡，进入虚无", "chapter_order": 917}
+{"kind": "event", "record_ref_or_local_id": "ev-local-5", "note": "王林携炎雷子所赠仙界碎片进入望月体内，清水、武东禅、一木子同入", "chapter_order": 917}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-23", "note": "一木子自称罗天远古修真家族第九长老（新势力线索，reported）", "chapter_order": 917}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-42", "note": "炎雷子所赠仙界碎片内封印碎片主魂与雷兽", "chapter_order": 917}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 918, "note": "四圣宗（黄龙）介入罗天与联盟战事的关键谋划场景"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 918, "note": "望月与王林进入虚无之界，阶段内新场景开启"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 918, "note": "雷兽自仙界碎片放出，与王林首次照面"}
+{"kind": "claim", "local_id": "claim-local-5", "chapter_order": 918, "note": "黄龙判定修真联盟此战实际已败（其自述）"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 918, "note": "首次出现「修真联盟身后的九级修真星」说法（黄龙陈述）"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 918, "note": "黄龙视王林为四圣星先锋及对罗天的暗示（其自述）"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 918, "note": "虚无之地疑似人为的猜测，阶段内重要悬念"}
+{"local_id": "ev-local-3", "kind": "event_ref", "chapter_order": 919, "note": "武东禅与一木子争夺古神幼子入口的关键交锋，含「一木，一界」首次展示。"}
+{"local_id": "ev-local-2", "kind": "event_ref", "chapter_order": 919, "note": "虚无之地压制元力/灵力的封印机制，王林古神肉身成为其优势。"}
+{"local_id": "claim-local-28", "kind": "claim_ref", "chapter_order": 919, "note": "王林明确表述「渔翁得利」策略，章题所示定位。"}
+{"local_id": "claim-local-23", "kind": "claim_ref", "chapter_order": 919, "note": "一木子受「大长老」指派进入望月深处，任务内容待补。"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "清水首次在本阶段内展示自创仙术「画地为牢」，并以杀戮界夺取玄宝上人元神", "chapter_order": 920}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "望月裂缝中血红色手臂击退清水并夺走玄宝上人元神，清水暴怒转折点", "chapter_order": 920}
+{"ref_or_local_id": "claim-local-31", "kind": "claim", "note": "清水法术以仙帝白凡六术为根本，画地为牢为其自创仙术，杀戮界为基础", "chapter_order": 920}
+{"ref_or_local_id": "claim-local-38", "kind": "claim", "note": "玄宝上人是清水目前唯一可以知晓仙界之事的希望", "chapter_order": 920}
+{"ref_or_local_id": "claim-local-39", "kind": "claim", "note": "白凡曾怀柔施恩收清水为弟子；罗天星域中炎雷子极为恭敬的神秘人亦不欲惹其怒火", "chapter_order": 920}
+{"ref_or_local_id": "claim-local-1", "kind": "claim", "note": "王林谋算加速望月等老怪体内元力消耗并预留后路", "chapter_order": 920}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "note": "通道缩短一半，古神幼子所在处被肉壁彻底封死", "chapter_order": 920}
+{"local_id": "ev-local-3", "kind": "event", "note": "望月被激怒后喷出所有外来者，场景由望月体内转入虚无之界，是本 stage 场景切换关键", "chapter_order": 921}
+{"local_id": "ev-local-5", "kind": "event", "note": "极贤天以古神傀儡形态现身，王林识破并起意夺取古神一星，为后续古神传承线铺垫", "chapter_order": 921}
+{"local_id": "claim-local-16", "kind": "claim", "note": "王林预藏飞剑于望月敏感处并一举引爆，属其战力手段的首次完整展示", "chapter_order": 921}
+{"local_id": "claim-local-20", "kind": "claim", "note": "虚无之界元力压制对古神肉身无效，是王林在该场景中的核心优势设定", "chapter_order": 921}
+{"local_id": "claim-local-26", "kind": "claim", "note": "古神傀儡之术与八星古神一星的信息，来源为涂司记忆（reported）", "chapter_order": 921}
+{"kind": "event_local", "local_id": "ev-local-6", "chapter_order": 922, "note": "王林首次真正施展定身术并定住极贤天，联合一木子、武东禅、金龙将其灭杀"}
+{"kind": "event_local", "local_id": "ev-local-7", "chapter_order": 922, "note": "极贤天崩溃后血肉现出古神紫星，王林尝试吸摄「力之传承」（跨章悬念）"}
+{"kind": "claim_local", "local_id": "claim-local-6", "chapter_order": 922, "note": "王林以古神肉身首次逼出极贤天身影，体现其肉身之力不受封印限制"}
+{"kind": "claim_local", "local_id": "claim-local-9", "chapter_order": 922, "note": "金龙为私怨转攻王林，与极贤天敌对关系的裂缝"}
+{"kind": "claim_local", "local_id": "claim-local-10", "chapter_order": 922, "note": "玄宝上人元神被王林当作人质使用"}
+{"kind": "event", "local_id": "ev-local-1", "label": "王林吞星成就四星王族古神", "why": "主角战力与身份层级的关键跃升（三星半→四星王族古神），本 stage 核心进展", "chapter_order": 923}
+{"kind": "event", "local_id": "ev-local-3", "label": "龙尊五行冠摄金龙，女子虚影现身", "why": "新法宝与新谜面人物首次出手，具跨章延续价值", "chapter_order": 923}
+{"kind": "event", "local_id": "ev-local-5", "label": "五星古神接受成年挑战并三步化作三百丈", "why": "本 stage 尾部高潮对决的起始点", "chapter_order": 923}
+{"kind": "claim", "local_id": "claim-local-10", "label": "金龙指认「龙尊五行冠」且「竟然还有了魂」", "why": "关键陈述，涉及法宝来历与储备悬念", "chapter_order": 923}
+{"kind": "claim", "local_id": "claim-local-16", "label": "古神一族成年挑战与星阶规则", "why": "世界观规则型设定，后续古神相关章节可复用", "chapter_order": 923}
+{"kind": "claim", "local_id": "claim-local-18", "label": "五星古神应战原话", "why": "对决确立的关键言语证据", "chapter_order": 923}
+{"local_id": "claim-local-1", "kind": "claim", "note": "本章「许木=古神」认知仅出自一木子；配套 idlink-local-1 待后续章节明示", "chapter_order": 924}
+{"local_id": "claim-local-8", "kind": "claim", "note": "五星古神自报名「罗尘」，为本 stage 新增古神方人物", "chapter_order": 924}
+{"local_id": "claim-local-20", "kind": "claim", "note": "王族法器规则首次在章内系统陈述，关乎王林战力定位", "chapter_order": 924}
+{"local_id": "claim-local-21", "kind": "claim", "note": "罗尘认定王林传承源自涂司，古神传承线关键锚点", "chapter_order": 924}
+{"local_id": "claim-local-27", "kind": "claim", "note": "网下两道幽光，虚无之界外部注视线索", "chapter_order": 924}
+{"local_id": "ev-local-3", "kind": "event", "note": "本章主战场事件，衔接 925 章清水反应与七彩之气", "chapter_order": 924}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "望月被七彩之气拖入虚无裂缝、裂缝喷三股七彩之雾扑向三人，为本章悬念核心", "chapter_order": 925}
+{"kind": "key_claim", "local_id": "claim-local-4", "note": "天逆珠子在虚无之地自行运转并散出奇妙之力，使王林双目现蓝芒", "chapter_order": 925}
+{"kind": "key_claim", "local_id": "claim-local-5", "note": "王林凭天逆珠之力看见网下幽光，并被幽光察觉", "chapter_order": 925}
+{"kind": "key_claim", "local_id": "claim-local-33", "note": "三人对裂缝冲出之物所见各不相同（师尊／拓森／先祖）", "chapter_order": 925}
+{"kind": "key_claim", "local_id": "claim-local-21", "note": "罗尘当面认可王林「有资格，成为古神」", "chapter_order": 925}
+{"kind": "key_claim", "local_id": "claim-local-17", "note": "兽灵之术的世界规则：唯五星古神可发挥、需长久祭炼", "chapter_order": 925}
+{"kind": "setting_candidate", "local_id": "claim-local-14", "note": "王族古神传承术「返古之力，借祖神威」的具体表现", "chapter_order": 925}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 926, "note": "白发老者请出第九阵阵灵开天斧，压制三人，是本阶段末段的高点战力展示"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 926, "note": "望月与罗尘被晶光大手带离，罗尘赠王林最后两颗古神之星，古神线关键节点"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 926, "note": "古神一族成年挑战赠礼习俗与两颗古神之星的归属（罗尘→王林）"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 926, "note": "开天斧被罗尘称为古神一族圣物，关联封界第九阵与古神一族"}
+{"kind": "claim", "local_id": "claim-local-24", "chapter_order": 926, "note": "罗尘自称「不是古神，而是孤神」，人物立场关键自陈"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-4", "chapter_order": 927, "note": "天逆珠首次在本 stage 自行出手，炸裂月牙印记并重创外敌"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-5", "chapter_order": 927, "note": "天逆珠黑白二气穿透封界追击老者，章末悬置"}
+{"kind": "key_claim", "record_ref_or_local_id": "claim-local-10", "chapter_order": 927, "note": "网外老者自称太古仙族月噬一族，新势力线索"}
+{"kind": "key_claim", "record_ref_or_local_id": "claim-local-15", "chapter_order": 927, "note": "王林眉心五颗古星，五星王族古神状态"}
+{"kind": "key_claim", "record_ref_or_local_id": "claim-local-7", "chapter_order": 927, "note": "清水被隐藏的记忆被触动，人物转折线索"}
+{"kind": "faction_move", "record_ref_or_local_id": "长尊会", "chapter_order": 927, "note": "长尊会被老者提及为其图谋目标，尚未正面出现"}
+{"kind": "event", "local_id": "ev-local-2", "note": "望月与罗尘在虚无中永久消失，本阶段关键人物退场证据", "chapter_order": 928}
+{"kind": "event", "local_id": "ev-local-4", "note": "本章核心信息事件：远古仙域、四大仙界、符族与虚无的秘史集中披露", "chapter_order": 928}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林携清水抵达祭坛与炎雷子会合，本阶段收束点", "chapter_order": 928}
+{"kind": "claim", "local_id": "claim-local-18", "note": "王林本尊成就五星古神，阶段性实力里程碑", "chapter_order": 928}
+{"kind": "claim", "local_id": "claim-local-24", "note": "符族自虚无而来之说，后续仙遗族/虚无线索的源头陈述", "chapter_order": 928}
+{"kind": "claim", "local_id": "claim-local-26", "note": "老者自称太古仙族月噬一族，身份线索", "chapter_order": 928}

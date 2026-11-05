@@ -1,0 +1,30 @@
+{
+  "id": "thread-0991",
+  "introduced_at": 936,
+  "kind": "story_thread",
+  "label": "清水追寻「这一切的原因」",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 936,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 936,
+          "start": 936
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0991-001",
+      "resolution_refs": [],
+      "revealed_at": 936,
+      "role": "setup",
+      "status": "open",
+      "summary": "清水在亡妻含烟遗言前承诺会找出一切的原因，随后带幻虚子与杀域界界主离去，自称「我还有事情要做」。"
+    }
+  ]
+}

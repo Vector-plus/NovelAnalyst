@@ -20,6 +20,7 @@ from langchain_core.messages import HumanMessage
 
 from deerflow_simple.runs.manager import RunManager
 from deerflow_simple.runs.schemas import RunRecord, RunStartOutcome, RunStatus
+from deerflow_simple.tracing import build_run_metadata
 from deerflow_simple.stream import (
     EVENT_DONE,
     EVENT_MESSAGE,
@@ -63,6 +64,8 @@ async def run_agent(
     """
     run_id = record.run_id
     thread_id = record.thread_id
+    # guard 在 try 外初始化为 None，确保 finally 阶段（含早期取消/异常路径）可安全引用
+    guard: BudgetGuard | None = None
 
     try:
         # 收尾标志贯穿整个生命周期：run 一创建就处于 finalizing，保证同线程后续
@@ -157,6 +160,10 @@ async def run_agent(
     except Exception as exc:  # noqa: BLE001 - 终态兜底，保证 run 不悬挂
         await manager.set_status(run_id, RunStatus.error, error=str(exc))
     finally:
+        if guard is not None:
+            await manager.set_token_usage(
+                run_id, tokens=guard.tokens, tool_calls=guard.tool_calls
+            )
         set_stream_emitter(None)
         await manager.set_finalizing(run_id, False)
 
@@ -168,6 +175,7 @@ async def submit_run(
     thread_id: str,
     *,
     multitask_strategy: str = "reject",
+    session_id: str | None = None,
     recursion_limit: int = 9999,
     novel_id: str | None = None,
     on_event: Callable[[dict[str, Any]], None] | None = None,
@@ -193,9 +201,17 @@ async def submit_run(
     record = await manager.create_or_reject(
         thread_id,
         multitask_strategy=multitask_strategy,
+        session_id=session_id,
     )
     config: dict[str, Any] = {
         "configurable": {"thread_id": thread_id},
+        "metadata": build_run_metadata(
+            session_id=session_id,
+            thread_id=thread_id,
+            novel_id=novel_id,
+            run_id=record.run_id,
+        ),
+        "tags": ["deerflow-simple", "narration"],
         "recursion_limit": recursion_limit,
     }
     worker = run_agent(

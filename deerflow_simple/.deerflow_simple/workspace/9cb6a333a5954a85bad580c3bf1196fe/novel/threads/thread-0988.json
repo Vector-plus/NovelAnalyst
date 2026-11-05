@@ -1,0 +1,30 @@
+{
+  "id": "thread-0988",
+  "introduced_at": 929,
+  "kind": "story_thread",
+  "label": "送故人骨灰回暗月星天山下的杏花村",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 929,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 929,
+          "start": 929
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0988-001",
+      "resolution_refs": [],
+      "revealed_at": 929,
+      "role": "initiator",
+      "status": "ongoing",
+      "summary": "王林抵达暗月星天山脚下的杏花村外，确认地点无误，故人嘱托其将骨灰送至此处；本章未写到骨灰安置的完成。"
+    }
+  ]
+}

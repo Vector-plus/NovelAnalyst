@@ -1,0 +1,30 @@
+{
+  "id": "thread-0008",
+  "introduced_at": 5,
+  "kind": "story_thread",
+  "label": "两名孩子被移至松树下的原因",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 5,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0008-001",
+      "resolution_refs": [],
+      "revealed_at": 5,
+      "role": "core",
+      "status": "open",
+      "summary": "林惊羽与张小凡均在村外松树下醒来，对昨夜之事一无所知；道玄与众首座对此迷惑，未有结论。"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import { Sidebar } from './components/Sidebar';
 import { CreateSpaceDialog } from './components/CreateSpaceDialog';
 import { FileManager } from './components/FileManager';
 import { IndexPanel } from './components/IndexPanel';
-import { ChatPanel } from './components/ChatPanel';
+import { ChatWorkspace } from './components/ChatWorkspace';
 
 type TabKey = 'index' | 'chat' | 'files';
 
@@ -158,7 +158,7 @@ export default function App() {
               )}
               {activeTab === 'chat' && (
                 <div className="h-full overflow-hidden">
-                  <ChatPanel space={selected} />
+                  <ChatWorkspace space={selected} />
                 </div>
               )}
             </div>

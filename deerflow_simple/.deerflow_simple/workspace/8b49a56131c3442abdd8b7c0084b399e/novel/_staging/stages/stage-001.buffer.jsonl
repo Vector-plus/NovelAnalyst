@@ -1,0 +1,30 @@
+{"kind": "event", "local_id": "ev-local-1", "note": "青云门世界背景与门史主干（青云子—无方子—青叶—道玄）", "chapter_order": 1}
+{"kind": "event", "local_id": "ev-local-3", "note": "老僧首次出手干预，主角二人关系转折点", "chapter_order": 1}
+{"kind": "event", "local_id": "ev-local-4", "note": "未具名老僧出场，需在后续章节与已知僧人档案对照", "chapter_order": 1}
+{"kind": "claim", "local_id": "claim-local-25", "note": "念珠中深紫圆珠为本章唯一未解异象", "chapter_order": 1}
+{"kind": "claim", "local_id": "claim-local-13", "note": "当代三大门派格局与青云门掌门信息", "chapter_order": 1}
+{"local_id": "ev-local-3", "kind": "key_event", "chapter_order": 2, "note": "普智首次展示佛门斗法能力（狮子印法轮、六字大明咒击散鬼物），并身中七尾蜈蚣剧毒"}
+{"local_id": "ev-local-5", "kind": "key_event", "chapter_order": 2, "note": "黑衣人现真身，施展神剑御雷真诀，被普智指为青云门下"}
+{"local_id": "claim-local-27", "kind": "key_statement", "chapter_order": 2, "note": "黑衣人自承专门针对普智而来，索要噬血珠"}
+{"local_id": "claim-local-37", "kind": "key_statement", "chapter_order": 2, "note": "黑衣人点出普智为天音寺四大神僧之一"}
+{"local_id": "claim-local-45", "kind": "turning_point", "chapter_order": 2, "note": "普智认定袭击者为青云门下，与后文青云门身份线索衔接"}
+{"buffer_kind": "evidence", "target_ref": {"record_id": "stage-001", "path": "navigation/stage-plan.json"}, "record_local_id": "ev-local-1", "note": "草庙斗法收官：雷法对佛门金光，草庙崩塌，黑衣人遁走（普智自述）", "chapter_order": 3}
+{"buffer_kind": "evidence", "target_ref": {"record_id": "stage-001", "path": "navigation/stage-plan.json"}, "record_local_id": "ev-local-4", "note": "普智传功、赠珠、受师徒之礼后击昏张小凡——本条主线伏笔起点", "chapter_order": 3}
+{"buffer_kind": "evidence", "target_ref": {"record_id": "stage-001", "path": "navigation/stage-plan.json"}, "record_local_id": "claim-local-11", "note": "普智自述佛道互参长生之愿及受阻经过（道玄真人婉拒等）", "chapter_order": 3}
+{"buffer_kind": "evidence", "target_ref": {"record_id": "stage-001", "path": "navigation/stage-plan.json"}, "record_local_id": "claim-local-8", "note": "普智推测妖人属青云门高层且将折返灭口——身份悬念锚点", "chapter_order": 3}
+{"type": "event", "local_id": "ev-local-1", "note": "草庙村四十余户二百余人集体死亡被发现，为本阶段核心惨案现场证据", "chapter_order": 4}
+{"type": "event", "local_id": "ev-local-2", "note": "两名主角在青云山苏醒，地点信息由林惊羽转述", "chapter_order": 4}
+{"type": "claim", "local_id": "claim-local-10", "note": "上山经过的唯一来源为林惊羽转述（路过的青云门弟子带回）", "chapter_order": 4}
+{"type": "claim", "local_id": "claim-local-22", "note": "镇山灵兽水麒麟与青叶祖师的说法出自青年道士之口，属转述", "chapter_order": 4}
+{"type": "event", "local_id": "ev-local-5", "note": "玉清殿七椅坐六、右排末位空置，为阶段内值得跟踪的悬念点", "chapter_order": 4}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "林惊羽被苍松道人收入龙首峰门下", "chapter_order": 5}
+{"kind": "key_event", "local_id": "ev-local-4", "note": "张小凡被指派入大竹峰田不易门下，命运转折", "chapter_order": 5}
+{"kind": "key_claim", "local_id": "claim-local-12", "note": "草庙村四十二户二百四十七人死难，仅三人幸存", "chapter_order": 5}
+{"kind": "character_turn", "local_id": "claim-local-26", "note": "田不易视张小凡为累赘，师徒关系以不情愿开局", "chapter_order": 5}
+{"kind": "faction_move", "local_id": "claim-local-17", "note": "青云各脉首座争夺资质上乘的林惊羽，展现七脉内部较劲", "chapter_order": 5}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 6, "stage_id": "stage-001", "relevance": "high", "note": "张小凡在大竹峰守静堂完成拜师礼，师徒关系正式成立，是主角入门的核心节点。"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 6, "stage_id": "stage-001", "relevance": "high", "note": "后山砍竹功课与门规传授开启，为后续修炼线埋下日常基础。"}
+{"local_id": "claim-local-25", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "high", "note": "苏茹首次点出“再过五年就是青云门一甲子一次的七脉会武”，为阶段内可追踪的时间锚点。"}
+{"local_id": "claim-local-33", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "叙述确立七脉会武为青云门一甲子一次的大试，且大竹峰连届惨败，构成宗内评价背景。"}
+{"local_id": "claim-local-27", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "法宝“琥珀朱绫”来源与归属（苏茹成名法宝）经宋大仁之口交代，首次出现御空飞行的仙家手段。"}
+{"local_id": "claim-local-32", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "叙述定性大竹峰师徒风格：田不易懒散少管、苏茹好武常教训弟子，影响后续门内互动基调。"}

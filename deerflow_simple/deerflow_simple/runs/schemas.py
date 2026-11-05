@@ -49,6 +49,8 @@ class RunRecord:
 
     run_id: str
     thread_id: str
+    # 所属会话 id（业务归组维度，与 thread_id 解耦；嵌入式场景可为 None）
+    session_id: str | None = None
     status: RunStatus = RunStatus.pending
     # 同线程已有活跃 run 时的处理策略：reject / interrupt / rollback
     multitask_strategy: str = "reject"
@@ -63,6 +65,10 @@ class RunRecord:
     error: str | None = None
     # 最终 AI 文本（success 时有效）
     result: str | None = None
+    # token 消耗统计（估算口径：estimate_tokens 累计的循环增量 token）
+    tokens: int = 0
+    # 工具调用次数（一次 tool_call + tool_result 计一次）
+    tool_calls: int = 0
     # 是否正在收尾；同线程后续 run 需等它置回 False 才能启动
     finalizing: bool = False
     created_at: str = ""

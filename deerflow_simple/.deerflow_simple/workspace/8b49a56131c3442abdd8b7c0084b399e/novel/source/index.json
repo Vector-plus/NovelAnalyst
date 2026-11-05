@@ -4,14 +4,14 @@
     {
       "chapter_ranges": [
         {
-          "end": 49,
+          "end": 44,
           "start": 1
         }
       ],
       "entity_refs": [],
       "kind": "source_chapters",
-      "safe_through": 49,
-      "summary": "第1—49章原文清单。",
+      "safe_through": 44,
+      "summary": "第1—44章原文清单。",
       "tags": [
         "source"
       ],
@@ -19,19 +19,19 @@
         "path": "source/vol-001/index.json",
         "record_id": "source-vol-001"
       },
-      "title": "第一卷　悟空传"
+      "title": "卷一"
     },
     {
       "chapter_ranges": [
         {
-          "end": 55,
-          "start": 50
+          "end": 84,
+          "start": 45
         }
       ],
       "entity_refs": [],
       "kind": "source_chapters",
-      "safe_through": 55,
-      "summary": "第50—55章原文清单。",
+      "safe_through": 84,
+      "summary": "第45—84章原文清单。",
       "tags": [
         "source"
       ],
@@ -39,19 +39,19 @@
         "path": "source/vol-002/index.json",
         "record_id": "source-vol-002"
       },
-      "title": "第二卷　花果山"
+      "title": "卷二"
     },
     {
       "chapter_ranges": [
         {
-          "end": 69,
-          "start": 56
+          "end": 124,
+          "start": 85
         }
       ],
       "entity_refs": [],
       "kind": "source_chapters",
-      "safe_through": 69,
-      "summary": "第56—69章原文清单。",
+      "safe_through": 124,
+      "summary": "第85—124章原文清单。",
       "tags": [
         "source"
       ],
@@ -59,19 +59,119 @@
         "path": "source/vol-003/index.json",
         "record_id": "source-vol-003"
       },
-      "title": "第三卷　百年孤寂"
+      "title": "卷三"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 163,
+          "start": 125
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 163,
+      "summary": "第125—163章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-004/index.json",
+        "record_id": "source-vol-004"
+      },
+      "title": "卷四"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 190,
+          "start": 164
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 190,
+      "summary": "第164—190章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-005/index.json",
+        "record_id": "source-vol-005"
+      },
+      "title": "卷五"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 215,
+          "start": 191
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 215,
+      "summary": "第191—215章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-006/index.json",
+        "record_id": "source-vol-006"
+      },
+      "title": "卷六"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 240,
+          "start": 216
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 240,
+      "summary": "第216—240章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-007/index.json",
+        "record_id": "source-vol-007"
+      },
+      "title": "卷七"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 257,
+          "start": 241
+        }
+      ],
+      "entity_refs": [],
+      "kind": "source_chapters",
+      "safe_through": 257,
+      "summary": "第241—257章原文清单。",
+      "tags": [
+        "source"
+      ],
+      "target": {
+        "path": "source/vol-008/index.json",
+        "record_id": "source-vol-008"
+      },
+      "title": "卷八"
     }
   ],
   "id": "idx-source",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "revision": 1,
-  "safe_through": 69,
+  "safe_through": 257,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 69,
+        "end": 257,
         "start": 1
       }
     ],

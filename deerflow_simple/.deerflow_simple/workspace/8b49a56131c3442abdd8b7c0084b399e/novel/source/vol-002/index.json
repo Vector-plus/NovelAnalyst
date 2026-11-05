@@ -1,58 +1,364 @@
 {
   "chapters": [
     {
+      "chapter_order": 45,
+      "id": "ch-000045",
+      "paragraph_count": 89,
+      "path": "source/vol-002/ch-000045.txt",
+      "safe_through": 45,
+      "sha256": "951dd01bbeadb0dc7b150cca824246c4550912b271194e2e8c18cba2ffee17cd",
+      "title": "伤痛"
+    },
+    {
+      "chapter_order": 46,
+      "id": "ch-000046",
+      "paragraph_count": 112,
+      "path": "source/vol-002/ch-000046.txt",
+      "safe_through": 46,
+      "sha256": "36eba614cbcc47d733ad499acc94a75014f0e098664be0202feafaf1a96d5414",
+      "title": "脱困"
+    },
+    {
+      "chapter_order": 47,
+      "id": "ch-000047",
+      "paragraph_count": 92,
+      "path": "source/vol-002/ch-000047.txt",
+      "safe_through": 47,
+      "sha256": "4352cd272e276e228165c972bad453f003547613783a640245509770ee42d4c6",
+      "title": "文士"
+    },
+    {
+      "chapter_order": 48,
+      "id": "ch-000048",
+      "paragraph_count": 167,
+      "path": "source/vol-002/ch-000048.txt",
+      "safe_through": 48,
+      "sha256": "b0396e65a0904a8a600d5bab59d64136874b71f4738dc47cfcdeb634a041ac2c",
+      "title": "小镇"
+    },
+    {
+      "chapter_order": 49,
+      "id": "ch-000049",
+      "paragraph_count": 107,
+      "path": "source/vol-002/ch-000049.txt",
+      "safe_through": 49,
+      "sha256": "25a267cdd3217614d86aadb6c9f05cbdbc70e83371344308b638fd03723846f0",
+      "title": "看相"
+    },
+    {
       "chapter_order": 50,
       "id": "ch-000050",
-      "paragraph_count": 38,
+      "paragraph_count": 100,
       "path": "source/vol-002/ch-000050.txt",
       "safe_through": 50,
-      "sha256": "9f3a777e1bf95064e730896dbc69772595141c382dc2994ea0191abbf1023593",
-      "title": "．"
+      "sha256": "7b3e750b5c1113a456463a9c1997156a6a28c7146d40753bb6fd7b090923828a",
+      "title": "妖狐"
     },
     {
       "chapter_order": 51,
       "id": "ch-000051",
-      "paragraph_count": 29,
+      "paragraph_count": 113,
       "path": "source/vol-002/ch-000051.txt",
       "safe_through": 51,
-      "sha256": "75987982eaa11aa36e739be44bcd616813c157475d9b6109fcca2941f0c1a646",
-      "title": "．"
+      "sha256": "93597d6649926683e4d0efd1ceaa741cfa1463d895a4034aa3a36d915ca4fbad",
+      "title": "玄火鉴"
     },
     {
       "chapter_order": 52,
       "id": "ch-000052",
-      "paragraph_count": 47,
+      "paragraph_count": 105,
       "path": "source/vol-002/ch-000052.txt",
       "safe_through": 52,
-      "sha256": "3968d123ac483b2ff15d219a45e1823389ba6aa3488b965b370981416e004d55",
-      "title": "．"
+      "sha256": "2d89820bcce91430407ef2c5f65d13d13c208a2fcd6a2befe2031ac371f56b92",
+      "title": "黑石洞"
     },
     {
       "chapter_order": 53,
       "id": "ch-000053",
-      "paragraph_count": 21,
+      "paragraph_count": 104,
       "path": "source/vol-002/ch-000053.txt",
       "safe_through": 53,
-      "sha256": "55049fab2cd0e4e0b68806b5b35f59ecf7c6539822cd654eaf4ccb2ebd6c0f6d",
-      "title": "．"
+      "sha256": "f4d799d27ca9388c52dbbd3ef9536d28e1ec99d05faa990aaa1439eadfd6d731",
+      "title": "火龙"
     },
     {
       "chapter_order": 54,
       "id": "ch-000054",
-      "paragraph_count": 30,
+      "paragraph_count": 107,
       "path": "source/vol-002/ch-000054.txt",
       "safe_through": 54,
-      "sha256": "d65056cf4d80f6dfe6954dc82be49464df16f9da3dddb28b9729d5a30eb848c3",
-      "title": "．"
+      "sha256": "211b152aab2f21e37a1884c546645efb9e19a52d9a45b16e8030074f3ea3c731",
+      "title": "异兽"
     },
     {
       "chapter_order": 55,
       "id": "ch-000055",
-      "paragraph_count": 17,
+      "paragraph_count": 111,
       "path": "source/vol-002/ch-000055.txt",
       "safe_through": 55,
-      "sha256": "df59a46200a10a01c42222cd9870331863c8bc0b8120e62704dbe22835c72d31",
-      "title": "．"
+      "sha256": "d14270caa045eb91860467b93f1a30a158acbec41513d11adca31b796297c0b8",
+      "title": "妖逝"
+    },
+    {
+      "chapter_order": 56,
+      "id": "ch-000056",
+      "paragraph_count": 113,
+      "path": "source/vol-002/ch-000056.txt",
+      "safe_through": 56,
+      "sha256": "2c2458824502b09aaa4ff32b58cd682385ed07628febd57ddf46691f191ed591",
+      "title": "共死"
+    },
+    {
+      "chapter_order": 57,
+      "id": "ch-000057",
+      "paragraph_count": 122,
+      "path": "source/vol-002/ch-000057.txt",
+      "safe_through": 57,
+      "sha256": "df50f7b955a9dd30b6bd4d6e914734f39ba59c81372369b5ec62b057e9657255",
+      "title": "昌合城"
+    },
+    {
+      "chapter_order": 58,
+      "id": "ch-000058",
+      "paragraph_count": 118,
+      "path": "source/vol-002/ch-000058.txt",
+      "safe_through": 58,
+      "sha256": "0dc514e98178b7640c62f3b1412367da52fc06adbc1789641d8acf9c5f02f2e1",
+      "title": "出海"
+    },
+    {
+      "chapter_order": 59,
+      "id": "ch-000059",
+      "paragraph_count": 87,
+      "path": "source/vol-002/ch-000059.txt",
+      "safe_through": 59,
+      "sha256": "ed3e74a1e7915f0ee07c2fb444a0c8462eab90661f806bdc701bcedfd08d7229",
+      "title": "伤心"
+    },
+    {
+      "chapter_order": 60,
+      "id": "ch-000060",
+      "paragraph_count": 121,
+      "path": "source/vol-002/ch-000060.txt",
+      "safe_through": 60,
+      "sha256": "afd202c23bd486124ea1e2c194f9f824b721d8846e103add68d05cadcd817220",
+      "title": "戾气"
+    },
+    {
+      "chapter_order": 61,
+      "id": "ch-000061",
+      "paragraph_count": 96,
+      "path": "source/vol-002/ch-000061.txt",
+      "safe_through": 61,
+      "sha256": "1a60998f2c36aabd4cf07875fcd603f818b50d5a8a2f2d3fe02e40c9758b626a",
+      "title": "风雨"
+    },
+    {
+      "chapter_order": 62,
+      "id": "ch-000062",
+      "paragraph_count": 109,
+      "path": "source/vol-002/ch-000062.txt",
+      "safe_through": 62,
+      "sha256": "141ce72d41bc36f7994e2d7b13e494d30f463fa1bf7c2ec005972718b9638729",
+      "title": "旧人"
+    },
+    {
+      "chapter_order": 63,
+      "id": "ch-000063",
+      "paragraph_count": 121,
+      "path": "source/vol-002/ch-000063.txt",
+      "safe_through": 63,
+      "sha256": "ccdce1e426f83039a9a14b046ca394c705955b446fe5e91f40c23021912f36de",
+      "title": "魔教"
+    },
+    {
+      "chapter_order": 64,
+      "id": "ch-000064",
+      "paragraph_count": 91,
+      "path": "source/vol-002/ch-000064.txt",
+      "safe_through": 64,
+      "sha256": "b197e71216e518471cbd68ab5f13f583693cdb37f7811097f2b359bfa1ddea28",
+      "title": "鬼王"
+    },
+    {
+      "chapter_order": 65,
+      "id": "ch-000065",
+      "paragraph_count": 113,
+      "path": "source/vol-002/ch-000065.txt",
+      "safe_through": 65,
+      "sha256": "d1e6f693a70d52f8569aac4a02288330f704119eb5087225e8743609f3665b6b",
+      "title": "隐忧"
+    },
+    {
+      "chapter_order": 66,
+      "id": "ch-000066",
+      "paragraph_count": 113,
+      "path": "source/vol-002/ch-000066.txt",
+      "safe_through": 66,
+      "sha256": "9267de00ff56256ed602e7b8cd59ed67617cdf96e27118e17617334feac56dc7",
+      "title": "往事"
+    },
+    {
+      "chapter_order": 67,
+      "id": "ch-000067",
+      "paragraph_count": 112,
+      "path": "source/vol-002/ch-000067.txt",
+      "safe_through": 67,
+      "sha256": "3e5c7870e154b05ec2d326ab1aa750f553b6d3dc31f77aa391d3e3c467ad9901",
+      "title": "吸血老妖"
+    },
+    {
+      "chapter_order": 68,
+      "id": "ch-000068",
+      "paragraph_count": 105,
+      "path": "source/vol-002/ch-000068.txt",
+      "safe_through": 68,
+      "sha256": "c9832a1cb717e1b3ee6792617e5d465a42bba723414504d7b6151195b8833b6d",
+      "title": "赤焰"
+    },
+    {
+      "chapter_order": 69,
+      "id": "ch-000069",
+      "paragraph_count": 102,
+      "path": "source/vol-002/ch-000069.txt",
+      "safe_through": 69,
+      "sha256": "1b40758181bb0d4a41d8ac578c9ca466ba4ac0b014514dd56f6a79a205456383",
+      "title": "青龙"
+    },
+    {
+      "chapter_order": 70,
+      "id": "ch-000070",
+      "paragraph_count": 98,
+      "path": "source/vol-002/ch-000070.txt",
+      "safe_through": 70,
+      "sha256": "1f083ba1118c10ae26ef166b9e24cb1dd64a44d188b194a1731342f5b7dddc6b",
+      "title": "往事"
+    },
+    {
+      "chapter_order": 71,
+      "id": "ch-000071",
+      "paragraph_count": 87,
+      "path": "source/vol-002/ch-000071.txt",
+      "safe_through": 71,
+      "sha256": "6879ec5159f8570af29cac452e72a4e6afd07887d1e50e708fcec672b2df2d31",
+      "title": "伏击"
+    },
+    {
+      "chapter_order": 72,
+      "id": "ch-000072",
+      "paragraph_count": 119,
+      "path": "source/vol-002/ch-000072.txt",
+      "safe_through": 72,
+      "sha256": "ea118fc775158e24343099ec042e8e61d9919939ca1125f9a9cc0fdab9d22330",
+      "title": "夔牛"
+    },
+    {
+      "chapter_order": 73,
+      "id": "ch-000073",
+      "paragraph_count": 103,
+      "path": "source/vol-002/ch-000073.txt",
+      "safe_through": 73,
+      "sha256": "90fa4d9229e3c2e897263569d1e3879c0638b8b60e0ce67b0a5d0e58b8156f57",
+      "title": "绝境"
+    },
+    {
+      "chapter_order": 74,
+      "id": "ch-000074",
+      "paragraph_count": 130,
+      "path": "source/vol-002/ch-000074.txt",
+      "safe_through": 74,
+      "sha256": "2a3cfe189241a4fa8165901cef116f4a981150f1e1f7d664bff0f2bdb75f5cc9",
+      "title": "幽姬"
+    },
+    {
+      "chapter_order": 75,
+      "id": "ch-000075",
+      "paragraph_count": 102,
+      "path": "source/vol-002/ch-000075.txt",
+      "safe_through": 75,
+      "sha256": "1e3026853900cca0b9bc0e6b57714f8b823e2a375d3a5c7c2d3ab0e464170d39",
+      "title": "密谋"
+    },
+    {
+      "chapter_order": 76,
+      "id": "ch-000076",
+      "paragraph_count": 139,
+      "path": "source/vol-002/ch-000076.txt",
+      "safe_through": 76,
+      "sha256": "527add7755aaa841bf50d58631b7fbab795c22911148f3140ea451e0f0594d3d",
+      "title": "心意"
+    },
+    {
+      "chapter_order": 77,
+      "id": "ch-000077",
+      "paragraph_count": 123,
+      "path": "source/vol-002/ch-000077.txt",
+      "safe_through": 77,
+      "sha256": "23d027529a28b51fdbce6d171fcb91ebe47a57d580202d6264dd634e90dace4d",
+      "title": "茫然"
+    },
+    {
+      "chapter_order": 78,
+      "id": "ch-000078",
+      "paragraph_count": 134,
+      "path": "source/vol-002/ch-000078.txt",
+      "safe_through": 78,
+      "sha256": "49109d9399bf0bd6a591e8a93b113c47b47d36cb494adf28f6513487bbf2c250",
+      "title": "审问"
+    },
+    {
+      "chapter_order": 79,
+      "id": "ch-000079",
+      "paragraph_count": 98,
+      "path": "source/vol-002/ch-000079.txt",
+      "safe_through": 79,
+      "sha256": "02cd3616c314154ef034de4d444f982316d75cc89785e84c1cfa6ac760f44de2",
+      "title": "萧墙"
+    },
+    {
+      "chapter_order": 80,
+      "id": "ch-000080",
+      "paragraph_count": 114,
+      "path": "source/vol-002/ch-000080.txt",
+      "safe_through": 80,
+      "sha256": "066dca044f3e28efbda92741d294b8467d7d884fd742a6009ba9869ea9dada1b",
+      "title": "计中计"
+    },
+    {
+      "chapter_order": 81,
+      "id": "ch-000081",
+      "paragraph_count": 93,
+      "path": "source/vol-002/ch-000081.txt",
+      "safe_through": 81,
+      "sha256": "ced3e6b2c585d5b4432d6748d5226710bdc02095f1335435d481c50e98c7dddb",
+      "title": "祖师祠堂"
+    },
+    {
+      "chapter_order": 82,
+      "id": "ch-000082",
+      "paragraph_count": 102,
+      "path": "source/vol-002/ch-000082.txt",
+      "safe_through": 82,
+      "sha256": "905295f2fcf2a40811a48c574df32c4fc086c1e06b44d901cd2f53f2e88fdc3b",
+      "title": "古剑诛仙"
+    },
+    {
+      "chapter_order": 83,
+      "id": "ch-000083",
+      "paragraph_count": 107,
+      "path": "source/vol-002/ch-000083.txt",
+      "safe_through": 83,
+      "sha256": "ac5432144a52f3654d5e99fa929375b54225d74b3c5b2203b68a0f3914ccd729",
+      "title": "旧孽"
+    },
+    {
+      "chapter_order": 84,
+      "id": "ch-000084",
+      "paragraph_count": 172,
+      "path": "source/vol-002/ch-000084.txt",
+      "safe_through": 84,
+      "sha256": "b1b602c13506d39ce306d3adff3ac3aa59e885e7e1f075b07617eac7bc5db0af",
+      "title": "血咒"
     }
   ],
   "encoding": "utf-8",
@@ -62,7 +368,7 @@
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "paragraph_rule": "blank_line_separated",
   "revision": 1,
-  "safe_through": 55,
+  "safe_through": 84,
   "schema_version": "2.0",
   "source_version": "source-v1",
   "volume_id": "vol-002"

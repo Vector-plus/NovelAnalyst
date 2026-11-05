@@ -16,6 +16,7 @@ class RunCreateRequest(BaseModel):
     """创建 run 的请求体。"""
 
     message: str = Field(..., min_length=1, description="用户消息")
+    session_id: str = Field(..., description="会话 ID（强制，用于会话持久化与 LangSmith 归组）")
     thread_id: str = Field(default="default", description="线程 ID，用于多轮记忆")
     multitask_strategy: Literal["reject", "interrupt", "rollback"] = Field(
         default="reject",
@@ -26,16 +27,18 @@ class RunCreateRequest(BaseModel):
         description="当前对话绑定的小说空间 id，供解说工具通过代码注入（不交给 LLM 决策）",
     )
 
-
 class RunResponse(BaseModel):
     """单个 run 的响应体。"""
 
     run_id: str
     thread_id: str
+    session_id: str | None = None
     status: str
     multitask_strategy: str = "reject"
     error: str | None = None
     result: str | None = None
+    tokens: int = 0
+    tool_calls: int = 0
     created_at: str = ""
     updated_at: str = ""
 

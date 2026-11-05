@@ -23,6 +23,7 @@ from deerflow_simple.agent import build_agent
 from deerflow_simple.checkpointer import acheckpointer_context
 from deerflow_simple.config import SimpleConfig
 from deerflow_simple.runs import RunManager, submit_run, wait_run
+from deerflow_simple.sessions import new_id
 
 
 # ---------------------------------------------------------------------------
@@ -108,18 +109,23 @@ class SimpleClient:
         message: str,
         thread_id: str = "default",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> str:
         """同步对话，返回最终 AI 文本（提交 + 等待的便捷封装）。
 
         ``novel_id`` 绑定当前对话的小说空间，供解说工具通过代码注入（不交给 LLM）。
+        ``session_id`` 会话 id；None 时自动生成，用于 LangSmith 会话归组。
         """
-        return self._sync(self.chat_async(message, thread_id, novel_id=novel_id))
+        return self._sync(
+            self.chat_async(message, thread_id, novel_id=novel_id, session_id=session_id)
+        )
 
     def stream(
         self,
         message: str,
         thread_id: str = "default",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> Iterator[dict]:
         """流式对话（结构化事件流，yield 事件 dict）。
 
@@ -130,7 +136,10 @@ class SimpleClient:
         ``done``（终态），每个事件带 ``source`` 字段区分 lead / narration。
 
         ``novel_id`` 绑定当前对话的小说空间，供解说工具通过代码注入（不交给 LLM）。
+        ``session_id`` 会话 id；None 时自动生成。
         """
+        if session_id is None:
+            session_id = new_id()
         out_queue: queue.Queue = queue.Queue()
 
         def on_event(event: dict) -> None:
@@ -146,6 +155,7 @@ class SimpleClient:
                         thread_id,
                         recursion_limit=self._config.recursion_limit,
                         novel_id=novel_id,
+                        session_id=session_id,
                         on_event=on_event,
                         max_tool_calls=self._config.agent_max_tool_calls,
                         token_budget=self._config.agent_token_budget,
@@ -171,12 +181,15 @@ class SimpleClient:
         message: str,
         thread_id: str = "default",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> Iterator[str]:
         """流式对话（仅模型文本，向后兼容便捷方法）。
 
         内部复用 ``stream``，只 yield ``message`` 事件的文本 delta。
         """
-        for event in self.stream(message, thread_id=thread_id, novel_id=novel_id):
+        for event in self.stream(
+            message, thread_id=thread_id, novel_id=novel_id, session_id=session_id
+        ):
             if event.get("type") == "message":
                 yield event.get("content", "")
 
@@ -189,6 +202,7 @@ class SimpleClient:
         thread_id: str = "default",
         multitask_strategy: str = "reject",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> str:
         """后台提交一个 run，立即返回 run_id（非阻塞）。
 
@@ -196,6 +210,7 @@ class SimpleClient:
         reject（抛 :class:`ConflictError`）/ interrupt / rollback。
 
         ``novel_id`` 绑定当前对话的小说空间，供解说工具通过代码注入（不交给 LLM）。
+        ``session_id`` 会话 id；None 时自动生成。
         """
         return self._sync(
             self.submit_async(
@@ -203,6 +218,7 @@ class SimpleClient:
                 thread_id,
                 multitask_strategy=multitask_strategy,
                 novel_id=novel_id,
+                session_id=session_id,
             )
         )
 
@@ -227,8 +243,11 @@ class SimpleClient:
         message: str,
         thread_id: str = "default",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> str:
-        run_id = await self.submit_async(message, thread_id, novel_id=novel_id)
+        run_id = await self.submit_async(
+            message, thread_id, novel_id=novel_id, session_id=session_id
+        )
         return await self.wait_async(run_id)
 
     async def submit_async(
@@ -237,7 +256,10 @@ class SimpleClient:
         thread_id: str = "default",
         multitask_strategy: str = "reject",
         novel_id: str | None = None,
+        session_id: str | None = None,
     ) -> str:
+        if session_id is None:
+            session_id = new_id()
         return await submit_run(
             self._run_manager,
             self._graph,
@@ -246,6 +268,7 @@ class SimpleClient:
             multitask_strategy=multitask_strategy,
             recursion_limit=self._config.recursion_limit,
             novel_id=novel_id,
+            session_id=session_id,
             max_tool_calls=self._config.agent_max_tool_calls,
             token_budget=self._config.agent_token_budget,
         )

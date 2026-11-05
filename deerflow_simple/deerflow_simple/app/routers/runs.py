@@ -13,6 +13,8 @@ import json
 from fastapi import APIRouter, HTTPException, Request
 from fastapi.responses import StreamingResponse
 
+from langchain_core.messages import AIMessage, HumanMessage
+
 from deerflow_simple.app.schemas import RunCreateRequest, RunResponse
 from deerflow_simple.runs import ConflictError, RunManager, submit_run, wait_run
 from deerflow_simple.stream import EVENT_DONE
@@ -39,10 +41,13 @@ def _record_to_response(record) -> RunResponse:
     return RunResponse(
         run_id=record.run_id,
         thread_id=record.thread_id,
+        session_id=record.session_id,
         status=record.status.value,
         multitask_strategy=record.multitask_strategy,
         error=record.error,
         result=record.result,
+        tokens=record.tokens,
+        tool_calls=record.tool_calls,
         created_at=record.created_at,
         updated_at=record.updated_at,
     )
@@ -73,6 +78,7 @@ async def create_run(body: RunCreateRequest, request: Request) -> RunResponse:
             body.thread_id,
             multitask_strategy=body.multitask_strategy,
             novel_id=body.novel_id,
+            session_id=body.session_id,
             max_tool_calls=config.agent_max_tool_calls,
             token_budget=config.agent_token_budget,
         )
@@ -95,6 +101,7 @@ async def wait_run_endpoint(body: RunCreateRequest, request: Request) -> dict:
             body.thread_id,
             multitask_strategy=body.multitask_strategy,
             novel_id=body.novel_id,
+            session_id=body.session_id,
             max_tool_calls=config.agent_max_tool_calls,
             token_budget=config.agent_token_budget,
         )
@@ -142,6 +149,7 @@ async def stream_run(body: RunCreateRequest, request: Request) -> StreamingRespo
             body.thread_id,
             multitask_strategy=body.multitask_strategy,
             novel_id=body.novel_id,
+            session_id=body.session_id,
             on_event=on_event,
             max_tool_calls=config.agent_max_tool_calls,
             token_budget=config.agent_token_budget,
@@ -182,6 +190,8 @@ async def stream_run(body: RunCreateRequest, request: Request) -> StreamingRespo
                 "status": status,
                 "result": record.result if record is not None else None,
                 "error": record.error if record is not None else None,
+                "tokens": record.tokens if record is not None else 0,
+                "tool_calls": record.tool_calls if record is not None else 0,
             },
         )
         yield "data: [DONE]\n\n"
@@ -234,3 +244,29 @@ async def cancel_run(thread_id: str, run_id: str, request: Request) -> RunRespon
             detail=f"Run {run_id} is not cancellable (status: {record.status.value})",
         )
     return _record_to_response(record)
+
+
+@router.get("/threads/{thread_id}/history", response_model=list[dict])
+async def get_thread_history(thread_id: str, request: Request) -> list[dict]:
+    """读取某线程的历史消息（仅 human/ai 两类，工具调用细节不回放）。"""
+    checkpointer = request.app.state.checkpointer
+    if checkpointer is None:
+        return []
+    try:
+        state = await checkpointer.aget_tuple(
+            {"configurable": {"thread_id": thread_id}}
+        )
+    except Exception:  # noqa: BLE001 - 读取失败返回空历史
+        return []
+    if state is None or state.checkpoint is None:
+        return []
+    messages = state.checkpoint.get("channel_values", {}).get("messages", [])
+    history: list[dict] = []
+    for m in messages:
+        if isinstance(m, HumanMessage):
+            if isinstance(m.content, str) and m.content:
+                history.append({"role": "human", "content": m.content})
+        elif isinstance(m, AIMessage):
+            if isinstance(m.content, str) and m.content:
+                history.append({"role": "ai", "content": m.content})
+    return history

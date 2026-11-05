@@ -1,0 +1,5134 @@
+{
+  "events": [
+    {
+      "id": "ev-0001",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "青云门沿革：自青云子开派到青叶道人振兴",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0003"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0008"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0011"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0002",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青云山上的修真门派为「青云门」，创派至今已有两千余年，为当今正邪两道之首。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0003",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "据说开派祖师本是一个江湖相师",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "据传青云门开派祖师本是一个江湖相师，四十九岁云游路经青云山，于山中密洞得到一本无名古卷；潜心修习二十年小有所成后开宗立派，号「青云」，自号「青云子」，后世弟子多尊称「青云真人」，因古卷所载近于道家而做道人打扮。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0004",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "青云子寿三百六十七岁",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青云子寿三百六十七岁，生前收十名弟子，临终叮嘱弟子青云山是人间罕有灵地、绝不可放弃此山。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0005",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青云子死后百年间青云门日见式微，十名弟子中两人早夭、四人死于江湖仇杀、一人残废、一人失踪，只传下两脉。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0006",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "其后五十年，青云山方圆百里发生天灾地震，山洪爆发，又绝一脉；仅存一脉因那本古卷引来外敌争夺，几番血战，全靠青云子留下的几道禁制法宝才未灭门。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0007",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "这种局面持续四百年，青云七峰中除主峰「通天峰」外其余六座都被外敌占据，其中还有强盗悍匪以之作据点四处抢掠。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0008",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "竟出了一个惊才绝艳、领袖群伦的绝世人物——青叶道人",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "距今约一千三百年前，青云门第十一代传人中出现青叶道人：俗家姓叶，原为贫苦书生，屡试不中，为第十代掌门无方子收为关门弟子，入门时年仅二十二岁。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0009",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青叶入门一年便贯通无方子所传所有剑术法道，又过一年连无方子也只能与他勉强打个平手；无方子遂将祖师传下的古卷交予青叶自行参详。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0010",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "据说他破关之时，正是月圆之夜",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "据说青叶在通天峰后山「幻月洞」闭关十三年，破关时正是月圆之夜，后山有龙吟长啸，淡紫祥光冲天，洞府豁然而开，青叶须发尽白、面带微笑、身有清光缓步而出，众人骇然以为成仙。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0011",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "青云山六峰外敌，竟已尽数伏诛",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青叶正式出家，以本家姓叶取青云之「青」字，故名「青叶」；他告别恩师无方子，一日夜后御剑而回，青云山六峰外敌已尽数伏诛，其道法之强手段之狠名动天下。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0012",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "又过一年无方子将掌门之位传于青叶；青叶掌权后励精图治、严格挑选传人，五十年间青云门已是正道支柱，二百年后领袖正道各派；青叶高寿五百五十岁而逝，一生仅传七人，将青云七峰分置七人令七脉共传香火，长门居于主峰通天峰的青云观。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0013",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "及至今日，青云门下弟子已近千人，与「天音寺」「焚香谷」并列为当世三大门派；掌门道玄真人功参造化，是当世一等一的绝世人物。"
+            }
+          ],
+          "id": "update-0001",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0012"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0013"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0004/index.json",
+                "record_id": "char-0004"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0005/index.json",
+                "record_id": "char-0005"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0006/index.json",
+                "record_id": "char-0006"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "叙述交代青云门发源于青云山，创派两千余年；历代式微，六峰被外敌所占；约一千三百年前青叶道人在幻月洞闭关十三年后破关，一日夜诛尽六峰外敌，其后掌青云门，七脉分置七峰，青云门成为正道支柱。今日青云门弟子近千，掌门为道玄真人。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0002",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "草庙村孩童追逐至村东破庙",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0016"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0018"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0014",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青云山麓脚下、离河阳城五十里的西北方有个小村落「草庙村」，住着四十多户人家，民风淳朴，村中百姓多以上山打柴交于青云门换些银两生活；青云门一向照顾周遭百姓，对村民颇为不错。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0015",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "这一日天空阴沉、乌云低垂，让人有股喘不过气来的感觉；从草庙村看去，巍峨的青云山隐隐带了一丝狰狞，村民世代见惯，毫不在意。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0016",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一个看去十二三岁、眉目清秀的男孩领着四五个男女孩童，追着前方另一个小孩跑向村子东头的破旧草庙；前面那个孩子比他小两岁、个子也矮些。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0017",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "后面那男孩高叫「张小凡，有种你就站住！」，被追的张小凡边跑边回「你当我白痴啊」，反而跑得更快。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0018",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡率先冲进草庙，被门板绊了一下摔了个跟头，后边几个小孩一拥而上将他压在身下，那清秀男孩面露得色说「被我抓住了」。"
+            }
+          ],
+          "id": "update-0002",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "林惊羽领四五个男女孩童追着张小凡跑向草庙村东头的破旧草庙，张小凡冲进去时被门板绊倒，被众人压住。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0003",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "林惊羽扼颈逼服，庙中老僧弹指制止",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0020"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0021"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0019",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "好你个林惊羽",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡拒绝认输，称被暗算，质问「林惊羽」这个门板是不是他放在这里的；林惊羽大声否认「哪有此事」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0020",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽气愤之下扼住张小凡的脖子，反复喝问「服不服」；张小凡呼吸逐渐困难、脸开始涨红，仍一声不吭；其他小孩眼看不对都悄悄缩了回去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0021",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "阿弥陀佛，快快住手",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "草庙深处传出一声佛号，有人道「阿弥陀佛，快快住手」，同时一只干瘦手掌伸出二指在林惊羽双手上弹了一弹，林惊羽如遭电击、全身大震，双手自然松开。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0022",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "两人回过神来彼此后怕；林惊羽对张小凡说「小凡，对不住了。我也不知道怎么……」，张小凡摇头道「没事」，随后问他「你是谁」。"
+            }
+          ],
+          "id": "update-0003",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0022"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "completed",
+          "story_time": null,
+          "summary": "张小凡不认输并质问门板之事，林惊羽扼住他脖子反复逼问服不服；张小凡脸色涨红仍一声不吭，其他小孩缩了回去。草庙深处传出佛号，一只干瘦手掌伸出二指弹在林惊羽手上，林惊羽如遭电击松开手，随后向张小凡道歉。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0004",
+      "introduced_at": 1,
+      "kind": "event",
+      "safe_through": 1,
+      "title": "老僧持碧玉念珠现身草庙",
+      "updates": [
+        {
+          "action_refs": [],
+          "chapter_ranges": [
+            {
+              "end": 1,
+              "start": 1
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0023",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "只见在这庙中，正站着一个年老和尚",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "众小孩看到庙中站着一个年老和尚，脸上皱纹横生，一身破旧袈裟，全身上下脏兮兮的；本章未交代其法号与来历。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0024",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "年老和尚手中持着一串碧玉念珠，十几颗大小一致、光洁剔透，晶莹剔透、耀人眼目，发出淡淡青光。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0025",
+              "revealed_at": 1,
+              "source_refs": [
+                {
+                  "anchor": "偏偏还夹杂着一颗非玉非石",
+                  "chapter_id": "ch-000001",
+                  "chapter_order": 1,
+                  "path": "source/vol-001/ch-000001.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "在十几颗碧玉念珠中，偏偏还夹杂着一颗非玉非石、颜色深紫、暗淡无光的圆珠。"
+            }
+          ],
+          "id": "update-0004",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0003/index.json",
+                "record_id": "char-0003"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 1,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "张小凡问「你是谁」，众孩童看到庙中站着一个年老和尚，破旧袈裟、满脸皱纹、浑身脏污，手持一串晶莹发青光的碧玉念珠，念珠中夹着一颗非玉非石、深紫暗淡的圆珠。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0005",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "草庙初遇：张小凡质问老僧身份，林惊羽带众孩童离开",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0027"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0030"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0031"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0026",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "草庙村位于青云门附近，此地以道教为尊，佛家弟子极为少见。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0027",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "喂，你是谁啊！怎么从没见过你",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡上前质问打坐老僧「你是谁啊！怎么从没见过你？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0028",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧反问张小凡：方才性命交关，只要认输便是，为何却要苦苦支撑，若非他出手张小凡早已白白送了性命。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0029",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡被问得呆了一呆，觉得老僧说的未尝没有道理，却说不出所以然，只得怔在原地。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0030",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "这老和尚古里古怪，我们别理他",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽瞪了老僧一眼，说「小凡，这老和尚古里古怪，我们别理他」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0031",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽拉着张小凡的手向外走，几个孩子都跟了过去，显出一向以林惊羽马首是瞻。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0032",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡走出庙门一段路后忍不住回头，天色渐暗，依稀可见那老和尚依然站在庙中，面容已模糊不清。"
+            }
+          ],
+          "id": "update-0005",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0031"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0032"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "白天，承第1章草庙中比试之后",
+          "summary": "草庙村少年张小凡质问打坐老僧来历，老僧不答而反问张小凡为何在性命交关时苦苦支撑；林惊羽认定老僧古怪，拉着张小凡带众孩童离开。张小凡出庙后回头，见老僧仍立于渐渐暗下的庙中。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0006",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "夜半黑气掳走林惊羽，老僧跃入黑气夺回",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0036"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0033",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "当夜一声雷鸣、黑云翻滚，老僧仍在草庙之中席地打坐，远望青云山只剩一片朦胧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0034",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "西边村子中不知何时起了一股浓如黑墨、翻涌不止的黑气，老僧死死盯着这股黑气。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0035",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "一眼看见其中竟夹带着一个小孩，正是白天见过的林惊羽",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气盘旋而起朝草庙方向急速飞来，其中竟夹带着一个小孩，正是白天见过的林惊羽。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0036",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧拔地而起直插入黑气，几声闷响后黑气止住；他肋下夹着林惊羽缓缓落下，身后袈裟已被撕去一块，林惊羽双目紧闭、呼吸平稳。"
+            }
+          ],
+          "id": "update-0006",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0036"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "当夜雷雨大风之时",
+          "summary": "夜里老僧仍在草庙打坐，见西边村子升起浓如黑墨的黑气。黑气盘旋扑向草庙，其中夹带着白天见过的林惊羽。老僧拔身插入黑气，将林惊羽救下，自身袈裟被撕去一块。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0007",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "草庙斗法：毒血幡与毒血尸王，普智中七尾蜈蚣之毒",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0045"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0047"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0054"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0055"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0058"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0037",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧质问对方「阁下道法高深，为何对无知孩童下手，只怕失了身份吧？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0038",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中传来沙哑声音反问「你又是谁，敢管我闲事？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0039",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧以「此处乃青云山下」相告，称若被青云门知道对方在此胡作非为，日后只怕不好过。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0040",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "青云门算什么，就仗着人多而已",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中人呸了一声，称「青云门算什么，就仗着人多而已」，要老僧识相地把小孩交出来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0041",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧合十称「出家人慈悲为怀」，断不能眼睁睁看着小孩遭对方毒手。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0042",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中一道深红异芒闪了一闪，草庙周围阴风大作、鬼气大盛。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0043",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "孽障，你竟然敢修炼此等丧尽天良",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧认出「毒血幡」，怒斥对方竟敢修炼此等丧尽天良、祸害人间的邪物，称今日决计饶不了他。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0044",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一面两丈红幡从半空中缓缓祭起，鬼哭之声越发凄厉，其间隐隐有骨骼作响声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0045",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "血色红幡上现出三角四眼、尖齿獠牙的狰狞鬼脸，四只眼睛全部睁开后化为实体冲出，带着血腥之气击向老僧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0046",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "单手结佛门狮子印",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧并不放下肋下的林惊羽，只用持碧玉念珠的左手在身前虚空画圆、单手结佛门狮子印，指尖发出金光，幻出一面金色法轮，与鬼物僵持半空。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0047",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "手腕被异物咬了一口",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧话未说完突然全身大震：右手抱着林惊羽处手腕被异物咬了一口，麻痒感立时行遍半身，眼前一黑，法轮摇摇欲坠。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0048",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "将金色法轮击得粉碎",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼物额头上又开出一只血红巨目，将金色法轮击得粉碎，重重打在老僧胸口；老僧被打得向后飞起，肋下的林惊羽掉在地上，老僧肋骨似已尽数断折，身躯砸塌了一面庙墙。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0049",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧颤巍巍站起，喷出一口热血染红僧衣，全身剧痛，那股麻痒感越来越逼近心脏。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0050",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "最奇异的是它尾部分了七叉",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽衣襟中缓缓爬出一只个大如掌、尾部分了七叉、每叉各呈一色的彩色蜈蚣，老僧认出其为「七尾蜈蚣」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0051",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老僧问对方：是否将这天下奇毒之物放在那孩子身上、又故意隐藏实力看准机会一击伤他，是冲着自己来的。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0052",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "我便是专门冲着你普智秃驴来的",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中人冷笑承认「我便是专门冲着你普智秃驴来的」，称若非如此，凭对方一身天音寺佛门修行倒也不好对付；并要对方交出「噬血珠」，以七尾蜈蚣的解药相换、饶其不死。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0053",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "枉我名中还有一个智字",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "被称普智的老僧惨笑，自嘲枉名字中还有一个「智」字，竟没想到对方炼毒血幡邪物必是贪图噬血珠；他断然拒绝将这「世间至凶之物」交出。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0054",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "那串碧玉念珠已为他捏断",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智捏断那串碧玉念珠，十几颗念珠不下坠反而滴溜溜转个不停、发出青光浮在他身前，只有那颗深紫圆珠径直掉下，被他一把抓在手中。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0055",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "双手即结左右水瓶印",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智双手结左右水瓶印、两目圆睁、全身隐有金光，一字一字念出「唵、嘛、呢、叭、咪、吽」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0056",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "六字大明咒（注一）",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中人认出这是「六字大明咒」，口气立时多了几分凝重。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0057",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼物一接触到碧玉青光便化为无形、不能进前，与念珠青光僵持在半空；普智的身子又一阵摇晃，脸上隐泛黑气却露出几分凛然的笑意。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0058",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "五目齐齐迸裂",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智作狮子吼，一颗念珠碎裂幻作「佛」字打在鬼物脸上，随后七八颗念珠接连化佛家真言击中，第九颗击中时鬼物五目齐齐迸裂、骨骼乱响、跌落在地，挣扎几下后化为血水。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0059",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智又喷出一大口血，血的颜色已成了黑的。"
+            }
+          ],
+          "id": "update-0007",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0046"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0058"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0059"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "当夜，紧接黑气来袭",
+          "summary": "黑气中人祭出两丈血色红幡「毒血幡」，放出五目鬼物「毒血尸王」。老僧认出邪物后以单手狮子印幻出金色法轮相抗，却被事先藏在林惊羽身上、咬其手腕的七尾蜈蚣所伤，法轮被击碎、肋骨似断、吐血。老僧以捏断的碧玉念珠诵「六字大明咒」，将鬼物击散化为血水，但自身血已变黑。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0040"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0043"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0048"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0008",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "张小凡夜至草庙，遭七尾蜈蚣扑袭被普智挡下",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0061"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0060",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "只见日间见到的小孩张小凡，不知为何来到了这草庙之前",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一声尖叫从草庙门口传来，张小凡不知为何来到庙前，站在门口目瞪口呆地看着庙中景象，普智与黑气中人都吃了一惊。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0061",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "那只原来爬在林惊羽身上的七尾蜈蚣忽然振尾",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中人一声冷哼，原本爬在林惊羽身上的七尾蜈蚣振尾飞起，疾如闪电扑向张小凡；普智右手一指，一颗碧玉念珠急冲而至，蜈蚣不敢抵挡，折冲而起投入黑气之中，再无声息。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0062",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "果然不愧是天音寺四大神僧",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑气中人阴森地说普智「果然不愧是天音寺四大神僧」，重伤之下还能破了他的「毒血尸王」，但普智已受尸王一击又中七尾蜈蚣之毒，撑不了多久，仍要他交出噬血珠。"
+            }
+          ],
+          "id": "update-0008",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0061"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "concluded",
+          "story_time": "斗法中途",
+          "summary": "一声尖叫从草庙门口传来，张小凡不知为何来到庙前，目瞪口呆看着庙中景象。黑气中人一声冷哼，七尾蜈蚣转向飞扑张小凡，普智以一颗碧玉念珠击射，蜈蚣折冲投入黑气之中。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0009",
+      "introduced_at": 2,
+      "kind": "event",
+      "safe_through": 2,
+      "title": "黑衣人现真身，施展「神剑御雷真诀」，普智认出青云门下",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0064"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0067"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0068"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0069"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 2,
+              "start": 2
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0063",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "老衲就算今日毙命于此，也要先除了你这个妖人",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智惨笑，嘶声说老衲就算今日毙命于此，也要先除了这个妖人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0064",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "一物闪着青光从后面撞入黑气",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智暗中操控先前击向蜈蚣的那颗碧玉念珠绕到黑气后方猝起发难，黑气中一声怒吼，青芒闪处黑气散乱，最终四处散开化于无形。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0065",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "从半空中缓缓落下一个高瘦之人",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "从半空中缓缓落下一个高瘦之人，全身上下用黑袍紧紧包住，看不清容貌岁数，只有一双凶光闪闪的眼睛，背后还绑着一把长剑。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0066",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智低声问对方：如此道行，怎地却不敢见人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0067",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "此剑清如秋水，亮不刺目",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑衣人反手拔出背后长剑，此剑清如秋水、亮不刺目，有淡淡清光附于其上，普智忍不住叫了一声「好剑」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0068",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "手握剑诀，脚踏七星，连行七步",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑衣人一声低哼，手握剑诀、脚踏七星连行七步，长剑霍然刺天；片刻之间天际乌云翻涌不止、雷声隆隆，黑云边缘不断有电光闪动，狂风大做。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0069",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "九天玄刹，化为神雷",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑衣人剑势中的咒文为「九天玄刹，化为神雷。煌煌天威，以剑引之！」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [
+                "claim-local-43",
+                "claim-local-44"
+              ],
+              "certainty": "reported",
+              "id": "claim-0070",
+              "revealed_at": 2,
+              "source_refs": [
+                {
+                  "anchor": "你竟是青云门下",
+                  "chapter_id": "ch-000002",
+                  "chapter_order": 2,
+                  "path": "source/vol-001/ch-000002.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智认出这是「神剑御雷真诀」，脸色苍白如灰，随之浮起惊讶、绝望与一点莫名的狂热，蓦然大喊「你竟是青云门下！」"
+            }
+          ],
+          "id": "update-0009",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0070"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0009/index.json",
+                "record_id": "char-0009"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 2,
+          "status": "ongoing",
+          "story_time": "本章末，斗法未决",
+          "summary": "普智暗中操控念珠绕至黑气后方发难，黑气散尽，露出全身黑袍、背绑长剑的高瘦黑衣人。黑衣人拔出清如秋水的长剑，脚踏七星连行七步、长剑刺天，念动引雷咒文，天际乌云翻涌雷霆大作；普智认出「神剑御雷真诀」，惊喊对方竟是青云门下。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0064"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0010",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "草庙斗法：神剑御雷真诀与大梵般若对撞，草庙崩塌",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0071"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0072"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0073"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0071",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "竟打入人间大地，落在了那黑衣人的长剑之上",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一声炸雷后，一道闪电横空击在黑衣人的长剑上，黑衣人全身衣服高高鼓起、双目圆睁。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0072",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "剑上电芒疾射向普智",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑衣人引动剑上电芒射向普智，沿途草木砖石激震飞扬，地上留下深深一道炽痕；普智连退三步并撤去手印。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0073",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "七颗碧玉念珠尽数碎裂",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智双掌合十、全身散发隐隐金光，念『我佛慈悲』，其身前仅剩的七颗碧玉念珠尽数碎裂，幻成一个巨大『佛』字。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0074",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "整座草庙，四分五裂",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "电光与『佛』字相撞后，整座草庙以斗法二人为中心四分五裂向四面八方包括天上震飞，张小凡被震得向后飞去并晕了过去。"
+            }
+          ],
+          "id": "update-0010",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0072"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0074"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0010/index.json",
+                "record_id": "char-0010"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "夜间草庙中，黑衣人以引雷入剑的术法攻向普智，普智以佛门金光与碎裂的碧玉念珠化出巨大『佛』字相接；两力相撞后整座草庙四分五裂，张小凡被震飞后昏死过去。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0011",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "普智服下三日必死丸延命",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0075"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0076"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0075",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "肋下夹着张小凡和林惊羽",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智肋下夹着张小凡和林惊羽走到一块较干净的地面，将两个孩子放下后因全身剧痛而颓然坐倒。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0076",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "只剩下心口一处小小地方，未被侵袭",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智胸口透出焦臭僧衣可见一股黑气渐渐合围，只剩心口一处小小地方未被侵袭；他抖着手从怀中摸出一颗约指头大小的红色药丸并吞下。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0077",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "三日必死丸",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智自称那药丸是鬼医给的『三日必死丸』，并称自己到底是让鬼医给说中了。"
+            }
+          ],
+          "id": "update-0011",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0077"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "斗法后普智肋下夹着张小凡与林惊羽走到干净处，胸口黑气已合围只剩心口一点；他自怀中取出一颗红色药丸，犹豫后吞下。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0012",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "普智决意授张小凡佛门神功并令他投入青云门",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0080"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0081"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0078",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "那妖人受创虽重，却未伤根本",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智自述那黑衣妖人受创虽重却未伤根本，且似是青云门中极有身份地位之人，料其必会折返杀人灭口、危及全村性命。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0079",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "以天音寺“大梵般若”奇功",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智自述他以天音寺『大梵般若』奇功借佛门至宝『翡翠念珠』之力生出降魔大力，挡下那邪人的神剑御雷真诀并反挫重创对方，令其惊而遁逃。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0080",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "延长寿命三日而已",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智自述自己重伤之身又受道家奇术一击，已是油尽灯枯，只靠三日必死丸苟延残喘、延长寿命三日。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0081",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "三个师兄却异口同声地反对",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智自述其平生大愿是参破生死之谜：因佛门道法只能增强功力而不能解生死之谜，他想到让佛道联手研习的办法，却遭三个师兄异口同声反对，几度拜访道家名门（含数次上青云山）均被掌教道玄真人婉拒。"
+            }
+          ],
+          "id": "update-0012",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "普智念及自己三日内必死、妖人将折返杀人灭口，先看向林惊羽又收回目光，最终选中张小凡，决定以残余佛力救醒他并传其佛门神功。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0013",
+      "introduced_at": 3,
+      "kind": "event",
+      "safe_through": 3,
+      "title": "普智传张小凡口诀并受其三拜师徒之礼",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0084"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0085"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0086"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0087"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0088"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0089"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 3,
+              "start": 3
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0082",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "岂非一举两得",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智出声自语，想到『既传一人佛家神功，再令他投入青云门下修习道家术法』，可一举两得：既救两个孩子性命，又替他完成心愿。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0083",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "若为人知晓，事情败露，必死无疑",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智心想此事关系重大、各派极忌偷师，一旦败露必死；因林惊羽资质极好、若入青云门必受注目而藏不住秘密，他把目光转向张小凡。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0084",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "以后就看你自己的造化了",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智说『资质差些，也不打紧，以后就看你自己的造化了』，随后在张小凡身上拍了几下，以残余佛力将他救醒。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0085",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "就给你送点吃的来",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡醒来后说：傍晚看到老和尚还站在庙中，因天要下雨、庙里破烂会很冷，所以给普智送吃的来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0086",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "非到生死关头，切切不可施展此术",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智对张小凡说要传他一套修行法门，并要他答应三件事：绝不可对旁人乃至至亲说起此事；每日必修习一次且只可在夜深人静时修炼；非生死关头不可施展此术。张小凡逐条答允，自称『我死也不说』。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0087",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "足足用了三个时辰，方才尽数背下",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智传给张小凡一套约千字的口诀，张小凡用了三个时辰将其尽数背下。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0088",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "我法名普智，是天音寺僧人",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智向张小凡自报名号：『我法名普智，是天音寺僧人』；张小凡表示不知天音寺。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0089",
+              "revealed_at": 3,
+              "source_refs": [
+                {
+                  "anchor": "你找个深谷悬崖，将它扔了下去",
+                  "chapter_id": "ch-000003",
+                  "chapter_order": 3,
+                  "path": "source/vol-001/ch-000003.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "普智给张小凡一颗深紫珠子，嘱咐他好好收起、不可让外人看到，日后安定下来找个深谷悬崖把它扔下去；并要求不可对外人提起他的名号。"
+            }
+          ],
+          "id": "update-0013",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0089"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0008/index.json",
+                "record_id": "char-0008"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 3,
+          "status": "completed",
+          "story_time": null,
+          "summary": "张小凡醒来回答送饭来意后，普智提出要传修行法门并要他答应三件事；张小凡用一个多时辰至三个时辰背下约千字口诀，接过深紫珠子，叩三头唤『师傅』后被普智拍背弄昏。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0014",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "草庙村村民集体死亡被发现",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0094"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0095"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0094",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "二人跑回村时发现村中异常安静、不见人影，晨风中隐隐有血腥味。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0095",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "草庙村四十余户人家",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "村中空地上躺着草庙村四十余户人家、二百余人的尸体，大大小小男男女女身体僵硬，血流成河。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0096",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽与张小凡见此景象惊吓大叫，随即昏了过去。"
+            }
+          ],
+          "id": "update-0014",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0096"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "occurred",
+          "story_time": null,
+          "summary": "雨停后的清晨，张小凡与林惊羽跑回草庙村，发现村中空无一人、气味血腥；村中空地上躺满草庙村四十余户二百余人的尸体，二人惊叫后昏倒。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0015",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "张小凡在青云山厢房醒来与林惊羽重逢",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0097"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0098"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0091",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "清晨雨停，张小凡被树叶滑落的水珠打醒，发现自己与林惊羽全身湿透，躺在野外一棵松树下。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0092",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "下意识地要叫道",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡醒来时下意识要叫\"师傅\"，但四野无人，只有林惊羽躺在身旁。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0093",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽醒来后说\"我不是在家里睡觉吗，怎么到了这里？\"，对自己身在野外十分困惑。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0097",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡在一间普通厢房惊醒，房内有一张连在一起的大炕、四个床位，其中一个床位被褥凌乱、另两个被子叠得整齐，墙上挂着写有一个\"道\"字的横幅。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0098",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡拉开虚掩的房门走到院中，看到林惊羽独自坐在台阶一角，二人默默对视、无声流泪。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0099",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "这里是青云山通天峰",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽告诉张小凡，此处是青云山通天峰。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0100",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "是几个路过的青云门下弟子",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽说，几个路过的青云门下弟子看到村中情形，后来在村后头找到了他们两人，便把他们带上山来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0101",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡问以后怎么办，林惊羽摇头凄然回答\"我不知道\"。"
+            }
+          ],
+          "id": "update-0015",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0099"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "occurred",
+          "story_time": null,
+          "summary": "张小凡从噩梦中惊醒于一间普通厢房，房内大炕有四个床位、墙上挂着写有\"道\"字的横幅；他拉开房门，见林惊羽独自坐在台阶一角。二人相对流泪，林惊羽转述此前得知的情形：此处是青云山通天峰，是几个路过的青云门下弟子在村后找到他们并带上山来。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0016",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "青年道士引二人穿回廊、云海广场与虹桥前往玉清殿",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0103"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0104"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0106"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0108"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0102",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名身穿蓝色道袍的青年道士来到院中，说几位师尊也想见二人、要问一些问题，让他们随他前去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0103",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士领着二人走出小庭院，进入一条环形回廊：回廊边缘每隔两丈有一根红柱，柱间各有一拱门，拱门内都是样式几乎相同的小庭院，数量怕不下百间。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0104",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "回廊尽头的白墙下开有一扇高达十丈的大木门，二人穿门而出，见到一片全以汉白玉铺砌的巨大广场，广场中央按三排每排三个摆放九只铜制巨鼎，鼎中升起清而不散的轻烟。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0105",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "青云六景",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士说此处是青云六景中的\"云海\"，前头还有更好的，并指向\"虹桥\"。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0106",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "广场尽头有一座石桥，无座无墩、横空而起，一头搭在广场、斜伸入白云深处；桥两侧不断有水流下，中间部分滴水不沾，阳光下整座桥散发七彩颜色。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0107",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士警告二人桥下是无底深渊，不小心掉下去便死无葬身之地。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0108",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "三人走过虹桥后白云渐薄，前方即通天峰峰顶、青云观主殿\"玉清殿\"所在，殿宇坐落峰顶、云气环绕，有瑞鹤飞过，殿中传出道家歌诀之声。"
+            }
+          ],
+          "id": "update-0016",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "occurred",
+          "story_time": null,
+          "summary": "一名蓝袍青年道士出现，称几位师尊要见两个孩子并问些问题，随即领他们离开小院，穿过环形回廊与不下百间的小院，走出高达十丈的大门，经过汉白玉铺砌的\"云海\"广场，踏上无座无墩的\"虹桥\"，最终抵达通天峰峰顶的玉清殿。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0017",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "水潭巨兽跃出，青年道士称其为灵尊水麒麟",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0109"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0110"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0111"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0114"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0109",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "龙首狮身",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "水潭中心突起巨大漩涡，巨浪卷起，一只高逾五丈、龙首狮身、遍身鳞甲、长有两根锋利獠牙的巨兽跃出水面，水花扑向两个孩子。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0110",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "疾向后飘出两丈多远",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士左手一引、身子临空飘起，向后飘出两丈多远停在半空，两个孩子被水花淋得全身湿透。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0111",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士单掌竖在胸前，恭敬地对巨兽说\"灵尊，他们是诸位师尊特意召见的\"。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0112",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "千年前我派青叶祖师收服的上古异兽",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士介绍巨兽是千年前青叶祖师收服的上古异兽，名叫\"水麒麟\"，当年曾为青叶祖师光大青云、降妖除魔出力，如今是青云门镇山灵兽，敬称\"灵尊\"。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0113",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "巨兽打了个响鼻，不再理会三人，摇摇晃晃走到水潭边干地上趴下，打个哈欠伏头睡去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0114",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡与林惊羽一起恭恭敬敬地向水麒麟行了一礼。"
+            }
+          ],
+          "id": "update-0017",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0113"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0013/index.json",
+                "record_id": "char-0013"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0012/index.json",
+                "record_id": "char-0012"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "occurred",
+          "story_time": null,
+          "summary": "碧绿水潭中心突起漩涡，一只高逾五丈、龙首狮身、遍身鳞甲、两根獠牙的巨兽跃出水面，水花扑来；青年道士临空后飘避开，两个孩子被淋湿。道士向其行礼并称\"灵尊\"，并说明它是千年前青叶祖师收服的上古异兽\"水麒麟\"、青云门镇山灵兽。巨兽打哈欠在潭边睡去，二人也向其行礼。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0018",
+      "introduced_at": 4,
+      "kind": "event",
+      "safe_through": 4,
+      "title": "二人抵达玉清殿，殿内六人列坐",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0115"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 4,
+              "start": 4
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0115",
+              "revealed_at": 4,
+              "source_refs": [
+                {
+                  "anchor": "七张檀木大椅",
+                  "chapter_id": "ch-000004",
+                  "chapter_order": 4,
+                  "path": "source/vol-001/ch-000004.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "玉清殿门扉大开，内供奉元始天尊、灵宝天尊、道德天尊三清神位；神位前站着数十个有道有俗之人，殿上摆七张檀木大椅（左右各三、居中最前一张），只坐着六人，右排最后一张椅子空无人坐。"
+            }
+          ],
+          "id": "update-0018",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 4,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "二人走上石阶来到玉清殿前：殿门大开，供奉元始天尊、灵宝天尊、道德天尊三清神位；神位前站着数十个有道有俗之人，殿上摆七张檀木大椅，左右各三、居中一张，只坐着六人，右排最后一张椅子空无人坐。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0019",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "玉清殿上王二叔惊惧发狂",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0119"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0116",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "弟子常箭，奉命将两位小",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青年道士常箭在玉清殿门外整衣禀告，自称奉命带来张小凡与林惊羽二人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0117",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "鬼，恶鬼！鬼啊！",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "玉清殿内传出凄厉呼喊：“鬼，恶鬼！鬼啊！”"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0118",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡与林惊羽认出墙角发狂者是草庙村的樵夫王二叔，此人姓王、排行第二，平日上山打柴会带野果分给村里小孩。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0119",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡抓住王二叔肩膀追问村里人和父母的下落；王二叔抬头看他却一言不发，被张小凡大声一喊后又连滚带爬缩成一团，不停哀号“鬼，鬼，鬼啊”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0120",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "没用的，他已经疯了！",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽拉住张小凡，含泪说“没用的，他已经疯了！”。"
+            }
+          ],
+          "id": "update-0019",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0120"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0015/index.json",
+                "record_id": "char-0015"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0016/index.json",
+                "record_id": "char-0016"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": null,
+          "summary": "常箭奉命带张小凡、林惊羽到玉清殿外，殿内突传凄厉呼喊。张小凡冲入殿中，认出墙角蜷缩发狂者是草庙村樵夫王二叔，追问父母下落无果；林惊羽指其已疯。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0020",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "道玄真人问询草庙村两名遗孤",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0123"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0121",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "青云门掌门道玄真人",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "殿中坐着六位气度出众之人，三道三俗；坐在正中、身着墨绿道袍者是青云门掌门道玄真人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0122",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽拉张小凡跑到六位首座面前，向道玄真人叩头不止，请求为他们做主。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0123",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人称自己不知过去将来，但二人居住在青云山下，青云门不会置之不理，只是要先问几个问题。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0124",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽自述：昨晚记得在家床上睡觉，早上醒来却和张小凡一起躺在野外一棵松树下，不知发生了什么事，之后跑回村见到惨状便吓昏。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0125",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡自述不知自己如何到了那处，醒来见林惊羽在旁便叫醒了他。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0126",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "宋大仁声音粗亮",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁自述：今早与师兄弟御空返回时经过草庙村上空，发现村中有二百多具死尸堆在一起；他们找到昏迷的两名小孩送归，又在村边茅厕发现王二叔，其目光呆滞，只反复说“鬼，鬼，恶鬼”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0127",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "四十二户人家共二百四十七人",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁述称经辨认清点，草庙村四十二户人家共二百四十七人，除他们三人外全部死亡。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0128",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "一颗红色小珠",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人袖袍中飞出一颗红色小珠，在张、林二人额上心口滚动，二人心中紧绷的神经松弛，随即在大殿上睡去。"
+            }
+          ],
+          "id": "update-0020",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0128"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0018/index.json",
+                "record_id": "char-0018"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": null,
+          "summary": "林惊羽拉张小凡向道玄真人叩头求助。道玄与五脉首座问二人昨夜经过，二人均称一无所知；宋大仁复述草庙村发现经过与死难人数。道玄以定神珠令二人安睡。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0122"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0021",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "青云首座商议遗孤归属，苍松道人得林惊羽",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0136"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0129",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "首座水月大师未来",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "草庙村惨案是青云门千年来未曾有过之事，且发生在青云门脚下，举派震动；道玄真人接报后召来其余六脉首座商议，此次除小竹峰首座水月大师未到外，其他五脉首座均在座。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0130",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易（大竹峰首座）提出最好不要让张小凡与林惊羽同入一人门下，以免二人相处时屡忆往事、戾气不绝。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0131",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人认为田不易所言有理，决定不宜让二人共居一处，需由两位师弟分别收留二人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0132",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "林惊羽天资过人，根骨奇佳",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "除苍松外的其他五脉首座目光几乎同时落在林惊羽身上，无人理会张小凡；原文叙述林惊羽天资过人、根骨奇佳，一眼便被各脉首座看上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0133",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易称大竹峰一脉一向人丁单薄，表示愿替掌门分担一人，手正要指向林惊羽时被朝阳峰首座商正梁抢先挡在身前。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0020/index.json",
+                "record_id": "char-0020"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0134",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "商正梁（朝阳峰首座）向道玄真人请求收林惊羽为徒，称一见这孩子便觉极是投缘、想是有宿缘。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0021/index.json",
+                "record_id": "char-0021"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0135",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "你门下已有二百弟子",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天云道人（落霞峰首座）出言讽刺商正梁门下已有二百弟子；田不易则称大竹峰一脉只有七人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0018/index.json",
+                "record_id": "char-0018"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0136",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苍松道人打断田不易，称应给两个孩子最好的照顾而非计较各脉人数，并拱手向道玄真人请求将林惊羽收入自己门下、悉心教导成才。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0137",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "那就让他投入你的门下吧",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人同意苍松道人所请，让林惊羽投入苍松门下。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0138",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苍松道人微笑称谢；其余首座因道玄真人已发话、且龙首峰一脉实力强盛，只得咽下这口气。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0139",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "对于“另一位”张小凡，商正梁闭眼、天云道人看天花板、田不易装睡、风回峰首座曾叔常入定，均回避不接。"
+            }
+          ],
+          "id": "update-0021",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0137"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0138"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0018/index.json",
+                "record_id": "char-0018"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0020/index.json",
+                "record_id": "char-0020"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0021/index.json",
+                "record_id": "char-0021"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0022/index.json",
+                "record_id": "char-0022"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": null,
+          "summary": "田不易提议二人不可同入一人门下，道玄真人采纳。各脉首座争抢资质过人的林惊羽，无人理会张小凡；苍松道人最终得道玄允准，将林惊羽收入龙首峰门下。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0129"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0022",
+      "introduced_at": 5,
+      "kind": "event",
+      "safe_through": 5,
+      "title": "张小凡被指派入大竹峰田不易门下",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0143"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 5,
+              "start": 5
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0140",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "还是你收到门下吧",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人以“草庙村之事是宋大仁首先发现”为由，将张小凡指给田不易，称与张小凡和大竹峰一脉有缘分。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0141",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "张小凡资质一般",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易看出张小凡资质一般，认为收到门下只是累赘，心中不喜，正要分辩。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0142",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人抢在田不易分辩前宣布此事告一段落，并要求诸位师弟注意调查草庙村之事；苍松等人齐声应是。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0143",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "赤色光芒闪过",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易抱着张小凡走出玉清殿，对宋大仁发怒喝斥；随后祭起一柄赤色长剑，踏剑破空飞去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0144",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "anchor": "自己多了个师弟",
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁从田不易手中接过仍在沉睡的张小凡，明白自己多了个师弟。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0145",
+              "revealed_at": 5,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000005",
+                  "chapter_order": 5,
+                  "path": "source/vol-001/ch-000005.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁对沉睡的张小凡说“小师弟，我还不知道你叫什么名字呢”，张小凡未醒。"
+            }
+          ],
+          "id": "update-0022",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0144"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0145"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 5,
+          "status": "completed",
+          "story_time": null,
+          "summary": "其余首座均回避收张小凡，道玄真人以宋大仁首先发现草庙村之事为由，将张小凡指给田不易。田不易虽不情愿，仍抱张小凡出殿，祭起赤色长剑飞回大竹峰，宋大仁接手并得知多了个师弟。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0142"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0023",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "张小凡醒转，得知被田不易收为徒",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0150"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0152"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0150",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "你醒来了啊！这就好了",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡在床上醒来，宋大仁到房中探望，摸他的头并出言安慰，说以后就是一家人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0151",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "宋大仁微笑着把田不易已收他为徒一事说了一遍",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁把田不易已收张小凡为徒一事告诉了他。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0152",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "张口叫了一声：“宋师兄。”",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡改口称宋大仁为“宋师兄”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0153",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "你这一睡可一下子过了一天一夜",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说张小凡这一睡睡了一天一夜。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0154",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "就算现在加了你，总人数也不过十人",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁介绍大竹峰人丁单薄，加上张小凡总人数也不过十人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0155",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "青叶祖师座下四弟子郑通",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "据宋大仁所述，大竹峰一脉自青叶祖师座下四弟子郑通起传至田不易共六代，人丁一直不盛。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0156",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "也就是田不易的妻子",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说大竹峰师长辈除首座田不易外只有师叔苏茹，苏茹是田不易的妻子。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0157",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "今年十三，比张小凡大了两岁",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说田不易与苏茹生有一女田灵儿，今年十三岁，比张小凡大两岁，张小凡因此是名副其实的小师弟。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0158",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "宋大仁是大师兄，依次往下有吴大义、郑大礼、何大智、吕大信、杜必书",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说田不易门下弟子中宋大仁为大师兄，往下依次是吴大义、郑大礼、何大智、吕大信、杜必书。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0159",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "后来师娘便替他取了“杜必书”这个名字",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说杜必书本名杜大书，因“大书”念来像“大叔”被师娘改名，师娘替他取了“杜必书”这个名字。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0160",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "六师弟入门前本有好赌恶习",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁说六师弟入门前有好赌恶习，被田不易渡化上山，如今不再赌钱但爱与人打赌。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0161",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡被宋大仁引着说笑，笑颜遂开，悲切心情淡了许多，对将来的恐惧也慢慢安定下来。"
+            }
+          ],
+          "id": "update-0023",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0153"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0154"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0155"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0156"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0157"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0158"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0159"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0160"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0161"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "closed",
+          "story_time": "张小凡昏睡一天一夜之后",
+          "summary": "张小凡在房内醒来，宋大仁前来探望，告知田不易已收他为徒，并向他介绍大竹峰人丁、师长与弟子排行等情况，随后带他去厨房吃东西。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0151"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0024",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "守静堂拜师大礼与苏茹考较弟子",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0164"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0166"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0168"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0170"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0162",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "大竹峰主殿“守静堂”",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大竹峰上下人等聚集在主殿守静堂，田不易与苏茹坐在堂前两把椅子上，田灵儿站在苏茹身旁，另有五名男弟子一字排开站在下首。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0163",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "弟子把小师弟带过来了",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁在堂前恭声禀报师父师娘已把小师弟带过来，田不易当即道“开始吧”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0164",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "快跪下磕头拜师",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡经宋大仁低声提示后立刻跪下磕头，连磕十几个，又重又响，额头红了一片。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0165",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "好孩子，磕九个就可以了",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苏茹告诉张小凡磕九个就可以了。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0166",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "本派门规戒条，还有些入门道法，就由你先传授",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易命宋大仁先带着张小凡，本派门规戒条与入门道法都由宋大仁先传授。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0167",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "小弟年纪还小，这入门弟子的功课",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁迟疑着向田不易提出小师弟年纪还小，入门弟子的功课安排有问题。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0168",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "道：“照做。”说完站起身",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田不易以“照做”两字回应后起身向后堂走去，众弟子一齐鞠躬恭送。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0169",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "他见了我会脸红呢",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田灵儿当众指着张小凡笑说他见了自己会脸红，堂上众人轰然大笑。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0170",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "快叫我师姐",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "田灵儿要求张小凡叫她“师姐”，张小凡依言叫了一声“师姐”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0171",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "小师弟年纪还小，那功课怕是有些吃力，你多照顾他一点",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苏茹叮嘱宋大仁多照顾年纪尚小的张小凡的功课，宋大仁恭声应下。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0172",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "大竹峰众弟子自宋大仁以下，嬉笑声顿灭",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苏茹做出像活动筋骨般转头的动作后，大竹峰众弟子嬉笑声顿灭，个个张口结舌，露出大祸临头的表情。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0173",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "弟子奉师父命，要传他门规戒条以及入门功课",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁急呼“师娘”，称奉师父之命要传张小凡门规戒条与入门功课，苏茹允其离去；其余五名师弟同声喊出“大师兄，你要干什么？”。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0174",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "再过五年就是青云门一甲子一次",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "苏茹喝斥众弟子一听说要考较修行就怕成这副德行，并说再过五年就是青云门一甲子一次的“七脉会武”，命剩下的五个弟子齐上。"
+            }
+          ],
+          "id": "update-0024",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0172"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0173"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0174"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0019/index.json",
+                "record_id": "char-0019"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0024/index.json",
+                "record_id": "char-0024"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0026/index.json",
+                "record_id": "char-0026"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "closed",
+          "story_time": null,
+          "summary": "大竹峰众人在主殿守静堂聚集，张小凡在宋大仁提示下磕头拜师；田不易将传门规与入门道法的差事交给宋大仁后离堂；田灵儿强要张小凡称她师姐；苏茹欲考较弟子修行并提及五年后的七脉会武，宋大仁借师命带张小凡离开。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0162"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0163"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0025",
+      "introduced_at": 6,
+      "kind": "event",
+      "safe_through": 6,
+      "title": "后山竹林砍竹功课与门规传授",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0175"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0177"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0178"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 6,
+              "start": 6
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0175",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "祭起了一条朱红玉绫",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁抱着张小凡大步流星奔向后山，田灵儿祭起一条朱红玉绫（后文称“琥珀朱绫”）御空而行，紧跟在宋大仁身后。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0176",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "乃是师娘年轻时修炼的成名法宝",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁告诉张小凡，“琥珀朱绫”是师娘苏茹年轻时修炼的成名法宝，妙用无方、威力巨大，在青云门中鼎鼎有名。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0177",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "在竹节处都呈现黑色",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "三人在后山一个小山坡前停下，山坡上长满竹子成片成林，竹节处均呈黑色。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0178",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "初入门的弟子，每日都要到此处砍伐竹子",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁告知张小凡大竹峰的规矩：初入门弟子每日都要到这处竹林砍伐竹子，张小凡头三个月每日砍一棵，粗细随意。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0179",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "我砍过柴的，不必担心",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡说自己在草庙村砍过柴，不必担心，宋大仁看他样子欲言又止。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-0180",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "本门门规第一条首重尊师",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "宋大仁一边走一边向张小凡讲门规，第一条首重尊师。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0181",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "首座田不易生性懒散",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述称田不易生性懒散、虽要面子却懒得管教弟子，一般只传道术法门便不理不睬；其妻苏茹生性要强、性喜动武，年轻时名头颇响，婚后常出手替田不易“教诲”弟子，弟子们怕师娘远胜过怕师父。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0182",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "除了大师兄宋大仁偶尔胜上一场",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述称青云门每过一甲子照例举办“七脉会武”大试，大竹峰弟子连着几届屡战屡败，除大师兄宋大仁偶尔胜上一场外其余人全败，成为青云门内上下笑柄。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0183",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "不知从哪里传来一声长长犬吠",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天色已迟、晚霞灿烂时，一大二小缓步向山前走去，远处峰前屋宇处传来一声长长犬吠，中间夹杂几声尖声呼痛。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-0184",
+              "revealed_at": 6,
+              "source_refs": [
+                {
+                  "anchor": "田灵儿在大竹峰上一向排名最末",
+                  "chapter_id": "ch-000006",
+                  "chapter_order": 6,
+                  "path": "source/vol-001/ch-000006.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "张小凡成为大竹峰门中排名最末的小师弟，田灵儿此前一向排名最末，如今多了个比自己还小的师弟而极是欢喜。"
+            }
+          ],
+          "id": "update-0025",
+          "outcome_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0179"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0180"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0181"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0182"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0183"
+            },
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0184"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0017/index.json",
+                "record_id": "char-0017"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0025/index.json",
+                "record_id": "char-0025"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 6,
+          "status": "ongoing",
+          "story_time": "当日傍晚",
+          "summary": "宋大仁抱张小凡奔向大竹峰后山，田灵儿祭起琥珀朱绫御空跟随；三人在长满黑色竹节的竹林停下，宋大仁告知每日砍竹的规矩并开始讲门规，随后一同步行返回山前。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0001.json",
+              "record_id": "claim-0173"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "block-0001",
+  "kind": "event_collection",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 7,
+  "safe_through": 6,
+  "schema_version": "2.0"
+}

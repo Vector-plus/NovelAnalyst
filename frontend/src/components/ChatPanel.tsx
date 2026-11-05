@@ -1,11 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
 import { Bot, Loader2, Send, Square, Terminal, User, Wrench } from 'lucide-react';
-import type { Space, StreamEvent } from '../types';
+import type { StreamEvent } from '../types';
+import { getThreadHistory } from '../api';
 import { useStreamTask } from '../hooks/useStreamTask';
 import { truncate } from '../lib/utils';
 
 interface ChatPanelProps {
-  space: Space;
+  sessionId: string;
+  threadId: string;
+  novelId: string;
+  title?: string;
 }
 
 interface ChatMessage {
@@ -15,6 +19,8 @@ interface ChatMessage {
   reasoning?: string;
   tools?: StreamEvent[];
   status?: 'done' | 'error' | 'cancelled';
+  tokens?: number;
+  toolCalls?: number;
 }
 
 const reasoningOf = (events: StreamEvent[]) =>
@@ -86,23 +92,60 @@ function AssistantBubble({ message }: { message: ChatMessage }) {
         <div className="mt-1.5 whitespace-pre-wrap rounded-xl rounded-tl-sm bg-white px-3.5 py-2.5 text-sm leading-relaxed text-stone-800 shadow-sm ring-1 ring-stone-100">
           {message.content}
         </div>
+        {message.tokens !== undefined && message.tokens > 0 && (
+          <p className="mt-1.5 text-xs text-stone-400">
+            本次消耗 {message.tokens} tokens
+            {message.toolCalls !== undefined && message.toolCalls > 0
+              ? ` · ${message.toolCalls} 次工具调用`
+              : ''}
+          </p>
+        )}
       </div>
     </div>
   );
 }
 
-export function ChatPanel({ space }: ChatPanelProps) {
-  const threadId = `chat-${space.id}`;
+export function ChatPanel({ sessionId, threadId, novelId, title }: ChatPanelProps) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState('');
   const committedRef = useRef(false);
   const bottomRef = useRef<HTMLDivElement>(null);
 
-  const { events, status, result, error, start, cancel } = useStreamTask(threadId, space.id);
+  const { events, status, result, error, tokens, toolCalls, start, cancel } = useStreamTask(
+    threadId,
+    novelId,
+    sessionId,
+  );
+
+  // 当 threadId 就绪时，拉取该线程的历史消息（仅 human/ai 两类）并渲染
+  useEffect(() => {
+    if (!threadId) return;
+    let cancelled = false;
+    (async () => {
+      try {
+        const history = await getThreadHistory(threadId);
+        if (cancelled) return;
+        setMessages(
+          history.map((h, i) => ({
+            id: `hist-${i}`,
+            role: h.role === 'human' ? ('user' as const) : ('assistant' as const),
+            content: h.content,
+            status: 'done' as const,
+          })),
+        );
+      } catch {
+        // 历史拉取失败不阻断对话
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [threadId]);
 
   const send = () => {
     const text = input.trim();
     if (!text || status === 'running') return;
+    if (!sessionId || !threadId) return; // 会话未就绪
     setMessages((prev) => [...prev, { id: crypto.randomUUID(), role: 'user', content: text }]);
     setInput('');
     committedRef.current = false;
@@ -124,10 +167,12 @@ export function ChatPanel({ space }: ChatPanelProps) {
           tools: toolsOf(events),
           status:
             status === 'finished' ? 'done' : status === 'error' ? 'error' : 'cancelled',
+          tokens,
+          toolCalls,
         },
       ]);
     }
-  }, [status, events, result, error]);
+  }, [status, events, result, error, tokens, toolCalls]);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -140,7 +185,7 @@ export function ChatPanel({ space }: ChatPanelProps) {
   return (
     <div className="flex h-full flex-col bg-white">
       <div className="border-b border-stone-100 px-6 py-4">
-        <h2 className="text-sm font-semibold">AI 写作助手</h2>
+        <h2 className="text-sm font-semibold">{title || '对话窗口'}</h2>
         <p className="mt-0.5 text-xs text-stone-400">输入需求，AI 将基于小说空间为您提供帮助</p>
       </div>
 
@@ -232,7 +277,7 @@ export function ChatPanel({ space }: ChatPanelProps) {
               type="button"
               aria-label="发送"
               onClick={send}
-              disabled={!input.trim()}
+              disabled={!input.trim() || !sessionId || !threadId}
               className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-brand-500 text-white transition-colors hover:bg-brand-600 disabled:cursor-not-allowed disabled:opacity-40"
             >
               <Send className="size-4" />

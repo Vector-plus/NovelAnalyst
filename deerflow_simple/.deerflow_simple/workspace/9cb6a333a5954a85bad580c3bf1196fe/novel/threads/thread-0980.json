@@ -1,0 +1,30 @@
+{
+  "id": "thread-0980",
+  "introduced_at": 928,
+  "kind": "story_thread",
+  "label": "远古仙域消失与四大仙界壁垒的谜团",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 928,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 928,
+          "start": 928
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0980-001",
+      "resolution_refs": [],
+      "revealed_at": 928,
+      "role": "setup",
+      "status": "active",
+      "summary": "清水讲述远古仙域因支撑巨木崩溃而无声消失、白凡追查无果，以及虚无中走出之人持远古仙域之令立下四大仙界壁垒并留下警告。"
+    }
+  ]
+}

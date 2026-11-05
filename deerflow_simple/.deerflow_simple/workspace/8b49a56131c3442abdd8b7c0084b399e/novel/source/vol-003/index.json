@@ -1,130 +1,364 @@
 {
   "chapters": [
     {
-      "chapter_order": 56,
-      "id": "ch-000056",
-      "paragraph_count": 30,
-      "path": "source/vol-003/ch-000056.txt",
-      "safe_through": 56,
-      "sha256": "0d46b9f8b071f4d5541ecfb2b212476dd2b0394f7c03d954ecb2ef64400f466d",
-      "title": "．"
+      "chapter_order": 85,
+      "id": "ch-000085",
+      "paragraph_count": 115,
+      "path": "source/vol-003/ch-000085.txt",
+      "safe_through": 85,
+      "sha256": "b08ec114220c8f9a986b6233f77b6286a0758fec37f5096281b69a8eb9ec9f73",
+      "title": "十年"
     },
     {
-      "chapter_order": 57,
-      "id": "ch-000057",
-      "paragraph_count": 109,
-      "path": "source/vol-003/ch-000057.txt",
-      "safe_through": 57,
-      "sha256": "633ce97a17d0255bd7aadfdaa36847dc1e096c74774b9e1db705dfe36529721c",
-      "title": "．"
+      "chapter_order": 86,
+      "id": "ch-000086",
+      "paragraph_count": 120,
+      "path": "source/vol-003/ch-000086.txt",
+      "safe_through": 86,
+      "sha256": "433785a8d196270fee0438df0f011fcd71b6081930aca98db70b7b85a9d4836c",
+      "title": "远行"
     },
     {
-      "chapter_order": 58,
-      "id": "ch-000058",
-      "paragraph_count": 61,
-      "path": "source/vol-003/ch-000058.txt",
-      "safe_through": 58,
-      "sha256": "de32acec99988def4662e58027a882286b3c4ef9a53c92eab8f8a1adf3f4d8e2",
-      "title": "．"
+      "chapter_order": 87,
+      "id": "ch-000087",
+      "paragraph_count": 125,
+      "path": "source/vol-003/ch-000087.txt",
+      "safe_through": 87,
+      "sha256": "16ec278137b45c34c0f275811408fe827a877f65ce2b52a8bf2465d1d473e556",
+      "title": "旧地"
     },
     {
-      "chapter_order": 59,
-      "id": "ch-000059",
-      "paragraph_count": 58,
-      "path": "source/vol-003/ch-000059.txt",
-      "safe_through": 59,
-      "sha256": "6e603b79daa0972a3dd4e7a3c6ff13056412263a0c88e4e36893f180a3a98491",
-      "title": "．"
+      "chapter_order": 88,
+      "id": "ch-000088",
+      "paragraph_count": 120,
+      "path": "source/vol-003/ch-000088.txt",
+      "safe_through": 88,
+      "sha256": "e946f70b985c435825d4f69c48de77030c9db03afbb0daab0530cfa8de094c32",
+      "title": "大王村"
     },
     {
-      "chapter_order": 60,
-      "id": "ch-000060",
-      "paragraph_count": 92,
-      "path": "source/vol-003/ch-000060.txt",
-      "safe_through": 60,
-      "sha256": "ccc16d8ebb2eaede6bd19c26661206fd61f45df0d644621d914c75fa91eec84d",
-      "title": "．"
+      "chapter_order": 89,
+      "id": "ch-000089",
+      "paragraph_count": 113,
+      "path": "source/vol-003/ch-000089.txt",
+      "safe_through": 89,
+      "sha256": "c539959f2794be5082ab6c33fa39ed087240e490299a22bd1c30acbbb0818ece",
+      "title": "看相"
     },
     {
-      "chapter_order": 61,
-      "id": "ch-000061",
-      "paragraph_count": 48,
-      "path": "source/vol-003/ch-000061.txt",
-      "safe_through": 61,
-      "sha256": "21ae5359d7fb098c4aed50fbd7d3fd5d804f3ba15a8399a9b50ef6e38a1a2063",
-      "title": "．"
+      "chapter_order": 90,
+      "id": "ch-000090",
+      "paragraph_count": 91,
+      "path": "source/vol-003/ch-000090.txt",
+      "safe_through": 90,
+      "sha256": "c337780789cc37d1d1b1f747e0c2da95d3e210f70ecf373cb2ba0323a4558a28",
+      "title": "死泽"
     },
     {
-      "chapter_order": 62,
-      "id": "ch-000062",
+      "chapter_order": 91,
+      "id": "ch-000091",
+      "paragraph_count": 108,
+      "path": "source/vol-003/ch-000091.txt",
+      "safe_through": 91,
+      "sha256": "51d6f25e90f903b811dfd72db13d2907ed74d439a83879807ae24997034cccfe",
+      "title": "好人野狗"
+    },
+    {
+      "chapter_order": 92,
+      "id": "ch-000092",
+      "paragraph_count": 117,
+      "path": "source/vol-003/ch-000092.txt",
+      "safe_through": 92,
+      "sha256": "884f262b886413bea741135aae4fd8bf39993bae02ddeb450bc2b5bd88e52c75",
+      "title": "螳螂"
+    },
+    {
+      "chapter_order": 93,
+      "id": "ch-000093",
+      "paragraph_count": 97,
+      "path": "source/vol-003/ch-000093.txt",
+      "safe_through": 93,
+      "sha256": "14951ad2cb5c0da1eda6c6ba8c8ac53025ca212a42c9d89275ba230e16e35bfe",
+      "title": "黄雀"
+    },
+    {
+      "chapter_order": 94,
+      "id": "ch-000094",
+      "paragraph_count": 130,
+      "path": "source/vol-003/ch-000094.txt",
+      "safe_through": 94,
+      "sha256": "b6d708a256f1f06997687024f6de9fa845a72e5179a4235e7ea7f75254bfab33",
+      "title": "末路"
+    },
+    {
+      "chapter_order": 95,
+      "id": "ch-000095",
+      "paragraph_count": 103,
+      "path": "source/vol-003/ch-000095.txt",
+      "safe_through": 95,
+      "sha256": "2db0e4bb5eb07fb33111eb7085cf056d85f4c605f0e7775718b5a6499745a2da",
+      "title": "瘴气"
+    },
+    {
+      "chapter_order": 96,
+      "id": "ch-000096",
+      "paragraph_count": 124,
+      "path": "source/vol-003/ch-000096.txt",
+      "safe_through": 96,
+      "sha256": "a8fbef2393a173e31f8975477a63682dd14420e56873eb8a5f51caa452350969",
+      "title": "奇花"
+    },
+    {
+      "chapter_order": 97,
+      "id": "ch-000097",
       "paragraph_count": 111,
-      "path": "source/vol-003/ch-000062.txt",
-      "safe_through": 62,
-      "sha256": "8501af5dc3d375ceb2edc1a92305ab28704051189726ea9f80919e01b726c247",
-      "title": "．"
+      "path": "source/vol-003/ch-000097.txt",
+      "safe_through": 97,
+      "sha256": "317ac4b13c09a3eb4bef75bd134d578b2a2f4eeb675e16a1c30c5aee17cb5660",
+      "title": "夜谈"
     },
     {
-      "chapter_order": 63,
-      "id": "ch-000063",
-      "paragraph_count": 54,
-      "path": "source/vol-003/ch-000063.txt",
-      "safe_through": 63,
-      "sha256": "87e13711ecbf4f3b0ecedf64e466455dcc3af223a7df7d00a3b60478b12289ce",
-      "title": "．"
-    },
-    {
-      "chapter_order": 64,
-      "id": "ch-000064",
-      "paragraph_count": 45,
-      "path": "source/vol-003/ch-000064.txt",
-      "safe_through": 64,
-      "sha256": "4572b567a75433d9b7b19c2b3217e086c77fed8ba70d0349943351579a42690e",
-      "title": "．"
-    },
-    {
-      "chapter_order": 65,
-      "id": "ch-000065",
-      "paragraph_count": 81,
-      "path": "source/vol-003/ch-000065.txt",
-      "safe_through": 65,
-      "sha256": "ee53a276a7d1142c37ee02896df281ccf7d22e8f1c5fd3bfac0167d4b8360572",
-      "title": "．"
-    },
-    {
-      "chapter_order": 66,
-      "id": "ch-000066",
-      "paragraph_count": 89,
-      "path": "source/vol-003/ch-000066.txt",
-      "safe_through": 66,
-      "sha256": "db297f46eb65fbb551ccb1e764b93f32981bde7e5afe3a5aee05f0fd6809797c",
-      "title": "．"
-    },
-    {
-      "chapter_order": 67,
-      "id": "ch-000067",
+      "chapter_order": 98,
+      "id": "ch-000098",
       "paragraph_count": 98,
-      "path": "source/vol-003/ch-000067.txt",
-      "safe_through": 67,
-      "sha256": "d9ec8865b0531750aea46a81f9080044b8b839f4181c491a9f93f5fb5f166413",
-      "title": "．"
+      "path": "source/vol-003/ch-000098.txt",
+      "safe_through": 98,
+      "sha256": "8511f591d30914c18bb7ba318bd35bc8399923285eb294d76d4bc1b4ca2dc203",
+      "title": "旧时意"
     },
     {
-      "chapter_order": 68,
-      "id": "ch-000068",
-      "paragraph_count": 51,
-      "path": "source/vol-003/ch-000068.txt",
-      "safe_through": 68,
-      "sha256": "af508d6d915a1906bc8033d376d6c83ee9f258232553b4620b55fe65e634bd96",
-      "title": "．"
+      "chapter_order": 99,
+      "id": "ch-000099",
+      "paragraph_count": 75,
+      "path": "source/vol-003/ch-000099.txt",
+      "safe_through": 99,
+      "sha256": "3ccaeb627e31a08428d906e3829a5c325bea26b5e79202edd39b9d20da4be7e6",
+      "title": "异兆"
     },
     {
-      "chapter_order": 69,
-      "id": "ch-000069",
-      "paragraph_count": 56,
-      "path": "source/vol-003/ch-000069.txt",
-      "safe_through": 69,
-      "sha256": "0351c28ca993c1ceb72039b890b54401d7e60ecabc1a5bf16489548598b039c6",
-      "title": "．"
+      "chapter_order": 100,
+      "id": "ch-000100",
+      "paragraph_count": 116,
+      "path": "source/vol-003/ch-000100.txt",
+      "safe_through": 100,
+      "sha256": "230e994c15a073a7767f05e1e2164b05e582889d4024cfd165612d145c51f6e0",
+      "title": "巨树"
+    },
+    {
+      "chapter_order": 101,
+      "id": "ch-000101",
+      "paragraph_count": 129,
+      "path": "source/vol-003/ch-000101.txt",
+      "safe_through": 101,
+      "sha256": "bb30e6f6980fb455f5306c6ba69dd484d6da47d342dda31ce7a7d68f272ba5fa",
+      "title": "故人情"
+    },
+    {
+      "chapter_order": 102,
+      "id": "ch-000102",
+      "paragraph_count": 117,
+      "path": "source/vol-003/ch-000102.txt",
+      "safe_through": 102,
+      "sha256": "fcc90d60dd073edea56deee78a09bd0225bbe2ca6a216b471a65a0d8e6b83060",
+      "title": "玄蛇"
+    },
+    {
+      "chapter_order": 103,
+      "id": "ch-000103",
+      "paragraph_count": 109,
+      "path": "source/vol-003/ch-000103.txt",
+      "safe_through": 103,
+      "sha256": "6612fffb812492de320da3bab9b0db056764f5bd74eafd0e080cbf0d79e2a444",
+      "title": "黄鸟"
+    },
+    {
+      "chapter_order": 104,
+      "id": "ch-000104",
+      "paragraph_count": 149,
+      "path": "source/vol-003/ch-000104.txt",
+      "safe_through": 104,
+      "sha256": "831eca824a38183c8ebb99b6526dfc91acbda795f704e01ac2d60eabbb250561",
+      "title": "小灰"
+    },
+    {
+      "chapter_order": 105,
+      "id": "ch-000105",
+      "paragraph_count": 135,
+      "path": "source/vol-003/ch-000105.txt",
+      "safe_through": 105,
+      "sha256": "3a6aacc9346171fc4761f21065db4a9b514516de613fbba9ae4374c6c21913a3",
+      "title": "鱼怪"
+    },
+    {
+      "chapter_order": 106,
+      "id": "ch-000106",
+      "paragraph_count": 119,
+      "path": "source/vol-003/ch-000106.txt",
+      "safe_through": 106,
+      "sha256": "99cafe89b8cda6defc6ba7bdbebccb242cc3479d93052a2f08ff101438d5e3ea",
+      "title": "问讯"
+    },
+    {
+      "chapter_order": 107,
+      "id": "ch-000107",
+      "paragraph_count": 110,
+      "path": "source/vol-003/ch-000107.txt",
+      "safe_through": 107,
+      "sha256": "09170e663ca558cb0d1d6895e1f6571ca3ae4df69718048e44ea1b656a8f90db",
+      "title": "剑舞"
+    },
+    {
+      "chapter_order": 108,
+      "id": "ch-000108",
+      "paragraph_count": 94,
+      "path": "source/vol-003/ch-000108.txt",
+      "safe_through": 108,
+      "sha256": "5ba5a7a18c4e2a6f76c41dbfa05bf8056547b14c231b07738dd869d17f722732",
+      "title": "古刹"
+    },
+    {
+      "chapter_order": 109,
+      "id": "ch-000109",
+      "paragraph_count": 118,
+      "path": "source/vol-003/ch-000109.txt",
+      "safe_through": 109,
+      "sha256": "41f9e4671e7e211ed83799b259e04736bf5f244564b35261995b50ff740e1919",
+      "title": "魔阵"
+    },
+    {
+      "chapter_order": 110,
+      "id": "ch-000110",
+      "paragraph_count": 121,
+      "path": "source/vol-003/ch-000110.txt",
+      "safe_through": 110,
+      "sha256": "8e10687fb77daea287f60ccc9a251ca339654634f8bcb4625f36b1fbe57996ab",
+      "title": "潜行"
+    },
+    {
+      "chapter_order": 111,
+      "id": "ch-000111",
+      "paragraph_count": 82,
+      "path": "source/vol-003/ch-000111.txt",
+      "safe_through": 111,
+      "sha256": "d87209ea8d2b8e8159c02663c41779df670df6e69f2682089d0c1ce89327fe7a",
+      "title": "玄火坛"
+    },
+    {
+      "chapter_order": 112,
+      "id": "ch-000112",
+      "paragraph_count": 97,
+      "path": "source/vol-003/ch-000112.txt",
+      "safe_through": 112,
+      "sha256": "f29f3b0a4a37691653c0a90cba6a13d49f6e12e5a86f1e5f8bd7c995a39ba48d",
+      "title": "暗杀"
+    },
+    {
+      "chapter_order": 113,
+      "id": "ch-000113",
+      "paragraph_count": 105,
+      "path": "source/vol-003/ch-000113.txt",
+      "safe_through": 113,
+      "sha256": "f052ee3467f727bd406a5b904e513adc4a2808fccd289879e58ac466d7d7c990",
+      "title": "异兽"
+    },
+    {
+      "chapter_order": 114,
+      "id": "ch-000114",
+      "paragraph_count": 151,
+      "path": "source/vol-003/ch-000114.txt",
+      "safe_through": 114,
+      "sha256": "137663106377d0ece2145135be26725a0b40c3d94a1a435c8f7f3e873308d095",
+      "title": "天狐"
+    },
+    {
+      "chapter_order": 115,
+      "id": "ch-000115",
+      "paragraph_count": 109,
+      "path": "source/vol-003/ch-000115.txt",
+      "safe_through": 115,
+      "sha256": "835db99d16ff1bb439499aa6b7bff15bbccf5122391592ef676dc391398e26f4",
+      "title": "白狐"
+    },
+    {
+      "chapter_order": 116,
+      "id": "ch-000116",
+      "paragraph_count": 119,
+      "path": "source/vol-003/ch-000116.txt",
+      "safe_through": 116,
+      "sha256": "ef3275c4fbb5a6b8caf2c81b67eb40d68cabe504ee686ef1403f1c9a348fd00b",
+      "title": "脱困"
+    },
+    {
+      "chapter_order": 117,
+      "id": "ch-000117",
+      "paragraph_count": 102,
+      "path": "source/vol-003/ch-000117.txt",
+      "safe_through": 117,
+      "sha256": "8e8272f6bd7acb63e889140bd19308e1703dc09ae80e8dba26607cc7afe16e8f",
+      "title": "希望"
+    },
+    {
+      "chapter_order": 118,
+      "id": "ch-000118",
+      "paragraph_count": 88,
+      "path": "source/vol-003/ch-000118.txt",
+      "safe_through": 118,
+      "sha256": "6784707dd46f8589ee18175e1d39f9af9d48ea25e2c0eb7e2fcdb924ecf55c44",
+      "title": "天水寨"
+    },
+    {
+      "chapter_order": 119,
+      "id": "ch-000119",
+      "paragraph_count": 108,
+      "path": "source/vol-003/ch-000119.txt",
+      "safe_through": 119,
+      "sha256": "ffb3a1921e4835dfb72fd5dce0f649e122a76e1a8d5e73a2744b92fbea005eb5",
+      "title": "寒夜"
+    },
+    {
+      "chapter_order": 120,
+      "id": "ch-000120",
+      "paragraph_count": 141,
+      "path": "source/vol-003/ch-000120.txt",
+      "safe_through": 120,
+      "sha256": "862a69a668765a0294a4cee15d07866fa4abef7f5c18e4550ff6b3331ebe97ca",
+      "title": "深痕"
+    },
+    {
+      "chapter_order": 121,
+      "id": "ch-000121",
+      "paragraph_count": 112,
+      "path": "source/vol-003/ch-000121.txt",
+      "safe_through": 121,
+      "sha256": "86b26adbf859f17c3a41025c8f1858ee5e1ee5ce5179e3c4b98ad77d4dbd4807",
+      "title": "追踪"
+    },
+    {
+      "chapter_order": 122,
+      "id": "ch-000122",
+      "paragraph_count": 80,
+      "path": "source/vol-003/ch-000122.txt",
+      "safe_through": 122,
+      "sha256": "a801dc6d25c55f78dc01ba80bb48eb7905faf187b0571de7588da1d7da636704",
+      "title": "七里峒"
+    },
+    {
+      "chapter_order": 123,
+      "id": "ch-000123",
+      "paragraph_count": 148,
+      "path": "source/vol-003/ch-000123.txt",
+      "safe_through": 123,
+      "sha256": "f43f46d0e705556076a73f2d3fc2f391c9447700f474886255489831733d9d77",
+      "title": "烈酒"
+    },
+    {
+      "chapter_order": 124,
+      "id": "ch-000124",
+      "paragraph_count": 115,
+      "path": "source/vol-003/ch-000124.txt",
+      "safe_through": 124,
+      "sha256": "20628851eaa9ce52feb02d1c7e2ebf834459fa5699e18ef8507bc8f20575d679",
+      "title": "祭坛"
     }
   ],
   "encoding": "utf-8",
@@ -134,7 +368,7 @@
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "paragraph_rule": "blank_line_separated",
   "revision": 1,
-  "safe_through": 69,
+  "safe_through": 124,
   "schema_version": "2.0",
   "source_version": "source-v1",
   "volume_id": "vol-003"

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0999",
+  "introduced_at": 946,
+  "kind": "story_thread",
+  "label": "白薇体内阴气异动与奇异印记之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 946,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 946,
+          "start": 946
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0999-001",
+      "resolution_refs": [],
+      "revealed_at": 946,
+      "role": "new",
+      "status": "open",
+      "summary": "白薇体内阴气流转加快时形成由经脉构成的奇异印记，瞬时消失；王林感到其不对劲却未追问，印记被其记下。"
+    }
+  ]
+}

@@ -1,14 +1,45 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 928,
+          "start": 928
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-022.md",
+          "record_id": "doc-arc-022"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 928,
+      "summary": "罗天与联盟两域大战：西部立威、北部决战、虚无之界与古神传承（第928章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-022.md",
+        "record_id": "doc-arc-022"
+      },
+      "title": "罗天与联盟两域大战：西部立威、北部决战、虚无之界与古神传承"
+    }
+  ],
   "id": "idx-plot",
   "kind": "index",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 2,
+  "safe_through": 928,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 928,
+        "start": 928
+      }
+    ],
     "subject_refs": []
   },
   "title": "章节剧情"

@@ -1,0 +1,47 @@
+{
+  "id": "thread-0956",
+  "introduced_at": 904,
+  "kind": "story_thread",
+  "label": "王林在罗天阵营中的地位与登木资格",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 904,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "status",
+      "chapter_ranges": [
+        {
+          "end": 904,
+          "start": 904
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0022.json",
+          "record_id": "claim-25255"
+        },
+        {
+          "path": "events/block-0022.json",
+          "record_id": "claim-25257"
+        },
+        {
+          "path": "events/block-0022.json",
+          "record_id": "claim-25258"
+        },
+        {
+          "path": "events/block-0022.json",
+          "record_id": "claim-25259"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0956-001",
+      "resolution_refs": [],
+      "revealed_at": 904,
+      "role": "advance",
+      "status": "active",
+      "summary": "王林率数百修士随巨木而行，被众修士以「雷仙许木」之名辨认；他以一静一动显规则明悟，成为烈云子、申公老祖之外第四位从容踏上巨木者，巨木上三名窥涅后期修士因此视其为同层次。"
+    }
+  ]
+}

@@ -33,3 +33,32 @@ def build_tracing_callbacks() -> list[Any]:
         return callbacks
     # LangChain 内置 LangSmith 集成已足够；此处保留扩展点（如 Langfuse）。
     return callbacks
+
+
+def build_run_metadata(
+    *,
+    session_id: str | None,
+    thread_id: str,
+    novel_id: str | None,
+    run_id: str,
+) -> dict[str, Any]:
+    """构造打进 RunnableConfig 顶层 ``metadata`` 的追踪字段。
+
+    - ``thread_id``：LangSmith 的 Thread 视图 key（不同 thread 呈现为独立时间线，
+      天然支持「一个 session 下多个 thread 各自串行累积」）。
+    - ``session_id``：LangSmith 的 Session 归组 key（同 session 的多个 thread 可归组）。
+    - ``novel_id`` / ``run_id``：业务辅助过滤键。
+
+    这些字段放在 RunnableConfig 顶层，LangChain 会向下传播到所有 child spans，
+    保证子 run 也带这两个 id（否则 Thread / Session 视图的过滤与统计会漏掉
+    缺失该字段的 run）。
+    """
+    metadata: dict[str, Any] = {
+        "thread_id": thread_id,
+        "run_id": run_id,
+    }
+    if session_id:
+        metadata["session_id"] = session_id
+    if novel_id:
+        metadata["novel_id"] = novel_id
+    return metadata

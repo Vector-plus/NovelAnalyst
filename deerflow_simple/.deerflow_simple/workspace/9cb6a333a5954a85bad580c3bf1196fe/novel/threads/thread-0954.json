@@ -1,0 +1,30 @@
+{
+  "id": "thread-0954",
+  "introduced_at": 903,
+  "kind": "story_thread",
+  "label": "罗天与联盟两域大战·西部战场",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 903,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 903,
+          "start": 903
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0954-001",
+      "resolution_refs": [],
+      "revealed_at": 903,
+      "role": "major",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

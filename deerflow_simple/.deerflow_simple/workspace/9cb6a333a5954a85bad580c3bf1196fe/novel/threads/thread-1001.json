@@ -1,0 +1,30 @@
+{
+  "id": "thread-1001",
+  "introduced_at": 946,
+  "kind": "story_thread",
+  "label": "鬼眼城一个月开城与仙术拍卖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 946,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 946,
+          "start": 946
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1001-001",
+      "resolution_refs": [],
+      "revealed_at": 946,
+      "role": "new",
+      "status": "open",
+      "summary": "鬼眼城因拍卖过一件完整仙术而成名，本次开启为期一个月，除拍卖处外可自由交易；王林与白薇在城外候入。"
+    }
+  ]
+}

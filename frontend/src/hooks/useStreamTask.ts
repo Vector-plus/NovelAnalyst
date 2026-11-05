@@ -5,6 +5,7 @@ import { cancelRun } from '../api';
 interface StreamRunBody {
   message: string;
   thread_id: string;
+  session_id: string;
   novel_id?: string;
   multitask_strategy?: 'reject' | 'interrupt' | 'rollback';
 }
@@ -15,24 +16,28 @@ interface StreamRunBody {
  * - cancel：调用后端 cancel 接口 + 前端 abort；
  * - pause/resume：前端侧暂停渲染（缓冲事件），后端继续执行。
  */
-export function useStreamTask(threadId: string, novelId?: string) {
+export function useStreamTask(threadId: string, novelId?: string, sessionId?: string) {
   const [events, setEvents] = useState<StreamEvent[]>([]);
   const [status, setStatus] = useState<StreamTaskStatus>('idle');
   const [result, setResult] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [paused, setPaused] = useState(false);
   const [runId, setRunId] = useState<string | null>(null);
+  const [tokens, setTokens] = useState(0);
+  const [toolCalls, setToolCalls] = useState(0);
 
   const abortRef = useRef<AbortController | null>(null);
   const pausedRef = useRef(false);
   const bufferRef = useRef<StreamEvent[]>([]);
   const threadRef = useRef(threadId);
   const novelRef = useRef(novelId);
+  const sessionRef = useRef(sessionId);
   const runIdRef = useRef<string | null>(null);
   const statusRef = useRef<StreamTaskStatus>('idle');
 
   threadRef.current = threadId;
   novelRef.current = novelId;
+  sessionRef.current = sessionId;
 
   const setStatusBoth = useCallback((s: StreamTaskStatus) => {
     statusRef.current = s;
@@ -60,6 +65,8 @@ export function useStreamTask(threadId: string, novelId?: string) {
       setResult(null);
       setError(null);
       setRunId(null);
+      setTokens(0);
+      setToolCalls(0);
       runIdRef.current = null;
       bufferRef.current = [];
       pausedRef.current = false;
@@ -89,8 +96,16 @@ export function useStreamTask(threadId: string, novelId?: string) {
         } else if (parsed.event === 'event') {
           pushEvent(parsed.data as StreamEvent);
         } else if (parsed.event === 'run.finished') {
-          const d = parsed.data as { status: string; result: string | null; error: string | null };
+          const d = parsed.data as {
+            status: string;
+            result: string | null;
+            error: string | null;
+            tokens?: number;
+            tool_calls?: number;
+          };
           setResult(d.result ?? null);
+          setTokens(d.tokens ?? 0);
+          setToolCalls(d.tool_calls ?? 0);
           if (d.error) setError(d.error);
           if (d.status === 'success') setStatusBoth('finished');
           else if (d.status === 'interrupted') setStatusBoth('cancelled');
@@ -105,6 +120,7 @@ export function useStreamTask(threadId: string, novelId?: string) {
           body: JSON.stringify({
             message,
             thread_id: threadRef.current,
+            session_id: sessionRef.current ?? '',
             novel_id: novelRef.current,
             multitask_strategy: opts?.multitask_strategy ?? 'reject',
           } satisfies StreamRunBody),
@@ -173,5 +189,5 @@ export function useStreamTask(threadId: string, novelId?: string) {
     }
   }, [flushBuffer]);
 
-  return { events, status, result, error, paused, runId, start, cancel, togglePause };
+  return { events, status, result, error, paused, runId, tokens, toolCalls, start, cancel, togglePause };
 }

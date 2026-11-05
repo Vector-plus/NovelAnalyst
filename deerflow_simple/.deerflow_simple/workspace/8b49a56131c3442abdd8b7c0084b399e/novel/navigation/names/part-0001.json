@@ -1,0 +1,599 @@
+{
+  "entries": [
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "张小凡"
+        }
+      ],
+      "normalized_name": "张小凡"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0002/index.json",
+            "record_id": "char-0002"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "林惊羽"
+        }
+      ],
+      "normalized_name": "林惊羽"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0003/index.json",
+            "record_id": "char-0003"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "草庙中的年老和尚"
+        }
+      ],
+      "normalized_name": "草庙中的年老和尚"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0004/index.json",
+            "record_id": "char-0004"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "青云子"
+        }
+      ],
+      "normalized_name": "青云子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0005/index.json",
+            "record_id": "char-0005"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "青叶道人"
+        }
+      ],
+      "normalized_name": "青叶道人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0006/index.json",
+            "record_id": "char-0006"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "无方子"
+        }
+      ],
+      "normalized_name": "无方子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0007/index.json",
+            "record_id": "char-0007"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 1,
+          "source_refs": [],
+          "surface": "道玄真人"
+        }
+      ],
+      "normalized_name": "道玄真人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0008/index.json",
+            "record_id": "char-0008"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 2,
+          "source_refs": [],
+          "surface": "普智"
+        }
+      ],
+      "normalized_name": "普智"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0009/index.json",
+            "record_id": "char-0009"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 2,
+          "source_refs": [],
+          "surface": "黑衣人（黑气中人）"
+        }
+      ],
+      "normalized_name": "黑衣人(黑气中人)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0010/index.json",
+            "record_id": "char-0010"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 3,
+          "source_refs": [],
+          "surface": "黑衣人"
+        }
+      ],
+      "normalized_name": "黑衣人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0011/index.json",
+            "record_id": "char-0011"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 3,
+          "source_refs": [],
+          "surface": "鬼医"
+        }
+      ],
+      "normalized_name": "鬼医"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0012/index.json",
+            "record_id": "char-0012"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 4,
+          "source_refs": [],
+          "surface": "青年道士"
+        }
+      ],
+      "normalized_name": "青年道士"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0013/index.json",
+            "record_id": "char-0013"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 4,
+          "source_refs": [],
+          "surface": "水麒麟"
+        }
+      ],
+      "normalized_name": "水麒麟"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0014/index.json",
+            "record_id": "char-0014"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 4,
+          "source_refs": [],
+          "surface": "青叶祖师"
+        }
+      ],
+      "normalized_name": "青叶祖师"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0015/index.json",
+            "record_id": "char-0015"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "常箭"
+        }
+      ],
+      "normalized_name": "常箭"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0016/index.json",
+            "record_id": "char-0016"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "王二叔"
+        }
+      ],
+      "normalized_name": "王二叔"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0017/index.json",
+            "record_id": "char-0017"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "宋大仁"
+        }
+      ],
+      "normalized_name": "宋大仁"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0018/index.json",
+            "record_id": "char-0018"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "苍松道人"
+        }
+      ],
+      "normalized_name": "苍松道人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0019/index.json",
+            "record_id": "char-0019"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "田不易"
+        }
+      ],
+      "normalized_name": "田不易"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0020/index.json",
+            "record_id": "char-0020"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "商正梁"
+        }
+      ],
+      "normalized_name": "商正梁"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0021/index.json",
+            "record_id": "char-0021"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "天云道人"
+        }
+      ],
+      "normalized_name": "天云道人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0022/index.json",
+            "record_id": "char-0022"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "曾叔常"
+        }
+      ],
+      "normalized_name": "曾叔常"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0023/index.json",
+            "record_id": "char-0023"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 5,
+          "source_refs": [],
+          "surface": "水月大师"
+        }
+      ],
+      "normalized_name": "水月大师"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0024/index.json",
+            "record_id": "char-0024"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "苏茹"
+        }
+      ],
+      "normalized_name": "苏茹"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0025/index.json",
+            "record_id": "char-0025"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "田灵儿"
+        }
+      ],
+      "normalized_name": "田灵儿"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0026/index.json",
+            "record_id": "char-0026"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "杜必书"
+        }
+      ],
+      "normalized_name": "杜必书"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0027/index.json",
+            "record_id": "char-0027"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "何大智"
+        }
+      ],
+      "normalized_name": "何大智"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0028/index.json",
+            "record_id": "char-0028"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "吕大信"
+        }
+      ],
+      "normalized_name": "吕大信"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0029/index.json",
+            "record_id": "char-0029"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "吴大义"
+        }
+      ],
+      "normalized_name": "吴大义"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0030/index.json",
+            "record_id": "char-0030"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "郑大礼"
+        }
+      ],
+      "normalized_name": "郑大礼"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0031/index.json",
+            "record_id": "char-0031"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 6,
+          "source_refs": [],
+          "surface": "郑通"
+        }
+      ],
+      "normalized_name": "郑通"
+    }
+  ],
+  "id": "names-part-0001",
+  "kind": "name_lookup",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 32,
+  "safe_through": 0,
+  "schema_version": "2.0"
+}

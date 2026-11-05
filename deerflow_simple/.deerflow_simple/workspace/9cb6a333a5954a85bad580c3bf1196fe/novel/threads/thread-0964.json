@@ -1,0 +1,30 @@
+{
+  "id": "thread-0964",
+  "introduced_at": 912,
+  "kind": "story_thread",
+  "label": "参天巨木内似另有其物",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 912,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 912,
+          "start": 912
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0964-001",
+      "resolution_refs": [],
+      "revealed_at": 912,
+      "role": "supporting",
+      "status": "opened",
+      "summary": "王林站于漂浮的参天巨木之上行军，怀疑巨木并非只有这点神通、其内另有一物；本章未验证。"
+    }
+  ]
+}

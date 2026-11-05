@@ -1,0 +1,30 @@
+{
+  "id": "thread-0993",
+  "introduced_at": 942,
+  "kind": "story_thread",
+  "label": "天运子对王林的安排与妖灵之地洞府之约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 942,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 942,
+          "start": 942
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0993-001",
+      "resolution_refs": [],
+      "revealed_at": 942,
+      "role": "primary",
+      "status": "open",
+      "summary": "天运子令王林在宗内等待妖灵之地开启，届时需各自邀请好友入内方可进入洞府；紫林阁为王林保留，其真实意图未明。"
+    }
+  ]
+}

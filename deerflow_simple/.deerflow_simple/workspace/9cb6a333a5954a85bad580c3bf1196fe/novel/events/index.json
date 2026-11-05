@@ -25,18 +25,43 @@
         "record_id": "block-0022"
       },
       "title": "stage-022 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 929,
+          "start": 929
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0023.json",
+          "record_id": "block-0023"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 929,
+      "summary": "stage-023 事件块（第929章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0023.json",
+        "record_id": "block-0023"
+      },
+      "title": "stage-023 事件块"
     }
   ],
   "id": "idx-events",
   "kind": "index",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
-  "revision": 11,
-  "safe_through": 902,
+  "revision": 63,
+  "safe_through": 954,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 902,
+        "end": 954,
         "start": 893
       }
     ],

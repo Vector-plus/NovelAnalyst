@@ -1,0 +1,30 @@
+{
+  "id": "thread-0001",
+  "introduced_at": 1,
+  "kind": "story_thread",
+  "label": "碧玉念珠中的深紫圆珠",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0001-001",
+      "resolution_refs": [],
+      "revealed_at": 1,
+      "role": "setup",
+      "status": "open",
+      "summary": "老僧的碧玉念珠中夹有一颗粒非玉非石、颜色深紫、暗淡无光的圆珠，本章未说明其来历与用途。"
+    }
+  ]
+}

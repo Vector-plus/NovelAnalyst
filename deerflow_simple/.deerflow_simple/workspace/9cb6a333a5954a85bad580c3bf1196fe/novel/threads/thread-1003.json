@@ -1,0 +1,30 @@
+{
+  "id": "thread-1003",
+  "introduced_at": 947,
+  "kind": "story_thread",
+  "label": "白薇欲言又止的隐情与体内诡异印记",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 947,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 947,
+          "start": 947
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1003-001",
+      "resolution_refs": [],
+      "revealed_at": 947,
+      "role": "primary",
+      "status": "open",
+      "summary": "白薇将王林请出同行，但一路只谈琐事；王林推断其有话难言、可能受禁制只能暗示，所惧者为「师尊」，并注意到其体内阴气流转形成的诡异印记。"
+    }
+  ]
+}

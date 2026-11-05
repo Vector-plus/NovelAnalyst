@@ -127,6 +127,9 @@ class SimpleConfig:
     # ---- 长任务（Tasks，索引生成等）----
     tasks_db_path: str | None = None  # sqlite 文件路径；None -> 默认 data_dir/tasks.db
 
+    # ---- 会话（Sessions，对话会话持久化元数据）----
+    session_db_path: str | None = None  # sqlite 文件路径；None -> 默认 data_dir/sessions.db
+
     # ---- Agent 执行（迭代上限）----
     # LangGraph 的 super-step 递归上限，防止 agent 异常死循环跑爆预算。
     # 注意：langchain 1.x 的 create_agent 已无 max_iterations 参数，agent 在「模型不再
@@ -207,3 +210,8 @@ class SimpleConfig:
     def tasks_db(self) -> Path:
         """长任务记录 SQLite 文件路径。"""
         return _resolve_path(self.tasks_db_path) if self.tasks_db_path else self.data_dir / "tasks.db"
+
+    @property
+    def sessions_db(self) -> Path:
+        """会话元数据 SQLite 文件路径。"""
+        return _resolve_path(self.session_db_path) if self.session_db_path else self.data_dir / "sessions.db"

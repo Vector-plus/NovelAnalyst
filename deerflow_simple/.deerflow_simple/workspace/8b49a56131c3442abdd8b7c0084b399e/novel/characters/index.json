@@ -1,14 +1,795 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "张小凡（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "title": "张小凡"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "林惊羽（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "title": "林惊羽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0003/index.json",
+          "record_id": "char-0003"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "草庙中的年老和尚（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0003/index.json",
+        "record_id": "char-0003"
+      },
+      "title": "草庙中的年老和尚"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "青云子（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0004/index.json",
+        "record_id": "char-0004"
+      },
+      "title": "青云子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0005/index.json",
+          "record_id": "char-0005"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "青叶道人（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0005/index.json",
+        "record_id": "char-0005"
+      },
+      "title": "青叶道人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0006/index.json",
+          "record_id": "char-0006"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "无方子（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0006/index.json",
+        "record_id": "char-0006"
+      },
+      "title": "无方子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 1,
+      "summary": "道玄真人（第1章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0007/index.json",
+        "record_id": "char-0007"
+      },
+      "title": "道玄真人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0008/index.json",
+          "record_id": "char-0008"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 2,
+      "summary": "普智（第2章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0008/index.json",
+        "record_id": "char-0008"
+      },
+      "title": "普智"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 2,
+          "start": 2
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0009/index.json",
+          "record_id": "char-0009"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 2,
+      "summary": "黑衣人（黑气中人）（第2章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0009/index.json",
+        "record_id": "char-0009"
+      },
+      "title": "黑衣人（黑气中人）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0010/index.json",
+          "record_id": "char-0010"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "黑衣人（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0010/index.json",
+        "record_id": "char-0010"
+      },
+      "title": "黑衣人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0011/index.json",
+          "record_id": "char-0011"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 3,
+      "summary": "鬼医（第3章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0011/index.json",
+        "record_id": "char-0011"
+      },
+      "title": "鬼医"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0012/index.json",
+          "record_id": "char-0012"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "青年道士（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0012/index.json",
+        "record_id": "char-0012"
+      },
+      "title": "青年道士"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0013/index.json",
+          "record_id": "char-0013"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "水麒麟（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0013/index.json",
+        "record_id": "char-0013"
+      },
+      "title": "水麒麟"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0014/index.json",
+          "record_id": "char-0014"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 4,
+      "summary": "青叶祖师（第4章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0014/index.json",
+        "record_id": "char-0014"
+      },
+      "title": "青叶祖师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0015/index.json",
+          "record_id": "char-0015"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "常箭（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0015/index.json",
+        "record_id": "char-0015"
+      },
+      "title": "常箭"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0016/index.json",
+          "record_id": "char-0016"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "王二叔（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0016/index.json",
+        "record_id": "char-0016"
+      },
+      "title": "王二叔"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0017/index.json",
+          "record_id": "char-0017"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "宋大仁（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0017/index.json",
+        "record_id": "char-0017"
+      },
+      "title": "宋大仁"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "苍松道人（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "title": "苍松道人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "田不易（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "title": "田不易"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0020/index.json",
+          "record_id": "char-0020"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "商正梁（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0020/index.json",
+        "record_id": "char-0020"
+      },
+      "title": "商正梁"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0021/index.json",
+          "record_id": "char-0021"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "天云道人（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0021/index.json",
+        "record_id": "char-0021"
+      },
+      "title": "天云道人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0022/index.json",
+          "record_id": "char-0022"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "曾叔常（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0022/index.json",
+        "record_id": "char-0022"
+      },
+      "title": "曾叔常"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 5,
+          "start": 5
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0023/index.json",
+          "record_id": "char-0023"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 5,
+      "summary": "水月大师（第5章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "title": "水月大师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "苏茹（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0024/index.json",
+        "record_id": "char-0024"
+      },
+      "title": "苏茹"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "田灵儿（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0025/index.json",
+        "record_id": "char-0025"
+      },
+      "title": "田灵儿"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0026/index.json",
+          "record_id": "char-0026"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "杜必书（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0026/index.json",
+        "record_id": "char-0026"
+      },
+      "title": "杜必书"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0027/index.json",
+          "record_id": "char-0027"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "何大智（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0027/index.json",
+        "record_id": "char-0027"
+      },
+      "title": "何大智"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0028/index.json",
+          "record_id": "char-0028"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "吕大信（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0028/index.json",
+        "record_id": "char-0028"
+      },
+      "title": "吕大信"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0029/index.json",
+          "record_id": "char-0029"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "吴大义（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0029/index.json",
+        "record_id": "char-0029"
+      },
+      "title": "吴大义"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0030/index.json",
+          "record_id": "char-0030"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "郑大礼（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0030/index.json",
+        "record_id": "char-0030"
+      },
+      "title": "郑大礼"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 6,
+          "start": 6
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0031/index.json",
+          "record_id": "char-0031"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 6,
+      "summary": "郑通（第6章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0031/index.json",
+        "record_id": "char-0031"
+      },
+      "title": "郑通"
+    }
+  ],
   "id": "idx-characters",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 32,
+  "safe_through": 6,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 6,
+        "start": 1
+      }
+    ],
     "subject_refs": []
   },
   "title": "人物传记"

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0003",
+  "introduced_at": 1,
+  "kind": "story_thread",
+  "label": "青云门与草庙村的关系",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 1,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "world",
+      "chapter_ranges": [
+        {
+          "end": 1,
+          "start": 1
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0003-001",
+      "resolution_refs": [],
+      "revealed_at": 1,
+      "role": "setup",
+      "status": "open",
+      "summary": "草庙村百姓靠上山打柴交于青云门换银两，青云门一向照顾周遭百姓；本章以草庙村作为后续事件的舞台。"
+    }
+  ]
+}

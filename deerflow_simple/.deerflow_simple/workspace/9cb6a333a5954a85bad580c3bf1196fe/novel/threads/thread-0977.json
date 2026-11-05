@@ -1,0 +1,30 @@
+{
+  "id": "thread-0977",
+  "introduced_at": 926,
+  "kind": "story_thread",
+  "label": "罗尘被拖入网外，赠出最后两颗古神之星",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 926,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_fate",
+      "chapter_ranges": [
+        {
+          "end": 926,
+          "start": 926
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0977-001",
+      "resolution_refs": [],
+      "revealed_at": 926,
+      "role": "setup",
+      "status": "open",
+      "summary": "罗尘自碎三星后力竭，抓出最后两颗古星赠予王林，自身被晶光大手拖入网外，临去自称「孤神」。"
+    }
+  ]
+}

@@ -64,14 +64,14 @@
     {
       "chapter_ranges": [
         {
-          "end": 69,
+          "end": 80,
           "start": 61
         }
       ],
       "entity_refs": [],
       "kind": "index",
       "safe_through": 0,
-      "summary": "第61—69章章节导航分片。",
+      "summary": "第61—80章章节导航分片。",
       "tags": [
         "plot"
       ],
@@ -79,7 +79,187 @@
         "path": "navigation/chapters/block-0004.json",
         "record_id": "chapters-block-0004"
       },
-      "title": "章节 61—69"
+      "title": "章节 61—80"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 100,
+          "start": 81
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第81—100章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0005.json",
+        "record_id": "chapters-block-0005"
+      },
+      "title": "章节 81—100"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 101
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第101—120章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0006.json",
+        "record_id": "chapters-block-0006"
+      },
+      "title": "章节 101—120"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 121
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第121—140章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0007.json",
+        "record_id": "chapters-block-0007"
+      },
+      "title": "章节 121—140"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 160,
+          "start": 141
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第141—160章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0008.json",
+        "record_id": "chapters-block-0008"
+      },
+      "title": "章节 141—160"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 180,
+          "start": 161
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第161—180章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0009.json",
+        "record_id": "chapters-block-0009"
+      },
+      "title": "章节 161—180"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 200,
+          "start": 181
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第181—200章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0010.json",
+        "record_id": "chapters-block-0010"
+      },
+      "title": "章节 181—200"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 220,
+          "start": 201
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第201—220章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0011.json",
+        "record_id": "chapters-block-0011"
+      },
+      "title": "章节 201—220"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 240,
+          "start": 221
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第221—240章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0012.json",
+        "record_id": "chapters-block-0012"
+      },
+      "title": "章节 221—240"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 257,
+          "start": 241
+        }
+      ],
+      "entity_refs": [],
+      "kind": "index",
+      "safe_through": 0,
+      "summary": "第241—257章章节导航分片。",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "navigation/chapters/block-0013.json",
+        "record_id": "chapters-block-0013"
+      },
+      "title": "章节 241—257"
     }
   ],
   "id": "idx-chapters",
@@ -91,7 +271,7 @@
   "scope": {
     "chapter_ranges": [
       {
-        "end": 69,
+        "end": 257,
         "start": 1
       }
     ],
