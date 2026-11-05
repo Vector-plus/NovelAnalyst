@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第516—549章：原为炼魂部落战力，与欧阳华同任对地下溶洞族落的主攻（第518章）；重伤归来后修为尽废、经脉寸断（第519—522章），得王林传巨魔族炼体之术并被设「炼体有成则传古神第一层口诀」的考核（第523章）；随行古妖城并在北门击伤守门侍卫（第524章）、酒楼与黑甲妖兵激斗暴露炼体缺陷（第529章）；后被左翼妖将扣下，成为王林逼问司马炎、与妖将对峙的起因，终获释（第545—548章），并获授巨灵九修前六层（第549章）。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1238/index.json",
+          "record_id": "char-1238"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "炼魂部落：重伤废功、传承与被掳（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1238/stages/stage-016.md",
+        "record_id": "doc-char-1238-stage-016"
+      },
+      "title": "炼魂部落：重伤废功、传承与被掳"
+    }
+  ],
+  "id": "char-1238",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 517,
+  "kind": "entity_index",
+  "label": "十三",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 549,
+  "schema_version": "2.0"
+}

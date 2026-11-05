@@ -1,0 +1,30 @@
+{
+  "id": "thread-0223",
+  "introduced_at": 295,
+  "kind": "story_thread",
+  "label": "前往天运星、做天运子百年记名弟子之约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 295,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 295,
+          "start": 295
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0223-001",
+      "resolution_refs": [],
+      "revealed_at": 295,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林回忆化凡时天运子曾说若他走出朱雀星可去天运星寻他，收其做百年记名弟子；王林据此认定星罗盘必须要有。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0571",
+  "introduced_at": 607,
+  "kind": "story_thread",
+  "label": "捆仙网反噬其主的来历之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 607,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 607,
+          "start": 607
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0571-001",
+      "resolution_refs": [],
+      "revealed_at": 607,
+      "role": "supporting",
+      "status": "open",
+      "summary": "捆仙网曾使老者十多种遁术尽失效并将其自缚送至王林面前，老者怒斥其「吃里爬外」「原来的主人一定就是被你害死的」；其来历与失效原因未说明。"
+    }
+  ]
+}

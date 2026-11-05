@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第614—629章首个成型阶段：以问鼎初期修为率大罗剑宗弟子现身潮汐深渊，围问贪狼并逼出其死气之蛋；心机深沉、忍功极强且有求于王林，故在贪狼发动紫雾归一、众人将为祭品时与王林临时联手对敌；持有等级高于其他剑肖的凌天候元神本命剑气，是其真正底牌；阶段末仍为与王林结盟的第三方，未交心亦未与贪狼彻底翻脸。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 584
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1432/index.json",
+          "record_id": "char-1432"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 641,
+      "summary": "潮汐深渊与王林临时联手阶段（第584—641章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1432/stages/stage-018.md",
+        "record_id": "doc-char-1432-stage-018"
+      },
+      "title": "潮汐深渊与王林临时联手阶段"
+    }
+  ],
+  "id": "char-1432",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 598,
+  "kind": "entity_index",
+  "label": "辰龙",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 641,
+  "schema_version": "2.0"
+}

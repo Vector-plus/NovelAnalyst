@@ -305,12 +305,150 @@ N 个 `ScanVolReActAgent` 同时启动，每个 agent 又含多轮 LLM turn（re
 （分钟级）无效。此经验同样适用于 deepread 若未来改为并发逐章精读（当前是串行 while
 循环，无此问题）。
 
+### D15 · StagePlanMergeAgent 滚动增量合并（长篇上下文超限）
+
+**问题**：原「全书一次、单次 LLM、输入 N 份 VolReport」对长篇小说不成立。《仙逆》
+14 卷 2076 章，全量 VolReports 序列化后达 **199K 字符、约 15~24 万 token**，超
+DeepSeek 64K~128K 上下文窗口 2~4 倍，模型静默返回空 → `ainvoke` 降级也空 → 报
+「阶段计划合并失败…未产出任何文本」。小 mock 输入（1 卷 7 章）同模型同 prompt 成功，
+坐实是**输入规模超限**，非服务不稳定。
+
+**两个放大器**：① `scanned_chapters` 被 ScanVol 填成完整章节列表（vol-001 把 1~56
+全展开），merge 根本不需要它；② `json.dumps(indent=2)` 缩进再放大 ~15%。
+
+**修复（滚动增量合并）**：
+
+1. `stage_plan_merge.py`：System Prompt 改为「滚动增量」模式——每次只喂「已合并骨架
+   cur_skeleton + 单卷 VolReport」，输出合并后骨架（仅 `stages` / `character_candidates`
+   / `merge_notes` 三字段，schema 元数据与 scanned_ranges 由节点补全）。关键增量规则：
+   判断「cur_skeleton 最后 stage」与「当前卷首个 candidate」是否延续（延续则并入扩展
+   chapter_ranges/volume_ids，否则开新 stage）；仅 `is_last=true` 才做全书收口硬校验。
+2. `prescan.py`：把「单次合并」改为 `for vol: cur_skeleton = merge_step(cur_skeleton,
+   vol)` 滚动循环（N 卷 = N 次串行调用）；每卷剔除 `scanned_chapters`。
+3. `prescan.py` 新增确定性 helper：
+   - `_merge_scanned_chapters`：各卷 scanned_chapters 并集 → 连续区间（`scanned_ranges`
+     不再依赖 LLM，杜绝幻觉/遗漏）。
+   - `_validate_stage_plan_stages`：兜底校验 stages 连续性/无重叠/无遗漏/首尾对齐，
+     发现问题**不 fail**、回写 merge_notes 供 N4 人工审核（一期宽松策略）。
+4. 同步修订设计文档 04-prompt §1.1/§1.2/§3，标注「全量版示例，滚动增量版权威在代码」。
+
+**为什么滚动合并是安全的**：阶段沿章节顺序单调推进，跨卷阶段合并只发生在相邻卷之间
+（vol-N 尾 ↔ vol-(N+1) 头），贪心滚动在语义上等价于全局合并；character_candidates
+同名合并、区间扩展同样可增量完成。唯一长期风险是「骨架自身膨胀」（如 200 卷时
+candidate 上千），届时再升级「滚动 + 分层」混合；当前 14 卷最终 5~15 stage、30~100
+candidate 稳居窗口内。
+
+**教训**：fan-in 型「全量聚合」是有上下文上限的，必须按输入规模设计「滚动/分层/
+MapReduce」降级路径；不能假设「N 份结构化摘要」永远放得下。判断超限用「先小输入
+对照实验」快速定位（小 mock 成功 + 大输入失败 = 规模超限，而非服务/代码问题）。
+
+### D16 · 断点恢复（resume/repair 从落盘推断，不依赖 checkpoint）
+
+**背景**：一期 checkpointer 用 InMemorySaver（graph 执行态随进程丢失），而 deepread 是
+单节点内 while 循环、跑小时~天级，节点内部**不产生 checkpoint**。故「崩溃后从断点续跑」
+不能靠 checkpoint，只能靠确定性落盘产物推断断点。
+
+**落地**（对齐设计文档 03 §4.2.1 / §4.2.2）：
+
+1. 新增 `restore.py::restore_build_state(novel_root, source_version)`：从落盘产物推断断点，
+   返回 `{phase, total_chapters, current_chapter}`。推断优先级 skeleton → prescan →
+   review_plan → deepread → audit → review_issues → done，落到第一个未完成阶段。
+2. `graph.py::build_initial_state` 消费 `build_mode`：`full` 固定 `phase=skeleton`；
+   `resume`/`repair` 调 `restore_build_state` 推断 phase + 游标。
+3. `deepread.py` 的 `cursor` 从 `state.current_chapter` 恢复（替代写死 1），已 committed
+   章仍被 `is_committed` 跳过（双保险）。
+4. `tasks.py::create_task` 捕获 source_version 校验的 `ValueError` 转 400。
+
+**build_mode 三态语义**（此前文档未定义，此处补齐）：
+
+| mode | 语义 | 初始 phase |
+|---|---|---|
+| `full` | 全量构建 | `skeleton` |
+| `resume` | 断点续跑（未完成工作） | 由断点推断 |
+| `repair` | 定点修复（已完成但有错误） | 一期等同 `resume`，二期接 issue 定位 |
+
+**关键边界**：
+
+- `review_plan` / `review_issues` 是 interrupt 点，resume 推断出这两个 phase 时会重新
+  `interrupt_before` 挂起，等人工重新 approve / fixed（InMemorySaver 丢 checkpoint 后
+  无法自动恢复 `pending_human_decision`）。
+- `source_version` 不一致时拒绝 resume、要求 full 重建（防拿旧骨架跑新原文）。
+- deepread 的 cursor 起点 = 第一个未 committed 章（ledger 为权威），`progress.json` 仅作
+  观测、不参与恢复判断。
+
+**残留风险**：prescan 一期无幂等（D3），resume 推断出 `prescan` 时会重扫（有 LLM 成本）；
+但推断出 `deepread`（最常见崩溃点）时，prescan 已由 stage-plan.json 的 confirmed 状态
+跳过，不会重扫。
+
+### D17 · skeleton 非幂等 → stage-plan / id-state 被重置（数据破坏 bug）
+
+**故障现象**：`repair`/`resume` 重建任务时，日志显示「现在开始扫读」（prescan），而非
+从 deepread 断点续跑。排查发现 `stage-plan.json` 被重置为 `draft + 空 stages`、
+`id-state.json` 高水位归零，但 `ledger/chapters/ch-000022.json` 已 committed 且
+`allocated_ids` 含 `claim-0450`~`claim-0464`、`ev-0069`、`update-0069`。
+
+**根因（两层）**：
+
+1. **restore 误判（D16 补丁）**：`restore_build_state` 原把「stage-plan.stages 为空」
+   判为「prescan 未完成」，忽略 ledger 已有 committed 章的事实。stage-plan 一旦被重置，
+   restore 就退回 prescan/skeleton，触发骨架重跑。
+2. **skeleton 非幂等（根本）**：`skeleton.py::_init_skeleton` 无条件 `_write_json`
+   覆盖 `stage-plan.json`（confirmed→draft、stages→空）与 `id-state.json`（高水位→0）。
+   **D3 原称「skeleton 零 LLM、重跑无害」是错误认知**——重跑会：
+   - 把 confirmed 骨架重置为 draft + 空 stages，破坏 deepread 的 stage 映射；
+   - 把 ID 高水位归零，后续 deepread 重新分配 ID，与已 committed 的 claim-0450 等冲突。
+
+**修复**：
+
+1. `restore.py::restore_build_state`：推断顺序改为「audit report → ledger（有 committed
+   即推断 deepread/audit）→ stage-plan 兜底」。**ledger 是 deepread 的权威事实源**，
+   比 stage-plan 可靠，即使 stage-plan 被重置也能正确续跑。
+2. `skeleton.py::_init_skeleton`：`stage-plan.json` 与 `id-state.json` 改为「存在即跳过」
+   （对齐 `source/index.json` 已有的幂等模式），防止重跑破坏数据。
+
+**教训**：「确定性写入」≠「幂等」。skeleton 的骨架文件里，凡是被后续阶段
+（prescan/review_plan/deepread）继续改写、且改写结果承载运行时状态的文件，都不能
+无条件覆盖，必须「存在即跳过」。D3 的「重跑无害」只对「内容恒定、无下游改写」的
+文件成立。
+
+### D18 · ChapterReActAgent 移除留桩 dedupe 工具 + resolve_name 批量化
+
+**问题**（对《03-核心图设计》§5.4 / 04-prompt §1.2 的纠正）：单章精读实测 20 次
+工具调用触顶预算，其中 10 次是 C 类 `dedupe_claim` / `dedupe_event` /
+`find_similar_relationship` 的**留桩空转**（恒返回 `no_match`，对结果零贡献），
+另有 6 次是 `resolve_name` **逐个名字**往返。System Prompt 却用「每条新 claim 先调
+dedupe」等硬规则诱导模型调用，导致预算被无效调用耗尽、还漏掉本该做的实体解析
+（如「掌门」「无名少女」未 resolve）。
+
+**根因**：D5 已定「一期只做 ①②（章节级 committed 跳过 + 记录级 record_id 判重），
+主动放弃 ③（C 类内容级语义去重）」，但 chapter_react 的 System Prompt 仍保留了对
+③ 的强制调用要求，与 D5 自相矛盾。
+
+**修复**：
+
+1. `agents/chapter_react.py`：`build_chapter_react_agent` 不再装配
+   `build_dedupe_tools`；System Prompt 原则 6 由「去重复用，逐条调 dedupe」改为
+   「跨章去重由写入侧兜底，本章内不做工具级查重」；工具清单表删去三个 dedupe 工具；
+   总工具预算从 20 降到 10。
+2. `tools/entity.py`：单数 `resolve_name(name, context_hint)` 改为批量
+   `resolve_names(names: list[str])`，一次传入本章全部新名字，返回
+   `{"results": [{"name", "status", "refs"}]}`。System Prompt 原则 4 / 原则 10 /
+   工具清单 / user prompt 同步改为「一次性批量 resolve_names」。
+3. `dedupe.py` 三个留桩函数**保留定义但不再装配**（二期实现真实语义去重时再接入）。
+
+**保留原因（不直接删除 dedupe.py）**：D5 明确「二期再实现真实语义去重」，留桩文件
+作为接口契约保留；当前只是从 ChapterReActAgent 的工具集里摘除，避免诱导模型空转。
+
+**预期收益**：单章工具调用 20 → 个位数；消除 10 次无效往返；resolve 从 N 次降到 1 次。
+配合「换非推理模型 / 章级并发」可进一步压缩单章耗时。
+
 ## 文件结构
 
 ```
 index_builder/
 ├── state.py           # BuildState（P0+P1 裁剪版，P2/P3 增补 deepread 游标 + audit_issues）
-├── graph.py           # build_index_graph + build_initial_state
+├── graph.py           # build_index_graph + build_initial_state（消费 build_mode）
+├── restore.py         # restore_build_state：从落盘产物推断断点（resume/repair 恢复入口）
 ├── nodes/
 │   ├── skeleton.py    # 迁移 4 个脚本（切块/骨架/分片/校验）
 │   ├── prescan.py     # fan-out 扫卷 + fan-in 合并 + 确定性落盘
@@ -329,8 +467,8 @@ index_builder/
 ├── tools/
 │   ├── source.py      # A 类：list_dir/read_file（prescan）+ read_source/read_source_window（deepread）
 │   ├── common.py      # 工具公共 helper：Ref 解析 / JSON 读取 / 章节索引构建
-│   ├── entity.py      # B 类：resolve_name / fetch_entity_current / lookup_stage
-│   ├── dedupe.py      # C 类：dedupe_claim / dedupe_event / find_similar_relationship（一期留桩）
+│   ├── entity.py      # B 类：resolve_names / fetch_entity_current / lookup_stage
+│   ├── dedupe.py      # C 类：dedupe_claim / dedupe_event / find_similar_relationship（一期留桩，不装配）
 │   ├── stage_query.py # E 类：fetch_entity_summary / fetch_event_detail / fetch_related_claims / list_entity_stages
 │   └── audit.py       # F 类：5 个检查工具（check_ref_reachability 等，只读确定性）
 ├── services/
@@ -349,7 +487,7 @@ index_builder/
 - checkpointer 切 sqlite（跨重启恢复）
 - derive 节点（向量索引，已推迟）
 - name_lookup 分片拆分（按首字/容量，一期单分片）
-- C 类 dedupe 真实语义去重 + E 类 fetch_related_claims 真实查询
+- C 类 dedupe 真实语义去重（当前留桩且不装配，实现后需重新接入 ChapterReActAgent）+ E 类 fetch_related_claims 真实查询
 - ledger operations 指纹 CAS 逐目标重放 + applying 中途失败 allocated_ids 精确复用
 - audit 自动修复（correct_safe_through / patch_record 的 CAS，依赖读原文）+ issue 状态流转（open→resolved）
 - N7 resume 的 `fixed` 语义闭环（当前只重审计，不校验具体修复项）

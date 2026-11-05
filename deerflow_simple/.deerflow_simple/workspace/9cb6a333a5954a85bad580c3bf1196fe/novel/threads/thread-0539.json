@@ -1,0 +1,30 @@
+{
+  "id": "thread-0539",
+  "introduced_at": 592,
+  "kind": "story_thread",
+  "label": "王林与古妖的十年前之约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 592,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 592,
+          "start": 592
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0539-001",
+      "resolution_refs": [],
+      "revealed_at": 592,
+      "role": "primary",
+      "status": "advanced",
+      "summary": "王林因问鼎耽搁十年，赴天妖城求古妖相助；古妖称其晚来十年，并取其血液化形降世。约定内容本章未展开。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0440",
+  "introduced_at": 513,
+  "kind": "story_thread",
+  "label": "鬼真人与天鬼道的后续威胁",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 513,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 513,
+          "start": 513
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0440-001",
+      "resolution_refs": [],
+      "revealed_at": 513,
+      "role": "foreshadowing",
+      "status": "open",
+      "summary": "罗云自称师尊鬼真人必会知晓其死并为其报仇，并称天运子见鬼真人也要平辈论交；王林判断其为500年后之事，暂不放在心上。"
+    }
+  ]
+}

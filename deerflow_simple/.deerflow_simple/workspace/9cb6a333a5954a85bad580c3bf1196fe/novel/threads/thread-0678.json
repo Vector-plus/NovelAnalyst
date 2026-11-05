@@ -1,0 +1,30 @@
+{
+  "id": "thread-0678",
+  "introduced_at": 673,
+  "kind": "story_thread",
+  "label": "王林携王平离开落月村后的去向",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 673,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "journey",
+      "chapter_ranges": [
+        {
+          "end": 673,
+          "start": 673
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0678-001",
+      "resolution_refs": [],
+      "revealed_at": 673,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林在落月村第十九整年携王平离去，对村人称要带孩子出去看看天地，去向本章未明。"
+    }
+  ]
+}

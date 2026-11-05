@@ -1,0 +1,30 @@
+{
+  "id": "thread-0319",
+  "introduced_at": 411,
+  "kind": "story_thread",
+  "label": "修星之晶的真实性质",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 411,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 411,
+          "start": 411
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0319-001",
+      "resolution_refs": [],
+      "revealed_at": 411,
+      "role": "advance",
+      "status": "open",
+      "summary": "王林询问什么是修星之晶，司徒南仅称其太过歹毒，具体缘由未及说明，本章结尾截断于此。"
+    }
+  ]
+}

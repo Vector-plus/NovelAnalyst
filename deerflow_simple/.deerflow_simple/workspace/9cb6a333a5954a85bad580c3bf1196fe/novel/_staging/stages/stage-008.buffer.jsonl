@@ -1,0 +1,200 @@
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "stage-008 起点：王林一行抵达碎星乱外", "chapter_order": 150}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "古帝首次动手与「第三关重要之人」的公开理由", "chapter_order": 150}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "六欲魔君对王林的护身承诺，本 stage 重要关系起点", "chapter_order": 150}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "note": "碎星乱内有古神尸身（端木极转述传承记载）", "chapter_order": 150}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "note": "王林被视为度过第三关的关键人物", "chapter_order": 150}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "note": "端木极以「王林会死咒术」为理由说服古帝收手", "chapter_order": 150}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "note": "碎星环分身规则（本 stage 关卡机制基础）", "chapter_order": 150}
+{"kind": "entity_candidate", "ref_or_local_id": "端木极", "note": "本 stage 主要同行者，需建档", "chapter_order": 150}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "本stage开局关键节点：七人借重铸古传送阵进入碎星乱内部，阵法报废（不可回退）", "chapter_order": 151}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "记录古神之地目标（婴变丹）与分配规则，为后续四关冲突预设条件", "chapter_order": 151}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "王林取得化地丹与立婴丹，与第149章前后铺垫呼应", "chapter_order": 151}
+{"ref_or_local_id": "ev-local-6", "kind": "event", "note": "浮石通道遇九角蛇形荒兽，跨章未完，下一章需接续", "chapter_order": 151}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "六欲魔君关于古神尸身/神识/法宝/丹药的完整说明（reported），后续验证基准", "chapter_order": 151}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "化地丹/立婴丹到手，与李慕婉先前描述一致", "chapter_order": 151}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "note": "火焚盟所得储物袋神识无反应，疑似伏笔", "chapter_order": 151}
+{"ref_or_local_id": "claim-local-24", "kind": "claim", "note": "九角蛇形荒兽首次具体描写，能力量级参照点", "chapter_order": 151}
+{"local_id": "ev-local-2", "kind": "event", "note": "本阶段主线行动：王林入蛇体取髓液，目标脊柱骨", "chapter_order": 152}
+{"local_id": "claim-local-14", "kind": "claim", "note": "王林本阶段明确动机（髓液→结婴几率）", "chapter_order": 152}
+{"local_id": "claim-local-15", "kind": "claim", "note": "李慕婉转述的蛟类髓液设定（reported）", "chapter_order": 152}
+{"local_id": "claim-local-13", "kind": "claim", "note": "孟驼子与王林首次同场交错，埋下后续互动线索", "chapter_order": 152}
+{"local_id": "claim-local-5", "kind": "claim", "note": "六欲魔君法术需受术人，年轻人被消耗", "chapter_order": 152}
+{"local_id": "claim-local-7", "kind": "claim", "note": "古帝法宝被蛇头吞走，战力受影响的势力动向", "chapter_order": 152}
+{"local_id": "ev-local-1", "kind": "event", "note": "王林取得寄生蛟蛇金色髓液、巨蛇坠入更下层虚无，为本站阶段地形与资源关键收获", "chapter_order": 153}
+{"local_id": "claim-local-7", "kind": "claim", "note": "寄生蛟蛇体内九条蛇、最里为本体且具荒兽神通的设定，后续关卡可能复用", "chapter_order": 153}
+{"local_id": "claim-local-9", "kind": "claim", "note": "王林正式决定脱离魔修队伍，本站阶段主线动机", "chapter_order": 153}
+{"local_id": "claim-local-15", "kind": "claim", "note": "虚无中隐形吞噬生物的判定，影响后续行进与环境认知", "chapter_order": 153}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "chapter_order": 154, "note": "王林以李慕婉所赠防御阵玉简穿越空白地带，为本阶段首批险死场景之一。"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 154, "note": "光圈凹点=极品灵石的通行条件，为后续关卡入口线索。"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-12", "chapter_order": 154, "note": "李慕婉赠物在本章兑现保命作用。"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-18", "chapter_order": 154, "note": "六欲魔君给出的通道通行方法（转述）。"}
+{"kind": "new_candidate", "ref_or_local_id": "裂痕生物", "chapter_order": 154, "note": "空白地带中的空间裂缝类生物，力量超过元婴期一击。"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "王林完成对漩涡后五行世界的试探，并选定土行之地进入", "chapter_order": 155}
+{"kind": "key_event", "ref_or_local_id": "ev-local-4", "note": "孟驼子被红色蛟龙冲散、困守土行之地黑塔，为本 stage 敌人动向的关键证据", "chapter_order": 155}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "note": "王林锁定孟驼子在前方，出现追及/借力的行动线", "chapter_order": 155}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-08", "note": "五行之地结构（金木水火土）确立", "chapter_order": 155}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-17", "note": "古帝一行人走冰川之地的路径推断", "chapter_order": 155}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-13", "note": "黑塔前人镌字，可能关联后续人物身份揭示", "chapter_order": 155}
+{"kind": "character_turn", "ref_or_local_id": "claim-local-28", "note": "王林由独行改为刻意跟随前方之人借力，行动策略转折", "chapter_order": 155}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-2", "chapter_order": 156, "note": "第二魔头诞生（土行之地小兽神识培育）"}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-3", "chapter_order": 156, "note": "王林以极境神识制服新化形魔头"}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-4", "chapter_order": 156, "note": "孟驼子以赤角蟒替身硬抗兽群，放出天残毒"}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-3", "chapter_order": 156, "note": "小兽集体召唤机制（影响后续土行之地行动策略）"}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-12", "chapter_order": 156, "note": "孟驼子自称天残毒为修魔海第一毒（角色自述）"}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-18", "chapter_order": 156, "note": "王林法宝清单与自身短板自评"}
+{"kind": "key_event", "local_id": "ev-local-1", "note": "王林以极境神识制伏化形小兽魔头并收入魂旗，末状态为已收服", "chapter_order": 157}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "第二魔头首次在飓风小兽群前展现压制性威压，可左右小兽神识攻击指向", "chapter_order": 157}
+{"kind": "key_event", "local_id": "ev-local-4", "note": "小兽群中存在神识异类，已与第二魔头正面接触，后续对抗结果待续", "chapter_order": 157}
+{"kind": "key_claim", "local_id": "claim-local-9", "note": "通向第二关的巨大漩涡已在望，闯关位置节点", "chapter_order": 157}
+{"kind": "character_turning_point", "local_id": "claim-local-18", "note": "许立国恢复记忆后产生屈辱感与对「小弟排名」的焦虑", "chapter_order": 157}
+{"kind": "faction_movement", "local_id": "claim-local-13", "note": "飓风小兽群自漩涡方向涌向孟驼子，土行之地威胁格局受其牵引", "chapter_order": 157}
+{"kind": "event", "ref_local_id": "ev-local-4", "note": "王林夺走孟驼子储物袋，第一关局面反转", "chapter_order": 158}
+{"kind": "event", "ref_local_id": "ev-local-2", "note": "孟驼子以离天蟾蜍元丹与上古魔功短时提升至化神期圆满", "chapter_order": 158}
+{"kind": "claim", "ref_local_id": "claim-local-16", "note": "孟驼子服食祖魔之心，被巨魔族通缉追杀", "chapter_order": 158}
+{"kind": "claim", "ref_local_id": "claim-local-31", "note": "兽王头部显露半根金色手指骨", "chapter_order": 158}
+{"kind": "claim", "ref_local_id": "claim-local-36", "note": "半空漩涡为第二关入口", "chapter_order": 158}
+{"kind": "relationship", "note": "王林与孟驼子敌对关系确立为本章核心冲突", "chapter_order": 158}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-2", "chapter_order": 159, "note": "王林通过古神之地第一关土行之地，携四十余道飓风进入漩涡"}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-4", "chapter_order": 159, "note": "王林收服四十二道飓风，为第二关做准备"}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-3", "chapter_order": 159, "note": "孟驼子落入兽王之手，金指骨点眉心，后续未明"}
+{"buffer_kind": "key_claim", "record_ref_or_local_id": "claim-local-17", "chapter_order": 159, "note": "第二魔头融合的施令者神识被王林分离收入魂旗，用于制作更多魔头"}
+{"buffer_kind": "entity_turning_point", "record_ref_or_local_id": "claim-local-18", "chapter_order": 159, "note": "王林对第二魔头采取防脱离掌控的措施"}
+{"buffer_kind": "key_event", "ref_local_id": "ev-local-4", "chapter_order": 160, "subject_ref": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "王林以毒王鼎熔炼成墨绿毒飞剑，战力提升至可威胁元婴期"}
+{"buffer_kind": "key_event", "ref_local_id": "ev-local-2", "chapter_order": 160, "subject_ref": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "黑石桥为进入「不归路」的必经关口，桥面漩涡吞噬试桥小兽"}
+{"buffer_kind": "key_claim", "ref_local_id": "claim-local-17", "chapter_order": 160, "note": "王林收获以毒入道的「冥」功法玉简，虽弃修但可取其法术配合毒药"}
+{"buffer_kind": "key_claim", "ref_local_id": "claim-local-21", "chapter_order": 160, "note": "毒王鼎来历：药王鼎仿制品，孟驼子取鼎杀师后带入修魔海"}
+{"buffer_kind": "unresolved", "ref_local_id": "ev-local-1", "chapter_order": 160, "note": "石碑留字者身份未明，与土行之地黑塔留字同出一人"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 161, "note": "本阶段关键关卡事件：王林以不回头、不用神识回望的方式独自走出不归路幻境桥"}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 161, "note": "关卡推进：进入禁制山（王林判断为第二关），禁制可自动恢复、禁飞行"}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "chapter_order": 161, "note": "关卡结构的阶段性判断：不归路非第二关，山峰才是第二关"}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "chapter_order": 161, "note": "发现山脚禁制被他人破坏，指向有先行者"}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "chapter_order": 161, "note": "李慕婉所给玉简在关卡中的使用，跨章道具线索"}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "chapter_order": 161, "note": "幻象以爹娘口吻唤“铁柱”，人物过往线索（来源为幻象言说）"}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "主角修为突破至结丹中期、练成神识之眼，并掌握禁制破解与布置", "chapter_order": 162}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "六欲魔君已达化神中期，携年轻人推进至禁山山腰，被未知云雾阻住三日", "chapter_order": 162}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "第二关“禁山”规则：整山皆禁制，越上越复杂", "chapter_order": 162}
+{"ref_or_local_id": "claim-local-29", "kind": "claim", "note": "年轻人与“第三关关键人物”是否为同一人，尚无明示", "chapter_order": 162}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 163, "note": "王林十年破禁+沿途布禁的关键进展，禁制造诣已足以威胁化神期来者"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 163, "note": "古帝入第二关、法宝被大量消耗，闯关实力削弱"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 163, "note": "古帝与王林十丈之距的首次近身接触，直接衔接下一章"}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "chapter_order": 163, "note": "古帝千年前即化神中期、当年闯关主要成员之一，且曾重伤未能杀六欲魔君等三人"}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "chapter_order": 163, "note": "古帝对王林禁制手法的评价：刚学禁制却自成「快、诡」体系"}
+{"buffer_entry_type": "event", "ref_or_local_id": "ev-local-2", "note": "本章核心：王林以残影之圈引爆三百丈内禁制，引出环形黑光", "chapter_order": 164}
+{"buffer_entry_type": "event", "ref_or_local_id": "ev-local-5", "note": "六欲魔君与古帝强冲漩涡，六欲修为永久下降一个境界、损失尸体一臂", "chapter_order": 164}
+{"buffer_entry_type": "claim", "ref_or_local_id": "claim-local-40", "note": "六欲魔君修为永久下降一个境界（战力变化关键）", "chapter_order": 164}
+{"buffer_entry_type": "claim", "ref_or_local_id": "claim-local-46", "note": "王林取得八颗无灵力波动的金色颗粒", "chapter_order": 164}
+{"buffer_entry_type": "claim", "ref_or_local_id": "claim-local-24", "note": "古帝与六欲魔君立心魔之誓，约定进第三关前休战", "chapter_order": 164}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "古神涂司分身授予王林第四位大领悟者身份与禁幡制作玉简，为古神之地核心奖励线索", "chapter_order": 165}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "王林进入第三关（其称寂灭界），极境神识吞噬游魂可增强神识，成为后续变强路径", "chapter_order": 165}
+{"record_ref_or_local_id": "claim-local-9", "kind": "claim", "note": "墨间石产于星空、古神体内识海有数颗且每名领悟者可得一块，指向后续目标地点", "chapter_order": 165}
+{"record_ref_or_local_id": "claim-local-10", "kind": "claim", "note": "禁幡需刻九十九万九千九百九十九个禁制，用途未明，属长线伏笔", "chapter_order": 165}
+{"record_ref_or_local_id": "claim-local-20", "kind": "claim", "note": "宝阁塔三层漩涡即千年前令六欲魔君、古帝等人止步的第三关", "chapter_order": 165}
+{"record_ref_or_local_id": "claim-local-29", "kind": "claim", "note": "许立国、第二魔头对王林的恐惧定性发生跃升，影响后续驱使关系", "chapter_order": 165}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-6", "chapter_order": 166, "note": "王林首次以吞魂身份对化神级人物形成压制（古帝修为跌至元婴中期）"}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 166, "note": "王林掌控第三关游魂网络、锁定第四关入口位置与各方行踪"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-18", "chapter_order": 166, "note": "端木极与汪清越最先入第三关却被困外围，第四关名额竞争格局形成"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-19", "chapter_order": 166, "note": "六欲魔君以年轻人尸体引游魂推进，其修为已永久降至化神初期"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-22", "chapter_order": 166, "note": "古帝修为降至元婴后期→元婴中期，为第三关最低"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-25", "chapter_order": 166, "note": "第四关入口在第三关西北方向、游魂最密处"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-32", "chapter_order": 166, "note": "孟驼子从第三关漩涡出现、涂司死因之谜，为后续章节伏笔"}
+{"buffer_kind": "setting", "ref_or_local_id": "new_setting_candidates", "chapter_order": 166, "note": "第三关=寂灭界裂缝；第四关=传送阵；婴变丹来源"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 167, "reason": "阶段关键转折：妖魔化孟驼子（自称妖神涂司）现身第三关并封锁第四关"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 167, "reason": "首次揭示妖神血海设定，古帝被投入其中"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 167, "reason": "王林放弃游魂优势、取回肉身转向第四关的路线决断"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 167, "reason": "孟驼子开始清除剩余修士，六欲魔君与之对面"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 167, "reason": "身份关键陈述：妖魔自称妖神涂司，与孟驼子身份说法冲突"}
+{"kind": "claim", "local_id": "claim-local-8", "chapter_order": 167, "reason": "离开古神之地的手诀规则：须在每关出口漩涡处施展"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 167, "reason": "古帝结局：宝塔碎、被游魂吞噬、储物袋归王林"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 167, "reason": "天魔散人=六欲魔君之师，并被叙述称千年前死于古神之地"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 167, "reason": "端木极与汪清越被妖魔之手抓走，势力格局变化"}
+{"ref_type": "event", "ref_local_id": "ev-local-4", "note": "王林的吞魂身份首次被妖神血海一方获知，触发群体追捕", "chapter_order": 168}
+{"ref_type": "claim", "ref_local_id": "claim-local-1", "note": "天魔散人自述改名为妖神涂司（reported，未获第三方确认）", "chapter_order": 168}
+{"ref_type": "claim", "ref_local_id": "claim-local-17", "note": "使者神念自称因吞魂存在无法亲自出手，仅能阻拦一次", "chapter_order": 168}
+{"ref_type": "claim", "ref_local_id": "claim-local-25", "note": "红发男子的自述字迹，含被封印数万年、第四关为传送阵、此地为妖神之地等信息（角色文字自述）", "chapter_order": 168}
+{"ref_type": "event", "ref_local_id": "ev-local-1", "note": "天魔散人与六欲魔君师徒对峙，六欲以血遁脱离", "chapter_order": 168}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 169, "reason": "王林摧毁第四关传送阵，为其进入古神体内争取三个时辰窗口"}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 169, "reason": "血海妖魔公开追杀意图（三个时辰后分开寻找、要活的），构成本阶段持续威胁"}
+{"record_ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 169, "reason": "王林抵达气海之外，进入古神体内，身份/位置层面关键节点"}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "chapter_order": 169, "reason": "古帝所留离开手诀被判定为歹毒，影响后续离开路线判断"}
+{"record_ref_or_local_id": "claim-local-11", "kind": "claim", "chapter_order": 169, "reason": "传送阵内关于「领悟者头衔」与「气海之外」的规则性陈述来源"}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "chapter_order": 169, "reason": "两漩涡相撞致灵力暴走、金丹碎裂的风险判断，属后续决策证据"}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林在古神体内确立天逆空间可用、目标为紫府识海，构成后续寻墨间石线索起点", "chapter_order": 170}
+{"kind": "event", "local_id": "ev-local-2", "note": "六欲魔君脱出失败被卷入古神体内，揭示天魔散人暗中操纵与传承手骨来源", "chapter_order": 170}
+{"kind": "event", "local_id": "ev-local-3", "note": "六欲魔君吞尽古神六欲、修为暴涨；天魔散人启动收割，是 stage-008 关键人物动向", "chapter_order": 170}
+{"kind": "claim", "local_id": "claim-local-28", "note": "天魔散人自述操纵六欲魔君（暗中开启传承之物、阻止其离开）", "chapter_order": 170}
+{"kind": "claim", "local_id": "claim-local-40", "note": "天魔散人称任务已完成、权当报恩并向其冲去——潜在师徒反目/收束伏笔", "chapter_order": 170}
+{"kind": "claim", "local_id": "claim-local-24", "note": "古神之地传承之物=金色手骨，由天魔散人交给六欲魔君", "chapter_order": 170}
+{"local_id": "ev-local-3", "kind": "event", "reason": "本 stage 核心推进：古神神识之地通道开启、六欲魔君被献祭", "chapter_order": 171}
+{"local_id": "ev-local-2", "kind": "event", "reason": "师徒关系与布局反转的关键场景", "chapter_order": 171}
+{"local_id": "ev-local-4", "kind": "event", "reason": "结尾悬念：禁制被破、有人赶来，直接接续后章", "chapter_order": 171}
+{"local_id": "claim-local-32", "kind": "claim", "reason": "古神手骨另一半在王林储物袋，为后续手骨线索引", "chapter_order": 171}
+{"local_id": "claim-local-25", "kind": "claim", "reason": "天魔散人四千年三入古神之地的秘闻，属本 stage 世界观关键背景", "chapter_order": 171}
+{"ref": {"local_id": "ev-local-1"}, "kind": "event", "note": "朵目首次登场并捏碎六欲魔君所化冰晶，带天魔散人同去追捕吞魂", "chapter_order": 172}
+{"ref": {"local_id": "ev-local-2"}, "kind": "event", "note": "王林夺取重组冰晶，掌握冰晶归属", "chapter_order": 172}
+{"ref": {"local_id": "ev-local-3"}, "kind": "event", "note": "王林吞晶后异变结茧消失，身体状况悬置", "chapter_order": 172}
+{"ref": {"local_id": "claim-local-4"}, "kind": "claim", "note": "朵目的血海战将/上古修士身份设定", "chapter_order": 172}
+{"ref": {"local_id": "claim-local-10"}, "kind": "claim", "note": "六欲魔君为天魔散人弟子且被取脑晶的陈述", "chapter_order": 172}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 173, "note": "王林获得古神部分忆之传承与古神诀前两层口诀，能力定位转折点"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 173, "note": "古神传承机制与涂司之死、识海二分的原委，阶段主线关键信息"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 173, "note": "王林借传承之术在古神体内自由穿梭、甩开魔化修士，抵紫府识海之外"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 173, "note": "力之传承数万年前已被人获得——与红发男子线索相关"}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "chapter_order": 173, "note": "红发男子夺力之传承、涂司神识破灭"}
+{"kind": "claim", "ref_or_local_id": "claim-local-29", "chapter_order": 173, "note": "王林计划在神识死海之外观察后实施大胆计划（悬念）"}
+{"ref": "ev-local-3", "kind": "event", "note": "王林首次验证魔修幕后主使推断，朵目首次当面带走王林", "chapter_order": 174}
+{"ref": "claim-local-9", "kind": "claim", "note": "王林推断红发男子为魔修操控者、目的是脱困血海", "chapter_order": 174}
+{"ref": "claim-local-24", "kind": "claim", "note": "朵目对孟驼子有惩戒权、众魔修听命，群体层级首次展现", "chapter_order": 174}
+{"ref": "claim-local-17", "kind": "claim", "note": "王林修为已达结丹后期、结婴失败，直接决定其后续选择", "chapter_order": 174}
+{"ref_kind": "event", "local_ref": "ev-local-2", "note": "拓森来历与封印真相的完整口述，本 stage 关键信息块", "chapter_order": 175}
+{"ref_kind": "event", "local_ref": "ev-local-3", "note": "王林与十人的交易条件与报酬（混元驱兽圈），悬而未决", "chapter_order": 175}
+{"ref_kind": "claim", "local_ref": "claim-local-29", "note": "拓森=涂司怨念/古魔涂司的推测（reported，待验证）", "chapter_order": 175}
+{"ref_kind": "claim", "local_ref": "claim-local-44", "note": "混元驱兽圈首次出现及其限制条件", "chapter_order": 175}
+{"ref_kind": "claim", "local_ref": "claim-local-41", "note": "封印方案：王林作引子触发神识死海，把握七成", "chapter_order": 175}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "王林抵达血海并与红发男子正面接触，stage-008 核心场景", "chapter_order": 176}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "王林凝结魂核，成为真正吞魂——能力质变节点", "chapter_order": 176}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "note": "拓森破封行动正式开始，后续章承接", "chapter_order": 176}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "note": "游魂魂能被大量抽取，其状态大幅跌落", "chapter_order": 176}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "note": "十人目的与'使者大人'对拓森忠诚的线索", "chapter_order": 176}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "note": "王林持有十人十件本命法宝作抵押，后续可回收的伏笔", "chapter_order": 176}
+{"kind": "event", "local_id": "ev-local-1", "note": "本阶段破封主线：王林+吞魂组合吞噬分识", "chapter_order": 177}
+{"kind": "event", "local_id": "ev-local-4", "note": "破封关键节点：五彩光幕碎裂，红芒强灌三百余魔修", "chapter_order": 177}
+{"kind": "claim", "local_id": "claim-local-6", "note": "天魔散人私吞三分之一忆之传承，构成后续冲突伏笔", "chapter_order": 177}
+{"kind": "claim", "local_id": "claim-local-9", "note": "天魔散人神秘口诀来历（古神之地偶然获得，未传六欲魔君）", "chapter_order": 177}
+{"kind": "claim", "local_id": "claim-local-11", "note": "天魔散人推测十大战将亦压制分识，将趁破封动手", "chapter_order": 177}
+{"kind": "claim", "local_id": "claim-local-14", "note": "红发男子自报名号拓森，指封印为涂司所设", "chapter_order": 177}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "key_event", "ref_or_local_id": "ev-local-1", "note": "拓森破除分识封印并召唤本命之器灭星矛，古神之地局势反转的节点"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "key_event", "ref_or_local_id": "ev-local-4", "note": "死海守护巨兽现身，忆之传承归属争议与拓森来历（涂司魔念）由第三方口述印证"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "key_claim", "ref_or_local_id": "claim-local-24", "note": "巨兽称拓森是涂司修炼墨流分神术时分离出的魔念（人物来历陈述）"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "key_claim", "ref_or_local_id": "claim-local-27", "note": "拓森自称已得力之传承、需完整传承方可彻底掌控（能力与目标陈述）"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "key_claim", "ref_or_local_id": "claim-local-29", "note": "王林对忆之传承守护者说法的疑点，指向\"此地非真正识海\"的后续线索"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "chapter_order": 178, "entry_type": "faction_move", "ref_or_local_id": "ev-local-5", "note": "朵目等十人围堵站位与持续监视王林，势力动向待解"}
+{"kind": "event", "record_ref": "ev-local-4", "note": "王林脱离十人封印之战、径直扑向万丈生物特殊鳞片，为其后续进入鳞片内世界提供直接前因", "chapter_order": 179}
+{"kind": "event", "record_ref": "ev-local-3", "note": "厉鹏现身并破解拓森分识自爆，是本节阶段内拓森与十人对抗格局的关键反转", "chapter_order": 179}
+{"kind": "claim", "record_ref": "claim-local-5", "note": "裂缝空白带可隔绝神识，王林视之为可利用的特性，对后续储物袋控制权伏笔有直接作用", "chapter_order": 179}
+{"kind": "claim", "record_ref": "claim-local-6", "note": "王林将十人本命法器与极品灵石分散三袋，是对十人交易的主动防备", "chapter_order": 179}
+{"kind": "setting_candidate", "record_ref": "神识死海", "note": "古神涂司神识一分为二所化，忆之传承于此失效，为阶段内重要地点设定", "chapter_order": 179}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "拓森化血雾突围，十人围攻阵营六人身死（含朵目），死海战局与忆之传承争夺格局改变", "chapter_order": 180}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "王林首次以神识之体进入万丈生物鳞片，并显出“古神决”三字", "chapter_order": 180}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "菱形双眼男子以分身祭献完成“忆之传承，转”，鳞片碎裂，王林进入忆之传承之地", "chapter_order": 180}
+{"kind": "claim", "ref_or_local_id": "claim-local-29", "note": "关键规则：真正存放忆之传承之地任何肉身无法进入，唯神识可入", "chapter_order": 180}
+{"kind": "claim", "ref_or_local_id": "claim-local-30", "note": "拓森身份：古神涂司分离出的魔念，熟悉识海", "chapter_order": 180}
+{"kind": "claim", "ref_or_local_id": "claim-local-27", "note": "菱形双眼男子给出时间尺度线索：下一个千年内王林若未融合成功，拓森仍有“机会”", "chapter_order": 180}
+{"kind": "claim", "ref_or_local_id": "claim-local-1", "note": "老者等人的本命法器可远程动用、随储物袋闪烁显露毁灭气息", "chapter_order": 180}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林肉身恢复的关键转折：吸收完整冰晶触发古神身体重组", "chapter_order": 181}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "涂司炼器（七彩方鼎）与炼丹的传承画面", "chapter_order": 181}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "吸收进度与眉心星点出现，融合速度放缓", "chapter_order": 181}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "note": "王林灭藤家满门之誓（reported）", "chapter_order": 181}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "古神身体重组与神识/身体二元修为设定", "chapter_order": 181}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "note": "王林对神识错乱的危机意识与应对", "chapter_order": 181}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 182, "note": "古神忆之传承融合完成（第九十四颗冰晶），主角身体重组定型的节点"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 182, "note": "旧肉身金丹与新肉身合流，旧资源（储物袋）回收的节点"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 182, "note": "古神之地出口开启，本 stage 收束点，跨 stage 衔接需追踪"}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "chapter_order": 182, "note": "取得三块墨间石（禁幡必需材料）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "chapter_order": 182, "note": "古神记忆存在缺口（墨流化神术与涂司之死），后续可回收的伏笔"}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "chapter_order": 182, "note": "冰晶数量疑多于九十四颗且另有存放处，未解伏笔"}
+{"kind": "relationship", "ref_or_local_id": "rel-local-1", "chapter_order": 182, "note": "王林—涂司：忆之传承关系确立"}
+{"kind": "setting", "ref_or_local_id": "墨间石", "chapter_order": 182, "note": "新材料线索，制作禁幡必需"}
+{"local_id": "ev-local-1", "record_type": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "note": "本阶段结尾章：主角离开忆之传承之地、回到修魔内海的关键节点", "chapter_order": 183}
+{"local_id": "ev-local-3", "record_type": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "note": "极境神识不可被碎星环复制，为能力上限的关键证据", "chapter_order": 183}
+{"local_id": "claim-local-25", "record_type": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "note": "能力展示关键句，保留原文锚点", "chapter_order": 183}
+{"local_id": "claim-local-32", "record_type": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "note": "云妃（墨云）与王林关系的起点，下一阶段可能延续", "chapter_order": 183}
+{"local_id": "claim-local-15", "record_type": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-008"}, "note": "钱昆违约、玉简流向待续", "chapter_order": 183}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "因家产旧怨与王天山公开冲突，当众指责对方夺走父亲留给他的家产（其说法）；冲突中四叔以江湖朋友关系威慑王天山；其言行是王林对家族态度转向的刺激之一，本身对王林的态度尚无直接依��。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 9,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 9,
+      "summary": "离乡求仙与入门测试阶段（第1—9章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0002/stages/stage-001.md",
+        "record_id": "doc-char-0002-stage-001"
+      },
+      "title": "离乡求仙与入门测试阶段"
+    }
+  ],
+  "id": "char-0002",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 1,
+  "kind": "entity_index",
+  "label": "王天水",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 9,
+  "schema_version": "2.0"
+}

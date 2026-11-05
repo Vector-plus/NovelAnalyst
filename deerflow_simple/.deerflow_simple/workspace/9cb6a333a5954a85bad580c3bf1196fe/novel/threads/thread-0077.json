@@ -1,0 +1,30 @@
+{
+  "id": "thread-0077",
+  "introduced_at": 125,
+  "kind": "story_thread",
+  "label": "王林对周紫虹的承诺：临走前杀死徐思与周安",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 125,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0077-001",
+      "resolution_refs": [],
+      "revealed_at": 125,
+      "role": "initiator",
+      "status": "open",
+      "summary": "周紫虹以地图换王林杀徐思（筑基中期）与周安（筑基后期大圆满），王林已应允；他已定位徐思并在周安身上留下一丝半个月后发作的神识。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0052",
+  "introduced_at": 61,
+  "kind": "story_thread",
+  "label": "飞剑与黑色剑鞘之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 61,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact",
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0052-001",
+      "resolution_refs": [],
+      "revealed_at": 61,
+      "role": "supporting",
+      "status": "open",
+      "summary": "飞剑可瞬移、入鞘受阻并变色，司徒南称飞剑有古怪；本章未揭示其来历与真正用法。"
+    }
+  ]
+}

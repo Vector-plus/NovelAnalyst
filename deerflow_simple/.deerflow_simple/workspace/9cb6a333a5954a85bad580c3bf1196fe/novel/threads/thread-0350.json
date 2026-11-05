@@ -1,0 +1,30 @@
+{
+  "id": "thread-0350",
+  "introduced_at": 440,
+  "kind": "story_thread",
+  "label": "云雀子在朱雀墓内的时间限制",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 440,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "constraint",
+      "chapter_ranges": [
+        {
+          "end": 440,
+          "start": 440
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0350-001",
+      "resolution_refs": [],
+      "revealed_at": 440,
+      "role": "constraint",
+      "status": "open",
+      "summary": "云雀子借虚祖头骨符文进入朱雀墓，符文之力消散后将被修星之晶抹杀，他因此全速赶往灵山。"
+    }
+  ]
+}

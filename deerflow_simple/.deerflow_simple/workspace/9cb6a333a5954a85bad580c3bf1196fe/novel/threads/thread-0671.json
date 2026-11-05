@@ -1,0 +1,30 @@
+{
+  "id": "thread-0671",
+  "introduced_at": 671,
+  "kind": "story_thread",
+  "label": "王林拒绝让王平修道，执意要其做凡人度过一生",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 671,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_question",
+      "chapter_ranges": [
+        {
+          "end": 671,
+          "start": 671
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0671-001",
+      "resolution_refs": [],
+      "revealed_at": 671,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

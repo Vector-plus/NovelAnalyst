@@ -1,0 +1,30 @@
+{
+  "id": "thread-0171",
+  "introduced_at": 207,
+  "kind": "story_thread",
+  "label": "王林对藤化元的四百年复仇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 207,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 207,
+          "start": 207
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0171-001",
+      "resolution_refs": [],
+      "revealed_at": 207,
+      "role": "main",
+      "status": "referenced",
+      "summary": "王林将回赵国报仇列为结婴的核心动因，并判断藤化元四百年内难以晋入化神期。"
+    }
+  ]
+}

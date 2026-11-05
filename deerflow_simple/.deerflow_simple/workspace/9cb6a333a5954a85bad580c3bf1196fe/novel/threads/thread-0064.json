@@ -1,0 +1,30 @@
+{
+  "id": "thread-0064",
+  "introduced_at": 97,
+  "kind": "story_thread",
+  "label": "天逆珠子的来源与七级修真国的追索风险",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 97,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact_origin",
+      "chapter_ranges": [
+        {
+          "end": 97,
+          "start": 97
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0064-001",
+      "resolution_refs": [],
+      "revealed_at": 97,
+      "role": "new",
+      "status": "open",
+      "summary": "司徒南称天逆珠子引来不明强者追杀，怀疑对方来自七级修真国并可能向六级修真国发布寻物命令，因此王林必须隐藏珠子。"
+    }
+  ]
+}

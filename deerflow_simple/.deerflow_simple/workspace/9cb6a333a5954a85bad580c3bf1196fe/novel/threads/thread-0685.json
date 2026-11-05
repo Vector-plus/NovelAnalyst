@@ -1,0 +1,30 @@
+{
+  "id": "thread-0685",
+  "introduced_at": 680,
+  "kind": "story_thread",
+  "label": "王平之母的身份与王林往事（柳眉）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 680,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 680,
+          "start": 680
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0685-001",
+      "resolution_refs": [],
+      "revealed_at": 680,
+      "role": "core",
+      "status": "open",
+      "summary": "王平六十多年来第二次开口问母亲之事；王林开始讲述朱雀星上一个名叫王林的少年近九百年的人生，并以「那个女修，叫做柳眉」引出关键人物。"
+    }
+  ]
+}

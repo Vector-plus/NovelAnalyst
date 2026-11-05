@@ -1,0 +1,30 @@
+{
+  "id": "thread-0929",
+  "introduced_at": 883,
+  "kind": "story_thread",
+  "label": "王林以雷吉之血在朱雀星祭炼古神神通",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 883,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 883,
+          "start": 883
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0929-001",
+      "resolution_refs": [],
+      "revealed_at": 883,
+      "role": "foreshadow",
+      "status": "open",
+      "summary": "王林回到联盟星域后危机感增强，取雷吉心血以便在朱雀星祭炼古神神通，本尊亦可施展。"
+    }
+  ]
+}

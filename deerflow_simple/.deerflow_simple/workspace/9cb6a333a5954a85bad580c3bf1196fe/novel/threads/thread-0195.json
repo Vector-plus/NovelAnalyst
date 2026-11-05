@@ -1,0 +1,30 @@
+{
+  "id": "thread-0195",
+  "introduced_at": 250,
+  "kind": "story_thread",
+  "label": "四派联盟下令除掉可疑者，黑衣人围杀王林失败",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 250,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 250,
+          "start": 250
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0195-001",
+      "resolution_refs": [],
+      "revealed_at": 250,
+      "role": "major",
+      "status": "open",
+      "summary": "四名元婴后期黑衣人奉命对王林下手，两人被当场杀死、元婴被吞，余下两人逃走；周武泰旁观未出手。"
+    }
+  ]
+}

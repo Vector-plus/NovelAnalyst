@@ -1,0 +1,30 @@
+{
+  "id": "thread-0806",
+  "introduced_at": 784,
+  "kind": "story_thread",
+  "label": "雷之仙界脱困：众修士以阵法崩溃为代价传送离开，与雷仙殿结下死仇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 784,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 784,
+          "start": 784
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0806-001",
+      "resolution_refs": [],
+      "revealed_at": 784,
+      "role": "protagonist",
+      "status": "active",
+      "summary": "王林带头冲击雷仙殿把守的传送阵，斩杀并处死者数名使者；三人以阵法崩溃为代价开启传送，王林斩破光柱，众修士离开雷之仙界并遍记「许木」之名。"
+    }
+  ]
+}

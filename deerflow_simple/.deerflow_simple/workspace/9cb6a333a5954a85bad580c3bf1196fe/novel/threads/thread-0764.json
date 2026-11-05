@@ -1,0 +1,30 @@
+{
+  "id": "thread-0764",
+  "introduced_at": 745,
+  "kind": "story_thread",
+  "label": "血祖未死，王林循封印红针追踪",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 745,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 745,
+          "start": 745
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0764-001",
+      "resolution_refs": [],
+      "revealed_at": 745,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "血祖以血滴形态存活于雷之仙界虚无并缓慢复苏；王林封印指引红针后抛出追踪，双方均认为对方会先下杀手。"
+    }
+  ]
+}

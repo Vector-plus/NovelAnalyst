@@ -1,0 +1,30 @@
+{
+  "id": "thread-0399",
+  "introduced_at": 483,
+  "kind": "story_thread",
+  "label": "紫系一脉天运七子封号之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 483,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 483,
+          "start": 483
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0399-001",
+      "resolution_refs": [],
+      "revealed_at": 483,
+      "role": "closure",
+      "status": "resolved",
+      "summary": "本章天运子宣布陈涛胜出并授予紫系一脉天运七子封号，王林弃权。"
+    }
+  ]
+}

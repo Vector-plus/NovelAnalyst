@@ -1,0 +1,50 @@
+{
+  "id": "rel-0039",
+  "introduced_at": 283,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 283,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 283,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 283,
+          "start": 283
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "同门师兄弟，三师兄带六师弟首次进入该碎片并一路叮嘱护法与避裂缝之法，收取仙界之气时让六师弟护法、所得结晶一人一粒。",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "instruction"
+        }
+      ],
+      "id": "rel-0039-stage-001",
+      "revealed_at": 283,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-011"
+      },
+      "summary": "同门师兄弟，三师兄带六师弟首次进入该碎片并一路叮嘱护法与避裂缝之法，收取仙界之气时让六师弟护法、所得结晶一人一粒。",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0066/index.json",
+      "record_id": "char-0066"
+    },
+    {
+      "path": "characters/char-0730/index.json",
+      "record_id": "char-0730"
+    }
+  ]
+}

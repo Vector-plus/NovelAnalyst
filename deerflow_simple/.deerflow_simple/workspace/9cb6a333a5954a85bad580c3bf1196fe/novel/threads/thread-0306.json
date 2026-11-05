@@ -1,0 +1,30 @@
+{
+  "id": "thread-0306",
+  "introduced_at": 392,
+  "kind": "story_thread",
+  "label": "周茹寻找王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 392,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship_goal",
+      "chapter_ranges": [
+        {
+          "end": 392,
+          "start": 392
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0306-001",
+      "resolution_refs": [],
+      "revealed_at": 392,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "周茹失去年份记忆后与小白走遍大半个月星寻王林未果，只有蚊兽与暗中灵力护持相伴。"
+    }
+  ]
+}

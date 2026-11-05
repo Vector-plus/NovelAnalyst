@@ -1,0 +1,30 @@
+{
+  "id": "thread-0801",
+  "introduced_at": 777,
+  "kind": "story_thread",
+  "label": "清水的身份与九份元神封印之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 777,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery_thread",
+      "chapter_ranges": [
+        {
+          "end": 777,
+          "start": 777
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0801-001",
+      "resolution_refs": [],
+      "revealed_at": 777,
+      "role": "advance",
+      "status": "open",
+      "summary": "炎雷子叙述清水国储君、入魔杀劫、自尽并以封印之漩分九份封印元神、白凡布疗伤之阵的往事。"
+    }
+  ]
+}

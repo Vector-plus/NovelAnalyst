@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第70章以藤家太爷爷、虚外化身身份现身，为藤厉之死向王林施加定位诅咒与反噬诅咒秘术（后成为王林身上的持续状态）。第75章追踪至丛林，因感知到连他也不敢招惹的强大存在而谨慎；第76章被元婴中期强者击退，复仇受阻，但诅咒未解。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0167/index.json",
+          "record_id": "char-0167"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 82,
+      "summary": "藤化元复仇受阻（第57—82章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0167/stages/stage-004.md",
+        "record_id": "doc-char-0167-stage-004"
+      },
+      "title": "藤化元复仇受阻"
+    }
+  ],
+  "id": "char-0167",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 70,
+  "kind": "entity_index",
+  "label": "藤化元",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 82,
+  "schema_version": "2.0"
+}

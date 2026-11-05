@@ -1,0 +1,30 @@
+{
+  "id": "thread-0164",
+  "introduced_at": 204,
+  "kind": "story_thread",
+  "label": "孙镇伟对李慕婉的监视企图",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 204,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 204,
+          "start": 204
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0164-001",
+      "resolution_refs": [],
+      "revealed_at": 204,
+      "role": "new",
+      "status": "open",
+      "summary": "孙镇伟赠王林青峰飞剑作为监视李慕婉的棋子，王林察觉并以禁制限制飞剑作用，双方互不明言。"
+    }
+  ]
+}

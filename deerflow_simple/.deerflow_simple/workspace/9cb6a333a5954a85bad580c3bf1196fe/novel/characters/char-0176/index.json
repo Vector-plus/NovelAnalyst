@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第78章被赋名「阿呆」，撕符携王林躲入雕像避尸傀；体内蕴毁天灭地之力，致吴宇夺舍失败。第81章被夜自在带走并宣称收为弟子，第82章被夜自在确认为已选定的夺舍肉身，与王林分离；其力量来源未解释。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0176/index.json",
+          "record_id": "char-0176"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 82,
+      "summary": "阿呆救人、被夜自在收为弟子并选作肉身（第57—82章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0176/stages/stage-004.md",
+        "record_id": "doc-char-0176-stage-004"
+      },
+      "title": "阿呆救人、被夜自在收为弟子并选作肉身"
+    }
+  ],
+  "id": "char-0176",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 78,
+  "kind": "entity_index",
+  "label": "阿呆",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 82,
+  "schema_version": "2.0"
+}

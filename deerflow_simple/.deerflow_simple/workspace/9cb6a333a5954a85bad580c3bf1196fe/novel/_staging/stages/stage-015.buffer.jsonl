@@ -1,0 +1,227 @@
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 456, "note": "本尊与王林合体完成，修为达婴变中期巅峰，为本阶段境界基线"}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 456, "note": "二人抵达交易星并分手，司徒南约定三日后相会"}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-5", "chapter_order": 456, "note": "王林入明玫城寻找星罗盘材料，遭遇尾随青年，为星际交易城情节起点"}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-15", "chapter_order": 456, "note": "司徒南自称此地已无人修为强于他——其修为层次的旁证（角色自述）"}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-23", "chapter_order": 456, "note": "本章核心目标：两样修复星罗盘之物"}
+{"record_ref": "ev-local-2", "role": "key_event", "note": "王林在明玫城购得祭炼古星罗盘的关键材料坤木石，并以极品灵石完成交易", "chapter_order": 457}
+{"record_ref": "claim-local-16", "role": "capability_evidence", "note": "王林直接带走覆有困封咒的坤木石，光幕在其飞离后才破碎", "chapter_order": 457}
+{"record_ref": "claim-local-26", "role": "faction_intel", "note": "商氏一族店铺据称受七级修真国支持，在多交易星设店并提供交易保护", "chapter_order": 457}
+{"record_ref": "claim-local-21", "role": "open_thread", "note": "王林出坊市后被三道目光注视，窥视者未明", "chapter_order": 457}
+{"record_ref": "claim-local-25", "role": "open_thread", "note": "王林正在寻找墨雪液，明玫城本地人李丹南不知此物", "chapter_order": 457}
+{"kind": "event", "record_local_id": "ev-local-1", "note": "王林在新地点首次以一拳废去半只脚踏入婴变者仙基，展示与司徒南对练后的战力", "chapter_order": 458}
+{"kind": "event", "record_local_id": "ev-local-2", "note": "白薇首次出场，自述天运星天运宗出身，为本 stage“赴天运星”线索的关键铺垫", "chapter_order": 458}
+{"kind": "event", "record_local_id": "ev-local-3", "note": "商氏宝店场景与墨雪液求购目标，交易结果待续", "chapter_order": 458}
+{"kind": "claim", "record_local_id": "claim-local-20", "note": "天运宗/天运星的首次明确提及（角色自述）", "chapter_order": 458}
+{"kind": "claim", "record_local_id": "claim-local-24", "note": "白薇师尊一万年一寿大寿，可作为后续宗门线伏笔", "chapter_order": 458}
+{"kind": "claim", "record_local_id": "claim-local-13", "note": "星转法术来源与王林战斗风格转变的依据", "chapter_order": 458}
+{"kind": "event", "local_id": "ev-local-4", "note": "本阶段关键转折：王林与司徒南正式分离，之后王林独自赴天运星", "chapter_order": 459}
+{"kind": "event", "local_id": "ev-local-3", "note": "司徒南洗劫交易星取得墨雪液并冲出星空，为后续炼宝材料来源", "chapter_order": 459}
+{"kind": "claim", "local_id": "claim-local-23", "note": "司徒南临别“保重”，为二人分别的明确节点", "chapter_order": 459}
+{"kind": "claim", "local_id": "claim-local-24", "note": "王林对司徒南关系的自我表述（与师尊无异），关系定性素材", "chapter_order": 459}
+{"kind": "claim", "local_id": "claim-local-25", "note": "王林磕头与“只拜父母，只敬司徒”誓言，人物态度关键证据", "chapter_order": 459}
+{"kind": "claim", "local_id": "claim-local-31", "note": "星罗盘祭炼进展，跨越三个月的物件状态", "chapter_order": 459}
+{"kind": "claim", "local_id": "claim-local-9", "note": "交易星传闻将司徒南修为定位到碎涅之境（叙事推断，非确证）", "chapter_order": 459}
+{"kind": "faction", "candidate_name": "天运宗", "note": "本阶段目标宗门，本章仅由对话与目标提及", "chapter_order": 459}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "王林抵达天运宗前，为本 stage「入门三关」起始节点", "chapter_order": 460}
+{"ref_or_local_id": "claim-local-12", "kind": "claim", "note": "守雾青年转述天运子早已等王林（reported），是本 stage 拜师线的关键入口陈述", "chapter_order": 460}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "本尊藏于天运星外蛮荒小星，后续可能影响天运星内的战力与身份暴露风险", "chapter_order": 460}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "本尊与分尊分离，形成后续可回收的伏笔", "chapter_order": 460}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "王林抵达天运宗，入门三关开始", "chapter_order": 461}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-2", "note": "天运子级别老者下令过关后带王林入紫云阁，二弟子议论", "chapter_order": 461}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-4", "note": "三关设定：道心/修为/意境", "chapter_order": 461}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-9", "note": "紫云阁安排——本阶段后续落点", "chapter_order": 461}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-18", "note": "王林第一关以“问道”应对，与孙云当年作法的伏笔由下章衔接", "chapter_order": 461}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林通过天运宗入门第一关人之关（八十三次轮回）", "chapter_order": 462}
+{"kind": "event", "local_id": "ev-local-2", "note": "和善青年首次对王林显露敌意并出手干预", "chapter_order": 462}
+{"kind": "claim", "local_id": "claim-local-14", "note": "和善青年判定王林「留不得」的原话", "chapter_order": 462}
+{"kind": "claim", "local_id": "claim-local-25", "note": "天运子对王林的评价「此子，甚佳」", "chapter_order": 462}
+{"kind": "claim", "local_id": "claim-local-22", "note": "轮回道修行信息由敌方推断得出", "chapter_order": 462}
+{"kind": "event", "local_id": "ev-local-6", "note": "地之关考验开始，王林应下", "chapter_order": 462}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林一击击退地之关护仙后主动弃关，显示其有意隐藏实力", "chapter_order": 463}
+{"kind": "claim", "local_id": "claim-local-34", "note": "王林辨认赵星煞为人之关七彩霞光之人，为后续同门关系伏笔", "chapter_order": 463}
+{"kind": "event", "local_id": "ev-local-2", "note": "师尊指定王林住紫云阁，白薇闻之色变、赵星煞称“把此人放在了火上”，指向宗门内部态势", "chapter_order": 463}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林在天之关悟出三关为机缘，元神内浮现“道”字", "chapter_order": 463}
+{"kind": "event", "local_id": "ev-local-5", "note": "紫云阁入住冲突开端，紫衣女修首次登场", "chapter_order": 463}
+{"local_id": "ev-local-5", "kind": "event", "weight": "high", "note": "王林入天运宗后首次主动出手并明言要做“跋扈之辈”，与两名婴变初期执法长老正面冲突。", "chapter_order": 464}
+{"local_id": "claim-local-7", "kind": "claim", "weight": "high", "note": "紫衣女子自述“师妹”身份并维护孙云的位置，是紫云阁线索的关键陈述（角色说法）。", "chapter_order": 464}
+{"local_id": "claim-local-9", "kind": "claim", "weight": "medium", "note": "王林转述赵星煞称其师弟、天运子安排其住紫云阁，与“入门三关未完全度过”形成待解矛盾。", "chapter_order": 464}
+{"local_id": "claim-local-38", "kind": "claim", "weight": "medium", "note": "执法长老自认是听了赵星煞的言辞而来，指向赵星煞的暗中操作。", "chapter_order": 464}
+{"local_id": "claim-local-39", "kind": "claim", "weight": "high", "note": "章末王林立场转向“跋扈”，并直接逼问紫云阁原主人，为下一章的问讯内容埋线。", "chapter_order": 464}
+{"kind": "event", "target_local_id": "ev-local-1", "stage_id": "stage-015", "chapter_order": 465, "note": "首次由门内执法长老之口交代天运宗七系七子／天运七子制度"}
+{"kind": "event", "target_local_id": "ev-local-3", "stage_id": "stage-015", "chapter_order": 465, "note": "紫云阁被改名紫林阁，王林与紫系守阁者正面冲突"}
+{"kind": "claim", "target_local_id": "claim-local-5", "stage_id": "stage-015", "chapter_order": 465, "note": "天运七子制度的首个成体系陈述（reported）"}
+{"kind": "claim", "target_local_id": "claim-local-7", "stage_id": "stage-015", "chapter_order": 465, "note": "紫云阁封印与继任者设定的关键陈述（reported）"}
+{"kind": "claim", "target_local_id": "claim-local-17", "stage_id": "stage-015", "chapter_order": 465, "note": "王林连灭两名执法长老并收元神入尊魂幡，行为升级点"}
+{"kind": "claim", "target_local_id": "claim-local-30", "stage_id": "stage-015", "chapter_order": 465, "note": "寂灭指首次实战展示"}
+{"kind": "claim", "target_local_id": "claim-local-31", "stage_id": "stage-015", "chapter_order": 465, "note": "司徒南三式杀招来源与独占传授的定性"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 466, "reason": "王林与紫宗二师兄斗法，涉及多种法宝与禁术神通对抗，为阶段内重要战斗节点"}
+{"ref_or_local_id": "claim-local-37", "kind": "claim", "chapter_order": 466, "reason": "司徒南传授的第二式杀招“化魔指”首次施展，能力线索关键"}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "chapter_order": 466, "reason": "王林追问“孙云是谁”，指向未解身份线索"}
+{"ref_or_local_id": "claim-local-38", "kind": "claim", "chapter_order": 466, "reason": "王林推测天运子在幕后推动，势力动向线索"}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "chapter_order": 466, "reason": "紫宗弟子大规模聚集围观，紫宗势力动向"}
+{"kind": "event", "local_id": "ev-local-4", "chapter": 467, "reason": "本阶段核心节点：王林拜师天运子、成为紫系一脉真传弟子", "chapter_order": 467}
+{"kind": "claim", "local_id": "claim-local-34", "chapter": 467, "reason": "师徒关系确立的关键陈述，带锚点", "chapter_order": 467}
+{"kind": "claim", "local_id": "claim-local-33", "chapter": 467, "reason": "天运子收徒动机与本阶段主旨相关", "chapter_order": 467}
+{"kind": "claim", "local_id": "claim-local-36", "chapter": 467, "reason": "五师姐等三名同门元神被扣，为下一章直接悬念", "chapter_order": 467}
+{"kind": "claim", "local_id": "claim-local-1", "chapter": 467, "reason": "魔火修成，属王林能力进展证据", "chapter_order": 467}
+{"kind": "claim", "local_id": "claim-local-12", "chapter": 467, "reason": "紫宗内部夺嫡之争的势力动向证据", "chapter_order": 467}
+{"kind": "candidate", "candidate_name": "紫宗", "chapter": 467, "reason": "本阶段主要势力，需建档", "chapter_order": 467}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 468, "note": "天运子一句「够了」抹灭紫衣女子元神并收入袖内，王林判断其已在仙术范畴"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 468, "note": "天运子预告三月后大寿将公开宣布收王林为徒"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 468, "note": "赵星煞谋划借老四之手重伤王林，以夺天运七子封号"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 468, "note": "仙术等阶与天道印诀体系设定"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 468, "note": "三式杀招来源：叶无忧处残次下品仙术，带魔性"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 468, "note": "王林修为婴变初期巅峰，需大量仙玉冲击中期"}
+{"kind": "claim", "local_id": "claim-local-33", "chapter_order": 468, "note": "王林对三师兄白薇避之不及，白薇主动来访（章末悬念）"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 469, "reason": "首次系统交代天运宗紫系格局与天运七子封号的实际利益，是本章信息密度最高的对话事件"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 469, "reason": "王林确立在本阶段的核心目标：争夺天运七子封号"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 469, "reason": "给出明确时限（三个月后师尊大寿）与王林被大师兄视为必铲除对象的判断，属关键进度节点"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 469, "reason": "白薇对大师兄的敌意为其真实立场，王林并不知情，属关键人物转折点"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 469, "reason": "王林确立「做跋扈之辈」的行事方针，为后续行为提供动机依据"}
+{"buffer_kind": "key_event", "local_id": "ev-local-3", "note": "王林以紫系一脉第七子身份一次性取出累积103年的仙玉共123600块，为其后续闭关冲婴变中期提供资源，属本stage资源关键节点", "chapter_order": 470}
+{"buffer_kind": "key_claim", "local_id": "claim-local-9", "note": "周佚化身剑魂后的剑意首次出现在天运星张向凡的飞剑上，是周佚下落线的首个新痕迹", "chapter_order": 470}
+{"buffer_kind": "key_claim", "local_id": "claim-local-23", "note": "巨人以「紫系一脉第七子」指称王林，交代其在天运宗的身份位置与仙玉累积规则", "chapter_order": 470}
+{"buffer_kind": "entity_signal", "local_id": "claim-local-5", "note": "张向凡首次登场，自称弟子、称王林七师祖，确立王林在紫宗山的辈分位置", "chapter_order": 470}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林被四师姐禁术挪移出天运宗，位置转移到数十万里外石林，属本阶段重要空间迁移节点", "chapter_order": 471}
+{"kind": "event", "local_id": "ev-local-4", "note": "四师姐与大师兄人情了结，紫宗内部派系动员信息", "chapter_order": 471}
+{"kind": "claim", "local_id": "claim-local-28", "note": "王林主动选择以修炼破局的转折点", "chapter_order": 471}
+{"kind": "claim", "local_id": "claim-local-11", "note": "蓝宗一脉势力与司马如风首次亮相（自称）", "chapter_order": 471}
+{"kind": "claim", "local_id": "claim-local-23", "note": "困阵归属：四师姐称由大师兄布置", "chapter_order": 471}
+{"kind": "key_event", "ref_or_local_id": {"local_id": "ev-local-2"}, "chapter_order": 472, "note": "天运子万年寿辰开幕，天运星全域来贺，对后续寿宴场面有承接价值"}
+{"kind": "key_event", "ref_or_local_id": {"local_id": "ev-local-3"}, "chapter_order": 472, "note": "金魔子登场并被引往天运星，赤宗寿宴席位信息"}
+{"kind": "key_claim", "ref_or_local_id": {"local_id": "claim-local-14"}, "chapter_order": 472, "note": "赵星煞自认天运七子封号非他莫属（角色自述）"}
+{"kind": "key_claim", "ref_or_local_id": {"local_id": "claim-local-3"}, "chapter_order": 472, "note": "仙环机制说明：仙力饱和后凝聚、可作后援"}
+{"kind": "character_turn", "ref_or_local_id": {"local_id": "ev-local-1"}, "chapter_order": 472, "note": "王林被困石林转为就地长期吐纳，三个月时间跨度"}
+{"ref_type": "event", "local_id": "ev-local-1", "note": "王林破银幕困阵，化魔指首次在本阶段用于破阵", "chapter_order": 473}
+{"ref_type": "event", "local_id": "ev-local-2", "note": "曹一斗作为天运星向导的首次实际使用", "chapter_order": 473}
+{"ref_type": "event", "local_id": "ev-local-3", "note": "天运子万年寿宴第七日紫宗宴席与章末紫气东来", "chapter_order": 473}
+{"ref_type": "claim", "local_id": "claim-local-5", "note": "化魔指威力随修为提升的关键能力陈述", "chapter_order": 473}
+{"ref_type": "claim", "local_id": "claim-local-12", "note": "王林对紫系/赵星煞逼压的认知，冲突线索起点", "chapter_order": 473}
+{"ref_type": "claim", "local_id": "claim-local-16", "note": "紫系弟子序列（大师兄至老七）与空缺原因", "chapter_order": 473}
+{"ref_type": "claim", "local_id": "claim-local-14", "note": "天运宗寿宴→讲道→天运七子封号的日程结构", "chapter_order": 473}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 474, "note": "王林在紫宗寿宴击杀/收走紫系老二元神，属阶段内重要转折"}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "chapter_order": 474, "note": "“魔焰”被各宗修士认出，且“老七/紫系第七子”身份在宴上被公开议论"}
+{"kind": "claim", "ref_or_local_id": "claim-local-32", "chapter_order": 474, "note": "四师姐明确表态不争天运七子封号，并拒绝为赵星煞出手"}
+{"kind": "thread", "ref_or_local_id": "game:紫系夺嫡与天运七子封号之争", "chapter_order": 474, "note": "夺嫡与天运七子封号线索在本章被双方公开提出"}
+{"local_id": "ev-local-1", "kind": "event", "reason": "本阶段首次展示赵星煞的妖异虚影神通（旁人疑为古妖）及王林以射神车魂兽应对", "chapter_order": 475}
+{"local_id": "ev-local-2", "kind": "event", "reason": "赤裂首次出场，带走赵星煞并透露妖灵、天运七子封号争夺、天运子讲道等关键信息", "chapter_order": 475}
+{"local_id": "claim-local-3", "kind": "claim", "reason": "旁人对“古妖”的辨识，属角色说法，需保留 certainty=reported", "chapter_order": 475}
+{"local_id": "claim-local-18", "kind": "claim", "reason": "妖灵刚蕴化、不可擅自使用的关键陈述（出自赤裂）", "chapter_order": 475}
+{"local_id": "claim-local-19", "kind": "claim", "reason": "天运七子封号争夺与王林地位的关键陈述（出自赤裂）", "chapter_order": 475}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 476, "note": "四师姐以玉简交付挪移禁法与师尊所传禁法，标志双方关系缓和"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 476, "note": "白薇自曝对师尊偏心与大师兄的忌惮及报仇意图，属角色转折陈述"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 476, "note": "王林首次成功施展大挪移禁法，能力首次展示"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 476, "note": "王林修成九转炼仙诀模仿术三转，得金仙之力"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 476, "note": "天运子讲道之日与祝寿修士云集，势力动向铺垫"}
+{"target": "event", "local_id": "ev-local-1", "chapter_order": 477, "weight": "high", "reason": "天运子万年讲道开场，天运宗七宗实力对比与紫系没落定位首次集中呈现"}
+{"target": "event", "local_id": "ev-local-2", "chapter_order": 477, "weight": "high", "reason": "修真联盟孙长老以分身之姿现身贺寿并赠中上品仙器，涉及跨势力关系"}
+{"target": "event", "local_id": "ev-local-3", "chapter_order": 477, "weight": "high", "reason": "章末悬念：三眼紫貂主动落于王林肩上"}
+{"target": "claim", "local_id": "claim-local-12", "chapter_order": 477, "weight": "medium", "reason": "四师姐交代紫系没落与天运七子封号更换频繁的设定"}
+{"target": "claim", "local_id": "claim-local-7", "chapter_order": 477, "weight": "medium", "reason": "仙界煞气血晶者以橙宗第四位弟子身份现身，修为升至婴变后期"}
+{"target": "claim", "local_id": "claim-local-17", "chapter_order": 477, "weight": "medium", "reason": "天运子称孙长老“分身前来”，为修真联盟长老身份留下待解信息"}
+{"record_type": "event", "local_id": "ev-local-1", "reason": "本阶段（456-497）天运子讲道与王林拜师/受教的现场关键场景，含修道三步体系的权威陈述", "chapter_order": 478}
+{"record_type": "event", "local_id": "ev-local-3", "reason": "“他”被首次点出、孙长老出面制止，疑似本阶段重要悬念起点", "chapter_order": 478}
+{"record_type": "claim", "local_id": "claim-local-24", "reason": "天运子断言“他”已踏入第三步，属重大信息陈述", "chapter_order": 478}
+{"record_type": "claim", "local_id": "claim-local-26", "reason": "孙长老明确制止该话题，反映修真联盟一方态度", "chapter_order": 478}
+{"record_type": "claim", "local_id": "claim-local-1", "reason": "星痕貂首次由王林识别，可能关联后续傀儡神通/法宝材料线", "chapter_order": 478}
+{"record_type": "claim", "local_id": "claim-local-9", "reason": "王林身上古神气息来源（与本尊合体残留）与衰减设定，属能力状态线索", "chapter_order": 478}
+{"kind": "event", "local_id": "ev-local-2", "reason": "剑尊凌天候率大罗剑宗上万弟子登场，本阶段重要势力动向", "chapter_order": 479}
+{"kind": "event", "local_id": "ev-local-4", "reason": "天运子以引度笼罩大罗剑宗弟子、凌天候放麒麟兽反击，stage 内重大冲突节点", "chapter_order": 479}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "雨之第二剑下落（在凌天候手中）确认", "chapter_order": 479}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "王林以三转金仙之力抵御仙术天威，能力运用证据", "chapter_order": 479}
+{"kind": "claim", "local_id": "claim-local-29", "reason": "尊魂幡对麒麟兽现身的异动，潜在伏笔", "chapter_order": 479}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 480, "note": "黄系天运七子封号确立：鲲鹏子受封，获黄色结晶封号标志"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 480, "note": "紫系天运七子封号开始，王林、赵欣梦、白薇被点名"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 480, "note": "天运子中品引仙术收走大罗剑宗上万弟子，承诺三日归来"}
+{"kind": "claim", "ref_or_local_id": "claim-local-33", "chapter_order": 480, "note": "运道子对封号晶石露出恐惧——潜在关键伏笔"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "chapter_order": 480, "note": "天运七子为天运宗身份标志与嫡系弟子称号（天运子当众表述）"}
+{"kind": "event", "local_id": "ev-local-3", "note": "紫魔手 vs 化魔指：王林杀招（仙力逆化）机制首次在本阶段被明确说明并被对手算计", "chapter_order": 481}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林祭出巨魔族战斧与射神车，斗法悬念延续至下一章", "chapter_order": 481}
+{"kind": "claim", "local_id": "claim-local-19", "note": "关键机制：化魔指魔气为仙力逆化虚幻，可心念崩溃，不可外传", "chapter_order": 481}
+{"kind": "claim", "local_id": "claim-local-20", "note": "关键陈述：王林对司徒南有三式杀招不外传之诺", "chapter_order": 481}
+{"kind": "claim", "local_id": "claim-local-30", "note": "天运子核心动机：寻找符合运道之人，三万年失败、弟子损落大半", "chapter_order": 481}
+{"kind": "claim", "local_id": "claim-local-25", "note": "王林实力跃升：九转炼仙诀自三转强催至五转", "chapter_order": 481}
+{"kind": "claim", "local_id": "claim-local-8", "note": "地位参照：紫系孙云为前例，王林为第二个被天运子劝慰者", "chapter_order": 481}
+{"ref_type": "event", "local_id": "ev-local-3", "note": "本阶段关键冲突：紫系封号之争转为实战，王林首次在陈涛面前展示大挪移化解九转金仙漩涡并召出魂兽", "chapter_order": 482}
+{"ref_type": "event", "local_id": "ev-local-2", "note": "天运七子封号规则确立：紫系一脉同时只可有一人获封；陈涛携七彩琉璃光归来", "chapter_order": 482}
+{"ref_type": "claim", "local_id": "claim-local-13", "note": "天运子亲口划定封号竞争规则，为后续封号归属线索", "chapter_order": 482}
+{"ref_type": "claim", "local_id": "claim-local-8", "note": "七彩琉璃光设定与修真联盟天才地宝排名的关键陈述（reported）", "chapter_order": 482}
+{"ref_type": "claim", "local_id": "claim-local-11", "note": "陈涛对王林身份的正面对立表态，关系定性依据", "chapter_order": 482}
+{"ref_type": "candidate", "local_id": "陈涛", "note": "本章新登场重要人物（紫系老六），需建立实体档案", "chapter_order": 482}
+{"kind": "event", "local_id": "ev-local-4", "note": "陈涛获紫系一脉天运七子封号，王林弃权——本 stage 拜师线索的关键节点", "chapter_order": 483}
+{"kind": "event", "local_id": "ev-local-6", "note": "天运子承诺祭拜祖灵后传禁法神通、送保命法宝", "chapter_order": 483}
+{"kind": "claim", "local_id": "claim-local-37", "note": "三个月后东海妖灵之门前的人选约定，跨 stage 悬念", "chapter_order": 483}
+{"kind": "claim", "local_id": "claim-local-38", "note": "天运子正式收王林为真正弟子的承诺", "chapter_order": 483}
+{"kind": "claim", "local_id": "claim-local-21", "note": "红脸老者提及的「疯子」与王林同招式，疑为身份伏笔", "chapter_order": 483}
+{"kind": "claim", "local_id": "claim-local-8", "note": "射神车封印体系与反噬规则首次明示", "chapter_order": 483}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "chapter_order": 484, "note": "王林在天运宗总宗白峰攀登至碎仙之地，为禁法神通传承考验的关键一幕，后续章节需衔接其结果"}
+{"record_ref_or_local_id": "claim-local-7", "kind": "claim", "chapter_order": 484, "note": "王林当面指出两侧山峰为假，是天运子对其评价与后续传承安排的直接触发点"}
+{"record_ref_or_local_id": "claim-local-15", "kind": "claim", "chapter_order": 484, "note": "天运子口述的考验规则与“碎仙之地”称谓，本 stage 内可能反复引用"}
+{"record_ref_or_local_id": "claim-local-11", "kind": "claim", "chapter_order": 484, "note": "古神涂司第九次炼宝（三叉戟化三峰）的记忆内容，为潜在跨章伏笔"}
+{"record_ref_or_local_id": "claim-local-22", "kind": "claim", "chapter_order": 484, "note": "王林元神中出现一道神识斥退寒气，为其能力表现的关键证据"}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林意境实质化关键节点，二十七步止步", "chapter_order": 485}
+{"kind": "event", "local_id": "ev-local-3", "note": "拜师礼成，紫系第七弟子身份确立", "chapter_order": 485}
+{"kind": "claim", "local_id": "claim-local-22", "note": "紫系第七弟子的原文依据（角色陈述）", "chapter_order": 485}
+{"kind": "claim", "local_id": "claim-local-25", "note": "木牌刻名记录『天运星演武第一年』纪年方式", "chapter_order": 485}
+{"kind": "claim", "local_id": "claim-local-26", "note": "禁法神通传授的开启点，衔接下文", "chapter_order": 485}
+{"kind": "key_event", "local_id": "ev-local-5", "note": "王林确认天运子的数量为三千六百零一，“多了一个”，为本阶段灰衣天运子之谜的起点", "chapter_order": 486}
+{"kind": "key_event", "local_id": "ev-local-4", "note": "灰衣天运子一字“滚”击溃三千六百天运子的封印并横扫万里杀机，展现远超本尊的力量", "chapter_order": 486}
+{"kind": "key_claim", "local_id": "claim-local-18", "note": "王林判定灰衣天运子杀机为其此生所遇第一人", "chapter_order": 486}
+{"kind": "key_claim", "local_id": "claim-local-2", "note": "王林向天运子表明所求为“生存之术”，为择术立下取向", "chapter_order": 486}
+{"kind": "entity_attention", "local_id": "identity_link_486_1", "note": "灰衣天运子与天运子（char-0641）疑似相关，身份待定，勿在后文合并前定性", "chapter_order": 486}
+{"kind": "claim", "local_id": "claim-local-21", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "reason": "天运子首次自述灰衣天运子为其第二元神，为本阶段身份关键陈述", "chapter_order": 487}
+{"kind": "claim", "local_id": "claim-local-16", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "reason": "杀戮仙诀机制（生之烙印防守）首次成体系说明", "chapter_order": 487}
+{"kind": "claim", "local_id": "claim-local-23", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "reason": "紫戒保命法宝的能力与门规限制，影响后续战斗约束", "chapter_order": 487}
+{"kind": "claim", "local_id": "claim-local-28", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "reason": "天运弟子的下山规则（使者一途）与星务苑机构设定", "chapter_order": 487}
+{"kind": "event", "local_id": "ev-local-6", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "reason": "王林离开天运宗总宗进入赤宗并选定灵岳国，阶段主线位移", "chapter_order": 487}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 488, "note": "王林以紫系七师祖身份经天运星极东传送阵赴地星，行动层面完成场景转移"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 488, "note": "玄渊派少宗许云山主动安排迎接，势力动向：玄渊派有结交意图"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 488, "note": "外部视角对王林在天运宗事迹的传闻式总结，可用于后续认知偏差类线索"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 488, "note": "玄渊派掌握天运子诸弟子完整记录，并判断王林潜力大——势力评估证据"}
+{"kind": "event", "local_id": "ev-local-2", "reason": "王林正式就任灵岳国使者并封禁万里，是其在异星落脚的阶段性节点", "chapter_order": 489}
+{"kind": "event", "local_id": "ev-local-4", "reason": "射神车首次反噬与灵岳国第一高手目击不屈之兽，构成禁地形成的关键证据", "chapter_order": 489}
+{"kind": "claim", "local_id": "claim-local-31", "reason": "王林对杀戮仙诀修法的关键认知转折，直接驱动后续“从杀戮入手”的行动", "chapter_order": 489}
+{"kind": "claim", "local_id": "claim-local-27", "reason": "灵岳国第一高手归来后的传令，体现外部势力对王林闭关区域的反应", "chapter_order": 489}
+{"kind": "claim", "local_id": "claim-local-9", "reason": "天逆珠子缺金属性需圆满，属跨章未决线索", "chapter_order": 489}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林抵达并进入地魔北界的开端事件，本阶段内后续杀戮仙诀修行主线的起点", "chapter_order": 490}
+{"kind": "event", "local_id": "ev-local-4", "note": "大罗剑宗/天运星一方五人首度成组登场，与燿金果冲突绑定", "chapter_order": 490}
+{"kind": "claim", "local_id": "claim-local-4", "note": "师尊限期三月到东海的时限性线索，跨章有效", "chapter_order": 490}
+{"kind": "claim", "local_id": "claim-local-13", "note": "地星北界地理与禁区设定，后续历练区域的规则依据", "chapter_order": 490}
+{"kind": "claim", "local_id": "claim-local-30", "note": "王林主动将大罗剑宗与周佚前辈踪迹关联，人物动机线索", "chapter_order": 490}
+{"kind": "event", "local_id": "ev-local-5", "reason": "王林确立对本阶段关键目标（燿金果）与大罗剑宗长老的对抗意图，是后续冲突的直接伏笔", "chapter_order": 491}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "王林明确把两名婴变初期老者当作杀戮仙诀试炼者，属人物行为动机关键陈述", "chapter_order": 491}
+{"kind": "claim", "local_id": "claim-local-26", "reason": "蚊兽进化/突破的前置征兆，属能力成长关键证据", "chapter_order": 491}
+{"kind": "claim", "local_id": "claim-local-11", "reason": "千琴在大罗剑宗压力下被迫带路，属人物处境转折点", "chapter_order": 491}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "千琴对郭邢佚的信任转为怨恨，关系态度转折", "chapter_order": 491}
+{"kind": "event", "local_id": "ev-local-2", "note": "九黎虫守护燿金果、长老提“两个药引”指向千琴与白衣青年，为本章最关键冲突苗头", "chapter_order": 492}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林与蚊兽尾随大罗剑宗并觊觎金灵根，构成后续介入的伏笔", "chapter_order": 492}
+{"kind": "claim", "local_id": "claim-local-15", "note": "矮个长老关于“两个药引”的陈述与目光指向，需后续验证", "chapter_order": 492}
+{"kind": "claim", "local_id": "claim-local-16", "note": "王林以金灵根视角重新定位燿金果价值（据涂司记忆）", "chapter_order": 492}
+{"kind": "claim", "local_id": "claim-local-9", "note": "地魔北界异常压抑感与杀人冲动，长老层面已现离意", "chapter_order": 492}
+{"record_type": "event", "local_id": "ev-local-1", "chapter_order": 493, "note": "大罗剑宗以活人引虫杀人，千琴同门身死，为大罗剑宗与千琴一方关系转折点"}
+{"record_type": "event", "local_id": "ev-local-5", "chapter_order": 493, "note": "神秘灰气一击崩溃两名大罗剑宗长老攻势，章末悬念"}
+{"record_type": "claim", "local_id": "claim-local-23", "chapter_order": 493, "note": "石方自报“大罗剑宗长老”身份（角色自述）"}
+{"record_type": "claim", "local_id": "claim-local-18", "chapter_order": 493, "note": "章内明示吕松义即化神期老者、郭邢佚师叔"}
+{"record_type": "claim", "local_id": "claim-local-29", "chapter_order": 493, "note": "灰气中人唯一一句台词，可作为后续身份核对锚点"}
+{"record_type": "faction_movement", "local_id": "ev-local-4", "chapter_order": 493, "note": "大罗剑宗为燿金果而来，目的为采果后回剑宗复命"}
+{"kind": "event", "local_id": "ev-local-1", "note": "化神修士吕松义被灰气贯体爆裂身死，谷中血雾弥漫", "chapter_order": 494}
+{"kind": "claim", "local_id": "claim-local-6", "note": "王林以紫衣、刻「七」字紫色令牌形象现身山谷", "chapter_order": 494}
+{"kind": "claim", "local_id": "claim-local-13", "note": "石方当众指认王林为「天运宗，紫系老七」", "chapter_order": 494}
+{"kind": "claim", "local_id": "claim-local-17", "note": "东海妖灵之门名单含天运宗紫系王林，半月后开启", "chapter_order": 494}
+{"kind": "event", "local_id": "ev-local-6", "note": "寂灭指破血手印与天鬼吞，矮个老者本命神通被毁逃遁", "chapter_order": 494}
+{"kind": "event", "local_id": "ev-local-3", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "note": "石方夺舍郭邢佚、杀两名小辈，本章关键转折", "chapter_order": 495}
+{"kind": "event", "local_id": "ev-local-5", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "note": "石方被王林灰气击杀", "chapter_order": 495}
+{"kind": "claim", "local_id": "claim-local-15", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "note": "剑魂/剑尊二百年前旧事的唯一来源（reported）", "chapter_order": 495}
+{"kind": "claim", "local_id": "claim-local-24", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-015"}, "note": "天逆珠子金属性进度状态", "chapter_order": 495}
+{"kind": "event", "local_id": "ev-local-2", "why": "本章核心事件：玉简布阵催化燿金果并取出四须金灵根，属本阶段末段关键收获", "chapter_order": 496}
+{"kind": "event", "local_id": "ev-local-3", "why": "蚊兽陷入演变的转折点，跨章影响", "chapter_order": 496}
+{"kind": "event", "local_id": "ev-local-6", "why": "与下一章衔接的关键场景：矮个老者被困待审", "chapter_order": 496}
+{"kind": "claim", "local_id": "claim-local-14", "why": "金灵根品质（四须/应有五须）与金灵根成因的首个明确信息", "chapter_order": 496}
+{"kind": "claim", "local_id": "claim-local-16", "why": "金灵根对天逆珠金属性增幅的量化估计，关键能力数据", "chapter_order": 496}
+{"kind": "claim", "local_id": "claim-local-25", "why": "王林提及「本尊」并留主干，涉及身份线索，需在阶段汇总时复核", "chapter_order": 496}
+{"record_type": "event", "local_id": "ev-local-1", "note": "剑尊归来异常、东海妖灵之门规则与妖灵灌顶情报的唯一来源场景（本阶段末章）", "chapter_order": 497}
+{"record_type": "event", "local_id": "ev-local-3", "note": "矮个老者复仇线：自称三分神识之术保命并立誓复仇，后遭灰气侵入，结局悬置", "chapter_order": 497}
+{"record_type": "event", "local_id": "ev-local-4", "note": "杀戮仙诀在小成，仅凝结三份生之烙印；灰气修炼规模与荒兽未察觉", "chapter_order": 497}
+{"record_type": "event", "local_id": "ev-local-5", "note": "阶段收束：王林离开地魔北界，距妖灵之期六天，动身赴东海（三项动因）", "chapter_order": 497}
+{"record_type": "claim", "local_id": "claim-local-10", "note": "「唯一走出者得一个完整下品仙术」为转述传闻，后续伏笔", "chapter_order": 497}
+{"record_type": "claim", "local_id": "claim-local-24", "note": "周佚被剑尊封印于东海妖灵内，王林赴东海的报恩动因", "chapter_order": 497}

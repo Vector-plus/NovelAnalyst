@@ -1,0 +1,30 @@
+{
+  "id": "thread-0728",
+  "introduced_at": 715,
+  "kind": "story_thread",
+  "label": "张家族人种植升仙果计划",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 715,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 715,
+          "start": 715
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0728-001",
+      "resolution_refs": [],
+      "revealed_at": 715,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "王林将升仙果种子交张新海，要求以修士灵力催发并在十年内尽可能多种植；张新海之子被指定为横云峰外使者。"
+    }
+  ]
+}

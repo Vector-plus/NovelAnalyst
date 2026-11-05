@@ -1,0 +1,30 @@
+{
+  "id": "thread-0778",
+  "introduced_at": 762,
+  "kind": "story_thread",
+  "label": "王林前往藏品阁寻仙术",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 762,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 762,
+          "start": 762
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0778-001",
+      "resolution_refs": [],
+      "revealed_at": 762,
+      "role": "setup",
+      "status": "active",
+      "summary": "王林依据姚家老者记忆改道前往藏品阁，期望李元破除四大家族联手封印，二人正向碎片大陆中心逼近。"
+    }
+  ]
+}

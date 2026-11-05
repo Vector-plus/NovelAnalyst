@@ -1,0 +1,30 @@
+{
+  "id": "thread-0250",
+  "introduced_at": 322,
+  "kind": "story_thread",
+  "label": "李慕婉以元婴之体转世，十九年后魂体凝实",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 322,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_thread",
+      "chapter_ranges": [
+        {
+          "end": 322,
+          "start": 322
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0250-001",
+      "resolution_refs": [],
+      "revealed_at": 322,
+      "role": "setup",
+      "status": "open",
+      "summary": "李慕婉元婴已与凡妇腹中血肉融合，依王林之口，其须不修道方可逃过轮回；十九年后魂体凝实之时天道轮回使者会再来。"
+    }
+  ]
+}

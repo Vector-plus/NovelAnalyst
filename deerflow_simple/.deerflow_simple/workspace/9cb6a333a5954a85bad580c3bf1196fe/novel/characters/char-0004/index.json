@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "护送王林第一次离乡赴恒岳派应试；在家族产旧怨冲突中以江湖朋友关系威慑王天山（reported）；王林留书独行后其态度未见记述。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 9,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0004/index.json",
+          "record_id": "char-0004"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 9,
+      "summary": "离乡求仙与入门测试阶段（第1—9章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0004/stages/stage-001.md",
+        "record_id": "doc-char-0004-stage-001"
+      },
+      "title": "离乡求仙与入门测试阶段"
+    }
+  ],
+  "id": "char-0004",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 1,
+  "kind": "entity_index",
+  "label": "四叔",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 9,
+  "schema_version": "2.0"
+}

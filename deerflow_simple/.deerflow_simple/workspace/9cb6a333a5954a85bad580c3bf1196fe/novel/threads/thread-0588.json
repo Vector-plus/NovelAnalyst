@@ -1,0 +1,30 @@
+{
+  "id": "thread-0588",
+  "introduced_at": 626,
+  "kind": "story_thread",
+  "label": "辰龙的喜色与王林的推断",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 626,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 626,
+          "start": 626
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0588-001",
+      "resolution_refs": [],
+      "revealed_at": 626,
+      "role": "advance",
+      "status": "open",
+      "summary": "辰龙眼中一闪喜色被王林读为求救信号，王林判断大罗剑宗弟子与贪狼异队，但双方尚未正式接触。"
+    }
+  ]
+}

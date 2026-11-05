@@ -1,0 +1,30 @@
+{
+  "id": "thread-0050",
+  "introduced_at": 61,
+  "kind": "story_thread",
+  "label": "王林与白衣中年人（张虎之师尊）的战斗",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 61,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0050-001",
+      "resolution_refs": [],
+      "revealed_at": 61,
+      "role": "primary",
+      "status": "open",
+      "summary": "第61章末王林与白衣中年人交手未分胜负，飞剑与剑鞘的古怪尚未解开，战斗在下一章继续。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0638",
+  "introduced_at": 655,
+  "kind": "story_thread",
+  "label": "王林与冉家、逍遥散人、孙析的庇护交易",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 655,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "agreement",
+      "chapter_ranges": [
+        {
+          "end": 655,
+          "start": 655
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0638-001",
+      "resolution_refs": [],
+      "revealed_at": 655,
+      "role": "advance",
+      "status": "open",
+      "summary": "三人已奉送绝大部分家底，王林在收下仙玉后准备离星数月到一年，三人当面追问并表达猜疑，王林承诺不反悔。"
+    }
+  ]
+}

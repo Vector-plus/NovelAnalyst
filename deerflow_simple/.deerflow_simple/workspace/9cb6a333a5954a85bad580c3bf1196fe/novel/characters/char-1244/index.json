@@ -1,0 +1,69 @@
+{
+  "current": {
+    "current_summary": "第587—589章：以「妖卫」身份随远古战场宝塔方动员再度登场，与风吟、地魔同列阻拦王林；第589章王林以十亿尊魂幡合一亿魂一拳将其击杀并收走亿魂，复仇线终结；依炼魂术绝对控制机制，其所化魂魄归王林所有。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1244/index.json",
+          "record_id": "char-1244"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "虎咆：随行、失踪与转为死敌（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1244/stages/stage-016.md",
+        "record_id": "doc-char-1244-stage-016"
+      },
+      "title": "虎咆：随行、失踪与转为死敌"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 584
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1244/index.json",
+          "record_id": "char-1244"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 641,
+      "summary": "以妖卫身份再登场与被击杀阶段（第584—641章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1244/stages/stage-018.md",
+        "record_id": "doc-char-1244-stage-018"
+      },
+      "title": "以妖卫身份再登场与被击杀阶段"
+    }
+  ],
+  "id": "char-1244",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 523,
+  "kind": "entity_index",
+  "label": "虎咆",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 5,
+  "safe_through": 641,
+  "schema_version": "2.0"
+}

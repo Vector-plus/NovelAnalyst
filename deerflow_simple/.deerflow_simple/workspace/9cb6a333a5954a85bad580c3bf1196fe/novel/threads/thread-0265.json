@@ -1,0 +1,30 @@
+{
+  "id": "thread-0265",
+  "introduced_at": 350,
+  "kind": "story_thread",
+  "label": "朱雀称号传承与炉鼎计划",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 350,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_scheme",
+      "chapter_ranges": [
+        {
+          "end": 350,
+          "start": 350
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0265-001",
+      "resolution_refs": [],
+      "revealed_at": 350,
+      "role": "setup",
+      "status": "active",
+      "summary": "红芒老祖欲在乾风与柳眉之间择一接替朱雀称号，安排乾风吞噬红蝶意境、柳眉以曾牛（王林）为炉鼎夺取生死轮回意境。"
+    }
+  ]
+}

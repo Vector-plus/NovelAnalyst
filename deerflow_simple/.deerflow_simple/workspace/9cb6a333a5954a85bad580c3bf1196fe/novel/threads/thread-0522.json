@@ -1,0 +1,30 @@
+{
+  "id": "thread-0522",
+  "introduced_at": 571,
+  "kind": "story_thread",
+  "label": "黄副帅与玄副帅的赌约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 571,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 571,
+          "start": 571
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0522-001",
+      "resolution_refs": [],
+      "revealed_at": 571,
+      "role": "open",
+      "status": "ongoing",
+      "summary": "两副帅以各自选择的修士敲鼓结果对赌，玄副帅坚称自己选中的人胜过墨非，等待王林上场验证。"
+    }
+  ]
+}

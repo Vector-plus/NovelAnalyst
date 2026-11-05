@@ -1,0 +1,30 @@
+{
+  "id": "thread-0677",
+  "introduced_at": 673,
+  "kind": "story_thread",
+  "label": "王平是否修行修道",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 673,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_choice",
+      "chapter_ranges": [
+        {
+          "end": 673,
+          "start": 673
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0677-001",
+      "resolution_refs": [],
+      "revealed_at": 673,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林坚持修道人生不适合王平并禁其再提，王平口头应下不修道；叙述保留其对父亲决定的无力感。"
+    }
+  ]
+}

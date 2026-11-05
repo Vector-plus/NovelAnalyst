@@ -1,0 +1,30 @@
+{
+  "id": "thread-0404",
+  "introduced_at": 485,
+  "kind": "story_thread",
+  "label": "王林拜入天运宗紫系第七弟子",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 485,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 485,
+          "start": 485
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0404-001",
+      "resolution_refs": [],
+      "revealed_at": 485,
+      "role": "subject",
+      "status": "ongoing",
+      "summary": "天运子在九色之光下正式收王林为紫系第七弟子，并以七彩祭坛木牌刻名记录『天运星演武第一年，收徒紫系第七子，王林』。"
+    }
+  ]
+}

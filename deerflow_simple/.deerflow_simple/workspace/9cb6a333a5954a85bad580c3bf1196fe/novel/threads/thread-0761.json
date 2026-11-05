@@ -1,0 +1,30 @@
+{
+  "id": "thread-0761",
+  "introduced_at": 744,
+  "kind": "story_thread",
+  "label": "王林与血祖的生死仇怨",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 744,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "antagonism",
+      "chapter_ranges": [
+        {
+          "end": 744,
+          "start": 744
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0761-001",
+      "resolution_refs": [],
+      "revealed_at": 744,
+      "role": "setup",
+      "status": "escalating",
+      "summary": "血祖以道为诺后立即毁诺追杀，血海炼化仙卫分身并追斩本体；王林引动仙人储物空间崩溃反制。血祖立誓逃出后必杀王林。"
+    }
+  ]
+}

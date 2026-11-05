@@ -1,0 +1,30 @@
+{
+  "id": "thread-0476",
+  "introduced_at": 538,
+  "kind": "story_thread",
+  "label": "禁幡升级目标：九百九十九组→九千九百九十九组",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 538,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 538,
+          "start": 538
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0476-001",
+      "resolution_refs": [],
+      "revealed_at": 538,
+      "role": "setup",
+      "status": "active",
+      "summary": "王林认为现有禁幡威力已显不足，欲提升近十倍，但所需单一禁制太多，以其见识尚无法掌握。"
+    }
+  ]
+}

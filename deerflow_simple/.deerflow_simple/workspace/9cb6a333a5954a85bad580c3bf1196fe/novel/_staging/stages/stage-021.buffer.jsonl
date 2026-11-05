@@ -1,0 +1,115 @@
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 872, "reason": "阶段开局核心：罗天星来敌因许木雕像而惊退，牵出王林旧身份与朱雀星因果线"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 872, "reason": "王林正式现身朱雀星并放话追杀，为阶段主线（归乡/拔除来敌）起点"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 872, "reason": "大头童子自认掌握许木星域归属机密，潜在影响后续势力冲突"}
+{"kind": "claim", "local_id": "claim-local-29", "chapter_order": 872, "reason": "铁岩寿元将尽的伏笔，关系到阶段内仆从/因果线"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 872, "reason": "周武泰守朱雀誓言，是朱雀星守护阵营的立场依据"}
+{"record_type": "event", "local_id": "ev-local-1", "chapter_order": 873, "note": "王林以阴阳双鱼与古神鼎「换位」压制罗天天罡仙大头童子，本章刻意未杀，另有用处"}
+{"record_type": "claim", "local_id": "claim-local-12", "chapter_order": 873, "note": "大头童子欲逃回罗天联盟大本营揭露「许木」身份——罗天线冲突升级伏笔"}
+{"record_type": "claim", "local_id": "claim-local-13", "chapter_order": 873, "note": "大头童子提及王林有「师兄清水」，并拟招引血神子般前辈追杀"}
+{"record_type": "claim", "local_id": "claim-local-26", "chapter_order": 873, "note": "「王氏一族，先祖王卓之灵」灵牌首次出现，王家因果线入口"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 874, "note": "王林与天罡仙大头童子之战，以封仙印封印、定身、击落收束"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 874, "note": "大头童子被封印印决打入眉心，成为王林仆从（ongoing）"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 874, "note": "数百罗天修士降临朱雀星被天虎旗喝退，凸显王林在罗天中的地位"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 874, "note": "朱雀星修士认知：朱雀老祖王林在罗天修士中地位极高"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 874, "note": "封印操控之术源自仙帝青霖玉简，须以仙元施展——对后续主仆/仙卫体系有支撑"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 874, "note": "仙豆中清水所留仙元可增幅王林仙术（定身术达新高度）"}
+{"chapter_order": 875, "record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林以封印收大头童子为仆，属本 stage「收仆从」线关键节点"}
+{"chapter_order": 875, "record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林数百年来首次回到出生地朱雀星"}
+{"chapter_order": 875, "record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "周武泰、云雀子确认王林归来并封锁消息，是朱雀星势力层面的关键动向"}
+{"chapter_order": 875, "record_ref_or_local_id": "claim-local-11", "kind": "claim", "note": "王林回归消息被二人封锁，影响后续各方知情范围"}
+{"chapter_order": 875, "record_ref_or_local_id": "ev-local-5", "kind": "event", "note": "皇祖城石墙禁地与后修坟头，王家因果线的悬念锚点"}
+{"chapter_order": 875, "record_ref_or_local_id": "claim-local-20", "kind": "claim", "note": "掌柜旁证老槐树曾存在，印证王林记忆与城池变迁"}
+{"local_id": "ev-local-3", "record_kind": "event", "reason": "本阶段关键节点：王林被守护修士认出为王家老祖，身份在朱雀星范围内公开化", "chapter_order": 876}
+{"local_id": "claim-local-25", "record_kind": "claim", "reason": "身份揭示的关键陈述（老者失声喊出“王家老祖”），带 anchor", "chapter_order": 876}
+{"local_id": "claim-local-12", "record_kind": "claim", "reason": "朱雀星老祖童年之地这一地点定性，来自化神修士之口，属 reported，需后续校验", "chapter_order": 876}
+{"local_id": "claim-local-20", "record_kind": "claim", "reason": "朱雀星各派轮流守护王族祖宅的制度设定，势力动向", "chapter_order": 876}
+{"local_id": "claim-local-18", "record_kind": "claim", "reason": "十颗灵种旧设定回收，可能牵出后续人物线索", "chapter_order": 876}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林归乡朱雀星后首次进入大王朝都城，是本 stage「了却王家因果」主线起点", "chapter_order": 877}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林出手擒下拥有王家血脉的十六皇子，冲突升级", "chapter_order": 877}
+{"kind": "event", "local_id": "ev-local-3", "note": "云天宗弟子为护王家皇子向塔山出手，牵出云天宗与大王朝的从属关系", "chapter_order": 877}
+{"kind": "claim", "local_id": "claim-local-4", "note": "「朱雀星守护者」「朱雀星老祖」名号由周武泰宣扬而被全星修士接受", "chapter_order": 877}
+{"kind": "claim", "local_id": "claim-local-13", "note": "朱雀星怨气弥漫、西北万里赤土死尸遍地，为后续拔除阴宗/补星魂线索", "chapter_order": 877}
+{"kind": "claim", "local_id": "claim-local-20", "note": "国师因凶星出自西北屠杀平民数十万（人群议论，需后续核实）", "chapter_order": 877}
+{"local_id": "ev-local-2", "kind": "event", "note": "王林在朱雀星大王朝掌掴皇子并灭其体内怨灵黑蛇，取得引路怨气烙印——本 stage 王家因果主线的起点事件", "chapter_order": 878}
+{"local_id": "ev-local-4", "kind": "event", "note": "大王朝皇城君臣现身，国师（char-1942）首次以应答方式出面并遣三弟子", "chapter_order": 878}
+{"local_id": "claim-local-10", "kind": "claim", "note": "王林判断有人以王家族人生命饲养怨灵，指向幕后操控者（疑为尸阴宗一线）", "chapter_order": 878}
+{"local_id": "ev-local-6", "kind": "event", "note": "皇帝喝令王族历代家族供奉出战，冲突升级并悬置至下一章", "chapter_order": 878}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 879, "note": "王林回归皇都、破怨灵控人并击杀凤栾星女子（自称七凤之一，尸阴宗派驻朱雀星大长老）", "significance": "本 stage 主线「拔尸阴宗、了却王家因果」首个关键节点"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 879, "note": "大头童子追回阴虚男子并将其诛杀、献元神", "significance": "展示二仆从的战力与服从"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 879, "note": "王林据记忆获知大王朝尸阴宗布局并决意连根拔起", "significance": "确立本 stage 后续行动目标"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 879, "note": "角色自称「凤栾星七凤之一」（reported）", "significance": "身份线索，与已有实体 char-0298「凤栾」疑似但未明示"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 879, "note": "王林对女子元神施展搜神术并吞其元气", "significance": "能力展示与情报获取手段"}
+{"kind": "claim", "local_id": "claim-local-31", "chapter_order": 879, "note": "散文式的尸阴宗机制：搜集怨气、饲养怨灵为各分宗任务（源自孙泰所述）", "significance": "势力动向背景，供后续尸阴宗线使用"}
+{"kind": "claim", "local_id": "claim-local-33", "chapter_order": 879, "note": "王林决意将朱雀星尸阴宗连根拔起", "significance": "本 stage 主动目标"}
+{"kind": "claim", "local_id": "claim-local-34", "chapter_order": 879, "note": "尸阴宗地下巨魔族尸体与一丝微弱神识令王林心动", "significance": "后续尸阴宗之行的另一动机"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 880, "reason": "王林窥涅神识灭门的能力首次在大王朝全境大规模展示"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 880, "reason": "尸阴宗朱雀星总部被摧毁，本阶段主线目标之一落定"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 880, "reason": "尸阴宗全星域搜集怨气，势力动向的关键陈述"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 880, "reason": "总部密令线索，后续悬念锚点"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 880, "reason": "皇城避难推测，指向未解身份/势力"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 880, "reason": "人物转折：旧识夜自在沦为尸傀"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 880, "reason": "境界体系说明：窥涅为第二步之始，可神念灭派"}
+{"local_id": "ev-local-3", "kind": "event", "note": "尸阴宗以巨魔族肉身夺舍的核心隐秘首次由雷吉口述，含「保留天赋神通」「紫青藤」等关键设定，stage 级重要证据", "chapter_order": 881}
+{"local_id": "claim-local-13", "kind": "claim", "note": "紫青藤内有尸阴宗副殿主神识（reported），可与后续植物内发声者身份核对", "chapter_order": 881}
+{"local_id": "ev-local-2", "kind": "event", "note": "雷吉第三次与王林相遇并主动请为坐骑，是其立场转折点", "chapter_order": 881}
+{"local_id": "ev-local-4", "kind": "event", "note": "王林在尸阴宗深处首战妖异植物（封仙印+雷球），战况延续至下章", "chapter_order": 881}
+{"record_ref_or_local_id": "ev-local-1", "chapter_order": 882, "kind": "event", "note": "王林在尸阴宗深处与自称怨殿副殿主的刘青云元神正面冲突"}
+{"record_ref_or_local_id": "claim-local-7", "chapter_order": 882, "kind": "claim", "note": "刘青云自报身份（reported）：尸阴宗怨殿副殿主"}
+{"record_ref_or_local_id": "claim-local-10", "chapter_order": 882, "kind": "claim", "note": "王林目标：以窥涅元神把塔山肉身提升至窥涅"}
+{"record_ref_or_local_id": "ev-local-3", "chapter_order": 882, "kind": "event", "note": "刘青云献出炎灵火尸并当场自爆"}
+{"record_ref_or_local_id": "claim-local-25", "chapter_order": 882, "kind": "claim", "note": "大头童子首次对联盟修士留下深刻印象"}
+{"kind": "event", "local_id": "ev-local-2", "note": "刘青云元神被封、王林以「仙术，定身」首次在本阶段展示定身仙术，属阶段内关键战斗节点。", "chapter_order": 883}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林收雷吉为坐骑并取其心血，为后续祭炼古神神通的前提。", "chapter_order": 883}
+{"kind": "event", "local_id": "ev-local-4", "note": "朱雀圣星视角首现罗天大军战报与许木下落不明，属外部战局推进线索。", "chapter_order": 883}
+{"kind": "claim", "local_id": "claim-local-10", "note": "刘青云仍有一小半元神在他处，为后续复仇/复归伏笔。", "chapter_order": 883}
+{"kind": "claim", "local_id": "claim-local-24", "note": "修真联盟的计划与圣皇云游未归，属势力动向证据。", "chapter_order": 883}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 884, "priority": "high", "note": "王林了却王家后人因果并离去的宣示原文（不再有修真者参与凡间之事）"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 884, "priority": "high", "note": "云天宗因果了却：铁岩修为恢复、获赠仙玉与九剑；周茹百年前离开朱雀星之因由"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 884, "priority": "high", "note": "铁岩牺牲生机寿元、借周武泰之助使周茹达婴变的关键陈述"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 884, "priority": "high", "note": "疑似黄龙真人者乘千足蜈蚣现身并向王林传音“小家伙不错”，为后续伏笔"}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "chapter_order": 884, "priority": "high", "note": "因果意境明悟加深、神识覆盖整颗朱雀星，是主角修为/意境阶段推进节点"}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "chapter_order": 884, "priority": "medium", "note": "报恩张虎血脉后人，展示王林“当年之因今日之果”的行事准则落地"}
+{"kind": "entity", "ref_or_local_id": {"candidate_name": "张师妹"}, "chapter_order": 884, "priority": "medium", "note": "张虎血脉后人、合欢宗外围弟子，新登场角色候选"}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林回朱雀星后向战神殿旧识赠仙玉丹药，了却因果的一环", "chapter_order": 885}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林向巨魔族族长叱虎赠仙玉与雷吉之血；叱虎以「曾牛」称之", "chapter_order": 885}
+{"kind": "event", "local_id": "ev-local-4", "note": "李奇庆与李慕婉兄妹关系确立，避天棺首次向李奇庆展示", "chapter_order": 885}
+{"kind": "event", "local_id": "ev-local-5", "note": "追兵老者认出王林并杀徒自保逃遁，留下未收束的追捕线", "chapter_order": 885}
+{"kind": "claim", "local_id": "claim-local-20", "note": "李奇庆=李慕婉之兄（亲缘关键设定，带 anchor）", "chapter_order": 885}
+{"kind": "claim", "local_id": "claim-local-21", "note": "赤血老祖追杀李慕婉并给李奇庆种血纹的因果链", "chapter_order": 885}
+{"kind": "claim", "local_id": "claim-local-31", "note": "曾牛=王林的叙述性认定，及周武泰朱雀子之位来源", "chapter_order": 885}
+{"kind": "identity_link", "local_id": "idlink-local-1", "note": "曾牛（char-0736）与王林（char-0001）疑似同一人，待写入侧判定", "chapter_order": 885}
+{"local_id": "ev-local-1", "kind": "event", "note": "本阶段“了却因果”主线落点：赤血老祖身死、李奇庆血纹解除、李奇庆与王林断交式离别", "chapter_order": 886}
+{"local_id": "ev-local-2", "kind": "event", "note": "王林以七星球星魂补朱雀星，朱雀星恢复当年巅峰，周武泰致谢、老道评价，涉及“罗天之战”伏笔", "chapter_order": 886}
+{"local_id": "ev-local-4", "kind": "event", "note": "修真联盟杀域界首次正面出场并下令追杀“正品雷仙许木”", "chapter_order": 886}
+{"local_id": "claim-local-21", "kind": "claim", "note": "相貌与黄龙一模一样的老道现身并提到“罗天之战”，为身份与后续战事伏笔", "chapter_order": 886}
+{"local_id": "claim-local-23", "kind": "claim", "note": "王林下一站明确为仙遗族之地，衔接第887章", "chapter_order": 886}
+{"local_id": "claim-local-28", "kind": "claim", "note": "杀域界追杀令的具体措辞与授予对象（魂杀二侍）", "chapter_order": 886}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林强行破十六层水池封印，黑水潭化作黑色符文，结果未明", "chapter_order": 887}
+{"kind": "claim", "local_id": "claim-local-27", "note": "云雀子请求王林破至十八层时容他感悟仙遗族先祖本源，王林点头", "chapter_order": 887}
+{"kind": "claim", "local_id": "claim-local-26", "note": "仙遗族十八层传有本源之力、十九层传有第一先祖残魂", "chapter_order": 887}
+{"kind": "claim", "local_id": "claim-local-31", "note": "姚家黄色纸符曾封住王林全身之力，其身上另存一张同类纸符", "chapter_order": 887}
+{"kind": "claim", "local_id": "claim-local-16", "note": "王林仙元有限且无补充之法，为其后续行动的关键制约", "chapter_order": 887}
+{"kind": "event", "local_id": "ev-local-2", "note": "首次进入仙遗族地下第十七层，场景与「刑堂」设定关键证据", "chapter_order": 888}
+{"kind": "event", "local_id": "ev-local-4", "note": "仙元之气与清水仙君仙豆融合，主角修炼线新节点", "chapter_order": 888}
+{"kind": "claim", "local_id": "claim-local-18", "note": "云雀子关于刑堂与仙遗族先祖的传闻陈述，需区分 certainty=reported", "chapter_order": 888}
+{"kind": "claim", "local_id": "claim-local-4", "note": "酷似黄龙的老道评断十七层为极限、十八层不可进，跨章伏笔候选", "chapter_order": 888}
+{"kind": "claim", "local_id": "claim-local-17", "note": "塔山符文对仙遗族尸骸具有压制/招敬效力，身份线索候选", "chapter_order": 888}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-3", "chapter_order": 889, "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "王林以雷霆风暴击溃仙遗族第十七层，打开通往第十八层的通道——阶段主线层级推进节点"}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-5", "chapter_order": 889, "subject_ref_or_candidate": {"candidate_name": "酷似黄龙的老道"}, "note": "章末“酷似黄龙的老道”动身并称十八层不能进入，为本阶段末段的关键悬念入口"}
+{"buffer_kind": "key_statement", "record_ref_or_local_id": "claim-local-27", "chapter_order": 889, "subject_ref_or_candidate": {"candidate_name": "酷似黄龙的老道"}, "note": "原话“十八层，不能进入！”——角色陈述，非叙述事实"}
+{"buffer_kind": "key_statement", "record_ref_or_local_id": "claim-local-10", "chapter_order": 889, "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "王林选择以自身生死轮回黄泉道自成轮回作为自己的仙术方向，与白凡玄空兵界、清水画地为牢并列"}
+{"buffer_kind": "character_milestone", "record_ref_or_local_id": "claim-local-20", "chapter_order": 889, "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "仙豆由干尸仙元补充、增长数倍至婴儿拳头大小，缓解仙元不足的瓶颈"}
+{"buffer_kind": "faction_movement", "record_ref_or_local_id": "ev-local-4", "chapter_order": 889, "subject_ref_or_candidate": {"path": "characters/char-1889/index.json", "record_id": "char-1889"}, "note": "罗天六指修士小队因雷力浓郁改道绕行，未与王林接触"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-021"}, "chapter_order": 890, "kind": "key_claim", "local_ref": "claim-local-17", "note": "老道当面判决王林为朱雀星之人、四圣宗朱雀一脉弟子，并自认掌门身份"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-021"}, "chapter_order": 890, "kind": "key_claim", "local_ref": "claim-local-12", "note": "老道点出『罗天星域正品雷仙许木』之名，为许木身份的关键他人陈述证据"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-021"}, "chapter_order": 890, "kind": "key_claim", "local_ref": "claim-local-29", "note": "老道拟将王林列入『朱雀序列』，本章标题所指"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-021"}, "chapter_order": 890, "kind": "key_event", "local_ref": "ev-local-4", "note": "王林首次进入符族十八层本源密室，为阶段末段的重要场景转换"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-021"}, "chapter_order": 890, "kind": "key_event", "local_ref": "ev-local-7", "note": "联盟星域赤衣人现身并指名许木，可能引出后续冲突"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林了结朱雀星琐事携众离去，周武泰/李奇庆/铁岩告别反应，可作为本阶段收束证据", "chapter_order": 891}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "雷吉立誓成为坐骑，王林势力构成变化", "chapter_order": 891}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "杀侍于非截杀，窥涅级战斗开启，跨阶段冲突线", "chapter_order": 891}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "note": "雷吉自愿成为坐骑的关键陈述", "chapter_order": 891}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "note": "于非自称修真联盟杀域界杀侍、目标许木人头", "chapter_order": 891}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "note": "老道自述必开符族最后一层，指向朱雀星深层图谋", "chapter_order": 891}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "note": "四圣宗朱雀一脉内门弟子考验规则（角色转述）", "chapter_order": 891}
+{"kind": "entity_candidate", "ref_or_local_id": "于非", "note": "新增敌对角色，窥涅中期战力", "chapter_order": 891}

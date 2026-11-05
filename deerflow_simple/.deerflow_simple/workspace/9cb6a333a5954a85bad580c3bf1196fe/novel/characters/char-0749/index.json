@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第651—673章：在罗天星域冉云星宝合楼与化名许木的王林重逢并被带往房府，交代东临星格局；寿元将尽时托付骨灰归联盟星域暗月星天山下村庄并赠储物袋；在落月村伴王林父子三年，第672年大限到来听王林重申旧约，第673章于落月村离世，骨灰由王林保管，归乡之约未了。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0749/index.json",
+          "record_id": "char-0749"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 720,
+      "summary": "罗天重逢与大限托付（第642—720章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0749/stages/stage-019.md",
+        "record_id": "doc-char-0749-stage-019"
+      },
+      "title": "罗天重逢与大限托付"
+    }
+  ],
+  "id": "char-0749",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 301,
+  "kind": "entity_index",
+  "label": "孙泰",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 720,
+  "schema_version": "2.0"
+}

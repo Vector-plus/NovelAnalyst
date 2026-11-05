@@ -1,0 +1,30 @@
+{
+  "id": "thread-0742",
+  "introduced_at": 726,
+  "kind": "story_thread",
+  "label": "王林炼制第二个仙卫傀儡",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 726,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 726,
+          "start": 726
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0742-001",
+      "resolution_refs": [],
+      "revealed_at": 726,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林将收服的天鬼投入尊魂幡，认为有此物后炼制第二个仙卫傀儡的把握更大。"
+    }
+  ]
+}

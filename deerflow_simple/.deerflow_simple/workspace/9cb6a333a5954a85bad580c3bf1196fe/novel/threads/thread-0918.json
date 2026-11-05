@@ -1,0 +1,30 @@
+{
+  "id": "thread-0918",
+  "introduced_at": 872,
+  "kind": "story_thread",
+  "label": "铁岩寿元将尽与周武泰重伤守朱雀",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 872,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "condition",
+      "chapter_ranges": [
+        {
+          "end": 872,
+          "start": 872
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0918-001",
+      "resolution_refs": [],
+      "revealed_at": 872,
+      "role": "side",
+      "status": "open",
+      "summary": "铁岩嘴角流血、被大头童子看出寿元快要断绝；周武泰先被仙术震伤仍坚持守护朱雀。"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 720,
+      "summary": "父子之情：认子、隐瞒与送其一世（第642—720章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0012/stages/stage-019.md",
+        "record_id": "doc-emo-0012-stage-019"
+      },
+      "title": "父子之情：认子、隐瞒与送其一世"
+    }
+  ],
+  "id": "emo-0012",
+  "introduced_at": 642,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 720,
+  "schema_version": "2.0"
+}

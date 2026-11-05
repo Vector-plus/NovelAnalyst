@@ -1,0 +1,30 @@
+{
+  "id": "thread-0698",
+  "introduced_at": 690,
+  "kind": "story_thread",
+  "label": "王林修为进阶与本尊四星之路",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 690,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression_thread",
+      "chapter_ranges": [
+        {
+          "end": 690,
+          "start": 690
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0698-001",
+      "resolution_refs": [],
+      "revealed_at": 690,
+      "role": "development",
+      "status": "developing",
+      "summary": "王林以巨量仙玉由问鼎中期突破至问鼎后期；本尊因缺成年古神之气未能真正达四星，转往具雷光层的星球潜修。"
+    }
+  ]
+}

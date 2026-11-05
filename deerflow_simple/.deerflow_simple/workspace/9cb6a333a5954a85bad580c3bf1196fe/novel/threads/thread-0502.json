@@ -1,0 +1,30 @@
+{
+  "id": "thread-0502",
+  "introduced_at": 560,
+  "kind": "story_thread",
+  "label": "妖将之战期间的正面与暗中手段",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 560,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 560,
+          "start": 560
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0502-001",
+      "resolution_refs": [],
+      "revealed_at": 560,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "秩序禁止妖将生死之斗，争斗转嫁到帮助者身上：杀帮助者断其一臂，亦可有帮助者暗杀或雇凶杀妖将，但触犯妖帝底线者必死。黑衣人刺杀王林即属此类。"
+    }
+  ]
+}

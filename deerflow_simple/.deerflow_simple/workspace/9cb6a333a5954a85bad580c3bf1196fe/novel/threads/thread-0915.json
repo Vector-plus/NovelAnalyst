@@ -1,0 +1,30 @@
+{
+  "id": "thread-0915",
+  "introduced_at": 870,
+  "kind": "story_thread",
+  "label": "朱雀星面临战乱生死存亡",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 870,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 870,
+          "start": 870
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0915-001",
+      "resolution_refs": [],
+      "revealed_at": 870,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

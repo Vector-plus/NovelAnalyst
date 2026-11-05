@@ -1,0 +1,30 @@
+{
+  "id": "thread-0028",
+  "introduced_at": 37,
+  "kind": "story_thread",
+  "label": "王林凝气第三层的真实状态与突破瓶颈之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 37,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 37,
+          "start": 37
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0028-001",
+      "resolution_refs": [],
+      "revealed_at": 37,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "王林隐匿真实修为（实为凝气第三层）；四年闭关后凝气期仍停在第三层而灵气持续增长，他猜测自己的第三层没有极限、可能已经突破，但将念头压下。"
+    }
+  ]
+}

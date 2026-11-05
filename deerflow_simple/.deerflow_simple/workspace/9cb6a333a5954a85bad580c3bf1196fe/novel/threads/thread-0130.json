@@ -1,0 +1,30 @@
+{
+  "id": "thread-0130",
+  "introduced_at": 181,
+  "kind": "story_thread",
+  "label": "离开古神之地的计划与墨间石",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 181,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 181,
+          "start": 181
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0130-001",
+      "resolution_refs": [],
+      "revealed_at": 181,
+      "role": "secondary",
+      "status": "blocked",
+      "summary": "王林原计划吸收完传承后寻找制作禁幡的墨间石、返回肉身存放处再离开古神之地，因冰晶数量远超预料而打乱。"
+    }
+  ]
+}

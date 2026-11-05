@@ -1,0 +1,30 @@
+{
+  "id": "thread-0114",
+  "introduced_at": 165,
+  "kind": "story_thread",
+  "label": "王林闯古神之地三重关卡",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 165,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 165,
+          "start": 165
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0114-001",
+      "resolution_refs": [],
+      "revealed_at": 165,
+      "role": "protagonist",
+      "status": "ongoing",
+      "summary": "第一关靠运气通过，第二关以十三年参悟换来领悟者身份与禁幡玉简，第三关入口需以神识类手段通过；本章王林已进入被其认定为寂灭界的第三关，并以极境神识吞噬游魂迅速变强。"
+    }
+  ]
+}

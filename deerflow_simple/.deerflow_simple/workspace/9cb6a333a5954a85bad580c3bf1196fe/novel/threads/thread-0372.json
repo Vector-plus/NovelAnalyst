@@ -1,0 +1,30 @@
+{
+  "id": "thread-0372",
+  "introduced_at": 459,
+  "kind": "story_thread",
+  "label": "王林独自赴天运星",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 459,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 459,
+          "start": 459
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0372-001",
+      "resolution_refs": [],
+      "revealed_at": 459,
+      "role": "protagonist",
+      "status": "ongoing",
+      "summary": "与司徒南分开后，王林凭天运子留下的星图独自赶路，途中以坤木石与墨雪液祭炼星罗盘，章末仍未抵达天运星。"
+    }
+  ]
+}

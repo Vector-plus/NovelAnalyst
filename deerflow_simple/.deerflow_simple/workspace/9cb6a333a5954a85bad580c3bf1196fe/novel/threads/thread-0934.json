@@ -1,0 +1,30 @@
+{
+  "id": "thread-0934",
+  "introduced_at": 889,
+  "kind": "story_thread",
+  "label": "王林补齐仙元、筹谋以自身轮回修炼撒豆成兵",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 889,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ability_growth",
+      "chapter_ranges": [
+        {
+          "end": 889,
+          "start": 889
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0934-001",
+      "resolution_refs": [],
+      "revealed_at": 889,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "王林借干尸仙元使仙豆增长数倍，并以黄泉收走上百仙人之魂；他打算以生死轮回黄泉道自成轮回，为撒豆成兵积累魂魄。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "thread-0396",
+  "introduced_at": 480,
+  "kind": "story_thread",
+  "label": "运道子见封号晶石时露出恐惧、对王林露出古怪微笑",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 480,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 480,
+          "start": 480
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0015.json",
+          "record_id": "claim-13119"
+        },
+        {
+          "path": "events/block-0015.json",
+          "record_id": "claim-13120"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0396-001",
+      "resolution_refs": [],
+      "revealed_at": 480,
+      "role": "foreshadow",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

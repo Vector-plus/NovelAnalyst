@@ -1,0 +1,30 @@
+{
+  "id": "thread-0560",
+  "introduced_at": 601,
+  "kind": "story_thread",
+  "label": "雷兽银角上一闪而逝的金芒",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 601,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 601,
+          "start": 601
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0560-001",
+      "resolution_refs": [],
+      "revealed_at": 601,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

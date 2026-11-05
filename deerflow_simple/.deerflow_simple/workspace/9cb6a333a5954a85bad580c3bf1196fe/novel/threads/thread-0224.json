@@ -1,0 +1,30 @@
+{
+  "id": "thread-0224",
+  "introduced_at": 295,
+  "kind": "story_thread",
+  "label": "凑齐制作星罗盘的材料",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 295,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 295,
+          "start": 295
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0224-001",
+      "resolution_refs": [],
+      "revealed_at": 295,
+      "role": "setup",
+      "status": "in_progress",
+      "summary": "金紫石为星罗盘必需材料之一，王林在虚无中取得并收入储物袋；其余材料尚未集齐。"
+    }
+  ]
+}

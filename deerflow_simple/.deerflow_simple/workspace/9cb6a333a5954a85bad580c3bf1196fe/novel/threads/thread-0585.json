@@ -1,0 +1,30 @@
+{
+  "id": "thread-0585",
+  "introduced_at": 621,
+  "kind": "story_thread",
+  "label": "仙指印与仙帝级神通",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 621,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 621,
+          "start": 621
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0585-001",
+      "resolution_refs": [],
+      "revealed_at": 621,
+      "role": "supporting",
+      "status": "escalating",
+      "summary": "凌天候判断伤他的仙指印是唯仙帝可施展的上品仙术，仙君亦不能施展。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0355",
+  "introduced_at": 441,
+  "kind": "story_thread",
+  "label": "山顶打坐老者的真实身份",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 441,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 441,
+          "start": 441
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0355-001",
+      "resolution_refs": [],
+      "revealed_at": 441,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "云雀子指其夺舍而来，并感知其有问鼎修为方能察觉的奇异之感、判其非朱雀星之人；老者自称莫力海后闭目不语。"
+    }
+  ]
+}

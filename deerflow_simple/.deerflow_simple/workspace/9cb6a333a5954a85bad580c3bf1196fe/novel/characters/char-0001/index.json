@@ -1,0 +1,519 @@
+{
+  "current": {
+    "current_summary": "第872—891章：携半个生机归返出生地朱雀星，以换位与封仙印镇压罗天天罡仙大头童子并封印为仆；被守护修士认作「王家老祖」，掌掴十六皇子、灭其体内怨灵黑蛇取引路烙印，击杀尸阴宗朱雀星大长老（自称凤栾星七凤之一），以窥涅神识灭尸阴宗朱雀星总部；收雷吉为坐骑、以定身仙术封刘青云元神（其残元神未灭）；了却王家后人因果与云天宗因果（复铁岩修为、赠仙玉九剑），示避天棺于李奇庆并斩赤血老祖使其血纹尽解、落得断交式离别；以七星球星魂补朱雀星使其恢复巅峰，因果意境大进、神识覆盖整星；入仙遗族地下破十六、十七层，进十八层本源密室，被四圣宗朱雀一脉掌门当面判为朱雀星之人、朱雀一脉弟子并拟列入「朱雀序列」，被点出「罗天星域正品雷仙许木」之名；自择黄泉道自成轮回为仙术方向，仙豆因仙元补充增长数倍；携众离去时遭修真联盟杀域界杀侍于非截杀，战斗未结。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 9,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 9,
+      "summary": "离乡求仙与入门测试阶段（第1—9章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-001.md",
+        "record_id": "doc-char-0001-stage-001"
+      },
+      "title": "离乡求仙与入门测试阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 38,
+      "summary": "记名弟子到内门——借神秘石珠秘密修炼（第10—38章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-002.md",
+        "record_id": "doc-char-0001-stage-002"
+      },
+      "title": "记名弟子到内门——借神秘石珠秘密修炼"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 56,
+      "summary": "交流比试、弑师与下山自立（第39—56章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-003.md",
+        "record_id": "doc-char-0001-stage-003"
+      },
+      "title": "交流比试、弑师与下山自立"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 82,
+      "summary": "夺基筑基与极阴修炼——结怨藤家、结缘尸阴宗（第57—82章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-004.md",
+        "record_id": "doc-char-0001-stage-004"
+      },
+      "title": "夺基筑基与极阴修炼——结怨藤家、结缘尸阴宗"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 102,
+          "start": 83
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 102,
+      "summary": "决明谷夺令与藤家血祸阶段（第83—102章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-005.md",
+        "record_id": "doc-char-0001-stage-005"
+      },
+      "title": "决明谷夺令与藤家血祸阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 125,
+      "summary": "寂灭重生与夺舍马良阶段（第103—125章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-006.md",
+        "record_id": "doc-char-0001-stage-006"
+      },
+      "title": "寂灭重生与夺舍马良阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 149,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 149,
+      "summary": "修魔海外海结丹与立威阶段（第126—149章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-007.md",
+        "record_id": "doc-char-0001-stage-007"
+      },
+      "title": "修魔海外海结丹与立威阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 183,
+          "start": 150
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 183,
+      "summary": "碎星乱·古神之地四关与忆之传承阶段（第150—183章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-008.md",
+        "record_id": "doc-char-0001-stage-008"
+      },
+      "title": "碎星乱·古神之地四关与忆之传承阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 271,
+          "start": 232
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 271,
+      "summary": "化凡悟道与化神（第232—271章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-010.md",
+        "record_id": "doc-char-0001-stage-010"
+      },
+      "title": "化凡悟道与化神"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 309,
+          "start": 272
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 309,
+      "summary": "雨鼎入仙界之碎界争宝（第272—309章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-011.md",
+        "record_id": "doc-char-0001-stage-011"
+      },
+      "title": "雨鼎入仙界之碎界争宝"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 393,
+          "start": 310
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 393,
+      "summary": "归来、转世之约与坠落重起阶段（第310—393章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-012.md",
+        "record_id": "doc-char-0001-stage-012"
+      },
+      "title": "归来、转世之约与坠落重起阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 427,
+          "start": 394
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 427,
+      "summary": "仙遗族二战：抢仙玉婴变与朱雀子的疯狂（第394—427章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-013.md",
+        "record_id": "doc-char-0001-stage-013"
+      },
+      "title": "仙遗族二战：抢仙玉婴变与朱雀子的疯狂"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 455,
+          "start": 428
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 455,
+      "summary": "朱雀墓夺命魂与离开朱雀星阶段（第428—455章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-014.md",
+        "record_id": "doc-char-0001-stage-014"
+      },
+      "title": "朱雀墓夺命魂与离开朱雀星阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 497,
+          "start": 456
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 497,
+      "summary": "星际赴天运星与天运宗拜师（第456—497章）（第456—497章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-015.md",
+        "record_id": "doc-char-0001-stage-015"
+      },
+      "title": "星际赴天运星与天运宗拜师（第456—497章）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "东海妖灵之地：炼魂部落与掌兵权（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-016.md",
+        "record_id": "doc-char-0001-stage-016"
+      },
+      "title": "东海妖灵之地：炼魂部落与掌兵权"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 583,
+          "start": 550
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 583,
+      "summary": "天妖城妖将之战、妖鼓洗髓与问鼎（第550—583章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-017.md",
+        "record_id": "doc-char-0001-stage-017"
+      },
+      "title": "天妖城妖将之战、妖鼓洗髓与问鼎"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 584
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 641,
+      "summary": "问鼎后的杀戮征战与潮汐深渊救周佚阶段（第584—641章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-018.md",
+        "record_id": "doc-char-0001-stage-018"
+      },
+      "title": "问鼎后的杀戮征战与潮汐深渊救周佚阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 720,
+      "summary": "罗天星域立足与天逆五行圆满（第642—720章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-019.md",
+        "record_id": "doc-char-0001-stage-019"
+      },
+      "title": "罗天星域立足与天逆五行圆满"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 871,
+          "start": 721
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 871,
+      "summary": "雷之仙界远行、陌域脱困、天穹令追杀与罗天封仙（第721—871章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-020.md",
+        "record_id": "doc-char-0001-stage-020"
+      },
+      "title": "雷之仙界远行、陌域脱困、天穹令追杀与罗天封仙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 891,
+          "start": 872
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 891,
+      "summary": "归乡朱雀星：收仆从、拔尸阴宗、了却王家因果与补星魂（第872—891章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-021.md",
+        "record_id": "doc-char-0001-stage-021"
+      },
+      "title": "归乡朱雀星：收仆从、拔尸阴宗、了却王家因果与补星魂"
+    }
+  ],
+  "id": "char-0001",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 1,
+  "kind": "entity_index",
+  "label": "王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 41,
+  "safe_through": 891,
+  "schema_version": "2.0"
+}

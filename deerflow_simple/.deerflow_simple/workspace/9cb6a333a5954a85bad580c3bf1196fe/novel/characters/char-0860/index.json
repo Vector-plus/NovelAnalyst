@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "封禁围杀至身死阶段（第343—385章）：巨魔族晋升五级修真国后，以仙界夺星罗盘旧怨为名、实为图谋天逆而联手李元封围杀王林；以天赋神通将孙泰传送出朱雀星，自身肉身被毁；重伤后夺舍闭关、放弃追捕，行踪不定；王林闯族开战时其肉身未完全融合、仅约八成实力，且动仙力即须弃躯；许立国倒戈致其断臂、请出先祖红色巨斧，最终身死，巨魔族元婴与突破权限被王林封死。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 393,
+          "start": 310
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0860/index.json",
+          "record_id": "char-0860"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 393,
+      "summary": "封禁围杀至身死阶段（第310—393章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0860/stages/stage-012.md",
+        "record_id": "doc-char-0860-stage-012"
+      },
+      "title": "封禁围杀至身死阶段"
+    }
+  ],
+  "id": "char-0860",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 343,
+  "kind": "entity_index",
+  "label": "巨魔族老祖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 393,
+  "schema_version": "2.0"
+}

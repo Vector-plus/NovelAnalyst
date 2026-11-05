@@ -1,0 +1,30 @@
+{
+  "id": "thread-0310",
+  "introduced_at": 394,
+  "kind": "story_thread",
+  "label": "王林欲返炼魂宗查看变故",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 394,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "pending_action",
+      "chapter_ranges": [
+        {
+          "end": 394,
+          "start": 394
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0310-001",
+      "resolution_refs": [],
+      "revealed_at": 394,
+      "role": "main",
+      "status": "open",
+      "summary": "王林听闻战局后决意立刻回炼魂宗，王卓不知炼魂宗之事。"
+    }
+  ]
+}

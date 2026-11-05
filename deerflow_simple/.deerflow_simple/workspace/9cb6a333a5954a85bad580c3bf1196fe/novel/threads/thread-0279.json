@@ -1,0 +1,30 @@
+{
+  "id": "thread-0279",
+  "introduced_at": 366,
+  "kind": "story_thread",
+  "label": "炼魂宗化神修士闭关、三峰长老代管宗门",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 366,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_status",
+      "chapter_ranges": [
+        {
+          "end": 366,
+          "start": 366
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0279-001",
+      "resolution_refs": [],
+      "revealed_at": 366,
+      "role": "context",
+      "status": "ongoing",
+      "summary": "九位化神修士与两位婴变始祖均闭关，宗门事务由炼魂、抽魄、锁神三峰长老把持；长老间对招募人选与宗门隐患互相不满。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0524",
+  "introduced_at": 574,
+  "kind": "story_thread",
+  "label": "妖鼓鼓音蕴含的逆之道与洗髓之秘",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 574,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "lore",
+      "chapter_ranges": [
+        {
+          "end": 574,
+          "start": 574
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0524-001",
+      "resolution_refs": [],
+      "revealed_at": 574,
+      "role": "thread_update",
+      "status": "progressing",
+      "summary": "本章揭示敲鼓顺意、回弹为逆；王林以相融之法借鼓音洗髓，并在第十一响以悲念入鼓，被众妖帅与天帅注意。"
+    }
+  ]
+}

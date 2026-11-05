@@ -1,0 +1,30 @@
+{
+  "id": "thread-0426",
+  "introduced_at": 500,
+  "kind": "story_thread",
+  "label": "修真联盟数万年前的寻珠通告与上品仙术悬赏",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 500,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 500,
+          "start": 500
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0426-001",
+      "resolution_refs": [],
+      "revealed_at": 500,
+      "role": "背景谜团",
+      "status": "active",
+      "summary": "贪狼称数万年前修真联盟通告寻找一枚珠子，以一套完整上品仙术为奖励，且联盟内完整上品仙术不超过十套。"
+    }
+  ]
+}

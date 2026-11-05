@@ -1,0 +1,30 @@
+{
+  "id": "thread-0750",
+  "introduced_at": 730,
+  "kind": "story_thread",
+  "label": "李元的真实目的与葛姓女子的作用",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 730,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 730,
+          "start": 730
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0750-001",
+      "resolution_refs": [],
+      "revealed_at": 730,
+      "role": "primary",
+      "status": "active",
+      "summary": "王林推测若李元只为铁剑而来，凭其禁制本可自行取得却未动手，认定内有因果；并判断葛姓女子是李元的关键，故未杀她。"
+    }
+  ]
+}

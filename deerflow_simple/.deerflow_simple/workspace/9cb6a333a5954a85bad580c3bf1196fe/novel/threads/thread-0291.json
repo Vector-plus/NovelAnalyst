@@ -1,0 +1,30 @@
+{
+  "id": "thread-0291",
+  "introduced_at": 378,
+  "kind": "story_thread",
+  "label": "紫芯被扔入空间裂缝，邋遢老者称须将其带出",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 378,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_fate",
+      "chapter_ranges": [
+        {
+          "end": 378,
+          "start": 378
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0291-001",
+      "resolution_refs": [],
+      "revealed_at": 378,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

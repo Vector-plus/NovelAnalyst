@@ -1,0 +1,30 @@
+{
+  "id": "thread-0455",
+  "introduced_at": 524,
+  "kind": "story_thread",
+  "label": "炼魂部落扩张设想",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 524,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ambition",
+      "chapter_ranges": [
+        {
+          "end": 524,
+          "start": 524
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0455-001",
+      "resolution_refs": [],
+      "revealed_at": 524,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "王林设想若炼魂部落吞噬融合妖灵之地所有部落，其力｜量将令妖灵九郡震惊；本章未展开具体计划。"
+    }
+  ]
+}

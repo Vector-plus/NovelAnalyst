@@ -1,0 +1,30 @@
+{
+  "id": "thread-0526",
+  "introduced_at": 576,
+  "kind": "story_thread",
+  "label": "金乌旭阻止王林敲响第十五鼓",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 576,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 576,
+          "start": 576
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0526-001",
+      "resolution_refs": [],
+      "revealed_at": 576,
+      "role": "major",
+      "status": "advancing",
+      "summary": "金乌旭在王林按鼓时出手袭杀，被天帅喝止出招阻挡，随即被一声只入其耳的冷哼击碎金甲、重创吐血。"
+    }
+  ]
+}

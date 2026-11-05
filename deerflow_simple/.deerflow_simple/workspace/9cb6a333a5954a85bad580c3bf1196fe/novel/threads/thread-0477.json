@@ -1,0 +1,30 @@
+{
+  "id": "thread-0477",
+  "introduced_at": 538,
+  "kind": "story_thread",
+  "label": "禁幡九百九十九组而天劫始终未临",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 538,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 538,
+          "start": 538
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0477-001",
+      "resolution_refs": [],
+      "revealed_at": 538,
+      "role": "setup",
+      "status": "active",
+      "summary": "王林的禁幡组数不断累积已达九百九十九组，但天劫始终未来临，他对此感到奇怪，原文未给出解释。"
+    }
+  ]
+}

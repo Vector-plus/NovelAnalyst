@@ -1,0 +1,30 @@
+{
+  "id": "thread-0072",
+  "introduced_at": 113,
+  "kind": "story_thread",
+  "label": "尸阴宗对弟子被灭、焚金根被拔的后续反应",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 113,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_response",
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0072-001",
+      "resolution_refs": [],
+      "revealed_at": 113,
+      "role": "伏笔",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "率先献魂与地图承诺阶段（第107—125章）：战神殿弟子，第107章被王林指使的游魂追杀，第108章率先献出魂魄精血成为奴才并把飞剑指向同门，也是第一个猜出其被夺舍的人；第114章在孤峰请求十天时间由表哥拓印藏经阁地图，换得王林「离开火焚国时归还精血」的承诺；第115章返回筹备拓图，此后拓图被抓、地图落入凤栾手中，其魂魄精血至第125章仍未归还。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0260/index.json",
+          "record_id": "char-0260"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 125,
+      "summary": "率先献魂与地图承诺阶段（第103—125章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0260/stages/stage-006.md",
+        "record_id": "doc-char-0260-stage-006"
+      },
+      "title": "率先献魂与地图承诺阶段"
+    }
+  ],
+  "id": "char-0260",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 107,
+  "kind": "entity_index",
+  "label": "林涛",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 125,
+  "schema_version": "2.0"
+}

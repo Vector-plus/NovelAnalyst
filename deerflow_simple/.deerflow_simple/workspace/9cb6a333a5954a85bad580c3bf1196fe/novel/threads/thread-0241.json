@@ -1,0 +1,30 @@
+{
+  "id": "thread-0241",
+  "introduced_at": 315,
+  "kind": "story_thread",
+  "label": "云天宗在楚国的扩张与权力交接",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 315,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_status",
+      "chapter_ranges": [
+        {
+          "end": 315,
+          "start": 315
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0241-001",
+      "resolution_refs": [],
+      "revealed_at": 315,
+      "role": "main",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

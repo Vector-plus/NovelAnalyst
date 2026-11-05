@@ -1,0 +1,30 @@
+{
+  "id": "thread-0733",
+  "introduced_at": 716,
+  "kind": "story_thread",
+  "label": "问鼎大圆满已达成，阴虚境界与天罚隐患未展开",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 716,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 716,
+          "start": 716
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0733-001",
+      "resolution_refs": [],
+      "revealed_at": 716,
+      "role": "milestone",
+      "status": "active",
+      "summary": "王林在青灵星达成问鼎圆满并绘出八笔符文；前一章其自述若突破问鼎第一步，不知是否仍有天罚降临，本章未推进该疑虑。"
+    }
+  ]
+}

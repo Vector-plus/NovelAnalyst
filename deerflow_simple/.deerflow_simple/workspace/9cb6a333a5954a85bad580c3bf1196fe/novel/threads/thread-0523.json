@@ -1,0 +1,30 @@
+{
+  "id": "thread-0523",
+  "introduced_at": 574,
+  "kind": "story_thread",
+  "label": "王林冲击妖鼓十五响之赌",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 574,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 574,
+          "start": 574
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0523-001",
+      "resolution_refs": [],
+      "revealed_at": 574,
+      "role": "thread_update",
+      "status": "progressing",
+      "summary": "金甲男子立誓若王林敲响十五下便自断一臂；王林已敲至第九响（超第一妖将墨非）、第十响洗髓、第十一响含念，尚未达到十五响。"
+    }
+  ]
+}

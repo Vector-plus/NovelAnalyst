@@ -1,0 +1,30 @@
+{
+  "id": "thread-0318",
+  "introduced_at": 411,
+  "kind": "story_thread",
+  "label": "司徒南借魔童肉身恢复修为",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 411,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 411,
+          "start": 411
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0318-001",
+      "resolution_refs": [],
+      "revealed_at": 411,
+      "role": "advance",
+      "status": "open",
+      "summary": "司徒南进入魔童体内融合肉身，称用不了多久可完全恢复修为，届时去找王林，并提醒他小心朱雀子。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0073",
+  "introduced_at": 114,
+  "kind": "story_thread",
+  "label": "王林需回战神殿取地图寻找回赵国之路",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 114,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0073-001",
+      "resolution_refs": [],
+      "revealed_at": 114,
+      "role": "primary",
+      "status": "open",
+      "summary": "马良记忆中无回赵国之路，王林欲往战神殿藏经阁取得地图；另需在炼器殿学炼器术以修复绿色小剑（现为铁片），并寻极阴之地继续黄泉升窍决。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0385",
+  "introduced_at": 472,
+  "kind": "story_thread",
+  "label": "天运子万年寿宴与各方来贺",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 472,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "event",
+      "chapter_ranges": [
+        {
+          "end": 472,
+          "start": 472
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0385-001",
+      "resolution_refs": [],
+      "revealed_at": 472,
+      "role": "primary",
+      "status": "active",
+      "summary": "天运子万年寿辰到来，天运星全域庆贺，外域大神通修士陆续抵星；寿宴分八处，总宗真宴名额极少。"
+    }
+  ]
+}

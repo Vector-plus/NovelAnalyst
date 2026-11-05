@@ -1,0 +1,50 @@
+{
+  "id": "rel-0044",
+  "introduced_at": 371,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 371,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 371,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 371,
+          "start": 371
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "金环修士本欲前往查看黑芒，听到血环传意后弯腰行礼称“尊始祖旨意”，随即退回金环内。",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "membership"
+        }
+      ],
+      "id": "rel-0044-stage-001",
+      "revealed_at": 371,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-012"
+      },
+      "summary": "金环修士本欲前往查看黑芒，听到血环传意后弯腰行礼称“尊始祖旨意”，随即退回金环内。",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0936/index.json",
+      "record_id": "char-0936"
+    },
+    {
+      "path": "characters/char-0937/index.json",
+      "record_id": "char-0937"
+    }
+  ]
+}

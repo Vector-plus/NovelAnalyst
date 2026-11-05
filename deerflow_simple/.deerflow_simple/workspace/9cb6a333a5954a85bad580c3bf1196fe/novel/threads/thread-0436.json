@@ -1,0 +1,30 @@
+{
+  "id": "thread-0436",
+  "introduced_at": 504,
+  "kind": "story_thread",
+  "label": "阵护山谷的秘密与谷内之人的来历",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 504,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 504,
+          "start": 504
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0436-001",
+      "resolution_refs": [],
+      "revealed_at": 504,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林在东海妖灵之门内的荒原之外发现一座被上古阵法隐藏生机的山谷，谷内聚集着无灵力、涂绿液的人；王林禁锢四名袭击者，等待谷内再有人出，意图从他们身上查线索。"
+    }
+  ]
+}

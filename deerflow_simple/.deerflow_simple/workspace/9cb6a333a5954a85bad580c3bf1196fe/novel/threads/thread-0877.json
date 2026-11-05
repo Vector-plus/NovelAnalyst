@@ -1,0 +1,30 @@
+{
+  "id": "thread-0877",
+  "introduced_at": 843,
+  "kind": "story_thread",
+  "label": "罗天南域一百零八仙资格之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 843,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 843,
+          "start": 843
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0877-001",
+      "resolution_refs": [],
+      "revealed_at": 843,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "王林当众宣称要夺取罗天南域一百零八资格第一，并已击退唐言枫等出手者。"
+    }
+  ]
+}

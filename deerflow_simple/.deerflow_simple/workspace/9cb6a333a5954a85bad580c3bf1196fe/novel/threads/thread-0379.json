@@ -1,0 +1,30 @@
+{
+  "id": "thread-0379",
+  "introduced_at": 469,
+  "kind": "story_thread",
+  "label": "天运七子封号争夺（三个月后师尊大寿）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 469,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 469,
+          "start": 469
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0379-001",
+      "resolution_refs": [],
+      "revealed_at": 469,
+      "role": "main",
+      "status": "open",
+      "summary": "白薇称三个月后天运子大寿之时为紫系再次出现天运七子封号之日，大师兄势在必得并把王林视为必铲除之人；王林已萌生争夺之念。"
+    }
+  ]
+}

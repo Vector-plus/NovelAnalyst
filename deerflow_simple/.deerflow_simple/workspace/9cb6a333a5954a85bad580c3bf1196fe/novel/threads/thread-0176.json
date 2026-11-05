@@ -1,0 +1,30 @@
+{
+  "id": "thread-0176",
+  "introduced_at": 210,
+  "kind": "story_thread",
+  "label": "修魔海雾气消失后的多方觊觎与妖灵兽乱",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 210,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_movement",
+      "chapter_ranges": [
+        {
+          "end": 210,
+          "start": 210
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0176-001",
+      "resolution_refs": [],
+      "revealed_at": 210,
+      "role": "escalation",
+      "status": "ongoing",
+      "summary": "雾气消失使修魔海暴露，四级修真国与各门派、修真家族纷纷派弟子入内查探；黑雨虽被驱除，妖灵之兽实力攀升、甚至出现荒兽，修魔海外界几无修士身影。"
+    }
+  ]
+}

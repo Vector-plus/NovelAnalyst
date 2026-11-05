@@ -1,0 +1,76 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0252/index.json",
+          "record_id": "char-0252"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 105,
+      "summary": "与许浩×葛阳的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0022.json",
+        "record_id": "rel-0022"
+      },
+      "title": "许浩×葛阳"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0252/index.json",
+          "record_id": "char-0252"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 105,
+      "summary": "与马良×许浩的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0023.json",
+        "record_id": "rel-0023"
+      },
+      "title": "马良×许浩"
+    }
+  ],
+  "id": "idx-rel-char-0252",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 3,
+  "safe_through": 105,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 105,
+        "start": 105
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0252/index.json",
+        "record_id": "char-0252"
+      }
+    ]
+  },
+  "title": "char-0252 关系入口"
+}

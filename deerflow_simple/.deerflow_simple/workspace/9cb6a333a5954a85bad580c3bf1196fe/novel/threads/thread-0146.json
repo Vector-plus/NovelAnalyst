@@ -1,0 +1,30 @@
+{
+  "id": "thread-0146",
+  "introduced_at": 196,
+  "kind": "story_thread",
+  "label": "炼丹临近成丹时丹炉自爆的异常",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 196,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 196,
+          "start": 196
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0146-001",
+      "resolution_refs": [],
+      "revealed_at": 196,
+      "role": "七座丹炉尽毁，王林欲向师祖请教原因",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

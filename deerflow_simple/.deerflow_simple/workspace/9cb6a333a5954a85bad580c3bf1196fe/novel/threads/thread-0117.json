@@ -1,0 +1,30 @@
+{
+  "id": "thread-0117",
+  "introduced_at": 167,
+  "kind": "story_thread",
+  "label": "妖神血海与被投入血海的亡者",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 167,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "world",
+      "chapter_ranges": [
+        {
+          "end": 167,
+          "start": 167
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0117-001",
+      "resolution_refs": [],
+      "revealed_at": 167,
+      "role": "setup",
+      "status": "open",
+      "summary": "孟驼子把古帝投入血色世界，古帝在彼认出千年前死于古神之地的同行者；沙哑声音说出「欢迎来到妖神血海」。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0167",
+  "introduced_at": 205,
+  "kind": "story_thread",
+  "label": "王林修为由结丹向元婴推进",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 205,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 205,
+          "start": 205
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0167-001",
+      "resolution_refs": [],
+      "revealed_at": 205,
+      "role": "active",
+      "status": "open",
+      "summary": "王林已结成金丹并巩固至结丹后期，但丹药耗尽、尚未大圆满。"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第647—682章：冉云星血脉家族，本家老祖孙析为三位问鼎修士之一；第647章被王林九步踏势迫退后越级赔付二十万仙玉并发封口令，第648年以次神丹试探并预设撤出条件，第650年以雷之仙界参选名额换王林相助；第676—678年祁水城分支震动、宗族派婴变后期副家主追查并逐出外姓青宜，因「王府前辈」立千丈禁令而确立敬畏，换取王林庇护一族百年平安之约；第682年为雷道子之事出动八名婴变后期修士。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1521/index.json",
+          "record_id": "char-1521"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 720,
+      "summary": "从被施压到千丈禁令：孙家的避让与依附（第642—720章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1521/stages/stage-019.md",
+        "record_id": "doc-char-1521-stage-019"
+      },
+      "title": "从被施压到千丈禁令：孙家的避让与依附"
+    }
+  ],
+  "id": "char-1521",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 647,
+  "kind": "entity_index",
+  "label": "孙家",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 720,
+  "schema_version": "2.0"
+}

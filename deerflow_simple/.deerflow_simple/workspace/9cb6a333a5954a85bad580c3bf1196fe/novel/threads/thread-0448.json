@@ -1,0 +1,30 @@
+{
+  "id": "thread-0448",
+  "introduced_at": 519,
+  "kind": "story_thread",
+  "label": "十三被夺魂幡、种妖物，王林应「战书」赴天水部落",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 519,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 519,
+          "start": 519
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0448-001",
+      "resolution_refs": [],
+      "revealed_at": 519,
+      "role": "main",
+      "status": "open",
+      "summary": "对方取走十三魂幡并留话索人前来，王林视之为战书，正赶往天水部落；对方（白衣老者）则打算若其不来便上门强抢，双方冲突待发。"
+    }
+  ]
+}

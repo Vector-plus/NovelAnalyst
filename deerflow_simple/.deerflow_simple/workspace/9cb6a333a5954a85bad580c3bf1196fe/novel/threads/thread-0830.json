@@ -1,0 +1,30 @@
+{
+  "id": "thread-0830",
+  "introduced_at": 807,
+  "kind": "story_thread",
+  "label": "王林与姚家的追杀冲突：由击杀外围受赏修士升级为灭族意图与姚家族人正面接战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 807,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 807,
+          "start": 807
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0830-001",
+      "resolution_refs": [],
+      "revealed_at": 807,
+      "role": "main",
+      "status": "escalating",
+      "summary": ""
+    }
+  ]
+}

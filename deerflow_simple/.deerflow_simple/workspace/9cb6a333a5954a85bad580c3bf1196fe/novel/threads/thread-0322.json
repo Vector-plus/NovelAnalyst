@@ -1,0 +1,30 @@
+{
+  "id": "thread-0322",
+  "introduced_at": 412,
+  "kind": "story_thread",
+  "label": "仙遗族与朱雀大陆的第二次大战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 412,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 412,
+          "start": 412
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0322-001",
+      "resolution_refs": [],
+      "revealed_at": 412,
+      "role": "本阶段主战场背景",
+      "status": "escalating",
+      "summary": ""
+    }
+  ]
+}

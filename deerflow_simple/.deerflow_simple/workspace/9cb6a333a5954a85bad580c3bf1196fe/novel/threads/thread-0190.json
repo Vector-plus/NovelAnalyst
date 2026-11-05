@@ -1,0 +1,30 @@
+{
+  "id": "thread-0190",
+  "introduced_at": 237,
+  "kind": "story_thread",
+  "label": "王林刻木雕与化神突破的关联",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 237,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 237,
+          "start": 237
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0190-001",
+      "resolution_refs": [],
+      "revealed_at": 237,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林一年来无法刻成化神期木雕，强行刻制则木雕化为飞灰；他相信能刻下化神期人物或妖兽时修为必会突破。"
+    }
+  ]
+}

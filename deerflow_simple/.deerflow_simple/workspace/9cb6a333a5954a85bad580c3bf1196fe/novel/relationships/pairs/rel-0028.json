@@ -1,0 +1,50 @@
+{
+  "id": "rel-0028",
+  "introduced_at": 175,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 175,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 175,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 175,
+          "start": 175
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "hostility"
+        }
+      ],
+      "id": "rel-0028-stage-001",
+      "revealed_at": 175,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-008"
+      },
+      "summary": "",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0418/index.json",
+      "record_id": "char-0418"
+    },
+    {
+      "path": "characters/char-0420/index.json",
+      "record_id": "char-0420"
+    }
+  ]
+}

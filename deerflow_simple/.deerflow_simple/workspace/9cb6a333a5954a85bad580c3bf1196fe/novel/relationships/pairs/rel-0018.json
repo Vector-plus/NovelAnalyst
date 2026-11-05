@@ -1,0 +1,50 @@
+{
+  "id": "rel-0018",
+  "introduced_at": 98,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 98,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 98,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 98,
+          "start": 98
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "两位分属飘渺宗与元兲派的始祖；辛海称双方之间另有约定并会遵守，上官云表面劝慰、内心冷笑。",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "other"
+        }
+      ],
+      "id": "rel-0018-stage-001",
+      "revealed_at": 98,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-005"
+      },
+      "summary": "两位分属飘渺宗与元兲派的始祖；辛海称双方之间另有约定并会遵守，上官云表面劝慰、内心冷笑。",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0229/index.json",
+      "record_id": "char-0229"
+    },
+    {
+      "path": "characters/char-0230/index.json",
+      "record_id": "char-0230"
+    }
+  ]
+}

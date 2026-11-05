@@ -1,0 +1,30 @@
+{
+  "id": "thread-0127",
+  "introduced_at": 180,
+  "kind": "story_thread",
+  "label": "拓森与十人叛局的死海之战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 180,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 180,
+          "start": 180
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0127-001",
+      "resolution_refs": [],
+      "revealed_at": 180,
+      "role": "main",
+      "status": "escalating",
+      "summary": "拓森化血雾突围击杀六人，幸存四人（含老者）惊骇；菱形双眼男子一侧与拓森持续交战。"
+    }
+  ]
+}

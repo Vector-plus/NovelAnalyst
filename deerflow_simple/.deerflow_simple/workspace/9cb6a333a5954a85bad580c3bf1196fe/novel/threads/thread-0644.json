@@ -1,0 +1,30 @@
+{
+  "id": "thread-0644",
+  "introduced_at": 657,
+  "kind": "story_thread",
+  "label": "王林云霞星金炎脉与古神遗骸之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 657,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 657,
+          "start": 657
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0644-001",
+      "resolution_refs": [],
+      "revealed_at": 657,
+      "role": "advancing",
+      "status": "active",
+      "summary": "王林破雾进入废弃的云霞星寻找金炎脉，遭遇望月凶兽后推测此星或有古神遗骸。"
+    }
+  ]
+}

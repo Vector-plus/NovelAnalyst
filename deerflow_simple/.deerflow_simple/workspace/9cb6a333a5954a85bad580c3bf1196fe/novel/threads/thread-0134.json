@@ -1,0 +1,30 @@
+{
+  "id": "thread-0134",
+  "introduced_at": 184,
+  "kind": "story_thread",
+  "label": "钱昆的毒魔宫身份与孟驼子关系被王林盯上",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 184,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "other",
+      "chapter_ranges": [
+        {
+          "end": 184,
+          "start": 184
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0134-001",
+      "resolution_refs": [],
+      "revealed_at": 184,
+      "role": "角色处境悬念",
+      "status": "open",
+      "summary": "王林推断钱昆老祖宗为孟驼子后逼视之，钱昆跪地求饶，后续如何交代未知。"
+    }
+  ]
+}

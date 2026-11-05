@@ -1,0 +1,30 @@
+{
+  "id": "thread-0729",
+  "introduced_at": 715,
+  "kind": "story_thread",
+  "label": "王林以仙液冲击问鼎后期大圆满",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 715,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_thread",
+      "chapter_ranges": [
+        {
+          "end": 715,
+          "start": 715
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0729-001",
+      "resolution_refs": [],
+      "revealed_at": 715,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "生死轮回意境于第十八年彻底大圆满，王林打算喝下仙液（仙玉或不足）以求突破问鼎后期大圆满、攀登修道第一步巅峰。"
+    }
+  ]
+}

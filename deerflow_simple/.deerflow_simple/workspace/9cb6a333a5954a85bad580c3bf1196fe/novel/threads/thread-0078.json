@@ -1,0 +1,30 @@
+{
+  "id": "thread-0078",
+  "introduced_at": 125,
+  "kind": "story_thread",
+  "label": "王林返乡路线：穿过修魔海",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 125,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0078-001",
+      "resolution_refs": [],
+      "revealed_at": 125,
+      "role": "initiator",
+      "status": "open",
+      "summary": "三块地图合并后确认火焚国属周武大陆、与赵国之间隔修魔海，王林必须穿越修魔海才能返回赵国。"
+    }
+  ]
+}

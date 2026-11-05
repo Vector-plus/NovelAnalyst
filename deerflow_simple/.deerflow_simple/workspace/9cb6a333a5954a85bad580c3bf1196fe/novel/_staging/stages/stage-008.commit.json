@@ -1,0 +1,1412 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-008"
+  },
+  "stage_range": {
+    "start": 150,
+    "end": 183
+  },
+  "as_of": 183,
+  "arc_summary": {
+    "doc_id": "doc-arc-008",
+    "front_matter": {
+      "title": "碎星乱·古神之地四关与忆之传承",
+      "chapter_ranges": [
+        {
+          "start": 150,
+          "end": 183
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@151"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@151"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@153"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@154"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@155"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@157"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@158"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-2@159"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@160"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@161"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@163"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-2@164"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@165"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@165"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-6@166"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@167"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@167"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@168"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-2@169"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@169"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@170"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@171"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@174"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@175"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@176"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@177"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@178"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@180"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@182"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@182"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@183"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-7@150"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-9@153"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-9@165"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-10@165"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-25@166"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-27@167"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-13@173"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-24@178"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-29@180"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-7@182"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-5@182"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第150—183章，自七人重铸古传送阵进入碎星乱内部起，历经土行之地（第一关）、禁山（第二关）、寂灭界（第三关）与古神体内忆之传承之地，至王林融合忆之传承、离开古神之地返回修魔内海止。碎星环分身规则在开局即被交代，构成本阶段关卡机制基础[[claim-local-7@150]]。\n\n## 起始局面\n王林随魔修队伍抵达碎星乱外，同行者为六欲魔君、古帝、端木极、汪清越、孟驼子等，彼此并非同盟，仅因古神之地目标暂时同行。七人借重铸的古传送阵进入内部，阵法随即报废，退路断绝，形成「只能向前」的封闭闯关结构[[ev-local-3@151]]。同章明确古神之地目标为婴变丹及分配规则，为后续四关冲突预设条件[[ev-local-4@151]]。王林此前已立必成结婴之志，进此地即取化地丹、立婴丹为第一层收获。\n\n## 核心目标与冲突\n- 主线目标：取得结婴/婴变所需丹药与资源，完成结婴；后期转为取得古神忆之传承并在妖神血海集团追捕下存活。\n- 资源冲突：修士之间为丹药、法宝、出口名额互相算计，孟驼子成为最直接的争夺对象，其储物袋在火灾关头被王林夺走，第一关局面由此反转[[ev-local-4@158]]。\n- 环境冲突：浮石通道九角蛇形荒兽、虚无中隐形吞噬生物、神识空白带裂缝生物、禁山自愈禁制、寂灭界游魂，逐层提高生存门槛。\n- 阵营冲突：妖神血海（拓森/天魔散人/朵目等十大战将）以「猎杀吞魂」为目标介入，把关卡竞争升级为群体追捕[[ev-local-4@168]]。\n\n## 关键转折\n1. **明确脱离魔修队伍**：取到寄生蛟蛇金色髓液后，王林正式决定不再依附六欲魔君一线[[ev-local-1@153]][[claim-local-9@153]]。\n2. **策略由独行改为借力跟随**：在土行之地锁定孟驼子在前，改为刻意跟随借力[[ev-local-1@155]]。\n3. **第一关反转**：王林夺孟驼子储物袋，收四十二道飓风入漩涡，孟驼子落入兽王之手、金指骨点眉心[[ev-local-4@158]][[ev-local-2@159]]。\n4. **第二关禁制战**：以残影之圈引爆三百丈内禁制、引出环形黑光；古帝与六欲魔君立心魔之誓约定进第三关前休战，六欲修为永久下降一境[[ev-local-2@164]]。\n5. **获古神涂司分身认可**：被授予「第四位大领悟者」身份与禁幡制作玉简，并得知墨间石与九十九万余禁制的长线目标[[ev-local-1@165]][[claim-local-9@165]][[claim-local-10@165]]。\n6. **吞魂身份暴露与能力质变**：第三关吞游魂使极境神识增强，首次以吞魂身份压制化神级人物[[ev-local-6@166]]；吞魂身份被妖神血海一方获知后触发群体追捕[[ev-local-4@168]]，随后凝结魂核成为真正吞魂[[ev-local-4@176]]。\n7. **第三关崩塌与古帝身死**：妖魔化孟驼子自称妖神涂司现身、开启妖神血海，古帝被投入血海、宝塔碎、储物袋归王林[[ev-local-1@167]][[ev-local-3@167]][[claim-local-27@167]]。\n8. **毁阵夺时**：摧毁第四关传送阵，为自己进入古神体内争取三个时辰窗口[[ev-local-2@169]]。\n9. **获忆之传承并定形肉身**：得古神诀前两层口诀与部分忆之传承，最终以九十四颗冰晶完成融合、古神身体重组定型，旧肉身金丹与新肉身合流[[ev-local-3@170]][[ev-local-1@177]][[ev-local-1@182]]。\n10. **拓森破封未竟**：拓森破除分识封印、召本命之器灭星矛，十人围攻中六人身死，战局与传承归属仍未定[[ev-local-1@178]][[claim-local-24@178]]。\n\n## 阶段结果\n- 王林以结丹后期修为、极境神识与凝成的魂核离开古神之地，神识/身体二元修为结构首次成形；极境神识不可被碎星环复制，为其能力上限提供关键证据[[ev-local-1@183]]。\n- 获得：忆之传承（含古神炼器、炼丹画面与残缺记忆）、古神诀前两层、第四位大领悟者身份与禁幡制作玉简、三块墨间石、古帝储物袋、八颗无灵力波动的金色颗粒、四十二道飓风。\n- 势力层面：古帝身死、孟驼子化为妖神涂司、六欲魔君被献祭取脑晶、朵目等六人死于死海；汪清越、端木极被妖魔之手抓走；天魔散人私吞三分之一忆之传承[[claim-local-24@178]]。\n- 第183章出口开启，王林离开忆之传承之地回到修魔内海，本阶段收束[[ev-local-4@182]][[ev-local-1@183]]。\n\n## 下一阶段承接与未决问题\n- 拓森未死且「下一个千年内」仍有夺取传承的机会，构成跨阶段长线威胁[[claim-local-29@180]]。\n- 忆之传承缺失墨流化神术与涂司死因的记忆缺口；冰晶疑多于九十四颗且另有存放处，均未解[[claim-local-5@182]][[claim-local-7@182]]。\n- 力之传承数万年前已被红发男子所得，其与涂司、拓森、孟驼子的身份层叠仍是最大悬案[[claim-local-13@173]][[claim-local-27@167]]。\n- 禁幡需刻九十九万九千九百九十九个禁制，用途未明，属长线伏笔[[claim-local-10@165]]。\n- 叶下遗留线索：黑塔与石碑留字者同出一人而身份未明；火焚盟储物袋神识无反应；云妃（墨云）与王林关系刚起；钱昆违约与玉简流向待续。"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-008",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "碎星乱·古神之地四关与忆之传承阶段",
+          "chapter_ranges": [
+            {
+              "start": 150,
+              "end": 183
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-5@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-7@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-23@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@152"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-14@152"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@153"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-9@153"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-7@153"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@154"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@154"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-12@154"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-08@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-28@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@156"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@156"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@157"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@157"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-16@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@159"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@159"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@160"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-21@160"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@161"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@161"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@162"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@163"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@163"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@164"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-46@164"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@164"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-9@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-10@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-6@166"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@166"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@167"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-5@167"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@168"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@169"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@169"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@170"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@175"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-44@175"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-41@175"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@176"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@176"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@177"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@178"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@179"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-6@179"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@180"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@180"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-29@180"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@181"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-7@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-5@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@183"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@183"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-32@183"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第150—151章，王林随魔修队伍抵达碎星乱外，同行者包括六欲魔君、古帝、端木极、汪清越、孟驼子。七人借重铸的古传送阵进入内部，阵法报废、退路断绝，闯关成为单向行程[[ev-local-3@151]]。开局即知碎星环分身规则与古神尸身传说，构成此后所有关卡的机制与目标前提[[claim-local-7@151]][[ev-local-4@151]]。\n\n## 目标与动机\n- **结婴是第一动机**：化地丹、立婴丹到手后，转而以九角蛇形荒兽的金色髓液提高结婴几率，甚至亲身入蛇体取髓[[ev-local-5@151]][[ev-local-2@152]][[claim-local-14@152]]。\n- **资源与材料**：极品灵石（光圈凹点为通行条件）、墨间石与禁幡制作资格[[ev-local-2@154]][[claim-local-7@182]]。\n- **自保与脱身**：第153章明确决定脱离魔修队伍，不再把六欲魔君等人当依靠[[claim-local-9@153]]。\n- **长线目标**：阻止拓森脱困、夺取忆之传承，并在追捕中活着离开古神之地。\n\n## 关键选择与经历\n### 一、入口与浮石通道（第151—154章）\n化地丹/立婴丹到手后进入浮石通道，正面遭遇九角蛇形荒兽（跨章未完）[[ev-local-5@151]]；王林入蛇体取金色髓液，巨蛇坠入更下层虚无，此役同时确立「寄生蛟蛇体内九条蛇、最里为本体」的设定[[ev-local-1@153]][[claim-local-7@153]]。第154章以李慕婉所赠防御阵玉简穿越空白地带，为该阶段首批险死场景，赠物在此兑现保命作用[[ev-local-1@154]][[claim-local-12@154]]。\n\n### 二、土行之地（第一关，第155—159章）\n确认五行之地结构[[claim-local-08@155]]，选定土行之地进入，并把行动策略由独行改为刻意跟随前方孟驼子借力[[ev-local-1@155]][[ev-local-3@155]][[claim-local-28@155]]。以极境神识培育并收服第二魔头（土行小兽神识），用其压制飓风小兽群[[ev-local-2@156]][[ev-local-3@156]][[ev-local-1@157]][[ev-local-3@157]]。第158章夺走孟驼子储物袋，第一关局面反转（孟驼子以离天蟾蜍元丹与上古魔功短时升至化神期圆满、且已被巨魔族通缉）[[ev-local-4@158]][[claim-local-16@158]]。第159章携四十余道飓风过第一关入漩涡，并把第二魔头体内施令者神识分离收入魂旗，兼作制作更多魔头与防脱离掌控两手[[ev-local-2@159]][[claim-local-17@159]]。\n\n### 三、不归路与禁山（第二关，第160—164章）\n以毒王鼎熔炼墨绿毒飞剑，战力提升至可威胁元婴期[[ev-local-4@160]]；黑石桥为进入不归路的必经关口，桥面漩涡吞噬试桥小兽[[ev-local-2@159]]。第161章以不回头、不用神识回望的方式独自走出幻境桥，判定不归路并非第二关，禁山才是第二关[[ev-local-1@161]][[claim-local-17@161]]。十年破禁兼沿途布禁，修为至结丹中期并练成神识之眼，古帝亦承认其禁制自成「快、诡」体系[[ev-local-4@162]][[ev-local-1@163]][[ev-local-4@163]]。第164章以残影之圈引爆三百丈内禁制、引出环形黑光，并取得八颗无灵力波动的金色颗粒[[ev-local-2@164]][[claim-local-46@164]]；同章古帝与六欲魔君立心魔之誓约定进第三关前休战[[claim-local-24@164]]。\n\n### 四、寂灭界（第三关）与吞魂身份（第165—169章）\n古神涂司分身授予「第四位大领悟者」身份与禁幡制作玉简，并告知墨间石产于星空、古神体内识海有数颗，禁幡需刻九十九万九千九百九十九个禁制[[ev-local-1@165]][[claim-local-9@165]][[claim-local-10@165]]。入第三关后极境神识吞噬游魂即可增强神识，成为新的变强路径[[ev-local-3@165]]；进而掌控游魂网络、锁定第四关入口位置与各方行踪，并首次以吞魂身份压制化神级人物[[ev-local-2@166]][[ev-local-6@166]]。妖魔化孟驼子自称妖神涂司现身、开启妖神血海后，王林果断放弃游魂优势、取回肉身转向第四关[[ev-local-1@167]][[ev-local-5@167]]。吞魂身份被血海一方获知，触发群体追捕[[ev-local-4@168]]；王林摧毁第四关传送阵，为自己进入古神体内争取三个时辰窗口，并抵达气海之外[[ev-local-2@169]][[ev-local-4@169]]。\n\n### 五、古神体内与忆之传承（第170—182章）\n在古神体内确立天逆空间可用、目标指向紫府识海[[ev-local-1@170]]；获得部分忆之传承与古神诀前两层口诀，并借传承之术在体内自由穿梭、甩开魔化修士[[ev-local-1@173]][[ev-local-4@173]]。第174章修为达结丹后期且结婴失败，这一结果直接决定其转向传承路线[[claim-local-17@174]]。随后推断红发男子为魔修操控者，与十人达成交易（押十件本命法宝、报酬为混元驱兽圈、以自身作引子触发神识死海、自估七成把握）[[ev-local-3@174]][[ev-local-3@175]][[claim-local-44@175]][[claim-local-41@175]]。第176章与拓森正面接触并凝结魂核，成为真正吞魂[[ev-local-4@176]]；破封战中与吞魂组合吞噬分识，五彩光幕碎裂[[ev-local-1@177]]。拓森破分识封印、召本命之器灭星矛，战局反转[[ev-local-1@178]]。第179章王林主动脱离十人封印之战，将十人本命法器与极品灵石分散三袋以防备交易方，随即以神识之体进入万丈生物鳞片[[ev-local-4@179]][[claim-local-6@179]]。第180章被菱形双眼男子以分身祭献送入「忆之传承，转」之地，朵目等六人死于死海[[ev-local-2@180]][[ev-local-4@180]]；关键规则确立：真正存放忆之传承之地任何肉身无法进入，唯神识可入[[claim-local-29@180]]。第181—182章以九十四颗冰晶完成吸收、古神身体重组定型，旧肉身金丹与新肉身合流、旧储物袋回收，并取得三块墨间石[[ev-local-1@181]][[ev-local-1@182]][[ev-local-3@182]][[claim-local-7@182]]。\n\n## 阶段终点\n第183章离开忆之传承之地回到修魔内海，古神之地出口开启、本阶段收束[[ev-local-4@182]][[ev-local-1@183]]。此时的王林：结丹后期修为、魂核成形、忆之传承与古神诀前两层在身、禁幡制作资格与三块墨间石在手、极境神识不受碎星环复制影响[[ev-local-3@183]]。同时新增未决线：云妃（墨云）关系初起、钱昆违约与玉简流向待续[[claim-local-32@183]]；火焚盟储物袋神识无反应仍未有解释[[claim-local-23@151]]。"
+      },
+      "current_summary_update": "碎星乱·古神之地阶段（第150—183章）：第150—151章与六欲魔君、古帝、端木极、汪清越、孟驼子等七人重铸古传送阵入碎星乱，退路断绝；取化地丹、立婴丹。第152—153章入九角蛇形荒兽体内取金色髓液，明确决定脱离魔修队伍。第154章以李慕婉所赠防御阵玉简穿越空白地带险死。第155—159章入土行之地：改独行为借力跟随，培育收服第二魔头压制飓风小兽群，夺孟驼子储物袋反转第一关，携四十二道飓风过第一关，并分离施令者神识以防第二魔头脱控。第160—164章炼成墨绿毒飞剑、独走不归路幻境桥、十年破禁至结丹中期并成神识之眼，以残影之圈引爆三百丈禁制，得八颗金色颗粒；古帝与六欲立心魔之誓休战。第165—169章获古神涂司分身授予「第四位大领悟者」身份与禁幡制作玉简，入第三关以极境神识吞游魂增强、掌控游魂网络并首次压制化神级；妖神血海开启后弃游魂优势取回肉身，摧毁第四关传送阵争三个时辰，进入古神气海之外。第170—178章获古神诀前两层与部分忆之传承，结丹后期结婴失败；判定拓森为魔修操控者，与十人交易（押本命法宝、混元驱兽圈为报酬）并以自身为引子破封；凝结魂核成真正吞魂，破封战中拓森召灭星矛，战局反转。第179—182章脱离十人战局、分散存放十人法器自保，以神识入万丈生物鳞片，经「忆之传承，转」入内，以九十四颗冰晶完成融合、古神身体重组定型，旧金丹与旧储物袋合流，得三块墨间石。第183章离开古神之地返回修魔内海；极境神识不可被碎星环复制，云妃（墨云）关系初起、钱昆违约未决。",
+      "identity_notes_appends": [
+        {
+          "note_kind": "title",
+          "statement": "获古神涂司分身授予「第四位大领悟者」身份，并获禁幡制作玉简（禁幡需刻九十九万九千九百九十九个禁制）。",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-10@165"
+            }
+          ]
+        },
+        {
+          "note_kind": "ability_shift",
+          "statement": "凝结魂核，成为「真正的吞魂」；极境神识可吞游魂增强且不可被碎星环复制。",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@176"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@183"
+            }
+          ]
+        },
+        {
+          "note_kind": "body_change",
+          "statement": "融合九十四颗冰晶完成忆之传承，古神身体重组定型，旧肉身金丹与新肉身合流（神识/身体二元修为结构）。",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@181"
+            }
+          ]
+        },
+        {
+          "note_kind": "cultivation",
+          "statement": "本阶段由结丹期推进至结丹中期（破禁十年，成神识之眼），后达结丹后期且结婴失败。",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@162"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@174"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "本阶段势力格局确有剧变（古帝身死、孟驼子化妖神涂司、六欲魔君被献祭、朵目等六人死于死海、汪清越与端木极被妖魔之手抓走），但输入实体清单中势力候选/确认实体为空，无任何 faction_ref 可用；为避免凭空建档，格局变化改记于 arc 摘要与 warnings，待势力实体建档后回填 faction_stage 与格局 Markdown。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-mengtuozi",
+              "label": "孟驼子"
+            }
+          ],
+          "introduced_at": 152
+        }
+      },
+      "stage_doc_id": "doc-rel-char0001-mengtuozi-stage-001",
+      "chapter_ranges": [
+        {
+          "start": 152,
+          "end": 167
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林—孟驼子：第一关掠夺与身份反转阶段",
+          "chapter_ranges": [
+            {
+              "start": 152,
+              "end": 167
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-mengtuozi",
+              "label": "孟驼子"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-13@152"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@156"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@157"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-16@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@159"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@167"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-27@167"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n第152—167章。二人在浮石通道一段首次同场交错，此后在土行之地（第一关）正面争夺，至孟驼子被兽王金指骨点眉心、再以妖魔化「妖神涂司」形态回归为一段落[[claim-local-13@152]][[ev-local-3@159]][[ev-local-1@167]]。\n\n## 关系起点\n非私怨，而是同一封闭关卡内的资源竞争：王林视孟驼子的丹药、法宝与储物袋为最可及的补足品；孟驼子则视王林为可吞并的晚辈修士。\n\n## 本阶段变化\n1. 王林在土行之地锁定孟驼子在前，刻意跟随借力，使其成为「挡灾者」[[ev-local-3@155]][[ev-local-4@155]]。\n2. 孟驼子以赤角蟒替身硬抗兽群、放出天残毒，被追至黑塔困守[[ev-local-4@156]][[ev-local-3@157]]。\n3. 第158章王林夺其储物袋，第一关局面反转；孟驼子以离天蟾蜍元丹与上古魔功短时升至化神期圆满，且其服食祖魔之心、被巨魔族通缉的身份随之暴露[[ev-local-4@158]][[ev-local-2@158]][[claim-local-16@158]]。\n4. 第159章孟驼子落入兽王之手、金指骨点眉心，肉身线暂断[[ev-local-3@159]]。\n5. 第167章妖魔化再现并自称妖神涂司，与「孟驼子」身份说法冲突，敌对关系由此升级为难以界定的对手[[ev-local-1@167]][[claim-local-27@167]]。\n\n## 本阶段终点\n王林一方取得储物袋与战场优势；孟驼子肉身被兽王处置、神识/妖魔身份存疑，二者关系在阶段末处于「对手未灭、身份未清」的悬置状态。\n\n## 未决问题\n妖魔化孟驼子与妖神涂司、拓森、天魔散人之间的身份层叠尚无定论，属跨阶段长线悬案。"
+      },
+      "facets": [
+        {
+          "dimension": "敌意与资源争夺",
+          "direction": "symmetric",
+          "attitude_from": "视孟驼子为可掠夺目标，跟随借力并夺其储物袋",
+          "attitude_to": "视王林为后辈修士兼掠食者，欲击杀",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@155"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-16@158"
+            }
+          ]
+        },
+        {
+          "dimension": "强弱关系翻转",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "local_id": "char-local-mengtuozi",
+            "label": "孟驼子"
+          },
+          "attitude_from": "由被压制转为夺其储物袋、逼其被兽王擒获",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@158"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@159"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@158"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@159"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@167"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-liuyumojun",
+              "label": "六欲魔君"
+            }
+          ],
+          "introduced_at": 150
+        }
+      },
+      "stage_doc_id": "doc-rel-char0001-liuyumojun-stage-001",
+      "chapter_ranges": [
+        {
+          "start": 150,
+          "end": 172
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林—六欲魔君：护身承诺到势尽被献阶段",
+          "chapter_ranges": [
+            {
+              "start": 150,
+              "end": 172
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-liuyumojun",
+              "label": "六欲魔君"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@150"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-14@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-5@152"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-18@154"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@164"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-40@164"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@170"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-25@171"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-28@170"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n第150—172章。自入口处六欲魔君对王林作出护身承诺，经第二关心魔之誓休战，到古神体内被天魔散人献祭取脑晶为止[[ev-local-4@150]][[claim-local-24@164]][[ev-local-3@170]]。\n\n## 关系起点\n六欲魔君在王林与古帝冲突时出面，承诺护其周全，构成王林在此地的第一层「名义保护」[[ev-local-4@150]]。该保护带明显功利性：他同时以年轻人尸体作为消耗品推进关卡[[claim-local-5@152]]。\n\n## 本阶段变化\n1. 情报依赖：六欲魔君关于古神尸身、神识、法宝、丹药的完整说明，以及通道通行方法，成为王林前期判断的基准（均为其转述）[[claim-local-14@151]][[claim-local-18@154]]。\n2. 契约约束：第164章与古帝立心魔之誓，约定进第三关前休战，连带约束王林所处的队伍关系[[claim-local-24@164]]。\n3. 强弱反转：强冲漩涡后六欲修为永久下降一个境界，由化神中期降至化神初期，保护能力自我削弱[[claim-local-40@164]]。\n4. 收束：古神体内他脱出失败被卷入，反被其师天魔散人操纵、献祭取脑晶；其师四千年三入古神之地的布局被揭示[[ev-local-3@170]][[claim-local-25@171]][[claim-local-28@170]]。\n\n## 本阶段终点\n六欲魔君身死，其「护身承诺」未兑现为实质保护，王林则以独立路线完成本阶段。\n\n## 未决问题\n六欲魔君所化冰晶被王林夺取，冰晶与脑晶的后续用途尚未交代。"
+      },
+      "facets": [
+        {
+          "dimension": "名义护身承诺",
+          "direction": "directed",
+          "from_ref": {
+            "local_id": "char-local-liuyumojun",
+            "label": "六欲魔君"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude_from": "公开承诺护其周全，实际以他人为消耗品",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@150"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-5@152"
+            }
+          ]
+        },
+        {
+          "dimension": "情报依赖与警惕",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "local_id": "char-local-liuyumojun",
+            "label": "六欲魔君"
+          },
+          "attitude_from": "取其情报为判断基准，但明确决定脱离其队伍",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-14@151"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-9@153"
+            }
+          ]
+        },
+        {
+          "dimension": "契约性休战",
+          "direction": "symmetric",
+          "attitude_from": "受心魔之誓约束，进第三关前不与古帝一方动手",
+          "attitude_to": "受心魔之誓约束，进第三关前不与古帝一方动手",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@164"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "claim-local-40@164"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@170"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-tuosen",
+              "label": "拓森（红发男子）"
+            }
+          ],
+          "introduced_at": 168
+        }
+      },
+      "stage_doc_id": "doc-rel-char0001-tuosen-stage-001",
+      "chapter_ranges": [
+        {
+          "start": 168,
+          "end": 183
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林—拓森：猎杀吞魂与破封对抗阶段",
+          "chapter_ranges": [
+            {
+              "start": 168,
+              "end": 183
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-tuosen",
+              "label": "拓森（红发男子）"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@168"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@169"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@168"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-25@168"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@175"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-41@175"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@176"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@177"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@178"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@178"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-29@180"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-29@178"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n第168—183章。自王林吞魂身份被血海一方获知引发群体追捕起，至忆之传承融合完成、拓森破封未竟止[[ev-local-4@168]][[claim-local-29@180]]。\n\n## 关系起点\n非私交，而是结构对立：拓森一方的使者神念因「吞魂」存在无法亲自出手，只能阻拦一次，因此必须先除掉王林[[claim-local-17@168]]。其红发自述字迹中已含被封印数万年、第四关为传送阵等信息[[claim-local-25@168]]。\n\n## 本阶段变化\n1. 王林推断红发男子即魔修操控者、目的是脱困血海[[ev-local-3@174]]。\n2. 第175章双方进入交易关系：王林作引子触发神识死海、自估七成把握，条件是混元驱兽圈与十人本命法宝抵押[[ev-local-3@175]][[claim-local-41@175]]。\n3. 第176—177章正面对抗与破封启动，拓森分识被吞魂组合吞噬[[ev-local-3@176]][[ev-local-1@177]]。\n4. 第178章拓森破除分识封印并召出本命之器灭星矛，局势反转；死海守护巨兽披露其来历为涂司修炼墨流分神术时分离出的魔念[[ev-local-1@178]][[claim-local-24@178]]。\n5. 第180章战局中拓森化血雾突围，十人围攻阵营六人身死，而王林已转入鳞片内世界[[claim-local-29@180]]。\n\n## 本阶段终点\n王林取得忆之传承，拓森未能阻止但其威胁未消；双方实力差与情报差仍是关键变量。\n\n## 未决问题\n菱形双眼男子给出时间尺度：下一个千年内王林若未彻底融合成功，拓森仍有「机会」；拓森自称已得力之传承、需完整传承方可彻底掌控[[claim-local-27@178]][[claim-local-29@180]]。"
+      },
+      "facets": [
+        {
+          "dimension": "猎杀意图",
+          "direction": "directed",
+          "from_ref": {
+            "local_id": "char-local-tuosen",
+            "label": "拓森（红发男子）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude_from": "公开追杀吞魂，要求「要活的」，分开寻找",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@169"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-17@168"
+            }
+          ]
+        },
+        {
+          "dimension": "推断与反制",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "local_id": "char-local-tuosen",
+            "label": "拓森（红发男子）"
+          },
+          "attitude_from": "判明其为操控者后以破封交易为饵、以魂核与吞魂手段对抗",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@176"
+            }
+          ]
+        },
+        {
+          "dimension": "实力对位",
+          "direction": "directed",
+          "from_ref": {
+            "local_id": "char-local-tuosen",
+            "label": "拓森（红发男子）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude_from": "破封后召灭星矛，实力仍显著高于王林，但因封印与传承条件受限",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@178"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-29@178"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@175"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@178"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@180"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-duomu",
+              "label": "朵目"
+            }
+          ],
+          "introduced_at": 172
+        }
+      },
+      "stage_doc_id": "doc-rel-char0001-duomu-stage-001",
+      "chapter_ranges": [
+        {
+          "start": 172,
+          "end": 180
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林—朵目：追捕、带离与死海落幕阶段",
+          "chapter_ranges": [
+            {
+              "start": 172,
+              "end": 180
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-duomu",
+              "label": "朵目"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@172"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-4@172"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-3@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@174"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@178"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-6@179"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-2@180"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n第172—180章。朵目自登场捏碎六欲魔君所化冰晶、带天魔散人同去追捕吞魂起，至死海围攻中身死止[[ev-local-1@172]][[ev-local-2@180]]。\n\n## 关系起点\n单向的追捕与被追捕：朵目为血海战将/上古修士一方，受命猎杀吞魂，并在第174章当面带走王林[[claim-local-4@172]][[ev-local-3@174]]。\n\n## 本阶段变化\n1. 层级展现：朵目对孟驼子有惩戒权、众魔修听命，王林由此看清血海一方的内部结构[[claim-local-24@174]]。\n2. 王林反制：把十人本命法器与极品灵石分散三袋，对交易方主动设防，其中即含朵目一系[[claim-local-6@179]]。\n3. 收束：第180章拓森化血雾突围，十人围攻阵营六人身死，朵目在其中[[ev-local-2@180]]。\n\n## 本阶段终点\n朵目身死，追捕关系随之终结；但王林手中仍持有十人本命法宝抵押，形成可回收的后续线。\n\n## 未决问题\n十人本命法器可远程动用、随储物袋闪烁显露毁灭气息，其归属与反噬风险未交代[[ev-local-1@178]]。"
+      },
+      "facets": [
+        {
+          "dimension": "追捕与被带离",
+          "direction": "directed",
+          "from_ref": {
+            "local_id": "char-local-duomu",
+            "label": "朵目"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude_from": "奉血海一方之命猎杀吞魂，可直接带走王林并惩戒下属",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@172"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-24@174"
+            }
+          ]
+        },
+        {
+          "dimension": "防备与抵押",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "local_id": "char-local-duomu",
+            "label": "朵目"
+          },
+          "attitude_from": "分散存放十人本命法器以防交易方翻脸",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-6@179"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-3@174"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-2@180"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-tusi",
+              "label": "古神涂司"
+            }
+          ],
+          "introduced_at": 165
+        }
+      },
+      "stage_doc_id": "doc-rel-char0001-tusi-stage-001",
+      "chapter_ranges": [
+        {
+          "start": 165,
+          "end": 183
+        }
+      ],
+      "as_of": 183,
+      "safe_through": 183,
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林—涂司：大领悟者身份与忆之传承阶段",
+          "chapter_ranges": [
+            {
+              "start": 165,
+              "end": 183
+            }
+          ],
+          "as_of": 183,
+          "safe_through": 183,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "local_id": "char-local-tusi",
+              "label": "古神涂司"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-9@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-13@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@180"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@181"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-7@182"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "claim-local-5@182"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段范围\n第165—183章。涂司分身授予王林「第四位大领悟者」身份起，至忆之传承融合完成、王林离开古神之地止，为单向的传承关系[[ev-local-1@165]][[ev-local-1@182]]。\n\n## 关系起点\n非交谊，而是遗迹机制意义上的认可：涂司分身给出身份与禁幡制作玉简，并交代墨间石产于星空、古神体内识海有数颗、每位领悟者可得一块[[ev-local-1@165]][[claim-local-9@165]]。\n\n## 本阶段变化\n1. 第173章获得部分忆之传承与古神诀前两层口诀，可借传承之术在古神体内自由穿梭[[ev-local-1@173]][[ev-local-4@173]]。\n2. 传承信息揭示：力之传承数万年前已被他人获得，涂司神识因此破灭[[claim-local-13@173]]。\n3. 第180章经菱形双眼男子分身祭献完成「忆之传承，转」，唯神识可入[[ev-local-4@180]]。\n4. 第181—182章以九十四颗冰晶完成融合、古神身体重组定型，取得三块墨间石[[ev-local-1@181]][[ev-local-1@182]][[claim-local-7@182]]。\n\n## 本阶段终点\n传承关系成立并落地为能力与肉身改造，但古神记忆存在缺口（墨流化神术与涂司死因）[[claim-local-5@182]]。\n\n## 未决问题\n冰晶数量疑多于九十四颗且另有存放处；涂司之力之传承被红发男子所得的原委仍未闭合。"
+      },
+      "facets": [
+        {
+          "dimension": "传承授予",
+          "direction": "directed",
+          "from_ref": {
+            "local_id": "char-local-tusi",
+            "label": "古神涂司"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude_from": "以分身授予「第四位大领悟者」身份、禁幡玉简与忆之传承",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@165"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@182"
+            }
+          ]
+        },
+        {
+          "dimension": "接受与融合",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "local_id": "char-local-tusi",
+            "label": "古神涂司"
+          },
+          "attitude_from": "主动接受传承、以冰晶融合并借其术穿梭古神体内",
+          "attitude_to": "",
+          "basis_refs": [
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-4@173"
+            },
+            {
+              "path": "events/block-stage-008.json",
+              "record_id": "ev-local-1@181"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@165"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-4@180"
+        },
+        {
+          "path": "events/block-stage-008.json",
+          "record_id": "ev-local-1@182"
+        }
+      ]
+    }
+  ],
+  "emotional_stages": [],
+  "thread_updates": [],
+  "warnings": [
+    "输入「本阶段涉及实体清单」中人物候选/确认实体、势力候选/确认实体、已有关系对、已有感情线、已有故事线均为空；本阶段实际活跃的关键人物（端木极、六欲魔君、古帝、孟驼子、天魔散人/拓森、朵目、厉鹏、汪清越、菱形双眼男子、许立国、李慕婉、云妃/墨云、钱昆）除 char-0001 外均无已建档 ref。关系快照中的对端一律以 local_id 占位，需上游建档后回填为正式 ref，并核对是否与本阶段之前的既有关系重复。",
+    "stage_buffer 中 local_id 在多个章节重复出现（如 ev-local-1、ev-local-4、claim-local-17 等在不同章各指不同事件/陈述）。本产出统一规范化为 `<local_id>@ch<chapter_order>` 形式，并挂于 events/block-stage-008.json，供下游按 chapter_order 反查；若上游有正式 record_id，请以正式 id 替换。",
+    "王林—李慕婉关系在本阶段有两次关键兑现（第154章防御阵玉简穿越空白地带保命、第161章玉简再次用于关卡），但输入既无感情线实体也无直接同场互动场景，依据不足以支撑 assessment，故未产出 emotional_stage。若前阶段已存在该感情线，请在其 stage 序列上补记本阶段道具作用，而非新建。",
+    "王林—端木极在本阶段有明确互动（第150章以「王林会死咒术」为由说服古帝收手；第166章被困外围；第167章被妖魔之手抓走），但端木极无建档 ref，暂未产出关系快照，仅记于 arc 摘要。",
+    "faction_landscape 置为 produce=false：本阶段势力格局剧变（古帝死、孟驼子化妖神涂司、六欲魔君被献祭、朵目等六人死于死海、汪清越与端木极被擒、天魔散人私吞三分之一忆之传承），但无任何 faction_ref，避免凭空建档。",
+    "第150章 ev-local-3/ev-local-4 与第151章 ev-local-3/ev-local-4 编号冲突（前者为古帝动手与六欲护身承诺，后者为入碎星乱与目标分配），本产出按章节内语义分别记为 @150 / @151，请下游以 chapter_order 为准消歧。"
+  ],
+  "notes_for_audit": [
+    "本阶段王林的核心经历阈值判定：出现在 30+ 关键事件中，且有身份（第四位大领悟者）、能力（吞魂魂核、极境神识吞游魂、神识之眼、古神诀前两层）与身体（古神身体重组）三重变化，故产出 character_stage。",
+    "未产出 stage 的候选：端木极、六欲魔君、古帝、孟驼子、天魔散人、朵目、汪清越、厉鹏、菱形双眼男子、许立国、李慕婉、云妃（墨云）、钱昆、裂痕生物——均因缺少实体 ref 未建档；其中端木极被 buffer 明确标注「需建档」。",
+    "王林修为线核对：第162章结丹中期（神识之眼）→第174章结丹后期、结婴失败→第182章古神身体重组定型（神识/身体二元修为）。与第149章前「必成结婴」之志形成对照，本阶段结果为「结婴失败但以忆之传承换得另一条强化路径」。",
+    "关卡结构核对：第一关=土行之地（黑塔、兽王、飓风小兽群、漩涡入口）；不归路（幻境桥）被王林判断为非关卡；第二关=禁山（自愈禁制、禁飞行）；第三关=寂灭界（游魂、吞魂增强）；第四关=传送阵（被王林摧毁）；真正的忆之传承之地唯神识可入。",
+    "建议后续 stage 追踪的长线线索：①拓森未死、千年内仍有夺传承机会；②力之传承被红发男子所得的原委与涂司死因缺口；③禁幡九十九万九千九百九十九禁制的用途；④十人本命法器抵押的回收与反噬；⑤火焚盟储物袋神识无反应；⑥黑塔与石碑留字者身份；⑦云妃（墨云）与王林关系起点；⑧钱昆违约与玉简流向。",
+    "关系快照 facet 的非对称处理：凡仅一方有表达者（如六欲魔君的护身承诺、拓森与朵目的追捕意图），对方 attitude 留空，未做对称填充。"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0373",
+  "introduced_at": 459,
+  "kind": "story_thread",
+  "label": "王林与司徒南分离，互留投奔之约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 459,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 459,
+          "start": 459
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0373-001",
+      "resolution_refs": [],
+      "revealed_at": 459,
+      "role": "protagonist",
+      "status": "resolved_pending_reunion",
+      "summary": "二人在星云前各奔东西，司徒南前往与天运星相距极远之地，王林赴天运星；双方互许落难时可投奔对方，并提及王林日后可在天运宗立宗派。"
+    }
+  ]
+}

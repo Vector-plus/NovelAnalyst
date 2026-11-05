@@ -1,0 +1,30 @@
+{
+  "id": "thread-0215",
+  "introduced_at": 288,
+  "kind": "story_thread",
+  "label": "叱虎求助探索仙玉棺秘境",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 288,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 288,
+          "start": 288
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0215-001",
+      "resolution_refs": [],
+      "revealed_at": 288,
+      "role": "setup",
+      "status": "open",
+      "summary": "叱虎以巨魔族一代天骄所留玉简为据，请王林相助前往仙兽守护、禁制重重的仙玉棺之地，并称有人不会发现此地的原因不便说出。"
+    }
+  ]
+}

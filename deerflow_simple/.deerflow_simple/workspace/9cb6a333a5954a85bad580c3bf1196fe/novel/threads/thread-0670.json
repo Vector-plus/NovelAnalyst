@@ -1,0 +1,30 @@
+{
+  "id": "thread-0670",
+  "introduced_at": 670,
+  "kind": "story_thread",
+  "label": "贪狼寻找王林（烙印制约）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 670,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 670,
+          "start": 670
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0670-001",
+      "resolution_refs": [],
+      "revealed_at": 670,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "贪狼在罗天星域游荡寻找王林，因身上烙印过多而恐惧烙印发作致死。"
+    }
+  ]
+}

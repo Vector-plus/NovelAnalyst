@@ -1,0 +1,30 @@
+{
+  "id": "thread-0741",
+  "introduced_at": 726,
+  "kind": "story_thread",
+  "label": "李元所指的雷之仙界隐秘宝地",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 726,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 726,
+          "start": 726
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0741-001",
+      "resolution_refs": [],
+      "revealed_at": 726,
+      "role": "setup",
+      "status": "open",
+      "summary": "李元以知晓一处极隐秘、有禁制存在、想必有仙宝之物的地点为条件，求王林平息此事；王林是否接受尚未给出结果。"
+    }
+  ]
+}

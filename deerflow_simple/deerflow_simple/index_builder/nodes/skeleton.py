@@ -484,19 +484,25 @@ def _init_skeleton(
 
     _write_json(root / "navigation/chapters/index.json", _index_file(novel_id, "idx-chapters", "章节导航", []))
 
-    _write_json(root / "navigation/stage-plan.json", {
-        "schema_version": SCHEMA_VERSION,
-        "novel_id": novel_id,
-        "id": "stage-plan",
-        "kind": "stage_plan",
-        "revision": 1,
-        "safe_through": 0,
-        "source_version": source_version,
-        "status": "draft",
-        "scanned_ranges": [],
-        "stages": [],
-        "character_candidates": [],
-    })
+    # stage-plan：prescan 会覆盖它产出阶段骨架，review_plan 再标 confirmed。
+    # 重跑 skeleton 时若已存在（可能已被 prescan 填 stages / review_plan 标 confirmed），
+    # 必须保留，否则会把 confirmed 骨架重置为 draft + 空 stages，破坏 deepread 依赖
+    # （见 AGENT.md D17「skeleton 非幂等 → stage-plan/id-state 被重置」）。
+    stage_plan_path = root / "navigation" / "stage-plan.json"
+    if not stage_plan_path.exists():
+        _write_json(stage_plan_path, {
+            "schema_version": SCHEMA_VERSION,
+            "novel_id": novel_id,
+            "id": "stage-plan",
+            "kind": "stage_plan",
+            "revision": 1,
+            "safe_through": 0,
+            "source_version": source_version,
+            "status": "draft",
+            "scanned_ranges": [],
+            "stages": [],
+            "character_candidates": [],
+        })
 
     source_index = root / "source/index.json"
     if not source_index.exists():
@@ -505,19 +511,24 @@ def _init_skeleton(
     for idx_id, title_ in _THEME_INDEX_TITLES.items():
         _write_json(root / _THEME_REL[idx_id], _index_file(novel_id, idx_id, title_, []))
 
-    _write_json(root / "ledger/id-state.json", {
-        "schema_version": SCHEMA_VERSION,
-        "novel_id": novel_id,
-        "id": "id-state",
-        "kind": "id_state",
-        "revision": 1,
-        "safe_through": 0,
-        "high_watermarks": {
-            "char": 0, "fac": 0, "setting": 0, "ev": 0, "rel": 0,
-            "emo": 0, "thread": 0, "claim": 0, "update": 0, "issue": 0,
-        },
-        "pending_reservation": None,
-    })
+    # id-state：IdAllocator 会随 deepread 分配推进高水位。重跑 skeleton 时若已存在，
+    # 必须保留，否则高水位归零，后续 deepread 会重复分配 ID 与已 committed 记录冲突
+    # （见 AGENT.md D17）。
+    id_state_path = root / "ledger/id-state.json"
+    if not id_state_path.exists():
+        _write_json(id_state_path, {
+            "schema_version": SCHEMA_VERSION,
+            "novel_id": novel_id,
+            "id": "id-state",
+            "kind": "id_state",
+            "revision": 1,
+            "safe_through": 0,
+            "high_watermarks": {
+                "char": 0, "fac": 0, "setting": 0, "ev": 0, "rel": 0,
+                "emo": 0, "thread": 0, "claim": 0, "update": 0, "issue": 0,
+            },
+            "pending_reservation": None,
+        })
 
     _write_json(root / "quality/coverage.json", _index_file(novel_id, "idx-coverage", "覆盖索引", []))
     _write_json(root / "quality/issues.json", _index_file(novel_id, "idx-issues", "问题索引", []))

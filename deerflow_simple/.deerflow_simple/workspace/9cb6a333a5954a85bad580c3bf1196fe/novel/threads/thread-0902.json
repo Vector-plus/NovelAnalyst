@@ -1,0 +1,30 @@
+{
+  "id": "thread-0902",
+  "introduced_at": 861,
+  "kind": "story_thread",
+  "label": "杀戮战场名额之争与可开储物袋者之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 861,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 861,
+          "start": 861
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0902-001",
+      "resolution_refs": [],
+      "revealed_at": 861,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "一百一十二人进入杀戮战场，仅一百零八人分神入内、四人本体入内；王林与许霆各自清剿修士，最终王林杀死许霆分神并抽走其本源，除王林外的另一名可开储物袋者仍未被确认。"
+    }
+  ]
+}

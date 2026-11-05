@@ -1,0 +1,30 @@
+{
+  "id": "thread-0046",
+  "introduced_at": 57,
+  "kind": "story_thread",
+  "label": "神秘声音对「徐」姓的特殊反应（缘由未明）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 57,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 57,
+          "start": 57
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0046-001",
+      "resolution_refs": [],
+      "revealed_at": 57,
+      "role": "secondary",
+      "status": "open",
+      "summary": "沧桑声音本已沉默施压，在问明确认徐姓后长叹并放走三名玄道宗弟子；文本未交代其与徐姓的关联。"
+    }
+  ]
+}

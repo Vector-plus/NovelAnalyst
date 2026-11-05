@@ -1,0 +1,30 @@
+{
+  "id": "thread-0235",
+  "introduced_at": 311,
+  "kind": "story_thread",
+  "label": "外来修士扫荡楚国诸派，云天宗岌岌可危",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 311,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 311,
+          "start": 311
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0235-001",
+      "resolution_refs": [],
+      "revealed_at": 311,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "据柳斐、宋青所述，一名擅用毒虫的嗜杀外来修士一个月前出现在楚国，七天连灭三派，三天前灭掉青天门；巨魔族使者被吓走，公孙长老寻其未归。李慕婉判断云天宗在劫难逃。"
+    }
+  ]
+}

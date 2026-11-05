@@ -1,0 +1,30 @@
+{
+  "id": "thread-0296",
+  "introduced_at": 384,
+  "kind": "story_thread",
+  "label": "云雀子选定的四人与柳眉的对抗",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 384,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_move",
+      "chapter_ranges": [
+        {
+          "end": 384,
+          "start": 384
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0296-001",
+      "resolution_refs": [],
+      "revealed_at": 384,
+      "role": "周武泰奉云雀子之命持离冥草帽现身拦阻柳眉，为柳眉线新增对手方",
+      "status": "new",
+      "summary": ""
+    }
+  ]
+}

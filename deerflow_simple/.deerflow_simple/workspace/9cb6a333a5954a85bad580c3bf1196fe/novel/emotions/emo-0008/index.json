@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 497,
+          "start": 456
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 497,
+      "summary": "王林—天运子情感阶段：师徒之实与运道之试（第456—497章）（第456—497章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0008/stages/stage-015.md",
+        "record_id": "doc-emo-0008-stage-015"
+      },
+      "title": "王林—天运子情感阶段：师徒之实与运道之试（第456—497章）"
+    }
+  ],
+  "id": "emo-0008",
+  "introduced_at": 456,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 497,
+  "schema_version": "2.0"
+}

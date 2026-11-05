@@ -1,0 +1,30 @@
+{
+  "id": "thread-0548",
+  "introduced_at": 594,
+  "kind": "story_thread",
+  "label": "王林离星后去向不明，云天宗以其雕像为圣地",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 594,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 594,
+          "start": 594
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0548-001",
+      "resolution_refs": [],
+      "revealed_at": 594,
+      "role": "new",
+      "status": "active",
+      "summary": "云天宗以王林雕像为山门，朱雀星修士奉为圣地；老者称其名王林却不知去向，铁岩保留其储物袋未动。"
+    }
+  ]
+}

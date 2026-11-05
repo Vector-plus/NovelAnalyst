@@ -1,0 +1,30 @@
+{
+  "id": "thread-0835",
+  "introduced_at": 809,
+  "kind": "story_thread",
+  "label": "白衣女子追踪王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 809,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 809,
+          "start": 809
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0835-001",
+      "resolution_refs": [],
+      "revealed_at": 809,
+      "role": "主线",
+      "status": "active",
+      "summary": "王林遁走后，一名白衣冰冷女子随即现身并向其遁走方向追去，意图未明。"
+    }
+  ]
+}

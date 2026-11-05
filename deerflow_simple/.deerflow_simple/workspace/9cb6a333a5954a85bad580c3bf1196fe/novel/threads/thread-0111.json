@@ -1,0 +1,30 @@
+{
+  "id": "thread-0111",
+  "introduced_at": 164,
+  "kind": "story_thread",
+  "label": "古神之地第二关禁制之山闯关",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 164,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_line",
+      "chapter_ranges": [
+        {
+          "end": 164,
+          "start": 164
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0111-001",
+      "resolution_refs": [],
+      "revealed_at": 164,
+      "role": "advance",
+      "status": "active",
+      "summary": "六欲魔君与古帝先后冲上山顶进入漩涡通道，王林仍停留在五百丈外的巨石上，第二关禁制群因大爆发而大损，需千年恢复。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0567",
+  "introduced_at": 606,
+  "kind": "story_thread",
+  "label": "王林追杀以仙粮操控修士的矮小老者",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 606,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 606,
+          "start": 606
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0567-001",
+      "resolution_refs": [],
+      "revealed_at": 606,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "矮小老者弃仙笔、欲以捆仙网应对，追逃尚未结束；其结果延续至下一章。"
+    }
+  ]
+}

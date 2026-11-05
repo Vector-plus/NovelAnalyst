@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "入楚灭宗阶段（第312—314章）：自仙界回鼎返朱雀星、偏落修魔海，随即入楚逼近云天宗；目标链为先取王虫、再进化神中期、终与曾牛一战；对云天宗破阵屠弟子并下灭宗令，后被归来的王林以生死意境画轴漩涡吞灭元神、身死。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 393,
+          "start": 310
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0781/index.json",
+          "record_id": "char-0781"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 393,
+      "summary": "入楚灭宗与被斩阶段（第310—393章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0781/stages/stage-012.md",
+        "record_id": "doc-char-0781-stage-012"
+      },
+      "title": "入楚灭宗与被斩阶段"
+    }
+  ],
+  "id": "char-0781",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 312,
+  "kind": "entity_index",
+  "label": "展白",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 393,
+  "schema_version": "2.0"
+}

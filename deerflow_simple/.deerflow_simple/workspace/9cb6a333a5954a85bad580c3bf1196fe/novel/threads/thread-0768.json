@@ -1,0 +1,30 @@
+{
+  "id": "thread-0768",
+  "introduced_at": 749,
+  "kind": "story_thread",
+  "label": "碎片陆地经天炼化为法宝（天炼之宝）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 749,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "other",
+      "chapter_ranges": [
+        {
+          "end": 749,
+          "start": 749
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0768-001",
+      "resolution_refs": [],
+      "revealed_at": 749,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "雷之仙界碎片大地在天雷炼化下内部更稳固、渐成法宝，血祖已起夺取之念。"
+    }
+  ]
+}

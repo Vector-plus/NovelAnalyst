@@ -1,0 +1,30 @@
+{
+  "id": "thread-0460",
+  "introduced_at": 527,
+  "kind": "story_thread",
+  "label": "左翼妖将奉妖帝之命寻人，王林因破七崩被其重新评估",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 527,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 527,
+          "start": 527
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0460-001",
+      "resolution_refs": [],
+      "revealed_at": 527,
+      "role": "main",
+      "status": "active",
+      "summary": ""
+    }
+  ]
+}

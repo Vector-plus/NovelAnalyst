@@ -1,0 +1,59 @@
+{"local_id": "ev-local-3", "ref_type": "event", "label": "王林分身与本尊数百年后重新融合", "note": "本阶段开篇即出现的战力跃升关键节点，后续决战与立威皆以此为基础", "chapter_order": 892}
+{"local_id": "ev-local-2", "ref_type": "event", "label": "于非以天地雷树残枝吸收王林雷霆", "note": "对手持有可遏制王林雷霆的至宝残枝，属对手底牌首次展示", "chapter_order": 892}
+{"local_id": "claim-local-8", "ref_type": "claim", "label": "于非称树枝为'我杀域界至宝之一，天地雷树残枝'，界主曾言可遏制王林雷霆", "note": "引入域界/界主等上位概念，为阶段内势力层级线索", "chapter_order": 892}
+{"local_id": "claim-local-25", "ref_type": "claim", "label": "融合后王林形态变化（紫发、左目含日右目蕴月、古神之星被隐藏）", "note": "主体形态与身份的阶段性定型，供后续形象比对", "chapter_order": 892}
+{"local_id": "claim-local-14", "ref_type": "claim", "label": "宋莹在落月宗丹房外求见王林本尊", "note": "新增人物线索：落月宗、宋莹与王林本尊的杂役身份", "chapter_order": 892}
+{"record_type": "event", "local_id": "ev-local-3", "note": "王林以肉身与拳法击碎飞剑并轰杀分身，是本章战力展示起点", "chapter_order": 893}
+{"record_type": "event", "local_id": "ev-local-5", "note": "七具分身尽灭，于非遭受重大损失，为阶段内关键战果", "chapter_order": 893}
+{"record_type": "claim", "local_id": "claim-local-19", "note": "肉身硬抗飞剑并反震，能力边界证据", "chapter_order": 893}
+{"record_type": "claim", "local_id": "claim-local-22", "note": "古神之吼首次在本阶段施展", "chapter_order": 893}
+{"record_type": "claim", "local_id": "claim-local-23", "note": "于非首次产生恐惧，敌方心理转折点", "chapter_order": 893}
+{"record_type": "claim", "local_id": "claim-local-25", "note": "雷吉在古神之吼下跪服，关系线索", "chapter_order": 893}
+{"target": "event", "ref_or_local_id": "ev-local-2", "reason": "于非被杀、王林跨域击杀打到杀域界，为本阶段「西部立威」关键战果", "importance": "high", "chapter_order": 894}
+{"target": "event", "ref_or_local_id": "ev-local-3", "reason": "杀域界高层下令追杀许木，构成后续冲突动因", "importance": "high", "chapter_order": 894}
+{"target": "claim", "ref_or_local_id": "claim-local-12", "reason": "于非称杀域界魂杀二侍尚有另一人，属未出场威胁的原始陈述", "importance": "high", "chapter_order": 894}
+{"target": "claim", "ref_or_local_id": "claim-local-27", "reason": "半截树枝被王林视为可保其在联盟西部平安的关键物，来源与用途待展开", "importance": "medium", "chapter_order": 894}
+{"target": "claim", "ref_or_local_id": "claim-local-24", "reason": "杀域界对许木的追杀令，势力动向", "importance": "medium", "chapter_order": 894}
+{"kind": "event", "local_id": "ev-local-4", "reason": "罗天高层（疑似雷仙殿刑罚长老＋炎雷子）首次当面追责王林战前失踪，是本阶段罗天与王林关系的关键节点", "chapter_order": 895}
+{"kind": "event", "local_id": "ev-local-5", "reason": "王林以「已杀杀侍于非」回应问罪，直接关联修真联盟杀域界冲突", "chapter_order": 895}
+{"kind": "claim", "local_id": "claim-local-26", "reason": "王林对杀于非一事的关键自述（reported），后续需与实际行动记录比对", "chapter_order": 895}
+{"kind": "claim", "local_id": "claim-local-18", "reason": "唤雨仙术首次成雨，属能力首次展示的关键证据", "chapter_order": 895}
+{"kind": "claim", "local_id": "claim-local-6", "reason": "许霆暗中推波助澜扩散许木叛变传闻，为罗天内部势力动向证据", "chapter_order": 895}
+{"kind": "event", "local_id": "ev-local-1", "note": "许木凭天地雷树残枝通过炎雷子验证，获得蛮荒星修炼许可与随军资格（本阶段立威线关键节点）", "chapter_order": 896}
+{"kind": "claim", "local_id": "claim-local-14", "note": "炎雷子识出许木眉心朱雀印记并因旧恩放手——高层态度存变数的关键依据", "chapter_order": 896}
+{"kind": "claim", "local_id": "claim-local-7", "note": "一个月后随军直入联盟北部的明确时间安排，可作为北部决战线的时间锚点", "chapter_order": 896}
+{"kind": "thread", "local_id": "thread-key:wanglin-rain-origin", "note": "王林雨水本源感悟启动，后续能力线需跟踪", "chapter_order": 896}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林自行摸索到规则边缘，唤雨之术根源为清水传承/仙帝白凡之术", "chapter_order": 897}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "唤雨之术明悟，挥手散尽天地云雨；旁观者（大头童子、雷吉、塔山）反应记录", "chapter_order": 897}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "联盟星域西部已被罗天占据，六指修士小队遭虚幻之影夺体", "chapter_order": 897}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "「屠罗计划」由地玄殿展开，四尊中出动黑煞魔尊、道元天尊，目标含许木与一切残余", "chapter_order": 897}
+{"ref_or_local_id": "claim-local-26", "kind": "claim", "note": "屠罗计划与任务目标的唯一来源（角色陈述，reported）", "chapter_order": 897}
+{"ref_or_local_id": "claim-local-27", "kind": "claim", "note": "黑煞魔尊、道元天尊出动的唯一来源（角色陈述，reported）", "chapter_order": 897}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林完成撒豆成兵第一步：开自身轮回、以记忆通道抽取一生所杀之魂；仙元之晶缩小近六成", "chapter_order": 898}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "以封仙印+黄泉+数十万金符炼成十八层地狱轮回界（王林的自身之界）；第十四层血祖之魂、第十三层仙遗族仙人与姚家等魂", "chapter_order": 898}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "章末未完成：元神精气将杀魂分注十八层，尊魂幡放出、魂魄涌现", "chapter_order": 898}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "note": "能力首次展示：十八层地狱轮回界的构造定义与三界对照（玄空界/画地为牢杀戮界）", "chapter_order": 898}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "note": "大头童子对王林仙元来源存疑，称其为「许木」（身份悬置，未合并）", "chapter_order": 898}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 899, "reason": "本阶段重大转折：修真联盟自毁西部星域形成「屠罗」冲击，直接改变两域战局"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 899, "reason": "黑煞魔尊首次现身并向炎雷子叫战，为北部决战关键对手登场"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 899, "reason": "炎雷子召出十八个十丈血球，罗天方首次交锋手段登场（下一章生效）"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 899, "reason": "「屠罗」计划定性依据，仅叙述层归因于修真联盟"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 899, "reason": "黑袍老者自报「黑煞魔尊」的自称陈述，身份待确认"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 899, "reason": "王林保留两个窥涅初期元神的资源储备事实"}
+{"kind": "event", "local_id": "ev-local-1", "note": "罗天反击第一波：十八罗浮威压登场；血神子拦阻黑煞魔尊", "chapter_order": 900}
+{"kind": "event", "local_id": "ev-local-2", "note": "罗天反击第二波：炎雷子开通道，参天巨木撞破联盟西部壁垒", "chapter_order": 900}
+{"kind": "event", "local_id": "ev-local-3", "note": "望月出场逼出道元天尊，联盟四尊之一现身前线", "chapter_order": 900}
+{"kind": "event", "local_id": "ev-local-6", "note": "章末悬念：被追击的紫衣女子，王林自称认得", "chapter_order": 900}
+{"kind": "claim", "local_id": "claim-local-26", "note": "王林被指出有初步掌握规则的迹象、带一丝净涅气息（能力递进节点）", "chapter_order": 900}
+{"type": "event", "local_id": "ev-local-2", "chapter_order": 901, "note": "王林以规则+言出法随的意志之力一次灭绝数名联盟修士并封印其魂魄，为其本阶段战力首次展示"}
+{"type": "event", "local_id": "ev-local-3", "chapter_order": 901, "note": "王林与六指修士为元神生死斗法，斩罗诀因明悟规则威力暴增，对手虚影一触即溃"}
+{"type": "event", "local_id": "ev-local-4", "chapter_order": 901, "note": "周天转攻西子凤，章末悬置，下一章衔接入口"}
+{"type": "claim", "local_id": "claim-local-12", "chapter_order": 901, "note": "敌对者当面称王林为「罗天正品雷仙许木」，与既有「许木」名号相关"}
+{"type": "claim", "local_id": "claim-local-9", "chapter_order": 901, "note": "叙述以散魔为参照，判断王林威能已达当年散魔程度"}
+{"type": "character", "candidate_name": "周天", "chapter_order": 901, "note": "新登场对手，身份与六指修士同一性待下游判断"}
+{"ref_kind": "event", "local_id": "ev-local-1", "note": "王林在本阶段首次正面压制窥涅中期对手周天", "chapter_order": 902}
+{"ref_kind": "event", "local_id": "ev-local-3", "note": "王林首次施展「撒豆成兵」，唤出所杀之人魂魄（含窥涅修士、仙人之魂、血祖之魂）", "chapter_order": 902}
+{"ref_kind": "claim", "local_id": "claim-local-11", "note": "撒豆成兵机制：杀后拘魂、不入轮回、禁锢十八层地狱", "chapter_order": 902}
+{"ref_kind": "claim", "local_id": "claim-local-10", "note": "王林元神配有古神皮甲，反震夺舍；太古雷龙元神可吞噬魂魄", "chapter_order": 902}
+{"ref_kind": "claim", "local_id": "claim-local-15", "note": "周天由血祖之死认定许木（王林）实力，放弃抵抗", "chapter_order": 902}
+{"ref_kind": "claim", "local_id": "claim-local-19", "note": "周天魂魄被血祖之魂等擒获，无一虚影逃出", "chapter_order": 902}

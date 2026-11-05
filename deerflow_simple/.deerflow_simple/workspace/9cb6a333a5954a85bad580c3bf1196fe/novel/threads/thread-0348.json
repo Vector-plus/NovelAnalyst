@@ -1,0 +1,39 @@
+{
+  "id": "thread-0348",
+  "introduced_at": 435,
+  "kind": "story_thread",
+  "label": "仙遗族临世与驼背老者的旧怨",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 435,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 435,
+          "start": 435
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0014.json",
+          "record_id": "claim-11785"
+        },
+        {
+          "path": "events/block-0014.json",
+          "record_id": "claim-11801"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0348-001",
+      "resolution_refs": [],
+      "revealed_at": 435,
+      "role": "setup",
+      "status": "open",
+      "summary": "驼背老者为仙遗族八叶术咒师，杀手最多，且是当年追杀王林入空间裂缝之人；本章其生死未被交代。"
+    }
+  ]
+}

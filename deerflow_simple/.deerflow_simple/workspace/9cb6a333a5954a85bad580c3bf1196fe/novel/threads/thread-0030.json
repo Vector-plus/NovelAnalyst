@@ -1,0 +1,30 @@
+{
+  "id": "thread-0030",
+  "introduced_at": 37,
+  "kind": "story_thread",
+  "label": "四年闭关期满与掌门大殿召归",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 37,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_transition",
+      "chapter_ranges": [
+        {
+          "end": 37,
+          "start": 37
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0030-001",
+      "resolution_refs": [],
+      "revealed_at": 37,
+      "role": "primary",
+      "status": "open",
+      "summary": "张狂传掌门师伯之命，令四十多名内门弟子出关，掌门在门派大殿施法传他们回去；本章止于众弟子出关聚于谷内。"
+    }
+  ]
+}

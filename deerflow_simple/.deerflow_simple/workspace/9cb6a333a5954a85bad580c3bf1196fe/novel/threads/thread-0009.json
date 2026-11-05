@@ -1,0 +1,30 @@
+{
+  "id": "thread-0009",
+  "introduced_at": 16,
+  "kind": "story_thread",
+  "label": "葫芦与神秘珠子、灵草枯萎的关联",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 16,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0009-001",
+      "resolution_refs": [],
+      "revealed_at": 16,
+      "role": "core",
+      "status": "open",
+      "summary": "孙长老判定葫芦内灵气充沛、泉水被浸泡后能使人精神焕发，并推测蓝线草与紫夜花的枯萎可能与葫芦有关（待试验）；他推断葫芦不止一个且志在全部取得用于炼丹。王林则打算用珠子浸泡山中葫芦应付。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0191",
+  "introduced_at": 237,
+  "kind": "story_thread",
+  "label": "京都王府与修士门派注意到化神级木雕",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 237,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 237,
+          "start": 237
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0191-001",
+      "resolution_refs": [],
+      "revealed_at": 237,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林所刻蛟龙木雕流入王府，筑基中期与金丹修士触之皆受震，黑衣修士认出其与门派典籍中的蛟龙几乎一致，王府与外来修士的门派已介入此事。"
+    }
+  ]
+}

@@ -1,0 +1,1874 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-018"
+  },
+  "stage_range": {
+    "start": 584,
+    "end": 641
+  },
+  "as_of": 641,
+  "arc_summary": {
+    "doc_id": "doc-arc-018",
+    "front_matter": {
+      "title": "问鼎后的杀戮征战、潮汐深渊救周佚与老怪降临",
+      "chapter_ranges": [
+        {
+          "start": 584,
+          "end": 641
+        }
+      ],
+      "as_of": 641,
+      "safe_through": 641,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-1057/index.json",
+          "record_id": "char-1057"
+        },
+        {
+          "path": "characters/char-1432/index.json",
+          "record_id": "char-1432"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@584"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@585"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@587"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@587"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@589"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@591"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-7@591"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-8@591"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-26@591"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@592"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@593"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@595"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@597"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-19@597"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@596"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@598"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@599"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@604"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@605"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@605"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@609"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@611"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@613"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@614"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@622"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@623"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@627"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-13@630"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@631"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@633"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@636"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@638"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@640"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@641"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@641"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "cl-40@641"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第584—641章。自王林出关后的第一场实战起，经妖灵之地杀戮征战、与古妖贝罗结约、修士联盟与仙卫之战、潮汐深渊救出周佚与令牌争夺，止于他脱出绝地、定下离开天运星的去向，以及三方老怪提前降临妖灵之地[[ev-local-3@584]][[ev-local-6@641]]。\n\n## 起始局面\n王林以问鼎之身出关，但尚未元肉归一、真正稳固问鼎期还需约半月，战力受时间约束[[ev-local-3@584]]；黑塔铠甲者已在摄夺元气，其意志对王林的出现产生异动。妖灵之地内部，天妖郡与火妖郡已成对峙之势，古妖贝罗与王林的约定尚未履行，大罗剑宗的剑肖弟子散处各郡。王林手中握有杀戮之气、元神烙印与十亿尊魂幡，目标则指向剑尊凌天候散落的剑气。\n\n## 核心目标与冲突\n- **近身厮杀**：击退黑塔铠甲者，扫清阻路者——子鼠及其三万妖兵[[ev-local-4@585]]、火妖郡副帅[[ev-local-2@587]]、虎咆[[ev-local-4@589]]。\n- **履约与受封**：履行与古妖贝罗之约（融合火妖郡古妖、吞并其余七郡残魂），换得潮汐深渊情报与水晶[[ev-local-2@614]][[ev-local-2@595]]；并受天妖郡妖帝授予祖灵使者身份与可调动天帅的玉简[[ev-local-1@597]][[claim-local-19@597]]。\n- **主线救援**：以周佚有恩于己为由，经水妖郡入口入潮汐深渊全力救人，并图取深渊令牌。\n- **体系性目标**：猎杀剑肖弟子取余下凌天候剑气；追索仙帝青霖洞府（四虚一实）线索[[ev-local-2@599]]。\n- **暗线冲突**：杀戮仙诀的真相与天运子收徒动机的怀疑，成为贯穿本阶段的内在隐患。\n\n## 关键转折\n1. **以自身之道对敌**：第587章化出黄泉之河、斩杀十余妖将，被同阶妖帅判为已近天道第二步[[ev-local-1@587]]；同章杀火妖郡帅位者，尸身落于帝都，直接引出妖帝全郡追杀。\n2. **以命换命的一战**：第591章燃烧元神（含四滴仙液）自爆使黑甲老者躯体崩溃，临灭一拳毁黑塔，血魂丹令其在千里外蓝血化形重生；塔下铠甲归体、魔魂宣言即便王林与「他」有关系也要杀之，另开追杀线[[ev-local-6@591]][[ev-local-7@591]][[ev-local-8@591]][[claim-local-26@591]]。\n3. **古妖降世与散魔之争**：古妖首次以王林血液化形，与散魔在天妖城上空激战三日，王林夺散魔铠甲、以升仙果压制魔魂，冲突转入元神[[ev-local-3@592]][[ev-local-1@593]]。\n4. **修士联盟与仙卫之战**：破八仙卫结阵请下的仙帝虚影、毁白色城堡、收八块碎玉，其间首次展示魂漩、天魔音、锁定与定身等手段[[ev-local-3@604]][[ev-local-2@605]][[ev-local-3@605]]。\n5. **青霜身份与周佚线的合流**：白衣女尸经血脉禁制确认为青霜[[ev-local-2@609]]；入深渊救出周佚，周佚破封后自陈雨之仙剑剑灵身份并永久赠剑[[ev-local-4@622]][[ev-local-2@623]]。\n6. **令牌争夺与元神化雷**：与贪狼在紫雾中正面冲突，贪狼以宗门弟子为祭、施紫雾归一[[ev-local-6@627]]；王林夺得令牌、击碎贪狼第二元神[[claim-local-13@630]][[ev-local-1@631]]，进而吞噬封印的太古雷龙，元神化为雷、却从此不能离窍[[ev-local-1@633]]。\n7. **绝地三年**：被困裂缝三年，悟道念第三式「黄泉之力」，同时杀戮之心异变成为体内隐患[[ev-local-3@638]]。\n8. **离场与格局改变**：定意离开天运星[[ev-local-5@640]]，诛妖将石萧、封印自有洞府并破除传送阵，而天运子、血祖、凌天候提前数十年入妖灵之地，天运子认定其留在王林身上的烙印被强行驱除[[ev-local-5@641]][[ev-local-6@641]][[cl-40@641]]。\n\n## 阶段结果\n王林以问鼎初期之身（后期元肉归一、并炼成达阴阳虚实境界的影子仙卫[[ev-local-3@636]]）完成从「妖灵之地的外来修士」到「一方势力与古妖契约的执行者」的身份转变；杀戮之气规模达十万，法宝体系新增雨之仙剑、剑肖之剑与八块碎玉，令牌被吞入元神[[ev-local-2@623]][[claim-local-13@630]]。周佚获救并被神秘男女修士带走，虎咆复仇线终结，剑肖十二子本命神灯已灭九盏。\n\n## 下一阶段承接与未决问题\n- 新去向：经罗天星域东临星向家，日后再回妖灵之地探洞府[[ev-local-5@640]]；古传送阵已废弃、需罗天石，路径尚未落实。\n- 与贝罗的百年之约仅余不足十年，其余七郡古妖残魂的吞并尚未完成。\n- 三方老怪（天运子、血祖、凌天候）降临后的追杀与因果未展开；天运子已察觉烙印被驱除。\n- 体内三隐患未解：杀戮仙诀的破解、杀戮之心异变、元神不能离窍。\n- 周佚托付的「寻婷儿之父」、婷儿为青霜（青霖之女）的身份指向、画轴女子被封后的诉求（「下去」）均为悬置线。"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "问鼎后的杀戮征战与潮汐深渊救周佚阶段",
+          "chapter_ranges": [
+            {
+              "start": 584,
+              "end": 641
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@584"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@585"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@585"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@586"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-35@586"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@587"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@587"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-40@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@591"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-7@591"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-8@591"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@592"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@592"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@593"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@593"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@595"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@595"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@596"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@597"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-19@597"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@598"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@598"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@599"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@601"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@602"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@603"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@604"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@605"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@605"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@605"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@607"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@608"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@609"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@610"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-2@610"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@611"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@612"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@613"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-32@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@617"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@618"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@619"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@620"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@622"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@623"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-13@630"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@632"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@633"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@633"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@640"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@636"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@637"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@637"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@638"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@639"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@639"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@640"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@640"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@641"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@641"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n出关即战。第584章王林以化魔指击碎带护腕的枯骨手臂，护腕首次登场；随即吞服升仙果凝液、以黄泉指灭单角黑影并封印护腕，黑塔铠甲意志随之异动[[ev-local-3@584]]。他此时尚未元肉归一，真正稳固问鼎期还需约半月，这一点构成此后多场战斗的时间约束[[claim-local-40@589]]。\n\n## 目标与动机\n本阶段动机分三层：**先求自保与立威**——击退黑塔铠甲者与一切阻路者，从子鼠三万妖兵、火妖郡副帅到虎咆，逐一清算[[ev-local-4@585]][[ev-local-2@587]][[ev-local-4@589]]；**再求履约与权柄**——以古妖贝罗的约定换情报与水晶，并借天妖郡祖灵使者身份获得凌驾妖帝的名分与可调动天帅的玉简[[ev-local-2@595]][[ev-local-1@597]][[claim-local-19@597]]；**终为体系性目标**——猎杀剑肖弟子以集齐剑尊凌天候的剑气，并追索仙帝青霖洞府之秘[[ev-local-2@599]]。救周佚则以「有恩于己」为明确理由，属私人恩义驱动[[claim-local-32@615]]。\n\n## 关键选择与经历\n**一、以自身之道作战并越过战力关口。** 第585—587章连续展示寂灭指吸收生灵之气自愈、一次散出三万多道杀戮之气化为苍龙[[claim-local-10@585]][[claim-local-35@586]]；至第587章以自身之道化出黄泉之河、斩杀十余妖将，被同阶妖帅判为已近天道第二步，是同章杀火妖郡帅位者的直接前提[[ev-local-1@587]][[ev-local-2@587]]。此后战力口径仍在抬升：暗杀子鼠剑气彻底炼化收发由心[[ev-local-3@596]]、问鼎后期实力首次在修士联盟来人面前展示[[ev-local-1@603]]、杀戮仙诀分裂至百万规模冲击古妖封印[[ev-local-5@611]]。\n\n**二、以命换命：炸毁黑塔与被认定的第二条追杀线。** 第591章他选择燃烧元神（含四滴仙液）自爆，逼崩黑甲老者躯体，临灭一拳毁黑塔，凭血魂丹在千里外蓝血化形重生[[ev-local-6@591]][[ev-local-7@591]][[ev-local-8@591]]。代价与后患同时出现：铠甲神念宣言即便王林与「他」有关系也要杀之[[ev-local-6@591]]。\n\n**三、介入古妖之争并索取权柄。** 古妖以王林血液化形并于天妖城上空与散魔激战三日，王林于战中倾尽法宝夺取散魔铠甲、以升仙果压制魔魂[[ev-local-3@592]][[ev-local-1@593]][[ev-local-3@593]]；随后受封使者、拿走封印大汉与水晶，并立下百年内取一妖的期限[[ev-local-2@595]]，把散魔当作第二元神的胚体[[ev-local-1@595]]。他明确把「取得剑尊凌天候余下的剑气」列为阶段目标。\n\n**四、与修士联盟和仙卫系统的正面对撞。** 对方以仙卫率队擒拿，王林则一抓擒仙卫、一挥毁金身，破八仙卫结阵请下的仙帝虚影、毁白色城堡、收取八块碎玉[[ev-local-4@602]][[ev-local-1@603]][[ev-local-3@604]][[ev-local-2@605]][[ev-local-3@605]]；由此得知「仙卫」与「修士联盟」的组织实质，也接上碎玉、仙兽之粮与仙卫制作法一串体系线索[[ev-local-5@605]]。对矮小老者，他先以三才剑阵威慑逼问，后以仙笔三笔符文制服，留下其元神以换取洞府地形图[[ev-local-3@607]][[ev-local-1@608]]。\n\n**五、定下身入深渊救周佚。** 他以周佚有恩为由，决定走水妖郡入口入潮汐深渊[[claim-local-32@615]]；途中识破杜建的凡铁假剑陷阱并当场反击[[ev-local-5@617]]，以金符与仙笔生擒封印杜建[[ev-local-2@618]]；抵阵后以问鼎之身正面对抗凌天候神念，借封禁裂缝救出已成雨之仙剑剑灵的周佚[[ev-local-1@620]][[ev-local-4@622]]。\n\n**六、深渊令牌争夺与自我改造。** 面对贪狼的紫雾归一献祭之计，他十息内截杀三名剑肖弟子夺取剑气[[ev-local-2@628]]，与辰龙临时联手对抗强敌[[ev-local-1@629]]，最终以锁天定地加仙剑之速夺得令牌、击碎贪狼第二元神[[claim-local-13@630]][[ev-local-1@631]]；继而吞噬封印中的太古雷龙，元神化为雷，却付出元神不能离窍的代价[[ev-local-5@632]][[ev-local-1@633]][[ev-local-4@633]]。\n\n**七、绝地三年中的自省与新手段。** 被困裂缝三年、以仙卫傀儡为脱身凭仗[[ev-local-3@636]]，其间悟出第三式「黄泉之力」[[ev-local-3@638]]，也确知杀戮之心异变、杀戮仙诀可能反被天运子吸收的隐患，遂决定在无对抗把握前不露声色[[ev-local-4@615]][[ev-local-1@637]][[ev-local-5@637]]。\n\n## 阶段终点\n第641章：脱出绝地后以影子一击诛杀妖将石萧[[ev-local-5@641]]，封印自有洞府并破除传送阵以封存洞府线索，同时定意经罗天星域东临星向家离场[[ev-local-5@640]]；而天运子、血祖、凌天候提前数十年降临妖灵之地，天运子认定其留在王林身上的烙印被强行驱除[[ev-local-6@641]]。至此王林的身份、战力与敌我格局全部换代：他不再是妖灵之地内争郡夺城的修士，而是被更高层存在直接盯上的目标[[ev-local-6@641]]。"
+      },
+      "current_summary_update": "第584—641章：以问鼎之身出关即战，化魔指碎护腕枯骨、吞升仙果凝液封护腕，击退黑塔铠甲者；连续清算子鼠三万妖兵、火妖郡副帅、虎咆与风吟，以自身之道化黄泉之河斩十余妖将，被判为近天道第二步，并引动妖帝全郡追杀；燃烧元神自爆炸毁黑塔、凭血魂丹重生；古妖贝罗以血化形后与其结约，受封天妖郡祖灵使者（凌驾妖帝）得玉简；破八仙卫结阵、毁修士联盟城堡收八块碎玉，制服自称仙界炼羽派的矮小老者；确认白衣女尸为青霜，入潮汐深渊救出雨之仙剑剑灵周佚并获永久赠剑；与贪狼争夺深渊令牌，夺令牌、碎其第二元神、吞太古雷龙致元神化雷而不能离窍；首次炼成仙卫傀儡（阴阳虚实）藏于影中；被困裂缝三年悟道念第三式「黄泉之力」，同时杀戮之心异变、杀戮仙诀被天运子吸收的隐患显露；诛妖将石萧、封洞府破传送阵，定意经罗天星域东临星向家离场，末章天运子、血祖、凌天候提前数十年降临妖灵之地。",
+      "identity_notes_appends": [
+        {
+          "kind": "identity",
+          "statement": "受天妖郡妖帝古云沌公开授予「祖灵使者」身份与玉简，名分凌驾妖帝，玉简为可调动天帅的通行凭证。",
+          "certainty": "explicit",
+          "revealed_at": 597,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@597"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-19@597"
+            }
+          ]
+        },
+        {
+          "kind": "identity",
+          "statement": "古妖贝罗以王林血液化形，王林为其使者，立约须百年内取一妖（后约定融合火妖郡古妖并吞并余七郡残魂），并以水晶与潮汐深渊情报为对价。",
+          "certainty": "explicit",
+          "revealed_at": 595,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@595"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@592"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@614"
+            }
+          ]
+        },
+        {
+          "kind": "ability",
+          "statement": "吞噬封印中的太古雷龙后元神化为雷，修为仍为问鼎初期但掌握雷之力量；代价为元神不能离窍（王林自认为变异代价，未获证实）。",
+          "certainty": "explicit",
+          "revealed_at": 633,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@633"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@633"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-5@632"
+            }
+          ]
+        },
+        {
+          "kind": "ability",
+          "statement": "首次炼成仙卫傀儡并藏入自身影中，王林判断其达阴阳虚实境界，可作脱身凭仗；仙卫设定源自仙帝青霖模仿古神所制的人体法宝。",
+          "certainty": "explicit",
+          "revealed_at": 636,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@636"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@635"
+            }
+          ]
+        },
+        {
+          "kind": "ability",
+          "statement": "在绝地悟得道念第三式「黄泉之力」（角色自述，certainty=reported）。",
+          "certainty": "reported",
+          "revealed_at": 638,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@638"
+            }
+          ]
+        },
+        {
+          "kind": "hidden_risk",
+          "statement": "王林推断杀戮仙诀真相为天运子的收割设计：若感悟达千万杀戮，自身将化作烙印被天运子吸收，故决定隐忍并研究破解。",
+          "certainty": "inferred",
+          "revealed_at": 615,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@615"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-1057/index.json",
+        "record_id": "char-1057"
+      },
+      "stage_doc_id": "doc-char-1057-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "潮汐深渊现身与第二元神被毁阶段",
+          "chapter_ranges": [
+            {
+              "start": 598,
+              "end": 641
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-1057/index.json",
+              "record_id": "char-1057"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@598"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@614"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-26@620"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@625"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@626"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-4@626"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-40@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-31@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-12@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-15@630"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-21@630"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-20@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-22@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@640"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "cl-44@641"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n本阶段是贪狼在档案中的首个成型阶段。第598章他被王林确认为大罗剑宗在妖灵之地的暗中保护者，且疑与司徒南仇家的画像相关，此前长期处于幕后[[ev-local-2@598]]。\n\n## 目标与动机\n他此行的目标明确：**取潮汐深渊紫雾中的令牌**，该令牌为凌天候与天运子共同重视之物[[ev-local-2@625]]。他对王林的兴趣则是附带而直接的——王林身上带有司徒南的气息，他欲抽王林元神拷问司徒南的下落[[claim-local-31@628]]，并自述因司徒南在废弃的朱雀星滞留万年之久[[claim-local-21@630]]。\n\n## 关键选择与经历\n**现身即被围。** 第614章他率大罗剑宗一方首次在潮汐深渊现身，反被蚊兽群围困[[ev-local-4@614]]；第615章辰龙率弟子围住质问，他出示死气之蛋并以威压回应，双方关系进入对峙。\n\n**以宗门弟子为祭。** 第626章他与王林首次照面，神识已察觉王林，本命法宝七魔针可控制王兽是其底牌[[ev-local-3@626]][[claim-local-4@626]]。第627章他发动紫雾归一，明言等了百年、要众人作祭品，把同行的大罗剑宗众人一并列入祭品，立场彻底转为敌对[[ev-local-6@627]][[claim-local-40@627]]。\n\n**连番手段与失利。** 第629章与王林、辰龙联手的首次正面对撞，展示「噬死二式·抽山魂」，并自述仙界之山的来历[[ev-local-1@629]][[claim-local-12@629]]；第630章首次展示黑鼎「乾坤逆转，天地翻身」，但在令牌争夺中被王林以锁天定地加仙剑之速抢得先机。第631章其第二元神被王林以定身术、三才剑阵与化魔／黄泉指击碎，反噬吐血[[ev-local-1@631]][[claim-local-22@631]]；该第二元神的真相是太古雷龙，被其以太古魔器烙印封印而炼成[[claim-local-20@631]]。\n\n**阶段退场。** 第640章蚊兽神识揭示贪狼与周佚被神秘男女修士带走，蚊兽群锐减[[ev-local-4@640]]；第641章剑肖十二子本命神灯已灭九盏，凌天候欲就此问贪狼[[cl-44@641]]。\n\n## 阶段终点\n从幕后保护者转为公开掠夺者，再转为被更高层存在带走的失势者：本阶段内他失去第二元神、失去令牌，也被置于凌天候的问责之下，其与司徒南的旧仇则被明确摆上台面成为后续线索[[claim-local-21@630]][[cl-44@641]]。"
+      },
+      "current_summary_update": "第598—641章首次成型：被王林确认为大罗剑宗在妖灵之地的暗中保护者，疑与司徒南仇家相关；率众现身潮汐深渊反被蚊兽群围困，与辰龙对峙；先与王林照面并以七魔针控兽，继而发动紫雾归一以宗门弟子为祭，明言等百年、要众人作祭品，欲抽王林元神拷问司徒南下落；战中被王林与辰龙联手压制，展示噬死二式·抽山魂与黑鼎乾坤逆转，最终第二元神（封印的太古雷龙）被击碎并反噬吐血，令牌被王林夺走；末段与周佚一同被神秘男女修士带走，凌天候欲就剑肖九灯灭之事问其罪。",
+      "identity_notes_appends": [
+        {
+          "kind": "identity",
+          "statement": "大罗剑宗在妖灵之地的暗中保护者（王林由亥猪记忆与情报确认）。",
+          "certainty": "explicit",
+          "revealed_at": 598,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@598"
+            }
+          ]
+        },
+        {
+          "kind": "relation",
+          "statement": "与司徒南有旧仇；自称因其在废弃的朱雀星滞留万年。",
+          "certainty": "reported",
+          "revealed_at": 630,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-21@630"
+            }
+          ]
+        },
+        {
+          "kind": "ability",
+          "statement": "宝物与手段：得古神涂司所炼之黑鼎（可「乾坤逆转，天地翻身」）、本命七魔针可控王兽；第二元神为以太古魔器烙印封印炼成的太古雷龙。",
+          "certainty": "explicit",
+          "revealed_at": 631,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-20@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-4@626"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-1432/index.json",
+        "record_id": "char-1432"
+      },
+      "stage_doc_id": "doc-char-1432-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "潮汐深渊与王林临时联手阶段",
+          "chapter_ranges": [
+            {
+              "start": 614,
+              "end": 629
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-1432/index.json",
+              "record_id": "char-1432"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-36@614"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-21@616"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n本阶段是辰龙的首个成型阶段。第614章其身份与真实修为（问鼎初期）在潮汐深渊一线被揭示，属大罗剑宗在妖灵之地的带队者之一[[claim-local-36@614]]。\n\n## 目标与动机\n表层动机是**向贪狼问责**：第615章他率大罗剑宗弟子围住贪狼质问，逼出对方的死气之蛋与威压，双方关系进入对峙[[ev-local-2@615]]。深层动机在紫雾之战中显影——他心机深沉、忍功极强，且**对王林有所求**[[ev-local-6@627]]，因此选择与王林联手而非先解决私怨。\n\n## 关键选择与经历\n- 第614—615章：以带队者姿态围问贪狼，与王林同在深渊一处，成为赵依萱「看不透之人」名单上的一员[[claim-local-21@616]]。\n- 第627章：在贪狼紫雾归一、众人将成祭品的局面下，与王林形成事实上的共同抗敌关系，其忍功与算计被明确点出。\n- 第628章：被确认持有凌天候的元神本命剑气，等级高于其他剑肖弟子——这是他真正的底牌，也解释了他能在深渊中自保[[claim-local-10@628]]。\n- 第629章：与王林首次联手对抗贪狼，双方神通首次正面对撞[[ev-local-1@629]]。\n\n## 阶段终点\n阶段末其立场仍是「与王林结盟的第三方」：既未与王林真正交心，也未与贪狼彻底翻脸。他手中的凌天候元神本命剑气与「对王林有所求」的未明之请，均留待后续展开[[claim-local-10@628]][[ev-local-6@627]]。"
+      },
+      "current_summary_update": "第614—629章首个成型阶段：以问鼎初期修为率大罗剑宗弟子现身潮汐深渊，围问贪狼并逼出其死气之蛋；心机深沉、忍功极强且有求于王林，故在贪狼发动紫雾归一、众人将为祭品时与王林临时联手对敌；持有等级高于其他剑肖的凌天候元神本命剑气，是其真正底牌；阶段末仍为与王林结盟的第三方，未交心亦未与贪狼彻底翻脸。",
+      "identity_notes_appends": [
+        {
+          "kind": "identity",
+          "statement": "真实修为为问鼎初期，为大罗剑宗在妖灵之地一线的带队弟子之一。",
+          "certainty": "explicit",
+          "revealed_at": 614,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-36@614"
+            }
+          ]
+        },
+        {
+          "kind": "ability",
+          "statement": "持有凌天候的元神本命剑气，等级高于其他剑肖弟子。",
+          "certainty": "explicit",
+          "revealed_at": 628,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@628"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-1244/index.json",
+        "record_id": "char-1244"
+      },
+      "stage_doc_id": "doc-char-1244-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "以妖卫身份再登场与被击杀阶段",
+          "chapter_ranges": [
+            {
+              "start": 587,
+              "end": 589
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-1244/index.json",
+              "record_id": "char-1244"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@587"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-27@589"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n经历失踪与转为公开敌对后的下一个落点：第587章远古战场宝塔方开始动员妖卫阻拦王林，虎咆以「妖卫」身份再度登场，与风吟、地魔同列入列[[ev-local-6@587]]。\n\n## 目标与动机\n承接前阶段立下的复仇誓言——以妖卫身份获得力量后先杀王林。本阶段其行动完全由宝塔方的动员指令与个人复仇动机共同驱动，未出现其他选择分支。\n\n## 关键选择与经历\n- 第587章：以妖卫身份随宝塔方动员出面阻拦王林，正式进入王林的对立面。\n- 第589章：复仇线在本章内终结——王林以十亿尊魂幡合一亿魂、一拳将其击杀并收走亿魂[[ev-local-4@589]]。同章确立「凡修王林所传炼魂术者所化魂魄皆受其控」的绝对控制机制，为这次收魂的规则依据[[claim-local-27@589]]。\n\n## 阶段终点\n死亡。其复仇线在阶段内彻底终结，魂魄落入王林手中，不再具备独立行动能力[[ev-local-4@589]][[claim-local-27@589]]。"
+      },
+      "current_summary_update": "第587—589章：以「妖卫」身份随远古战场宝塔方动员再度登场，与风吟、地魔同列阻拦王林；第589章王林以十亿尊魂幡合一亿魂一拳将其击杀并收走亿魂，复仇线终结；依炼魂术绝对控制机制，其所化魂魄归王林所有。",
+      "identity_notes_appends": [
+        {
+          "kind": "identity",
+          "statement": "由前阶段的复仇者对头转为宝塔方「妖卫」，并参与对王林的阻拦。",
+          "certainty": "explicit",
+          "revealed_at": 587,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@587"
+            }
+          ]
+        },
+        {
+          "kind": "status",
+          "statement": "第589章被王林一拳击杀、亿魂被收，复仇线终结。",
+          "certainty": "explicit",
+          "revealed_at": 589,
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@589"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": true,
+    "doc_id": "doc-faction-landscape-018",
+    "reason": "本阶段势力格局发生实质变化：天妖郡三千万大军公开宣战火妖郡、古妖贝罗开始融合并图吞余七郡、修士联盟白色城堡与八仙卫被灭、大罗剑宗剑肖十二子本命神灯灭九盏、云仙道侣降临、三方老怪提前数十年入妖灵之地。",
+    "front_matter": {
+      "title": "妖灵之地势力格局（第584—641章）",
+      "chapter_ranges": [
+        {
+          "start": 584,
+          "end": 641
+        }
+      ],
+      "as_of": 641,
+      "safe_through": 641,
+      "subject_refs": [],
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-16@587"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@587"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-24@586"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@596"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-21@595"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@597"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@605"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-12@603"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@598"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@611"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@612"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-26@612"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-24@613"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@624"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-23@624"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@641"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "cl-44@641"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第584—641章，妖灵之地及周边（含潮汐深渊、天运星方向的外部势力）的格局变化。\n\n## 主要势力动向\n**天妖郡与火妖郡：全面开战。** 火妖郡副帅受妖帝之命驻守天逸城统领妖将击杀修士，被王林杀死后尸身落于帝都，火妖郡妖帝遂下令全郡追查并诛杀王林[[claim-local-24@586]][[claim-local-16@587]]；天妖郡则以三千万大军公开宣战、妖帝亲临，帝都妖泉为关键地点[[ev-local-4@596]][[claim-local-21@595]]。天妖郡妖帝古云沌公开授予王林祖灵使者身份与可调动天帅的玉简，使其名分凌驾妖帝[[ev-local-1@597]]。\n\n**古妖阵营：贝罗的融合与扩张。** 贝罗以王林血液化形、与散魔激战，随后在王林协助下破火妖郡都城妖幕、击碎妖谷雕像取得手骨，提出与火妖郡古妖融合、诞生新古妖以吞噬其余七郡；其余七郡古妖残魂已对此异变产生反应[[ev-local-3@612]][[claim-local-26@612]][[claim-local-24@613]]。\n\n**修士联盟与仙卫：一处支点被拔除。** 该组织以「老祖」为首、下辖十名实力相近的仙卫，力量源自碎玉[[claim-local-12@603]]；因王林与莫厉海一战而下令生擒，结果八仙卫结阵被破、白色城堡被毁、八块碎玉被王林收走，仙兽之粮与仙卫制作法一并外泄[[ev-local-3@605]]。\n\n**大罗剑宗：剑肖体系的严重战损。** 子鼠、亥猪、末羊及深渊内三名剑肖弟子相继被杀，剑肖十二子本命神灯已灭九盏，凌天候欲就此问贪狼[[ev-local-6@587]][[cl-44@641]]；灵云一脉的藤云出现于子鼠尸旁、自称合云派并称死者为师弟周曲，与子鼠身份存在疑点（身份候选，未确认）。\n\n**炼魂部落：从部族扩张为战区供给者。** 炼魂部落奉王林为老祖，扩张为四大部落之一并向火妖郡大举输送杀戮之气载体，百年潜伏于交战双方之间[[ev-local-3@598]][[ev-local-5@611]]。\n\n**云仙道侣（王巍、胡娟）：新入场者。** 二人降临火妖郡并落至潮汐深渊出口，与天运子同辈、来历不明、不喜争权，兼擅卜卦禁制，已算出贪狼行踪与令牌时限[[ev-local-4@624]][[claim-local-23@624]]。\n\n**更高层：三方老怪降临。** 末章天运子、血祖、凌天候提前数十年进入妖灵之地，天运子认定其留在王林身上的烙印被强行驱除，血祖的入局动机与其唯一亲人姚惜雪相关[[ev-local-6@641]]。\n\n## 格局变化判断\n本阶段前，妖灵之地呈「两郡对峙＋多方散修掠夺」格局，王林只是其中搅局者；本阶段后，格局变为（1）天妖郡通过祖灵使者身份把王林纳入己方名分体系，（2）古妖贝罗成为具备吞并八郡潜力的整合者，（3）修士联盟的本地支点被拔除，（4）大罗剑宗的剑肖体系几近崩溃，（5）域外更高层存在（天运子、血祖、凌天候）把妖灵之地从地方战场升级为跨域角力场。\n\n## 未决问题\n- 火妖郡妖帝与天妖郡的战事结果未定，帝都妖泉与封印状态未明。\n- 贝罗吞并余七郡古妖的进程与「不足十年」的约定期限冲突待解。\n- 修士联盟老祖本体未现身，其对王林与碎玉的后续反应未展开。\n- 云仙道侣带走贪狼与周佚的目的不明。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1057/index.json",
+              "record_id": "char-1057"
+            }
+          ],
+          "introduced_at": 598
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-char-1057-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与贪狼：深渊令牌之争",
+          "chapter_ranges": [
+            {
+              "start": 598,
+              "end": 641
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1057/index.json",
+              "record_id": "char-1057"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@598"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-3@626"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-31@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-13@630"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@631"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@640"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系概述\n双方关系在阶段前为「未照面的潜在敌对」：王林自亥猪记忆中确认贪狼是大罗剑宗在妖灵之地的暗中保护者，并疑其与司徒南仇家的画像有关[[ev-local-2@598]]。\n\n## 本阶段变化\n第626章首次正面照面，第627章贪狼发动紫雾归一、明言要众人作祭品，关系彻底敌对；第628—629章王林截杀其麾下剑肖弟子并与辰龙联手对撞其神通；第630—631章王林夺走令牌并击碎其第二元神，贪狼反噬吐血，关系以王林占据上风收束；第640章贪狼被神秘男女修士带走，双方直接对抗中止[[ev-local-3@626]][[ev-local-6@627]][[ev-local-2@628]][[ev-local-1@629]][[claim-local-13@630]][[ev-local-1@631]][[ev-local-4@640]]。\n\n## 未决部分\n贪狼对司徒南下落的追索、其被带走后的处境、以及凌天候对其失职的问责均未解决[[claim-local-31@628]]。"
+      },
+      "facets": [
+        {
+          "dimension": "敌对-图谋",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-1057/index.json",
+            "record_id": "char-1057"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "视为猎物与祭品：欲抽其元神拷问司徒南下落，并将他与宗门众人一并列为紫雾归一的祭品",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-31@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            }
+          ]
+        },
+        {
+          "dimension": "敌对-反击",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-1057/index.json",
+            "record_id": "char-1057"
+          },
+          "attitude": "识破其为大罗剑宗暗护者与令牌阻碍，果断截杀其弟子、夺令牌、碎其第二元神",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-13@630"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@631"
+            }
+          ]
+        },
+        {
+          "dimension": "战力对比",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-1057/index.json",
+            "record_id": "char-1057"
+          },
+          "attitude": "在深渊争夺中占上风：以锁天定地加仙剑之速夺令牌，并与辰龙联手击碎其第二元神使其反噬吐血",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@631"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@626"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@627"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@631"
+        }
+      ],
+      "safe_through": 641
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1432/index.json",
+              "record_id": "char-1432"
+            }
+          ],
+          "introduced_at": 614
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-char-1432-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与辰龙：紫雾中的临时同盟",
+          "chapter_ranges": [
+            {
+              "start": 614,
+              "end": 629
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1432/index.json",
+              "record_id": "char-1432"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-36@614"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@628"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系概述\n双方在大罗剑宗与王林的敌对框架下本应互为敌人，但在潮汐深渊形成一次以利相交的临时同盟。\n\n## 本阶段变化\n第614—615章辰龙以问鼎初期修为率弟子围问贪狼，身份与实力公开[[claim-local-36@614]][[ev-local-2@615]]；第627章贪狼发动紫雾归一，把双方同时逼入祭品境地，辰龙「有求于王林」的动机使其选择合作；第629章二人首次联手正面迎击贪狼神通[[ev-local-6@627]][[ev-local-1@629]]。\n\n## 未决部分\n辰龙「对王林有所求」的具体内容未明；他手中凌天候元神本命剑气与王林集齐十二剑气的目标存在潜在冲突，双方关系随时可能倒转[[claim-local-10@628]]。"
+      },
+      "facets": [
+        {
+          "dimension": "合作-战时应变",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-1432/index.json",
+            "record_id": "char-1432"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "因对王林有所求、且共处祭品境地而主动选择联手，心机深沉、忍功极强，未交出底牌",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            }
+          ]
+        },
+        {
+          "dimension": "合作-利用与戒备",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-1432/index.json",
+            "record_id": "char-1432"
+          },
+          "attitude": "接受其联手以共抗贪狼，同时清楚对方有底牌与所求，属纯利益性合作",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@629"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-10@628"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@627"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@629"
+        }
+      ],
+      "safe_through": 641
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1244/index.json",
+              "record_id": "char-1244"
+            }
+          ],
+          "introduced_at": 549
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-char-1244-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与虎咆：复仇线的终结",
+          "chapter_ranges": [
+            {
+              "start": 587,
+              "end": 589
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-1244/index.json",
+              "record_id": "char-1244"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@587"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-27@589"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系概述\n承接上一阶段虎咆在失踪后转为公开敌对、立誓炼化魂魄后先杀王林的关系状态。\n\n## 本阶段变化\n第587章虎咆以「妖卫」身份随宝塔方动员出场阻拦王林[[ev-local-6@587]]；第589章王林以十亿尊魂幡合一亿魂、一拳击杀并收走亿魂，关系以一方死亡终结；同章确立的炼魂术绝对控制机制，使被炼之魂天然受王林支配[[ev-local-4@589]][[claim-local-27@589]]。\n\n## 未决部分\n无：该复仇线在本阶段内闭合。若后续出现以魂或妖卫形态的复用，需另行判定，不得直接沿用本阶段结论。"
+      },
+      "facets": [
+        {
+          "dimension": "复仇-敌意",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-1244/index.json",
+            "record_id": "char-1244"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "承接前阶段誓言，转为妖卫后仍以杀王林为目标并出面阻拦",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@587"
+            }
+          ]
+        },
+        {
+          "dimension": "处置-斩杀收魂",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-1244/index.json",
+            "record_id": "char-1244"
+          },
+          "attitude": "视为必须清除的阻路者，一拳击杀并收走亿魂，未表现额外情绪",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@589"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-27@589"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@589"
+        }
+      ],
+      "safe_through": 641
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "candidate_name": "周佚"
+            }
+          ],
+          "introduced_at": 618
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-zhouyi-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与周佚：深渊救援、赠剑与托付",
+          "chapter_ranges": [
+            {
+              "start": 615,
+              "end": 640
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-32@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@619"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@620"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@622"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-32@622"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@623"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-12@623"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-28@626"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-41@627"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@640"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系概述\n王林与周佚的关系以「恩」为轴。本阶段王林以周佚有恩于己为理由，决定经水妖郡入口入潮汐深渊全力营救，而非按利益计算行事[[claim-local-32@615]]。\n\n## 本阶段变化\n第619—620章王林以问鼎之身正面对抗凌天候神念，抵阵救人[[ev-local-4@619]][[ev-local-1@620]]；第622章周佚破封脱困，自陈已化为雨之仙剑剑灵、并承四大剑意[[ev-local-4@622]][[claim-local-32@622]]；第623章周佚将雨之仙剑永久赠予王林，并托付寻找婷儿之父，构成跨阶段承诺[[ev-local-2@623]][[claim-local-12@623]]；第626章周佚对王林的评价发生根本性转变[[claim-local-28@626]]；第627章其可凭无仙根之身带人冲出紫雾仙力边缘，成为脱身关键[[claim-local-41@627]]；第640章周佚与贪狼一同被神秘男女修士带走，关系被迫中断[[ev-local-4@640]]。\n\n## 未决部分\n「寻找婷儿之父」的托付未完成；周佚被带走后的处境与下落不明[[claim-local-12@623]][[ev-local-4@640]]。"
+      },
+      "facets": [
+        {
+          "dimension": "恩义-救援",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "candidate_name": "周佚"
+          },
+          "attitude": "以恩义为动机全力营救，不索取对价，并接受其托付",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-32@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-1@620"
+            }
+          ]
+        },
+        {
+          "dimension": "信重-评价转变",
+          "direction": "directed",
+          "from_ref": {
+            "candidate_name": "周佚"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "获救后对王林的评价发生根本性转变，并永久赠出雨之仙剑、托付最重之事",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-28@626"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-2@623"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-12@623"
+            }
+          ]
+        },
+        {
+          "dimension": "战力-战中依赖",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "candidate_name": "周佚"
+          },
+          "attitude": "在紫雾仙力边缘依赖周佚带人冲出的能力，属战场上的实际配合",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-41@627"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@622"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@623"
+        }
+      ],
+      "safe_through": 641
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "candidate_name": "天运子"
+            }
+          ],
+          "introduced_at": 615
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-tianyunzi-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与天运子：师承表象下的收割怀疑",
+          "chapter_ranges": [
+            {
+              "start": 615,
+              "end": 641
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-29@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@634"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-6@641"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "cl-40@641"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系概述\n本阶段双方关系由「师徒/传承授受」的表层，转为王林单方面的**暗藏戒备**：他复盘杀戮仙诀真相与天运子收徒动机，推断若感悟达千万杀戮，自身将化为烙印被吸收[[ev-local-4@615]]。\n\n## 本阶段变化\n第615章王林决定在无对抗把握前不让天运子知晓自己已察觉，并着手研究破解杀戮仙诀[[claim-local-29@615]]；第634章他自杜建处取得「师尊穿灰衣」的旁证，把天运子吞孙云、灰衣人的线索串起[[ev-local-4@634]]；第641章天运子提前数十年降临妖灵之地，并认定其留在王林身上的烙印被强行驱除[[ev-local-6@641]][[cl-40@641]]。\n\n## 未决部分\n杀戮仙诀的破解方法、烙印被驱除后天运子的应对、以及双方是否会正式决裂，均未在本阶段给出。"
+      },
+      "facets": [
+        {
+          "dimension": "图谋-收割（王林推断）",
+          "direction": "directed",
+          "from_ref": {
+            "candidate_name": "天运子"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "王林推断其收徒与授杀戮仙诀的真实目的是把弟子化作烙印吸收",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "ev-local-4@615"
+            }
+          ]
+        },
+        {
+          "dimension": "隐忍-戒备",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "candidate_name": "天运子"
+          },
+          "attitude": "决定不表露已察觉、暗中研究破解，并被对方认定为强行驱除了其烙印",
+          "basis_refs": [
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "claim-local-29@615"
+            },
+            {
+              "path": "events/unresolved-buffer.json",
+              "record_id": "cl-40@641"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@615"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@641"
+        }
+      ],
+      "safe_through": 641
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emotional": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "candidate_name": "周佚"
+            }
+          ],
+          "introduced_at": 615
+        }
+      },
+      "stage_doc_id": "doc-emotion-char-0001-zhouyi-stage-018",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与周佚的情感定性（第615—640章）",
+          "chapter_ranges": [
+            {
+              "start": 615,
+              "end": 640
+            }
+          ],
+          "as_of": 641,
+          "safe_through": 641,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/char-0001__zhouyi.json",
+              "record_id": "doc-rel-char-0001-zhouyi-stage-018"
+            },
+            {
+              "path": "emotions/char-0001__zhouyi/index.json",
+              "record_id": "doc-emotion-char-0001-zhouyi-stage-018"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\ncategory=friendship（恩义型友谊）。依据是本阶段全部互动都围绕「报恩—救援—托付—赠物」展开，且双方均未出现任何超出恩义与信重的表述：王林以「周佚有恩于己」为唯一公开动机[[claim-local-32@615]]，周佚以永久赠剑与托付最重之事回报[[ev-local-2@623]][[claim-local-12@623]]。原文未明示任何恋爱性质，故不取 romantic。\n\n## 变化解释\n关系质量在本阶段有明确抬升而非转向：救援前是单向的欠恩，破封后变为双向的信任——周佚对王林的评价发生根本性转变[[claim-local-28@626]]，并在紫雾之战中成为王林脱身所依赖的一环[[claim-local-41@627]]。第640章周佚被神秘男女修士带走，关系因外力中断而非因情感变化中断[[ev-local-4@640]]。\n\n## 关系阶段引用\n本条定性的关系载体见关系阶段快照 doc-rel-char-0001-zhouyi-stage-018（王林与周佚：深渊救援、赠剑与托付），三处 directed facets 分别承载「王林→周佚 恩义救援」「周佚→王林 信重与评价转变」「王林→周佚 战中的实际依赖」。\n\n## 推断边界\n- 周佚此时已是雨之仙剑剑灵，身份非常人，情感的「友谊」标签只描述互动性质，不等同于两人仍有世俗交往条件。\n- 「寻找婷儿之父」的托付属承诺关系，不构成对婷儿或青霜的情感定性；婷儿为青霜之女仍属身份指向，未确认。\n- 本阶段不存在任何可支持 romantic 或 familial 的依据，若后续出现相关表述需重新评估。"
+      },
+      "assessment": {
+        "category": "friendship",
+        "confidence": "medium",
+        "summary": "王林以报恩为动机冒险入潮汐深渊救出周佚，周佚破封后永久赠出雨之仙剑、托付寻找婷儿之父，并对其评价发生根本性转变；互动全程限于恩义与信重，无恋爱或亲属性表述。",
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/char-0001__zhouyi.json",
+            "record_id": "doc-rel-char-0001-zhouyi-stage-018"
+          }
+        ],
+        "basis_refs": [
+          {
+            "path": "events/unresolved-buffer.json",
+            "record_id": "claim-local-32@615"
+          },
+          {
+            "path": "events/unresolved-buffer.json",
+            "record_id": "ev-local-2@623"
+          },
+          {
+            "path": "events/unresolved-buffer.json",
+            "record_id": "claim-local-28@626"
+          }
+        ],
+        "as_of": 641
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "new_thread": {
+        "local_id": "thread-018-01",
+        "title": "潮汐深渊救援与令牌争夺",
+        "status": "partially_resolved",
+        "introduced_at": 615,
+        "updated_at": 641,
+        "summary": "王林以报恩为由入潮汐深渊救周佚，途中识破杜建陷阱、与贪狼争夺紫雾令牌；周佚破封获救并赠剑托付，令牌被王林夺得以至吞入元神；末段周佚与贪狼被神秘男女修士带走。"
+      },
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-32@615"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@622"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-13@630"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@640"
+        }
+      ]
+    },
+    {
+      "new_thread": {
+        "local_id": "thread-018-02",
+        "title": "与古妖贝罗的百年之约与八郡古妖",
+        "status": "open",
+        "introduced_at": 592,
+        "updated_at": 641,
+        "summary": "古妖贝罗以王林血液化形并与王林结约：王林受封使者、取得水晶与潮汐深渊情报，作为代价协助贝罗融合火妖郡古妖并图吞余七郡残魂；约定日期仅余不足十年，七郡残魂已被惊动。"
+      },
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@592"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@614"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-26@612"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "claim-local-2@610"
+        }
+      ]
+    },
+    {
+      "new_thread": {
+        "local_id": "thread-018-03",
+        "title": "杀戮仙诀的真相与天运子的图谋",
+        "status": "escalated",
+        "introduced_at": 615,
+        "updated_at": 641,
+        "summary": "王林复盘杀戮仙诀与天运子收徒动机，推断自身将被化作烙印吸收，遂隐忍并研究破解；杀戮之心异变同时成为体内隐患；末章天运子、血祖、凌天候提前数十年降临，天运子认定烙印被强行驱除。"
+      },
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-4@615"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@637"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-6@641"
+        }
+      ]
+    },
+    {
+      "new_thread": {
+        "local_id": "thread-018-04",
+        "title": "仙帝青霖洞府与凌天候十二道剑气",
+        "status": "open",
+        "introduced_at": 596,
+        "updated_at": 641,
+        "summary": "王林以猎杀剑肖弟子集齐凌天候剑气为目标，本阶段取子鼠、亥猪等数道；仙帝青霖洞府「四虚一实」、仙令条件与潮汐深渊入口相连，令牌被吞入元神；末章他封印自有洞府、破除传送阵以封存线索，剑肖十二子本命神灯已灭九盏。"
+      },
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-3@596"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@599"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@641"
+        }
+      ]
+    },
+    {
+      "new_thread": {
+        "local_id": "thread-018-05",
+        "title": "罗天星域与新去向东临星向家",
+        "status": "new",
+        "introduced_at": 639,
+        "updated_at": 641,
+        "summary": "画轴女子现身交涉，指出深坑底部漩涡通往罗天星域并称天逆珠最早出于该地；王林确认古传送阵已废弃、需罗天石方能开启，遂封画轴、定下经罗天星域东临星向家离场、日后再回妖灵之地探洞府的路线。"
+      },
+      "record_refs": [
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-1@639"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-2@640"
+        },
+        {
+          "path": "events/unresolved-buffer.json",
+          "record_id": "ev-local-5@640"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "本 stage_buffer 只提供章节内局部的 local_id（如 ev-local-1、claim-local-25），且同一 local_id 在多个章节重复出现；fetch_event_detail 对 'ev-local-4' 与 {events/block-0001.json, ev-local-4} 均返回不存在，说明它们无法解析为 ledger record_id。因此本 payload 中所有 record_refs 统一使用『local_id@章节号』的消歧形式，path 记为占位符 'events/unresolved-buffer.json'；写入前必须由下游用 staging buffer 将其替换为真实的 {path, record_id}，否则 Markdown 中的 [[...]] 引用将无法落库。",
+    "第619章的 claim local_id 在 buffer 中记作 'c21'/'c2'，第641章记作 'cl-33'/'cl-10'/'cl-40'/'cl-44'，第588章记作 'claim-8'/'claim-12' 等，命名不规范；本 payload 仅采用其中可明确对应者（cl-40@641、cl-44@641），其余未纳入 record_refs，需下游按 staging buffer 原始记录补齐。",
+    "人物候选清单为空，因此周佚、天运子、古妖贝罗、杜建、姚惜雪、妖帝古云沌、紫芯、周茹、藤云、黄玉、风吟等均无实体 ref。仅对王林、周佚、天运子三组出具关系阶段，其中周佚与天运子以 candidate_name 作为 subjects 一端，需下游解析或新建实体后才能落盘为 pairs 文件。",
+    "势力实体（天妖郡、火妖郡、大罗剑宗、修士联盟、炼魂部落、云仙道侣）均无 faction ref，故 faction_stages 为空，本阶段势力变化统一写入 faction_landscape。",
+    "identity 相关：风吟与邪莲（char-1332）『极为相似』仅为身份候选，未做任何合并；婷儿→青霜→青霖之女的身份指向系王林提出、且婷儿残魂已被叙述确认消散，本阶段不做 confirmed 合并。",
+    "safe_through 全部取 641（= stage 尾章）。辰龙 stage 的 chapter_ranges 止于 629（其最后实质出场章），但 as_of 与 safe_through 仍统一取 641。",
+    "周佚赠剑与许立国获远古剑意两条待办（催熟许立国以操控仙剑）均未在本阶段落实，属跨阶段承接项。"
+  ],
+  "notes_for_audit": [
+    "王林本阶段核心节点（按章）：584 护腕/升仙果、587 黄泉之河杀十余妖将＋杀副帅、591 自爆毁黑塔＋血魂丹重生、595/597 使者与祖灵使者封号、603—605 破八仙卫毁修士联盟城堡、609 青霜确认、611 杀戮仙诀百万、613 手骨传承、622—623 救周佚＋赠剑、626—631 令牌争夺与碎贪狼第二元神、633 元神化雷不可离窍、636 仙卫傀儡、637—638 困三年＋黄泉之力第三式、639—640 罗天星域与离场决意、641 诛石萧＋封洞府＋老怪降临。",
+    "战力口径存在时间约束：589 章明确王林尚需半月方元肉归一，因此 591 的自爆属未稳固问鼎期的非常手段；636 章仙卫被判为阴阳虚实境界，与司徒南同级参照，二者不可互相替代表述。",
+    "关系快照严格区分方向：王林与贪狼、辰龙两对均以 directed facets 表示「一端之图谋/态度」，未做对称化处理（例如辰龙对王林的信任未被推定，王林对周佚的依赖仅限战术层面）。",
+    "感情定性仅出一条（王林—周佚 = friendship, confidence=medium），依据为报恩动机、永久赠剑与托付、评价根本性转变；原文无恋爱表述，故未使用 romantic。",
+    "未生成 stage 的实体（简述理由）：古妖贝罗（作为契约方在本阶段戏份重，但无实体 ref，其动向写入 faction_landscape 与 thread-018-02）、杜建（617—618 两章为主，属单点反派，敌人线）、姚惜雪（598 受审、635 列为仙卫备选、641 成为血祖入局动机，仅被提及/被动处置，缺主观选择）、紫芯与周茹（594 单章支线）、藤云（595—596 身份悬念，候选）、黄玉（607—609 被制服后转为情报源）。"
+  ]
+}

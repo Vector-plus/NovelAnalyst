@@ -1,14 +1,624 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1993/index.json",
+          "record_id": "char-1993"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "于非（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1993/index.json",
+        "record_id": "char-1993"
+      },
+      "title": "于非"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1994/index.json",
+          "record_id": "char-1994"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "大头童子（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1994/index.json",
+        "record_id": "char-1994"
+      },
+      "title": "大头童子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1995/index.json",
+          "record_id": "char-1995"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "塔山（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1995/index.json",
+        "record_id": "char-1995"
+      },
+      "title": "塔山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1996/index.json",
+          "record_id": "char-1996"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "雷吉（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1996/index.json",
+        "record_id": "char-1996"
+      },
+      "title": "雷吉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1997/index.json",
+          "record_id": "char-1997"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "许木（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1997/index.json",
+        "record_id": "char-1997"
+      },
+      "title": "许木"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1998/index.json",
+          "record_id": "char-1998"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 893,
+      "summary": "王林（第893章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1998/index.json",
+        "record_id": "char-1998"
+      },
+      "title": "王林"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 895,
+          "start": 895
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1999/index.json",
+          "record_id": "char-1999"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 895,
+      "summary": "雷仙殿刑罚长老（第895章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1999/index.json",
+        "record_id": "char-1999"
+      },
+      "title": "雷仙殿刑罚长老"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 895,
+          "start": 895
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2000/index.json",
+          "record_id": "char-2000"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 895,
+      "summary": "地煞修士（第895章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2000/index.json",
+        "record_id": "char-2000"
+      },
+      "title": "地煞修士"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 895,
+          "start": 895
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2001/index.json",
+          "record_id": "char-2001"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 895,
+      "summary": "蛮荒星驻守罗天修士（第895章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2001/index.json",
+        "record_id": "char-2001"
+      },
+      "title": "蛮荒星驻守罗天修士"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2002/index.json",
+          "record_id": "char-2002"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 896,
+      "summary": "炎雷子身边的老者（第896章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2002/index.json",
+        "record_id": "char-2002"
+      },
+      "title": "炎雷子身边的老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2003/index.json",
+          "record_id": "char-2003"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 896,
+      "summary": "夜无忧（第896章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2003/index.json",
+        "record_id": "char-2003"
+      },
+      "title": "夜无忧"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 897,
+          "start": 897
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2004/index.json",
+          "record_id": "char-2004"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 897,
+      "summary": "黑煞魔尊（第897章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2004/index.json",
+        "record_id": "char-2004"
+      },
+      "title": "黑煞魔尊"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 897,
+          "start": 897
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2005/index.json",
+          "record_id": "char-2005"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 897,
+      "summary": "道元天尊（第897章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2005/index.json",
+        "record_id": "char-2005"
+      },
+      "title": "道元天尊"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 897,
+          "start": 897
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2006/index.json",
+          "record_id": "char-2006"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 897,
+      "summary": "虚幻之影（第897章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2006/index.json",
+        "record_id": "char-2006"
+      },
+      "title": "虚幻之影"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 897,
+          "start": 897
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2007/index.json",
+          "record_id": "char-2007"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 897,
+      "summary": "地玄殿（第897章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2007/index.json",
+        "record_id": "char-2007"
+      },
+      "title": "地玄殿"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 898,
+          "start": 898
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2008/index.json",
+          "record_id": "char-2008"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 898,
+      "summary": "阴沉青年（第898章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2008/index.json",
+        "record_id": "char-2008"
+      },
+      "title": "阴沉青年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 899,
+          "start": 899
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2009/index.json",
+          "record_id": "char-2009"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 899,
+      "summary": "黑袍老者（第899章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2009/index.json",
+        "record_id": "char-2009"
+      },
+      "title": "黑袍老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 899,
+          "start": 899
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2010/index.json",
+          "record_id": "char-2010"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 899,
+      "summary": "尸阴宗怨殿副殿主（第899章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2010/index.json",
+        "record_id": "char-2010"
+      },
+      "title": "尸阴宗怨殿副殿主"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 900,
+          "start": 900
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2011/index.json",
+          "record_id": "char-2011"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 900,
+      "summary": "公孙复姓的中年男子（第900章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2011/index.json",
+        "record_id": "char-2011"
+      },
+      "title": "公孙复姓的中年男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 900,
+          "start": 900
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2012/index.json",
+          "record_id": "char-2012"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 900,
+      "summary": "紫衣女子（第900章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2012/index.json",
+        "record_id": "char-2012"
+      },
+      "title": "紫衣女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 900,
+          "start": 900
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2013/index.json",
+          "record_id": "char-2013"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 900,
+      "summary": "追击紫衣女子的中年男子（第900章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2013/index.json",
+        "record_id": "char-2013"
+      },
+      "title": "追击紫衣女子的中年男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 901,
+          "start": 901
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2014/index.json",
+          "record_id": "char-2014"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 901,
+      "summary": "追击西子凤的中年男子（第901章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2014/index.json",
+        "record_id": "char-2014"
+      },
+      "title": "追击西子凤的中年男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 901,
+          "start": 901
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2015/index.json",
+          "record_id": "char-2015"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 901,
+      "summary": "周天（第901章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2015/index.json",
+        "record_id": "char-2015"
+      },
+      "title": "周天"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 901,
+          "start": 901
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2016/index.json",
+          "record_id": "char-2016"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 901,
+      "summary": "联盟追击修士（数人）（第901章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2016/index.json",
+        "record_id": "char-2016"
+      },
+      "title": "联盟追击修士（数人）"
+    }
+  ],
   "id": "idx-characters",
   "kind": "index",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 25,
+  "safe_through": 901,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 893,
+        "start": 893
+      },
+      {
+        "end": 901,
+        "start": 895
+      }
+    ],
     "subject_refs": []
   },
   "title": "人物传记"

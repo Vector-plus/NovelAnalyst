@@ -1,0 +1,30 @@
+{
+  "id": "thread-0158",
+  "introduced_at": 202,
+  "kind": "story_thread",
+  "label": "灵猿已死、内丹线索终结",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 202,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 202,
+          "start": 202
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0158-001",
+      "resolution_refs": [],
+      "revealed_at": 202,
+      "role": "supporting",
+      "status": "open",
+      "summary": "许立国以神念回报灵猿已死，王林所得为程灵与公孙彤二女魂魄，未再取得灵猿相关物。"
+    }
+  ]
+}

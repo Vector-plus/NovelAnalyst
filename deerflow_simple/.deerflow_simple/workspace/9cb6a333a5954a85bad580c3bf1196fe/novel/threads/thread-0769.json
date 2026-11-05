@@ -1,0 +1,30 @@
+{
+  "id": "thread-0769",
+  "introduced_at": 749,
+  "kind": "story_thread",
+  "label": "王林昏迷中渡天劫、体内两股力量融合",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 749,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "other",
+      "chapter_ranges": [
+        {
+          "end": 749,
+          "start": 749
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0769-001",
+      "resolution_refs": [],
+      "revealed_at": 749,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "天雷灌体加速神秘老者之力与血祖血身的抵消融合，元力疯长；黑雷降临之际王林睁眼。"
+    }
+  ]
+}

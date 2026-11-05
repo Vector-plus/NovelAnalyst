@@ -1,0 +1,30 @@
+{
+  "id": "thread-0527",
+  "introduced_at": 576,
+  "kind": "story_thread",
+  "label": "远古战场高塔中漆黑铠甲对「逆修」的关注",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 576,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 576,
+          "start": 576
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0527-001",
+      "resolution_refs": [],
+      "revealed_at": 576,
+      "role": "major",
+      "status": "open",
+      "summary": "高塔顶层的漆黑铠甲因王林的选择亮起幽光并传出神念「逆修……很好……」，随后以冷哼重创金乌旭，其身份未明。"
+    }
+  ]
+}

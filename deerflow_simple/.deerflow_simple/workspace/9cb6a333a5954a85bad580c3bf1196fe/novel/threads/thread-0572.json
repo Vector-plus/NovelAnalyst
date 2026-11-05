@@ -1,0 +1,30 @@
+{
+  "id": "thread-0572",
+  "introduced_at": 607,
+  "kind": "story_thread",
+  "label": "王林对孙云山的承诺：放出炼魂部落内「那位」、由其自行寻找几个师叔",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 607,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 607,
+          "start": 607
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0572-001",
+      "resolution_refs": [],
+      "revealed_at": 607,
+      "role": "supporting",
+      "status": "open",
+      "summary": "王林称「禁制已解，令妹也被救出」，要孙云山自己去寻找几个师叔，并称炼魂部落内的那位他会放出，随后离开。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0577",
+  "introduced_at": 614,
+  "kind": "story_thread",
+  "label": "潮汐深渊深处贪狼一行被蚊兽群围困",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 614,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 614,
+          "start": 614
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0577-001",
+      "resolution_refs": [],
+      "revealed_at": 614,
+      "role": "active",
+      "status": "ongoing",
+      "summary": "贪狼与四名大罗剑宗弟子被困于黑雾空地，兽群数量仍在增加并将出口完全封住；贪狼与辰龙皆不识此兽，实为蚊兽。"
+    }
+  ]
+}

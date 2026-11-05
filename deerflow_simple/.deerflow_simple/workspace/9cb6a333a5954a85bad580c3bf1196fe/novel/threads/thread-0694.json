@@ -1,0 +1,30 @@
+{
+  "id": "thread-0694",
+  "introduced_at": 684,
+  "kind": "story_thread",
+  "label": "王平与青宜的身份疑云",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 684,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 684,
+          "start": 684
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0694-001",
+      "resolution_refs": [],
+      "revealed_at": 684,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "雷道子看王平、青宜的目光“奇异”，并称王林“为了一个死人放弃了感悟”，指向王平身上另有隐情。"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-1", "note": "本 stage 起点：王林获得千丈蛟龙材料并改造护阵", "chapter_order": 126}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-2", "note": "结丹主线推进节点：三颗寒丹成型，进入三丹合一阶段", "chapter_order": 126}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-21", "note": "司徒南关于三丹合一的两阶段说法，是后续结丹判定的依据", "chapter_order": 126}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-23", "note": "熔炉/南斗城炼器宗线索，指向后续外出与交易", "chapter_order": 126}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-13", "note": "魔头被种入王林神识且不知情，为后续反制或失控埋点", "chapter_order": 126}
+{"kind": "event", "local_id": "ev-local-5", "note": "主角修为关键节点：黄泉之境达成、三丹融合成灰色丹胚", "chapter_order": 127}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林对李慕婉明确承诺结丹后送其回洛河门", "chapter_order": 127}
+{"kind": "claim", "local_id": "claim-local-24", "note": "黄泉之境达成，七千九百七十九丈蓝晶骨海", "chapter_order": 127}
+{"kind": "claim", "local_id": "claim-local-27", "note": "丹胚颜色为灰色，异于常理", "chapter_order": 127}
+{"kind": "claim", "local_id": "claim-local-29", "note": "结丹最后一步为灵气冲击，有失败率", "chapter_order": 127}
+{"kind": "event", "local_id": "ev-local-6", "note": "势力动向：火兽被四级修真国收走，火焚盟与宣武国战事转为小规模试炼", "chapter_order": 127}
+{"kind": "event", "local_id": "ev-local-2", "reason": "王林获得九品反应炉，为后续炼器与炼丹路线提供关键器物，阶段内首个重要产出", "chapter_order": 128}
+{"kind": "event", "local_id": "ev-local-3", "reason": "水晶飞剑成型并被吞入体内、魔头改宿蛟龙筋，属主角战力与随身魔头的状态转折", "chapter_order": 128}
+{"kind": "event", "local_id": "ev-local-5", "reason": "进入南斗城，引入修魔海外海城池格局与三派执掌设定，是本阶段舞台的入口", "chapter_order": 128}
+{"kind": "claim", "local_id": "claim-local-22", "reason": "南斗城城主空缺五百年、无元婴期修士的核心设定证据", "chapter_order": 128}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "诛天教、灭魂门、天一道教三派联合执掌与斗邪派被排挤的势力分布证据", "chapter_order": 128}
+{"local_id": "ev-local-1", "kind": "event", "note": "王林获得五品百兽灵炉，为结丹/天离丹一事的关键物证", "chapter_order": 129}
+{"local_id": "ev-local-2", "kind": "event", "note": "斗邪派卫三与结丹长老盯上王林，本阶段冲突起点", "chapter_order": 129}
+{"local_id": "claim-local-20", "kind": "claim", "note": "南斗城禁制限制土遁，影响后续城内行动", "chapter_order": 129}
+{"local_id": "claim-local-12", "kind": "claim", "note": "李慕婉所述丹炉品级要求，与天离丹成败相关", "chapter_order": 129}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 130, "note": "王林首次以冰焰灭杀结丹期修士（消耗品设定首次强调）"}
+{"kind": "key_claim", "local_id": "claim-local-24", "chapter_order": 130, "note": "极境神识对结丹期由无效转为可伤不可杀的原因"}
+{"kind": "key_claim", "local_id": "claim-local-20", "chapter_order": 130, "note": "斗邪派掌教获报将派援兵"}
+{"kind": "character_turning_point", "local_id": "claim-local-22", "chapter_order": 130, "note": "王林自认结丹后杀结丹初期修士如捏蝼蚁"}
+{"kind": "faction_move", "local_id": "claim-local-8", "chapter_order": 130, "note": "斗邪派三名长老与南斗城三派掌教议事后离城"}
+{"local_id": "ev-local-1", "ref_kind": "event", "note": "斗邪派十名结丹修士追杀，王林中大灭绝符入迷雾阵，结丹风险与处境骤升", "chapter_order": 131}
+{"local_id": "ev-local-2", "ref_kind": "event", "note": "迷雾大阵可幻化蛟龙；钱坤夺昆桑黑石印、集众强行破阵", "chapter_order": 131}
+{"local_id": "ev-local-3", "ref_kind": "event", "note": "王林将五品丹炉（百兽灵炉）交李慕婉炼天离丹，自身打坐疗伤", "chapter_order": 131}
+{"local_id": "claim-local-1", "ref_kind": "claim", "note": "冰焰消耗丹胚，危及结丹成功率——王林的核心风险设定", "chapter_order": 131}
+{"local_id": "claim-local-22", "ref_kind": "claim", "note": "王林持李慕婉魂血仍以飞剑防范，二人信任程度有限", "chapter_order": 131}
+{"local_id": "claim-local-17", "ref_kind": "claim", "note": "斗邪派集体破阵，场面升级为十人对一阵法", "chapter_order": 131}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "王林服天离丹冲击结丹期，stage-007 核心修为节点", "chapter_order": 132}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "王林出关威压震杀魔修、斗邪派溃逃，后续立威线索起点", "chapter_order": 132}
+{"ref_or_local_id": "cl-27", "kind": "claim", "note": "自称「王某」者宣称元婴期下第一人（角色说辞，reported）", "chapter_order": 132}
+{"ref_or_local_id": "cl-31", "kind": "claim", "note": "钱坤弃冰焰而逃，为后续追杀/令牌线索铺垫", "chapter_order": 132}
+{"ref_or_local_id": "cl-21", "kind": "claim", "note": "百兽灵炉价值十万上品灵石、昆桑二人为此而来（角色说辞）", "chapter_order": 132}
+{"kind": "event", "local_id": "ev-local-1", "reason": "王林首次大规模收割结丹修士生命，展示碾压性战力，属stage-007核心转折证据", "chapter_order": 133}
+{"kind": "event", "local_id": "ev-local-3", "reason": "万魔百日诛杀令首次出场，直接对应stage-007标题线索", "chapter_order": 133}
+{"kind": "claim", "local_id": "claim-local-16", "reason": "诛杀令规则首次完整说明，后续通缉/修丹机制的关键设定依据", "chapter_order": 133}
+{"kind": "claim", "local_id": "claim-local-17", "reason": "钱坤开出斗邪派大长老条件，王林后续身份与立场变化的触发点", "chapter_order": 133}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "钱坤之死与万魔百日诛杀令诛字悬顶：本阶段“诛杀令立威”起点", "chapter_order": 134}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林携诛字与十具尸体示众、消息传遍修魔海；并逼木南木北带路赴斗邪派总部", "chapter_order": 134}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "note": "王林结丹完成、结丹修为较筑基高百倍余", "chapter_order": 134}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "note": "王林立誓结婴后杀回赵国、灭藤姓（复仇目标明确化）", "chapter_order": 134}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "上官墨登场、求拜师并献魂血（跨章延续）", "chapter_order": 134}
+{"kind": "candidate_entity", "ref_or_local_id": {"candidate_name": "上官墨"}, "note": "新人物候选：修魔海外海散修魔君，结丹中期巅峰", "chapter_order": 134}
+{"kind": "candidate_entity", "ref_or_local_id": {"candidate_name": "斗邪派"}, "note": "新势力候选：目标总部所在，掌教结丹中期巅峰、无元婴期修士", "chapter_order": 134}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 135, "note": "王林吞上官墨魂血，生死互系，构成此后对上官墨的绝对制约"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 135, "note": "万魔百日诛杀令威慑下的大范围屠杀，极境神识+晶光首次大范围使用，尸逾千具"}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "chapter_order": 135, "note": "七八名苍老结丹期魔修现身旁观，为后续入局埋线"}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "chapter_order": 135, "note": "王林明示目标：灭斗邪派满门"}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "chapter_order": 135, "note": "王林对李慕婉的处置承诺：事毕送回火焚盟"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 136, "note": "王林放出魔头肆意吞噬，标志其不再约束魔头"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 136, "note": "王林极境神识当面爆头结丹中期修士，震慑四名结丹中期"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 136, "note": "王林明确以斗邪派为立威目标，势力动向转折点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 136, "note": "杀名传遍南斗城百万里的规模性结论"}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "chapter_order": 136, "note": "上官墨对王林献魂血后首次心态转变"}
+{"kind": "claim", "ref_or_local_id": "claim-local-35", "chapter_order": 136, "note": "王林立威斗邪派的主观意图"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "reason": "王林正面抵达斗邪派总教并遭遇镇派斗龙大阵，是本 stage 诛杀令冲突的关键节点", "chapter_order": 137}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "reason": "斗龙大阵万人供灵使解东来升至幻婴境界，首次展示该法术的实战效果", "chapter_order": 137}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "reason": "王林以退为进试出斗龙大阵距离缺陷并反伤解东来，体现其战术转折", "chapter_order": 137}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "reason": "解东来自报掌教身份与赌约条件，为后续斗邪派归属走向的依据", "chapter_order": 137}
+{"ref_or_local_id": "claim-local-30", "kind": "claim", "reason": "斗龙大阵的距离缺陷结论，后续破解行动的前提", "chapter_order": 137}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "斗邪派掌教解东来身死，王林破剑修剑丸（金丹）", "chapter": 138, "chapter_order": 138}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-2", "note": "斗邪派归顺王林，掌教之位交予上官墨", "chapter": 138, "chapter_order": 138}
+{"buffer_kind": "turning_point", "ref_or_local_id": "claim-local-20", "note": "王林修魔海第一次立威结束，南斗城方圆百万里传遍", "chapter": 138, "chapter_order": 138}
+{"buffer_kind": "turning_point", "ref_or_local_id": "claim-local-30", "note": "王林结丹后首次进入天逆空间", "chapter": 138, "chapter_order": 138}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-35", "note": "王林对司徒南元婴立誓：达婴变期后送出并择肉身", "chapter": 138, "chapter_order": 138}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-13", "note": "剑丸即剑修金丹，解东来以此作最后一击", "chapter": 138, "chapter_order": 138}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "reason": "提出剑鞘可能未毁与储物袋内物品可取回的核心推论，为后续夺回法宝埋线", "chapter_order": 139}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "reason": "新法宝（封印画轴/画内灵兽）首次登场并被定性", "chapter_order": 139}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "reason": "王林与魔头的从属关系与威压机制在本章明确化，属关键节点", "chapter_order": 139}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "reason": "极境威力的上限与化神限制首次被叙述点明，是能力设定的关键约束", "chapter_order": 139}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "reason": "金丹祭炼方式的限制条件，影响王林后续修行路线选择", "chapter_order": 139}
+{"ref_or_local_id": "claim-local-28", "kind": "claim", "reason": "魔头结丹时恢复记忆，构成后续潜在风险点", "chapter_order": 139}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林炼化四十三魂球提升神识，并以龟甲玄灭阵加强防御后出关", "chapter_order": 140}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林答允送李慕婉回家，李慕婉耗尽五年寿元整理一万八千九百七十四片龙鳞玉简", "chapter_order": 140}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "南斗城茶楼出现绣七朵金梅的青衫老者，开始追查“煞星”", "chapter_order": 140}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "note": "“万魔百日追杀令”在修士间流传，且可能引来元婴修士", "chapter_order": 140}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "note": "李慕婉自述王林从未问其姓名、自己不知王林之名，认为价值在炼丹", "chapter_order": 140}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "note": "龙鳞玉简数量=一万八千九百七十四，拓印耗时半月、寿元减五年", "chapter_order": 140}
+{"local_id": "ev-local-3", "kind": "event", "stage_ref": "stage-007", "subject_candidate": "王林", "note": "主角冲出修魔海、留飞剑待击：本阶段主线动作节点", "chapter_order": 141}
+{"local_id": "ev-local-2", "kind": "event", "stage_ref": "stage-007", "subject_candidate": "青衫老者", "note": "强敌凭双魂血与葫芦追至修魔海，跨章延续的追猎线", "chapter_order": 141}
+{"local_id": "claim-local-15", "kind": "claim", "stage_ref": "stage-007", "subject_candidate": "青衫老者", "note": "魂血追踪手段与上官墨被取魂血的事实，后续可能复用", "chapter_order": 141}
+{"local_id": "claim-local-11", "kind": "claim", "stage_ref": "stage-007", "subject_candidate": "王林", "note": "外界对王林法宝（红光致骷髅）的认知口径，来自角色转述", "chapter_order": 141}
+{"local_id": "claim-local-20", "kind": "claim", "stage_ref": "stage-007", "subject_candidate": "王林", "note": "王林凭环境细节反推追兵的能力展示", "chapter_order": 141}
+{"local_id": "buf-local-1", "kind": "event", "record_local_id": "ev-local-1", "chapter_order": 142, "note": "王林与李慕婉四年同行了结：魂血归还并留一丝神识、百兽灵炉交还、玉符丹药互赠、各不相欠"}
+{"local_id": "buf-local-2", "kind": "event", "record_local_id": "ev-local-2", "chapter_order": 142, "note": "王林遁入天逆空间躲避万魔百日诛杀令，揭示其杀钱坤的动机"}
+{"local_id": "buf-local-3", "kind": "event", "record_local_id": "ev-local-3", "chapter_order": 142, "note": "青衫老者失去魂血感应，神识反复横扫无果"}
+{"local_id": "buf-local-4", "kind": "event", "record_local_id": "ev-local-4", "chapter_order": 142, "note": "凤栾杨森邹斌被抛飞数千里，引出修魔海内海七梅之地设定与其身份推测"}
+{"local_id": "buf-local-5", "kind": "claim", "record_local_id": "claim-local-15", "chapter_order": 142, "note": "李慕婉赠王林阵法巅峰玉符（防御为根本），可作后续护身道具伏笔"}
+{"local_id": "buf-local-6", "kind": "claim", "record_local_id": "claim-local-34", "chapter_order": 142, "note": "修魔海九百九十九城／内海七梅之地情报（reported，出自邹斌口述）"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 143, "note": "王林炼成修丹（结丹中期等量灵力），留待结婴使用"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 143, "note": "追杀与破火焚盟护山大阵，火焚盟元婴修士被迫噤声"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 143, "note": "八极魔君本体加三分身封锁宣武国，三年期限"}
+{"kind": "claim", "ref_or_local_id": "claim-local-34", "chapter_order": 143, "note": "追捕动机：某关需以死咒术度过，故要生擒王林"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 143, "note": "王林确立获取原始神道术的目标"}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "chapter_order": 143, "note": "青衫老者当面指出王林肉身系夺舍而来"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "八极魔君神识锁国近三年，宣武国与火焚盟被封锁，是 stage-007 末段的主要势力动向", "chapter_order": 144}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "八极魔君与王林首次正面遭遇，死咒术实际对老者施展，冲突未解决", "chapter_order": 144}
+{"ref_or_local_id": "claim-local-25", "kind": "claim", "note": "王林对八极魔君承认掌握死咒术（本章关键表态）", "chapter_order": 144}
+{"ref_or_local_id": "claim-local-36", "kind": "claim", "note": "八极魔君判断王林确掌死咒术，追杀动机由试探转向确证", "chapter_order": 144}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "青衫老者与八极魔君同一人的叙述依据，供实体合并判定使用", "chapter_order": 144}
+{"ref": "ev-local-1", "kind": "event", "note": "王林被迫与青衫老者立约，承诺赴神秘之地使用死咒术；为本阶段后期“被迫入局”主线的关键节点", "chapter_order": 145}
+{"ref": "ev-local-2", "kind": "event", "note": "王林赴战神殿求观神道术，进入战神殿石府前置条件出现", "chapter_order": 145}
+{"ref": "claim-local-11", "kind": "claim", "note": "老者以“神识痕迹”标记王林，称到达目的地后解开", "chapter_order": 145}
+{"ref": "claim-local-21", "kind": "claim", "note": "神秘之地不到半年开启，可作为后续阶段时间锚点参考（角色口述）", "chapter_order": 145}
+{"ref": "claim-local-23", "kind": "claim", "note": "王林推断战神殿不存原始神道术，指向天罡国线索", "chapter_order": 145}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林首次亲身验证神道术无法默记／拓印，并得到残缺的修炼分身神通口诀，随后放弃修炼", "chapter_order": 146}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "神道术被定性为修炼分身、提升结婴成功率的神通（王林参悟所得）", "chapter_order": 146}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "note": "功法残缺、分身无修为且寿元不足半甲子，构成王林放弃的直接原因", "chapter_order": 146}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "神道术原本外流与宫墨失踪的势力线索引（战神殿叛徒、天罡国）", "chapter_order": 146}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "note": "王林将目标转向增加结婴几率的丹药，为后续行动动机留痕", "chapter_order": 146}
+{"ref_type": "event", "ref_local_id": "ev-local-2", "note": "尸阴宗（赵国旧宗主夜自在寄居赵传良体内）与上宗-五级分部体系首次成形，4876失踪案+马良线索指向宣武国，10日期限", "chapter_order": 147}
+{"ref_type": "event", "ref_local_id": "ev-local-5", "note": "尸阴宗整宗以传送阵抵修魔海外，赵传良当面对王林出手被青衫老者化解，本阶段末冲突升级点", "chapter_order": 147}
+{"ref_type": "claim", "ref_local_id": "claim-12", "note": "赵传良自述其弟为上身肉身，四百年前同入尸阴宗（reported）", "chapter_order": 147}
+{"ref_type": "claim", "ref_local_id": "claim-22", "note": "战神殿石府内存在未死且生命力旺盛的神秘修炼者，为主线埋点", "chapter_order": 147}
+{"ref_type": "claim", "ref_local_id": "claim-33", "note": "修魔海外三人同行之约，指向下一阶段入海行动", "chapter_order": 147}
+{"ref_type": "event", "ref_local_id": "ev-local-3", "note": "王林取得来历不明黑色金丝储物袋并留下去痕，伏笔", "chapter_order": 147}
+{"kind": "event", "local_id": "ev-local-1", "why": "本阶段末段的核心冲突：尸阴宗与八极魔君正面交手，八极魔君实力首次以捏碎传送阵的方式展示", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "chapter_order": 148}
+{"kind": "event", "local_id": "ev-local-2", "why": "主角转折点：王林确立必成结婴之志", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "chapter_order": 148}
+{"kind": "claim", "local_id": "claim-local-15", "why": "对八极魔君境界的关键推测（化神期），后续验证依据", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "chapter_order": 148}
+{"kind": "claim", "local_id": "claim-local-10", "why": "尸阴宗底蕴与七梅之城城主身份的首次外部陈述，势力关系线索", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "chapter_order": 148}
+{"kind": "claim", "local_id": "claim-local-19", "why": "八极魔君与王林的“那地方”交易条件明示，衔接下一章", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "chapter_order": 148}
+{"kind": "event", "local_id": "ev-local-3", "note": "本 stage 收束节点：三人借古传送阵离开修魔海外海，目的地修魔海内海碎星乱", "chapter_order": 149}
+{"kind": "claim", "local_id": "claim-local-13", "note": "端木极对外说明王林会死咒术、第三关有大用（角色说法），是王林被裹入此行的直接理由", "chapter_order": 149}
+{"kind": "claim", "local_id": "claim-local-7", "note": "汪清越身份：四级修真国阴阳宗下放使者（端木极传音，角色说法）", "chapter_order": 149}
+{"kind": "claim", "local_id": "claim-local-27", "note": "行程目标升级：先至碎星乱汇合朋友，再赴“那地方”", "chapter_order": 149}
+{"kind": "setting_candidate", "candidate_name": "碎星乱", "note": "新地域与险地设定，跨 stage 复用价值高", "chapter_order": 149}

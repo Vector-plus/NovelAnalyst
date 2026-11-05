@@ -1,0 +1,30 @@
+{
+  "id": "thread-0629",
+  "introduced_at": 652,
+  "kind": "story_thread",
+  "label": "冉家老祖送八品丹药的阴谋",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 652,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 652,
+          "start": 652
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0629-001",
+      "resolution_refs": [],
+      "revealed_at": 652,
+      "role": "setup",
+      "status": "open",
+      "summary": "孙泰警告八品丹药不该拿，称是冉家老祖的阴谋，其所述四年前之事与孙析所说大致相同。"
+    }
+  ]
+}

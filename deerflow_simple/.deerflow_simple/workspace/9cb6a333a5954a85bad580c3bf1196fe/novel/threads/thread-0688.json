@@ -1,0 +1,30 @@
+{
+  "id": "thread-0688",
+  "introduced_at": 682,
+  "kind": "story_thread",
+  "label": "王平寿元将尽与雷道子入室对峙",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 682,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 682,
+          "start": 682
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0688-001",
+      "resolution_refs": [],
+      "revealed_at": 682,
+      "role": "setup",
+      "status": "open",
+      "summary": "七十二岁的王平已感到人生将尽，雷道子踏入其居所并以雷光封锁房间，王平平静质问对方身份，青宜散去修为同立。"
+    }
+  ]
+}

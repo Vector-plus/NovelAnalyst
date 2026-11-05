@@ -1,0 +1,30 @@
+{
+  "id": "thread-0783",
+  "introduced_at": 765,
+  "kind": "story_thread",
+  "label": "王林凭白衣女尸取得九层查阅仙术资格",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 765,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 765,
+          "start": 765
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0783-001",
+      "resolution_refs": [],
+      "revealed_at": 765,
+      "role": "main",
+      "status": "open",
+      "summary": "王林被测为八品上仙（四层凭仙缘选取），以白衣女尸代测得「九品仙君」，获准前往藏品阁九层查阅仙术；九层内情形与所得尚未展开。"
+    }
+  ]
+}

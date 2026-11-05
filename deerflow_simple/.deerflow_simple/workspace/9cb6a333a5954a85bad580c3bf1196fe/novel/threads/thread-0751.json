@@ -1,0 +1,30 @@
+{
+  "id": "thread-0751",
+  "introduced_at": 730,
+  "kind": "story_thread",
+  "label": "王林肉身逆转与突破修道第一步",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 730,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 730,
+          "start": 730
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0751-001",
+      "resolution_refs": [],
+      "revealed_at": 730,
+      "role": "primary",
+      "status": "active",
+      "summary": "光团融入后王林肉身由雷电状态向血肉之躯逆转，剧痛中修为缓慢提升；他判断逆转完成、痛楚消失时将突破修道第一步，而李元暗中不欲其达到阴虚。"
+    }
+  ]
+}

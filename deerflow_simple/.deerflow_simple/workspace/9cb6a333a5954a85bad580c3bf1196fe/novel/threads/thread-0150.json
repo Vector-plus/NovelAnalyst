@@ -1,0 +1,30 @@
+{
+  "id": "thread-0150",
+  "introduced_at": 197,
+  "kind": "story_thread",
+  "label": "李慕婉与修魔海、修魔丹的关联传闻",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 197,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 197,
+          "start": 197
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0150-001",
+      "resolution_refs": [],
+      "revealed_at": 197,
+      "role": "secondary",
+      "status": "open",
+      "summary": "程贤转述传闻称李长老早年在修魔海居住过，修魔丹为其修魔海旧事所炼；丹名与功效亦不相符，王林由此感到其中似有关联。"
+    }
+  ]
+}

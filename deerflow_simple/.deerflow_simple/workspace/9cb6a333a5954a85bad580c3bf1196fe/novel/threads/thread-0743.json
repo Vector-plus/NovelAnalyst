@@ -1,0 +1,30 @@
+{
+  "id": "thread-0743",
+  "introduced_at": 727,
+  "kind": "story_thread",
+  "label": "李元与黑铁剑剑尖的关联",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 727,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 727,
+          "start": 727
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0743-001",
+      "resolution_refs": [],
+      "revealed_at": 727,
+      "role": "foreshadowing",
+      "status": "open",
+      "summary": "李元第一个踏上铁剑时选择站在剑尖（位置奇异），背对王林露出追忆之色，王林盯着其双脚为之动容；李元见铁剑时曾压抑不住激动。其与铁剑的关系当章未明示。"
+    }
+  ]
+}

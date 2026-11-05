@@ -1,0 +1,30 @@
+{
+  "id": "thread-0762",
+  "introduced_at": 744,
+  "kind": "story_thread",
+  "label": "李元所设三次开启的传送阵",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 744,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ability_use",
+      "chapter_ranges": [
+        {
+          "end": 744,
+          "start": 744
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0762-001",
+      "resolution_refs": [],
+      "revealed_at": 744,
+      "role": "payoff",
+      "status": "resolved",
+      "summary": "王林此前请李元将传送阵开启次数设为三次以配合计划；本章第三次亦即最后一次开启被血祖主动引发，血祖因此进入仙人储物空间。"
+    }
+  ]
+}

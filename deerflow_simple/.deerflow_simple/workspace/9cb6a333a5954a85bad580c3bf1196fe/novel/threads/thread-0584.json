@@ -1,0 +1,30 @@
+{
+  "id": "thread-0584",
+  "introduced_at": 621,
+  "kind": "story_thread",
+  "label": "王林强攻潮汐深渊、破除炼仙化魔大阵救出周佚",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 621,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 621,
+          "start": 621
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0584-001",
+      "resolution_refs": [],
+      "revealed_at": 621,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "王林已穿越凌天候第三波神念、以七笔符文困住神念剑气，抵达周佚所在的阵前，但元神受损、符文崩溃，尚未动手破阵。"
+    }
+  ]
+}

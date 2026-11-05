@@ -1,0 +1,30 @@
+{
+  "id": "thread-0002",
+  "introduced_at": 3,
+  "kind": "story_thread",
+  "label": "王浩献上的玉盒被修真者封印，来历未解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 3,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 3,
+          "start": 3
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0002-001",
+      "resolution_refs": [],
+      "revealed_at": 3,
+      "role": "secondary",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

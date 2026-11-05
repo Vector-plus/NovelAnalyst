@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 342,
+          "start": 342
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0857/index.json",
+          "record_id": "char-0857"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 342,
+      "summary": "与雪域国宗主×雪域国白发老妪的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0042.json",
+        "record_id": "rel-0042"
+      },
+      "title": "雪域国宗主×雪域国白发老妪"
+    }
+  ],
+  "id": "idx-rel-char-0857",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 342,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 342,
+        "start": 342
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0857/index.json",
+        "record_id": "char-0857"
+      }
+    ]
+  },
+  "title": "char-0857 关系入口"
+}

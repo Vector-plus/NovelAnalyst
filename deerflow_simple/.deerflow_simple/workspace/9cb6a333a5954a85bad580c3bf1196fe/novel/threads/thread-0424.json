@@ -1,0 +1,30 @@
+{
+  "id": "thread-0424",
+  "introduced_at": 499,
+  "kind": "story_thread",
+  "label": "孙若南偷持牵引传送玉简私随阵法前往东海",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 499,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadow",
+      "chapter_ranges": [
+        {
+          "end": 499,
+          "start": 499
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0424-001",
+      "resolution_refs": [],
+      "revealed_at": 499,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0108",
+  "introduced_at": 157,
+  "kind": "story_thread",
+  "label": "孟驼子吸引全部飓风，为王林开路",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 157,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 157,
+          "start": 157
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0108-001",
+      "resolution_refs": [],
+      "revealed_at": 157,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0251",
+  "introduced_at": 322,
+  "kind": "story_thread",
+  "label": "王林誓言取天道轮回而代之",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 322,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_thread",
+      "chapter_ranges": [
+        {
+          "end": 322,
+          "start": 322
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0251-001",
+      "resolution_refs": [],
+      "revealed_at": 322,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林当面对天道轮回使者宣称自己修的天道轮回之术终将取轮回而代之，让轮回按其意志行事。"
+    }
+  ]
+}

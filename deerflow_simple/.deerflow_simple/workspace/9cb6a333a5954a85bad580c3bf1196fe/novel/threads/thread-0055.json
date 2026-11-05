@@ -1,0 +1,30 @@
+{
+  "id": "thread-0055",
+  "introduced_at": 66,
+  "kind": "story_thread",
+  "label": "藤家因张虎“杀师”之罪追究王林与张虎，追杀王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 66,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0055-001",
+      "resolution_refs": [],
+      "revealed_at": 66,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "藤厉在藤家城客栈设伏，未捉到王林后亲自御剑追杀；藤甲藤乙被留在客栈处置张虎。王林逃出城，追杀仍在继续。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "thread-0462",
+  "introduced_at": 531,
+  "kind": "story_thread",
+  "label": "司马炎与统队对新任统领的态度",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 531,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 531,
+          "start": 531
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0016.json",
+          "record_id": "claim-14568"
+        },
+        {
+          "path": "events/block-0016.json",
+          "record_id": "claim-14569"
+        },
+        {
+          "path": "events/block-0016.json",
+          "record_id": "claim-14571"
+        },
+        {
+          "path": "events/block-0016.json",
+          "record_id": "claim-14572"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0462-001",
+      "resolution_refs": [],
+      "revealed_at": 531,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "司马炎看不清王林用意，警惕升高，召集八名统队征询看法；徐幽、周凯二人不与合作。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0391",
+  "introduced_at": 479,
+  "kind": "story_thread",
+  "label": "天运子与剑尊凌天候寿宴当场的对峙",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 479,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 479,
+          "start": 479
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0391-001",
+      "resolution_refs": [],
+      "revealed_at": 479,
+      "role": "escalation",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

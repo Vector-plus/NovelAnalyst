@@ -1,15 +1,15 @@
 {
   "high_watermarks": {
-    "char": 0,
-    "claim": 0,
-    "emo": 0,
-    "ev": 0,
+    "char": 2016,
+    "claim": 25225,
+    "emo": 15,
+    "ev": 3556,
     "fac": 0,
     "issue": 0,
-    "rel": 0,
+    "rel": 47,
     "setting": 0,
-    "thread": 0,
-    "update": 0
+    "thread": 953,
+    "update": 3556
   },
   "id": "id-state",
   "kind": "id_state",

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0237",
+  "introduced_at": 313,
+  "kind": "story_thread",
+  "label": "展白攻打云天宗（灭宗、夺丹、占为寝宫）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 313,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 313,
+          "start": 313
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0237-001",
+      "resolution_refs": [],
+      "revealed_at": 313,
+      "role": "main",
+      "status": "escalating",
+      "summary": "展白已击碎护山大阵、屠戮弟子并下令灭宗，事件在本章末尚未终结；他索要丹药、欲将云天宗封印为寝宫。"
+    }
+  ]
+}

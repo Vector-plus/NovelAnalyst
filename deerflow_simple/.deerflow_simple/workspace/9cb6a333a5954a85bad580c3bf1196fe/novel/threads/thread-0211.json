@@ -1,0 +1,30 @@
+{
+  "id": "thread-0211",
+  "introduced_at": 280,
+  "kind": "story_thread",
+  "label": "离开本碎片转赴其他碎片",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 280,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal_plan",
+      "chapter_ranges": [
+        {
+          "end": 280,
+          "start": 280
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0211-001",
+      "resolution_refs": [],
+      "revealed_at": 280,
+      "role": "setup",
+      "status": "open",
+      "summary": "此碎片已无仙界之气可寻，王林决定依升空突破天空壁垒的方式离开，并考虑借传送阵在其他碎片间移动。"
+    }
+  ]
+}

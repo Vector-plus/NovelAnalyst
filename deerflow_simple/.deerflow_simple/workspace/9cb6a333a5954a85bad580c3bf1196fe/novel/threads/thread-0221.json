@@ -1,0 +1,30 @@
+{
+  "id": "thread-0221",
+  "introduced_at": 294,
+  "kind": "story_thread",
+  "label": "争夺仙玉（进入虚无寻找第一层碎片）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 294,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 294,
+          "start": 294
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0221-001",
+      "resolution_refs": [],
+      "revealed_at": 294,
+      "role": "main",
+      "status": "advancing",
+      "summary": "三人乘伪星罗盘进入冰川下方的黑色虚无，需寻第一层碎片；叱虎称碎片破损严重、应无仙界之气，族中习祖只说过较为危险。"
+    }
+  ]
+}

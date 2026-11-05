@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第505—523章：原为络家山谷护族阵法的守卫者，以青影迎敌并欲取王林魂魄作「妖灵之日」祭品，阵法被破后转为求饶（第505—506章）；其后为王林提供古妖城方位、「外来者每5000年一次腥风血雨」、天妖郡权力结构（妖帝鲲虚、八大妖帅、妖兵千万）与妖灵玉／仙力结晶称法等关键信息（第505—508章）；被王林强开经脉突破二星后执弟子礼、称其「上仙」，受炼魂术并转授族人（第516章），获赐第四阶段口诀并与十三共任对地下溶洞部落主攻（第518章），率众迎接十里之地阵法区域并参与吸纳新族人（第520—521章）。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1221/index.json",
+          "record_id": "char-1221"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "欧阳华：由敌手到执弟子礼的部落执事（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1221/stages/stage-016.md",
+        "record_id": "doc-char-1221-stage-016"
+      },
+      "title": "欧阳华：由敌手到执弟子礼的部落执事"
+    }
+  ],
+  "id": "char-1221",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 505,
+  "kind": "entity_index",
+  "label": "欧阳华",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 549,
+  "schema_version": "2.0"
+}

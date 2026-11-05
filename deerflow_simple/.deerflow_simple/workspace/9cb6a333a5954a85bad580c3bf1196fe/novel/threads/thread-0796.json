@@ -1,0 +1,30 @@
+{
+  "id": "thread-0796",
+  "introduced_at": 774,
+  "kind": "story_thread",
+  "label": "神秘老者元神油尽灯枯",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 774,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "resource_state",
+      "chapter_ranges": [
+        {
+          "end": 774,
+          "start": 774
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0796-001",
+      "resolution_refs": [],
+      "revealed_at": 774,
+      "role": "advance",
+      "status": "open",
+      "summary": "连番施展陨星与仙术消／散后，老者元神极度虚弱，自叹这一次亏了。"
+    }
+  ]
+}

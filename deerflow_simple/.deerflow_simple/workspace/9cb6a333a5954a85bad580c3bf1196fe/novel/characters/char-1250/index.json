@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第525—549章：以十崩拳意考验王林（第525—526章），在王林连破五至七崩后限制其只能任长老（第527章），随后授古妖城统领、予一万妖兵（第528章，自述名号「云厉海」）；破例任外来者统领致原统领降副，军中酝酿诛仙阵对抗（第529章）；后罢免王林统领之职（第545章）、扣十三并闭关锁阵，与王林交手以「甲」字妖力之幕反弹其灰气符文（第546—547章）；最终立约任王林为第一副将、释放十三，定三月后回天妖城述职与妖将比斗，并许诺向妖帝为其索要将位（第548章，自称「莫厉海」）。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1250/index.json",
+          "record_id": "char-1250"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "古妖城左翼妖将：考验、授职与立约（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1250/stages/stage-016.md",
+        "record_id": "doc-char-1250-stage-016"
+      },
+      "title": "古妖城左翼妖将：考验、授职与立约"
+    }
+  ],
+  "id": "char-1250",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 525,
+  "kind": "entity_index",
+  "label": "左翼妖将",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 549,
+  "schema_version": "2.0"
+}

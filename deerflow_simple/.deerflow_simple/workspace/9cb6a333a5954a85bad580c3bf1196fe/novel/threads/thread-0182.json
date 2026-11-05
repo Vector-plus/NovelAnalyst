@@ -1,0 +1,30 @@
+{
+  "id": "thread-0182",
+  "introduced_at": 222,
+  "kind": "story_thread",
+  "label": "王林灭藤家复仇（核心弟子猎杀）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 222,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "hostility",
+      "chapter_ranges": [
+        {
+          "end": 222,
+          "start": 222
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0182-001",
+      "resolution_refs": [],
+      "revealed_at": 222,
+      "role": "main",
+      "status": "escalating",
+      "summary": "王林由杀普通族人转向猎杀藤家核心弟子，并以“因为你姓藤”为杀由、把藤家子弟魂魄当作炼制魔头的上等材料；一日之内七名在外核心弟子死五人，藤家老祖仍不出藤家城。"
+    }
+  ]
+}

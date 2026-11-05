@@ -1,0 +1,30 @@
+{
+  "id": "thread-0651",
+  "introduced_at": 659,
+  "kind": "story_thread",
+  "label": "幻家以锁星大阵围困冉云星",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 659,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 659,
+          "start": 659
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0651-001",
+      "resolution_refs": [],
+      "revealed_at": 659,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0472",
+  "introduced_at": 535,
+  "kind": "story_thread",
+  "label": "三日后鼓山会合、随姚惜雪破除禁制",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 535,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_promise",
+      "chapter_ranges": [
+        {
+          "end": 535,
+          "start": 535
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0472-001",
+      "resolution_refs": [],
+      "revealed_at": 535,
+      "role": "major",
+      "status": "ongoing",
+      "summary": "约定三天后紫妖升耀之时三刻于鼓山会合，王林将随姚惜雪离开去破除剩余禁制封印；血符令牌与余下仙玉待事后兑现。"
+    }
+  ]
+}

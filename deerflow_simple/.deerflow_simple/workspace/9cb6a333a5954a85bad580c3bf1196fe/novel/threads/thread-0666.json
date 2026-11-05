@@ -1,0 +1,30 @@
+{
+  "id": "thread-0666",
+  "introduced_at": 669,
+  "kind": "story_thread",
+  "label": "幻家老祖欲吞噬柳眉意境修无相天魔",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 669,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 669,
+          "start": 669
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0666-001",
+      "resolution_refs": [],
+      "revealed_at": 669,
+      "role": "escalation",
+      "status": "open",
+      "summary": "幻家老祖当面向柳眉索要意境，其收徒换血的真实目的在本章被叙述点明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0185",
+  "introduced_at": 224,
+  "kind": "story_thread",
+  "label": "王卓魂火的去向",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 224,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_fate",
+      "chapter_ranges": [
+        {
+          "end": 224,
+          "start": 224
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0185-001",
+      "resolution_refs": [],
+      "revealed_at": 224,
+      "role": "supporting",
+      "status": "open",
+      "summary": "王林取走王卓微弱魂火并送入赵国京城王家一怀孕女子腹中婴孩，婴孩身份未明。"
+    }
+  ]
+}

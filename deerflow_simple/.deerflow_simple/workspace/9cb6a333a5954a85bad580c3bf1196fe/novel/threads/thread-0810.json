@@ -1,0 +1,30 @@
+{
+  "id": "thread-0810",
+  "introduced_at": 790,
+  "kind": "story_thread",
+  "label": "玄阴鼎之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 790,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 790,
+          "start": 790
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0810-001",
+      "resolution_refs": [],
+      "revealed_at": 790,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "玄阴鼎内藏有一个传送小阵与被称为「玄阴鼎灵」的女子虚影；王林决定留下几日探查，并取出第三辆射神车。"
+    }
+  ]
+}

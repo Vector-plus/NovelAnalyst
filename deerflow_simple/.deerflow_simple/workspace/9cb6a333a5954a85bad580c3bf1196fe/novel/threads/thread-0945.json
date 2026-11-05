@@ -1,0 +1,30 @@
+{
+  "id": "thread-0945",
+  "introduced_at": 892,
+  "kind": "story_thread",
+  "label": "落月宗丹房杂役王林的身份之谜与宋莹的关注",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 892,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 892,
+          "start": 892
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0945-001",
+      "resolution_refs": [],
+      "revealed_at": 892,
+      "role": "introduced",
+      "status": "open",
+      "summary": "宋莹发现丹房杂役王林从不受管束、负责丹房的师叔对其极为恭敬，认定此人神秘并几乎每日前来；本章她欲言又止，王林本尊直接腾空离去。"
+    }
+  ]
+}

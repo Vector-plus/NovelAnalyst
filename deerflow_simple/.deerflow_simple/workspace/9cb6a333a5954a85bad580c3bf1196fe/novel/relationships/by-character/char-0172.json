@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0172/index.json",
+          "record_id": "char-0172"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 75,
+      "summary": "与棺中枯手×我的主人的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0014.json",
+        "record_id": "rel-0014"
+      },
+      "title": "棺中枯手×我的主人"
+    }
+  ],
+  "id": "idx-rel-char-0172",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 75,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 75,
+        "start": 75
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0172/index.json",
+        "record_id": "char-0172"
+      }
+    ]
+  },
+  "title": "char-0172 关系入口"
+}

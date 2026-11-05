@@ -1,0 +1,30 @@
+{
+  "id": "thread-0765",
+  "introduced_at": 745,
+  "kind": "story_thread",
+  "label": "姚惜雪借血魂丹复活，带悲哀与刻骨杀机",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 745,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 745,
+          "start": 745
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0765-001",
+      "resolution_refs": [],
+      "revealed_at": 745,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "姚惜雪在妖灵之地赤裸现身复活，抬头望天露出浓浓的悲哀与刻骨铭心的杀机，其去向与目标本章未明。"
+    }
+  ]
+}

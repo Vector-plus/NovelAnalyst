@@ -1,0 +1,30 @@
+{
+  "id": "thread-0238",
+  "introduced_at": 313,
+  "kind": "story_thread",
+  "label": "王林在云天宗前现身并公开与李慕婉的关系",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 313,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity_reveal",
+      "chapter_ranges": [
+        {
+          "end": 313,
+          "start": 313
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0238-001",
+      "resolution_refs": [],
+      "revealed_at": 313,
+      "role": "main",
+      "status": "active",
+      "summary": "章末一个声音在展白背后响起，自称“我，就是王林”，并称李慕婉是他的女人；此前展白已多次听到王林之名并追问其身份。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0218",
+  "introduced_at": 290,
+  "kind": "story_thread",
+  "label": "叱虎的同行邀请待王林答复",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 290,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 290,
+          "start": 290
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0218-001",
+      "resolution_refs": [],
+      "revealed_at": 290,
+      "role": "protagonist",
+      "status": "open",
+      "summary": "叱虎约王林与其另约之人同去一地探宝，王林此前称需考虑几日；本章结尾再度提及要仔细考虑此邀请。"
+    }
+  ]
+}

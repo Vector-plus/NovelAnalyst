@@ -1,0 +1,30 @@
+{
+  "id": "thread-0699",
+  "introduced_at": 690,
+  "kind": "story_thread",
+  "label": "周茹解封记忆与王林留下的安排",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 690,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery_thread",
+      "chapter_ranges": [
+        {
+          "end": 690,
+          "start": 690
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0699-001",
+      "resolution_refs": [],
+      "revealed_at": 690,
+      "role": "reveal",
+      "status": "developing",
+      "summary": "周茹打开王林留下的储物袋，只有白光解封其脑中记忆；她由此得知叔叔一直不想她去找他，记忆中另有一段自称「婉儿」的言语。"
+    }
+  ]
+}

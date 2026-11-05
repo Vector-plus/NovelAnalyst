@@ -1,0 +1,30 @@
+{
+  "id": "thread-0758",
+  "introduced_at": 741,
+  "kind": "story_thread",
+  "label": "已故仙人遗书、仙帝之死与“不该看到的一幕”",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 741,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 741,
+          "start": 741
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0758-001",
+      "resolution_refs": [],
+      "revealed_at": 741,
+      "role": "遗书内容引出仙界乙庚十六年战古之神、乙庚十九年仙帝癫狂指天而亡，以及作画者所见之谜，本章仅呈现文本，未得解",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,1352 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-017"
+  },
+  "stage_range": {
+    "start": 550,
+    "end": 583
+  },
+  "as_of": 583,
+  "arc_summary": {
+    "doc_id": "doc-arc-017",
+    "front_matter": {
+      "title": "天妖城妖将之战、妖鼓洗髓与问鼎",
+      "chapter_ranges": [
+        {
+          "start": 550,
+          "end": 583
+        }
+      ],
+      "as_of": 583,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-5@550"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-33@550"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@551"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@553"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@556"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@557"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@558"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@559"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@564"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@566"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@570"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@572"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@573"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@574"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@575"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@576"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@577"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@577"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-14@577"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-5@579"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-13@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@581"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@582"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@583"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@583"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第550—583章。王林随妖将莫厉海赴天妖郡京都天妖城，历经妖将大比、妖鼓考核、真天劫、古妖立约，最终于第582章成就问鼎，末章以问鼎后首战收束。[[ev-local-5@550]][[ev-local-1@582]]\n\n## 起始局面\n炼魂部落在王林离谷前确立扩张方针与「抽魄」嫡系传承；姚惜雪以恨入道被王林破坏并加强禁制，囚禁状态延续到本阶段起点。莫厉海欲进妖将大比前三、取古妖殿修炼资格以图副帅之位，却缺一具妖魔身（十三已被王林要走），故携王林同行。妖将大比与副帅空缺的规则由妖兵队长口述交代，全部属 reported 信息。[[ev-local-2@551]][[claim-local-33@550]]\n\n## 核心目标与冲突\n三条目标线并行：一为京都立足（妖将大比→副帅之位）[[ev-local-4@559]]；二为向大罗剑宗之人追问周佚被封印下落；三为凑足杀戮之气修成杀戮仙诀。冲突方包括石萧、墨非一系妖将竞争者，掌执法之权的金甲男子（金总管／金乌旭），以及洪牢、大罗剑宗末羊、金乌旭袭杀、真天劫与黑塔铠甲存在等逐层升级的敌意。[[ev-local-3@556]][[ev-local-2@566]][[ev-local-3@577]][[ev-local-1@583]]\n\n## 关键转折\n① 洪牢最底层血光世界中首次真正施展杀戮之气，杀人即可增益；② 硬抗帝剑一剑以生之烙印脱身，帝剑离阵毁洪牢近一月；③ 妖将之战中废妖将熬迪、两拍拨开金甲男子长枪，规则层面首次对峙；④ 第570章悟「逆」为问鼎关键，妖鼓考核改为敲鼓取前十；⑤ 第572—575章以三千余道生之烙印护体近身敲鼓，五声合一、追加至八声被七位妖帅评为「言出法随」，再以悲念敲鼓引天帅起身动容与「真正洗髓」定评；⑥ 第576章拒绝以遗忘换取问鼎，定意逆天而修；⑦ 第577章以第十五击杀金甲男子金乌旭，引出真天劫，成天妖郡名义上敲响妖鼓第一人；⑧ 第580章与妖鼓中古妖立约，肉身修复、天威失效；⑨ 第581—582章吞问鼎之晶，闭关十年成就问鼎。[[ev-local-4@557]][[ev-local-1@558]][[ev-local-2@566]][[ev-local-3@570]][[ev-local-3@572]][[ev-local-1@573]][[ev-local-3@574]][[ev-local-3@575]][[ev-local-1@576]][[ev-local-2@577]][[ev-local-3@580]][[ev-local-3@581]]\n\n## 阶段结果\n王林成就问鼎，天妖城帝都经天劫第二重「天威」而除圣物妖鼓外尽毁；墨非被列为妖将第一人，金甲男子金乌旭身死；王林与古妖立约取回其余八郡圣物，并被五位老祖点名三月后赴龙潭。末章出现新威胁：黑塔铠甲中以枯骨护腕摄夺问鼎元气的存在。[[claim-local-14@577]][[ev-local-5@579]][[claim-local-13@580]][[ev-local-3@583]]\n\n## 下一阶段承接与未决问题\n问鼎后「另有收获」尚未交代；古妖三月龙潭之约与八郡圣物任务未展开；外界十年后仍在搜寻王林而五祖爷神识无果；李慕婉「再相聚」承诺未有回收；洪牢黑发男子与墨非相貌一致的身份谜未解；金甲男子三称（金甲男子／金总管／金乌旭）尚未做实体合并；黑塔铠甲吞噬问鼎元气者成为问鼎期首个大敌。[[claim-local-17@582]][[claim-local-13@580]][[claim-local-14@558]][[claim-local-12@577]]",
+    "note": "arc 只组织本 stage buffer 内事件与陈述"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "天妖城妖将之战、妖鼓洗髓与问鼎",
+          "chapter_ranges": [
+            {
+              "start": 550,
+              "end": 583
+            }
+          ],
+          "as_of": 583,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-5@550"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-30@550"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-22@550"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@551"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@553"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@553"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@554"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@555"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@555"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-5@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@557"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@558"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@559"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@561"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@563"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@563"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@564"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-9@564"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@566"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@566"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@569"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-11@569"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@570"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-13@570"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@572"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@573"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@573"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@574"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@575"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@576"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@576"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-13@576"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@577"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@577"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@577"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-6@578"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@578"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-5@579"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@580"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@580"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-17@580"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@581"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@582"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-15@582"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@583"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@583"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n随妖将莫厉海自炼魂部落启程赴天妖郡京都，以「王副将」之名成为其随行者，公开身份在入城当众称呼中确立。修为为婴变后期大圆满，已意境入体、道心圆满，但距问鼎仍差一步；姚惜雪禁制下的囚禁状态延续到本阶段起点，因修为不到问鼎，搜魂对其有致死风险，秘密未能取得。[[ev-local-5@550]][[ev-local-3@551]][[claim-local-11@569]][[claim-local-22@550]]\n\n## 目标与动机\n三层目标：①以妖将大比、副帅之位在天妖城获得立足与话语权，并助莫厉海完成其「进前三→古妖殿资格→副帅」之图；②借京都之地向大罗剑宗之人追问周佚被封印的下落；③凑足杀戮之气以修成杀戮仙诀——自陈无共通契机可循，只能靠大量尝试，此时仅有六道。[[claim-local-33@550]][[claim-local-30@550]][[ev-local-1@553]]\n\n## 关键选择与经历\n- 第553章：在天逆珠前追忆李慕婉，哀伤中立下「再相聚」承诺，动机从责任转向追念。[[ev-local-3@553]]\n- 第554—555章：以杀戮之气取信莫厉海，换取入洪牢七日修炼之机（由莫厉海付出十崩拳意前三层）。洪牢内首次以杀戮之气杀活人，对方枯萎成干尸、灰气回收增浓，但自语「还是一道……」，进度不及预期。[[ev-local-2@554]][[ev-local-1@555]][[ev-local-3@555]]\n- 第556章：与洪牢十狱将之一的许姓男子达成「以杀戮神通杀妖将石萧」的交易，并投入最底层血光世界厮杀，杀戮仙诀进入实测。[[ev-local-3@556]][[ev-local-5@556]]\n- 第557—558章：首次凝聚并施展杀戮之气，血色世界内真正致死；随即硬抗帝剑一剑，以生之烙印正面承受剑气并脱身。[[ev-local-4@557]][[ev-local-1@558]]\n- 第559—561章：在玄城副帅面前展示两千道杀戮之气并取胜；敌方指认其目光为「杀戮道」，反杀身份为敌方分点负责人的年长黑衣人，对方自爆收场。[[ev-local-4@559]][[ev-local-4@561]]\n- 第562—563章：末羊闯入莫府送战帖，王林以生之烙印化去六十四道剑气、徒手抓住巨剑，随后诱杀末羊，夺取并吞噬凌天候的保命剑气之一；公开表态与大罗剑宗无仇隙、不愿与剑肖十二子为敌。[[ev-local-3@563]][[ev-local-4@563]]\n- 第564—567章：妖将之战开幕，莫厉海败于墨非后依约退赛，王林代为争副帅；点名出列应战后废掉妖将熬迪，金甲男子掷金色长枪惩戒被两拍拨开，形成规则层面的对峙。[[ev-local-4@564]][[claim-local-9@564]][[ev-local-2@566]][[ev-local-3@566]]\n- 第568—569章：切断许立国与飞剑的联系、对方化剑形破禁出逃，随后补全缺一道的禁制重新控住；又以损害灵体的手段在黑色弯刀上刻下元神烙印使其归附。[[ev-local-2@568]][[ev-local-3@569]]\n- 第570—575章：悟得「这逆字，便是我达到问鼎的关键」；妖将之战第二轮改为敲战妖鼓取前十。以三千余道生之烙印护体近身敲鼓，五声合一而身形未动，追加六至八声，被七位妖帅评为「言出法随」，与金甲男子索臂之赌未了；再以悲念敲出含念鼓音，天帅首次起身动容并定评为「真正洗髓」。[[ev-local-3@570]][[claim-local-13@570]][[ev-local-3@572]][[ev-local-1@573]][[ev-local-2@573]][[ev-local-3@574]][[ev-local-3@575]]\n- 第576章：拒绝以遗忘换取问鼎，定意逆天而修；金乌旭袭杀，被神秘冷哼重创；远古战场高塔铠甲神念「逆修……很好……」首次介入。[[ev-local-1@576]][[ev-local-2@576]][[claim-local-13@576]]\n- 第577—579章：以第十五击杀金甲男子金乌旭，引出真天劫，成为天妖郡名义上敲响妖鼓第一人；以仙玉与百道寂灭指抗衡红雷，天劫第二重「天威」降临，帝都除圣物妖鼓外尽毁。[[ev-local-2@577]][[ev-local-3@577]][[claim-local-14@577]][[ev-local-6@578]][[ev-local-5@579]]\n- 第580—582章：与妖鼓中古妖立约（修复身体、渡劫、天妖郡权利，换取取回八郡圣物），肉身修复强化显出百丈妖影，天威对其失效；随后吞问鼎之晶冲击问鼎，闭关十年而成，睁眼自语「问鼎」。[[ev-local-3@580]][[ev-local-4@580]][[claim-local-17@580]][[ev-local-3@581]][[ev-local-1@582]][[claim-local-15@582]]\n- 第583章：问鼎后首战，寂灭指于问鼎期首次施展，元神被动摇时以杀心杀意强行逼回，抗住天魔风保住元神；同时被黑塔铠甲中以枯骨护腕摄夺问鼎元气的存在盯上。[[ev-local-3@583]][[ev-local-1@583]]\n\n## 阶段终点\n修为由婴变后期大圆满跨入问鼎，杀戮之气由六道增至两千余道并经受实战检验，公开身份由「王副将」升为天妖郡敲响妖鼓第一人、古妖立约者。外部代价与风险同步放大：天妖城帝都覆灭、问鼎元气被觊觎、古妖三月龙潭之约与八郡圣物任务悬置。[[claim-local-14@577]][[claim-local-17@580]][[ev-local-1@583]]"
+      },
+      "current_summary_update": "天妖城阶段（第550—583章）：随妖将莫厉海赴天妖郡京都，以「王副将」身份立足；以杀戮之气取信莫厉海、付出十崩拳意前三层得入洪牢七日，在最底层血光世界首次以杀戮之气杀死活人并收集灰气，与洪牢十狱将许姓男子立约杀妖将石萧；硬抗帝剑一剑脱身，反杀敌方分点负责人，诱杀大罗剑宗末羊并夺取凌天候保命剑气之一；于玄副帅面前展示两千杀戮之气取胜，妖将之战中废妖将熬迪、两拍拨开金甲男子长枪；切断并重补许立国禁制、以元神烙印收服黑色弯刀；悟「逆」为问鼎关键，妖鼓考核以三千余道生之烙印护体近身敲鼓，五声合一、追加至八声获评「言出法随」，再以悲念敲鼓得「真正洗髓」之评；拒以遗忘换问鼎、定意逆天而修，以第十五击杀金甲男子金乌旭引出真天劫，成天妖郡名义上敲响妖鼓第一人；与妖鼓中古妖立约修复肉身并换取取回八郡圣物，天威失效；吞问鼎之晶闭关十年成就问鼎，末章以问鼎后首战抵御黑塔铠甲存在摄夺元气。",
+      "identity_notes_appends": [
+        {
+          "kind": "ability",
+          "text": "修为自婴变后期大圆满（意境入体、道心圆满而距问鼎一步）跨入问鼎，闭关十年成就；问鼎机制为仙力与道心双圆满后融合，成则问鼎、败则死亡。",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-11@569"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@578"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@582"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-15@582"
+            }
+          ],
+          "revealed_at": 582,
+          "confidence": "confirmed"
+        },
+        {
+          "kind": "status",
+          "text": "在天妖郡取得公开身份序列：莫厉海随行者「王副将」→ 妖将之战代争副帅者 → 名义上敲响妖鼓第一人、与古妖立约取回八郡圣物之人。",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@551"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-9@564"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@577"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-13@580"
+            }
+          ],
+          "revealed_at": 580,
+          "confidence": "confirmed"
+        }
+      ]
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": true,
+    "reason": "本阶段势力格局发生实质变化：天妖郡层级（正帅／副帅／八大妖帅）在妖将之战中被完整展示，洪牢四大牢狱真相被揭示，天妖城帝都经天威尽毁，古妖一族自妖鼓中现身并介入，大罗剑宗、黑塔铠甲外部势力同时压入，需产出格局 Markdown",
+    "doc_id": "doc-faction-landscape-017",
+    "front_matter": {
+      "title": "天妖郡势力格局（第550—583章）",
+      "chapter_ranges": [
+        {
+          "start": 550,
+          "end": 583
+        }
+      ],
+      "as_of": 583,
+      "subject_refs": [],
+      "record_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-6@551"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-7@551"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@558"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-20@559"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@560"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-24@560"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-1@565"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-9@565"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-41@570"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@576"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-16@576"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-14@577"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-5@579"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-9@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-13@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@581"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-24@581"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@582"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-22@583"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 格局总览\n天妖郡以正帅—副帅—妖将的层级组织，八大妖帅以「天地玄黄宇宙洪荒」为帅名；副帅之位空缺是妖将大比的直接诱因，妖将之战的核心秩序为「妖将不得生死之斗」「杀死妖将者斩」，落败者依约退赛、由帮助者代争。上述层级与规则多为妖兵队长、金甲男子等角色口述（reported）。[[claim-local-6@551]][[claim-local-20@559]][[claim-local-24@560]][[claim-local-9@565]][[claim-local-41@570]]\n\n## 帝君系与执法面\n帝君（黄袍之人）限制帝剑行动而未现身妖将之战；掌妖将之战执法权的金甲男子（金总管／金乌旭）宣布挑战规则、立断臂之赌，最终于第十五声鼓鸣后身死，其位由谁继任未交代。[[ev-local-2@560]][[claim-local-1@565]][[claim-local-14@577]]\n\n## 妖将竞争序列\n墨非被各方视为妖将第一人，敲鼓八声而面具碎裂，相貌与洪牢深处黑发男子一模一样（疑双身／化身）；莫厉海败于墨非后退出；石萧强势击溃暮云、击杀其帮助者天魁上人；熬迪被王林废掉。王林以代为争副帅的外来者身份打破了原有序列。[[claim-local-7@551]][[ev-local-2@558]][[ev-local-2@566]][[claim-local-16@576]]\n\n## 洪牢与四大牢狱\n洪牢地下牢房犯人一月后问斩、任其修炼，最底层血光世界流出「四大牢狱为妖帝喂食帝剑」之说（角色转述，待后续印证）；帝剑因受辱离阵后近一月持续毁坏洪牢。[[claim-local-9@580]][[ev-local-5@579]]\n\n## 古妖一族与外部势力\n妖鼓中自称「古妖」的存在首次身份揭示，并给出古族／古神／古魔／古妖及两类逆修生灵的来历；立约内容为修复身体、渡劫、天妖郡权利换取取回其余八郡圣物，五名古妖老者称王林有「老祖宗的气息」，五位老祖命云沌带其三月后赴龙潭。外部势力方面，大罗剑宗剑肖十二子中的末羊被诱杀、贪狼已转往火妖郡；末章出现黑塔铠甲中自称长期吞噬妖灵之地问鼎修士元气的存在。[[claim-local-9@580]][[claim-local-13@580]][[claim-local-24@581]][[ev-local-1@581]][[claim-local-22@583]]\n\n## 阶段结果与未决\n天妖城帝都遭天劫第二重「天威」几近尽毁，仅圣物妖鼓留存，城池居民由云沌化八身、大挪移转移；外界十年后仍在搜寻王林而五祖爷神识搜寻无果。未决：金甲男子三称（金甲男子／金总管／金乌旭）的实体合称、古妖身份与古族谱系的归属、八郡圣物任务执行主体、黑塔铠甲存在的阵营归属。[[ev-local-5@579]][[ev-local-3@582]][[claim-local-14@577]][[claim-local-13@580]]"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "莫厉海",
+              "note": "玄级妖将；无 index.json 实体，暂以标签占位"
+            }
+          ],
+          "introduced_at": 550
+        }
+      },
+      "stage_doc_id": "doc-rel-0001-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与莫厉海：代争副帅的合作（第550—583章）",
+          "chapter_ranges": [
+            {
+              "start": 550,
+              "end": 583
+            }
+          ],
+          "as_of": 583,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-33@550"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@551"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@554"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-21@554"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-5@563"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@560"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-9@564"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n由「妖将—随行下属」演化为「同盟·代争副帅」，是一个以利益与实力互认支撑的合作关系。[[ev-local-1@560]]\n\n## 双方立场\n莫厉海一方：欲进妖将大比前三以取古妖殿修炼资格、图副帅之位，却缺一具妖魔身（十三已被王林要走），需要王林这张外来的实力牌；见其杀戮之气后重新评估实力，决定维持合作、不与之为敌。王林一方：借莫厉海的身份与人脉进入京都体系，并换取入洪牢修炼的机会。[[claim-local-33@550]][[claim-local-21@554]][[ev-local-2@554]]\n\n## 本阶段互动\n入城当众称王林为「王副将」，给予公开身份；为王林入洪牢付出十崩拳意前三层；末羊送战帖后对王林实力再做评估；妖将之战中被墨非击败，依约退赛，王林遂代为争副帅。[[ev-local-3@551]][[claim-local-5@563]][[claim-local-9@564]]\n\n## 转折与未决\n转折为「莫厉海退赛—王林代争」的权责转移。未决：副帅之争的最终归属及莫厉海在其中的实得利益，本 stage 内未结清。"
+      },
+      "facets": [
+        {
+          "dimension": "同盟合作",
+          "direction": "symmetric",
+          "attitude": "以实力互认维持的互利同盟",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-1@560"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-21@554"
+            }
+          ]
+        },
+        {
+          "dimension": "资源互换",
+          "direction": "directed",
+          "from_ref": {
+            "label": "莫厉海"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "付出十崩拳意前三层换其入洪牢修炼七日",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@554"
+            }
+          ]
+        },
+        {
+          "dimension": "庇护与身份",
+          "direction": "directed",
+          "from_ref": {
+            "label": "莫厉海"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "当众以「王副将」相称，给予公开身份",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@551"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@560"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-9@564"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "金甲男子（金乌旭／金总管）",
+              "note": "掌妖将之战执法权者；三名并称待实体合并"
+            }
+          ],
+          "introduced_at": 565
+        }
+      },
+      "stage_doc_id": "doc-rel-0002-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与金甲男子（金乌旭）：从执法对峙到妖鼓格杀（第565—577章）",
+          "chapter_ranges": [
+            {
+              "start": 565,
+              "end": 577
+            }
+          ],
+          "as_of": 577,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@565"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@566"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@567"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-34@570"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@572"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@573"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@574"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@576"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@577"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-12@577"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n敌对。由执法者与参战者的规则性对峙，升级为一次以妖鼓为场的赌约，终以一方身死收束。\n\n## 双方立场\n金甲男子一方：以「杀妖将者，斩」维持秩序，对王林屡次破格（打伤妖将、代为争副帅）生出明确杀机，并立下「敲不到五下」与自断一臂之赌。王林一方：以规则为刃，反索对方一只手，主动把对峙推到赌约层面。[[ev-local-3@566]][[claim-local-34@570]][[ev-local-3@572]][[ev-local-3@574]]\n\n## 本阶段互动\n- 第566章：掷金色长枪惩戒王林，被两拍拨开。\n- 第572—573章：立「敲不到五下」之赌，王林五声合一后追加至八声，赌约被反转；对方以「借鼓之力」与「凭自身言出法随」作分界辩难。\n- 第576—577章：金乌旭亲自袭杀王林，被神秘冷哼重创；其后王林以第十五击鼓鸣将其杀死。[[ev-local-2@573]][[ev-local-2@576]][[ev-local-2@577]]\n\n## 转折与未决\n转折为第577章的格杀与随之而来的真天劫。未决：叙述并列使用「金甲男子＝金总管＝金乌旭」三称，尚未做实体合并；其袭杀动机与背后指使者未交代。"
+      },
+      "facets": [
+        {
+          "dimension": "敌对冲突",
+          "direction": "symmetric",
+          "attitude": "彼此明确的敌意与杀机",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-34@570"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@576"
+            }
+          ]
+        },
+        {
+          "dimension": "规则惩戒",
+          "direction": "directed",
+          "from_ref": {
+            "label": "金甲男子（金乌旭／金总管）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "以执法之名掷长枪惩戒、以规则警告",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@566"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@567"
+            }
+          ]
+        },
+        {
+          "dimension": "赌约与索偿",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "label": "金甲男子（金乌旭／金总管）"
+          },
+          "attitude": "反索其一只手，以赌约反向压制",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@572"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@572"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@577"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "许姓男子（洪牢十狱将之一）",
+              "note": "自陈修炼杀戮妖道，修为相当婴变后期大圆满"
+            }
+          ],
+          "introduced_at": 555
+        }
+      },
+      "stage_doc_id": "doc-rel-0003-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与许姓男子：洪牢中的条件交易（第555—558章）",
+          "chapter_ranges": [
+            {
+              "start": 555,
+              "end": 558
+            }
+          ],
+          "as_of": 558,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-4@555"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-11@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@558"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n交易关系，建立在洪牢这一封闭空间与杀戮之道这一共同语境之上，实质内容为「以杀戮神通杀妖将石萧」。[[ev-local-3@556]]\n\n## 双方立场\n许姓男子：自陈修炼杀戮妖道、为洪牢十狱将之一，修为相当婴变后期大圆满，需要有人替其出手杀石萧。王林：接受约定条款，同时借洪牢环境实测杀戮仙诀。[[claim-local-11@556]][[claim-local-4@555]][[claim-local-14@556]]\n\n## 本阶段互动\n牢中结识并达成约定；王林硬抗帝剑一剑后由许姓男子助其逃出洪牢，二人尚有未明约定待展开。[[ev-local-3@558]]\n\n## 转折与未决\n未决：约定中「杀石萧」一条在本 stage 未见兑现；第558章所说「未明约定」内容尚未交代；许姓男子是否等同其他已命名角色需后续核对。"
+      },
+      "facets": [
+        {
+          "dimension": "条件交易",
+          "direction": "symmetric",
+          "attitude": "以杀石萧换取洪牢便利，双方均有未明附加约定",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-14@556"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@558"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@556"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "云沌（画舫青年）",
+              "note": "天帅一方之差遣者，化八身、大挪移之术"
+            }
+          ],
+          "introduced_at": 553
+        }
+      },
+      "stage_doc_id": "doc-rel-0004-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与云沌（画舫青年）：旁观、协助与传话（第553—583章）",
+          "chapter_ranges": [
+            {
+              "start": 553,
+              "end": 583
+            }
+          ],
+          "as_of": 583,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-23@553"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@579"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-18@578"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-24@581"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n非敌非盟的旁观—协助关系，后转为「奉命带话」的差遣关系。\n\n## 双方立场\n云沌一方：以画舫青年身份在洪城内河出入，对王林的抗劫结果作出判断，并在天威降临时以化八身、大挪移转移城池居民；其后被五位老祖命为带王林赴龙潭之人。王林一方：本阶段内与其无正面结盟表述，仅承其协助与传话。[[claim-local-18@578]][[ev-local-4@579]][[claim-local-24@581]]\n\n## 本阶段互动\n第553—570章间以画舫、内河为场景多次旁观与短促交谈（含「恶客」与侄女线索）；第579章大规模施术救人；第581章身份在叙述中确认为云沌并承接差事。[[claim-local-23@553]][[ev-local-4@579]]\n\n## 转折与未决\n未决：三个月后龙潭之约的具体目的、云沌所属势力的明确归属、其与天帅与五祖的关系层级。"
+      },
+      "facets": [
+        {
+          "dimension": "协助",
+          "direction": "directed",
+          "from_ref": {
+            "label": "云沌（画舫青年）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "天威降临时转移城池居民，侧面解围",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-4@579"
+            }
+          ]
+        },
+        {
+          "dimension": "差遣传话",
+          "direction": "directed",
+          "from_ref": {
+            "label": "云沌（画舫青年）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "奉命带王林三月后赴龙潭",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-24@581"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@579"
+        }
+      ]
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "许立国（剑灵）",
+              "note": "王林所控飞剑剑灵；本阶段有破禁出逃与再受制"
+            }
+          ],
+          "introduced_at": 567
+        }
+      },
+      "stage_doc_id": "doc-rel-0005-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与许立国：主从约束的破与立（第567—569章）",
+          "chapter_ranges": [
+            {
+              "start": 567,
+              "end": 569
+            }
+          ],
+          "as_of": 569,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@567"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-15@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-17@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@569"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-33@569"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 关系状态\n主从约束关系，本阶段首次出现实质性的逃逸与再收服。\n\n## 双方立场\n王林：视许立国为受禁制约束的剑灵，可切断其与飞剑的联系，并以补全禁制作为根本性控制手段；同时判定其化剑形破禁之能在朱雀星外另有隐瞒来源。许立国：以「小美人」为目标，誓言不带走其人便不离天妖城，行为上有明显自主性。[[claim-local-15@568]][[claim-local-17@568]][[claim-local-33@569]]\n\n## 本阶段互动\n第567章出仙剑追缠帝剑剑灵并扬言会再来；第568章联系被切断后化剑形破禁出逃；第569章王林补全缺一道的禁制重新控住。[[ev-local-3@567]][[ev-local-2@568]][[ev-local-3@569]]\n\n## 转折与未决\n未决：其隐瞒来源与真实身份、对「小美人」的执念如何收束。"
+      },
+      "facets": [
+        {
+          "dimension": "主从约束",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "label": "许立国（剑灵）"
+          },
+          "attitude": "以禁制与切断飞剑联系为控制手段",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-15@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@569"
+            }
+          ]
+        },
+        {
+          "dimension": "离心倾向",
+          "direction": "directed",
+          "from_ref": {
+            "label": "许立国（剑灵）"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "破禁出逃、另有目标，忠诚度有限",
+          "basis_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-2@568"
+            },
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "claim-local-33@569"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-2@568"
+        }
+      ]
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emo": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "label": "李慕婉",
+              "note": "无 index.json 实体，暂以标签占位"
+            }
+          ],
+          "introduced_at": 553
+        }
+      },
+      "stage_doc_id": "doc-emo-0004-stage-017",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "王林与李慕婉：由责任转向追念的「再相聚」承诺（第553章）",
+          "chapter_ranges": [
+            {
+              "start": 550,
+              "end": 553
+            }
+          ],
+          "as_of": 553,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/stage-017.buffer.json",
+              "record_id": "ev-local-3@553"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n本阶段仅有一次直接材料：王林在天逆珠前对李慕婉的态度由「感动与责任、并非是情」转向哀伤追忆，并立下「再相聚」的承诺。据此判断，二人情感性质仍属**未定型**——文本自身明确否定「情」这一读法，而情感强度确实上升（由责任转为追念与承诺）。故本阶段定性为 uncertain，不作为恋爱关系处理。[[ev-local-3@553]]\n\n## 变化解释\n变化发生在王林身处天妖城、修行与杀戮并进的高压期：他一面推演杀戮仙诀的可行路径（无共通契机、只能大量尝试），一面在天逆珠前回望旧事，情绪由承当责任转为对已失之人的哀伤追忆与主动许诺。承诺与天逆珠绑定，构成长线线索节点。[[ev-local-3@553]]\n\n## 关系阶段引用\n- 情感线：本阶段文档 doc-emo-0004-stage-017（即本文件）。\n- 关系快照：本阶段未产出二人专属关系阶段快照（李慕婉缺 index.json 实体、且本阶段无双向互动材料），故 relationship_links 仅指向本情感阶段。\n\n## 推断边界\n- 未做恋爱定性：原文明确表述「并非是情」，不得升格为 romantic。\n- 李慕婉一侧在本阶段无任何直接言行材料，故不建立对称态度。\n- 「再相聚」承诺的具体所指（是否指复活、寻回或他途）本阶段未交代，属下一阶段承接事项。"
+      },
+      "assessment": {
+        "category": "uncertain",
+        "relationship_links": [
+          {
+            "path": "emotions/emo-0004/stages/stage-017.md",
+            "record_id": "doc-emo-0004-stage-017"
+          }
+        ],
+        "summary": "单向的追念与承诺；文本明示「并非情」，情感性质未定型，不构成恋爱关系。",
+        "basis_refs": [
+          {
+            "path": "events/stage-017.buffer.json",
+            "record_id": "ev-local-3@553"
+          }
+        ],
+        "revealed_at": 553
+      }
+    }
+  ],
+  "thread_updates": [
+    {
+      "thread_key": "wanglin-xiulian-shalu",
+      "title": "杀戮仙诀与杀戮之气的收集",
+      "status": "advanced",
+      "summary": "由六道推演到实战收集：洪牢首次活人击杀回收灰气、血色世界内真正致死、第559章已具两千余道，并成为妖将之战中的主要战力与敌方指认的「杀戮道」标志。收集效率仍未达预期（自语「还是一道……」）。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@553"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@555"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@557"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-4@559"
+        }
+      ],
+      "chapter_range": {
+        "start": 553,
+        "end": 561
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "wanglin-wending",
+      "title": "王林的问鼎之路",
+      "status": "closed",
+      "summary": "由「意境入体、道心圆满而距问鼎一步」→ 悟「逆」为问鼎关键 → 拒以遗忘换取问鼎、定意逆天而修 → 妖鼓十五击引真天劫 → 与古妖立约 → 吞问鼎之晶闭关十年成就问鼎。遗留：问鼎感悟中「另有收获」尚未交代。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-11@569"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-13@570"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@576"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@582"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-17@582"
+        }
+      ],
+      "chapter_range": {
+        "start": 569,
+        "end": 582
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "guyiao-longtan-bajun-shengwu",
+      "title": "古妖之约：三月后龙潭相见与取回八郡圣物",
+      "status": "opened",
+      "summary": "妖鼓中古妖现身立约：修复身体、渡劫、天妖郡权利，换取王林取回其余八郡圣物；五位古妖老者称王林有「老祖宗的气息」，五位老祖命云沌带其三月后赴龙潭。任务内容与执行路径均未展开。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-13@580"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-17@581"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-24@581"
+        }
+      ],
+      "chapter_range": {
+        "start": 580,
+        "end": 581
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "zhouyi-fengyin-zhuiwen",
+      "title": "向大罗剑宗追问周佚被封印的下落",
+      "status": "stalled",
+      "summary": "为京都之行动机之一，本阶段未见实质推进；同阶段内倒是与剑肖十二子发生直接冲突（诱杀末羊、夺取凌天候保命剑气之一），王林公开表态不愿在妖灵之地与剑肖十二子为敌。问鼎之晶来源亦以「周佚前辈所赠」交代，可与该线索互为参照。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-30@550"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@563"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-30@581"
+        }
+      ],
+      "chapter_range": {
+        "start": 550,
+        "end": 581
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "yaoxixue-souhun",
+      "title": "姚惜雪禁制与搜魂取秘",
+      "status": "pending",
+      "summary": "本阶段起点为「修为不到问鼎、搜魂对姚惜雪有致死风险，秘密尚未取得」；至本阶段末王林已成问鼎，原先的限制条件不再成立，但文内未见对姚惜雪的处理动作，属待处理状态。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-22@550"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@582"
+        }
+      ],
+      "chapter_range": {
+        "start": 550,
+        "end": 582
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "heita-kaiJia-yuanqi",
+      "title": "黑塔铠甲存在吞噬问鼎元气",
+      "status": "opened",
+      "summary": "末章新增威胁：黑塔铠甲中以护腕枯骨手臂摄取问鼎元气者，自称长期吞噬妖灵之地问鼎修士的元气；其设定为「古妖术修炼者无元气、修士问鼎一刻有元气」。王林问鼎后首战即与其交锋并保住元神，胜负未决。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-1@583"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-22@583"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "ev-local-3@583"
+        }
+      ],
+      "chapter_range": {
+        "start": 583,
+        "end": 583
+      },
+      "safe_through": 583
+    },
+    {
+      "thread_key": "honglao-heifa-nanzi-mofei",
+      "title": "洪牢黑发男子与墨非相貌一致的身份谜",
+      "status": "opened",
+      "summary": "第558章他人指出墨非相貌与洪牢黑发男子一模一样（疑双身／化身），第571章王林亲见墨非面具碎裂后认同此点；洪牢黑发男子还存在反复脱逃与复活的循环。身份尚未合并确认。",
+      "basis_refs": [
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-14@558"
+        },
+        {
+          "path": "events/stage-017.buffer.json",
+          "record_id": "claim-local-13@571"
+        }
+      ],
+      "chapter_range": {
+        "start": 558,
+        "end": 571
+      },
+      "safe_through": 583
+    }
+  ],
+  "warnings": [
+    "stage_buffer 中大量使用章节内局部 id（ev-local-N / claim-local-N）且跨章重复，无法在聚合层解析为全局 record_id；本 payload 中所有 Markdown 引用与 record_refs 统一记为「<local_id>@<chapter_order>」并置于 events/stage-017.buffer.json 路径下，需由下游在应用前映射为真实 event/claim ref。",
+    "本阶段涉及实体清单为空，除 char-0001（王林）外，莫厉海、许姓男子、金甲男子／金总管／金乌旭、云沌、墨非、许立国、李慕婉、孙涛、明萱等均无 index.json 实体引用，故未生成各自 character_stage，仅在关系/情感快照中以标签占位；建议先补实体档案再回填。",
+    "金甲男子、金总管、金乌旭三名在叙述中被并列指称（第572、577章），属于候选→候选的同一性推断，未达 confirmed，未做 identity_links 合并。",
+    "facets 中未对无表达的一方填写 attitude（如云沌对王林、李慕婉一侧），避免态度自动对称。",
+    "李慕婉情感线按原文「感动与责任、并非是情」的明示，category 取 uncertain，未使用 romantic。",
+    "本阶段无 faction 实体 index，故 faction_stages 为空，势力格局改以 faction_landscape 文档呈现。"
+  ],
+  "notes_for_audit": [
+    "王林新 stage 编号为 stage-017（已有 stage-001~016，缺 stage-009），stage_doc_id 记为 doc-char-0001-stage-017。",
+    "妖鼓相关数值存在多轮递进（五声合一→六至八声→第十五击），正文按章节顺序表述，未做取舍；生之烙印数量在不同章有「三千余道生之烙印」「散近两千层」并存，均按原陈述分别引用。",
+    "洪牢四大牢狱「为妖帝喂食帝剑」之说来自角色转述（第556章），已在正文标注为待印证。",
+    "天劫与问鼎机制（仙力道心双圆满后融合、成则问鼎败则死亡）标注为世界观关键设定，后续章节可能反复引用。",
+    "末章「升仙果」仅作为 setting_candidate 出现在 buffer，性质未展开，未写入任何 Markdown。"
+  ]
+}

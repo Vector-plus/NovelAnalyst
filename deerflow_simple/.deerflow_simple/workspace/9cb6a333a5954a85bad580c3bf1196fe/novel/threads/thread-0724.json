@@ -1,0 +1,30 @@
+{
+  "id": "thread-0724",
+  "introduced_at": 714,
+  "kind": "story_thread",
+  "label": "融合红蝶蓝色玫瑰的皇冠未解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 714,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 714,
+          "start": 714
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0724-001",
+      "resolution_refs": [],
+      "revealed_at": 714,
+      "role": "minor",
+      "status": "open",
+      "summary": "王林研究很久仍未看透该皇冠的用途与本质。"
+    }
+  ]
+}

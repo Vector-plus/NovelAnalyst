@@ -1,0 +1,30 @@
+{
+  "id": "thread-0411",
+  "introduced_at": 492,
+  "kind": "story_thread",
+  "label": "燿金果产地与九黎虫之险",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 492,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 492,
+          "start": 492
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0411-001",
+      "resolution_refs": [],
+      "revealed_at": 492,
+      "role": "advance",
+      "status": "open",
+      "summary": "大罗剑宗抵达千琴师门两月前发现燿金果的山谷，发现谷内果丛由九黎虫守护；矮个长老称对付此虫需两个药引，并看向千琴与白衣青年。"
+    }
+  ]
+}

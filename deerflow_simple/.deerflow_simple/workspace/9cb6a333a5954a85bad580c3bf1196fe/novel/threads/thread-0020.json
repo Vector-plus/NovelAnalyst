@@ -1,0 +1,30 @@
+{
+  "id": "thread-0020",
+  "introduced_at": 28,
+  "kind": "story_thread",
+  "label": "山崖吸力风眼的修炼用途",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 28,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 28,
+          "start": 28
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0020-001",
+      "resolution_refs": [],
+      "revealed_at": 28,
+      "role": "setup",
+      "status": "open",
+      "summary": "据张师兄称，风眼可助修炼，需凝气第四层巅峰并开启第五层口诀才能前往体会效果；王林此前已知此地。"
+    }
+  ]
+}

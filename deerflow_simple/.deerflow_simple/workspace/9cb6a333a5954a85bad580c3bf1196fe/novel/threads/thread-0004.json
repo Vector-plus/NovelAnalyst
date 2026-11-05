@@ -1,0 +1,30 @@
+{
+  "id": "thread-0004",
+  "introduced_at": 4,
+  "kind": "story_thread",
+  "label": "王林争取进入恒岳派",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 4,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 4,
+          "start": 4
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0004-001",
+      "resolution_refs": [],
+      "revealed_at": 4,
+      "role": "introduction",
+      "status": "open",
+      "summary": "石阶毅力测试中王林坚持到最后但未在三人合格之列；剑灵测试中越过五丈处却在距大门三丈处被推退，被判不合格；其是否能入派仍未确定。"
+    }
+  ]
+}

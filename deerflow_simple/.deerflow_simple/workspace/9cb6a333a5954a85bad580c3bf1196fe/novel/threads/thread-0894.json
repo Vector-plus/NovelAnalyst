@@ -1,0 +1,30 @@
+{
+  "id": "thread-0894",
+  "introduced_at": 854,
+  "kind": "story_thread",
+  "label": "许霆对「许木」无需抵抗雷力的怀疑",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 854,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 854,
+          "start": 854
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0894-001",
+      "resolution_refs": [],
+      "revealed_at": 854,
+      "role": "foreshadowing",
+      "status": "open",
+      "summary": "许霆长期观察王林，认定其未作抵抗、未开法宝而雷霆之力入体即消失，越看越心惊并生出各种猜测，但猜不到答案；该疑点在本章未获解释。"
+    }
+  ]
+}

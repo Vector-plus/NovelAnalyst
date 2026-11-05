@@ -1,0 +1,30 @@
+{
+  "id": "thread-0269",
+  "introduced_at": 353,
+  "kind": "story_thread",
+  "label": "孙泰被传送出朱雀星，去向未明",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 353,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_movement",
+      "chapter_ranges": [
+        {
+          "end": 353,
+          "start": 353
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0269-001",
+      "resolution_refs": [],
+      "revealed_at": 353,
+      "role": "primary",
+      "status": "open",
+      "summary": "巨魔族天赋神通把孙泰送往遥远星空，他留下“不甘心的吼叫”后消失；其元神与王林的关联（他担忧元神受损）本章未交代后续。"
+    }
+  ]
+}

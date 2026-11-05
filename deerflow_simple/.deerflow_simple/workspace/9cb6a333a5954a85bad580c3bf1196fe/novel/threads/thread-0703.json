@@ -1,0 +1,39 @@
+{
+  "id": "thread-0703",
+  "introduced_at": 692,
+  "kind": "story_thread",
+  "label": "天逆珠子金属性圆满与认主",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 692,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 692,
+          "start": 692
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0019.json",
+          "record_id": "claim-19436"
+        },
+        {
+          "path": "events/block-0019.json",
+          "record_id": "claim-19437"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0703-001",
+      "resolution_refs": [],
+      "revealed_at": 692,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "王林前往云霞星，期望此行成功后使天逆的金属性圆满从而认主，并对天逆珠子圆满后是否有神通存疑。"
+    }
+  ]
+}

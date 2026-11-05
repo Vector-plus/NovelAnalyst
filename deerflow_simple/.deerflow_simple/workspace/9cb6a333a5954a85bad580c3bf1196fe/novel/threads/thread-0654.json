@@ -1,0 +1,30 @@
+{
+  "id": "thread-0654",
+  "introduced_at": 660,
+  "kind": "story_thread",
+  "label": "幻东之死的第四名参与者「许木」",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 660,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 660,
+          "start": 660
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0654-001",
+      "resolution_refs": [],
+      "revealed_at": 660,
+      "role": "introduced",
+      "status": "open",
+      "summary": "冉学风临死指认杀死幻东者除三人外还有许木；柳眉自称对其陌生。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0382",
+  "introduced_at": 470,
+  "kind": "story_thread",
+  "label": "周佚下落与剑意线索",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 470,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_plot",
+      "chapter_ranges": [
+        {
+          "end": 470,
+          "start": 470
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0382-001",
+      "resolution_refs": [],
+      "revealed_at": 470,
+      "role": "advance",
+      "status": "open",
+      "summary": "王林在天运宗紫宗山品灵阁外的张向凡的碧绿飞剑上感受到周佚化身剑魂后的剑意，并取走这一丝剑意；周佚上百年音讯全无的线索首次出现新痕迹。"
+    }
+  ]
+}

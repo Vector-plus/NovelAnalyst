@@ -1,0 +1,30 @@
+{
+  "id": "thread-0400",
+  "introduced_at": 483,
+  "kind": "story_thread",
+  "label": "三个月后东海妖灵之门前的人选约定",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 483,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "obligation",
+      "chapter_ranges": [
+        {
+          "end": 483,
+          "start": 483
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0400-001",
+      "resolution_refs": [],
+      "revealed_at": 483,
+      "role": "opening",
+      "status": "ongoing",
+      "summary": "凌天候离去时要求天运子按承诺在三个月后东海妖灵之门前选好进入之人，天运子略一点头。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0748",
+  "introduced_at": 729,
+  "kind": "story_thread",
+  "label": "老者打入王林胸口的光球与「吹了几成」的自疑",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 729,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 729,
+          "start": 729
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0748-001",
+      "resolution_refs": [],
+      "revealed_at": 729,
+      "role": "setup",
+      "status": "open",
+      "summary": "老者向王林胸口打入由尘埃凝成、吹入一口气的光球，事后自语「那口气吹了几成……好像多了一点」，并称若王林没死就真是他的有缘人。王林此后境况在本章未交代。"
+    }
+  ]
+}

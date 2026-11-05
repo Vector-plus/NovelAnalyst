@@ -1,0 +1,30 @@
+{
+  "id": "thread-0563",
+  "introduced_at": 603,
+  "kind": "story_thread",
+  "label": "修士联盟老祖派仙卫生擒王林",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 603,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 603,
+          "start": 603
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0563-001",
+      "resolution_refs": [],
+      "revealed_at": 603,
+      "role": "primary",
+      "status": "open",
+      "summary": "孙云山称老祖因王林与莫厉海一战而下令生擒他，数月前得知其下落再度派人前来；本章来人被王林击破，但老祖与联盟本体未出现。"
+    }
+  ]
+}

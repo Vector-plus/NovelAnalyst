@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第773—868章：以邪气青年之身出场，极境被炎雷子与王林元神合力封印；否认自己是清水仙君，第779章离场前以神念称王林为师尊隔代传人；此后在雷仙殿关注王林，第837—853章公开称其为师弟、为护其与血神子开战并以撒豆成兵杀九品仙王姚海青，更当众击杀罗素，王林回称「师兄」；第841章立诺一百零八仙后授唤雨与撒豆成兵，第868章以东临星传承方式兑现并赠一道仙元。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 871,
+          "start": 721
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1729/index.json",
+          "record_id": "char-1729"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 871,
+      "summary": "邪气青年（清水仙君）：极境封印、师门定性与护短传术（第721—871章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1729/stages/stage-020.md",
+        "record_id": "doc-char-1729-stage-020"
+      },
+      "title": "邪气青年（清水仙君）：极境封印、师门定性与护短传术"
+    }
+  ],
+  "id": "char-1729",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 777,
+  "kind": "entity_index",
+  "label": "清水",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 871,
+  "schema_version": "2.0"
+}

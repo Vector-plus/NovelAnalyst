@@ -1,0 +1,30 @@
+{
+  "id": "thread-0457",
+  "introduced_at": 526,
+  "kind": "story_thread",
+  "label": "王林闯十崩拳意、逼近左翼妖将",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 526,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 526,
+          "start": 526
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0457-001",
+      "resolution_refs": [],
+      "revealed_at": 526,
+      "role": "setup",
+      "status": "open",
+      "summary": "本章王林破前二、三崩，被第四崩轰停，尚未破开剩余诸崩，与左翼妖将的战斗未决。"
+    }
+  ]
+}

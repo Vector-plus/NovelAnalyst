@@ -1,0 +1,30 @@
+{
+  "id": "thread-0842",
+  "introduced_at": 817,
+  "kind": "story_thread",
+  "label": "炎雷子的驱月兽计划：将望月赶入联盟星域",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 817,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_conflict",
+      "chapter_ranges": [
+        {
+          "end": 817,
+          "start": 817
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0842-001",
+      "resolution_refs": [],
+      "revealed_at": 817,
+      "role": "setup",
+      "status": "active",
+      "summary": "炎雷子筹划多年看中此月兽，与向姓老者等联手并欲联合「几个老怪」，在通道打开后将望月赶入联盟星域，本章已由向姓老者布阵困住望月。"
+    }
+  ]
+}

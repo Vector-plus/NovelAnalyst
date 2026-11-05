@@ -1,0 +1,30 @@
+{
+  "id": "thread-0878",
+  "introduced_at": 843,
+  "kind": "story_thread",
+  "label": "让李慕婉复活（涉及向家与画轴封印内女子之言）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 843,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 843,
+          "start": 843
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0878-001",
+      "resolution_refs": [],
+      "revealed_at": 843,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "王林自述来罗天星域征战的最根本原因是让李慕婉复活，动因来自画轴封印内向家女子的话语；另与清水有约定。"
+    }
+  ]
+}

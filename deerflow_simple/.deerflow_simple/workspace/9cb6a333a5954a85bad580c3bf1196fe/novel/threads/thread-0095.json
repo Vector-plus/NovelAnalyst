@@ -1,0 +1,30 @@
+{
+  "id": "thread-0095",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "战神殿神道之术为何从未引起上级修真国注意",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0095-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "secondary",
+      "status": "open",
+      "summary": "王林据马良记忆推断神道之术有助结婴，但费解此等神通为何未被四级、五级修真国觊觎。"
+    }
+  ]
+}

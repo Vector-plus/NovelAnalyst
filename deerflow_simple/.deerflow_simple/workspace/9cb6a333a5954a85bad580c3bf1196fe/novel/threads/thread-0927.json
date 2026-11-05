@@ -1,0 +1,30 @@
+{
+  "id": "thread-0927",
+  "introduced_at": 882,
+  "kind": "story_thread",
+  "label": "刘青云的夺舍与逃遁",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 882,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_goal",
+      "chapter_ranges": [
+        {
+          "end": 882,
+          "start": 882
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0927-001",
+      "resolution_refs": [],
+      "revealed_at": 882,
+      "role": "develop",
+      "status": "open",
+      "summary": "刘青云欲夺舍巨魔族肉身、日后回怨殿争殿主之位；本章末其引爆火尸后去向未在本章交代。"
+    }
+  ]
+}

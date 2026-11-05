@@ -1,0 +1,156 @@
+{"target_local_id": "ev-local-1", "kind": "event", "importance": "high", "note": "命魂颗粒与焦土成因的关键判定，命魂线索首次被王林亲自拆解", "chapter_order": 428}
+{"target_local_id": "ev-local-2", "kind": "event", "importance": "high", "note": "新角色慕容云与白衣女修入场，祭坛入口线索被抛出", "chapter_order": 428}
+{"target_local_id": "ev-local-3", "kind": "event", "importance": "high", "note": "墨云海登场；慕容云疑似影响闪电；王林被误认作曾牛", "chapter_order": 428}
+{"target_local_id": "claim-local-18", "kind": "claim", "importance": "high", "note": "祭坛入口与乾风、仙遗族八叶术咒师动向（慕容云口述，未验证）", "chapter_order": 428}
+{"target_local_id": "claim-local-30", "kind": "claim", "importance": "high", "note": "慕容云与追击闪电的关联性证据，人物能力首次展示的可疑点", "chapter_order": 428}
+{"target_local_id": "claim-local-36", "kind": "claim", "importance": "medium", "note": "王林否认曾牛身份，身份线索需持续跟踪", "chapter_order": 428}
+{"target_local_id": "claim-local-7", "kind": "claim", "importance": "medium", "note": "王林自身命魂下落的自问，贯穿本 stage 的悬置问题", "chapter_order": 428}
+{"buffer_entry_type": "key_event", "ref_or_local_id": "ev-local-3", "note": "王林识破慕容云并以尊魂幡与禁制封印，修星之晶争夺线推进", "chapter_order": 429}
+{"buffer_entry_type": "key_claim", "ref_or_local_id": "claim-local-22", "note": "慕容云自称命魂所化（角色自称，待后文验证）", "chapter_order": 429}
+{"buffer_entry_type": "key_claim", "ref_or_local_id": "claim-local-28", "note": "十亿尊魂幡融合后共二十八个主魂，李元封与麒麟残魂为主魂", "chapter_order": 429}
+{"buffer_entry_type": "key_claim", "ref_or_local_id": "claim-local-14", "note": "峰顶祭坛与司徒南所述山谷内祭坛不符，存在地点疑点", "chapter_order": 429}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林掌握封印命魂灵物的方法并获知“王”的存在与位置，是本 stage 夺取命魂线的关键推进", "chapter_order": 430}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "章末柳眉现身祭坛，为主要人物再登场节点", "chapter_order": 430}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "note": "“王”可抽取指定命魂——后续核心目标的能力陈述（reported，待验证）", "chapter_order": 430}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "note": "王林独创封印法的首次明确交代（能力展示）", "chapter_order": 430}
+{"kind": "faction_movement", "ref_or_local_id": "仙遗族族人", "note": "仙遗族族人在朱雀墓内以符文之力联手对付命魂灵物", "chapter_order": 430}
+{"ref_type": "event", "local_id": "ev-local-1", "chapter_order": 431, "note": "本阶段首次正面呈现王林与柳眉的正面交手与意境对决开端"}
+{"ref_type": "claim", "local_id": "claim-local-8", "chapter_order": 431, "note": "柳眉自陈千幻无情道（角色自述，待后续章节印证）"}
+{"ref_type": "claim", "local_id": "claim-local-17", "chapter_order": 431, "note": "柳眉掌握摧毁朱雀墓祭坛以拖延王林的手段，构成取命魂的直接阻碍"}
+{"ref_type": "claim", "local_id": "claim-local-21", "chapter_order": 431, "note": "王林召出画轴，以意境层面迎战"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "reason": "stage-014（朱雀墓夺命魂）核心冲突事件：王林以魅姬意境破柳眉无情道", "chapter_order": 432}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "reason": "仙遗族对朱雀墓的主动介入，与朱雀墓线直接相关", "chapter_order": 432}
+{"record_ref_or_local_id": "claim-local-7", "kind": "claim", "reason": "关键道具来源揭示：魅姬=三祖当年意境，被王林收于储物袋", "chapter_order": 432}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "reason": "王林本阶段目标陈述：入朱雀墓取命魂后离开朱雀星", "chapter_order": 432}
+{"record_ref_or_local_id": "claim-local-23", "kind": "claim", "reason": "三祖察觉意境被夺舍，可能改变仙遗族入墓人选与对王林的态度", "chapter_order": 432}
+{"ref_or_candidate": "ev-local-2", "kind": "event", "note": "魅姬夺舍柳眉失败并崩渍融合，柳眉达成第一千幻（stage 关键转折）", "chapter_order": 433}
+{"ref_or_candidate": "ev-local-3", "kind": "event", "note": "千幻情欲粉雾弥漫数万里，王林神智第一次迷失", "chapter_order": 433}
+{"ref_or_candidate": "claim-local-19", "kind": "claim", "note": "魅姬一世成为柳眉第一千幻（能力线关键节点）", "chapter_order": 433}
+{"ref_or_candidate": "claim-local-23", "kind": "claim", "note": "祭坛传送余波说明王林已先行离开（跨场景衔接证据）", "chapter_order": 433}
+{"ref_or_candidate": "claim-local-32", "kind": "claim", "note": "王林当前目标：朱雀墓中心灵山与朱雀印道统", "chapter_order": 433}
+{"ref_or_candidate": "claim-local-33", "kind": "claim", "note": "修星之晶与命魂抽出的规则约束（存活条件）", "chapter_order": 433}
+{"ref_type": "event", "local_id": "ev-local-2", "chapter_order": 434, "note": "王林首度在朱雀墓中确认能感应李慕婉命魂，成为其强闯山谷的动机"}
+{"ref_type": "event", "local_id": "ev-local-3", "chapter_order": 434, "note": "王林以元神出窍+禁制封禁数十万水命魂，展示应对水命魂的实战手段"}
+{"ref_type": "claim", "local_id": "claim-local-8", "chapter_order": 434, "note": "天运子自述其百年记名弟子的来历，subject_ref=char-0641，属跨星域伏笔"}
+{"ref_type": "claim", "local_id": "claim-local-2", "chapter_order": 434, "note": "修星之晶被司徒南封印导致朱雀星无人能抽回命魂，涉及 char-0115 / char-0931 / char-0845"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林与旧日追杀者驼背老者正面交锋并获胜，首次公开使用十亿尊魂幡逼退对手", "chapter_order": 435}
+{"record_ref_or_local_id": "claim-local-5", "kind": "claim", "note": "身份揭示：驼背老者即当年将王林逼入空间裂缝之人", "chapter_order": 435}
+{"record_ref_or_local_id": "claim-local-11", "kind": "claim", "note": "新线索：水命魂女子相貌依稀与李慕婉相似", "chapter_order": 435}
+{"record_ref_or_local_id": "claim-local-23", "kind": "claim", "note": "王林在崩溃中夺得疑似李慕婉命魂的水粒", "chapter_order": 435}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "修星之晶崩溃，朱雀墓毁灭，本 stage 走向收尾", "chapter_order": 435}
+{"kind": "key_event", "local_id": "ev-local-1", "note": "朱雀墓环境剧变的阶段背景事件，后续章节危险与地形均以此为前提", "chapter_order": 436}
+{"kind": "key_event", "local_id": "ev-local-5", "note": "拓森首次在stage-014内完整自述脱困路径与对王林的企图", "chapter_order": 436}
+{"kind": "key_event", "local_id": "ev-local-6", "note": "拓森使者向朱雀墓中心推进，与王林同处一章内前后脚出现", "chapter_order": 436}
+{"kind": "key_claim", "local_id": "claim-local-17", "note": "忆之传承/记忆传承结晶的持有关系为后续主线关键", "chapter_order": 436}
+{"kind": "key_claim", "local_id": "claim-local-19", "note": "仙遗族地下深处即古神祭祀之处，关联仙遗族入侵动因", "chapter_order": 436}
+{"kind": "faction_move", "local_id": "ev-local-3", "note": "修魔海沦为仙遗族附庸，势力格局变动", "chapter_order": 436}
+{"kind": "character_turn", "local_id": "ev-local-4", "note": "贪狼离开朱雀星、破军入碎星乱，两名新登场强者的动向", "chapter_order": 436}
+{"record_ref": "ev-local-1", "note": "王林穿越剑魂盆地群并借许立国开道，为本章区域推进主线", "chapter_order": 437}
+{"record_ref": "ev-local-2", "note": "单一命魂刀魂现身并与王林交手，事件未结", "chapter_order": 437}
+{"record_ref": "claim-local-3", "note": "王林提出朱雀墓可能即修星之晶的关键推测（reported），待后续验证", "chapter_order": 437}
+{"record_ref": "claim-local-17", "note": "首次出现单一命魂构成的灵物，区别于此前大量命魂凝聚灵物", "chapter_order": 437}
+{"record_ref": "claim-local-20", "note": "弯刀索要“它的魂”的神念，指向仙剑/许立国之魂，原文表述含混", "chapter_order": 437}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "阶段内重要事件：王林在盘地被弯刀与宝剑群追杀并脱出盆地", "chapter_order": 438}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林以许立国为诱饵引开弯刀，许立国被带走——后续收服弯刀的线索", "chapter_order": 438}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "章末红蝶现身，王林唤出其名", "chapter_order": 438}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "弯刀为单一命魂构成的金属性灵物（王林判断），与本 stage 的命魂主题直接相关", "chapter_order": 438}
+{"ref_or_local_id": "claim-local-27", "kind": "claim", "note": "王林确立以许立国为线追索收服弯刀的目标", "chapter_order": 438}
+{"kind": "key_event_ref", "local_id": "ev-local-1", "note": "乾风离场去灵山取命魂，把红蝶留作阻杀王林的工具；stage-014（428~455 朱雀墓夺命魂）核心动向。", "chapter_order": 439}
+{"kind": "key_event_ref", "local_id": "ev-local-3", "note": "红蝶残存神智求死 + 玫瑰虚影登场，人物转折点。", "chapter_order": 439}
+{"kind": "key_claim_ref", "local_id": "claim-local-10", "note": "乾风自称要“取出命魂”，本 stage 目标线索。", "chapter_order": 439}
+{"kind": "key_claim_ref", "local_id": "claim-local-20", "note": "昆极鞭由乾风交予红蝶对抗王林，物品—人物关系证据。", "chapter_order": 439}
+{"kind": "key_claim_ref", "local_id": "claim-local-26", "note": "战斧来历（巨魔族老祖、赵国尸阴宗巨魔族先祖），王林首次以该斧实战。", "chapter_order": 439}
+{"kind": "identity_link_ref", "local_id": "claim-local-30", "note": "“曾牛”称呼指向在场王林，待 StageCommit 阶段归并身份。", "chapter_order": 439}
+{"kind": "event", "ref_local_id": "ev-local-3", "note": "红蝶身亡，王林得红蝶玉简与昆极鞭，红蝶遗愿指向乾风", "chapter_order": 440}
+{"kind": "event", "ref_local_id": "ev-local-1", "note": "云雀子借虚祖头骨符文入朱雀墓并发往灵山，存在时间限制", "chapter_order": 440}
+{"kind": "event", "ref_local_id": "ev-local-2", "note": "灵山巨门现裂纹、血目老者携小猴守候，各方汇聚朱雀墓中心", "chapter_order": 440}
+{"kind": "claim", "ref_local_id": "claim-local-20", "note": "乾风意境机制的关键解说（玉简记载）", "chapter_order": 440}
+{"kind": "claim", "ref_local_id": "claim-local-21", "note": "红蝶遗愿请王林杀乾风", "chapter_order": 440}
+{"kind": "event", "local_id": "ev-local-3", "why": "朱雀墓第二次崩溃使外部全毁、通道变成死地，影响本阶段所有入场者的行动窗口", "anchors": ["三十息过后才缓缓停下", "再没有一个人，敢踏入那通道"], "chapter_order": 441}
+{"kind": "event", "local_id": "ev-local-4", "why": "本阶段核心聚集场面：云雀子、周武泰、紫芯、乾风、王林、莫力海、青袍面具人同处灵山山顶", "anchors": ["又有一道人影，从灵山之下一跃而出"], "chapter_order": 441}
+{"kind": "claim", "local_id": "claim-local-11", "why": "云雀子对莫力海的判断（非朱雀星之人、婴变后期却异常），是本阶段重要的身份疑点证据", "anchors": ["此人绝非朱雀星之人"], "chapter_order": 441}
+{"kind": "claim", "local_id": "claim-local-4", "why": "王林明确计划以十亿尊魂幡凝化问鼎之魂破除昆极鞭神念，属后续能力/器物线伏笔", "anchors": ["以十亿尊魂幡凝化问鼎之魂"], "chapter_order": 441}
+{"kind": "claim", "local_id": "claim-local-26", "why": "乾风与紫芯当面对峙的互动事实，是二人仇怨线的关键证据", "anchors": ["生生把心念压住"], "chapter_order": 441}
+{"kind": "event", "local_ref": "ev-local-3", "chapter_order": 442, "why": "王林首次在章内将阴森老者指认为拓森夺舍，是阶段内重要的敌对身份线"}
+{"kind": "event", "local_ref": "ev-local-4", "chapter_order": 442, "why": "柳眉抵达灵山并与王林冲突、转投乾风，牵动命魂争夺格局"}
+{"kind": "event", "local_ref": "ev-local-5", "chapter_order": 442, "why": "朱雀墓第三次崩溃导致未入灵山者碎灭，秘境收缩的关键节点"}
+{"kind": "claim", "local_ref": "claim-local-34", "chapter_order": 442, "why": "王林对拓森目标（修星之晶/脱离封印）的推测，可供后续验证"}
+{"kind": "claim", "local_ref": "claim-local-22", "chapter_order": 442, "why": "李慕婉为逆鳞、柳眉意在坏道心的明确叙述事实"}
+{"kind": "claim", "local_ref": "claim-local-2", "chapter_order": 442, "why": "王林与云雀子“所嘱之事”完成，后续可回溯木雕用途"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "朱雀星无声灭亡，阶段级危机推进", "chapter_order": 443}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "朱雀墓巨门被轰开、众人进入金色海洋世界", "chapter_order": 443}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "金甲大汉首次出场并设下入海门槛", "chapter_order": 443}
+{"ref_or_local_id": "claim-local-3", "kind": "claim", "note": "朱雀子对乾风手中宝贝的期待，伏笔", "chapter_order": 443}
+{"ref_or_local_id": "claim-local-7", "kind": "claim", "note": "六欲天魔诀再现，关联六欲魔君", "chapter_order": 443}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "note": "阴森老者被叙述为「被夺舍的老者」，身份线索", "chapter_order": 443}
+{"local_record_ref": "ev-local-2", "kind": "event", "note": "王林借宝塔问鼎神识脱身、反转剑芒落点，为本阶段关键手段展示，后续反制柳眉、乾风时可能复现。", "chapter_order": 444}
+{"local_record_ref": "ev-local-3", "kind": "event", "note": "跨章未决事件，下一章需追加 update 以记录剑芒落点与柳眉结果。", "chapter_order": 444}
+{"local_record_ref": "claim-local-14", "kind": "claim", "note": "金甲大汉十丈判定规则，是本章破局规则，可能影响后续多人同行与取晶路径。", "chapter_order": 444}
+{"local_record_ref": "claim-local-11", "kind": "claim", "note": "周佚问鼎初期神识藏于宝塔，为跨章能力资产。", "chapter_order": 444}
+{"local_record_ref": "claim-local-18", "kind": "claim", "note": "修星之晶需过多道关卡，为进入宫殿后的推进目标。", "chapter_order": 444}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林首次成功进入海底宫殿，门禁为抵抗一剑之芒", "chapter_order": 445}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "一代朱雀叶无忧尸身与紫光团首次现身", "chapter_order": 445}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "note": "叶无忧身份由王林当场推断（inferred）", "chapter_order": 445}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "note": "王林对『修星之晶』真伪的怀疑，为后续反转伏笔", "chapter_order": 445}
+{"kind": "claim", "ref_or_local_id": "claim-local-29", "note": "云雀子陈述：带猴子的老者非朱雀星之人，脱困将抢晶", "chapter_order": 445}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "note": "王林与云雀子对峙局面形成，本阶段末段冲突点", "chapter_order": 445}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "修星之晶现世并被晶石吞噬触碰者的关键事件，为stage-014「朱雀墓夺命魂」核心推进点", "chapter_order": 446}
+{"kind": "claim", "ref_or_local_id": "claim-local-2", "note": "云雀子亲口改口「那物是星引」，推翻此前以修星之晶为饵的叙述", "chapter_order": 446}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "note": "阴森老者化烟入晶、红芒与小猴融合，小猴实力升至问鼎后期，改变本阶段力量对比", "chapter_order": 446}
+{"kind": "claim", "ref_or_local_id": "claim-local-32", "note": "灵山面具人首次以新生形态出现在宝塔顶，为跨章伏笔", "chapter_order": 446}
+{"ref_local_id": "ev-local-1", "kind": "event", "note": "主角经历朱雀传承并拒绝封号朱雀，涉及朱雀星/修星之晶核心设定", "chapter_order": 447}
+{"ref_local_id": "ev-local-2", "kind": "event", "note": "修星之晶易手，朱雀子借乾风之命化身现身", "chapter_order": 447}
+{"ref_local_id": "ev-local-3", "kind": "event", "note": "朱雀子与云雀子开战；拓森分识所匿小猴潜入红雾", "chapter_order": 447}
+{"ref_local_id": "ev-local-4", "kind": "event", "note": "王林对乾风、柳眉宣战，十亿尊魂幡出场", "chapter_order": 447}
+{"ref_local_id": "claim-local-15", "kind": "claim", "note": "取回命魂规则：一命换一命或杀灵物取命魂", "chapter_order": 447}
+{"ref_local_id": "claim-local-17", "kind": "claim", "note": "王林判定纳多撒谎，晶石与极境无关", "chapter_order": 447}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林在朱雀墓激战乾风、逼退柳眉，章节核心冲突事件", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-014"}, "chapter_order": 448}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "乾风亮出乾家老祖/上一代朱雀子所留锈铁剑，章末悬念", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-014"}, "chapter_order": 448}
+{"ref_or_local_id": "claim-local-25", "kind": "claim", "note": "王林自称杀乾风是应红蝶之约，涉及动机与人物关联", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-014"}, "chapter_order": 448}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "铜人来历与寿元神通设定，关联朱雀子历代秘法", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-014"}, "chapter_order": 448}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "乾风境界（婴变中期）与朱雀子弟子身份的叙述确认点", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-014"}, "chapter_order": 448}
+{"kind": "event", "ref": "ev-local-2", "note": "拓森分识虚影首次在本阶段正面出手，抓碎朱雀玄阵并夺铁剑", "chapter_order": 449}
+{"kind": "event", "ref": "ev-local-3", "note": "修星之晶落入拓森手中，朱雀子与云雀子重伤", "chapter_order": 449}
+{"kind": "event", "ref": "ev-local-4", "note": "乾风身死，王林命魂回收（以命换命）", "chapter_order": 449}
+{"kind": "event", "ref": "ev-local-5", "note": "紫芯气息异变，周武泰「炉鼎」感慨", "chapter_order": 449}
+{"kind": "claim", "ref": "claim-local-16", "note": "拓森自称铁剑血液为九星族人鲜血，配合修星之晶可脱困", "chapter_order": 449}
+{"kind": "claim", "ref": "claim-local-7", "note": "上一代朱雀子关于铁剑不可祭出的留言", "chapter_order": 449}
+{"kind": "claim", "ref": "claim-local-28", "note": "紫芯气息与乾风极为相似（原文明确叙述）", "chapter_order": 449}
+{"kind": "claim", "ref": "claim-local-33", "note": "王林命尊魂幡融魂，本章结尾悬置状态", "chapter_order": 449}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 450, "note": "修真联盟使者首次现身并封印拓森分识", "weight": "high"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 450, "note": "朱雀子归去身死，朱雀星权力格局变化", "weight": "high"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-17", "chapter_order": 450, "note": "朱雀子当面确认「联盟使者」身份（角色说法）", "weight": "high"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-22", "chapter_order": 450, "note": "叶无忧典籍记载修真联盟驻扎使者代代交替（角色回忆/文献，reported）", "weight": "medium"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-27", "chapter_order": 450, "note": "拓森本体获暗红色血液并扬言即将脱困（角色说法）", "weight": "high"}
+{"kind": "entity_candidate", "ref_or_local_id": "面具男子", "chapter_order": 450, "note": "新角色候选：面具男子/自称联盟使者，与char-0696疑似同一人需下游核对", "weight": "high"}
+{"kind": "event", "local_id": "ev-local-6", "reason": "本阶段核心节点：第十五代朱雀子确立，朱雀墓主线收束", "chapter_order": 451}
+{"kind": "event", "local_id": "ev-local-2", "reason": "仙遗族与修真联盟之间的长期交换条件，属势力层面持久约定", "chapter_order": 451}
+{"kind": "event", "local_id": "ev-local-10", "reason": "战后朱雀星格局与唯一的问鼎初期修士，可作为下一阶段环境基线", "chapter_order": 451}
+{"kind": "claim", "local_id": "claim-local-36", "reason": "王林与柳眉的敌对升级为明确的追杀决定", "chapter_order": 451}
+{"kind": "claim", "local_id": "claim-local-38", "reason": "王林当前行动目标：寻找许立国与弯刀，并否定修星之晶进化极境之说", "chapter_order": 451}
+{"kind": "claim", "local_id": "claim-local-27", "reason": "周武泰的继任条件与修星之晶封印未破，属后续关键前提", "chapter_order": 451}
+{"kind": "event", "local_id": "ev-local-1", "why": "本 stage 主角敌对者柳眉的去向与自我宣称，属人物转折点", "chapter_order": 452}
+{"kind": "event", "local_id": "ev-local-3", "why": "王林闭关一年、伤势痊愈，状态节点", "chapter_order": 452}
+{"kind": "event", "local_id": "ev-local-6", "why": "关键线索推进（周茹父母位置）+ 司徒南势力/身份变化", "chapter_order": 452}
+{"kind": "event", "local_id": "ev-local-7", "why": "王林与周茹关系走向的关键节点", "chapter_order": 452}
+{"kind": "claim", "local_id": "claim-local-4", "why": "柳眉立誓改修万幻天魔道，后续预期兑现点", "chapter_order": 452}
+{"kind": "claim", "local_id": "claim-local-8", "why": "周武泰庇护誓约，势力动向", "chapter_order": 452}
+{"kind": "claim", "local_id": "claim-local-12", "why": "弯刀命魂来历悬置，可作为后续伏笔依据", "chapter_order": 452}
+{"kind": "claim", "local_id": "claim-local-29", "why": "王林离开朱雀星赴天运星的计划，stage 交界前的动身依据", "chapter_order": 452}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本阶段末段的关键告别事件：周茹与王林分离、王林治愈其父母", "chapter_order": 453}
+{"kind": "event", "local_id": "ev-local-2", "reason": "王林对周茹留物的条件性托付，构成后续线索", "chapter_order": 453}
+{"kind": "event", "local_id": "ev-local-3", "reason": "极北冰谷蓝玫瑰被取走，疑与王林相关", "chapter_order": 453}
+{"kind": "event", "local_id": "ev-local-4", "reason": "王林赴王家祖宅祠堂祭拜父母灵位，指向其离开朱雀星", "chapter_order": 453}
+{"kind": "claim", "local_id": "claim-local-13", "reason": "王林即“曾牛”及在朱雀星流传的事迹被叙述提及", "chapter_order": 453}
+{"kind": "claim", "local_id": "claim-local-10", "reason": "周茹修炼至元婴期可获储物袋的明确条件", "chapter_order": 453}
+{"ref": "ev-local-1", "record_type": "event", "note": "主角离开朱雀星前与王家告别的关键节点，涉及王卓受托守护本家", "chapter_order": 454}
+{"ref": "ev-local-2", "record_type": "event", "note": "离别朱雀星前的法宝整理与射神车魂兽收服，涉及战力与宝物状态变化", "chapter_order": 454}
+{"ref": "ev-local-3", "record_type": "event", "note": "王林转赴四级修真国周国，司徒南在本章末出场，衔接下一阶段", "chapter_order": 454}
+{"ref": "claim-local-26", "record_type": "claim", "note": "主角对自身战力的自评上限（婴变后期圆满/问鼎以上不敌）", "chapter_order": 454}
+{"ref": "claim-local-28", "record_type": "claim", "note": "天逆珠子金属性仅完成三分之一（主角自述）", "chapter_order": 454}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "本阶段终章核心事件：王林与司徒南冲出朱雀星踏入星空", "chapter_order": 455}
+{"ref_or_local_id": "claim-local-25", "kind": "claim", "note": "朱雀星篇收束的关键事实陈述", "chapter_order": 455}
+{"ref_or_local_id": "claim-local-10", "kind": "claim", "note": "王林放弃朱雀子封号并交予周武泰（周武泰回想）", "chapter_order": 455}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "note": "云雀子元气已伤、寿元将降", "chapter_order": 455}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "note": "拓森脱困之日不远的预兆", "chapter_order": 455}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "仙遗族少族长将离开朱雀星并期望再见王林", "chapter_order": 455}

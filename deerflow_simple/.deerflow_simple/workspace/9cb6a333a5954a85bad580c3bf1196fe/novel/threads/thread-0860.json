@@ -1,0 +1,30 @@
+{
+  "id": "thread-0860",
+  "introduced_at": 833,
+  "kind": "story_thread",
+  "label": "谢青所得\"一场感悟\"内容未明及其后续成就",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 833,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_question",
+      "chapter_ranges": [
+        {
+          "end": 833,
+          "start": 833
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0860-001",
+      "resolution_refs": [],
+      "revealed_at": 833,
+      "role": "background",
+      "status": "open",
+      "summary": "王林收谢青为记名弟子，不传道法神通，只一点眉心赠\"一场感悟\"，谢青倒地后醒来自称仍旧迷茫，于横云山顶静悟；所悟内容原文未述。"
+    }
+  ]
+}

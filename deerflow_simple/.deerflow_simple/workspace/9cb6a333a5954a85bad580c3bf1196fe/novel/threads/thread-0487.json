@@ -1,0 +1,30 @@
+{
+  "id": "thread-0487",
+  "introduced_at": 549,
+  "kind": "story_thread",
+  "label": "黑塔铠甲一方与「妖卫」计划",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 549,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conspiracy",
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 549
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0487-001",
+      "resolution_refs": [],
+      "revealed_at": 549,
+      "role": "setup",
+      "status": "open",
+      "summary": "黑袍老者向黑塔铠甲内被称为「主人」的存在禀报妖帝天蝎强留修为之事；他计划以炼魂术配合丹药与一时诀，把虎咆制造成燃烧寿元与潜力的「妖卫」，并认为炼魂术尚有破绽。"
+    }
+  ]
+}

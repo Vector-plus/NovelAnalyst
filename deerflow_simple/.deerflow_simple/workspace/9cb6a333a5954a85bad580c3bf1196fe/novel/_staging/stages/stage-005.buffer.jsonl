@@ -1,0 +1,110 @@
+{"kind": "event", "local_id": "ev-local-3", "note": "本 stage 开局：域外战场通道与七块令牌规则确立", "chapter_order": 83}
+{"kind": "event", "local_id": "ev-local-4", "note": "联盟级悬赏指向王林胸口的云彩石珠，构成后续主要冲突源", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-30", "note": "令牌规则的关键陈述（最少碎四块、最多三派）", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-36", "note": "三日后筑基期大战的时间节点", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-26", "note": "林奕自报为三级修真国监察使", "chapter_order": 83}
+{"kind": "entity", "candidate_name": "林奕", "note": "新任联盟驻赵国使者，本章首次具名出场", "chapter_order": 83}
+{"kind": "faction", "candidate_name": "修真联盟", "note": "以通天塔与使者制直接介入赵国修真界事务", "chapter_order": 83}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "reason": "天逆珠子出现第二片树叶刻纹并可凝出阴寒灵气液体，是道具进化线的关键推进", "chapter_order": 84}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "reason": "尸阴宗把守升级、王林被实质限制行动，确立本 stage 的受困局面", "chapter_order": 84}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "reason": "王林对夜自在用意作出敌对性推断，是二人关系事实的关键陈述", "chapter_order": 84}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "reason": "司徒南持续未苏醒，影响王林此后所有脱身手段的可用性", "chapter_order": 84}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "reason": "神识首次突破三百丈看到未知景象，为下一章留下直接钩子", "chapter_order": 84}
+{"kind": "event", "ref_local_id": "ev-local-1", "chapter_order": 85, "note": "首次揭示尸阴宗地阴品质阴寒之气的来源：棺下巨尸与紫青色植物"}
+{"kind": "event", "ref_local_id": "ev-local-2", "chapter_order": 85, "note": "未知来源的“救我”呼唤首次出现，可作为后续谜题线索"}
+{"kind": "event", "ref_local_id": "ev-local-5", "chapter_order": 85, "note": "王林首次以寒丹化液祭炼剑鞘，跨章未完（第86章继续）"}
+{"kind": "claim", "ref_local_id": "claim-local-24", "chapter_order": 85, "note": "司徒南关于寒丹不可轻易离体的告诫，构成本章冒险行为的风险前提"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 86, "note": "尸阴宗封魂组队、经巨门送入决明谷，域外战场资格赛正式启动"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 86, "note": "夜自在与罗刹的炉鼎/尸傀/枯茫丛林交易，涉阿呆、紫大人、吴宇"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 86, "note": "决明谷落地，三名筑基后期修士即将捏碎魂魄玉简的悬念"}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "chapter_order": 86, "note": "夜自在以助紫大人吞噬吴宇换取罗刹提升阿呆并代选尸傀"}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 86, "note": "资格赛规则：结丹元婴不参与、以杜尘为首"}
+{"local_id": "ev-local-1", "kind": "event", "note": "王林夺回魂魄玉简，摆脱尸阴宗控制的关键节点", "chapter_order": 87}
+{"local_id": "ev-local-2", "kind": "event", "note": "尸阴宗尸傀反噬，展现该宗手段与决明谷凶险", "chapter_order": 87}
+{"local_id": "ev-local-3", "kind": "event", "note": "王林与天道门弟子首次正面冲突，获翠尺与毒蜂线索待续", "chapter_order": 87}
+{"local_id": "ev-local-4", "kind": "event", "note": "藤化元复仇线推进：请启明以天算术追索至亲", "chapter_order": 87}
+{"local_id": "claim-local-25", "kind": "claim", "note": "明确点名黑袍老者为藤化元（无锚点风险低）", "chapter_order": 87}
+{"local_id": "claim-local-28", "kind": "claim", "note": "藤化元复仇动机与所付代价的自述", "chapter_order": 87}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "藤化元抵达王家祖宅，灭门开端，阶段核心事件", "chapter_order": 88}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "启明古镜推算+传送，确认王林在决明谷", "chapter_order": 88}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "note": "藤化元连带记恨所有致藤厉死亡者，报复范围超出王林本人", "chapter_order": 88}
+{"kind": "claim", "ref_or_local_id": "claim-local-26", "note": "藤化元当众宣示“鸡犬不留”", "chapter_order": 88}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "王卓修为基准：凝气期第十一层（自称）", "chapter_order": 88}
+{"kind": "claim", "ref_or_local_id": "claim-local-29", "note": "王林灵魂阵痛，疑似与族人遭遇相关（原文未明示）", "chapter_order": 88}
+{"kind": "faction", "ref_or_local_id": "王家", "note": "王家为木匠望族，三名少爷入仙门，本章起成为报复目标", "chapter_order": 88}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "藤化元灭王家大宅，本章为灭门血祸的核心事件", "chapter_order": 89}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "王林极境首次在叙述中被明确点出并激发", "chapter_order": 89}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "note": "藤化元首次得知凶手名为王林", "chapter_order": 89}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "note": "王林父母住处被王卓之父供出，直接引出藤化元转向王林村中", "chapter_order": 89}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "note": "无名修士提及玄道宗朴南子，牵出宗门势力关系", "chapter_order": 89}
+{"ref_type": "event", "local_id": "ev-local-1", "reason": "王林极境首次完整施展并击杀天道门三人，阶段关键转折点", "salience": "high", "chapter_order": 90}
+{"ref_type": "event", "local_id": "ev-local-2", "reason": "决明谷三日大屠杀，交代极境战力上限与众人反应", "salience": "high", "chapter_order": 90}
+{"ref_type": "claim", "local_id": "claim-local-2", "reason": "极境机制定型：同境界无敌、终点为元婴后期", "salience": "high", "chapter_order": 90}
+{"ref_type": "claim", "local_id": "claim-local-11", "reason": "藤化元的魂旗相胁与开谷之约，为后续出谷冲突埋线", "salience": "high", "chapter_order": 90}
+{"ref_type": "claim", "local_id": "claim-local-13", "reason": "天逆珠子与始祖玉简图案不一致，牵出天道门与悬赏线", "salience": "medium", "chapter_order": 90}
+{"ref_type": "claim", "local_id": "claim-local-14", "reason": "悬赏条件（婴变级法宝、十具炼尸、修真国升级一级），外部势力动机", "salience": "medium", "chapter_order": 90}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本stage内王林与司徒南关系与资源限制的关键节点（三次瞬移、域外战场建议、复活亲人的可能）", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-14", "reason": "王林崖底血泪跪别父母，情绪与动机转折的可引用锚点", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-19", "reason": "司徒南仅余三次瞬移，后续行动的关键资源约束", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-17", "reason": "复活王林亲人的可能路径（魂旗封印魂魄）首次提出，属reported待验证", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-6", "reason": "决明谷封印阵法的由来与限制条件，解释藤化元无法入谷的原因", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-9", "reason": "藤化元灭族收魂的动机与封印限制的因果链，本stage核心因果", "chapter_order": 91}
+{"kind": "claim", "local_id": "claim-local-4", "reason": "域外战场胜负奖励与五级升六级机制，世界观关键规则", "chapter_order": 91}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 92, "note": "王林核心手段升级：青色米粒法宝成型（三枚极限、两枚可融合、三枚自爆、波及千丈）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "chapter_order": 92, "note": "灵力异变具象化：深蓝细丝构成、威力骤增、原因不明"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 92, "note": "绿色小剑因灵力异变带极属性，指向“极境”线索"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 92, "note": "章末钩子：上百道剑光追一人，王林似认出对方"}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-2", "note": "王林以极境灵力+绿色小剑轻松斩杀多名筑基期修士，实力展示转折点", "chapter_order": 93}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-1", "note": "决明谷资格令牌争夺公开化，李山被五方围困", "chapter_order": 93}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-7", "note": "玄道宗一方掌握四块资格令牌（李山偷得三块）", "chapter_order": 93}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-16", "note": "极境灵力下筑基修士与法宝皆化冰坨，王林无人可阻", "chapter_order": 93}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-19", "note": "李山认出王林，故人重逢，身份与实力落差确立", "chapter_order": 93}
+{"buffer_type": "faction_move", "ref_or_local_id": {"path": "characters/char-0092/index.json", "record_id": "char-0092"}, "note": "玄道宗因李山偷令牌成为众矢之的，集结地被围", "chapter_order": 93}
+{"kind": "event", "local_id": "ev-local-3", "reason": "王林青色米粒首次展示大规模冰封灭杀效果，涉及假丹修士与整队弟子，为阶段关键战力证据", "chapter_order": 94}
+{"kind": "event", "local_id": "ev-local-4", "reason": "确立决明谷夺令规则：令牌七块、域外战场名额三个，为阶段主线推进依据", "chapter_order": 94}
+{"kind": "claim", "local_id": "claim-local-15", "reason": "王林令牌持有数量（四块，差三块），阶段内资源进度关键数值", "chapter_order": 94}
+{"kind": "claim", "local_id": "claim-local-19", "reason": "赵国整体域外战场资格的失效条件，势力层面规则证据", "chapter_order": 94}
+{"kind": "claim", "local_id": "claim-local-11", "reason": "李山对王林态度转变（目光尊敬），人物互动的阶段内转折点", "chapter_order": 94}
+{"target": "event", "ref_or_local_id": "ev-local-2", "kind": "key_event", "note": "王林在玄道宗集结地一剑斩杀筑基中期的马姓老者，柳眉交出令牌", "chapter_order": 95}
+{"target": "claim", "ref_or_local_id": "claim-local-5", "kind": "key_statement", "note": "李山称柳眉由朴南子亲自施法助筑基（reported）", "chapter_order": 95}
+{"target": "claim", "ref_or_local_id": "claim-local-26", "kind": "key_statement", "note": "王林持有五块令牌，捏碎四块只留一块", "chapter_order": 95}
+{"target": "claim", "ref_or_local_id": "claim-local-27", "kind": "key_statement", "note": "王林闭关备战「两个月后的大战」", "chapter_order": 95}
+{"target": "event", "ref_or_local_id": "ev-local-1", "kind": "key_event", "note": "令牌下落被供出，指向玄道宗与柳眉", "chapter_order": 95}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "meta": {"chapter_order": 96, "note": "决明谷令牌盘点收束：王林握五块并放弃寻找最后一块，直接关系域外战场入场资格"}, "chapter_order": 96}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "meta": {"chapter_order": 96, "note": "王林血炼重炼绿色飞剑，飞剑形态与速度显著变化，为极境蜕变首次具象展示"}, "chapter_order": 96}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "meta": {"chapter_order": 96, "note": "叙述者设定：极境需元婴期才最大程度发挥，王林现为筑基期"}, "chapter_order": 96}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "meta": {"chapter_order": 96, "note": "王林战前一个月拟入天逆珠修炼并自认突破筑基中期，为后续境界变化伏笔"}, "chapter_order": 96}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "meta": {"chapter_order": 96, "note": "王林对阿呆所赠圆珠露出阴森笑意后收起，态度待后续解释"}, "chapter_order": 96}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-2", "note": "天逆珠子来源与七级修真国追杀线索，本 stage 关键设定信息", "chapter_order": 97}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-4", "note": "司徒南推断追杀者来自七级修真国", "chapter_order": 97}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-10", "note": "王林以实力论推及藤化元的心理动机，与灭门血祸主线相关", "chapter_order": 97}
+{"buffer_type": "character_turning_point", "ref_or_local_id": "claim-local-9", "note": "王林明确以「变强才能不受欺」为行动基准", "chapter_order": 97}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 98, "note": "域外战场资格赛结果公布：飘渺宗被淘汰，仅八人存活出谷。"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 98, "note": "辛海得知弟子被杀详情并表态追查，凶手身份未明示。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "chapter_order": 98, "note": "藤化元在决明谷外捏碎封印魂魄，表现出杀意与失望。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-17", "chapter_order": 98, "note": "飘渺宗参赛二十五人仅存活八人，实力受损。"}
+{"kind": "candidate", "ref_or_local_id": "辛海", "chapter_order": 98, "note": "新登场势力人物：飘渺宗始祖。"}
+{"kind": "candidate", "ref_or_local_id": "上官云", "chapter_order": 98, "note": "新登场势力人物：元兲派始祖之一，与辛海之间有未言明的约定。"}
+{"kind": "event", "local_id": "ev-local-2", "reason": "域外通道开启的官方进程节点：通天塔使者林奕到场并宣布规则与违例处置", "chapter_order": 99}
+{"kind": "event", "local_id": "ev-local-3", "reason": "尸阴宗以「人傀」形式到场但被取消资格，涉夺舍议题", "chapter_order": 99}
+{"kind": "event", "local_id": "ev-local-4", "reason": "藤化元伏杀王林的临界状态，跨章悬念入口", "chapter_order": 99}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "飘渺宗辛海与合欢宗二人对同一情报名示心明，涉跨派暗中联络", "chapter_order": 99}
+{"kind": "claim", "local_id": "claim-local-29", "reason": "令牌处置规则口径：得令牌门派可持两块，直接影响后续入场格局", "chapter_order": 99}
+{"kind": "claim", "local_id": "claim-local-20", "reason": "飘渺宗第一高手虚眉真人的身份确立", "chapter_order": 99}
+{"ref_kind": "event", "local_id": "ev-local-2", "chapter_order": 100, "note": "本 stage 关键节点：王林在决明谷外公开现身并展露元婴中期级威压，向藤化元约战"}
+{"ref_kind": "claim", "local_id": "cl-9", "chapter_order": 100, "note": "令牌归属公开化的关键传言证据"}
+{"ref_kind": "claim", "local_id": "cl-18", "chapter_order": 100, "note": "林奕对千幻变的认知，为修为暴涨提供另一解释路径"}
+{"ref_kind": "claim", "local_id": "cl-19", "chapter_order": 100, "note": "决明谷阵法限制（化神期以下不可入）由藤化元当众提出，构成本章核心矛盾"}
+{"ref_kind": "claim", "local_id": "cl-11", "chapter_order": 100, "note": "林奕公开态度：禁止赵国修士插手，态度动机未明"}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本阶段核心冲突（王林—藤化元对峙）在本章进入正面交手阶段", "chapter_order": 101}
+{"kind": "event", "local_id": "ev-local-2", "reason": "域外战场通道开启为阶段末重大世界观推进点", "chapter_order": 101}
+{"kind": "claim", "local_id": "claim-local-9", "reason": "王林法宝（得自阿呆）能力首次明确展示：可任意改貌并抽取诅咒，后续反复使用", "chapter_order": 101}
+{"kind": "claim", "local_id": "claim-local-8", "reason": "王林把目标锁定藤化元腰间储物袋，指向后续行动动机", "chapter_order": 101}
+{"kind": "claim", "local_id": "claim-local-16", "reason": "首次给出五级修真国与他派魂幡规模信息，属世界观层级信息", "chapter_order": 101}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "stage-005 收束章的核心对决事件：幻术/冰洋戏弄藤化元", "chapter_order": 102}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林夺储物袋、断右手，体现其决断", "chapter_order": 102}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "父母魂魄被投入王林体内，王林以阴寒灵气保存", "chapter_order": 102}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "王林肉身爆散、墨光携父母魂魄入域外通道（本 stage 结局转折）", "chapter_order": 102}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "王林自称“铁柱”，可用于后续别名解析", "chapter_order": 102}
+{"ref_or_local_id": "claim-local-24", "kind": "claim", "note": "巨人以“戾气”为目标，指向后续势力动向", "chapter_order": 102}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "幻城“千幻”、黄泉宗“蓝冰闪”首次被点名，世界观势力新信息", "chapter_order": 102}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0183",
+  "introduced_at": 222,
+  "kind": "story_thread",
+  "label": "王林集齐魔头大军的意图",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 222,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 222,
+          "start": 222
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0183-001",
+      "resolution_refs": [],
+      "revealed_at": 222,
+      "role": "main",
+      "status": "advancing",
+      "summary": "王林四百年只寻得三个不满意魔头，视藤家弟子为上等魔头来源，吞魂能力已能离体笼罩整个赵国并隔空夺魂。"
+    }
+  ]
+}

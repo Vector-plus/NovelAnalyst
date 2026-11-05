@@ -1,0 +1,30 @@
+{
+  "id": "thread-0058",
+  "introduced_at": 74,
+  "kind": "story_thread",
+  "label": "废墟城市中的宝物与怪人秘密",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 74,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "exploration",
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 74
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0058-001",
+      "resolution_refs": [],
+      "revealed_at": 74,
+      "role": "protagonist",
+      "status": "active",
+      "summary": "王林将废墟城市视为藏宝之地，关注可治疗伤势的光线、幻术类法宝与神秘怪人，认为仍有未解秘密。"
+    }
+  ]
+}

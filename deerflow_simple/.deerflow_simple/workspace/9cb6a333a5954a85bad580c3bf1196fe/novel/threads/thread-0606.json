@@ -1,0 +1,30 @@
+{
+  "id": "thread-0606",
+  "introduced_at": 641,
+  "kind": "story_thread",
+  "label": "老怪降临妖灵之地",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 641,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 641
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0606-001",
+      "resolution_refs": [],
+      "revealed_at": 641,
+      "role": "setup",
+      "status": "open",
+      "summary": "天运子、血祖、凌天候因各自心病提前数十年进入妖灵之地：天运子追查烙印被驱除、血祖寻女姚惜雪、凌天候欲问贪狼本命神灯灭九盏之事。"
+    }
+  ]
+}

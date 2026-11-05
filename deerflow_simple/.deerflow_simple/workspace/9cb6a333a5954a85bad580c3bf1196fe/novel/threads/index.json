@@ -1,14 +1,228 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0946.json",
+          "record_id": "thread-0946"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 893,
+      "summary": "王林与于非之战（第893章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0946.json",
+        "record_id": "thread-0946"
+      },
+      "title": "王林与于非之战"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 893,
+          "start": 893
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0947.json",
+          "record_id": "thread-0947"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 893,
+      "summary": "王林肉身与古神神通的展露（第893章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0947.json",
+        "record_id": "thread-0947"
+      },
+      "title": "王林肉身与古神神通的展露"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0948.json",
+          "record_id": "thread-0948"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 896,
+      "summary": "一月后罗天后援来临，许木随军直入联盟北部（第896章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0948.json",
+        "record_id": "thread-0948"
+      },
+      "title": "一月后罗天后援来临，许木随军直入联盟北部"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0949.json",
+          "record_id": "thread-0949"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 896,
+      "summary": "炎雷子识出许木眉心朱雀印记而未揭穿（第896章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0949.json",
+        "record_id": "thread-0949"
+      },
+      "title": "炎雷子识出许木眉心朱雀印记而未揭穿"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0950.json",
+          "record_id": "thread-0950"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 896,
+      "summary": "王林雨中悟道：生死已明悟，只余雨水本源（第896章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0950.json",
+        "record_id": "thread-0950"
+      },
+      "title": "王林雨中悟道：生死已明悟，只余雨水本源"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 896,
+          "start": 896
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0951.json",
+          "record_id": "thread-0951"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 896,
+      "summary": "许霆带队出外探路、寻找修真星泄愤（第896章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0951.json",
+        "record_id": "thread-0951"
+      },
+      "title": "许霆带队出外探路、寻找修真星泄愤"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 898,
+          "start": 898
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0952.json",
+          "record_id": "thread-0952"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 898,
+      "summary": "撒豆成兵修炼（第一、二步与聚魂）（第898章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0952.json",
+        "record_id": "thread-0952"
+      },
+      "title": "撒豆成兵修炼（第一、二步与聚魂）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 898,
+          "start": 898
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0953.json",
+          "record_id": "thread-0953"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 898,
+      "summary": "王林仙元储量与躯体状态（第898章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0953.json",
+        "record_id": "thread-0953"
+      },
+      "title": "王林仙元储量与躯体状态"
+    }
+  ],
   "id": "idx-threads",
   "kind": "index",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 9,
+  "safe_through": 898,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 893,
+        "start": 893
+      },
+      {
+        "end": 896,
+        "start": 896
+      },
+      {
+        "end": 898,
+        "start": 898
+      }
+    ],
     "subject_refs": []
   },
   "title": "故事线"

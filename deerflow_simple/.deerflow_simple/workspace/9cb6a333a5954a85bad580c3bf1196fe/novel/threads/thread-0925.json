@@ -1,0 +1,30 @@
+{
+  "id": "thread-0925",
+  "introduced_at": 877,
+  "kind": "story_thread",
+  "label": "周武泰宣扬王林事迹、树立其守护者名号，以弥补自身修为不足难以服众",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 877,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 877,
+          "start": 877
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0925-001",
+      "resolution_refs": [],
+      "revealed_at": 877,
+      "role": "background",
+      "status": "open",
+      "summary": "叙述交代周武泰报答王林之恩的同时，借宣扬已离开的王林借势生威；王林自度需回报。"
+    }
+  ]
+}

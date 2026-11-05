@@ -1,0 +1,30 @@
+{
+  "id": "thread-0094",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "王林寻求功法与原始神道术以备结婴",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0094-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "secondary",
+      "status": "open",
+      "summary": "王林将修丹留待结婴服用，并把选择能提高结婴几率的功法列为首选，决定设法取得战神殿最古老的原始神道术。"
+    }
+  ]
+}

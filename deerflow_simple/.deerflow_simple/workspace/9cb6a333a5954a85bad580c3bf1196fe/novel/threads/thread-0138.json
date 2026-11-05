@@ -1,0 +1,30 @@
+{
+  "id": "thread-0138",
+  "introduced_at": 186,
+  "kind": "story_thread",
+  "label": "王林的必杀名单",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 186,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "objective",
+      "chapter_ranges": [
+        {
+          "end": 186,
+          "start": 186
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0138-001",
+      "resolution_refs": [],
+      "revealed_at": 186,
+      "role": "main",
+      "status": "open",
+      "summary": "王林在前往麒麟城途中明确列出必杀之人：即墨老人、藤化元、朴南子、赵国其他修真者、巨魔族强者、赵国尸阴宗宗主；并要追查藤化元如何找到其家族位置，牵连者一并列入。"
+    }
+  ]
+}

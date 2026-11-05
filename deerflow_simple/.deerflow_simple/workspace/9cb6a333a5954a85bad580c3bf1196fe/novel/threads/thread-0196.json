@@ -1,0 +1,30 @@
+{
+  "id": "thread-0196",
+  "introduced_at": 250,
+  "kind": "story_thread",
+  "label": "风雨雷电四大仙门与古仙界法门",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 250,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "world_setting",
+      "chapter_ranges": [
+        {
+          "end": 250,
+          "start": 250
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0196-001",
+      "resolution_refs": [],
+      "revealed_at": 250,
+      "role": "major",
+      "status": "open",
+      "summary": "周武泰临行前提及四大仙门，称朱雀星位于雨之仙门附近；王林据古神涂司的记忆认为四仙门是进入古仙界的法门。"
+    }
+  ]
+}

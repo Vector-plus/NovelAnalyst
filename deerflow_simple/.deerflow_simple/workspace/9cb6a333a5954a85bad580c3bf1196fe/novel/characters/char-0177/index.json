@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第78章以元婴现身废墟雕像内，自述尸阴宗与尸傀叛变始末并求助，自称尸阴宗始祖之一（reported）；夺舍阿呆失败后哀求王林相助。第79章以秘法传送阵送王林脱离废墟，自身失去肉身、钻入石人存续。其名号被王林用作入宗身份凭据，第80章获尸阴宗接纳。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0177/index.json",
+          "record_id": "char-0177"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 82,
+      "summary": "吴宇求助与失去肉身（第57—82章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0177/stages/stage-004.md",
+        "record_id": "doc-char-0177-stage-004"
+      },
+      "title": "吴宇求助与失去肉身"
+    }
+  ],
+  "id": "char-0177",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 78,
+  "kind": "entity_index",
+  "label": "吴宇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 82,
+  "schema_version": "2.0"
+}

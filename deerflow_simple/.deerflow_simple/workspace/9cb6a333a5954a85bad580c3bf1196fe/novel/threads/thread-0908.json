@@ -1,0 +1,30 @@
+{
+  "id": "thread-0908",
+  "introduced_at": 865,
+  "kind": "story_thread",
+  "label": "远古仙域是否仍然存在",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 865,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_question",
+      "chapter_ranges": [
+        {
+          "end": 865,
+          "start": 865
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0908-001",
+      "resolution_refs": [],
+      "revealed_at": 865,
+      "role": "raised",
+      "status": "open",
+      "summary": "裂缝内声音以远古仙域定下的规则指责开壁之举，虚幻之影则回应要亲自确认远古仙域到底在还是不在。"
+    }
+  ]
+}

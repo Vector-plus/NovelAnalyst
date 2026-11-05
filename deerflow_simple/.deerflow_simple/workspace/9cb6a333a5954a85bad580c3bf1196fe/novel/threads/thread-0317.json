@@ -1,0 +1,30 @@
+{
+  "id": "thread-0317",
+  "introduced_at": 411,
+  "kind": "story_thread",
+  "label": "仙遗族四祖追夺祖灵树之战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 411,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 411,
+          "start": 411
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0317-001",
+      "resolution_refs": [],
+      "revealed_at": 411,
+      "role": "advance",
+      "status": "open",
+      "summary": "四祖为夺回被吞的祖灵持续追赶王林一行，在本章被司徒南借小北炎极之地禁制与九黎之雾困入炎冰，追击暂止。"
+    }
+  ]
+}

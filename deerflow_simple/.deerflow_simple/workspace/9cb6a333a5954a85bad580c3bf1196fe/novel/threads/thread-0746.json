@@ -1,0 +1,30 @@
+{
+  "id": "thread-0746",
+  "introduced_at": 728,
+  "kind": "story_thread",
+  "label": "李元与铁剑的关系及命魂受制的真相",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 728,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 728,
+          "start": 728
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0746-001",
+      "resolution_refs": [],
+      "revealed_at": 728,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林察觉李元踏上铁剑时如与剑融为一体，又见李元在剑尖上心神波动唤『老朋友』；他由此推测李元受制于葛姓女子家族与被救之事皆为李元自己的计划。"
+    }
+  ]
+}

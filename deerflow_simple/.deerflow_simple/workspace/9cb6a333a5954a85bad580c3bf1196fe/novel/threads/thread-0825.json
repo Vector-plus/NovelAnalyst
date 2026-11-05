@@ -1,0 +1,30 @@
+{
+  "id": "thread-0825",
+  "introduced_at": 802,
+  "kind": "story_thread",
+  "label": "幽冥兽体内世界与口中阵法的通行用途",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 802,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 802,
+          "start": 802
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0825-001",
+      "resolution_refs": [],
+      "revealed_at": 802,
+      "role": "幽冥兽口中阵法可作为通道，王林与仙选族经此现身陌域",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

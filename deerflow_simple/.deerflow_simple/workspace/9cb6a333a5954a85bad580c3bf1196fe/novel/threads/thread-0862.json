@@ -1,0 +1,30 @@
+{
+  "id": "thread-0862",
+  "introduced_at": 835,
+  "kind": "story_thread",
+  "label": "姚云体内古妖的去留",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 835,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_threat",
+      "chapter_ranges": [
+        {
+          "end": 835,
+          "start": 835
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0862-001",
+      "resolution_refs": [],
+      "revealed_at": 835,
+      "role": "core",
+      "status": "open",
+      "summary": "古妖被金符与天雷击溃化为虚弱妖异印记欲归姚云眉心，姚云以元力阻止；血雾中干枯手臂将印记直接按入其眉心，结果未在本章交代。"
+    }
+  ]
+}

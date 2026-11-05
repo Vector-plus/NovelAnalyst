@@ -1,0 +1,30 @@
+{
+  "id": "thread-0456",
+  "introduced_at": 524,
+  "kind": "story_thread",
+  "label": "蚊兽实力提升与进化方向",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 524,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 524,
+          "start": 524
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0456-001",
+      "resolution_refs": [],
+      "revealed_at": 524,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "蚊兽半年前苏醒后实力接近化神后期大圆满，并被判断正朝星空蚊兽群的领头者方向进化。"
+    }
+  ]
+}

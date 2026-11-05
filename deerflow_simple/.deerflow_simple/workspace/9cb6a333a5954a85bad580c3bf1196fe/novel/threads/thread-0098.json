@@ -1,0 +1,30 @@
+{
+  "id": "thread-0098",
+  "introduced_at": 146,
+  "kind": "story_thread",
+  "label": "神道术原本被天罡国带走、宫墨失踪与残缺分身功法的破解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 146,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 146,
+          "start": 146
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0098-001",
+      "resolution_refs": [],
+      "revealed_at": 146,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

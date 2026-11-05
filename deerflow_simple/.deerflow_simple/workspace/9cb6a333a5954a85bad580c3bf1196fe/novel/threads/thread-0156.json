@@ -1,0 +1,30 @@
+{
+  "id": "thread-0156",
+  "introduced_at": 202,
+  "kind": "story_thread",
+  "label": "李慕婉与孙镇伟的双修婚约（两个月后）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 202,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship_line",
+      "chapter_ranges": [
+        {
+          "end": 202,
+          "start": 202
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0156-001",
+      "resolution_refs": [],
+      "revealed_at": 202,
+      "role": "key_development",
+      "status": "escalating",
+      "summary": "云天宗向楚国广发邀请帖，宣布李慕婉两个月后与孙镇伟结成双修道侣；王林随即向李慕婉索要可在两个月内提升至元婴期的丹药，并表态杀孙镇伟要等其修为足以威慑云天宗。"
+    }
+  ]
+}

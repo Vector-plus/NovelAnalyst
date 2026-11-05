@@ -1,0 +1,30 @@
+{
+  "id": "thread-0665",
+  "introduced_at": 669,
+  "kind": "story_thread",
+  "label": "柳眉提出的两个条件",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 669,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 669,
+          "start": 669
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0665-001",
+      "resolution_refs": [],
+      "revealed_at": 669,
+      "role": "setup",
+      "status": "open",
+      "summary": "柳眉答应献出意境前要求幻无情答应两件事情，条件内容在本章未说出。"
+    }
+  ]
+}

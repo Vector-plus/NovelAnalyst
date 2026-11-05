@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第687—716章：王林迫雷道子立约认主后抽其元神、祭炼其肉身，以黄泉吸矿与金属液球灌注炼成银级仙卫傀儡，品阶体系首次明确；第689年第二仙卫祭炼失败得银极巅峰半成品（不可施展神通）；第698年在望月之战中受损；第701年在雷光星球外守王林十年后入星护法；第716年随王林强夺雷鼎出战。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1489/index.json",
+          "record_id": "char-1489"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 720,
+      "summary": "炼道子为傀儡：银级仙卫的形成与损耗（第642—720章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1489/stages/stage-019.md",
+        "record_id": "doc-char-1489-stage-019"
+      },
+      "title": "炼道子为傀儡：银级仙卫的形成与损耗"
+    }
+  ],
+  "id": "char-1489",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 636,
+  "kind": "entity_index",
+  "label": "仙卫傀儡",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 720,
+  "schema_version": "2.0"
+}

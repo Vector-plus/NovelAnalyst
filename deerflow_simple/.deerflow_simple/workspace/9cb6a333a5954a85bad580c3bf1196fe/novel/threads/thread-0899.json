@@ -1,0 +1,30 @@
+{
+  "id": "thread-0899",
+  "introduced_at": 857,
+  "kind": "story_thread",
+  "label": "战字帖内含本源之力",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 857,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact_secret",
+      "chapter_ranges": [
+        {
+          "end": 857,
+          "start": 857
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0899-001",
+      "resolution_refs": [],
+      "revealed_at": 857,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "王林看出战字帖能引出一丝本源之力（远弱于炎雷子），合格者无人能留住；许霆却留下了极少部分，王林据此判定其未来受重大影响。"
+    }
+  ]
+}

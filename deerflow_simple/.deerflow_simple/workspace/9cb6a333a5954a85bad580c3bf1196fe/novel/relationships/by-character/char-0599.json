@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 323,
+          "start": 323
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0599/index.json",
+          "record_id": "char-0599"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 323,
+      "summary": "与白纱女子×公孙道友的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0040.json",
+        "record_id": "rel-0040"
+      },
+      "title": "白纱女子×公孙道友"
+    }
+  ],
+  "id": "idx-rel-char-0599",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 323,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 323,
+        "start": 323
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0599/index.json",
+        "record_id": "char-0599"
+      }
+    ]
+  },
+  "title": "char-0599 关系入口"
+}

@@ -75,9 +75,13 @@ async def create_task(body: TaskCreateRequest, request: Request) -> TaskResponse
     except SpaceNotFoundError as exc:
         raise HTTPException(status_code=404, detail=str(exc)) from exc
 
-    input_payload = build_initial_state(
-        config, body.novel_id, body.source_version, body.build_mode
-    )
+    try:
+        input_payload = build_initial_state(
+            config, body.novel_id, body.source_version, body.build_mode
+        )
+    except ValueError as exc:
+        # resume/repair 时 source_version 不一致等非法请求 → 400
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
     task_id = await manager.start(body.novel_id, input_payload, kind=body.kind)
     record = manager.get(task_id)
     return _to_response(record)

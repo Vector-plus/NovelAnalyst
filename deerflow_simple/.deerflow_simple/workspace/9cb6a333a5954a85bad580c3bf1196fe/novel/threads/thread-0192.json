@@ -1,0 +1,30 @@
+{
+  "id": "thread-0192",
+  "introduced_at": 248,
+  "kind": "story_thread",
+  "label": "四派联盟大战之兆：诡异大雪、虚空裂缝与广开山门征召",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 248,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 248,
+          "start": 248
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0192-001",
+      "resolution_refs": [],
+      "revealed_at": 248,
+      "role": "setup",
+      "status": "escalating",
+      "summary": "覆盖四派联盟全境的诡异大雪自万里之上的虚空裂缝涌出，含几乎滔天的杀气并致大范围降温；全境黑木被雷电劈碎、坐于其中的修士被劈死；四派随即以玉简传令全境要求做好大战准备，召集散、魔、苦三类修士。王林判断此事自有更强修士处理而未介入，但裂缝始终困扰其心。"
+    }
+  ]
+}

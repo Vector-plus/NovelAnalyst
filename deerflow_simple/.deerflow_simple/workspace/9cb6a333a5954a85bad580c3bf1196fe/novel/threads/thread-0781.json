@@ -1,0 +1,30 @@
+{
+  "id": "thread-0781",
+  "introduced_at": 763,
+  "kind": "story_thread",
+  "label": "四处碎片大陆突现仙力波动与禁制封印",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 763,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "opportunity",
+      "chapter_ranges": [
+        {
+          "end": 763,
+          "start": 763
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0781-001",
+      "resolution_refs": [],
+      "revealed_at": 763,
+      "role": "setup",
+      "status": "open",
+      "summary": "战空烈称雷之仙界内四处碎片大陆有浓郁仙力波动、禁制封印守护，破封将有重宝；其与申公虎约定联手夺宝，王林仅表示有暇会去看看。"
+    }
+  ]
+}

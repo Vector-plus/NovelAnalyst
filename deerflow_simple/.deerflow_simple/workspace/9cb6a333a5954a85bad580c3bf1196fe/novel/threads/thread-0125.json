@@ -1,0 +1,30 @@
+{
+  "id": "thread-0125",
+  "introduced_at": 172,
+  "kind": "story_thread",
+  "label": "王林吞入冰晶后的身体异变",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 172,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_gain",
+      "chapter_ranges": [
+        {
+          "end": 172,
+          "start": 172
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0125-001",
+      "resolution_refs": [],
+      "revealed_at": 172,
+      "role": "subject",
+      "status": "ongoing",
+      "summary": "王林将冰晶按入额头后，脑中剧痛、识海被蓝光包裹、神识被阻断，最终被蓝光触手结成的巨茧卷入虚空消失；异变结果未明。"
+    }
+  ]
+}

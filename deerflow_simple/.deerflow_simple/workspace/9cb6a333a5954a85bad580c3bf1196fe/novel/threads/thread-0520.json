@@ -1,0 +1,30 @@
+{
+  "id": "thread-0520",
+  "introduced_at": 571,
+  "kind": "story_thread",
+  "label": "天妖城妖鼓考验与副帅之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 571,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 571,
+          "start": 571
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0520-001",
+      "resolution_refs": [],
+      "revealed_at": 571,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "妖将依次敲击妖鼓以争夺副帅之位，本轮规则改为妖将与帮助者所敲之声叠加；于森敲四下、墨非敲八声，考验仍在继续，王林尚未上场。"
+    }
+  ]
+}

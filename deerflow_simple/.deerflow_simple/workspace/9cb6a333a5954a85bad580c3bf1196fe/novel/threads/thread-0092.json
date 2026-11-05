@@ -1,0 +1,30 @@
+{
+  "id": "thread-0092",
+  "introduced_at": 141,
+  "kind": "story_thread",
+  "label": "王林被强敌追出修魔海",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 141,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 141,
+          "start": 141
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0092-001",
+      "resolution_refs": [],
+      "revealed_at": 141,
+      "role": "escape",
+      "status": "active",
+      "summary": "王林判断身后有人追击后提速，与李慕婉冲破海面遁走，并留飞剑于海面下待机；本章未交代追击结果。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0272",
+  "introduced_at": 361,
+  "kind": "story_thread",
+  "label": "中年男子夜访图谋青木修炼之秘",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 361,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "pending_conflict",
+      "chapter_ranges": [
+        {
+          "end": 361,
+          "start": 361
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0272-001",
+      "resolution_refs": [],
+      "revealed_at": 361,
+      "role": "hook",
+      "status": "open",
+      "summary": "中年男子接过灵石后暗定夜里逼问青木修为暴涨的原因；王林已决意若其夜来贪念便杀之。"
+    }
+  ]
+}

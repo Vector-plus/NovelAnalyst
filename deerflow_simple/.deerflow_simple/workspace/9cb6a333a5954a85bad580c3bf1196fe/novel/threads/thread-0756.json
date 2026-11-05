@@ -1,0 +1,30 @@
+{
+  "id": "thread-0756",
+  "introduced_at": 738,
+  "kind": "story_thread",
+  "label": "神秘神识与红色身影的追杀",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 738,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 738,
+          "start": 738
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0756-001",
+      "resolution_refs": [],
+      "revealed_at": 738,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "强大神识横扫碎片大陆并锁定二人，随后冷声喝出「血空凝」凝固百丈天地，红色身影带恨意与杀机逼近，王林距传送阵仅一步却难以落下。"
+    }
+  ]
+}

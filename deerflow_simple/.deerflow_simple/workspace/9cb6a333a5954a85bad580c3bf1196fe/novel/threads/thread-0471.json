@@ -1,0 +1,30 @@
+{
+  "id": "thread-0471",
+  "introduced_at": 535,
+  "kind": "story_thread",
+  "label": "血魂丹真伪之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 535,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 535,
+          "start": 535
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0471-001",
+      "resolution_refs": [],
+      "revealed_at": 535,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "姚惜雪给出的血魂丹经曹一斗按流传的辨法验证为真品，但王林由「辨别之法人人皆知」反推此为血祖设下的计谋，怀疑丹药另有蹊跷；姚惜雪内心则确认这是废丹。读者已知与王林所疑方向不同，尚未揭晓。"
+    }
+  ]
+}

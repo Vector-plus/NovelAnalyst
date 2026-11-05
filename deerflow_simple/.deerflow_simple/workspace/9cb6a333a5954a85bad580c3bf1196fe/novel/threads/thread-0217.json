@@ -1,0 +1,30 @@
+{
+  "id": "thread-0217",
+  "introduced_at": 290,
+  "kind": "story_thread",
+  "label": "射神车已到手但尚不可用",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 290,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item",
+      "chapter_ranges": [
+        {
+          "end": 290,
+          "start": 290
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0217-001",
+      "resolution_refs": [],
+      "revealed_at": 290,
+      "role": "protagonist",
+      "status": "open",
+      "summary": "王林将三辆射神战车全部封印收入储物袋，但因兽魂过于强大且封印仅为睡眠状态，暂时无法使用；战车威力、兽魂消耗等细节天宝上人未在铁片记录，需其自行研究。"
+    }
+  ]
+}

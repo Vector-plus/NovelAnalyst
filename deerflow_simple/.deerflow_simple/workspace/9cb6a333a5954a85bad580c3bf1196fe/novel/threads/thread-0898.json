@@ -1,0 +1,30 @@
+{
+  "id": "thread-0898",
+  "introduced_at": 857,
+  "kind": "story_thread",
+  "label": "封号争夺第三关（天之关）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 857,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "tournament",
+      "chapter_ranges": [
+        {
+          "end": 857,
+          "start": 857
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0898-001",
+      "resolution_refs": [],
+      "revealed_at": 857,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "地之关结束，王林吞雷灵、炎雷子修复雷池；天之关由烈云子以战字帖主持，场上剩余一百四十七人，战空烈、许霆已合格，王林准备受试。"
+    }
+  ]
+}

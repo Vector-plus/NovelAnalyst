@@ -1,0 +1,30 @@
+{
+  "id": "thread-0570",
+  "introduced_at": 607,
+  "kind": "story_thread",
+  "label": "矮小老者的真实身份与「来自仙界」之说",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 607,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 607,
+          "start": 607
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0570-001",
+      "resolution_refs": [],
+      "revealed_at": 607,
+      "role": "core",
+      "status": "open",
+      "summary": "被擒老者在本章仅以「自称来自仙界」被叙述提及，王林以搜魂术相胁逼问其身份，本章未给出答复。"
+    }
+  ]
+}

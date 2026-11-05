@@ -1,0 +1,30 @@
+{
+  "id": "thread-0903",
+  "introduced_at": 861,
+  "kind": "story_thread",
+  "label": "王林（许木）之名与第三封印之力暴露",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 861,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 861,
+          "start": 861
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0903-001",
+      "resolution_refs": [],
+      "revealed_at": 861,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "许霆与六指修士均以「许木／魔道子许木」称呼王林；王林公开施展「第三封印」令战场众修与旁观者震骇，其力量来源与后果尚未交代。"
+    }
+  ]
+}

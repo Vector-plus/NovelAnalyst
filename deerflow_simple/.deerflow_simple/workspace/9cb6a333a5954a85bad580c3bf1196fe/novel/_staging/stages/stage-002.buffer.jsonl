@@ -1,0 +1,153 @@
+{"ref_local_id": "ev-local-1", "kind": "event", "note": "stage-002 首章：王林被破例收为记名弟子的决策过程与精铁起因", "chapter_order": 10}
+{"ref_local_id": "ev-local-3", "kind": "event", "note": "王林记名弟子身份的具体处境：灰衣、挑水差事、被威胁逐出", "chapter_order": 10}
+{"ref_local_id": "ev-local-4", "kind": "event", "note": "张虎首次登场并与王林同屋互动", "chapter_order": 10}
+{"ref_local_id": "claim-local-17", "kind": "claim", "note": "石珠保密决心的来源证据，后续秘密修炼线索的上游", "chapter_order": 10}
+{"ref_local_id": "claim-local-8", "kind": "claim", "note": "四叔赠精铁促成王林入派，四叔动机与物品来源已明", "chapter_order": 10}
+{"ref_local_id": "claim-local-9", "kind": "claim", "note": "王林正式成为恒岳派记名弟子的身份起点", "chapter_order": 10}
+{"kind": "event_ref", "local_id": "ev-local-2", "reason": "王林首次利用神秘石珠浸泡泉水恢复体力并立下保密决心，是阶段内借珠修炼的起点", "chapter_order": 11}
+{"kind": "event_ref", "local_id": "ev-local-4", "reason": "一个月内体力与效率的量化变化（六天→三天），可作为阶段成长基线", "chapter_order": 11}
+{"kind": "claim_ref", "local_id": "claim-local-11", "reason": "石珠浸水效果及“不让人知道”的保密决定", "chapter_order": 11}
+{"kind": "claim_ref", "local_id": "claim-local-19", "reason": "挑水工时缩短的可量化进展", "chapter_order": 11}
+{"kind": "event_ref", "local_id": "ev-local-3", "reason": "恒岳派记名弟子十年杂务、内门弟子、童子与灵根天资等门规设定集中出处", "chapter_order": 11}
+{"kind": "faction_signal", "candidate_name": "恒岳派", "reason": "出现弟子等级分层与收徒首重灵根的设定，势力档案缺失，需建档", "chapter_order": 11}
+{"kind": "event", "local_id": "ev-local-2", "note": "石珠修炼方法论首次系统化：露水最佳、葫芦分装埋藏、露水被吸收之谜", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-5", "note": "石珠浸泡液效果分级的关键陈述，后续修炼描写可对照", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-9", "note": "记名弟子探亲规则与仙符来源（张虎告知）", "chapter_order": 12}
+{"kind": "event", "local_id": "ev-local-4", "note": "孙长老首次出场并发放千里符，同时给出贬斥评价", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-17", "note": "恒岳派弟子衣色等级制度，判断角色层级的基础设定", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-24", "note": "门派借探亲弟子展示仙术以招揽入门测试者的动机", "chapter_order": 12}
+{"kind": "event", "local_id": "ev-local-6", "note": "章末悬念：蓝线草枯萎，疑似与王林/石珠相关，需追踪后续解释", "chapter_order": 12}
+{"kind": "candidate", "candidate_name": "孙长老", "note": "与王林有直接互动的长老候选，后续可能出现", "chapter_order": 12}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "孙长老对王林起疑并开始追查，是本章唯一指向山内主线的伏笔", "chapter_order": 13}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林首次使用仙符赶路，能力展示", "chapter_order": 13}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "王家亲戚态度反转，王林家庭线现状", "chapter_order": 13}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "note": "恒岳派内部层级与孙长老地位，势力结构信息", "chapter_order": 13}
+{"kind": "claim", "ref_or_local_id": "claim-local-2", "note": "孙长老认定当日下午只有王林来过正院，为后续可能的冲突埋点", "chapter_order": 13}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "弟子一年三次探亲的派规，可用于时间线推算", "chapter_order": 13}
+{"ref_local_id": "ev-local-2", "kind": "event", "note": "神秘石珠首次展示吸水/吸寒气的异变，云朵纹六→七", "chapter_order": 14}
+{"ref_local_id": "claim-local-13", "kind": "claim", "note": "石珠能力首次展示的关键证据", "chapter_order": 14}
+{"ref_local_id": "claim-local-16", "kind": "claim", "note": "云朵纹增至七个，可作为后续计数参照", "chapter_order": 14}
+{"ref_local_id": "claim-local-5", "kind": "claim", "note": "王林阶段性心理目标的明确表达（忍十年）", "chapter_order": 14}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 15, "note": "神秘珠子在雨中吸收落身水滴，被王林改藏于屋外露水葫芦处"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 15, "note": "王林获得记名弟子探亲仙符；杂务处刘姓弟子态度由刁难转为讨好"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 15, "note": "孙长老传唤王林至正院住处，章末王林见到一位老者，对话未展开"}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "chapter_order": 15, "note": "孙长老主动传唤王林的关键陈述"}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本阶段核心物品（葫芦/泉水）线索的首次正面冲突", "chapter_order": 16}
+{"kind": "event", "local_id": "ev-local-2", "reason": "王林身份晋升的关键转折节点", "chapter_order": 16}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "对手角色对葫芦的独占意图与动机，可作为后续冲突的驱动证据", "chapter_order": 16}
+{"kind": "claim", "local_id": "claim-local-19", "reason": "王林对神秘珠子的使用计划，支撑本阶段“秘密修炼”主线", "chapter_order": 16}
+{"kind": "event", "local_ref": "ev-local-1", "reason": "主角由记名弟子转为内门弟子的关键节点，获身份储物袋与基础功法", "chapter_order": 17}
+{"kind": "event", "local_ref": "ev-local-2", "reason": "主角首次凝气吐纳出现微弱感应，属修炼起点事件", "chapter_order": 17}
+{"kind": "event", "local_ref": "ev-local-3", "reason": "师徒间利益交换关系成立，构成后续情节驱动力", "chapter_order": 17}
+{"kind": "claim", "local_ref": "claim-local-8", "reason": "体系设定：凝气十五层、三层为分水岭", "chapter_order": 17}
+{"kind": "claim", "local_ref": "claim-local-16", "reason": "孙大柱以灵石换取灵气葫芦的公开条件", "chapter_order": 17}
+{"kind": "claim", "local_ref": "claim-local-19", "reason": "主角藏匿神秘珠子与露水葫芦的位置信息，后续复用概率高", "chapter_order": 17}
+{"kind": "event", "ref_local_id": "ev-local-2", "chapter_order": 18, "note": "王林与孙大柱“寻葫芦”博弈主事件，双方互相试探"}
+{"kind": "event", "ref_local_id": "ev-local-3", "chapter_order": 18, "note": "孙大柱暗中下阻碍修炼之药，长期迫害线索起点"}
+{"kind": "claim", "ref_local_id": "claim-local-14", "chapter_order": 18, "note": "孙大柱投药计划与其“不让王林练过凝气三层”的目标"}
+{"kind": "claim", "ref_local_id": "claim-local-19", "chapter_order": 18, "note": "孙大柱受挫、意识到被王林耍了一整日"}
+{"kind": "claim", "ref_local_id": "claim-local-3", "chapter_order": 18, "note": "王林对同门轻视的报复心结"}
+{"kind": "setting", "ref_local_id": "claim-local-8", "chapter_order": 18, "note": "凝气期—筑基的修炼体系说明，可作后续境界判断依据"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "stage_id": "stage-002", "note": "孙大柱付灵石并以搜魂术验证王林的计划成形（含搜魂术限制设定）", "weight": "key", "chapter_order": 19}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "stage_id": "stage-002", "note": "孙大柱熬药+灵石助凝气失败，浊气源为化灵草", "weight": "key", "chapter_order": 19}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "stage_id": "stage-002", "note": "一月无果、葫芦灵气尽失，王林被逐出正院（师徒关系表面破裂）", "weight": "key", "chapter_order": 19}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "stage_id": "stage-002", "note": "孙大柱意图对王林使用搜魂术的内心计划", "weight": "key", "chapter_order": 19}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "stage_id": "stage-002", "note": "葫芦灵气一月尽失——神秘葫芦线索弱化", "weight": "normal", "chapter_order": 19}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "stage_id": "stage-002", "note": "王林被逐出正院，居住与修炼条件变化", "weight": "key", "chapter_order": 19}
+{"kind": "event", "local_id": "ev-local-1", "note": "神秘珠子云朵由七增至九，露水成粘稠状，王林拟催化第十朵云", "chapter_order": 20}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林在正院丹房首次与王卓（推定）及两名红衣女弟子正面相遇", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-21", "note": "献花男子=王卓，本章为推断，待后续明示", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-7", "note": "内门弟子月例制度，后续领取场景可复用", "chapter_order": 20}
+{"kind": "claim", "local_id": "claim-local-20", "note": "同门对王林入门手段的公开讥讽说法（reported），影响其门派处境", "chapter_order": 20}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林入内门后的首次公开对峙；王卓与王林亲戚关系在同伴前曝光，同时点出年底比试威胁。", "chapter_order": 21}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王浩私赠三粒夺灵丹，构成王林修炼资源来源；丹房发丹场景确立门派资源分配方式。", "chapter_order": 21}
+{"ref_or_local_id": "claim-local-7", "kind": "claim", "note": "内门弟子年度比试规则（争十强／新人王，优胜者获法宝），阶段内后续冲突的制度基础。", "chapter_order": 21}
+{"ref_or_local_id": "claim-local-26", "kind": "claim", "note": "章末揭示王浩所赠三粒药丸即夺灵丹（章节标题“夺灵”的落点）。", "chapter_order": 21}
+{"ref_or_local_id": "thread-local-1", "kind": "thread", "note": "年底内门弟子比试伏笔，status=open。", "chapter_order": 21}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "note": "王林首次施展反呼吸散功，一天一夜后逼出体内化灵草", "chapter_order": 22}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-16", "note": "化灵草阻碍已解除，王林修炼条件发生变化", "chapter_order": 22}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-18", "note": "孙大柱对王林已心灰意冷、不再管顾，指导关系实质中止", "chapter_order": 22}
+{"kind": "character_turning_point", "ref_or_local_id": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "从误饮露水闯祸到自行反呼吸散功、被动逼出化灵草", "chapter_order": 22}
+{"ref_type": "event", "ref_or_local_id": "ev-local-1", "note": "石珠第十朵云显化，多法试探无效——金手指升级起点", "chapter_order": 23}
+{"ref_type": "event", "ref_or_local_id": "ev-local-2", "note": "梦境空间、训练反哺现实、十倍时间三项机制首次显化", "chapter_order": 23}
+{"ref_type": "claim", "ref_or_local_id": "claim-local-6", "note": "梦中训练成果可带回现实（能力因果首次确立）", "chapter_order": 23}
+{"ref_type": "claim", "ref_or_local_id": "claim-local-11", "note": "王林自断十倍时间——本章核心机制结论（reported，来自王林计时推断）", "chapter_order": 23}
+{"ref_type": "claim", "ref_or_local_id": "claim-local-12", "note": "王林对门派环境产生戒备，主动隐匿石珠", "chapter_order": 23}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "kind": "key_event", "local_id_or_ref": "ev-local-2", "note": "主角修炼方法取得突破：确认梦境仅可携带无灵气凡物，并以新采野葫芦将灵气泉水带入梦境，形成稳定修炼循环。", "chapter_order": 24}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "kind": "key_claim", "local_id_or_ref": "claim-local-13", "note": "主角自行总结出进入梦境的间隔限制（至少两个多时辰），属能力规则认知节点。", "chapter_order": 24}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "kind": "key_claim", "local_id_or_ref": "claim-local-23", "note": "叙述口径给出主角修炼进度预期：灵气不缺＋十倍时间梦境空间，凝气期第一层指日可见。", "chapter_order": 24}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "kind": "faction_affiliation_signal", "local_id_or_ref": "claim-local-9", "note": "梦境中主角身着内门弟子红色衣服，可作阶段内身份状态旁证（本章未复述入门经过）。", "chapter_order": 24}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "主角突破凝气第一层，进入修仙者的第一个实力台阶", "chapter_order": 25}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "神秘珠子用法被完全掌握，修炼时间比可达约6:1", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-1", "note": "珠子每日三次、每次二十多时辰的核心设定", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "note": "引力术为凝气第一层可用的基础仙术、飞剑前置", "chapter_order": 25}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "note": "孙大柱对王林的态度事实，可作为后续师徒线依据", "chapter_order": 25}
+{"ref_type": "event", "local_id": "ev-local-2", "note": "王林引力术首次实战使用成功，救下张虎", "chapter_order": 26}
+{"ref_type": "event", "local_id": "ev-local-3", "note": "刘师兄被杀，张虎离派并留下黄纸仙符", "chapter_order": 26}
+{"ref_type": "claim", "local_id": "claim-local-5", "note": "王林当前修为：凝气第一层", "chapter_order": 26}
+{"ref_type": "claim", "local_id": "claim-local-19", "note": "黄纸仙符交接给王林（后续道具线索）", "chapter_order": 26}
+{"ref_type": "claim", "local_id": "claim-local-10", "note": "刘师兄杀意动机：张虎看见不该看的事（赵富贵送仙符）", "chapter_order": 26}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林抛尸灭迹并收存神秘仙符，是本章对上一章命案现场的直接处置", "chapter_order": 27}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林修炼路线确立：主练引力术、等待第一层灵气积累后再开第二层口诀", "chapter_order": 27}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "黑衣张姓青年（char-0020）主动来访，跨章悬念起点", "chapter_order": 27}
+{"ref_or_local_id": "claim-local-1", "kind": "claim", "note": "神秘仙符的异常灵气与危险气息，为后续关键物证", "chapter_order": 27}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "note": "凝气十五层与逐层开启口诀的力量体系规则", "chapter_order": 27}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "张姓青年由白衣升黑衣，实力/地位变动", "chapter_order": 27}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "reason": "王林被指派接管杂务处，是阶段内身份/差事变动的关键节点，并牵出记名弟子失踪问询与风眼修炼信息", "chapter_order": 28}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "reason": "王林在杂务处的报复性管理与记名弟子集体求告未果，构成后续冲突起点", "chapter_order": 28}
+{"ref_or_local_id": "claim-local-3", "kind": "claim", "reason": "风眼修炼条件（凝气第四层巅峰+第五层口诀）为后续修炼线的可用设定证据", "chapter_order": 28}
+{"ref_or_local_id": "claim-local-4", "kind": "claim", "reason": "外界对王林修为的判断（未达凝气第一层）可作为其隐藏修为的证据", "chapter_order": 28}
+{"ref_or_local_id": "claim-local-13", "kind": "claim", "reason": "王林主动搞砸差事以求解脱的行为动机，属人物转折点", "chapter_order": 28}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林以杂务处管事身份按旧怨苛派苦役，关键权力展示", "chapter_order": 29}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "公开收礼与仙符换减役，探亲仙符成为可索取的资源", "chapter_order": 29}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "在杂务处设隐秘修炼点，两月专注修炼；师伯长老仍未换人", "chapter_order": 29}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "note": "王林主动求被替换的动机陈述", "chapter_order": 29}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "上层态度未明，人物转折点", "chapter_order": 29}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-1", "chapter_order": 30, "note": "主角修为里程碑：凝气期第二层 + 神识首次展示"}
+{"buffer_type": "key_claim", "ref_or_local_id": "claim-local-5", "chapter_order": 30, "note": "王林刻意隐藏修为，不敢向孙大柱索要凝气三层后口诀"}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-2", "chapter_order": 30, "note": "恒岳派十年一次记名弟子跻身大赛与年底内门弟子比试启动"}
+{"buffer_type": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 30, "note": "王浩求借探亲仙符，跨章未结"}
+{"buffer_type": "relationship", "ref_or_local_id": "rel-local-1", "chapter_order": 30, "note": "王林—王浩：有求于人且王林存防备的往来"}
+{"kind": "event", "local_id": "ev-local-1", "note": "交易会线索建立：入场需化形化声丹，200仙符一粒", "chapter_order": 31}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林自制灵气雪水替代泉水，修炼资源策略变化", "chapter_order": 31}
+{"kind": "claim", "local_id": "claim-local-10", "note": "王林对凝气期后续口诀志在必得，动机明确", "chapter_order": 31}
+{"kind": "claim", "local_id": "claim-local-13", "note": "灵气泉水效力衰减——潜在长期隐患", "chapter_order": 31}
+{"kind": "claim", "local_id": "claim-local-7", "note": "王林向王浩支出400张仙符", "chapter_order": 31}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林首次进入门派外的黑影交易会，与王浩同行", "chapter_order": 32}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "王林以五粒夺灵丹换得短时藏匿修为的术法玉简", "chapter_order": 32}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "造化丹竞价开局，王浩首先报价", "chapter_order": 32}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "note": "造化丹药效两月、吸纳灵气数倍（王浩所述）", "chapter_order": 32}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "note": "王林梦境修炼九月余，凝气二层进度不满意", "chapter_order": 32}
+{"kind": "event", "ref": "ev-local-2", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "chapter_order": 33, "note": "王林获得凝气四至九层口诀，是 stage-002“秘密修炼”主线的关键资源节点"}
+{"kind": "event", "ref": "ev-local-3", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "chapter_order": 33, "note": "液体公开露宝导致觊觎与追截，形成王林此后行动需戒备的风险线"}
+{"kind": "claim", "ref": "claim-local-20", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "chapter_order": 33, "note": "紫衣二师兄留下后山换物承诺，为后续换宝/寻人留伏笔"}
+{"kind": "character_turning_point", "candidate_name": "紫衣男子", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "chapter_order": 33, "note": "首次登场即被众弟子尊称“二师兄”，气息被王林判定为恒岳派中前所未见"}
+{"kind": "claim", "ref": "claim-local-12", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "chapter_order": 33, "note": "交代恒岳派弟子口诀分布与凝气层级上限（张狂凝气第六层），可用于后续修炼进度核对"}
+{"local_id": "ev-local-1", "kind": "event", "reason": "王林修炼外部条件被改变：下山潜修计划被否决，改入四年集训", "chapter_order": 34}
+{"local_id": "ev-local-3", "kind": "event", "reason": "集训正式启动，王林被公开带入门派大殿，为阶段内群体场合的起点", "chapter_order": 34}
+{"local_id": "claim-local-5", "kind": "claim", "reason": "王林隐匿气息能力首次明确展示，可用于后续伪装判断", "chapter_order": 34}
+{"local_id": "claim-local-14", "kind": "claim", "reason": "交代玄道宗交流大会与二十年规矩，是阶段目标设定的背景", "chapter_order": 34}
+{"local_id": "claim-local-17", "kind": "claim", "reason": "王林修为状态（凝气期第二层）确认点", "chapter_order": 34}
+{"kind": "event_ref", "local_id": "ev-local-1", "chapter_order": 35, "note": "恒岳派集训启动：四年后与玄道宗交流的硬性目标首次出现"}
+{"kind": "event_ref", "local_id": "ev-local-2", "chapter_order": 35, "note": "后山修炼地规则确立（口诀索取、洞穴选择、夺灵丹补给），张狂以管理者身份登场"}
+{"kind": "event_ref", "local_id": "ev-local-3", "chapter_order": 35, "note": "王林正式获得独立封闭洞穴，具备长期闭关条件"}
+{"kind": "claim_ref", "local_id": "claim-local-10", "chapter_order": 35, "note": "后山由元婴期始祖开辟的来历陈述（reported，来自张狂）"}
+{"kind": "claim_ref", "local_id": "claim-local-11", "chapter_order": 35, "note": "王林确认紫衣二师兄即此前换走他灵气泉水之人"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "主角两年（含梦境近十三年）闭关与引力术大成，stage-002 关键修炼里程碑", "chapter_order": 36}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "内门弟子王卓、孙浩与张师兄首次同场交锋，主角隐藏修为被当作凝气一层", "chapter_order": 36}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "note": "凝气三层无极限——主角异常体质的关键证据", "chapter_order": 36}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "note": "主角可看透他人修为、灵力强于同级，能力异常证据", "chapter_order": 36}
+{"kind": "character", "ref_or_local_id": "孙浩", "note": "新增内门弟子候选，第四层顶峰，对主角有敌意", "chapter_order": 36}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "四年闭关期满、掌门召归，属本 stage 收束节点，与下一 stage 衔接", "chapter_order": 37}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "张狂试探王林、王林隐匿修为成功，人物转折证据", "chapter_order": 37}
+{"record_ref_or_local_id": "claim-local-17", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "王林隐匿修为习惯与真实修为（凝气第三层）的关键陈述", "chapter_order": 37}
+{"record_ref_or_local_id": "claim-local-20", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "王林放弃短期突破、选择巩固第三层的决策节点", "chapter_order": 37}
+{"record_ref_or_local_id": "claim-local-30", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "王林对自身“第三层无极限/或已突破”的猜测，为后续修为线伏笔", "chapter_order": 37}
+{"record_ref_or_local_id": "claim-local-6", "kind": "claim", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-002"}, "note": "凝气期瓶颈设定（张师兄说法）：三进四须斩断凡尘", "chapter_order": 37}
+{"kind": "event", "local_ref": "ev-local-1", "chapter_order": 38, "note": "阶段收尾：四年集训出关，弟子返回恒岳派大殿"}
+{"kind": "event", "local_ref": "ev-local-2", "chapter_order": 38, "note": "王林引力术实战效果首次直观展示（石崖整体崩塌）"}
+{"kind": "event", "local_ref": "ev-local-3", "chapter_order": 38, "note": "师徒关系定性变化：孙大柱正式承认王林为真弟子"}
+{"kind": "claim", "local_ref": "claim-local-7", "chapter_order": 38, "note": "下阶段核心事件引子：三天后玄道宗来访"}
+{"kind": "claim", "local_ref": "claim-local-16", "chapter_order": 38, "note": "潜在威胁：孙大柱曾计划对王林施展搜魂术，此念仅暂时放弃"}
+{"kind": "entity_turn", "entity_ref": {"path": "characters/char-0056/index.json", "record_id": "char-0056"}, "chapter_order": 38, "note": "孙大柱由实用型师父转为正式收徒并带其参与宗门大事"}
+{"kind": "faction_turn", "candidate_name": "玄道宗", "chapter_order": 38, "note": "外来宗派即将来访恒岳派"}

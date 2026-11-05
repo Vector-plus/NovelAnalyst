@@ -1,0 +1,30 @@
+{
+  "id": "thread-0067",
+  "introduced_at": 103,
+  "kind": "story_thread",
+  "label": "王林下落未明（赵国一方仅能猜测其已死）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 103,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_question",
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0067-001",
+      "resolution_refs": [],
+      "revealed_at": 103,
+      "role": "raised",
+      "status": "open",
+      "summary": "藤化元不知王林死活，只猜测其应已死却心惊肉跳；柳眉、王卓、王浩等人的后续均以此为背景。"
+    }
+  ]
+}

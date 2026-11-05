@@ -1,0 +1,30 @@
+{
+  "id": "thread-0622",
+  "introduced_at": 649,
+  "kind": "story_thread",
+  "label": "柳眉为王林准备的「特殊的法宝」及其无用之处",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 649,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_item",
+      "chapter_ranges": [
+        {
+          "end": 649,
+          "start": 649
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0622-001",
+      "resolution_refs": [],
+      "revealed_at": 649,
+      "role": "setup",
+      "status": "open",
+      "summary": "本章仅以柳眉内心提及她为王林准备了一件特殊法宝、此刻再无用处，并为之痛苦；法宝名称与用途均未交代。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0119",
+  "introduced_at": 167,
+  "kind": "story_thread",
+  "label": "王林转向第四关入口的逃离行动",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 167,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 167,
+          "start": 167
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0119-001",
+      "resolution_refs": [],
+      "revealed_at": 167,
+      "role": "setup",
+      "status": "open",
+      "summary": "因游魂对孟驼子失效，王林放弃借游魂周旋，取回肉身并携许立国、第二魔头飞向进入第四关之地。"
+    }
+  ]
+}

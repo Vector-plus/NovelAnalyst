@@ -1,0 +1,30 @@
+{
+  "id": "thread-0821",
+  "introduced_at": 799,
+  "kind": "story_thread",
+  "label": "庞大阵法与水晶棺材的用途及黑衣人真身",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 799,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 799,
+          "start": 799
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0821-001",
+      "resolution_refs": [],
+      "revealed_at": 799,
+      "role": "opening",
+      "status": "active",
+      "summary": "王林追至目的地见到庞大阵法及其内的水晶棺材，并发现黑衣人黑袍下除头颅外全身皆是白骨，二者成因与目的本章未作解释。"
+    }
+  ]
+}

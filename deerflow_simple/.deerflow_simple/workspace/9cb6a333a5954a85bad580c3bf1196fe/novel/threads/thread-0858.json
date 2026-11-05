@@ -1,0 +1,30 @@
+{
+  "id": "thread-0858",
+  "introduced_at": 833,
+  "kind": "story_thread",
+  "label": "姚冰云为其妹求援被拒，其妹之事未解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 833,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_question",
+      "chapter_ranges": [
+        {
+          "end": 833,
+          "start": 833
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0858-001",
+      "resolution_refs": [],
+      "revealed_at": 833,
+      "role": "active",
+      "status": "open",
+      "summary": "姚冰云以妹为唯一道心与唯一破绽，向王林求助未果，独自离去；王林称以自己之力无法相助。"
+    }
+  ]
+}

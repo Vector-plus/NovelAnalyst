@@ -1,0 +1,30 @@
+{
+  "id": "thread-0607",
+  "introduced_at": 641,
+  "kind": "story_thread",
+  "label": "王林留话『小心，师尊』",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 641,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 641
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0607-001",
+      "resolution_refs": [],
+      "revealed_at": 641,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林离去时以声音向陈涛留下『小心，师尊！』四字，章内未说明所指何人。"
+    }
+  ]
+}

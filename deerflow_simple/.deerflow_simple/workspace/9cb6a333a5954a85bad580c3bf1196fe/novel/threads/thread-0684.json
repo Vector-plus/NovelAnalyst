@@ -1,0 +1,30 @@
+{
+  "id": "thread-0684",
+  "introduced_at": 679,
+  "kind": "story_thread",
+  "label": "贪狼循宝气抵达云霞星，欲夺疑似堪比大鼎之宝",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 679,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict_setup",
+      "chapter_ranges": [
+        {
+          "end": 679,
+          "start": 679
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0684-001",
+      "resolution_refs": [],
+      "revealed_at": 679,
+      "role": "escalating",
+      "status": "ongoing",
+      "summary": "贪狼凭寻宝直觉穿过罗天北域迷雾来到云霞星外，认定有堪比当年大鼎的宝物，忘却王林与封印，祭出黑鼎开路进入迷雾。"
+    }
+  ]
+}

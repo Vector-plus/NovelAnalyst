@@ -1,0 +1,30 @@
+{
+  "id": "thread-0301",
+  "introduced_at": 386,
+  "kind": "story_thread",
+  "label": "魅姬的来历与其意境之秘",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 386,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 386,
+          "start": 386
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0301-001",
+      "resolution_refs": [],
+      "revealed_at": 386,
+      "role": "setup",
+      "status": "open",
+      "summary": "魅姬由巨魔族老祖储物袋中法轮内的魂魄化形而出，魂魄蕴含可迷惑万物的意境；其与巨魔族老祖的关系、以及法轮来历在本章均未说明。"
+    }
+  ]
+}

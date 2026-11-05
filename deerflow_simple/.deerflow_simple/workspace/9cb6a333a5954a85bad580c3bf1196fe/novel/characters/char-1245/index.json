@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第515—549章：由王林决定自建、以炼魂术与十魂幡为功法基础的山谷势力，经首次吞并地下溶洞部落（第518章）与吸纳白衣老者所辖十里之地族人（第520—521章）后，于第522章正式命名为「炼魂部落」并立祭养之规、王林默认「老祖」之称；第523章扩至近三百里、五千男丁，与另两方在十万里内三足鼎立并转入全力修行；第548章王林归来后规模与前哨布防具体呈现，第549章获巨灵九修前六层炼体传承；隐患为虎咆等转投敌对者及王林远行后尊魂幡无处养魂。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1245/index.json",
+          "record_id": "char-1245"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 549,
+      "summary": "炼魂部落：命名、扩张与布防（第498—549章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1245/stages/stage-016.md",
+        "record_id": "doc-char-1245-stage-016"
+      },
+      "title": "炼魂部落：命名、扩张与布防"
+    }
+  ],
+  "id": "char-1245",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 523,
+  "kind": "entity_index",
+  "label": "炼魂部落",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 549,
+  "schema_version": "2.0"
+}

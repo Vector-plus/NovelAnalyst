@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 330,
+          "start": 330
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0832/index.json",
+          "record_id": "char-0832"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 330,
+      "summary": "与卡莫×野人少年的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0041.json",
+        "record_id": "rel-0041"
+      },
+      "title": "卡莫×野人少年"
+    }
+  ],
+  "id": "idx-rel-char-0832",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 330,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 330,
+        "start": 330
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0832/index.json",
+        "record_id": "char-0832"
+      }
+    ]
+  },
+  "title": "char-0832 关系入口"
+}

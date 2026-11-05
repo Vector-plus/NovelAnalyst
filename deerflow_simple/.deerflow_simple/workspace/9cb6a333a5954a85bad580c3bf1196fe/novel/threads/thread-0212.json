@@ -1,0 +1,30 @@
+{
+  "id": "thread-0212",
+  "introduced_at": 281,
+  "kind": "story_thread",
+  "label": "仙界三十七碎片传送阵与碎片地图",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 281,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "worldbuilding",
+      "chapter_ranges": [
+        {
+          "end": 281,
+          "start": 281
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0212-001",
+      "resolution_refs": [],
+      "revealed_at": 281,
+      "role": "knowledge_gained",
+      "status": "open",
+      "summary": "王林通过玉简与阵法画面掌握了三十七个可传送碎片及极品灵石开阵之法，具备在仙界碎片间移动的手段，并保留了尚不清楚归属的回鼎。"
+    }
+  ]
+}

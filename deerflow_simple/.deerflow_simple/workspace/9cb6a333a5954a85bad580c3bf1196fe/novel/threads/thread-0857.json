@@ -1,0 +1,30 @@
+{
+  "id": "thread-0857",
+  "introduced_at": 833,
+  "kind": "story_thread",
+  "label": "王林的元力改变不能在青灵星上进行，需另择星球并面对天劫",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 833,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 833,
+          "start": 833
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0857-001",
+      "resolution_refs": [],
+      "revealed_at": 833,
+      "role": "active",
+      "status": "open",
+      "summary": "王林已可随时降临天劫、渡劫即为窥涅初期，但元力改变若在青灵星进行会导致此星崩溃，故离星另寻荒芜星球修炼，元力已化为黑白二气。"
+    }
+  ]
+}

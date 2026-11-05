@@ -1,0 +1,30 @@
+{
+  "id": "thread-0124",
+  "introduced_at": 172,
+  "kind": "story_thread",
+  "label": "血海追捕「吞魂」",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 172,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "pursuit",
+      "chapter_ranges": [
+        {
+          "end": 172,
+          "start": 172
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0124-001",
+      "resolution_refs": [],
+      "revealed_at": 172,
+      "role": "subject",
+      "status": "escalating",
+      "summary": "血海主人下令所有魔化修士进入古神体内追击吞魂；朵目亲自出手，并带天魔散人一同搜寻，本章末仍有魔化修士在虚空抓开裂缝排查。"
+    }
+  ]
+}

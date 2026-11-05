@@ -1,0 +1,47 @@
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "stage_id": "stage-001", "note": "主角命运转折起点：获得恒岳派推荐名额", "chapter_order": 1}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "stage_id": "stage-001", "note": "主角第一次离乡，随四叔赴恒岳派", "chapter_order": 1}
+{"record_ref_or_local_id": "claim-local-5", "kind": "claim", "stage_id": "stage-001", "note": "恒岳派收徒与家族三个推荐名额（reported）", "chapter_order": 1}
+{"record_ref_or_local_id": "claim-local-18", "kind": "claim", "stage_id": "stage-001", "note": "道虚上仙看重王卓、名额来源（reported）", "chapter_order": 1}
+{"record_ref_or_local_id": "claim-local-23", "kind": "claim", "stage_id": "stage-001", "note": "主角主动目标：一定要被选中", "chapter_order": 1}
+{"record_ref_or_local_id": "claim-local-26", "kind": "claim", "stage_id": "stage-001", "note": "离乡时父母状态，可作后续回乡对照", "chapter_order": 1}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "relevance": "王家三名推荐少年被恒岳派接引，主要人物首次接触修仙门派", "chapter_order": 2}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "relevance": "入门测试由三师兄接手，直接衔接到后续测试情节", "chapter_order": 2}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "relevance": "王浩首次自我介绍，与王林的同族关系事实", "chapter_order": 2}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "relevance": "恒岳派背景与赵国修真界格局的首次交代", "chapter_order": 2}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "relevance": "王卓灵根被道虚夸奖的说法，仅为其本人陈述", "chapter_order": 2}
+{"kind": "faction_activity", "ref_or_local_id": {"candidate_name": "恒岳派"}, "relevance": "恒岳派派出弟子接引并安排入门测试", "chapter_order": 2}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter": 3, "why": "本 stage 首次完整呈现恒岳派入门第一项灵根测试结果，确立王卓合格、王林不合格的基本格局", "chapter_order": 3}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter": 3, "why": "王浩以献玉盒成为炼丹药童，主角组三人的分流由此确定", "chapter_order": 3}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter": 3, "why": "第二项毅力测试开启，跨章延续（第4章起仍在此测试中）", "chapter_order": 3}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "chapter": 3, "why": "主角王林灵根判定不合格的关键陈述", "chapter_order": 3}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "chapter": 3, "why": "毅力测试规则，是后续多章判断依据", "chapter_order": 3}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "chapter": 3, "why": "“道虚师叔”与王卓被提前提及，属身份/势力线索", "chapter_order": 3}
+{"kind": "faction_note", "ref_or_local_id": "恒岳派（势力候选）", "chapter": 3, "why": "恒岳派首次以门派主体形式出场（弟子、掌门、丹房、入门测试体系）", "chapter_order": 3}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本 stage 主角首次接受恒岳派入门毅力测试并失败，为后续入派走向的基准事件", "chapter_order": 4}
+{"kind": "event", "local_id": "ev-local-2", "reason": "剑灵阁测试是主角在本书中首次接触「剑灵」概念及「真正弟子」资格的场合", "chapter_order": 4}
+{"kind": "claim", "local_id": "claim-local-19", "reason": "白衣青年口述的例外条款（剑灵认同可破格收为真正弟子），为后续剧情的关键规则陈述", "chapter_order": 4}
+{"kind": "claim", "local_id": "claim-local-5", "reason": "面色蜡黄的中年人对王林资质的当面评价（毅力绝佳、资质普通），人物定位相关陈述", "chapter_order": 4}
+{"kind": "claim", "local_id": "claim-local-10", "reason": "本批测试的完整人数统计（39人、放弃25、合格3、坚持11），可作为本 stage 规模基准数据", "chapter_order": 4}
+{"ref_kind": "event", "local_id": "ev-local-1", "weight": "high", "note": "本阶段核心结果：入门测试全员不合格，王林落选", "chapter_order": 5}
+{"ref_kind": "event", "local_id": "ev-local-4", "weight": "high", "note": "三日之约——下一阶段（离家/再入仙途）的衔接钩子", "chapter_order": 5}
+{"ref_kind": "claim", "local_id": "claim-local-30", "weight": "medium", "note": "王浩以“药童”身份入恒岳派（由王卓转述）", "chapter_order": 5}
+{"ref_kind": "claim", "local_id": "claim-local-25", "weight": "high", "note": "修道者不能有俗世牵挂；三天后来接人", "chapter_order": 5}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "label": "王天水与王天山家产旧怨公开爆发", "chapter_order": 6, "note": "stage-001 内首次出现家族内部旧怨，涉及王天水、四叔、三祖叔"}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "label": "王天水指责王天山抢走父亲留给他的家产（其说法）", "chapter_order": 6, "certainty": "reported"}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "label": "王林握拳旁观并记住每个亲戚的嘴脸", "chapter_order": 6, "certainty": "explicit", "note": "主角态度转折点候选证据"}
+{"ref_or_local_id": "claim-local-22", "kind": "claim", "label": "四叔以江湖朋友关系威慑王天山", "chapter_order": 6, "certainty": "reported", "note": "四叔具备江湖人脉的首次明示说法"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "stage-001 内主角受家族嘲讽并当众立誓的关键节点", "chapter_order": 7}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "王林首次当众表明必入仙人门派的立场陈述（reported）", "chapter_order": 7}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "王林留书离家、独自赴恒岳派，是本 stage“离乡求仙”主线行为节点", "chapter_order": 7}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "坠崖被吸力拽入洞穴，尚未解释的异常现象，供后续 stage 回收", "chapter_order": 7}
+{"local_id": "ev-local-1", "kind": "event", "chapter_order": 8, "note": "主角受困环境与吸力黑洞设定，解释其存活原因"}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 8, "note": "关键道具石珠首次获得"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 8, "note": "石珠首次展示疗伤功效，主角处境转折"}
+{"local_id": "claim-local-15", "kind": "claim", "chapter_order": 8, "note": "王林对被夺名额与恒岳派黑衣中年人的心结回溯"}
+{"local_id": "claim-local-17", "kind": "claim", "chapter_order": 8, "note": "自称「铁柱」，身份链接证据"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "本阶段末：主角自风眼下崖并重伤，石珠露水第二次用于疗伤", "chapter_order": 9}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "主角被恒岳派寻回，为入门提供契机", "chapter_order": 9}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "王家联名上访恒岳派（据父母口述）", "chapter_order": 9}
+{"record_ref_or_local_id": "ev-local-4", "kind": "event", "note": "恒岳派长老殿议，提议破例收主角为记名弟子；另透露恒岳派已没落、需大量从凡人中选弟子", "chapter_order": 9}
+{"record_ref_or_local_id": "claim-local-21", "kind": "claim", "note": "记名弟子决议提议（reported，未落定）", "chapter_order": 9}
+{"record_ref_or_local_id": "claim-local-20", "kind": "claim", "note": "锦袍老者称恒岳派没落、500年前不必理会凡人（势力现状线索）", "chapter_order": 9}

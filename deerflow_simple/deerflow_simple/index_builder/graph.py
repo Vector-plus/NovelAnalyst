@@ -23,6 +23,7 @@ from deerflow_simple.index_builder.nodes.human_review_issues import human_review
 from deerflow_simple.index_builder.nodes.prescan import make_prescan_node
 from deerflow_simple.index_builder.nodes.review_plan import review_plan_node
 from deerflow_simple.index_builder.nodes.skeleton import skeleton_node
+from deerflow_simple.index_builder.restore import restore_build_state
 from deerflow_simple.index_builder.state import BuildState
 from deerflow_simple.spaces.paths import resolve_novel_index_path, resolve_novel_path
 
@@ -33,8 +34,10 @@ _SOURCE_FILE = "novel.txt"
 def _entry_node(state: BuildState) -> dict:
     """entry 节点：透传（phase 已由输入 payload 指定 / checkpoint 恢复）。
 
-    设计文档 §2.2 N1 的完整职责（读 ledger 恢复游标、校验 source_version）属于
-    deepread 阶段的前置，P2c 实现 deepread 主体时再补。
+    设计文档 §2.2 N1 的「读 ledger 恢复游标、校验 source_version」职责已前移到
+    ``build_initial_state``（resume 时经 ``restore_build_state`` 推断，见 restore.py），
+    因为 entry 在星型路由里每次循环都会经过，不适合承载「仅启动时执行一次」的恢复
+    逻辑。
     """
     return {}
 
@@ -98,10 +101,27 @@ def build_initial_state(
 
     - ``novel_root``：索引树根（index root）= space_root/novel。
     - ``source_file``：原文文件 = space_root/source/novel.txt。
+
+    ``build_mode`` 决定初始 ``phase``：
+    - ``full``：固定从 ``skeleton`` 全量构建。
+    - ``resume`` / ``repair``：调用 ``restore_build_state`` 从落盘产物推断断点
+      （phase / total_chapters / current_chapter），跳过已完成阶段（见 restore.py）。
     """
     index_root = resolve_novel_index_path(config, novel_id)
     space_root = resolve_novel_path(config, novel_id)
     source_file = space_root / _SOURCE_DIR / _SOURCE_FILE
+
+    # 断点恢复：resume/repair 从落盘产物推断 phase + 游标；full 固定从 skeleton 走。
+    # restore_build_state 会校验 source_version 一致性，不一致抛 ValueError（原文已变，
+    # resume 不适用，需 full 重建）。
+    phase = "skeleton"
+    total_chapters = 0
+    current_chapter = None
+    if build_mode in ("resume", "repair"):
+        restored = restore_build_state(str(index_root), source_version)
+        phase = restored["phase"]
+        total_chapters = restored["total_chapters"]
+        current_chapter = restored["current_chapter"]
 
     return {
         "novel_id": novel_id,
@@ -109,9 +129,9 @@ def build_initial_state(
         "source_file": str(source_file),
         "source_version": source_version,
         "build_mode": build_mode,
-        "phase": "skeleton",
-        "total_chapters": 0,
-        "current_chapter": None,
+        "phase": phase,
+        "total_chapters": total_chapters,
+        "current_chapter": current_chapter,
         "published_through": 0,
         "pending_human_decision": None,
         "halt_reason": None,

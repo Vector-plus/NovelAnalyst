@@ -1,0 +1,30 @@
+{
+  "id": "thread-0329",
+  "introduced_at": 413,
+  "kind": "story_thread",
+  "label": "仙遗族与云雀子身份的显露",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 413,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity_disclosure",
+      "chapter_ranges": [
+        {
+          "end": 413,
+          "start": 413
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0329-001",
+      "resolution_refs": [],
+      "revealed_at": 413,
+      "role": "reveal",
+      "status": "active",
+      "summary": ""
+    }
+  ]
+}

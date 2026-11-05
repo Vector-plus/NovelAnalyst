@@ -1,0 +1,30 @@
+{
+  "id": "thread-0357",
+  "introduced_at": 450,
+  "kind": "story_thread",
+  "label": "朱雀子之位与修星之晶归属",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 450,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_shift",
+      "chapter_ranges": [
+        {
+          "end": 450,
+          "start": 450
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0357-001",
+      "resolution_refs": [],
+      "revealed_at": 450,
+      "role": "introduction",
+      "status": "open",
+      "summary": "朱雀子身死归去，仙遗族之事由面具男子（自称修真联盟使者）处理；白色结晶落入面具男子手中；王林此前被问及为何拒任下一任朱雀子。"
+    }
+  ]
+}

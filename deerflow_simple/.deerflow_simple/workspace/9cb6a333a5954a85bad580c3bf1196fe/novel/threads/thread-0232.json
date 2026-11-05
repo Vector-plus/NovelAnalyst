@@ -1,0 +1,30 @@
+{
+  "id": "thread-0232",
+  "introduced_at": 309,
+  "kind": "story_thread",
+  "label": "曾牛真实身份",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 309,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 309,
+          "start": 309
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0232-001",
+      "resolution_refs": [],
+      "revealed_at": 309,
+      "role": "primary",
+      "status": "open",
+      "summary": "红蝶指名曾牛，曾氏家族被卷入，叱虎避而不谈，朱雀国留存画简未散，全星修士查探未果。"
+    }
+  ]
+}

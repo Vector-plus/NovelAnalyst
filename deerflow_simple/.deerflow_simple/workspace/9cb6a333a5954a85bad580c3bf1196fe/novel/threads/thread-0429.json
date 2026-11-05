@@ -1,0 +1,30 @@
+{
+  "id": "thread-0429",
+  "introduced_at": 500,
+  "kind": "story_thread",
+  "label": "天运子对王林的特殊安排与“命运之宝”",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 500,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 500,
+          "start": 500
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0429-001",
+      "resolution_refs": [],
+      "revealed_at": 500,
+      "role": "伏笔",
+      "status": "active",
+      "summary": "天运子点名让王林进入东海并让其观潮汐，称潮汐之间或许便有王林此行的命运之宝，说话时大有深意。"
+    }
+  ]
+}

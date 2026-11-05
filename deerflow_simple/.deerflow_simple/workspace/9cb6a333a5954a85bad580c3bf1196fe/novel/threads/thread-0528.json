@@ -1,0 +1,30 @@
+{
+  "id": "thread-0528",
+  "introduced_at": 576,
+  "kind": "story_thread",
+  "label": "妖鼓洗髓/十五鼓与生之烙印的底牌",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 576,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ability",
+      "chapter_ranges": [
+        {
+          "end": 576,
+          "start": 576
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0528-001",
+      "resolution_refs": [],
+      "revealed_at": 576,
+      "role": "minor",
+      "status": "open",
+      "summary": "王林已将三千多道生之烙印弥补全身，并准备借第十五声鼓威抵抗金乌旭一击。"
+    }
+  ]
+}

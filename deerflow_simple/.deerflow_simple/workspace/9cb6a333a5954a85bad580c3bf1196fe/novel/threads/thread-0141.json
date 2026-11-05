@@ -1,0 +1,30 @@
+{
+  "id": "thread-0141",
+  "introduced_at": 186,
+  "kind": "story_thread",
+  "label": "王林对云妃的禁制约束",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 186,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 186,
+          "start": 186
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0141-001",
+      "resolution_refs": [],
+      "revealed_at": 186,
+      "role": "supporting",
+      "status": "open",
+      "summary": "王林以禁制约束云妃不得泄露其自碎星乱走出之事，并承诺离开修魔海时解禁；离开时点尚未确定。"
+    }
+  ]
+}

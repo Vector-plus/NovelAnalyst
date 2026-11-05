@@ -1,0 +1,30 @@
+{
+  "id": "thread-0922",
+  "introduced_at": 876,
+  "kind": "story_thread",
+  "label": "王林身份被守护修士认出为王家老祖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 876,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 876,
+          "start": 876
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0922-001",
+      "resolution_refs": [],
+      "revealed_at": 876,
+      "role": "introduction",
+      "status": "revealed",
+      "summary": "王林说出“灵种”二字后，玄道宗婴变老者失声喊出“王家老祖”，四周修士随即惊呼其身份。"
+    }
+  ]
+}

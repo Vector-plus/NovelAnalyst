@@ -1,0 +1,30 @@
+{
+  "id": "thread-0056",
+  "introduced_at": 71,
+  "kind": "story_thread",
+  "label": "寻觅极阴之地以修炼黄泉升窍决",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 71,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 71,
+          "start": 71
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0056-001",
+      "resolution_refs": [],
+      "revealed_at": 71,
+      "role": "primary",
+      "status": "advanced",
+      "summary": ""
+    }
+  ]
+}

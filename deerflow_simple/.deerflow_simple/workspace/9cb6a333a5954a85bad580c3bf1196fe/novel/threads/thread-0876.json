@@ -1,0 +1,30 @@
+{
+  "id": "thread-0876",
+  "introduced_at": 841,
+  "kind": "story_thread",
+  "label": "姚家对许木（王林）的追杀",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 841,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 841,
+          "start": 841
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0876-001",
+      "resolution_refs": [],
+      "revealed_at": 841,
+      "role": "reference",
+      "status": "open",
+      "summary": "李元自责无力在姚家追杀许木一事上相助，本章仅作回顾，未展开进展。"
+    }
+  ]
+}

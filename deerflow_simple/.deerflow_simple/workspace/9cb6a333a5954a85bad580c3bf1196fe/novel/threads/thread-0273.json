@@ -1,0 +1,30 @@
+{
+  "id": "thread-0273",
+  "introduced_at": 361,
+  "kind": "story_thread",
+  "label": "巨魔族老祖索要曾牛尸体之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 361,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 361,
+          "start": 361
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0273-001",
+      "resolution_refs": [],
+      "revealed_at": 361,
+      "role": "setup",
+      "status": "open",
+      "summary": "李元封对巨魔族老祖执意要曾牛尸体感到诡异，猜不出原因。"
+    }
+  ]
+}

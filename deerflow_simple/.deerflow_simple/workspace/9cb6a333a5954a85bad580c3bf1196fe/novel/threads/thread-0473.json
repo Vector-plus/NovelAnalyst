@@ -1,0 +1,30 @@
+{
+  "id": "thread-0473",
+  "introduced_at": 535,
+  "kind": "story_thread",
+  "label": "血祖其人与其在天运星的地位",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 535,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction",
+      "chapter_ranges": [
+        {
+          "end": 535,
+          "start": 535
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0473-001",
+      "resolution_refs": [],
+      "revealed_at": 535,
+      "role": "minor",
+      "status": "ongoing",
+      "summary": "曹一斗口述血祖传闻：七次挑战天运子皆败却修为愈高，被传为天运星继天运子、凌天候之后的第三人。"
+    }
+  ]
+}

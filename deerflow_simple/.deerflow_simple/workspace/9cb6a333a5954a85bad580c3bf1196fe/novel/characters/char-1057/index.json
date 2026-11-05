@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第598—641章首次成型：被王林确认为大罗剑宗在妖灵之地的暗中保护者，疑与司徒南仇家相关；率众现身潮汐深渊反被蚊兽群围困，与辰龙对峙；先与王林照面并以七魔针控兽，继而发动紫雾归一以宗门弟子为祭，明言等百年、要众人作祭品，欲抽王林元神拷问司徒南下落；战中被王林与辰龙联手压制，展示噬死二式·抽山魂与黑鼎乾坤逆转，最终第二元神（封印的太古雷龙）被击碎并反噬吐血，令牌被王林夺走；末段与周佚一同被神秘男女修士带走，凌天候欲就剑肖九灯灭之事问其罪。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 641,
+          "start": 584
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1057/index.json",
+          "record_id": "char-1057"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 641,
+      "summary": "潮汐深渊现身与第二元神被毁阶段（第584—641章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1057/stages/stage-018.md",
+        "record_id": "doc-char-1057-stage-018"
+      },
+      "title": "潮汐深渊现身与第二元神被毁阶段"
+    }
+  ],
+  "id": "char-1057",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 436,
+  "kind": "entity_index",
+  "label": "贪狼",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 641,
+  "schema_version": "2.0"
+}

@@ -1,0 +1,130 @@
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "域外战场线起点：珠子（墨光）脱离赵国战场，褫追出；赵国域外战场资格被取消", "chapter_order": 103}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "note": "新视角人物马良登场；珠子被空间裂痕吞入星海，褫放弃追索并夺走梭子", "chapter_order": 103}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "note": "赵国余波：王浩入玄道宗为弟子，王卓王浩立志杀藤化元，藤化元闭关", "chapter_order": 103}
+{"kind": "character_state", "ref_or_local_id": "claim-local-17", "note": "藤化元闭关目标为元婴后期，构成后续冲突的定时器", "chapter_order": 103}
+{"kind": "setting", "ref_or_local_id": "claim-local-19", "note": "域外战场玉符兼作50年期满传送信物，为stage-006的时间尺度锚点", "chapter_order": 103}
+{"kind": "setting", "ref_or_local_id": "claim-local-20", "note": "域外战场生还率约三成，确立危险基调", "chapter_order": 103}
+{"kind": "entity", "ref_or_local_id": "idlink-local-1", "note": "巨人/中年汉子=褫（眉心锤子形图案，巨魔族）", "chapter_order": 103}
+{"record_type": "event", "local_id": "ev-local-1", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "note": "本阶段起点：主角灵魂在空间裂缝苏醒，寄身巨魔族祖魔尸体", "chapter_order": 104}
+{"record_type": "event", "local_id": "ev-local-2", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "note": "关键信息回收：司徒南未死而沉睡，王林父母魂魄藏于其元婴；天逆珠子融入灵魂", "chapter_order": 104}
+{"record_type": "claim", "local_id": "claim-local-15", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "note": "司徒南状态与王林父母魂魄去向的重要依据", "chapter_order": 104}
+{"record_type": "claim", "local_id": "claim-local-12", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "note": "天逆珠子去向：融入王林灵魂", "chapter_order": 104}
+{"record_type": "event", "local_id": "ev-local-5", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-006"}, "note": "王林主动斩断一丝神识送出裂缝，为后续跨章衔接（第105章无主神识）的伏笔", "chapter_order": 104}
+{"ref": "ev-local-4", "kind": "event", "note": "王林夺舍马良回归，并宣告向藤化元归来的关键节点", "chapter_order": 105}
+{"ref": "claim-local-30", "kind": "claim", "note": "王林亲口宣告“藤化元，我王林回来了！神识，归！”", "chapter_order": 105}
+{"ref": "claim-local-29", "kind": "claim", "note": "王林神识钻入马良尸体、伤口复原的夺舍事实", "chapter_order": 105}
+{"ref": "ev-local-2", "kind": "event", "note": "域外战场加速崩溃、清理工作取消，世界局势变动", "chapter_order": 105}
+{"ref": "claim-local-13", "kind": "claim", "note": "裂缝时间流速设定：裂缝百年=战场一年，王林实际度过七百年", "chapter_order": 105}
+{"ref": "ev-local-1", "kind": "event", "note": "域外战场神识热潮起因，涉及许浩、葛阳两名新人物", "chapter_order": 105}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林神识归体并与吞魂达成临时协议，其战力现状的关键证据", "chapter_order": 106}
+{"kind": "event", "local_id": "ev-local-3", "note": "战神殿周紫虹首次出场，火焚国线索起点", "chapter_order": 106}
+{"kind": "claim", "local_id": "claim-local-12", "note": "王林当前状态：无灵力、纯神识驱动、欲闭关提升修为", "chapter_order": 106}
+{"kind": "claim", "local_id": "claim-local-10", "note": "吞魂使命与协议内容，为后续域外战场坍塌期限设定时限", "chapter_order": 106}
+{"kind": "claim", "local_id": "claim-local-16", "note": "赵国—青龙国—巨魔族隶属链，势力结构关键", "chapter_order": 106}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "reason": "王林在域外战场首次以神识威压驱散游魂，能力展示与身份掩护的关键节点", "chapter_order": 107}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "reason": "许浩、葛阳死亡确认（灭口线了结）＋异变游魂出现＋章末命令杀林涛", "chapter_order": 107}
+{"ref_or_local_id": "claim-16", "kind": "claim", "reason": "域外战场传送阵与玉符机制，为后续“离开域外战场”行动的规则依据", "chapter_order": 107}
+{"ref_or_local_id": "claim-19", "kind": "claim", "reason": "王林的处置动机：知情人必须死，涉及后续可能的追杀/灭口线", "chapter_order": 107}
+{"ref_or_local_id": "claim-30", "kind": "claim", "reason": "异变游魂与司徒南元婴的共性感知，属跨阶段伏笔", "chapter_order": 107}
+{"kind": "key_event", "local_id": "ev-local-2", "note": "周紫虹、杨姓师兄（杨雄）、林涛三人以魂魄精血成王林奴才，夺舍秘密被同门知晓并封口", "chapter_order": 108}
+{"kind": "key_claim", "local_id": "claim-local-21", "note": "游魂进入生灵空间被称为“魔头”——reported，出自吞魂邻居", "chapter_order": 108}
+{"kind": "key_claim", "local_id": "claim-local-22", "note": "界律法则与域外战场空间性质、“吞魂使命”——reported，出自吞魂邻居", "chapter_order": 108}
+{"kind": "character_turning_point", "local_id": "claim-local-7", "note": "林涛察觉夺舍真相后选择献魂保命，成为王林第一名奴才", "chapter_order": 108}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林首次系统性试探传送阵光幕与界律法则", "chapter_order": 109}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "变异游魂破幕吞噬修士后灰飞，证明光幕并非绝对安全", "chapter_order": 109}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "王林以神识直接对抗黑丝能量并压碎，认知界律法则", "chapter_order": 109}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "马良储物袋完整到手，确认许浩、葛阳死亡", "chapter_order": 109}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "王林掌握并实布龟甲玄灭阵，护体手段升级", "chapter_order": 109}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "境内第110章：域外战场最后传送阵开启，王林独自闯阵三秒危险期。", "chapter_order": 110}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林神识凝成极识的关键转折事件，后续能力线依据。", "chapter_order": 110}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "极境烙印落在神识而非灵力，人物能力性质转变的关键陈述。", "chapter_order": 110}
+{"ref_or_local_id": "claim-local-24", "kind": "claim", "note": "王林神识仅剩一丝接近本源的极识（当前状态基线）。", "chapter_order": 110}
+{"ref_or_local_id": "claim-local-3", "kind": "claim", "note": "王林与周紫虹三人分头行事的约定（另一端汇合），跨章衔接线索。", "chapter_order": 110}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林脱离寂灭空间、进入生灵空间（火焚国），吞魂本质仍存，极识已成", "chapter_order": 111}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "域外战场幸存三人归来汇报，交代战场崩溃与十不留一的规模", "chapter_order": 111}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "王林以马良身份公开现身战神殿众人前，拒绝回殿后独立离去——本阶段关键转折点", "chapter_order": 111}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "note": "极境/极识能力性质的关键陈述（成为第一个从寂灭空间进入生灵空间的吞魂）", "chapter_order": 111}
+{"kind": "claim", "ref_or_local_id": "claim-local-9", "note": "周紫虹、杨雄、林涛灵魂精血在王林手上，三人性命系于王林", "chapter_order": 111}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "note": "霍鸿飞忌惮未追、拟上报殿主——战神殿对王林态度走向的起点", "chapter_order": 111}
+{"kind": "faction", "candidate_name": "战神殿", "note": "火焚国第一派，六元婴，握域外战场资格令牌，设神道与二十年一次观赏大会", "chapter_order": 111}
+{"kind": "setting", "candidate_name": "神道", "note": "战神殿顶级秘术设定，后续若涉及功法来源可回查本章", "chapter_order": 111}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 112, "note": "王林在火焚国火山群封洞闭关疗伤的落点事件"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 112, "note": "修为恢复至筑基中期的关键节点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 112, "note": "重修进度：凝气十五层→筑基初期→筑基中期（一年/梦境近七年）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "chapter_order": 112, "note": "司徒南元婴现状（缩小萎靡）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "chapter_order": 112, "note": "徐思自述以双修道侣为借口骗马良入域外战场"}
+{"kind": "event_ref", "local_id": "ev-local-1", "chapter_order": 113, "note": "王林在焚金山脉拔走焚金藤并击杀尸阴宗采果弟子"}
+{"kind": "event_ref", "local_id": "ev-local-2", "chapter_order": 113, "note": "许立国元神出窍向王林求饶，人物关系线起点"}
+{"kind": "claim_ref", "local_id": "claim-local-13", "chapter_order": 113, "note": "王林神识红色闪电群杀手段的展示"}
+{"kind": "claim_ref", "local_id": "claim-local-20", "chapter_order": 113, "note": "尸阴宗肉身买卖体系与等级规模的核心设定陈述"}
+{"kind": "entity_ref", "ref": {"path": "characters/char-0197/index.json", "record_id": "char-0197"}, "chapter_order": 113, "note": "尸阴宗势力动向：三级修真国被视为低级养殖地，本章有弟子被灭"}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林首次自制「魔头」，能力体系新增手段", "chapter_order": 114}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林以魂魄精血遥控战神殿三名弟子，取得炼器玉简；地图待取", "chapter_order": 114}
+{"kind": "claim", "local_id": "claim-local-14", "note": "「魔头」成形的关键证据，含原文锚点", "chapter_order": 114}
+{"kind": "claim", "local_id": "claim-local-28", "note": "王林下一步行动方向（回赵国、炼器、极阴之地）", "chapter_order": 114}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "元婴期妇人索还周紫虹魂血，王林三千里外交还；妇人自语称替他拦下夺舍之事，为后续伏笔（reported）", "chapter_order": 115}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "note": "妇人自语“夺舍之事，我帮你拦下了”，仅为角色自述", "chapter_order": 115}
+{"ref_or_local_id": "claim-local-26", "kind": "claim", "note": "王林对外自称“马良，是战神殿弟子”，假身份在stage内延续", "chapter_order": 115}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "孙有财（自称邪魔宗）与王林同行，互相试探", "chapter_order": 115}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "洛河门李奇庆一行搜人误认王林，提及溪谷坊市大会", "chapter_order": 115}
+{"ref_type": "event", "local_id": "ev-local-2", "note": "王林以极境真言一句击杀假丹（筑基大圆满）修士，属能力展示关键节点", "chapter_order": 116}
+{"ref_type": "event", "local_id": "ev-local-4", "note": "孙有财遁逃、王林追踪，阶段内未闭合的追击线", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-17", "note": "王林极境“灭”字杀敌的首次本章直接展示", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-35", "note": "孙有财认定王林为化神期高手，反映外界对王林修为的误判", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-31", "note": "洛河门炼丹宗、李慕婉与李奇庆的势力/人物线索，可供后续阶段复用", "chapter_order": 116}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本阶段内王林追杀孙有财的收尾事件，交代孙有财下落与其储物袋归属", "salience": "high", "chapter_order": 117}
+{"kind": "event", "local_id": "ev-local-3", "reason": "首次揭示火焚国地底火兽群落、巨型火兽与火环火团的存在，并触发天逆珠子自主异动", "salience": "high", "chapter_order": 117}
+{"kind": "claim", "local_id": "claim-local-4", "reason": "关于火焚国火山无生物及四大宗派定期封印的既有认知，与本章发现构成冲突", "salience": "high", "chapter_order": 117}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "天逆珠子第一次自行离体，为法宝自主性新证据", "salience": "high", "chapter_order": 117}
+{"kind": "claim", "local_id": "claim-local-25", "reason": "章末悬念：天逆珠子挣脱束缚、火团钻入王林土球", "salience": "medium", "chapter_order": 117}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "天逆珠子吞噬火灵兽，珠上火纹达十团，为主角宝物属性进展的关键节点", "chapter_order": 118}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林逃出火山口；火兽群追至口边不敢出，火兽无灵魂神识的观察为后续限制条件", "chapter_order": 118}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "火焚国四大宗派元婴始祖出关封印火山，为阶段内「火焚国迁移」大背景的直接铺垫", "chapter_order": 118}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "王林明确目标：拿到地图即离开火焚国，构成后续行动驱动", "chapter_order": 118}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "note": "烙印神识追索机制，是王林与魔头关系的控制手段依据", "chapter_order": 118}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "官道凡人集体惨死与魔头现身前扑，为本章悬置冲突", "chapter_order": 118}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "阶段级重大局势变化：火焚国举国迁移、火兽大军成势", "chapter_order": 119}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "四大宗派元婴层面对火兽的处置立场（不可杀不可收，主封印）", "chapter_order": 119}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "note": "王林明确不再抵触入魔道的转折点", "chapter_order": 119}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "邪魔宗大自在修罗术设定，关联黑衣中年人身份", "chapter_order": 119}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "note": "天逆珠子五行进度状态（水火圆满、木半、缺金土）", "chapter_order": 119}
+{"kind": "claim", "ref_or_local_id": "claim-local-40", "note": "修士大军规模与火兽数量规模数据", "chapter_order": 119}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 120, "reason": "火兽群以火环神通锁定追杀王林，火焚国危机的规模首次以十六巨兽+无穷火兽呈现"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 120, "reason": "王林首次查明火兽弱点为眉心，且飞剑因瞬移过度接近报废"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 120, "reason": "王林以马良身份进入火焚国修士大军体系，身份查验成为开环风险"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 120, "reason": "火兽存在方式与克制手段的设定性叙述"}
+{"kind": "claim", "local_id": "claim-local-13", "chapter_order": 120, "reason": "王林飞剑损毁，影响后续战力判断"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 120, "reason": "魂血感应给出杨雄、林涛方位，是王林路线选择的实质依据"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 120, "reason": "王林公开自称战神殿弟子马良，是关键身份陈述"}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-2", "note": "王林被凤栾收为记名弟子，战神殿内部处置暂告段落", "chapter_order": 121}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-4", "note": "火兽全体蜕变、实力增十倍，本阶段敌对威胁升级的关键节点", "chapter_order": 121}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-5", "note": "杨森赠元婴级玉符并致歉，凤栾与杨森、周紫虹关系线的关键信息", "chapter_order": 121}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-11", "note": "王林在徐思体内留下一月后致命的神识痕迹，属未完成的伏笔", "chapter_order": 121}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-15", "note": "凤栾对王林的承诺边界：只保一次，以救周紫虹之事相抵", "chapter_order": 121}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-13", "note": "林涛拓印地图被抓、地图落入凤栾始祖手中", "chapter_order": 121}
+{"kind": "character_candidate", "ref_or_local_id": "凤栾", "note": "本章正式登场（元婴初期、五彩凤车、战神殿始祖），后续章节需建档", "chapter_order": 121}
+{"kind": "character_candidate", "ref_or_local_id": "周瑾", "note": "战神殿元婴期修士，与王林结嫌隙", "chapter_order": 121}
+{"local_id": "ev-local-2", "kind": "event", "note": "stage-006 末段关键格局事件：锁国大阵开启，火焚国与外界隔绝", "chapter_order": 122}
+{"local_id": "ev-local-4", "kind": "event", "note": "火焚盟成立及战争奖赏规则，构成后续冲突的组织基础", "chapter_order": 122}
+{"local_id": "claim-local-13", "kind": "claim", "note": "三个月时限，为后续章节提供时间压力", "chapter_order": 122}
+{"local_id": "claim-local-19", "kind": "claim", "note": "杨森出手击碎光幕并追敌，其为战神殿元婴修士", "chapter_order": 122}
+{"local_id": "claim-local-22", "kind": "claim", "note": "四大派统称火焚盟（角色转述，非叙述确认）", "chapter_order": 122}
+{"ref_or_candidate": {"local_id": "ev-local-1"}, "kind": "event", "note": "天离丹悬赏确立，成为王林本章行动的核心动机", "chapter_order": 123}
+{"ref_or_candidate": {"local_id": "ev-local-2"}, "kind": "event", "note": "凤栾与王林的条件性交易：杀敌数换地图", "chapter_order": 123}
+{"ref_or_candidate": {"local_id": "ev-local-3"}, "kind": "event", "note": "王林在战场上公开以极境神识加飞剑瞬杀七名筑基修士，张自力因此生出忌惮", "chapter_order": 123}
+{"ref_or_candidate": {"local_id": "claim-local-19"}, "kind": "claim", "note": "极境神识实战效果的具体描写（神识先灭再以飞剑掩饰）", "chapter_order": 123}
+{"ref_or_candidate": {"local_id": "claim-local-27"}, "kind": "claim", "note": "王林杀敌计数：十二人，距第一档奖励差三十八人", "chapter_order": 123}
+{"ref": "ev-local-3", "kind": "event", "note": "王林首次在战场上以阵法＋极境神识＋魔头杀死结丹初期修士，手段链条完整", "chapter_order": 124}
+{"ref": "ev-local-4", "kind": "event", "note": "王林修为突破至筑基后期大圆满的假丹境界，进入本阶段末的关键实力节点", "chapter_order": 124}
+{"ref": "ev-local-5", "kind": "event", "note": "第二份地图到手，地图收集任务进入第三阶段（需杀满一百五十人）", "chapter_order": 124}
+{"ref": "ev-local-6", "kind": "event", "note": "锁国大阵被破、火兽来袭，为下一阶段转折的直接引信", "chapter_order": 124}
+{"ref": "claim-local-32", "kind": "claim", "note": "叙述明示极境改变王林性格、由仙侠转为魔君取向", "chapter_order": 124}
+{"ref": "claim-local-33", "kind": "claim", "note": "叙述将王林性格变化与祸根归因于司徒南出现", "chapter_order": 124}
+{"ref": "claim-local-29", "kind": "claim", "note": "地图信息：火焚国在修魔海边缘，赵国不在本大陆，海对岸另有大陆", "chapter_order": 124}
+{"ref": "claim-local-30", "kind": "claim", "note": "宣武国修士已联合、近日将有大战（人物口径）", "chapter_order": 124}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "火兽群被强大神识引导后整体掉头追击王林，止步于修魔海边界；王林与李慕婉入修魔海，本阶段末的关键地转移", "chapter_order": 125}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "李慕婉被宣武国双修门结丹中期长老追杀，王林携其遁走，二人形成同行关系", "chapter_order": 125}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "周紫虹自称凤栾始祖为其母（reported，仅单方陈述）", "chapter_order": 125}
+{"ref_or_local_id": "claim-local-10", "kind": "claim", "note": "王林接受周紫虹的交易：杀徐思与周安换取地图，留下未完成承诺", "chapter_order": 125}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "note": "地图确认火焚国属周武大陆，与赵国之间隔修魔海——返乡路线定性", "chapter_order": 125}
+{"ref_or_local_id": "claim-local-37", "kind": "claim", "note": "王林在修魔海的核心目标：开辟洞府、尽快结丹", "chapter_order": 125}

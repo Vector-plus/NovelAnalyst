@@ -1,0 +1,30 @@
+{
+  "id": "thread-0935",
+  "introduced_at": 889,
+  "kind": "story_thread",
+  "label": "罗天六指修士小队避开朱雀星方向",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 889,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_movement",
+      "chapter_ranges": [
+        {
+          "end": 889,
+          "start": 889
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0935-001",
+      "resolution_refs": [],
+      "revealed_at": 889,
+      "role": "side",
+      "status": "ongoing",
+      "summary": "六指修士因前方雷力浓郁而怀疑许木在前，改道绕行，未与王林相遇。"
+    }
+  ]
+}

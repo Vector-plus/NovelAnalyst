@@ -1,0 +1,30 @@
+{
+  "id": "thread-0198",
+  "introduced_at": 251,
+  "kind": "story_thread",
+  "label": "王林的化神之路与木雕之约",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 251,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 251,
+          "start": 251
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0198-001",
+      "resolution_refs": [],
+      "revealed_at": 251,
+      "role": "introduction",
+      "status": "active",
+      "summary": "老头称王林修为又见长、化神之期指日可待，劝其抓紧时间化神，并提醒他不要忘记答应的木雕。"
+    }
+  ]
+}

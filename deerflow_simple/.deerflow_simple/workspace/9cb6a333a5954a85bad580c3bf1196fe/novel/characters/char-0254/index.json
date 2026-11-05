@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "域外战场生还与魂血为奴阶段（第106—125章）：作为火焚国战神殿弟子在域外战场灵力枯竭被游魂追杀，被夺舍马良的王林以神识惊退游魂救下；第108章在林涛之后献出魂魄精血成为奴才；第111章归殿向霍鸿飞汇报战场十不留一并冷淡回绝徐思；第114章赴孤峰拜见「主人」、交代神道术无法拓印；第125章以交付第三份地图为条件请王林杀徐思与周安，并自述凤栾始祖是其母，飞离时心念「马良，这是我帮你做的最后一件事情」。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0254/index.json",
+          "record_id": "char-0254"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 125,
+      "summary": "域外战场生还与魂血为奴阶段（第103—125章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0254/stages/stage-006.md",
+        "record_id": "doc-char-0254-stage-006"
+      },
+      "title": "域外战场生还与魂血为奴阶段"
+    }
+  ],
+  "id": "char-0254",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 106,
+  "kind": "entity_index",
+  "label": "周紫虹",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 125,
+  "schema_version": "2.0"
+}

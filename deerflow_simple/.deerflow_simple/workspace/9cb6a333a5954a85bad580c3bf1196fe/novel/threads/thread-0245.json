@@ -1,0 +1,30 @@
+{
+  "id": "thread-0245",
+  "introduced_at": 316,
+  "kind": "story_thread",
+  "label": "吕非、铁岩的化神之路",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 316,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 316,
+          "start": 316
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0245-001",
+      "resolution_refs": [],
+      "revealed_at": 316,
+      "role": "development",
+      "status": "ongoing",
+      "summary": "王林指二人“走错路了”，点明化神需自身感悟与感动，命二人在宝塔百里内磨压庞杂灵力，待能凭自身修为走进三里再回来；二人已分头在百里外打坐。"
+    }
+  ]
+}

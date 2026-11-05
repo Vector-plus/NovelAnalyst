@@ -1,0 +1,30 @@
+{
+  "id": "thread-0863",
+  "introduced_at": 835,
+  "kind": "story_thread",
+  "label": "血神子的现身与介入",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 835,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "new_threat",
+      "chapter_ranges": [
+        {
+          "end": 835,
+          "start": 835
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0863-001",
+      "resolution_refs": [],
+      "revealed_at": 835,
+      "role": "core",
+      "status": "open",
+      "summary": "血腥气息不畏天劫挤入战场，血雾中苍老声音与干枯手臂出手按印记入姚云眉心，王林惊呼「血神子」。"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第654—670章：作为千幻星幻家族长，先对老祖换血收徒心存猜疑；第666章王林强攻幻家大阵时表态「大阵若破即退避」；第667章请出福泽玉简后率嫡系与老祖幻无情公开切割、声明幻家不参与；第670章幻无情被散魔吞灭，幻封神以族长身份保住嫡系存续，幻家最高战力消亡。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 720,
+          "start": 642
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1541/index.json",
+          "record_id": "char-1541"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 720,
+      "summary": "幻家族长与老祖决裂（第642—720章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1541/stages/stage-019.md",
+        "record_id": "doc-char-1541-stage-019"
+      },
+      "title": "幻家族长与老祖决裂"
+    }
+  ],
+  "id": "char-1541",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 654,
+  "kind": "entity_index",
+  "label": "幻封神",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 720,
+  "schema_version": "2.0"
+}

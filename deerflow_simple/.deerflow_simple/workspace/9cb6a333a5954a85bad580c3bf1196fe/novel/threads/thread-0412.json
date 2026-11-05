@@ -1,0 +1,30 @@
+{
+  "id": "thread-0412",
+  "introduced_at": 492,
+  "kind": "story_thread",
+  "label": "地魔北界的诡异注视感",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 492,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 492,
+          "start": 492
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0412-001",
+      "resolution_refs": [],
+      "revealed_at": 492,
+      "role": "raise",
+      "status": "open",
+      "summary": "两名婴变初期长老在地魔北界持续感到被注视的压抑感与杀人冲动，神识查探无果，商定行程结束后尽快离开。"
+    }
+  ]
+}

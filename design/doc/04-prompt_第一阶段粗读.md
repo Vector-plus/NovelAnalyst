@@ -26,7 +26,7 @@ flowchart LR
     VR1 --> F2(fan-in)
     VR2 --> F2
     VRN --> F2
-    F2 --> SPM[StagePlanMergeAgent<br/>单次 LLM 合并]
+    F2 --> SPM[StagePlanMergeAgent<br/>滚动增量合并]
     SPM --> OUT[stage-plan.draft.json<br/>+ character_candidates]
 ```
 
@@ -34,7 +34,7 @@ flowchart LR
 
 | 维度 | ScanVolReActAgent（扫描） | StagePlanMergeAgent（合并） |
 |---|---|---|
-| 调度 | 每卷一次，Python 并发 | 全书一次，单次 LLM |
+| 调度 | 每卷一次，Python 并发 | 逐卷滚动，N 次 LLM（每次「已合并骨架 + 单卷」） |
 | 上下文规模 | 单卷 20–50 章原文片段 + 已有扫描记忆 | N 份 `VolReport`（结构化摘要）+ `novel_meta` |
 | 工具 | `list_dir`、`read_file` | `list_dir`、`read_file`、`write_file`（`read_file` 仅跨卷衔接回查） |
 | 输出 | `VolReport`（结构化） | `stage-plan.draft.json`（符合 §11.1 schema） |
@@ -193,15 +193,24 @@ flowchart LR
 
 ## 3. StagePlanMergeAgent · Prompt
 
+> **⚠️ 设计纠正（v0.1 → v0.2）**：原设计「全书一次、单次 LLM、输入 N 份 VolReport」
+> 对长篇小说（如 14 卷 2076 章）不成立——N 份 VolReport 全量塞进单次 merge 会超出
+> 模型上下文窗口（实测 199K 字符、约 15~24 万 token，超 DeepSeek 64K~128K 窗口 2~4
+> 倍），模型静默返回空。**已改为滚动增量合并**：每次只喂「已合并骨架 + 单卷
+> VolReport」，逐卷滚动 N 次，每次输入规模稳定可控。同时 `scanned_chapters` 不再进
+> merge 输入（`scanned_ranges` 由节点函数确定性计算），进一步压缩输入。本节的
+> §3.2/§3.3 Prompt 模板是**全量版**，滚动增量版的权威实现在
+> `deerflow_simple/index_builder/agents/stage_plan_merge.py`。
+
 ### 3.1 定位
 
-- **输入**：所有卷的 `List[VolReport]` + `novel_meta`
-- **输出**：`navigation/stage-plan.draft.json`（符合 templates §11.1 schema）
-- **工具**：`list_dir`、`read_file`、`write_file`（`read_file` 仅限跨卷衔接回查，调用预算 ≤3 次；`write_file` 用于落盘）
+- **输入**：滚动增量——每次「已合并骨架（cur_skeleton）+ 单卷 `VolReport`」+ `novel_meta`（非一次性全量）
+- **输出**：合并后的骨架 JSON（仅 `stages` / `character_candidates` / `merge_notes` 三字段，schema 元数据与 `scanned_ranges` 由节点函数确定性补全）
+- **工具**：`list_dir`、`read_file`（`read_file` 仅限跨卷衔接回查，调用预算 ≤3 次；不写文件）
 - **允许 ReAct 自主循环**：允许，但 Prompt 强约束工具调用场景
 - **max_iterations**：建议 8
 
-### 3.2 System Prompt
+### 3.2 System Prompt（全量版示例；滚动增量版权威实现见 `stage_plan_merge.py`）
 
 ````text
 你是「阶段计划合并员」。你拿到的是全书所有卷的扫读报告 List[VolReport]，需要合并成一份**全书阶段骨架 stage-plan.draft.json**，供人工审核后冻结进入精读阶段。
@@ -302,7 +311,7 @@ flowchart LR
 - ❌ 不要预测或虚构 VolReport 中未提及的人物或情节
 ````
 
-### 3.3 User Prompt 模板
+### 3.3 User Prompt 模板（全量版示例；滚动增量版见 `stage_plan_merge.py` 的 `build_stage_plan_merge_prompt`）
 
 ````text
 【任务】合并以下所有卷扫读报告，产出全书 stage-plan.draft.json。

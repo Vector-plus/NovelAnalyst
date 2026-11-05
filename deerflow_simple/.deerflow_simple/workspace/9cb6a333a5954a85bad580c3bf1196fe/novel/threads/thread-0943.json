@@ -1,0 +1,30 @@
+{
+  "id": "thread-0943",
+  "introduced_at": 891,
+  "kind": "story_thread",
+  "label": "王林离开朱雀星，以雷吉为坐骑远行",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 891,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mobility",
+      "chapter_ranges": [
+        {
+          "end": 891,
+          "start": 891
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0943-001",
+      "resolution_refs": [],
+      "revealed_at": 891,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林结束朱雀星琐事，因托森尚在而不宜久留，携塔山、大头童子、雷吉离星；周武泰、李奇庆、铁岩各有告别式反应。"
+    }
+  ]
+}

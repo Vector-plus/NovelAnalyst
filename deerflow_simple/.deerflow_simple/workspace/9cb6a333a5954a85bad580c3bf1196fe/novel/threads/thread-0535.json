@@ -1,0 +1,30 @@
+{
+  "id": "thread-0535",
+  "introduced_at": 583,
+  "kind": "story_thread",
+  "label": "连锁禁制后隐藏的升仙果成片种植地",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 583,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "clue",
+      "chapter_ranges": [
+        {
+          "end": 583,
+          "start": 583
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0535-001",
+      "resolution_refs": [],
+      "revealed_at": 583,
+      "role": "unknown",
+      "status": "open",
+      "summary": "王林发现数千连锁禁制所护之地被人为分割成种植地，所种全为升仙果，种植者与用途未明。"
+    }
+  ]
+}

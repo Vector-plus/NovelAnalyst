@@ -1,0 +1,30 @@
+{
+  "id": "thread-0788",
+  "introduced_at": 769,
+  "kind": "story_thread",
+  "label": "王林与李元离开雷之仙界",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 769,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_goal",
+      "chapter_ranges": [
+        {
+          "end": 769,
+          "start": 769
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0788-001",
+      "resolution_refs": [],
+      "revealed_at": 769,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "王林预感雷之仙界将起大乱，携李元全速赶往极西仙界大门，与众多修士同样意图离开，但白发之人已在门前宣称谁也不能离去。"
+    }
+  ]
+}

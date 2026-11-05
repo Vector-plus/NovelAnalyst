@@ -1,0 +1,30 @@
+{
+  "id": "thread-0027",
+  "introduced_at": 36,
+  "kind": "story_thread",
+  "label": "最后一个葫芦内的高浓度灵液尚未动用",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 36,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item_setup",
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0027-001",
+      "resolution_refs": [],
+      "revealed_at": 36,
+      "role": "secondary",
+      "status": "open",
+      "summary": "王林灵气雪水用尽后仍不动用早年埋下的葫芦，判断其灵气已达恐怖地步，留待日后更高等级时使用。"
+    }
+  ]
+}

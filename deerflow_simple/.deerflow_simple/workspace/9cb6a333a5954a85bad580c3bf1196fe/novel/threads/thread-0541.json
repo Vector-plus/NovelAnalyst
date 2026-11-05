@@ -1,0 +1,30 @@
+{
+  "id": "thread-0541",
+  "introduced_at": 592,
+  "kind": "story_thread",
+  "label": "子鼠尸体中的剑气",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 592,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item",
+      "chapter_ranges": [
+        {
+          "end": 592,
+          "start": 592
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0541-001",
+      "resolution_refs": [],
+      "revealed_at": 592,
+      "role": "secondary",
+      "status": "open",
+      "summary": "王林想起子鼠的剑气被丢在火妖郡方向，记得其尸身所在，心动于回去查探剑气是否仍在体内，但当前无暇前往。"
+    }
+  ]
+}

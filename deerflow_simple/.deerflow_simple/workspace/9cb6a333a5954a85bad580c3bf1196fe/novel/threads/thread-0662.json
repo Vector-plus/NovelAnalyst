@@ -1,0 +1,30 @@
+{
+  "id": "thread-0662",
+  "introduced_at": 664,
+  "kind": "story_thread",
+  "label": "千家阴阳虚实老祖直奔王林而来",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 664,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 664,
+          "start": 664
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0662-001",
+      "resolution_refs": [],
+      "revealed_at": 664,
+      "role": "target",
+      "status": "open",
+      "summary": "一位千家阴阳虚实境界的老祖离族直奔星空，目标为赶来的王林，冲突尚未接触。"
+    }
+  ]
+}

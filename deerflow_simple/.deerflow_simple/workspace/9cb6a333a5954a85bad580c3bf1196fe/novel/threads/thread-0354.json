@@ -1,0 +1,30 @@
+{
+  "id": "thread-0354",
+  "introduced_at": 441,
+  "kind": "story_thread",
+  "label": "乾风与紫芯的仇怨",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 441,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 441,
+          "start": 441
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0354-001",
+      "resolution_refs": [],
+      "revealed_at": 441,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": "二人在灵山山顶当面对峙，乾风辱骂并显露杀机后因顾及云雀子而压下，紫芯沉默而恨意明显。"
+    }
+  ]
+}

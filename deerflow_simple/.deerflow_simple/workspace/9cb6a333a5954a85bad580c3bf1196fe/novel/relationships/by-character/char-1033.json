@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 419,
+          "start": 419
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1033/index.json",
+          "record_id": "char-1033"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 419,
+      "summary": "与曹一斗×李青平的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0047.json",
+        "record_id": "rel-0047"
+      },
+      "title": "曹一斗×李青平"
+    }
+  ],
+  "id": "idx-rel-char-1033",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 419,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 419,
+        "start": 419
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-1033/index.json",
+        "record_id": "char-1033"
+      }
+    ]
+  },
+  "title": "char-1033 关系入口"
+}

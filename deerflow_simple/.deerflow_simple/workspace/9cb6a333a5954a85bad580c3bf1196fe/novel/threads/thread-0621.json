@@ -1,0 +1,30 @@
+{
+  "id": "thread-0621",
+  "introduced_at": 649,
+  "kind": "story_thread",
+  "label": "柳眉（将改名为幻眉）在千幻星的新生与血脉改造",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 649,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_arc",
+      "chapter_ranges": [
+        {
+          "end": 649,
+          "start": 649
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0621-001",
+      "resolution_refs": [],
+      "revealed_at": 649,
+      "role": "setup",
+      "status": "open",
+      "summary": "老者宣布收其为义女、施展换血大法让她拥有幻家血脉并改名幻眉，长虹已入千幻星，换血尚未施行。"
+    }
+  ]
+}

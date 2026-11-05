@@ -1,0 +1,30 @@
+{
+  "id": "thread-0325",
+  "introduced_at": 412,
+  "kind": "story_thread",
+  "label": "王林推迟离星计划，先去域外战场补充尊魂幡、去尸阴宗取血、送周茹回楚国",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 412,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plan",
+      "chapter_ranges": [
+        {
+          "end": 412,
+          "start": 412
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0325-001",
+      "resolution_refs": [],
+      "revealed_at": 412,
+      "role": "近期行动路线",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

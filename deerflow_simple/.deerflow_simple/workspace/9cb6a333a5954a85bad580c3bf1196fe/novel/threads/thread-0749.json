@@ -1,0 +1,30 @@
+{
+  "id": "thread-0749",
+  "introduced_at": 730,
+  "kind": "story_thread",
+  "label": "李元寻找“那个地方”（禁制之处）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 730,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 730,
+          "start": 730
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0749-001",
+      "resolution_refs": [],
+      "revealed_at": 730,
+      "role": "primary",
+      "status": "active",
+      "summary": "李元称在碎片大陆中心观察后确定禁制之处大致方位在东首，三个月后抵达一座高耸入云的山峰并称“就是这里了”。"
+    }
+  ]
+}

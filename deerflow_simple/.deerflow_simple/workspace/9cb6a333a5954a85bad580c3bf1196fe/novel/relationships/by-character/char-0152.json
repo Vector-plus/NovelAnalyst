@@ -1,0 +1,76 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 64,
+          "start": 64
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0152/index.json",
+          "record_id": "char-0152"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 64,
+      "summary": "与藤刑森×无锋谷的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0011.json",
+        "record_id": "rel-0011"
+      },
+      "title": "藤刑森×无锋谷"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 64,
+          "start": 64
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0152/index.json",
+          "record_id": "char-0152"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 64,
+      "summary": "与藤刑森×藤家城的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0012.json",
+        "record_id": "rel-0012"
+      },
+      "title": "藤刑森×藤家城"
+    }
+  ],
+  "id": "idx-rel-char-0152",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 3,
+  "safe_through": 64,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 64,
+        "start": 64
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0152/index.json",
+        "record_id": "char-0152"
+      }
+    ]
+  },
+  "title": "char-0152 关系入口"
+}

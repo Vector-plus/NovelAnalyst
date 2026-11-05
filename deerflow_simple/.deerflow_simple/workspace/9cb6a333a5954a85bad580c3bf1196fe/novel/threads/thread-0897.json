@@ -1,0 +1,30 @@
+{
+  "id": "thread-0897",
+  "introduced_at": 855,
+  "kind": "story_thread",
+  "label": "地之关雷池考核：王林以雷之规则立足",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 855,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot",
+      "chapter_ranges": [
+        {
+          "end": 855,
+          "start": 855
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0897-001",
+      "resolution_refs": [],
+      "revealed_at": 855,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "鼓声持续推进至第十九声，雷灵将雷池内绝大部分修士驱逐，仅余王林一人静坐；王林显露太古雷龙元神与雷灵对峙，结果未明。"
+    }
+  ]
+}

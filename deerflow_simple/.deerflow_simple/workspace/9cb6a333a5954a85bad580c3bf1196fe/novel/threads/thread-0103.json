@@ -1,0 +1,30 @@
+{
+  "id": "thread-0103",
+  "introduced_at": 147,
+  "kind": "story_thread",
+  "label": "尸阴宗整宗赴修魔海外并与王林一方冲突",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 147,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 147,
+          "start": 147
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0103-001",
+      "resolution_refs": [],
+      "revealed_at": 147,
+      "role": "escalation",
+      "status": "open",
+      "summary": "尸阴宗以特有传送阵送三十余名结丹后期以上修士（含五名元婴期，赵传良在内）抵达修魔海外，赵传良出手袭王林被青衫老者化解，冲突尚未结束。"
+    }
+  ]
+}

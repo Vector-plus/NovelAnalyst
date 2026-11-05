@@ -9,8 +9,10 @@
 3. 边界章（stage 尾章）触发 StageCommitReActAgent 聚合 stage buffer → 写 stage.md。
 4. 每章后更新进度文件 + manifest.published_through；连续 ≥3 章失败则 halt。
 
-恢复语义（决策 5：一期恢复仅靠 ledger 幂等）：
-- 崩溃/重跑时，从 cursor=1 重新遍历，committed 章 O(1) 跳过，未 committed 章重试。
+恢复语义（决策 5 + 断点恢复，见 restore.py / graph.py build_initial_state）：
+- resume/repair 模式：``cursor`` 从 ``state.current_chapter``（restore 推断出的第一个
+  未 committed 章）续跑，不再从 1 重扫；已 committed 章仍 O(1) 跳过（双保险）。
+- full 模式：``cursor`` 从 1 从头遍历。
 - 一期不精确复用 applying 中途失败的 allocated_ids（留空号，由 audit 兜底），
   仅靠「committed 跳过」这道闸保证不重复定义已提交记录（见 AGENT.md D5）。
 
@@ -179,7 +181,12 @@ def make_deepread_node(config: SimpleConfig):
         halt_reason = None
         published_through = 0
 
-        cursor = 1
+        # 恢复起点：resume 时从 state.current_chapter（restore 推断出的「第一个未
+        # committed 章」）续跑；full 时为 1。即使恢复起点略靠前，已 committed 章仍会
+        # 被下方 is_committed 跳过（双保险）。
+        cursor = state.get("current_chapter") or 1
+        if cursor < 1:
+            cursor = 1
         while cursor <= total:
             info = chapter_index.get(cursor)
             if info is None:

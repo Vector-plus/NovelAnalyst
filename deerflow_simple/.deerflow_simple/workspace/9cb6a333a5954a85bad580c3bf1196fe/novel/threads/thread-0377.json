@@ -1,0 +1,30 @@
+{
+  "id": "thread-0377",
+  "introduced_at": 465,
+  "kind": "story_thread",
+  "label": "王林与紫系同门/守阁女子的冲突",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 465,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 465,
+          "start": 465
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0377-001",
+      "resolution_refs": [],
+      "revealed_at": 465,
+      "role": "advance",
+      "status": "escalating",
+      "summary": "王林占据紫云阁并改名紫林阁，与紫衣女子激战，章末女子分身自爆、战斗未决；老者所称的同门暗中排斥之说在此得到直接冲突体现。"
+    }
+  ]
+}

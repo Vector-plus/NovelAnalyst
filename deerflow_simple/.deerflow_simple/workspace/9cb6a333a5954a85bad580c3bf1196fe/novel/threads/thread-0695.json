@@ -1,0 +1,30 @@
+{
+  "id": "thread-0695",
+  "introduced_at": 686,
+  "kind": "story_thread",
+  "label": "王林承诺让王平的“承诺”得以实现（王平魂魄已安置于天逆内李慕婉元婴旁）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 686,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "promise",
+      "chapter_ranges": [
+        {
+          "end": 686,
+          "start": 686
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0695-001",
+      "resolution_refs": [],
+      "revealed_at": 686,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "王平自称未能完成陪伴王林生生世世的承诺；王林两次表示“你的承诺，会实现了”，并将其魂魄光团纳入天逆、置于李慕婉元婴旁边，称其母为婉儿。承诺的具体实现方式与内容在本章未展开。"
+    }
+  ]
+}

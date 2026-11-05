@@ -1,0 +1,30 @@
+{
+  "id": "thread-0683",
+  "introduced_at": 679,
+  "kind": "story_thread",
+  "label": "天行派逆国建「天行帝国」，王平成为凡人之尊",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 679,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_expansion",
+      "chapter_ranges": [
+        {
+          "end": 679,
+          "start": 679
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0683-001",
+      "resolution_refs": [],
+      "revealed_at": 679,
+      "role": "escalating",
+      "status": "ongoing",
+      "summary": "天行派在帝山国打压下半月夺兵权、不足一月完成逆国，帝山国被天行帝国取代；王平为君主，大秦、尘云先缔约后撕约来攻，王平御驾亲征使插手修士退出凡人界。"
+    }
+  ]
+}

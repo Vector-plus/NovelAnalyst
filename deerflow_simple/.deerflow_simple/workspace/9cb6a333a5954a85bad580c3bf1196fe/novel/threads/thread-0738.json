@@ -1,0 +1,30 @@
+{
+  "id": "thread-0738",
+  "introduced_at": 719,
+  "kind": "story_thread",
+  "label": "申公虎依附王林后的处境与家族/雷仙殿压力",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 719,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 719,
+          "start": 719
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0738-001",
+      "resolution_refs": [],
+      "revealed_at": 719,
+      "role": "setup",
+      "status": "developing",
+      "summary": "申公虎二十年来因依附王林承受家族驳斥与雷仙殿疏远，仍在门外等候入场；他自认决定正确，并因感受到尊主气息而更加确信。"
+    }
+  ]
+}

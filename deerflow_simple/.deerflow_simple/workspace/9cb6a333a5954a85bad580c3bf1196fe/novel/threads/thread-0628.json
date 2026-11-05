@@ -1,0 +1,30 @@
+{
+  "id": "thread-0628",
+  "introduced_at": 652,
+  "kind": "story_thread",
+  "label": "孙泰的二十年寿元与骨灰归乡之托",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 652,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "promise",
+      "chapter_ranges": [
+        {
+          "end": 652,
+          "start": 652
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0628-001",
+      "resolution_refs": [],
+      "revealed_at": 652,
+      "role": "setup",
+      "status": "open",
+      "summary": "孙泰自感只剩二十年寿元，托王林日后将其骨灰送回联盟星域暗月星天山下的村庄；王林点头应允。"
+    }
+  ]
+}

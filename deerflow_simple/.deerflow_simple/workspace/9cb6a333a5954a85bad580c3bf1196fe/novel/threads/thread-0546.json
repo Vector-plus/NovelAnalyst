@@ -1,0 +1,30 @@
+{
+  "id": "thread-0546",
+  "introduced_at": 594,
+  "kind": "story_thread",
+  "label": "紫芯叛离天水宫、窃走少主圣物后遭追索",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 594,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 594,
+          "start": 594
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0546-001",
+      "resolution_refs": [],
+      "revealed_at": 594,
+      "role": "new",
+      "status": "active",
+      "summary": "紫芯身中少主蛊毒，被天水宫三名彩衣女子追至血星，得红发男子挥袖驱走追兵；其叛逃缘由与所窃圣物尚未说明。"
+    }
+  ]
+}

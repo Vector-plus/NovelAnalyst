@@ -1,9 +1,10 @@
 """B 类 · 实体解析工具（ChapterReActAgent / StageCommitReActAgent 用）。
 
-对应 03 文档 §5.3：``resolve_name`` / ``fetch_entity_current`` / ``lookup_stage``。
+对应 03 文档 §5.3：``resolve_names`` / ``fetch_entity_current`` / ``lookup_stage``。
 
-- resolve_name 锚定 name_catalog（navigation/names/ 分片），精确匹配（match_mode=exact），
-  返回候选列表不假设唯一实体（templates §4.4 / §4.5）。
+- resolve_names 批量锚定 name_catalog（navigation/names/ 分片），精确匹配
+  （match_mode=exact），返回候选列表不假设唯一实体（templates §4.4 / §4.5）。
+  批量接口一次传入本章全部新名字，避免逐个往返。
 - 工具均为纯读磁盘、无状态：deepread 过程中索引持续增长，每次调用读最新落盘文件，
   天然与 IndexWriter（P2c）同步，不依赖内存缓存。
 - 工具 description 为静态字符串（R2：禁止动态内容），变量只进 User prompt。
@@ -13,7 +14,6 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Optional
 
 from langchain_core.tools import tool
 
@@ -51,23 +51,25 @@ def build_entity_tools(novel_root: str) -> list:
     root = Path(novel_root)
 
     @tool
-    def resolve_name(name: str, context_hint: Optional[str] = None) -> str:
-        """将人物/势力名字解析为已有实体候选 Ref 列表（精确匹配，不做模糊）。
+    def resolve_names(names: list[str]) -> str:
+        """批量将多个人物/势力名字解析为已有实体候选 Ref 列表（精确匹配，不做模糊）。
 
         参数:
-            name: 名字（如 '张小凡'）。
-            context_hint: 可选上下文线索（如出场章节/身份），帮助消歧。
+            names: 名字列表（如 ['张小凡', '田灵儿', '青云门']）。
 
         返回:
-            JSON 字符串：{"status": "unique"/"multiple"/"no_match", "refs": [...]}
+            JSON 字符串：{"results": [{"name": "张小凡", "status": "unique"/"multiple"/"no_match", "refs": [...]}, ...]}
         """
-        matches = _resolve_name_candidates(novel_root, name)
-        if not matches:
-            return json.dumps({"status": "no_match", "refs": []}, ensure_ascii=False)
-        refs = [m.get("entity_ref") for m in matches if m.get("entity_ref")]
-        if len(refs) == 1:
-            return json.dumps({"status": "unique", "refs": refs}, ensure_ascii=False)
-        return json.dumps({"status": "multiple", "refs": refs}, ensure_ascii=False)
+        results = []
+        for name in names:
+            matches = _resolve_name_candidates(novel_root, name)
+            if not matches:
+                results.append({"name": name, "status": "no_match", "refs": []})
+                continue
+            refs = [m.get("entity_ref") for m in matches if m.get("entity_ref")]
+            status = "unique" if len(refs) == 1 else "multiple"
+            results.append({"name": name, "status": status, "refs": refs})
+        return json.dumps({"results": results}, ensure_ascii=False)
 
     @tool
     def fetch_entity_current(entity_ref: str) -> str:
@@ -120,4 +122,4 @@ def build_entity_tools(novel_root: str) -> list:
             ensure_ascii=False,
         )
 
-    return [resolve_name, fetch_entity_current, lookup_stage]
+    return [resolve_names, fetch_entity_current, lookup_stage]

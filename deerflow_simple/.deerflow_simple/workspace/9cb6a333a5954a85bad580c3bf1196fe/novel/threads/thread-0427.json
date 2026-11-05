@@ -1,0 +1,30 @@
+{
+  "id": "thread-0427",
+  "introduced_at": 500,
+  "kind": "story_thread",
+  "label": "剑尊凌天候为十二名弟子安排的隐秘任务",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 500,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "task",
+      "chapter_ranges": [
+        {
+          "end": 500,
+          "start": 500
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0427-001",
+      "resolution_refs": [],
+      "revealed_at": 500,
+      "role": "待解任务",
+      "status": "active",
+      "summary": "凌天候要求贪狼入东海妖灵之门保护十二弟子直至完成他安排的隐秘任务，任务内容本章未明。"
+    }
+  ]
+}

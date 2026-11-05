@@ -1,0 +1,30 @@
+{
+  "id": "thread-0653",
+  "introduced_at": 660,
+  "kind": "story_thread",
+  "label": "冉家、赵家、孙家被列入灭族名单",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 660,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "objective",
+      "chapter_ranges": [
+        {
+          "end": 660,
+          "start": 660
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0653-001",
+      "resolution_refs": [],
+      "revealed_at": 660,
+      "role": "introduced",
+      "status": "open",
+      "summary": "柳眉自语三族要灭族，系其师尊的要求；本章只交代意图，未展示执行结果。"
+    }
+  ]
+}

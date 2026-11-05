@@ -1,0 +1,50 @@
+{
+  "id": "rel-0025",
+  "introduced_at": 115,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 115,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 115,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 115,
+          "start": 115
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "kinship"
+        }
+      ],
+      "id": "rel-0025-stage-001",
+      "revealed_at": 115,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-006"
+      },
+      "summary": "",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0282/index.json",
+      "record_id": "char-0282"
+    },
+    {
+      "path": "characters/char-0283/index.json",
+      "record_id": "char-0283"
+    }
+  ]
+}

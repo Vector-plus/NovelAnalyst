@@ -1,0 +1,30 @@
+{
+  "id": "thread-0509",
+  "introduced_at": 566,
+  "kind": "story_thread",
+  "label": "王林以莫厉海帮助者身份参加妖将之战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 566,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 566,
+          "start": 566
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0509-001",
+      "resolution_refs": [],
+      "revealed_at": 566,
+      "role": "focus",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

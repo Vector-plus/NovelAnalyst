@@ -1,0 +1,30 @@
+{
+  "id": "thread-0488",
+  "introduced_at": 549,
+  "kind": "story_thread",
+  "label": "王林三月后赴天妖郡京都与尊魂幡安置",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 549,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "travel",
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 549
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0488-001",
+      "resolution_refs": [],
+      "revealed_at": 549,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林计划三个月后前往天妖郡京都，因距离太远无法把尊魂幡继续留在炼魂部落山谷养魂。"
+    }
+  ]
+}

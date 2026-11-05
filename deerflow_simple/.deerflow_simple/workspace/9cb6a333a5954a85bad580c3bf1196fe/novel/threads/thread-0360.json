@@ -1,0 +1,30 @@
+{
+  "id": "thread-0360",
+  "introduced_at": 451,
+  "kind": "story_thread",
+  "label": "王林与柳眉的杀局",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 451,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "antagonism",
+      "chapter_ranges": [
+        {
+          "end": 451,
+          "start": 451
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0360-001",
+      "resolution_refs": [],
+      "revealed_at": 451,
+      "role": "current_chapter_advance",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第66章以藤家少主、筑基后期身份御剑追杀王林，理由为张虎勾结外人杀师，实为觊觎其瞬移法宝；第67章丛林追击中内甲可挡绿色小剑。第68章被王林借尸魅绿丹自爆击碎护身巨钟，第69章被冰封擒获并充作夺基大法炉鼎，银色小剑被尸魅吞噬。第70章魂魄被炼化身死，其死引发藤化元对王林的复仇与诅咒。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0158/index.json",
+          "record_id": "char-0158"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 82,
+      "summary": "藤家少主追杀王林至被夺基（第57—82章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0158/stages/stage-004.md",
+        "record_id": "doc-char-0158-stage-004"
+      },
+      "title": "藤家少主追杀王林至被夺基"
+    }
+  ],
+  "id": "char-0158",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 66,
+  "kind": "entity_index",
+  "label": "藤厉",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 82,
+  "schema_version": "2.0"
+}

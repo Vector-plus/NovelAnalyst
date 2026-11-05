@@ -1,0 +1,30 @@
+{
+  "id": "thread-0219",
+  "introduced_at": 292,
+  "kind": "story_thread",
+  "label": "王林（曾牛）与红蝶在仙界碎片中的生死交战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 292,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 292,
+          "start": 292
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0219-001",
+      "resolution_refs": [],
+      "revealed_at": 292,
+      "role": "primary",
+      "status": "open",
+      "summary": "红蝶伏击传送而来的王林并使用本命法宝玫瑰花，王林以禁幡引劫应对，交战未分胜负，双方均有强援（叱虎）介入意向。"
+    }
+  ]
+}

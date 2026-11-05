@@ -1,0 +1,30 @@
+{
+  "id": "thread-0174",
+  "introduced_at": 209,
+  "kind": "story_thread",
+  "label": "王林结婴不完全与极境神识的消耗代价",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 209,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_limit",
+      "chapter_ranges": [
+        {
+          "end": 209,
+          "start": 209
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0174-001",
+      "resolution_refs": [],
+      "revealed_at": 209,
+      "role": "introduction",
+      "status": "open",
+      "summary": "分身化为元婴代居于本尊丹田，极境神识变作需消耗神识与元婴之气的“法宝”，成为其行动与战斗的长期约束。"
+    }
+  ]
+}

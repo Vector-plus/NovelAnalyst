@@ -1,0 +1,30 @@
+{
+  "id": "thread-0110",
+  "introduced_at": 161,
+  "kind": "story_thread",
+  "label": "古神之地关卡推进：过不归路、入禁制山",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 161,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 161,
+          "start": 161
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0110-001",
+      "resolution_refs": [],
+      "revealed_at": 161,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "王林独力走过不归路幻境桥，出漩涡后抵达疑似第二关的禁制山；山脚禁制已被他人破坏且会自行恢复，山中禁制密布、禁飞行，他改为徒步上山。"
+    }
+  ]
+}

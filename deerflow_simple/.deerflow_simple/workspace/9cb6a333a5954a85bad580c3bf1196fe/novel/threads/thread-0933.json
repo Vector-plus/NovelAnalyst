@@ -1,0 +1,30 @@
+{
+  "id": "thread-0933",
+  "introduced_at": 889,
+  "kind": "story_thread",
+  "label": "仙遗族第十八层通道被打开，酷似黄龙的老道现身阻止",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 889,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 889,
+          "start": 889
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0933-001",
+      "resolution_refs": [],
+      "revealed_at": 889,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "王林以雷霆风暴击溃第十七层，打开通往第十八层的通道；章末一名酷似黄龙的老道动身前往，称十八层不能进入。"
+    }
+  ]
+}

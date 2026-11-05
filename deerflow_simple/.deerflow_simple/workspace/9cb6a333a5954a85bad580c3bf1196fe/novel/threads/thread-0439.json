@@ -1,0 +1,30 @@
+{
+  "id": "thread-0439",
+  "introduced_at": 513,
+  "kind": "story_thread",
+  "label": "妖晶之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 513,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "subplot",
+      "chapter_ranges": [
+        {
+          "end": 513,
+          "start": 513
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0439-001",
+      "resolution_refs": [],
+      "revealed_at": 513,
+      "role": "mystery",
+      "status": "open",
+      "summary": "王林问「妖晶是何物」未获答，搜魂后从罗云元神丹田取出结晶，其性质与用途本章未说明。"
+    }
+  ]
+}

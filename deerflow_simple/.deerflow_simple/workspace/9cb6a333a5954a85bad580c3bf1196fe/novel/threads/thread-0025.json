@@ -1,0 +1,30 @@
+{
+  "id": "thread-0025",
+  "introduced_at": 36,
+  "kind": "story_thread",
+  "label": "王林凝气三层无极限、无法进入第四层之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 36,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0025-001",
+      "resolution_refs": [],
+      "revealed_at": 36,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林在梦境时间七年内已达凝气三层顶峰却始终无法开启第四层口诀，且第三层灵气似无极限，他本人认为大有蹊跷。"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 549,
+          "start": 498
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 549,
+      "summary": "王林与十三：从属、恩义与救赎（第498—549章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0009/stages/stage-016.md",
+        "record_id": "doc-emo-0009-stage-016"
+      },
+      "title": "王林与十三：从属、恩义与救赎"
+    }
+  ],
+  "id": "emo-0009",
+  "introduced_at": 498,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 549,
+  "schema_version": "2.0"
+}

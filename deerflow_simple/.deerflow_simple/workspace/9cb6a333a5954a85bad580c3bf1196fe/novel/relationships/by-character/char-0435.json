@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 183,
+          "start": 183
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0435/index.json",
+          "record_id": "char-0435"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 183,
+      "summary": "与钱昆×云妃的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0029.json",
+        "record_id": "rel-0029"
+      },
+      "title": "钱昆×云妃"
+    }
+  ],
+  "id": "idx-rel-char-0435",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 183,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 183,
+        "start": 183
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0435/index.json",
+        "record_id": "char-0435"
+      }
+    ]
+  },
+  "title": "char-0435 关系入口"
+}

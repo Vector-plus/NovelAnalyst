@@ -1,0 +1,30 @@
+{
+  "id": "thread-0785",
+  "introduced_at": 768,
+  "kind": "story_thread",
+  "label": "雷之仙界九大封印破除、残躯向仙界中心凝聚",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 768,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 768,
+          "start": 768
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0785-001",
+      "resolution_refs": [],
+      "revealed_at": 768,
+      "role": "introduced",
+      "status": "open",
+      "summary": "四个仙力波动碎片上的古老阵法被修士破解后，雷之仙界九处碎片现出红芒阵法印记，封印物（断臂、残腿、左眼头颅、三份躯干）破封而出，向雷之仙界中心凝聚，沿途吞吃修士。"
+    }
+  ]
+}

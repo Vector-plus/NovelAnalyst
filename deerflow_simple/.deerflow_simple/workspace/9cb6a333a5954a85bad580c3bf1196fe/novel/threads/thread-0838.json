@@ -1,0 +1,30 @@
+{
+  "id": "thread-0838",
+  "introduced_at": 812,
+  "kind": "story_thread",
+  "label": "姚家联合修真家族追杀许木",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 812,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_conflict",
+      "chapter_ranges": [
+        {
+          "end": 812,
+          "start": 812
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0838-001",
+      "resolution_refs": [],
+      "revealed_at": 812,
+      "role": "mainline",
+      "status": "escalating",
+      "summary": "九绝损神阵一役后追杀者死伤惨重但主力未损，许木重伤遁走，后至修士将之定性为「灭魔之战」并继续追击；部分家族已退出。"
+    }
+  ]
+}

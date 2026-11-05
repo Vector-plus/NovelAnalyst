@@ -1,0 +1,30 @@
+{
+  "id": "thread-0676",
+  "introduced_at": 673,
+  "kind": "story_thread",
+  "label": "王林对孙泰骨灰的承诺",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 673,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "promise",
+      "chapter_ranges": [
+        {
+          "end": 673,
+          "start": 673
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0676-001",
+      "resolution_refs": [],
+      "revealed_at": 673,
+      "role": "setup",
+      "status": "open",
+      "summary": "孙泰尸体化为骨灰存放于王林储物袋内，为王的承诺；本章未说明骨灰最终要送往何处。"
+    }
+  ]
+}

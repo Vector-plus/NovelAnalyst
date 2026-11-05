@@ -1,0 +1,51 @@
+{
+  "coverage_status": "partial",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 57,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0134/index.json",
+          "record_id": "char-0134"
+        }
+      ],
+      "kind": "relationship",
+      "safe_through": 57,
+      "summary": "与历海×徐飞的关系",
+      "tags": [
+        "relationship"
+      ],
+      "target": {
+        "path": "relationships/pairs/rel-0010.json",
+        "record_id": "rel-0010"
+      },
+      "title": "历海×徐飞"
+    }
+  ],
+  "id": "idx-rel-char-0134",
+  "kind": "index",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 2,
+  "safe_through": 57,
+  "schema_version": "2.0",
+  "scope": {
+    "chapter_ranges": [
+      {
+        "end": 57,
+        "start": 57
+      }
+    ],
+    "subject_refs": [
+      {
+        "path": "characters/char-0134/index.json",
+        "record_id": "char-0134"
+      }
+    ]
+  },
+  "title": "char-0134 关系入口"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0336",
+  "introduced_at": 421,
+  "kind": "story_thread",
+  "label": "被封印巨人雷吉与祖藤",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 421,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_clue",
+      "chapter_ranges": [
+        {
+          "end": 421,
+          "start": 421
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0336-001",
+      "resolution_refs": [],
+      "revealed_at": 421,
+      "role": "advancing",
+      "status": "open",
+      "summary": "王林抽取巨人血液后离去，雷吉未能引出祖藤、元神出窍；巨人仍被封印，其身份（万夫候）与重宝开天之铁的下落成为待解线索。"
+    }
+  ]
+}

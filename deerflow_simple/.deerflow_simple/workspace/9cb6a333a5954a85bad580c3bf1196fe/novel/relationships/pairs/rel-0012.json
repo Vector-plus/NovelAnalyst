@@ -1,0 +1,50 @@
+{
+  "id": "rel-0012",
+  "introduced_at": 64,
+  "kind": "relationship",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 64,
+  "schema_version": "2.0",
+  "stages": [
+    {
+      "as_of": 64,
+      "attitudes": [],
+      "chapter_ranges": [
+        {
+          "end": 64,
+          "start": 64
+        }
+      ],
+      "claims": [],
+      "facets": [
+        {
+          "basis_refs": [],
+          "description": "藤刑森为藤家城始祖，因他存在使藤家城无人愿招惹；他对藤家城下禁斗令并曾出手灭掉两名结丹期高手。",
+          "direction": "symmetric",
+          "from_ref": null,
+          "to_ref": null,
+          "type": "other"
+        }
+      ],
+      "id": "rel-0012-stage-001",
+      "revealed_at": 64,
+      "stage_ref": {
+        "path": "navigation/stage-plan.json",
+        "record_id": "stage-004"
+      },
+      "summary": "藤刑森为藤家城始祖，因他存在使藤家城无人愿招惹；他对藤家城下禁斗令并曾出手灭掉两名结丹期高手。",
+      "turning_event_refs": []
+    }
+  ],
+  "subjects": [
+    {
+      "path": "characters/char-0152/index.json",
+      "record_id": "char-0152"
+    },
+    {
+      "path": "characters/char-0156/index.json",
+      "record_id": "char-0156"
+    }
+  ]
+}

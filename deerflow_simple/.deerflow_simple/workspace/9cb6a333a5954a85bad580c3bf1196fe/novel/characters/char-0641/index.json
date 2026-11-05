@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "天运星阶段（第456—497章）：早已等待王林到来，以入门三关（道心／修为／意境）考察并评「此子，甚佳」，指定其住紫云阁以引紫系内争；一句「够了」抹灭紫衣女修元神，收王林为紫系真传第七弟子并于万年寿宴公开；主持万年寿宴与讲道，阐述修道三步体系并点出「他」已踏第三步（被修真联盟孙长老制止）；以大罗剑宗凌天候为对手，用中品引仙术收走其上万弟子，封黄系鲲鹏子与紫系陈涛为天运七子，亲口划定紫系封号竞争规则；在白峰碎仙之地完成王林拜师礼，揭示灰衣天运子为自身第二元神并赠紫戒、定其出使星务。其根本动机为寻找符合「运道」之人，三万年不成、弟子损落大半；对王林的禁法神通全传与东海妖灵之门人选之约尚未兑现。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 497,
+          "start": 456
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0641/index.json",
+          "record_id": "char-0641"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 497,
+      "summary": "万年寿辰、讲道与收徒王林（第456—497章）（第456—497章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0641/stages/stage-015.md",
+        "record_id": "doc-char-0641-stage-015"
+      },
+      "title": "万年寿辰、讲道与收徒王林（第456—497章）"
+    }
+  ],
+  "id": "char-0641",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 247,
+  "kind": "entity_index",
+  "label": "天运子",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 497,
+  "schema_version": "2.0"
+}

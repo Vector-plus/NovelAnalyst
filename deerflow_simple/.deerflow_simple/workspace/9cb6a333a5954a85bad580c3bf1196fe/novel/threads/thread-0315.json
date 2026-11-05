@@ -1,0 +1,30 @@
+{
+  "id": "thread-0315",
+  "introduced_at": 404,
+  "kind": "story_thread",
+  "label": "王林冲击婴变",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 404,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "progression",
+      "chapter_ranges": [
+        {
+          "end": 404,
+          "start": 404
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0315-001",
+      "resolution_refs": [],
+      "revealed_at": 404,
+      "role": "primary",
+      "status": "active",
+      "summary": "仙玉吸收、金球碎裂、肉身凝化第一步完成，转入第二步元神凝练，尚未与肉身归一。"
+    }
+  ]
+}

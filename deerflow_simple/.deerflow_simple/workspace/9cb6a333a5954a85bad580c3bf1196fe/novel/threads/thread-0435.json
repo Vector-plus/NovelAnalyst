@@ -1,0 +1,30 @@
+{
+  "id": "thread-0435",
+  "introduced_at": 503,
+  "kind": "story_thread",
+  "label": "王林寻救周佚与巨富剑魂",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 503,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 503,
+          "start": 503
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0435-001",
+      "resolution_refs": [],
+      "revealed_at": 503,
+      "role": "setup",
+      "status": "active",
+      "summary": "王林拟借周佚意境寻找剑尊凌天候封印之处救人，并追索与巨富一模一样的大剑及其中剑魂之技。"
+    }
+  ]
+}

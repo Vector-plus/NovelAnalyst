@@ -1,0 +1,30 @@
+{
+  "id": "thread-0807",
+  "introduced_at": 788,
+  "kind": "story_thread",
+  "label": "雾兽自大陆裂缝涌出，仙选族限时驱除",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 788,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 788,
+          "start": 788
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0807-001",
+      "resolution_refs": [],
+      "revealed_at": 788,
+      "role": "event",
+      "status": "ongoing",
+      "summary": "王林以碎片大印砸地引发大陆裂缝，黑雾涌出凝聚成上百头雾兽。仙选族先祖老者要求半柱香内全部驱除且不许人形雾兽出现；雾兽睁眼后转为嗜血并反噬族人，老者喊出「仙阵灭杀」，一头睁眼雾兽冲向王林。"
+    }
+  ]
+}

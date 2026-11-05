@@ -1,0 +1,30 @@
+{
+  "id": "thread-0721",
+  "introduced_at": 709,
+  "kind": "story_thread",
+  "label": "王林元力恢复与雷池深入",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 709,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 709,
+          "start": 709
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0721-001",
+      "resolution_refs": [],
+      "revealed_at": 709,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林因斩罗决与与雷道子一战临近跌落修为，两年内在雷池以雷元术二十倍吸收雷霆恢复元力，仍未完全恢复，并向雷池中心推进。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0533",
+  "introduced_at": 580,
+  "kind": "story_thread",
+  "label": "妖灵九郡的圣物之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 580,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 580,
+          "start": 580
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0533-001",
+      "resolution_refs": [],
+      "revealed_at": 580,
+      "role": "新增待办任务：王林需为妖鼓中古妖取回其他八郡的圣物",
+      "status": "seeded",
+      "summary": "妖鼓中古妖称九郡各有类似存在与圣物，彼此欲吞噬对方以求完整；它以修复身体与天妖郡权利换取王林替它取回其他八郡圣物。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0885",
+  "introduced_at": 846,
+  "kind": "story_thread",
+  "label": "南宫寒扬言感悟缩地成寸后再战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 846,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "rivalry",
+      "chapter_ranges": [
+        {
+          "end": 846,
+          "start": 846
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0885-001",
+      "resolution_refs": [],
+      "revealed_at": 846,
+      "role": "foreshadow",
+      "status": "open",
+      "summary": "南宫寒认输时表示要等感悟出缩地成寸再来打。"
+    }
+  ]
+}

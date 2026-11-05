@@ -1,0 +1,30 @@
+{
+  "id": "thread-0403",
+  "introduced_at": 483,
+  "kind": "story_thread",
+  "label": "射神车封印的解封与反噬风险",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 483,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 483,
+          "start": 483
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0403-001",
+      "resolution_refs": [],
+      "revealed_at": 483,
+      "role": "development",
+      "status": "ongoing",
+      "summary": "王林首次解开射神车一道封印，承受反噬风险；若无法收回射神车将被其反噬，另有数道封印尚未打开。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0341",
+  "introduced_at": 432,
+  "kind": "story_thread",
+  "label": "王林与柳眉的最后一幻之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 432,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 432,
+          "start": 432
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0341-001",
+      "resolution_refs": [],
+      "revealed_at": 432,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "柳眉需王林逼出“最后一幻”以成一千幻；王林以三祖意境所化魅姬冲击其无情道，孔雀之身崩溃、柳眉现出真身并面现红色，夺舍结果与最后一幻是否成形尚未落定。"
+    }
+  ]
+}

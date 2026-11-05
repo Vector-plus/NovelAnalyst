@@ -1,0 +1,30 @@
+{
+  "id": "thread-0401",
+  "introduced_at": 483,
+  "kind": "story_thread",
+  "label": "祭拜祖灵、受禁法神通与保命法宝",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 483,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 483,
+          "start": 483
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0401-001",
+      "resolution_refs": [],
+      "revealed_at": 483,
+      "role": "opening",
+      "status": "ongoing",
+      "summary": "天运子命王林随其祭拜祖灵，承诺随后传禁法神通、送保命法宝；本章尚未进行。"
+    }
+  ]
+}

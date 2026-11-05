@@ -1,0 +1,30 @@
+{
+  "id": "thread-0247",
+  "introduced_at": 316,
+  "kind": "story_thread",
+  "label": "重访旧地：青龙大阵与当年的故人",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 316,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 316,
+          "start": 316
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0247-001",
+      "resolution_refs": [],
+      "revealed_at": 316,
+      "role": "setup",
+      "status": "open",
+      "summary": "李慕婉多年未回修魔海，提议先去看青龙大阵，并叹不知当年的人还有几个活着；王林想起当年她所赠拓印此阵之像的玉简。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0687",
+  "introduced_at": 682,
+  "kind": "story_thread",
+  "label": "雷道子在冉云星搜寻某人未果",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 682,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 682,
+          "start": 682
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0687-001",
+      "resolution_refs": [],
+      "revealed_at": 682,
+      "role": "setup",
+      "status": "open",
+      "summary": "雷道子以神识横扫冉云星寻找符合要求之人，未找到，怀疑其已离开，后因王平未昏迷而锁定小山村；所寻者身份与“要求”内容未在本章说明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0231",
+  "introduced_at": 307,
+  "kind": "story_thread",
+  "label": "四把仙剑归属",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 307,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item_ownership",
+      "chapter_ranges": [
+        {
+          "end": 307,
+          "start": 307
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0231-001",
+      "resolution_refs": [],
+      "revealed_at": 307,
+      "role": "advance",
+      "status": "active",
+      "summary": "第四把、第二把剑的剑体落入青衫老者之手，第一把被天墨子夺走并带回天墨星；其余随女尸下坠的一把大剑与一把女子短剑成为新争夺目标"
+    }
+  ]
+}

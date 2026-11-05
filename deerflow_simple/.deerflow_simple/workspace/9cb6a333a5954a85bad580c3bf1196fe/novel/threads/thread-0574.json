@@ -1,0 +1,30 @@
+{
+  "id": "thread-0574",
+  "introduced_at": 614,
+  "kind": "story_thread",
+  "label": "王林之友（塔内神识本体）被困潮汐深渊，需自水妖郡入口前往",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 614,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 614,
+          "start": 614
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0574-001",
+      "resolution_refs": [],
+      "revealed_at": 614,
+      "role": "active",
+      "status": "open",
+      "summary": "贝罗以神通寻得王林那位朋友的气息在潮汐深渊；共六处入口，去水妖郡的入口最接近其朋友所在；出口只有一个，在火妖郡内。"
+    }
+  ]
+}

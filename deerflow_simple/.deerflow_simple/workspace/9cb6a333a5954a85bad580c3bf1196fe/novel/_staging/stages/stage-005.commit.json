@@ -1,0 +1,324 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "stage_range": {
+    "start": 83,
+    "end": 102
+  },
+  "as_of": 102,
+  "arc_summary": {
+    "doc_id": "doc-arc-005",
+    "front_matter": {
+      "title": "决明谷夺令与藤家灭门血祸阶段",
+      "chapter_ranges": [
+        {
+          "start": 83,
+          "end": 102
+        }
+      ],
+      "as_of": 102,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-30"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-36"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-18"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-3"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-2"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-10"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-7"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "claim-local-22"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "cl-19"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "cl-11"
+        },
+        {
+          "path": "_staging/stage-005/claims.buffer.jsonl",
+          "record_id": "cl-18"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第83—102章。起于域外战场通道与七块令牌规则确立 [[claim-local-30]]，终于王林肉身爆散、墨光携父母魂魄进入域外通道（第102章）。中段包含王家灭门（第88—89章）与决明谷夺令混战（第90—96章）两条主轴。\n\n## 起始局面\n王林以尸阴宗二代弟子身份受困于地阴洞穴，行动受夜自在—罗刹夺舍机制实质限制，并对夜自在的用意作出敌对性推断 [[claim-local-18]]；司徒南持续未苏醒，唯一底牌是其后揭露的三次瞬移（第91章）。联盟以通天塔与使者制直接介入赵国修真界事务，林奕自报三级修真国监察使并任驻赵国使者（第83章）；同时联盟级悬赏指向王林胸口的云彩石珠，构成本阶段主要外部冲突源。\n\n## 核心目标与冲突\n四层冲突叠加：\n1. 资格线——七块令牌、至少碎四块、最多三派，三日后筑基期大战 [[claim-local-36]]，决明谷成为多方混战与夺令场。\n2. 身体与自由——王林须先摆脱尸阴宗控制，第87章夺回魂魄玉简方得脱身。\n3. 灭门血仇——藤化元以天算术与启明古镜锁定王林，第88—89章抵达王家祖宅、灭门收魂、当众宣示“鸡犬不留”，且报复范围超出王林本人 [[claim-local-3]]。\n4. 规则壁垒——决明谷封印阵法化神期以下不可入，藤化元只能守在出谷口，双方被迫在谷外对峙 [[cl-19]]。\n\n## 关键转折\n- 第89—90章：王家灭门引爆极境，第90章完整施展并击杀天道门三人，极境机制定型为同境界无敌、终点元婴后期 [[claim-local-2]]；王林第97章确立“变强才能不受欺”的行动基准，并以实力论推及藤化元的心理动机 [[claim-local-10]]。\n- 第92—94章：灵力异变与青色米粒法宝成型（三枚极限、两枚可融合、三枚自爆波及千丈），王林战力由“能杀筑基”升级为“冰封整队、无人可阻”。\n- 第95—96章：玄道宗一方一度掌握四块资格令牌 [[claim-local-7]]，王林于集结地斩杀马姓老者、柳眉交出令牌；至第96章合五块令牌、捏碎四块只留一块并放弃寻找最后一块，入场资格锁定。\n- 第100—102章：王林以改貌法宝与元婴中期级威压诈现，公开约战藤化元；夺其储物袋、断其右手；父母魂魄被投入其体内，以阴寒灵气保存；最终肉身爆散，墨光携魂入域外通道。\n\n## 阶段结果\n王林取得域外战场入场资格，并以个体之力重创藤化元而未取其命，血仇悬置。赵国多方势力受损：飘渺宗二十五人仅八人存活出谷（第98章），玄道宗失去令牌与入场资格，尸阴宗以“人傀”形式到场被取消资格（第99章）。林奕到场宣布规则并公开禁止赵国修士插手，动机未明 [[cl-11]]。\n\n## 下一阶段承接与未决问题\n- 王林以肉身爆散状态携父母魂魄进入域外通道，域外战场的胜负奖励与五级升六级机制（第91章）尚未展开。\n- 父母魂魄仅被“保存”而非复活，复活路径仍为 reported 待验证（第91章）。\n- 藤化元存活，出谷伏杀失败；第102章“巨人以戾气为目标”指向新的势力动向。\n- 林奕对千幻变的认知 [[cl-18]]、以及对赵国修士的封锁态度 [[cl-11]] 均未解释。\n- 夜自在—罗刹以助吞吴宇、换罗刹提升阿呆并代选尸傀的交易 [[claim-local-22]] 未结算，阿呆、紫大人、吴宇去向悬置。"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "决明谷夺令与藤家血祸阶段",
+          "chapter_ranges": [
+            {
+              "start": 83,
+              "end": 102
+            }
+          ],
+          "as_of": 102,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-18"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-30"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-36"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-3"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-2"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-13"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-27"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-10"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "cl-19"
+            },
+            {
+              "path": "_staging/stage-005/events.buffer.jsonl",
+              "record_id": "ev-local-5"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n第83—84章：王林以尸阴宗二代弟子身份陷于地阴洞穴，宗内把守升级、行动被实质限制，并对夜自在的用意作出敌对性推断 [[claim-local-18]]；司徒南仍未苏醒，可用的脱身底牌极为有限。此间天逆珠出现第二片树叶刻纹并可凝出阴寒灵气液体，神识首次突破三百丈。\n\n## 目标与动机\n动机在本阶段内发生转向：前段以“脱离尸阴宗控制 + 取得域外战场资格 + 快速提升实力”为主；第88—89章王家被灭门、族中魂魄入魂旗后，动机升级为“复仇藤化元、保住并设法复活亲人魂魄”，第97章进一步收敛为“变强才能不受欺”的行动基准，并以实力论推及藤化元的心理动机 [[claim-local-10]]。\n\n## 关键选择与经历\n- 规则与局面（第83、86章）：七块令牌、至少碎四块、最多三派 [[claim-local-30]]，三日后筑基期大战 [[claim-local-36]]；尸阴宗封魂组队、经巨门送入决明谷，资格赛正式启动。\n- 冒险备用手段（第85章）：以寒丹化液祭炼剑鞘，跨章未完 [[ev-local-5]]；此举直接违背司徒南关于寒丹不可轻易离体的告诫。\n- 脱控（第87章）：夺回魂魄玉简，摆脱尸阴宗控制；同年与天道门弟子首次正面冲突，得翠尺与毒蜂线索。\n- 灭门与极境（第88—90章）：王家被藤化元灭门收魂，报复范围超出王林本人 [[claim-local-3]]；极境在叙述中被首次点出并激发，第90章完整施展、连杀天道门三人，机制定型为同境界无敌、终点元婴后期 [[claim-local-2]]。同章发现天逆珠与始祖玉简图案不一致，牵出天道门与联盟悬赏线 [[claim-local-13]]。\n- 三次瞬移与复活设想（第91章）：崖底血泪跪别父母；司徒南仅余三次瞬移；首次提出以魂旗封印魂魄复活亲人的可能（reported 待验证）。\n- 手段升级（第92—94章）：灵力异变、青色米粒成型（三枚极限、两枚融合、三枚自爆波及千丈），以极境灵力多次冰封灭杀筑基修士与整队弟子。\n- 夺令收束（第95—96章）：于玄道宗集结地一剑斩杀马姓老者、柳眉交出令牌；合五块令牌后捏碎四块只留一块，主动放弃寻找最后一块；闭关备战“两个月后的大战” [[claim-local-27]]，并血炼重炼绿色飞剑。\n- 谷外对决（第100—102章）：以得自阿呆的法宝改貌、抽取诅咒后公开现身，展露元婴中期级威压向藤化元约战；利用“化神期以下不可入谷”的阵法限制 [[cl-19]] 掌握出谷节奏，夺其腰间储物袋、断其右手；父母魂魄被投入其体内后以阴寒灵气保存，最终肉身爆散，墨光携父母魂魄进入域外通道。其间自称“铁柱”。\n\n## 阶段终点\n王林以五块令牌锁定域外战场入场资格，并在谷外重创藤化元，但未取其命；代价是肉身爆散，以墨光形态携父母魂魄进入域外通道。血仇、父母复活、尸阴宗与天道门两条旧线均未了结，人物重心由“求存与夺资格”转为“域外战场中的继续变强”。"
+      },
+      "current_summary_update": "决明谷夺令与藤家血祸阶段（第83—102章）：以尸阴宗二代弟子身份受困地阴洞穴，第87章夺回魂魄玉简脱控；第88—89章王家被藤化元灭门收魂、极境于第89—90章被激发并定型为同境界无敌（上限元婴后期）；第92—94章灵力异变、青色米粒法宝成型，冰封灭杀多队筑基修士；第95—96章夺玄道宗令牌、合五块并捏碎四块，锁定域外战场入场资格，闭关备战两个月后的大战；第100—102章以改貌法宝与元婴中期级威压诈现约战藤化元，夺其储物袋、断其右手，以阴寒灵气收存父母魂魄，终以肉身爆散、墨光携魂进入域外通道。",
+      "identity_notes_appends": [
+        {
+          "claim_ref": {
+            "path": "_staging/stage-005/claims.buffer.jsonl",
+            "record_id": "claim-local-2"
+          },
+          "note": "极境机制定型：同境界无敌，终点为元婴后期；第89—90章首次被明确点出并完整施展。",
+          "revealed_at": 90
+        },
+        {
+          "claim_ref": {
+            "path": "_staging/stage-005/claims.buffer.jsonl",
+            "record_id": "claim-local-13"
+          },
+          "note": "天逆珠刻纹与始祖玉简图案不一致，指向七级修真国追杀与联盟悬赏来源。",
+          "revealed_at": 90
+        }
+      ]
+    }
+  ],
+  "faction_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0092/index.json",
+        "record_id": "char-0092"
+      },
+      "stage_doc_id": "doc-char-0092-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "决明谷夺令与资格出局阶段",
+          "chapter_ranges": [
+            {
+              "start": 93,
+              "end": 98
+            }
+          ],
+          "as_of": 102,
+          "subject_refs": [
+            {
+              "path": "characters/char-0092/index.json",
+              "record_id": "char-0092"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-7"
+            },
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-25"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n入决明谷前，玄道宗门下李山偷得三块资格令牌，使本门一方连同自有令牌一度掌握四块，成为谷内众矢之的、集结地被多方围困（第93章）[[claim-local-7]]。\n\n## 本阶段举措与处境\n- 第93章：李山偷令事泄，玄道宗集结地被五方围困；李山认出王林，故人重逢，双方身份与实力落差确立。\n- 第95章：令牌下落被供出并指向玄道宗与柳眉；王林在集结地一剑斩杀筑基中期的马姓老者，柳眉被迫交出令牌。玄道宗以门中长老的性命为代价失去令牌持有资格。\n- 门内人物线：柳眉由朴南子亲自施法助筑基（李山口述，reported）；玄道宗一侧与和朴南子相关的宗门关系在谷外仍被提及。\n\n## 阶段终点\n玄道宗在决明谷夺令中彻底出局：令牌尽失、长老被杀，未能取得域外战场名额；第98章资格赛结果公布后，赵国各宗格局以飘渺宗被淘汰、仅八人存活出谷收束，玄道宗本阶段无任何名额收益。\n\n## 势力影响\n玄道宗由“偷令抢跑的获利者”转为“被清算的失令者”，其对王林的认知也从故人转为不可对抗的强者，为后续宗门层面的态度调整留下空间。"
+      },
+      "current_summary_update": "决明谷夺令阶段（第93—98章）：门下李山偷得三块资格令牌，玄道宗一方一度掌握四块令牌并因此成为众矢之的、集结地被围；第95章令牌下落被供出，王林于集结地斩杀筑基中期马姓老者、柳眉交出令牌，玄道宗令牌尽失，未能取得域外战场名额。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "本阶段势力格局变动集中体现在令牌归属与出场资格的清算，已由 arc 摘要与玄道宗阶段文档覆盖；赵国各宗的层级关系（联盟—使者—本土宗门）在本阶段未被实质改写，故不单独生成格局文档。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0092/index.json",
+              "record_id": "char-0092"
+            }
+          ],
+          "introduced_at": 83
+        }
+      },
+      "stage_doc_id": "doc-rel-char-0001-char-0092-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "决明谷夺令阶段的王林与玄道宗",
+          "chapter_ranges": [
+            {
+              "start": 93,
+              "end": 98
+            }
+          ],
+          "as_of": 102,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0092/index.json",
+              "record_id": "char-0092"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-7"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段关系形态\n由“故人—同乡旧识”转为“单向压制下的夺令关系”。玄道宗一方因李山偷得三块资格令牌而一度掌四块，成为谷内众矢之的 [[claim-local-7]]；王林则在第95章直接以杀长老、逼交令牌的方式完成收割。\n\n## 变化解释\n转折点是第93章的令牌归属公开化与第95章令牌下落被供出：前者让玄道宗成为靶子，后者让王林找到明确的索取对象。第93章李山认出王林、第94章目光转为尊敬，说明这门派对王林的评估已被实力差彻底改写。\n\n## 关系阶段引用\n本阶段为该关系对的第一个 stage 快照，新建于第83章（资格赛开局）。\n\n## 推断边界\n王林对玄道宗未表达整体敌意，其针对对象为持令者与阻路者；李山得到的是“故人不杀”的待遇而非结盟承诺。宗门后续是否会因此报复或示好，本阶段无材料。",
+        "facets": []
+      },
+      "facets": [
+        {
+          "dimension": "资格令牌争夺（资源压制）",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0092/index.json",
+            "record_id": "char-0092"
+          },
+          "attitude": "以绝对战力强行索取令牌，杀长老、逼交令，无谈判余地。",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-7"
+            }
+          ]
+        },
+        {
+          "dimension": "故人认同（李山一线）",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0092/index.json",
+            "record_id": "char-0092"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "由旧识转为敬畏：李山认出王林后目光尊敬，自认实力与身份已不可比。",
+          "basis_refs": [
+            {
+              "path": "_staging/stage-005/claims.buffer.jsonl",
+              "record_id": "claim-local-7"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [],
+      "safe_through": 102
+    }
+  ],
+  "emotional_stages": [],
+  "thread_updates": [],
+  "warnings": [
+    "stage_buffer 中所有 event/claim 仅提供局部 ID（ev-local-N / claim-local-N / cl-N），且同一局部 ID 在不同章节重复出现（如 ev-local-1 至少出现在第83、84、85、86、87、89、91、95、100、101、102章；claim-local-14 出现在第89、90、91章）。本 payload 因此只在 Markdown 中用 [[]] 链接可唯一识别的 claim（claim-local-2/3/7/10/13/18/22/25/27/30/36、cl-11/cl-18/cl-19）与 ev-local-5，其余事实以章节号在正文中标注。record_refs 的 path 使用 _staging/stage-005/*.buffer.jsonl 占位，需由 ID 分配器解析为真实 record 引用后再写盘。",
+    "本阶段涉及的主要人物（藤化元、李山、柳眉、林奕、司徒南、夜自在、罗刹、阿呆、辛海、上官云、王卓、王林父母）在 stage_buffer 与实体清单中均未提供已解析的 entity_ref，故未生成对应 character_stage；其中藤化元是本阶段第二核心人物，建议上游先完成实体解析后补跑其阶段文档。",
+    "char-0092 的 index.json 中 entity_type 为 character，但 label 为“玄道宗”（宗门）。本 payload 按其势力语义放入 faction_stages；下游写盘时请按实体档案实际类型落盘，不要因字段冲突丢弃该文档。",
+    "关系快照仅生成王林↔玄道宗一对（双端均有已解析 entity_ref）。王林↔藤化元（灭门血仇）、王林↔司徒南（盟友/三次瞬移约束）、王林↔李山（故人）三对因缺 entity_ref 未建条目，详见 notes_for_audit 的待补清单。",
+    "本阶段感情线（父母魂魄、跪别、携魂入通道）戏份极重，但因父母无 entity_ref 且原文未明示恋爱关系，未产出 emotional_stage 与 assessment；按规则不新增 romantic 定性。",
+    "现有 story_thread 清单为空，thread_updates 返回空数组；建议新建的故事线见 notes_for_audit。",
+    "faction_landscape 设为 produce=false：本阶段格局变动已由 arc 摘要与玄道宗阶段文档承载，联盟—使者—本土宗门的层级关系未被实质改写。"
+  ],
+  "notes_for_audit": [
+    "待补关系快照清单（解析出 entity_ref 后可复用本阶段事实）：(1) 王林↔藤化元，敌对 directed 双向——藤化元侧复仇动机构成为 claim-local-28、报复范围超出王林本人 claim-local-3、点名确认黑袍老者=藤化元 claim-local-25；王林侧为复仇与夺物（第101—102章）。turning 事件建议取第88章灭门开端、第90章魂旗相胁与开谷之约、第99章出谷伏杀、第102章断右手夺储物袋。(2) 王林↔司徒南，盟友 symmetric-ish——依据 claim-local-19（仅余三次瞬移）、claim-local-17（复活亲人路径 reported）、claim-local-4（域外战场胜负奖励）。(3) 王林↔李山，故人 directed（李山→王林 敬畏）——依据 claim-local-7、claim-local-11（第94章态度转变）。",
+    "建议新建故事线（thread）4 条：(1) 藤化元复仇线——灭门收魂（第88—89章）→魂旗相胁（第90章）→出谷伏杀（第99章）→断手失袋（第102章），未结。(2) 父母魂魄保全与复活线——第91章首次提出以魂旗封印魂魄的复活可能（reported 待验证）→第102章魂魄投入体内、以阴寒灵气保存，仍为“保存”非“复活”。(3) 极境与灵力异变成长线——第89—90章极境定型（claim-local-2）、第92章灵力异变与青色米粒、第96章极境需元婴期方可最大发挥（claim-local-17，第96章）。(4) 域外战场入场与联盟体制线——第83章令牌规则（claim-local-30/claim-local-36）、第86章资格赛规则、第98章结果公布、第99章林奕宣布规则与人傀除名、第101章通道开启。",
+    "未决钩子（供下一 stage 校验）：第102章“巨人以戾气为目标”（claim-local-24）、幻城“千幻”与黄泉宗“蓝冰闪”首次点名（claim-local-6）、王林自称“铁柱”（claim-local-19）三条均未在本阶段闭合。",
+    "safe_through 校验：arc 与各 stage 文档 as_of=102，未超过 stage 尾章；identity_notes_appends 的 revealed_at 分别取 90 章（claim-local-2、claim-local-13 所在章），均不早于其依据 claim 的 revealed_at。",
+    "实体清单声明“本阶段涉及实体清单：（无）”，与 stage_buffer 中大量具名实体（王林、藤化元、李山、柳眉、林奕等）矛盾，建议校对上游实体解析步骤是否在 stage-005 段落漏跑。"
+  ]
+}

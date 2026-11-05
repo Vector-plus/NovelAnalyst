@@ -1,0 +1,30 @@
+{
+  "id": "thread-0776",
+  "introduced_at": 760,
+  "kind": "story_thread",
+  "label": "唐言枫记住“许木”之名",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 760,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_conflict",
+      "chapter_ranges": [
+        {
+          "end": 760,
+          "start": 760
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0776-001",
+      "resolution_refs": [],
+      "revealed_at": 760,
+      "role": "seed",
+      "status": "open",
+      "summary": "唐言枫追问名讳后记下“许木”，并始终想出手而忍住，双方未实际交手，此后存在再遇的可能。"
+    }
+  ]
+}

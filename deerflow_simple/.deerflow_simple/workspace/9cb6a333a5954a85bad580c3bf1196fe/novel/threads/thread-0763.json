@@ -1,0 +1,30 @@
+{
+  "id": "thread-0763",
+  "introduced_at": 744,
+  "kind": "story_thread",
+  "label": "王林的仙卫分身被毁、本体暴露",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 744,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_state",
+      "chapter_ranges": [
+        {
+          "end": 744,
+          "start": 744
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0763-001",
+      "resolution_refs": [],
+      "revealed_at": 744,
+      "role": "setup",
+      "status": "changed",
+      "summary": "仙卫傀儡内的王林元神传下最后一言后崩溃，仙卫肉身因血祖急于救女而未被炼化；王林本体自地底冲出，被血祖血光所化红针紧追。"
+    }
+  ]
+}

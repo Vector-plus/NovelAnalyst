@@ -1,0 +1,89 @@
+{"kind": "event", "local_id": "ev-local-1", "subject_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "note": "stage 起点关键事件：王林取得本命飞剑「巨富」，为后续玄道宗交流做准备", "chapter_order": 39}
+{"kind": "event", "local_id": "ev-local-2", "subject_refs": [{"path": "characters/char-0073/index.json", "record_id": "char-0073"}, {"path": "characters/char-0092/index.json", "record_id": "char-0092"}], "note": "玄道宗与恒岳派交流开始，本章仅至抵达场面", "chapter_order": 39}
+{"kind": "claim", "local_id": "claim-local-13", "subject_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "note": "巨富飞剑的来历与使用禁忌，属后续可能回收的伏笔信息", "chapter_order": 39}
+{"record_local_id": "ev-local-1", "kind": "event", "reason": "本 stage 首场两派正式接触事件，后续比试主线的起点", "chapter_order": 40}
+{"record_local_id": "claim-local-4", "kind": "claim", "reason": "二十年之约赌注的关键口头陈述，需在后续比对是否兑现", "chapter_order": 40}
+{"record_local_id": "claim-local-5", "kind": "claim", "reason": "掌门提出的对等赌注（控制灵兽功法）陈述", "chapter_order": 40}
+{"record_local_id": "claim-local-14", "kind": "claim", "reason": "三天后正式交流的时间节点，用于跨章衔接", "chapter_order": 40}
+{"record_local_id": "claim-local-22", "kind": "claim", "reason": "柳眉首次具名出场及其对王林的注意", "chapter_order": 40}
+{"record_local_id": "claim-local-26", "kind": "claim", "reason": "玄道宗内部隐藏地位的未具名中年男子，疑为后续身份揭示线索", "chapter_order": 40}
+{"record_local_id": "claim-local-12", "kind": "claim", "reason": "单一水灵根概念与恒岳派弟子灵根状况的说法来源", "chapter_order": 40}
+{"buffer_kind": "event", "local_id": "ev-local-1", "reason": "本阶段开篇的两派交流局面，含双方弟子阵容与黄龙真人的核心弟子决策", "chapter_order": 41}
+{"buffer_kind": "event", "local_id": "ev-local-4", "reason": "王卓将千足蜈蚣喂食差事指向“修炼只是浪费时间”的师弟，构成本阶段对王林施压的动向", "chapter_order": 41}
+{"buffer_kind": "claim", "local_id": "claim-local-5", "reason": "恒岳派掌门决定紫衣核心弟子出场的转折点", "chapter_order": 41}
+{"buffer_kind": "claim", "local_id": "claim-local-18", "reason": "周姓女子自述斩不断亲情、王林未答所斩断者，人物心境事实证据", "chapter_order": 41}
+{"buffer_kind": "claim", "local_id": "claim-local-19", "reason": "王卓对王林的敌意目光，关系张力事实证据", "chapter_order": 41}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-1", "note": "王卓公开把喂蜈蚣杂活派给王林，内门弟子群嘲，王林被玄道宗归为废物", "chapter_order": 42}
+{"kind": "event_ref", "ref_or_local_id": "ev-local-3", "note": "王林首次近距离接触千足蜈蚣，见证其黑气化兽为血水", "chapter_order": 42}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-11", "note": "王卓针对王林起于初见，内门弟子因流言瞧不起王林", "chapter_order": 42}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-25", "note": "书载蜈蚣之毒与体积正相关，个头越大毒越强", "chapter_order": 42}
+{"kind": "claim_ref", "ref_or_local_id": "claim-local-21", "note": "孙浩当众复述王林靠闹死闹活入派、靠下作方法转正的流言", "chapter_order": 42}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林与王浩重逢；王浩已凝气期一层且功法抽离精气，为 stage-003 内重要人物线证据", "chapter_order": 43}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "玄道宗弟子李山向恒岳派兜售法器暗器，涉及三日后交流会/比赛，为灭派前势力互动证据", "chapter_order": 43}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "王浩功法异常（每循环抽离五脏六腑精气）的人物转折点证据", "chapter_order": 43}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "李山自称子午金钱剑为玄道宗珍宝并系偷出（角色说法）", "chapter_order": 43}
+{"ref_or_local_id": "thread-local-1", "kind": "thread", "note": "王浩诡异功法线索，待后续章节闭合", "chapter_order": 43}
+{"ref_or_local_id": "thread-local-2", "kind": "thread", "note": "李山希望买家在比赛使用暗器的算计线索", "chapter_order": 43}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 44, "note": "李山在恒岳派内兜售霹雳弹并宣布买二送一，牵动内门弟子与王林。", "salience": "medium"}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 44, "note": "孙浩验货、李山取出数十个霹雳弹，霹雳弹暗藏秘密的伏笔首次由其内心点明。", "salience": "high"}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-11", "chapter_order": 44, "note": "李山内心称霹雳弹有长老、大师兄都看不出的秘密，为后续埋线。", "salience": "high"}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 44, "note": "李山将王林锁定为可榨钱的大主顾，指向后续交易走向。", "salience": "medium"}
+{"kind": "event", "local_id": "ev-local-1", "reason": "王林能力展示与李山遥控引爆手法的关键证据（本章首次显性呈现）", "chapter_order": 45}
+{"kind": "event", "local_id": "ev-local-2", "reason": "李山向恒岳派弟子扩散霹雳弹，为三日后比试埋线", "chapter_order": 45}
+{"kind": "claim", "local_id": "claim-local-3", "reason": "王林神识覆盖与灵气感知的直接文本证据", "chapter_order": 45}
+{"kind": "claim", "local_id": "claim-local-11", "reason": "李山对霹雳弹控制权的自述，确定其阴谋性质", "chapter_order": 45}
+{"kind": "claim", "local_id": "claim-local-15", "reason": "王林与李山的交易落定（灵符换三枚霹雳弹）", "chapter_order": 45}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "梦境空间首次出现第二个人声，是本章与阶段的核心转折", "chapter_order": 46}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "王林从霹雳弹习得神识覆盖手法，为后续神识运用的起点", "chapter_order": 46}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "老者首次对王林当前境界给出他称「灵动期假圆满」", "chapter_order": 46}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "note": "老者自称需王林修炼至婴变期方能出来，交代其被困状态", "chapter_order": 46}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "note": "首次给出修真国等级晋升规则与修真联盟的存在", "chapter_order": 46}
+{"kind": "character_candidate", "ref_or_local_id": "天逆珠内的苍老声音", "note": "新登场核心存在，身份未明，需持续追踪", "chapter_order": 46}
+{"ref_or_candidate": "ev-local-1", "kind": "event", "note": "司徒南首次系统自述来历与天逆珠子规则，属本阶段关键设定来源", "chapter": 47, "chapter_order": 47}
+{"ref_or_candidate": "ev-local-2", "kind": "event", "note": "两派交流大会开幕，苍松峰白玉石杀意事件", "chapter": 47, "chapter_order": 47}
+{"ref_or_candidate": "ev-local-3", "kind": "event", "note": "交流第一场柳风对赵龙，玄道宗允许柳风只出五成修为，恒岳派震动", "chapter": 47, "chapter_order": 47}
+{"ref_or_candidate": "claim-local-6", "kind": "claim", "note": "天逆珠子认主与出珠条件（司徒南自述）", "chapter": 47, "chapter_order": 47}
+{"ref_or_candidate": "claim-local-24", "kind": "claim", "note": "司徒南自称六级修真国朱雀国第一强者", "chapter": 47, "chapter_order": 47}
+{"ref_or_candidate": "claim-local-28", "kind": "claim", "note": "欧阳老者允许柳风仅用五成修为应战第一场", "chapter": 47, "chapter_order": 47}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "交流比试首场：柳风水幕反射击败赵龙", "chapter_order": 48}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "note": "恒岳派紫衣弟子尚未出场，被称为核心弟子（他人转述）", "chapter_order": 48}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "note": "恒岳派师叔层对玄道宗态度恶化", "chapter_order": 48}
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "恒岳派孙浩对玄道宗李山，霹雳弹反噬自爆，恒岳派再度当众失分", "chapter_order": 49}
+{"kind": "key_event", "ref_or_local_id": "ev-local-2", "note": "黄龙真人召出三名紫衣人，派五师兄吕嵩出战，恒岳派亮出底牌", "chapter_order": 49}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-6", "note": "孙浩的霹雳弹购自李山，成为本章反噬的因果线", "chapter_order": 49}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-23", "note": "吕嵩身份：恒岳派五师兄，二十年前凝气期第六层（弟子口述）", "chapter_order": 49}
+{"kind": "faction_move", "ref_or_local_id": "ev-local-2", "note": "恒岳派以玉简法阵召出紫衣人应战，显示隐藏战力", "chapter_order": 49}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "欧阳老者加码『借恒岳峰五百年』并宣称恒岳派始祖尽亡，推动玄道宗与恒岳派冲突升级", "chapter_order": 50}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "玄道宗中年男子（候选周鹏）出手毁吕嵩飞剑并踏裂地面，是本章后段冲突升级的直接触发点", "chapter_order": 50}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "note": "恒岳派始祖尽亡一语（reported），系本阶段门派存续的关节点", "chapter_order": 50}
+{"ref_or_local_id": "claim-local-13", "kind": "claim", "note": "王林持有与许木相同类型的黄纸纸符，为后续可用道具伏笔", "chapter_order": 50}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "恒岳派与玄道宗交流比试的胜负规则与大弟子周鹏登场", "chapter_order": 51}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "玄道宗离场并宣称恒岳派元婴始祖全灭、朴南子将至（势力动向关键节点）", "chapter_order": 51}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "note": "王林真实修为层级（灵动期假圆满/筑基期十四层）的首次明确陈述，主角能力转折", "chapter_order": 51}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "note": "取毒计划因王浩未送药而落空，牵涉王浩线索", "chapter_order": 51}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "孙大柱带走王林，下一章衔接点", "chapter_order": 51}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 52, "note": "王林杀师孙大柱，人物重大转折点"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 52, "note": "王林首次杀人，且对象为师父"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 52, "note": "神秘珠子水元素圆满、现出树叶形状"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 52, "note": "司徒南要求寻找木属性材料，推动王林离开恒岳派"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 52, "note": "势力动向：孙大柱称玄道宗始祖降临、恒岳派临危"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 53, "note": "玄道宗朴南子攻打恒岳派护山大阵，恒岳派500年最大浩劫开启"}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "chapter_order": 53, "note": "王林明确生出借机离开恒岳派的想法"}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "chapter_order": 53, "note": "司徒南承诺筑基后传授黄泉升窍决，为后续功法线索起点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "chapter_order": 53, "note": "朴南子自称玄道宗修士（角色自述，非叙述确认）"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 54, "why": "本 stage 内恒岳派防线被外力强攻的关键转折起点"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 54, "why": "恒岳派山门易主的势力级变动，影响后续人物处境"}
+{"kind": "claim", "local_id": "claim-local-8", "chapter_order": 54, "why": "关于恒岳派元婴期始祖下落的重大陈述（仅角色口述，待后续佐证）"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 54, "why": "首次出现“欧阳师侄”这一指向，涉及紫岳仙剑归属"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 54, "why": "王林以旁观者身份目击山门被破，为其后续心境与选择提供现场证据"}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 55, "reason": "本 stage 收束点：恒岳派正式解散、弟子三向分流，玄道宗开始吸纳恒岳派人员"}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 55, "reason": "王林离开门派返回家乡并与父母重逢，是主角立场转折的关键节点"}
+{"ref_or_local_id": "claim-local-10", "kind": "claim", "chapter_order": 55, "reason": "王卓明确留下成为玄道宗弟子，人物阵营变化"}
+{"ref_or_local_id": "claim-local-17", "kind": "claim", "chapter_order": 55, "reason": "王浩修为异常线索，留待后续揭示"}
+{"ref_or_local_id": "claim-local-21", "kind": "claim", "chapter_order": 55, "reason": "王林以引力术独立飞行的能力使用记录"}
+{"kind": "event", "local_ref": "ev-local-1", "note": "主角阶段转折：离家、二次闭关，四年时间跨度", "chapter_order": 56}
+{"kind": "event", "local_ref": "ev-local-2", "note": "玄道宗弟子首次逼近王林闭关地，含宗门规则信息", "chapter_order": 56}
+{"kind": "claim", "local_ref": "claim-local-7", "note": "时间跳跃锚点：此后故事时间推进四年", "chapter_order": 56}
+{"kind": "claim", "local_ref": "claim-local-19", "note": "势力规则：玄道宗后山名额与原班弟子资格（角色自述）", "chapter_order": 56}
+{"kind": "claim", "local_ref": "claim-local-20", "note": "势力沿革线索：始祖夺取恒岳派后山（角色自述）", "chapter_order": 56}
+{"kind": "claim", "local_ref": "claim-local-11", "note": "人物再登场：四年前徐姓女孩的确认", "chapter_order": 56}

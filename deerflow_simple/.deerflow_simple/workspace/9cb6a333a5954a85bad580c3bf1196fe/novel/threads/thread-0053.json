@@ -1,0 +1,30 @@
+{
+  "id": "thread-0053",
+  "introduced_at": 62,
+  "kind": "story_thread",
+  "label": "王林击杀即墨老人坐下弟子，或与即墨老人结怨",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 62,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "hostility",
+      "chapter_ranges": [
+        {
+          "end": 62,
+          "start": 62
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0053-001",
+      "resolution_refs": [],
+      "revealed_at": 62,
+      "role": "seed",
+      "status": "open",
+      "summary": "被王林杀死的中间人被杀前自报即墨老人弟子，即墨老人尚未登场，其势力与王林之间的潜在冲突成为待续线索。"
+    }
+  ]
+}

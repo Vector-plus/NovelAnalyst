@@ -1,0 +1,30 @@
+{
+  "id": "thread-0833",
+  "introduced_at": 808,
+  "kind": "story_thread",
+  "label": "仙遗族符文之力与同款纸符",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 808,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact",
+      "chapter_ranges": [
+        {
+          "end": 808,
+          "start": 808
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0833-001",
+      "resolution_refs": [],
+      "revealed_at": 808,
+      "role": "new_info",
+      "status": "active",
+      "summary": ""
+    }
+  ]
+}

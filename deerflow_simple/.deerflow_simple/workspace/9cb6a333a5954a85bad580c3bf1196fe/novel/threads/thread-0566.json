@@ -1,0 +1,30 @@
+{
+  "id": "thread-0566",
+  "introduced_at": 603,
+  "kind": "story_thread",
+  "label": "修士联盟所在何处",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 603,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "investigation",
+      "chapter_ranges": [
+        {
+          "end": 603,
+          "start": 603
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0566-001",
+      "resolution_refs": [],
+      "revealed_at": 603,
+      "role": "secondary",
+      "status": "open",
+      "summary": "王林在章末追问修士联盟所在，本章未获答复。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0565",
+  "introduced_at": 603,
+  "kind": "story_thread",
+  "label": "碎玉与「仙界之物」的来历",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 603,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 603,
+          "start": 603
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0565-001",
+      "resolution_refs": [],
+      "revealed_at": 603,
+      "role": "secondary",
+      "status": "open",
+      "summary": "仙卫元神被碎玉替代，碎玉内含庞大仙力与一道意念；王林推断融合需与意念相契，并怀疑老祖与仙帝青霖有关。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0187",
+  "introduced_at": 226,
+  "kind": "story_thread",
+  "label": "天劫细丝（对抗通天塔上级使者）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 226,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "hidden_asset",
+      "chapter_ranges": [
+        {
+          "end": 226,
+          "start": 226
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0187-001",
+      "resolution_refs": [],
+      "revealed_at": 226,
+      "role": "core",
+      "status": "seeded",
+      "summary": "王林保留天劫细丝，明言其为对抗当年通天塔上级使者所备，一旦使用可能导致复仇计划终止。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0369",
+  "introduced_at": 457,
+  "kind": "story_thread",
+  "label": "王林寻购坤木石以祭炼古星罗盘",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 457,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item_acquisition",
+      "chapter_ranges": [
+        {
+          "end": 457,
+          "start": 457
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0369-001",
+      "resolution_refs": [],
+      "revealed_at": 457,
+      "role": "progress",
+      "status": "closed",
+      "summary": "王林在明玫城自由坊市以五块极品灵石购得坤木石，材料已入手。"
+    }
+  ]
+}

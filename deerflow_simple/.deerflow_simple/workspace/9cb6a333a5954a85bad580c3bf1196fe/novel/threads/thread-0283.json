@@ -1,0 +1,30 @@
+{
+  "id": "thread-0283",
+  "introduced_at": 368,
+  "kind": "story_thread",
+  "label": "金色小旗（疑似炼魂宗魂幡）与上古魂禁的关系",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 368,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact",
+      "chapter_ranges": [
+        {
+          "end": 368,
+          "start": 368
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0283-001",
+      "resolution_refs": [],
+      "revealed_at": 368,
+      "role": "foreshadowing",
+      "status": "open",
+      "summary": "王林判断金色小旗十有八九是炼魂宗宝物、应是魂幡，其内妖兽既是守护之物也是幡内魂魄之一，并推测炼魂宗魂幡制作与上古魂禁有很大关系。"
+    }
+  ]
+}

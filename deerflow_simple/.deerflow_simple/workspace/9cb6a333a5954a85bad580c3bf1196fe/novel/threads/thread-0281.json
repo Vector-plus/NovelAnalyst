@@ -1,0 +1,30 @@
+{
+  "id": "thread-0281",
+  "introduced_at": 368,
+  "kind": "story_thread",
+  "label": "元婴生魂的来源：抽魄峰苏金世与魂幡交易",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 368,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 368,
+          "start": 368
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0281-001",
+      "resolution_refs": [],
+      "revealed_at": 368,
+      "role": "clue",
+      "status": "open",
+      "summary": "郭东健称其元婴生魂是以一杆九百魂魄的百魂幡向抽魄峰的苏金世换取，指向炼魂宗内部的魂幡与生魂交易链。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0836",
+  "introduced_at": 810,
+  "kind": "story_thread",
+  "label": "姚家天穹令追杀许木（王林）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 810,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 810,
+          "start": 810
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0836-001",
+      "resolution_refs": [],
+      "revealed_at": 810,
+      "role": "antagonist",
+      "status": "escalating",
+      "summary": "姚长东死讯传开、二十八人阻截者被反杀后，姚家动员族人与联盟家族向罗天西域凝聚形成封锁线；姚冰云因天穹令之诺亲自追踪，并于废弃修真星外与之交手。"
+    }
+  ]
+}

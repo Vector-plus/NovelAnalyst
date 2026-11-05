@@ -3,8 +3,9 @@
 对应设计文档《04-prompt_第二阶段精读.md》§1。
 
 - 每章一次，由 deepread 节点串行调度。
-- 工具：A 类（read_source / read_source_window）+ B 类（resolve_name /
-  fetch_entity_current / lookup_stage）+ C 类（dedupe_*，一期留桩）。
+- 工具：A 类（read_source / read_source_window）+ B 类（resolve_names /
+  fetch_entity_current / lookup_stage）。C 类（dedupe_*）一期留桩且不装配，
+  跨章去重由写入侧 record_id 判重兜底。
 - 输出：``ChapterExtraction`` JSON，由节点函数解析后调写入服务落盘。
 
 装配沿用 narration 的「create_agent 原语极简装配」+ 决策 1 的「Pydantic 兜底校验」：
@@ -17,7 +18,6 @@ from __future__ import annotations
 from langchain.agents import create_agent
 
 from deerflow_simple.config import SimpleConfig
-from deerflow_simple.index_builder.tools.dedupe import build_dedupe_tools
 from deerflow_simple.index_builder.tools.entity import build_entity_tools
 from deerflow_simple.index_builder.tools.source import build_deepread_read_tools
 from deerflow_simple.model import create_chat_model
@@ -42,7 +42,7 @@ CHAPTER_REACT_SYSTEM = """你是「单章精读分析员」。你的任务是对
    - `uncertain`：依据不足或多种理解并存，不要用概率数字替代
 
 4. **身份谨慎原则**
-   - 名字 → Ref：先调 `resolve_name` 查询。返回**唯一命中**才用该 Ref；返回**多候选**或**无命中**时，建立**临时实体候选**（在 `new_character_candidates` 中登记）
+   - 名字 → Ref：先调 `resolve_names` 批量查询。返回**唯一命中**才用该 Ref；返回**多候选**或**无命中**时，建立**临时实体候选**（在 `new_character_candidates` 中登记）
    - 禁止擅自把化名、绰号、黑衣人等合并到已知角色，即使你从后文知道答案也不行
    - 疑似同一人但当章未明示 → 作为**候选**记录在 `identity_link_candidates`，不要直接改引用
 
@@ -51,13 +51,12 @@ CHAPTER_REACT_SYSTEM = """你是「单章精读分析员」。你的任务是对
    - 普通叙述只填 `chapter_id/chapter_order` 即可，不强求 anchor
    - 没找到可靠 anchor 时**不要编造**，改为登记 `issue_candidates`（category=`missing_evidence`）
 
-6. **去重复用，不要重复建档**
-   - 新 Claim 产出前先调 `dedupe_claim`（给出 claim_draft + scope_refs），命中则在 `reused_claim_refs` 中引用，不再新建
-   - 新 Event 产出前先调 `dedupe_event`，命中则作为该事件的新 `update` 追加，不新建 `ev-*`
-   - 关系对出现前先调 `find_similar_relationship`，命中则后续归到既有 `rel-*` 下，仅输出 `relationship_update_candidates`
+6. **跨章去重由写入侧兜底，本章内不做工具级查重**
+   - 一期不提供内容级去重工具（dedupe_* 留桩且不装配），跨章重复建档由写入侧 record_id 判重 + audit 兜底，你无需在产出前查重
+   - 仅保证本章内不重复：同一事实只产出一次 claim，同一事件只产出一次 event
 
 7. **章节摘要只组织已提取事实**
-   - `chapter_summary_markdown` 的 Front Matter 中 `record_refs` 列出的所有 `[[claim-xxx]]` / `[[ev-xxx]]` 必须在本次输出的 `new_claims` / `new_events` / `reused_*_refs` 中有定义或引用
+   - `chapter_summary_markdown` 的 Front Matter 中 `record_refs` 列出的所有 `[[claim-xxx]]` / `[[ev-xxx]]` 必须在本次输出的 `new_claims` / `new_events` 中有定义
    - 正文使用固定小节：**开始局面；关键行动；转折与新信息；本章结果；未决问题与补读入口**
    - 不编造未在证据中出现的情节
 
@@ -72,9 +71,9 @@ CHAPTER_REACT_SYSTEM = """你是「单章精读分析员」。你的任务是对
 10. **工具调用预算**
     - `read_source` 本章 ≤ 2 次（原则上 1 次完整读）
     - `read_source_window` ≤ 1 次（仅当需要确认跨章衔接）
-    - `resolve_name` 按新名字数量调用，命中后可复用结果
-    - `dedupe_claim` 每条新 claim 调一次
-    - 总工具调用 ≤ 20 次，超限则停下输出当前能确定的部分并在 `warnings` 中说明
+    - `resolve_names` 本章 ≤ 1 次（一次性打包本章所有新名字）
+    - `fetch_entity_current` 仅对最终确定引用的实体调用
+    - 总工具调用 ≤ 10 次，超限则停下输出当前能确定的部分并在 `warnings` 中说明
 
 ## 目录与导航
 
@@ -89,12 +88,9 @@ CHAPTER_REACT_SYSTEM = """你是「单章精读分析员」。你的任务是对
 |---|---|
 | `read_source(chapter_order, para_start?, para_end?)` | 读章节原文 |
 | `read_source_window(center_chapter, window=2)` | 读相邻章节片段（仅跨章衔接存疑时用） |
-| `resolve_name(name, context_hint?)` | 名字 → 候选 Ref 列表 |
+| `resolve_names(names)` | 批量名字 → 候选 Ref 列表（一次传全部新名字） |
 | `fetch_entity_current(entity_ref)` | 读实体 current 摘要（label、current_summary、identity_notes） |
 | `lookup_stage(chapter_order, subject_ref?)` | 查当前章在哪个 stage |
-| `dedupe_claim(claim_draft, scope_refs)` | 查等价陈述 |
-| `dedupe_event(event_draft)` | 查等价事件 |
-| `find_similar_relationship(subject_a_ref, subject_b_ref)` | 查已有关系对 |
 
 ## 输出格式（严格 JSON）
 
@@ -201,7 +197,6 @@ def build_chapter_react_agent(config: SimpleConfig, novel_root: str):
     tools = [
         *build_deepread_read_tools(novel_root),
         *build_entity_tools(novel_root),
-        *build_dedupe_tools(novel_root),
     ]
     return create_agent(
         model=model,
@@ -240,8 +235,6 @@ def build_chapter_react_prompt(
         f"请执行：\n"
         f"1. 调 `read_source(chapter_order)` 读本章完整正文\n"
         f"2. 必要时调 `read_source_window` 核对跨章衔接（仅当章首明显承接或章尾有悬念时）\n"
-        f"3. 对本章新出现的名字调 `resolve_name` 查找\n"
-        f"4. 对疑似已有陈述调 `dedupe_claim`，对疑似已有事件调 `dedupe_event`，"
-        f"对疑似已有关系对调 `find_similar_relationship`\n"
-        f"5. 产出符合 schema 的 ChapterExtraction JSON（单一 JSON 对象，无 markdown 包裹）"
+        f"3. 对本章所有新出现的名字，一次性调 `resolve_names` 批量查找\n"
+        f"4. 产出符合 schema 的 ChapterExtraction JSON（单一 JSON 对象，无 markdown 包裹）"
     )

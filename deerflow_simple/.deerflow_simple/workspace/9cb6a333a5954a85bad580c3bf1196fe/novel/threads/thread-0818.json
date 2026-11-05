@@ -1,0 +1,30 @@
+{
+  "id": "thread-0818",
+  "introduced_at": 794,
+  "kind": "story_thread",
+  "label": "幽冥兽体内黑气之人（青袍男子本体/分身关系）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 794,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 794,
+          "start": 794
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0818-001",
+      "resolution_refs": [],
+      "revealed_at": 794,
+      "role": "focus",
+      "status": "open",
+      "summary": "青袍男子消亡同时，幽冥兽体内黑色虚无中的黑气之人自称被毁的是“我分身”，其真实身份与两者关系在本章未明示。"
+    }
+  ]
+}

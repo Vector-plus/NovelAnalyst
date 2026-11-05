@@ -1,0 +1,30 @@
+{
+  "id": "thread-0096",
+  "introduced_at": 144,
+  "kind": "story_thread",
+  "label": "八极魔君追索王林与死咒术",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 144,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0096-001",
+      "resolution_refs": [],
+      "revealed_at": 144,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "八极魔君神识锁国近三年寻王林，要求其施展死咒术以补全自己的大计划；王林以死咒术偷袭其识海后脱身，老者追上并喊话「可否听老夫把话说完」，走向未定。"
+    }
+  ]
+}

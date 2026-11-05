@@ -1,0 +1,30 @@
+{
+  "id": "thread-0905",
+  "introduced_at": 863,
+  "kind": "story_thread",
+  "label": "正副雷仙成仙之路与修道之路的分流",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 863,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 863,
+          "start": 863
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0905-001",
+      "resolution_refs": [],
+      "revealed_at": 863,
+      "role": "development",
+      "status": "escalating",
+      "summary": "十七人选择入升仙池成仙、修为暴增；王林、南宫寒、申公虎、战空烈等十几人选择不入。两条道路孰强孰弱本章未定论。"
+    }
+  ]
+}

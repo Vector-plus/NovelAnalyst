@@ -1,0 +1,30 @@
+{
+  "id": "thread-0774",
+  "introduced_at": 759,
+  "kind": "story_thread",
+  "label": "唐家与王林在雷之仙界的冲突",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 759,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 759,
+          "start": 759
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0774-001",
+      "resolution_refs": [],
+      "revealed_at": 759,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林击杀唐家探路的唐言云并宣示千丈禁地，唐言枫等四人随即抵达，其同行者已踏入千丈内，冲突升级中。"
+    }
+  ]
+}
