@@ -1,0 +1,30 @@
+{
+  "id": "thread-0232",
+  "introduced_at": 144,
+  "kind": "story_thread",
+  "label": "祖师祠堂老人的身份之谜",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 144,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0232-001",
+      "resolution_refs": [],
+      "revealed_at": 144,
+      "role": "setup",
+      "status": "active",
+      "summary": "祠堂老人自称当年修成「斩鬼神」，并称苍松亦不知青云门四式真法剑诀之事；林惊羽对其身份来历生出好奇，章内未点名其身份。"
+    }
+  ]
+}

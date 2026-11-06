@@ -1,0 +1,30 @@
+{
+  "id": "thread-0072",
+  "introduced_at": 46,
+  "kind": "story_thread",
+  "label": "滴血洞出口与开天斧机关",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 46,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 46,
+          "start": 46
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0072-001",
+      "resolution_refs": [],
+      "revealed_at": 46,
+      "role": "update",
+      "status": "resolved",
+      "summary": "天煞明王神像右手所缺的开天斧被二人从藏宝室铁器堆取回装上，扳动巨斧触发机括，神像后石壁退开露出暗道，二人经此逃出；滴血洞坍塌、出口被巨石封死。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0098",
+  "introduced_at": 61,
+  "kind": "story_thread",
+  "label": "控制张小凡情绪的奇异煞气",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 61,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0098-001",
+      "resolution_refs": [],
+      "revealed_at": 61,
+      "role": "setup",
+      "status": "open",
+      "summary": "张小凡自述说不清昨日那股片刻间控制了他情绪的“奇异煞气”究竟是什么，田不易的追问也围绕着他对大师兄的突然失态。"
+    }
+  ]
+}

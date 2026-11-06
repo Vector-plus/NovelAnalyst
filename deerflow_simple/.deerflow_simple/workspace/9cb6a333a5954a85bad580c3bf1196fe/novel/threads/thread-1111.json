@@ -1,0 +1,43 @@
+{
+  "id": "thread-1111",
+  "introduced_at": 1016,
+  "kind": "story_thread",
+  "label": "古妖九灵汇聚与贝罗吞噬七妖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1016,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "world_conflict",
+      "chapter_ranges": [
+        {
+          "end": 1016,
+          "start": 1016
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-28376"
+        },
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-28377"
+        },
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-28378"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1111-001",
+      "resolution_refs": [],
+      "revealed_at": 1016,
+      "role": "secondary",
+      "status": "advanced",
+      "summary": "贝罗数百年吞噬七妖、修为恢复八成，剩余二成之力在风妖身上；风妖记忆已在姚惜雪体内全开，其妖灵形态与贝罗的吞噬计划出现变数。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0122",
+  "introduced_at": 83,
+  "kind": "story_thread",
+  "label": "草庙村血案真凶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 83,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0122-001",
+      "resolution_refs": [],
+      "revealed_at": 83,
+      "role": "introduction",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

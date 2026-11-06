@@ -1,0 +1,30 @@
+{
+  "id": "thread-0189",
+  "introduced_at": 126,
+  "kind": "story_thread",
+  "label": "求苗人大巫师以还魂异术救治碧瑶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 126,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0189-001",
+      "resolution_refs": [],
+      "revealed_at": 126,
+      "role": "foreground",
+      "status": "ongoing",
+      "summary": "鬼厉已见过大巫师，大巫师承认懂还魂异术，但要求先弄清小白的来历才答应；二人约定天亮再同去见。黎族夜袭使此事变数陡增。"
+    }
+  ]
+}

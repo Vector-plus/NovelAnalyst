@@ -1,0 +1,67 @@
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 75, "note": "圣教四派（鬼王宗、万毒门、长生堂、合欢派）联手合攻青云门的意图首次在本阶段被明说"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 75, "note": "魔教四大门主会面的第一个现场：鬼王请毒神主持大局遭推辞"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 75, "note": "毒神伪装病弱、七尾蜈蚣感应另一只在青云山，指向青云山上与本阶段主线相关的未知人物"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 75, "note": "秦无炎身份首次出场：毒神十年前收的关门弟子"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 75, "note": "毒神病弱为伪装的转折点"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 75, "note": "四派门主在明王座下发重誓——后续围攻青云的伏笔依据"}
+{"kind": "claim", "local_id": "claim-local-2", "chapter_order": 75, "note": "张小凡处置被移交掌门道玄真人裁定，接续本 stage 的玉清殿公审走向"}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "chapter_order": 76, "salience": "high", "note": "明日玉清殿召见，本 stage 公审线索的起点"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 76, "salience": "high", "note": "田不易当面质询卧底，张小凡跪地否认"}
+{"record_ref_or_local_id": "claim-local-9", "kind": "claim", "chapter_order": 76, "salience": "high", "note": "张小凡自称非卧底的关键自辩（角色陈述）"}
+{"record_ref_or_local_id": "claim-local-10", "kind": "claim", "chapter_order": 76, "salience": "high", "note": "张小凡守口的“那个人”尚未指明"}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 76, "salience": "medium", "note": "田灵儿与齐昊争执，经杜必书转述，指向求情线"}
+{"record_ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 76, "salience": "high", "note": "张小凡与碧瑶后山重逢并相拥"}
+{"record_ref_or_local_id": "claim-local-35", "kind": "claim", "chapter_order": 76, "salience": "high", "note": "章末相拥的动作事实，供后续关系汇总使用"}
+{"ref_local_id": "ev-local-1", "kind": "event", "chapter_order": 77, "note": "碧瑶劝张小凡脱离青云门被拒，为后续走向的关键情感与立场节点"}
+{"ref_local_id": "claim-local-4", "kind": "claim", "chapter_order": 77, "note": "碧瑶“拿我的命去换你”的表态（reported）"}
+{"ref_local_id": "claim-local-6", "kind": "claim", "chapter_order": 77, "note": "张小凡明确拒绝离开青云门、不背弃师门（reported）"}
+{"ref_local_id": "ev-local-4", "kind": "event", "chapter_order": 77, "note": "魔教四宗头目齐聚青云山下，玉阳子任主事人，即将对青云门发难"}
+{"ref_local_id": "claim-local-37", "kind": "claim", "chapter_order": 77, "note": "三妙仙子当面索问合欢铃，魔教内部裂隙"}
+{"ref_local_id": "claim-local-42", "kind": "claim", "chapter_order": 77, "note": "魔教四大奇宝体系（合欢铃/伏龙鼎/噬血珠/万毒归宗袋）"}
+{"ref_local_id": "claim-local-51", "kind": "claim", "chapter_order": 77, "note": "天音寺神僧与焚香谷前辈已至玉清殿，公审阵容成型"}
+{"ref_local_id": "claim-local-54", "kind": "claim", "chapter_order": 77, "note": "王二叔尾随张小凡进入玉清殿，为后文埋点"}
+{"ref_type": "event", "local_id": "ev-local-1", "chapter_order": 78, "note": "玉清殿公审开始，张小凡当众承认大梵般若与噬血珠，审问因道玄退殿暂止"}
+{"ref_type": "event", "local_id": "ev-local-2", "chapter_order": 78, "note": "陆雪琪、林惊羽、曾书书、齐昊、田灵儿跪殿以性命担保，各脉首座惊愕"}
+{"ref_type": "event", "local_id": "ev-local-3", "chapter_order": 78, "note": "水月大师殿外谈话，暗示近百年前类似案例且为道玄最痛恨之人"}
+{"ref_type": "claim", "local_id": "claim-local-7", "chapter_order": 78, "note": "张小凡当众承认所施为大梵般若"}
+{"ref_type": "claim", "local_id": "claim-local-10", "chapter_order": 78, "note": "张小凡当众承认烧火棍上有噬血珠"}
+{"ref_type": "claim", "local_id": "claim-local-14", "chapter_order": 78, "note": "叙述交代普智以佛门真法禁制噬血珠，为张小凡守秘动机提供依据"}
+{"ref_type": "claim", "local_id": "claim-local-41", "chapter_order": 78, "note": "水月提及百年前大错之人，身份未明，牵动道玄旧怨"}
+{"local_ref": "ev-local-4", "ref_type": "event", "chapter_order": 79, "note": "本stage核心反转：苍松道人刺伤道玄并公开叛门、揭出万剑一旧案。"}
+{"local_ref": "ev-local-5", "ref_type": "event", "chapter_order": 79, "note": "魔教攻上通天峰，苍松承认勾结魔教，势力冲突升级。"}
+{"local_ref": "claim-local-47", "ref_type": "claim", "chapter_order": 79, "note": "苍松当面承认勾结魔教（reported），为叛门定性的关键陈述。"}
+{"local_ref": "claim-local-26", "ref_type": "claim", "chapter_order": 79, "note": "苍松自称百年前见万剑一下场后即已'疯了'，交代其报仇动机来源。"}
+{"local_ref": "claim-local-33", "ref_type": "claim", "chapter_order": 79, "note": "苍松指水月当年私下苦恋万剑一（reported），涉及人物关系旧史。"}
+{"local_ref": "claim-local-51", "ref_type": "claim", "chapter_order": 79, "note": "张小凡怀疑苍松即当年黑衣人（inferred），后续身份线索入口。"}
+{"local_ref": "claim-local-35", "ref_type": "claim", "chapter_order": 79, "note": "田不易当众承认万剑一对己恩深意重，人物态度转折点。"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 80, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "note": "苍松叛门事实在玉清殿公开落实"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 80, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "note": "魔教四大宗主正面攻入青云门核心"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 80, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "note": "假扮焚香谷之计由苍松自述，鬼王策划"}
+{"kind": "claim", "local_id": "claim-local-31", "chapter_order": 80, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "note": "张小凡对草庙村凶手指向苍松的推断，主角关键转折"}
+{"kind": "claim", "local_id": "claim-local-42", "chapter_order": 80, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-005"}, "note": "张小凡戾气发作的可视化表征，章末悬念"}
+{"kind": "event", "local_id": "ev-local-3", "note": "祖师祠堂扫地老者执斩龙剑尽诛四名魔教之人的实力展示", "chapter_order": 81}
+{"kind": "event", "local_id": "ev-local-5", "note": "幻月洞府豪光冲天，诛仙出世信号", "chapter_order": 81}
+{"kind": "claim", "local_id": "claim-local-12", "note": "周隐临死指认“你是万……”被打断，身份悬念关键证据", "chapter_order": 81}
+{"kind": "claim", "local_id": "claim-local-19", "note": "道玄已重伤并进入幻月洞府（由林惊羽转述）", "chapter_order": 81}
+{"kind": "event", "ref_or_local_id": "ev-local-7", "chapter": 82, "reason": "诛仙剑阵首次在原文中实战发动，魔教四大宗主带伤突围，本阶段战局决定性节点", "chapter_order": 82}
+{"kind": "event", "ref_or_local_id": "ev-local-8", "chapter": 82, "reason": "道玄真人发动剑阵后昏厥于田不易怀中，掌门状态成为后续悬念", "chapter_order": 82}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter": 82, "reason": "后山黑衣人枯干而死、张小凡血手与暗红眼光、陆雪琪拔剑对峙，主角异状关键证据", "chapter_order": 82}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter": 82, "reason": "叙述文确认鬼王依苍松道人所报设伏，苍松内应事实的硬证据", "chapter_order": 82}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "chapter": 82, "reason": "枯槁老者托林惊羽向道玄传话，隐指其久居祖师祠堂百余年，身份线索引子", "chapter_order": 82}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "chapter": 82, "reason": "水麒麟镇山灵兽威力首次展现，三妙仙子与毒神合力困兽", "chapter_order": 82}
+{"kind": "event", "local_id": "ev-local-8", "note": "草庙村血案真相由法相当众说出，指向天音寺；本 stage 末段核心反转证据", "chapter_order": 83}
+{"kind": "event", "local_id": "ev-local-5", "note": "鬼王宗因碧瑶下落不明折返青云山，为下一阶段冲突埋线", "chapter_order": 83}
+{"kind": "event", "local_id": "ev-local-3", "note": "苍松道人正式与魔教合流，并透露诛仙剑阵威力未尽", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-46", "note": "关键陈述：草庙村凶手出自天音寺", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-45", "note": "关键陈述：普泓命法相说出真相，承认“师弟做了错事”", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-39", "note": "关键陈述：王二叔指认普空为“鬼”“杀人的”", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-14", "note": "关键陈述：诛仙剑阵只发挥一半威力", "chapter_order": 83}
+{"kind": "claim", "local_id": "claim-local-4", "note": "本章青云门与魔教双方伤亡统计的唯一明示数据", "chapter_order": 83}
+{"local_ref": "ev-local-1", "kind": "key_event", "label": "法相当众揭示普智为草庙村血案元凶（stage-005 阶段性收束点）", "chapter_order": 84}
+{"local_ref": "ev-local-6", "kind": "key_event", "label": "碧瑶施痴情咒强撼诛仙主剑、肉身不灭坠亡", "chapter_order": 84}
+{"local_ref": "ev-local-7", "kind": "key_event", "label": "张小凡在鬼王宗醒来，回魂之术失传、黑巫族灭绝信息给出", "chapter_order": 84}
+{"local_ref": "claim-local-1", "kind": "key_statement", "label": "法相指认凶手为三师叔普智大师", "chapter_order": 84}
+{"local_ref": "claim-local-24", "kind": "key_statement", "label": "碧瑶被认出为鬼王宗宗主独生女", "chapter_order": 84}
+{"local_ref": "claim-local-49", "kind": "key_statement", "label": "道玄决意诛杀张小凡，视其为绝世祸胎", "chapter_order": 84}
+{"local_ref": "claim-local-57", "kind": "key_statement", "label": "合欢铃摄魂与黑巫族回魂术信息", "chapter_order": 84}
+{"local_ref": "claim-local-62", "kind": "key_statement", "label": "水月告诫陆雪琪日后与张小凡为不共戴天之敌", "chapter_order": 84}

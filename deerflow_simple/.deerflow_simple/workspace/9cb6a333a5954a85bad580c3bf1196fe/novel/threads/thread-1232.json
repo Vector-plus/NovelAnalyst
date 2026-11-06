@@ -1,0 +1,30 @@
+{
+  "id": "thread-1232",
+  "introduced_at": 1119,
+  "kind": "story_thread",
+  "label": "拓森脱困并以古神之星吞噬强者",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1119,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "threat",
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 1119
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1232-001",
+      "resolution_refs": [],
+      "revealed_at": 1119,
+      "role": "main_conflict",
+      "status": "open",
+      "summary": "拓森自沉睡中苏醒，第四星囚着无极子，第三星内另有骷髅修士可用，并宣称要将黑衣老人化为第五个古星；其是否已完全脱困本章未明确。"
+    }
+  ]
+}

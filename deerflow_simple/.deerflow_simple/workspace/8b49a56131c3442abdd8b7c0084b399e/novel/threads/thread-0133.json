@@ -1,0 +1,30 @@
+{
+  "id": "thread-0133",
+  "introduced_at": 87,
+  "kind": "story_thread",
+  "label": "幽姬对鬼厉的私下关心",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 87,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0133-001",
+      "resolution_refs": [],
+      "revealed_at": 87,
+      "role": "story_thread",
+      "status": "open",
+      "summary": "青龙提醒幽姬离鬼厉远些，幽姬动怒反问后离去，此事未了。"
+    }
+  ]
+}

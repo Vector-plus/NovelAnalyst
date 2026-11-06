@@ -1,0 +1,30 @@
+{
+  "id": "thread-1121",
+  "introduced_at": 1025,
+  "kind": "story_thread",
+  "label": "古神头颅颈部无形之气与斩首者之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1025,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1025,
+          "start": 1025
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1121-001",
+      "resolution_refs": [],
+      "revealed_at": 1025,
+      "role": "introduction",
+      "status": "open",
+      "summary": "王林在八星古神头颅颈部发现二十三枚暗红颗粒，其中无形之气兼含多种气息与无数规则，他判断此为斩下古神头颅之力，且并非青霖所为，来源疑指向天道。"
+    }
+  ]
+}

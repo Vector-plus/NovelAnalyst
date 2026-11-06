@@ -1,0 +1,30 @@
+{
+  "id": "thread-0082",
+  "introduced_at": 49,
+  "kind": "story_thread",
+  "label": "碧瑶追击周一仙并与张小凡重逢",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 49,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0082-001",
+      "resolution_refs": [],
+      "revealed_at": 49,
+      "role": "complication",
+      "status": "ongoing",
+      "summary": "碧瑶追踪周一仙至黑石洞外树林，张小凡出手挡下其白光，双方相遇。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1105",
+  "introduced_at": 1011,
+  "kind": "story_thread",
+  "label": "青霖封印符族圣祖之战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1011,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1011,
+          "start": 1011
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1105-001",
+      "resolution_refs": [],
+      "revealed_at": 1011,
+      "role": "active",
+      "status": "ongoing",
+      "summary": "青霖分神以禁制封印术化解兽骨神通后，连出九印之阵催动葬仙漩涡，魂魄化黑锁锁住符族圣祖并向漩涡拽动，封印尚未见最终结果。"
+    }
+  ]
+}

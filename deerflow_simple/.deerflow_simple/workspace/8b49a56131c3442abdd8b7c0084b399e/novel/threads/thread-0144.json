@@ -1,0 +1,30 @@
+{
+  "id": "thread-0144",
+  "introduced_at": 95,
+  "kind": "story_thread",
+  "label": "瘴气中一闪而没的巨大黑色怪物",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 95,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 95,
+          "start": 95
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0144-001",
+      "resolution_refs": [],
+      "revealed_at": 95,
+      "role": "setup",
+      "status": "open",
+      "summary": "一条体形巨大的黑色事物从瘴气中掠过，连噬魂光圈也挡不住其腥气；鬼厉追击未果，怪物身份与去向未明。"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林以魂为引开启漩涡，离开联盟星域，跨向云海阶段起点", "chapter_order": 1120}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "note": "王林自述或许永远不再回来，离去时的心理与去向锚点", "chapter_order": 1120}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "note": "云海第五阶莫罗大陆与中心黑塔，本阶段主要活动地设定", "chapter_order": 1120}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "云海九阶制度与无方位设定", "chapter_order": 1120}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "莫罗大陆北部丛林被遗弃阵法的蓝色光芒异动，疑似王林到达侧伏笔", "chapter_order": 1120}
+{"buffer_kind": "event", "local_id": "ev-local-3", "chapter_order": 1121, "note": "云海星域归元宗掌门以神识目击王林自联盟星域归来，留下“北部”“白发”遗言，直接引动归元宗全域搜寻，是本 stage 起点关键事件"}
+{"buffer_kind": "event", "local_id": "ev-local-5", "chapter_order": 1121, "note": "王林抵达云海星域莫罗大陆北部丛林，进入本 stage“化名潜伏”现场"}
+{"buffer_kind": "claim", "local_id": "claim-local-17", "chapter_order": 1121, "note": "王林身上环绕无数其一生所杀冤魂，为本 stage 首度由第三方视角呈现的实力/杀气证据"}
+{"buffer_kind": "claim", "local_id": "claim-local-20", "chapter_order": 1121, "note": "归元宗全域搜寻白发修士的命令，构成本 stage 潜在追查压力线"}
+{"buffer_kind": "faction", "candidate_name": "归元宗", "chapter_order": 1121, "note": "新登场势力：莫罗大陆东部环形山脉悬空道观，主宗下分宗，世代分宗大比居末位"}
+{"kind": "key_event", "ref": "ev-local-3", "note": "归元宗在莫罗北部选徒三十一人，王林（曾牛）由此入宗", "chapter_order": 1122}
+{"kind": "key_event", "ref": "ev-local-5", "note": "王林以术法使筑基修士赵玉失魂退去，同时隐匿真实修为于凡人村落", "chapter_order": 1122}
+{"kind": "key_claim", "ref": "claim-local-6", "note": "王林躲避拓森、认为星空无处可藏的核心动因", "chapter_order": 1122}
+{"kind": "key_claim", "ref": "claim-local-14", "note": "化名“曾牛”首次出现在归元宗新收弟子名单中", "chapter_order": 1122}
+{"kind": "faction_move", "ref": "claim-local-13", "note": "归元宗四大长老开始分徒，其中吕烟菲为唯一女性长老", "chapter_order": 1122}
+{"kind": "event", "local_id": "ev-local-2", "note": "吕烟菲拒绝卢迪双修的表态，为本阶段归元宗线起点证据", "chapter_order": 1123}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林分离本尊、本尊沉入莫罗大陆吸收血晶，本尊伤势与三损七劫线索", "chapter_order": 1123}
+{"kind": "claim", "local_id": "claim-local-22", "note": "王林化名“曾牛”在归元宗潜伏的关键指称", "chapter_order": 1123}
+{"kind": "claim", "local_id": "claim-local-30", "note": "古神三损七劫与第一损提前的规则性陈述（据涂司记忆）", "chapter_order": 1123}
+{"kind": "claim", "local_id": "claim-local-34", "note": "度第一损需古神心血的猜测，为后续古神之地行动提供动因线索", "chapter_order": 1123}
+{"kind": "key_event_ref", "local_id": "ev-local-3", "reason": "吕烟菲首次向王林披露归元宗内情与紫道宗威胁，为云海星域潜伏期的关键情报与人物线起点", "chapter_order": 1124}
+{"kind": "key_claim_ref", "local_id": "claim-local-5", "reason": "王林以「曾牛」之名示人，涉及化名潜伏的身份线索", "chapter_order": 1124}
+{"kind": "key_claim_ref", "local_id": "claim-local-21", "reason": "王林推想云海星域存在助问鼎乃至助悟意境的丹药，指向其在本阶段的动机", "chapter_order": 1124}
+{"kind": "key_claim_ref", "local_id": "claim-local-25", "reason": "王林首次在孙芸面前出手干预（一声「定」），可能改变其隐藏身份状态", "chapter_order": 1124}
+{"record_type": "event", "ref_or_local_id": "ev-local-3", "note": "王林首次以一指入他人心神灭凶兽精魂并赠感悟，孙芸由此打开阳实之门", "chapter_order": 1125}
+{"record_type": "event", "ref_or_local_id": "ev-local-6", "note": "新反派线索：自称「本少宗」的紫袍青年与其护道者宋叔，明确以吕烟菲与归元宗为目标", "chapter_order": 1125}
+{"record_type": "claim", "ref_or_local_id": "claim-local-18", "note": "关键线索：「北部……白发……」为师祖归墟前择灵神通后所言，与王林白发形象形成呼应", "chapter_order": 1125}
+{"record_type": "claim", "ref_or_local_id": "claim-local-14", "note": "设定要点：云海星域灵兽精魂可入丹，助修士得天地感悟", "chapter_order": 1125}
+{"buffer_type": "event", "local_id": "ev-local-4", "chapter_order": 1126, "note": "stage-025 首次出现的强敌入侵线索：老者右手紫风破开莫罗大陆黑塔防护，百丈蝌蚪状灵兽侵入"}
+{"buffer_type": "event", "local_id": "ev-local-3", "chapter_order": 1126, "note": "王林确认真身实力（对窥涅级灵兽视若易杀）与炼丹提修目标，并接触归元宗老祖传承三物"}
+{"buffer_type": "identity_link", "local_id": "identity-link-1", "chapter_order": 1126, "note": "曾牛(char-0736) 与 王林(char-0001) 在本章叙述层被指为同一人，待确认合并"}
+{"buffer_type": "thread", "local_id": "thread-孙芸追查白衣人影", "chapter_order": 1126, "note": "孙芸对白衣白发一指身影的执念持续升温，调查无果，身份谜团仍未解"}
+{"kind": "event", "local_id": "ev-local-1", "note": "紫道宗入侵归元宗的开端事件", "chapter_order": 1127}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林瞬杀净涅中期宋五德，首次在本卷展示杀戮之气+唤雨+定+次空涅剑连招", "chapter_order": 1127}
+{"kind": "event", "local_id": "ev-local-5", "note": "彩虹下白发身影入吕烟菲眼中，可作为后续观感线索", "chapter_order": 1127}
+{"kind": "claim", "local_id": "claim-local-11", "note": "吕烟菲对卢迪的态度陈述，待后续身份揭示", "chapter_order": 1127}
+{"kind": "claim", "local_id": "claim-local-17", "note": "宋五德自报紫道宗门号与姓名", "chapter_order": 1127}
+{"kind": "claim", "local_id": "claim-local-19", "note": "宋五德净涅中期修为的等级标定", "chapter_order": 1127}
+{"local_id": "ev-local-1", "type": "event", "note": "王林指杀紫道宗少宗主卢迪，紫道宗复仇线由此开启", "chapter_order": 1128}
+{"local_id": "ev-local-4", "type": "event", "note": "引入紫色大陆宗主与虎骨魂刀线索，与章首事件隔空呼应", "chapter_order": 1128}
+{"local_id": "claim-local-15", "type": "claim", "note": "叙述集中列举王林多重身份（雷仙/朱雀圣宗之主/清水仙君师弟等），为身份认知关键证据", "chapter_order": 1128}
+{"local_id": "claim-local-22", "type": "claim", "note": "吕烟菲销毁古老画轴，动机未明，可作为后续解密入口", "chapter_order": 1128}
+{"local_id": "claim-local-19", "type": "claim", "note": "归元宗内三十一个凡人的观察线索，与王林化名潜伏疑有关联", "chapter_order": 1128}
+{"kind": "event", "local_id": "ev-local-1", "label": "卢迪残魂传死讯至紫道宗宗主", "chapter_order": 1129, "note": "紫道宗线索起点"}
+{"kind": "event", "local_id": "ev-local-2", "label": "卢云从定下陪葬之意并因天阴幡暴怒", "chapter_order": 1129, "note": "对吕烟菲与凶手的威胁"}
+{"kind": "claim", "local_id": "claim-local-11", "label": "卢迪欲取紫云海天阴幡封魂喂养阴仙", "chapter_order": 1129}
+{"kind": "claim", "local_id": "claim-local-23", "label": "王林决定以吕子浩身份在云海星域立根", "chapter_order": 1129}
+{"kind": "claim", "local_id": "claim-local-32", "label": "金色小旗中现极阴气息", "chapter_order": 1129}
+{"kind": "claim", "local_id": "claim-local-34", "label": "天逆只缺极阴即可第二次圆满", "chapter_order": 1129}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "stage_id": "stage-025", "chapter_order": 1130, "note": "王林处置卢迪遗留的极阴之魂，并指向紫道宗线索"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "stage_id": "stage-025", "chapter_order": 1130, "note": "王林在云海星域的首次炼丹尝试失败（丹炸被控）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "stage_id": "stage-025", "chapter_order": 1130, "note": "归元宗仅三株雾中花干花在李师叔处（经孙芸转述）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-9", "stage_id": "stage-025", "chapter_order": 1130, "note": "燃香与当年云海修士迷惑蚊兽之物一致，涉及四圣宗旧事"}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "stage_id": "stage-025", "chapter_order": 1130, "note": "孙芸对曾牛身份的判断（未被承认）"}
+{"target_stage": "stage-025", "entry_type": "event", "local_id": "ev-local-1", "chapter_order": 1131, "note": "王林（对外称曾牛）以孙芸一院药草炼丹十六次，方成一枚三阶丹药后离场"}
+{"target_stage": "stage-025", "entry_type": "event", "local_id": "ev-local-2", "chapter_order": 1131, "note": "王林离开莫罗大陆，经玉简星图定向飞往云海星域的蛮荒大陆"}
+{"target_stage": "stage-025", "entry_type": "event", "local_id": "ev-local-3", "chapter_order": 1131, "note": "王林首次抵达云海蛮荒大陆，蚊兽群剿杀黑色猿猴凶兽并收取兽魂（与孙芸离魂丹兽魂同形）"}
+{"target_stage": "stage-025", "entry_type": "claim", "local_id": "claim-local-15", "chapter_order": 1131, "note": "云海星雾环境下神识受限：王林不到千丈，千丈唯净涅可做到（能力对照）"}
+{"target_stage": "stage-025", "entry_type": "identity_candidate", "local_id": "identity_link_candidates:0", "chapter_order": 1131, "note": "曾牛与王林疑为同一人，待后续章节明示后合并"}
+{"kind": "event", "ref": "ev-local-4", "note": "王林在开猿大陆收服五阶巅峰黑猿为灵兽，第八阶段内首个灵兽收获节点", "chapter_order": 1132}
+{"kind": "event", "ref": "ev-local-3", "note": "王林由黑衣老人止拓森一臂之势悟出「操控天地元力」的掌法，为其后期主战神通的能力转折点", "chapter_order": 1132}
+{"kind": "claim", "ref": "claim-local-19", "note": "王林对六阶凶兽「凝魂成神」认知，来源于玉简记载", "chapter_order": 1132}
+{"kind": "claim", "ref": "claim-local-1", "note": "本阶段活动地域名为「开猿」大陆", "chapter_order": 1132}
+{"local_id": "ev-local-1", "kind": "event", "note": "六阶星域众修士大举进入云海五阶星域，目标为蛮荒大陆；本章首次点明多星域势力动向", "chapter_order": 1133}
+{"local_id": "ev-local-3", "kind": "event", "note": "施洛刑（华清宗大弟子，净涅后期）被五毒门毒婆子死魂阵困于山谷", "chapter_order": 1133}
+{"local_id": "claim-local-24", "kind": "claim", "note": "关键陈述（reported）：争夺物为八阶星域破天宗玉简与涅空丹丹方", "chapter_order": 1133}
+{"local_id": "claim-local-19", "kind": "claim", "note": "施洛刑在三阶星域取物后行踪暴露、被多方围攻的来历", "chapter_order": 1133}
+{"kind": "event", "local_id": "ev-local-2", "note": "阶段内首次出现五毒门骷髅阵与干瘦老妇人毒修，王林误入争斗并交手", "chapter_order": 1134}
+{"kind": "claim", "local_id": "claim-local-3", "note": "吕烟菲给予王林身份、极阴线索需紫道宗解答（跨章线索，后续可复用）", "chapter_order": 1134}
+{"kind": "claim", "local_id": "claim-local-23", "note": "老妇人净涅中期、毒攻强于宋五德——可用于本阶段战力标尺", "chapter_order": 1134}
+{"kind": "claim", "local_id": "claim-local-31", "note": "老妇人争夺玉简与涅空丹方，揭示本阶段争夺标的", "chapter_order": 1134}
+{"type": "event", "local_id": "ev-local-1", "chapter_order": 1135, "note": "毒婆子被王林击杀并收走元神，夺玉简丹方的直接威胁解除"}
+{"type": "claim", "local_id": "claim-local-7", "chapter_order": 1135, "note": "王林杀毒婆子的方式与结果（长枪爆体、元神被收）"}
+{"type": "claim", "local_id": "claim-local-13", "chapter_order": 1135, "note": "王林封印八骷髅法器但未取走，显示其对山谷的谨慎处置"}
+{"type": "event", "local_id": "ev-local-4", "chapter_order": 1135, "note": "山中谷内出现中毒的净涅后期中年男子，主动提出以玉简丹方换取痛快之死"}
+{"type": "claim", "local_id": "claim-local-21", "chapter_order": 1135, "note": "“五毒门毒婆子”这一宗派归属出自中年男子之口，为后续核实线索"}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 1136, "reason": "本阶段关键所得：八阶破天宗玉简与涅空丹丹方（claim-local-13 / claim-local-14），为后续追杀与夺宝动因"}
+{"local_id": "claim-local-14", "kind": "claim", "chapter_order": 1136, "reason": "丹方效果的原文明示文本，属高价值设定依据"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 1136, "reason": "王林嫁祸毒婆子、隐匿行踪的处置方式，影响后续宗派追查方向"}
+{"local_id": "ev-local-5", "kind": "event", "chapter_order": 1136, "reason": "返程途中遭长虹逼近，构成本阶段下一场冲突的接口"}
+{"local_id": "ev-local-6", "kind": "event", "note": "施洛刑身亡消息经玉简传至钱贵钟，为本章核心转折点", "chapter_order": 1137}
+{"local_id": "ev-local-7", "kind": "event", "note": "王林被华清宗强带往蛮荒大陆，主角与华清宗冲突的起点", "chapter_order": 1137}
+{"local_id": "ev-local-1", "kind": "event", "note": "破天宗三物与兽骨丹方失踪旧事，本阶段关键背景设定", "chapter_order": 1137}
+{"local_id": "claim-local-10", "kind": "claim", "note": "施洛刑取得兽骨碎片与玉简后遭五毒门追杀，物件下落待追", "chapter_order": 1137}
+{"local_id": "claim-local-14", "kind": "claim", "note": "王林当前对外显修为为窥涅中期，元力常时外散", "chapter_order": 1137}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林与华清宗正面决裂，一次性斩杀十七名随行修士，为stage-025内重要的势力冲突升级点。", "chapter_order": 1138}
+{"kind": "event", "local_id": "ev-local-2", "note": "次空涅铁剑首次在云海星域外人面前暴露，钱贵钟认出并起贪欲，为杀劫来源之一。", "chapter_order": 1138}
+{"kind": "claim", "local_id": "claim-local-21", "note": "虚空子与天运子分身融合之魂作为王林杀手锏再次现世。", "chapter_order": 1138}
+{"kind": "claim", "local_id": "claim-local-24", "note": "外部角色（碎涅修士钱贵钟）对铁剑级别的判定为「次空涅」，属他人视角的 reported 认定。", "chapter_order": 1138}

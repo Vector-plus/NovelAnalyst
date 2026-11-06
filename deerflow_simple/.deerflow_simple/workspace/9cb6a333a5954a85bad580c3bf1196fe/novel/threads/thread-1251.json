@@ -1,0 +1,30 @@
+{
+  "id": "thread-1251",
+  "introduced_at": 1128,
+  "kind": "story_thread",
+  "label": "归元宗追查白发前辈身份未果",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1128,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1128,
+          "start": 1128
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1251-001",
+      "resolution_refs": [],
+      "revealed_at": 1128,
+      "role": "new",
+      "status": "open",
+      "summary": "四大长老以神念推测白发前辈即其师尊归墟前所说『北部、白发』之人；长老观察宗内三十一个凡人无所得；吕烟菲主张查之无用、顺其自然，并毁掉一副古老画轴。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0038",
+  "introduced_at": 21,
+  "kind": "story_thread",
+  "label": "七脉会武期间通天峰拥挤，张小凡本章轮空",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 21,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "event",
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0038-001",
+      "resolution_refs": [],
+      "revealed_at": 21,
+      "role": "developing",
+      "status": "active",
+      "summary": ""
+    }
+  ]
+}

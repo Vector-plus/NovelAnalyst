@@ -1,0 +1,30 @@
+{
+  "id": "thread-0035",
+  "introduced_at": 20,
+  "kind": "story_thread",
+  "label": "空桑山万蝠古窟魔教异动与噬血珠传闻；青云门将派七脉会武前四名弟子前往",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 20,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 20
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0035-001",
+      "resolution_refs": [],
+      "revealed_at": 20,
+      "role": "main",
+      "status": "open",
+      "summary": "萧逸才回报万蝠古窟附近有魔教活动、炼血堂抬头且有藏宝密洞传闻；道玄担忧噬血珠，决定派本届七脉会武前四名弟子前往，焚香谷与天音寺亦将派弟子。"
+    }
+  ]
+}

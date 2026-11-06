@@ -1,0 +1,30 @@
+{
+  "id": "thread-0162",
+  "introduced_at": 104,
+  "kind": "story_thread",
+  "label": "鬼厉与陆雪琪宝库内对峙",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 104,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0162-001",
+      "resolution_refs": [],
+      "revealed_at": 104,
+      "role": "unresolved",
+      "status": "advanced",
+      "summary": ""
+    }
+  ]
+}

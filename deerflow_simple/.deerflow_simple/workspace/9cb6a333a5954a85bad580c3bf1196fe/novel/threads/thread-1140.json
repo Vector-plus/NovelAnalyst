@@ -1,0 +1,30 @@
+{
+  "id": "thread-1140",
+  "introduced_at": 1040,
+  "kind": "story_thread",
+  "label": "虚空子与王林的仇隙",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1040,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1040,
+          "start": 1040
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1140-001",
+      "resolution_refs": [],
+      "revealed_at": 1040,
+      "role": "escalation",
+      "status": "open",
+      "summary": "虚空子在殿门口转身冷冷盯着王林欲出手，未及动手即被火龙吞噬；粉衣女子亦当面称虚空子与王林有仇。"
+    }
+  ]
+}

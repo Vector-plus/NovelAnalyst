@@ -1,0 +1,30 @@
+{
+  "id": "thread-0215",
+  "introduced_at": 137,
+  "kind": "story_thread",
+  "label": "以招魂引救碧瑶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0215-001",
+      "resolution_refs": [],
+      "revealed_at": 137,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "大巫师确认碧瑶残魂在合欢铃中，首次试探被金铃反噬重伤；他决定布下招魂引法阵，只留鬼王与鬼厉在寒冰石室。"
+    }
+  ]
+}

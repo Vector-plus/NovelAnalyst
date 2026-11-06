@@ -1,0 +1,30 @@
+{
+  "id": "thread-0065",
+  "introduced_at": 40,
+  "kind": "story_thread",
+  "label": "陆雪琪余毒未清、重伤无力",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 40,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "condition",
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0065-001",
+      "resolution_refs": [],
+      "revealed_at": 40,
+      "role": "setup",
+      "status": "active",
+      "summary": "陆雪琪虽醒转，但体内酸软无力、头昏恶心，判断余毒未清，几无回手之力，需张小凡扶持。"
+    }
+  ]
+}

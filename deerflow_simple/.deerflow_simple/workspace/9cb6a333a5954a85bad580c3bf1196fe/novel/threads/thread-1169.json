@@ -1,0 +1,30 @@
+{
+  "id": "thread-1169",
+  "introduced_at": 1072,
+  "kind": "story_thread",
+  "label": "任涛对新圣皇之位的不甘",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1072,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1072,
+          "start": 1072
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1169-001",
+      "resolution_refs": [],
+      "revealed_at": 1072,
+      "role": "antagonist",
+      "status": "open",
+      "summary": "原圣皇培养者之一任涛不认九玄第一变，试图拉拢廖云、凤姗；二人拒绝后，他压下恐慌、神色更沉，态度未明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0210",
+  "introduced_at": 136,
+  "kind": "story_thread",
+  "label": "救活碧瑶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 136,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0210-001",
+      "resolution_refs": [],
+      "revealed_at": 136,
+      "role": "main",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

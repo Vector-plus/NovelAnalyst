@@ -1,0 +1,30 @@
+{
+  "id": "thread-1247",
+  "introduced_at": 1127,
+  "kind": "story_thread",
+  "label": "紫道宗入侵归元宗，归元宗存亡危机",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1127,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_conflict",
+      "chapter_ranges": [
+        {
+          "end": 1127,
+          "start": 1127
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1247-001",
+      "resolution_refs": [],
+      "revealed_at": 1127,
+      "role": "setup",
+      "status": "active",
+      "summary": "紫道宗少宗与宋五德驾黑色灵兽闯入莫罗大陆，宣称归元宗归其所有；归元宗四大长老率弟子西出迎敌。"
+    }
+  ]
+}

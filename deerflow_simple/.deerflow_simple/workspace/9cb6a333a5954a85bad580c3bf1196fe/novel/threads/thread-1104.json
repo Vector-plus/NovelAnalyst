@@ -1,0 +1,30 @@
+{
+  "id": "thread-1104",
+  "introduced_at": 1010,
+  "kind": "story_thread",
+  "label": "朱雀圣皇伤势与「时间不多」",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1010,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "hidden_state",
+      "chapter_ranges": [
+        {
+          "end": 1010,
+          "start": 1010
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1104-001",
+      "resolution_refs": [],
+      "revealed_at": 1010,
+      "role": "势力内情",
+      "status": "open",
+      "summary": "传令神念自述当年伤势越加严重、时间不多，将此刻觉醒的王林视为朱雀圣宗希望，暗示圣宗内部最高层存续危机。"
+    }
+  ]
+}

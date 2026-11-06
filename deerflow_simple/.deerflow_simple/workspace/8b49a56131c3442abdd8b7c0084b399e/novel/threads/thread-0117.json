@@ -1,0 +1,30 @@
+{
+  "id": "thread-0117",
+  "introduced_at": 78,
+  "kind": "story_thread",
+  "label": "张小凡是否说出普智与大梵般若的师承",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 78,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "secret",
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0117-001",
+      "resolution_refs": [],
+      "revealed_at": 78,
+      "role": "withheld",
+      "status": "open",
+      "summary": "张小凡承认身怀大梵般若与噬血珠，却始终不肯说出普智，审问因此僵住并被暂止。"
+    }
+  ]
+}

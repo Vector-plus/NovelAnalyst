@@ -1,0 +1,30 @@
+{
+  "id": "thread-1086",
+  "introduced_at": 1001,
+  "kind": "story_thread",
+  "label": "王林在瓶中界脱身、寻找同伴并夺取大漠孤烟图",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1001,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 1001,
+          "start": 1001
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1086-001",
+      "resolution_refs": [],
+      "revealed_at": 1001,
+      "role": "source",
+      "status": "open",
+      "summary": "冥海称此界为瓶中界、共有九十九界且同伴分处不同之处，并言大漠孤烟图被封界内、需杀他方可取；王林当前元力将尽、符文已碎，以射神车应对焚天。"
+    }
+  ]
+}

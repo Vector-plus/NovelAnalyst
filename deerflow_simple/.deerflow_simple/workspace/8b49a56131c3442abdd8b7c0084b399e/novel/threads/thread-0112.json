@@ -1,0 +1,30 @@
+{
+  "id": "thread-0112",
+  "introduced_at": 70,
+  "kind": "story_thread",
+  "label": "夔牛出世与「其余三只灵兽」的计划",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 70,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0112-001",
+      "resolution_refs": [],
+      "revealed_at": 70,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

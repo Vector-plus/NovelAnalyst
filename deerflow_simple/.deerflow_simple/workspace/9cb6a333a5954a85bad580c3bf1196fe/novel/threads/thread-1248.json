@@ -1,0 +1,30 @@
+{
+  "id": "thread-1248",
+  "introduced_at": 1127,
+  "kind": "story_thread",
+  "label": "宋五德之死与紫衣少宗的追杀",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1127,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1127,
+          "start": 1127
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1248-001",
+      "resolution_refs": [],
+      "revealed_at": 1127,
+      "role": "development",
+      "status": "active",
+      "summary": "宋五德被王林瞬杀，紫衣少宗乘黑色灵兽逃走，王林追击，其结果本章未写。"
+    }
+  ]
+}

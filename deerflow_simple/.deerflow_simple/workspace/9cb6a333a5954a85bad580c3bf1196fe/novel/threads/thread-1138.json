@@ -1,0 +1,30 @@
+{
+  "id": "thread-1138",
+  "introduced_at": 1040,
+  "kind": "story_thread",
+  "label": "村姑美妇昏迷并被粉衣女子带入大殿方向",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1040,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1040,
+          "start": 1040
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1138-001",
+      "resolution_refs": [],
+      "revealed_at": 1040,
+      "role": "setup",
+      "status": "open",
+      "summary": "村姑美妇被岩浆手臂拖入岩浆后未死，全身红斑、体内充斥火焰之力、始终昏迷；粉衣女子以气泡携其抵达殿外，与走近的王林正面对上。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0116",
+  "introduced_at": 78,
+  "kind": "story_thread",
+  "label": "焚香谷至宝玄火鉴的下落与追索",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 78,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact",
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0116-001",
+      "resolution_refs": [],
+      "revealed_at": 78,
+      "role": "target",
+      "status": "open",
+      "summary": "上官策在玉清殿公审上公开称张小凡多半与焚香谷无上神器玄火鉴脱不了关系，并声明焚香谷定要找回此宝；道玄答应给交代。"
+    }
+  ]
+}

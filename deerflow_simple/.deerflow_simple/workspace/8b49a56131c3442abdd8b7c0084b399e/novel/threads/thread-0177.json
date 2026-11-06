@@ -1,0 +1,30 @@
+{
+  "id": "thread-0177",
+  "introduced_at": 116,
+  "kind": "story_thread",
+  "label": "九尾天狐脱困后的去向与玄火鉴归属",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 116,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0177-001",
+      "resolution_refs": [],
+      "revealed_at": 116,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "九尾天狐获自由后表示暂不报仇，只想过舒心日子，并问得小六自尽之地；玄火鉴拒收后仍留在鬼厉手中。"
+    }
+  ]
+}

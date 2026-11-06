@@ -1,6 +1,35 @@
 {
+  "current": {
+    "current_summary": "天音寺四大神僧之一，为佛道互参求长生而携噬血珠访青云门受阻；草庙遭青云门手法伏击，中七尾蜈蚣剧毒，斗法中指认袭击者出自青云门下，后传大梵般若、赠珠于张小凡并将之击昏，本阶段未再交代其结局。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0008/index.json",
+          "record_id": "char-0008"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 16,
+      "summary": "草庙斗法与传功赠珠（第1—16章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0008/stages/stage-001.md",
+        "record_id": "doc-char-0008-stage-001"
+      },
+      "title": "草庙斗法与传功赠珠"
+    }
+  ],
   "id": "char-0008",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +38,7 @@
   "label": "普智",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 2,
+  "revision": 3,
+  "safe_through": 16,
   "schema_version": "2.0"
 }

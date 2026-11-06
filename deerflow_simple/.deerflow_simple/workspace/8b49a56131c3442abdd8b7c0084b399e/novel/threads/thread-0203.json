@@ -1,0 +1,30 @@
+{
+  "id": "thread-0203",
+  "introduced_at": 134,
+  "kind": "story_thread",
+  "label": "为碧瑶还魂：鬼厉携苗族大巫师归来",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 134,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0203-001",
+      "resolution_refs": [],
+      "revealed_at": 134,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "青龙报称鬼厉已找到懂还魂异术的苗族大巫师并带其步行赶回，二人皆受重伤，鬼王闻讯大喜；到达时间未明。"
+    }
+  ]
+}

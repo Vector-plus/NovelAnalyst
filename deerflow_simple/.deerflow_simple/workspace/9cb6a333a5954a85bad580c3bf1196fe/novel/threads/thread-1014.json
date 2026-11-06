@@ -1,0 +1,30 @@
+{
+  "id": "thread-1014",
+  "introduced_at": 956,
+  "kind": "story_thread",
+  "label": "王林与天运子算局的对峙",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 956,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 956,
+          "start": 956
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1014-001",
+      "resolution_refs": [],
+      "revealed_at": 956,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "王林认定灰衣天运子算不到天逆珠可吸极阳，自认此局可破，但本章内尚未见他实际吸收极阳或脱出天运星。"
+    }
+  ]
+}

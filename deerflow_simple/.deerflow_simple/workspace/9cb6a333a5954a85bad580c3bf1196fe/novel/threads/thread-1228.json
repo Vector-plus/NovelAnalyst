@@ -1,0 +1,30 @@
+{
+  "id": "thread-1228",
+  "introduced_at": 1111,
+  "kind": "story_thread",
+  "label": "第二具分身重返古神之地漩涡入口",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1111,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_arc",
+      "chapter_ranges": [
+        {
+          "end": 1111,
+          "start": 1111
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1228-001",
+      "resolution_refs": [],
+      "revealed_at": 1111,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林以碎石重塑第二具分身并再入古神之地，操控飞剑进入漩涡后遭遇沙土风暴，探索尚未展开。"
+    }
+  ]
+}

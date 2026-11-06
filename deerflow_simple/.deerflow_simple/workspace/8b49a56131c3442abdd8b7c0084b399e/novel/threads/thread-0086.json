@@ -1,0 +1,30 @@
+{
+  "id": "thread-0086",
+  "introduced_at": 54,
+  "kind": "story_thread",
+  "label": "焚香谷追索玄火神器与六尾魔狐下落",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 54,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0086-001",
+      "resolution_refs": [],
+      "revealed_at": 54,
+      "role": "major",
+      "status": "developing",
+      "summary": "李洵与燕虹深入妖狐巢穴下的火山口深渊，李洵讲述三百年前玄火神器被妖狐窃去、上官师叔以九寒凝冰刺重创六尾魔狐的旧事，二人以神器归位、妖魔伏诛为目标继续下潜。"
+    }
+  ]
+}

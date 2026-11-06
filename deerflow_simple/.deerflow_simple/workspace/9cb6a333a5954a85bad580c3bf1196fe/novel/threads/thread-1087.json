@@ -1,0 +1,30 @@
+{
+  "id": "thread-1087",
+  "introduced_at": 1001,
+  "kind": "story_thread",
+  "label": "冥海身份（瓶中界灵）与仙帝、青霖的关联",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1001,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1001,
+          "start": 1001
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1087-001",
+      "resolution_refs": [],
+      "revealed_at": 1001,
+      "role": "source",
+      "status": "open",
+      "summary": "冥海自称瓶中界灵、持方竹与焚天；文中称焚天创出者为青霖，仙帝为瓶中界之主，三者关系本章未明示。"
+    }
+  ]
+}

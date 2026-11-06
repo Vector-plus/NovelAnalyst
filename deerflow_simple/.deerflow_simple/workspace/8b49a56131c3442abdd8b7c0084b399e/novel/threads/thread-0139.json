@@ -1,0 +1,30 @@
+{
+  "id": "thread-0139",
+  "introduced_at": 90,
+  "kind": "story_thread",
+  "label": "金瓶儿交给小环的「那件东西」与三年前东海旧怨",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 90,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0139-001",
+      "resolution_refs": [],
+      "revealed_at": 90,
+      "role": "introduced",
+      "status": "open",
+      "summary": "金瓶儿临行前确认小环仍带着她给的东西（未说明为何物）；她自称三年前在东海边因周一仙胡言乱语险死，靠小环自损一年阳寿施展收魂奇阵除去附体妖灵才得救。"
+    }
+  ]
+}

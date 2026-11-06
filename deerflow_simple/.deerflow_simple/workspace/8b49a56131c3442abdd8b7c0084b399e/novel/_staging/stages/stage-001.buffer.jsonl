@@ -28,3 +28,55 @@
 {"local_id": "claim-local-33", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "叙述确立七脉会武为青云门一甲子一次的大试，且大竹峰连届惨败，构成宗内评价背景。"}
 {"local_id": "claim-local-27", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "法宝“琥珀朱绫”来源与归属（苏茹成名法宝）经宋大仁之口交代，首次出现御空飞行的仙家手段。"}
 {"local_id": "claim-local-32", "kind": "claim", "chapter_order": 6, "stage_id": "stage-001", "relevance": "medium", "note": "叙述定性大竹峰师徒风格：田不易懒散少管、苏茹好武常教训弟子，影响后续门内互动基调。"}
+{"type": "event", "local_id_or_ref": "ev-local-5", "chapter_order": 7, "note": "普智遗珠异状首次被正面描写（青气＋卍字阻挡），主角决定贴身保留"}
+{"type": "claim", "local_id_or_ref": "claim-local-19", "chapter_order": 7, "note": "苏茹出身小竹峰、与水月大师为师姐妹的关键关系转述"}
+{"type": "claim", "local_id_or_ref": "claim-local-16", "chapter_order": 7, "note": "田不易对张小凡的入门训勉，师徒名分与修行定位确立"}
+{"type": "claim", "local_id_or_ref": "claim-local-21", "chapter_order": 7, "note": "掌门真人召集七脉聚会、水月大师缺席，为青云门内部动向线索"}
+{"kind": "event", "local_id": "ev-local-4", "note": "stage-001 内关键节点：张小凡正式入门修炼（立誓＋太极玄清道第一层）", "chapter_order": 8}
+{"kind": "event", "local_id": "ev-local-2", "note": "首次出现“神剑御雷真诀”，张小凡反应异常，可作为后续伏笔证据", "chapter_order": 8}
+{"kind": "claim", "local_id": "claim-local-33", "note": "青云门与太极玄清道境界体系的首次完整交代（玉清/上清/太清、近千弟子、十余位上清）", "chapter_order": 8}
+{"kind": "claim", "local_id": "claim-local-29", "note": "青云门对入门弟子保密要求的明文设定", "chapter_order": 8}
+{"kind": "event", "chapter_order": 9, "local_id": "ev-local-2", "note": "佛道两套口诀冲突被张小凡察觉，他选择同修"}
+{"kind": "event", "chapter_order": 9, "local_id": "ev-local-3", "note": "田不易探察后失望离去，大竹峰师徒关系出现裂口"}
+{"kind": "event", "chapter_order": 9, "local_id": "ev-local-4", "note": "张小凡三年修成第一层，创青云门最差记录"}
+{"kind": "claim", "chapter_order": 9, "local_id": "claim-local-16", "note": "叙述确认普智所传为大梵般若（佛门至高法道）"}
+{"kind": "claim", "chapter_order": 9, "local_id": "claim-local-33", "note": "大梵般若基础反哺太极玄清道第二层的初次迹象"}
+{"kind": "setting", "chapter_order": 9, "candidate_name": "大梵般若", "note": "张小凡所持佛门功法，与太极玄清道方向相反"}
+{"kind": "setting", "chapter_order": 9, "candidate_name": "太极玄清道", "note": "青云门功法九层/三重境界框架首次系统交代"}
+{"record_kind": "event", "local_id": "ev-local-3", "label": "幽谷碧潭异力致田灵儿昏厥、珠子护住张小凡", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-001"}, "note": "首次出现致人昏厥的区域性异力，以及普智所赠珠子佛家真言衰弱的关键证据", "chapter_order": 10}
+{"record_kind": "claim", "local_id": "claim-local-27", "label": "珠子“卍”字真言较三年前明显衰弱", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-001"}, "note": "涉及普智所赠珠子的状态变化，可作为后续线索", "chapter_order": 10}
+{"record_kind": "claim", "local_id": "claim-local-7", "label": "两年后的七脉会武、田灵儿入太极洞修习", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-001"}, "note": "未来大型比试的时间预告（由田灵儿口述）", "chapter_order": 10}
+{"record_kind": "candidate", "local_id": "灰猴", "label": "灰猴（本章未命名）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-001"}, "note": "本章起与张小凡产生互动，疑似与实体“小灰”相关，待确认", "chapter_order": 10}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 11, "note": "噬血珠破禁并与玄黑短棒融合的关键事件"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 11, "note": "田灵儿唤醒、苏茹带回大竹峰、田不易追问的收束事件"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 11, "note": "噬血珠身份与特性（至凶之物，吸蚀精血）"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 11, "note": "黑心老人与魔教四宝旧事"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 11, "note": "普智托付噬血珠经过，含神秘黑衣人信息"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 11, "note": "两件凶物融合结果，后续关键道具起点"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 11, "note": "张小凡对师姐隐瞒异变，形成信息差"}
+{"kind": "event", "local_id": "ev-local-2", "note": "大竹峰人事变动：杜必书修至玉清境第四层后按门规下山游历，大竹峰弟子序列出现空缺", "chapter_order": 12}
+{"kind": "event", "local_id": "ev-local-6", "note": "张小凡与林惊羽在大竹峰重逢，旧识关系重新连接", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-18", "note": "七脉会武临近（一甲子一次），苏茹、田不易开始督促弟子，为后续比试铺垫", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-3", "note": "噬血珠吸去张小凡近半精血，其身体隐患来源首次在叙述中明示", "chapter_order": 12}
+{"kind": "claim", "local_id": "claim-local-4", "significance": "high", "note": "七脉会武改制规则（六十四人六轮），两年后举行，为后续大试线基础设定", "chapter_order": 13}
+{"kind": "claim", "local_id": "claim-local-8", "significance": "medium", "note": "田不易被迫接受改制，体现大竹峰在青云门中的弱势位置", "chapter_order": 13}
+{"kind": "claim", "local_id": "claim-local-21", "significance": "high", "note": "田不易因林惊羽资质评价怒折扶手，其对大竹峰人才凋零的心态外化为动作", "chapter_order": 13}
+{"kind": "claim", "local_id": "claim-local-26", "significance": "medium", "note": "苍松真人将斩龙剑传给林惊羽，龙首峰对其栽培力度", "chapter_order": 13}
+{"kind": "event", "local_id": "ev-local-5", "significance": "high", "note": "田灵儿与林惊羽当堂斗法，双方首次展示琥珀朱绫（缚神）与斩龙剑（人剑合一）实战", "chapter_order": 13}
+{"kind": "claim", "local_id": "claim-local-11", "significance": "medium", "note": "村中惨案追查多年无进展，悬案在企业线上仍未解", "chapter_order": 13}
+{"kind": "entity_candidate", "candidate_name": "齐昊", "significance": "high", "note": "新登场角色，龙首峰弟子、上次大试榜眼，掌握通报改制与周旋场面的功能", "chapter_order": 13}
+{"ref_local_id": "ev-local-3", "ref_kind": "event", "why": "田不易首次在本阶段完整展示斗法神通（夺剑、绿芒剑气），是主角阵营武力层级的关键证据。", "chapter_order": 14}
+{"ref_local_id": "claim-local-14", "ref_kind": "claim", "why": "赤芒手掌插入剑气夺斩龙剑，能力首次展示，带 anchor。", "chapter_order": 14}
+{"ref_local_id": "claim-local-17", "ref_kind": "claim", "why": "斩龙剑被田不易催动后发出气柱级剑气，法宝与修为压制关系的重要证据。", "chapter_order": 14}
+{"ref_local_id": "claim-local-27", "ref_kind": "claim", "why": "齐昊至少玉清境第八层的判断，构成阶段内的修为参照系。", "chapter_order": 14}
+{"ref_local_id": "claim-local-30", "ref_kind": "claim", "why": "大竹峰式微与田不易心结，人物动机与门派格局的转折点。", "chapter_order": 14}
+{"ref_local_id": "claim-local-37", "ref_kind": "claim", "why": "章末红衣女子现身，跨章续读的悬念钩子。", "chapter_order": 14}
+{"local_id": "buf-local-1", "kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 15, "note": "张小凡获得太极玄清道第三层法诀（私传、须保密），是入门阶段末的关键转折", "salience": "high", "source_anchor": "我自然是要传给你了"}
+{"local_id": "buf-local-2", "kind": "claim", "ref_or_local_id": "claim-local-21", "chapter_order": 15, "note": "黑色短棒＝噬血珠（黑心老人所炼魔教至宝），目前仅旁白揭示，章内无人知晓", "salience": "high", "source_anchor": "已过世的魔教长老黑心老人"}
+{"local_id": "buf-local-3", "kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 15, "note": "大竹峰全员闭关一年半以备战七脉会武，张小凡因负责饮食例外", "salience": "high", "source_anchor": "全部不得外出，闭关修习"}
+{"local_id": "buf-local-4", "kind": "claim", "ref_or_local_id": "claim-local-15", "chapter_order": 15, "note": "田灵儿当面指出张小凡比不上齐昊，构成其心态变化的直接触发语", "salience": "medium", "source_anchor": "那就不用想了罢"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 16, "note": "主角首次出现「驱物」回应，主角能力进展的关键节点"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 16, "note": "七脉会武（九个名额、通天峰）首次由苏茹当面宣布，主角获准随行"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 16, "note": "杜必书归来、骰子法宝与「万师兄」一语，田不易反应异常"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 16, "note": "苏茹提及「万师兄」后田不易一震，疑与旧事相关，待后续章印证"}
+{"kind": "claim", "local_id": "claim-local-37", "chapter_order": 16, "note": "烧火棍首次回应召唤，主角异常与法宝异样线索汇合"}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1142",
+  "introduced_at": 1041,
+  "kind": "story_thread",
+  "label": "第九分身柳眉与朱雀星意外",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1041,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity",
+      "chapter_ranges": [
+        {
+          "end": 1041,
+          "start": 1041
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1142-001",
+      "resolution_refs": [],
+      "revealed_at": 1041,
+      "role": "advance",
+      "status": "opened",
+      "summary": "据粉衣女子记忆，木冰眉的前八个分身皆圆满，唯第九分身「柳眉」在朱雀星出现意外，意外为何粉衣女子并不知情，木冰眉亦因此分身陷入挣扎。"
+    }
+  ]
+}

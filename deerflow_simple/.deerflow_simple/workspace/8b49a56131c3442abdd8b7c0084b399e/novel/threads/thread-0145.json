@@ -1,0 +1,30 @@
+{
+  "id": "thread-0145",
+  "introduced_at": 96,
+  "kind": "story_thread",
+  "label": "长生堂存亡危机",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 96,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0145-001",
+      "resolution_refs": [],
+      "revealed_at": 96,
+      "role": "introduce",
+      "status": "open",
+      "summary": "周一仙推断长生堂门人已消失、金瓶儿与鬼厉、秦无炎在长生堂总堂势力范围内会面，长生堂恐将灭于这三人手中；此为周一仙的推断，原文未确证。"
+    }
+  ]
+}

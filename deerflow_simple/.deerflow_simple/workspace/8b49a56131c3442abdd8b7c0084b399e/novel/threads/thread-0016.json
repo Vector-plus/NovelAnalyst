@@ -1,0 +1,30 @@
+{
+  "id": "thread-0016",
+  "introduced_at": 10,
+  "kind": "story_thread",
+  "label": "幽谷碧潭异力与普智所赠珠子的衰弱",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 10,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 10,
+          "start": 10
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0016-001",
+      "resolution_refs": [],
+      "revealed_at": 10,
+      "role": "reveal",
+      "status": "open",
+      "summary": "幽谷碧潭三丈内人猴皆现恶心眩晕之症，田灵儿因此昏厥；张小凡胸前的深紫珠子散出暖意护住心脉，珠内青气冲撞加剧、佛家“卍”字真言的亮度与大小较三年前明显逊色，异力来源与真言衰弱原因本章未解。"
+    }
+  ]
+}

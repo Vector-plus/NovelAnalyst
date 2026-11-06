@@ -1,0 +1,30 @@
+{
+  "id": "thread-1188",
+  "introduced_at": 1082,
+  "kind": "story_thread",
+  "label": "联盟星域外修士驱引巨蚊兽潜入并欲与长老汇合",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1082,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "external_threat",
+      "chapter_ranges": [
+        {
+          "end": 1082,
+          "start": 1082
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1188-001",
+      "resolution_refs": [],
+      "revealed_at": 1082,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

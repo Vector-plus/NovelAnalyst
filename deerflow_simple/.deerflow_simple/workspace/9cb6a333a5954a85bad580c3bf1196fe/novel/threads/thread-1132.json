@@ -1,0 +1,30 @@
+{
+  "id": "thread-1132",
+  "introduced_at": 1035,
+  "kind": "story_thread",
+  "label": "周佚对虚空子的记恨",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1035,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1035,
+          "start": 1035
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1132-001",
+      "resolution_refs": [],
+      "revealed_at": 1035,
+      "role": "sub",
+      "status": "open",
+      "summary": "周佚因王林被虚空子重伤而牢记此人，宣称有机会便让其付出代价。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0027",
+  "introduced_at": 15,
+  "kind": "story_thread",
+  "label": "七脉会武前的大竹峰闭关",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 15,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0027-001",
+      "resolution_refs": [],
+      "revealed_at": 15,
+      "role": "setup",
+      "status": "open",
+      "summary": "田不易以七脉会武转眼即至为由，令众弟子即时起闭关一年半，张小凡负责饮食、得以例外，为后续其独自修炼私授法诀留出条件。"
+    }
+  ]
+}

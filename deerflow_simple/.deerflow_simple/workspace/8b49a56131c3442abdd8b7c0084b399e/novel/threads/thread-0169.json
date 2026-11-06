@@ -1,0 +1,30 @@
+{
+  "id": "thread-0169",
+  "introduced_at": 113,
+  "kind": "story_thread",
+  "label": "小灰的异变：三眼灵猴",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 113,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0169-001",
+      "resolution_refs": [],
+      "revealed_at": 113,
+      "role": "setup",
+      "status": "open",
+      "summary": "小灰在玄火坛中央奇石上被红光侵蚀后凌空蜕变，眉间暗痕裂开生出第三只眼，被叙述者称为传说中万物之灵的绝世奇兽「三眼灵猴」；其能力与后果尚未展开。"
+    }
+  ]
+}

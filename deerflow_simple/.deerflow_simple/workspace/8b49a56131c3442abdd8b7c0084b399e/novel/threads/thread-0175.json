@@ -1,0 +1,30 @@
+{
+  "id": "thread-0175",
+  "introduced_at": 116,
+  "kind": "story_thread",
+  "label": "救治碧瑶（肉身不灭不死、一魂被合欢铃扣下）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 116,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0175-001",
+      "resolution_refs": [],
+      "revealed_at": 116,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "鬼厉向九尾天狐求问救治之法，九尾天狐答称有办法，具体方法本章未展开。"
+    }
+  ]
+}

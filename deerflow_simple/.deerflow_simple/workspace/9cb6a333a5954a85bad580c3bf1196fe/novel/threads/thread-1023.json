@@ -1,0 +1,30 @@
+{
+  "id": "thread-1023",
+  "introduced_at": 960,
+  "kind": "story_thread",
+  "label": "王林修为突破至窥涅中期巅峰",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 960,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 960,
+          "start": 960
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1023-001",
+      "resolution_refs": [],
+      "revealed_at": 960,
+      "role": "primary",
+      "status": "progressing",
+      "summary": "历经十一天闭关与天逆大门一窥，王林出关时气息达窥涅中期巅峰，自认领悟本源。"
+    }
+  ]
+}

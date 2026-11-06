@@ -1,0 +1,30 @@
+{
+  "id": "thread-0172",
+  "introduced_at": 114,
+  "kind": "story_thread",
+  "label": "“小六”与玄火鉴的下落之谜",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 114,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0172-001",
+      "resolution_refs": [],
+      "revealed_at": 114,
+      "role": "open",
+      "status": "open",
+      "summary": "第三层女子认定玄火鉴不应在鬼厉身上，反复追问“小六”下落；本章未交代小六身份与去向。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "thread-0088",
+  "introduced_at": 55,
+  "kind": "story_thread",
+  "label": "焚香谷追缉狐妖三百年",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 55,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1941"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1956"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0088-001",
+      "resolution_refs": [],
+      "revealed_at": 55,
+      "role": "主要矛盾线",
+      "status": "ongoing",
+      "summary": "六尾白狐自称三百年来被焚香谷追杀；本章焚香谷两名年轻一辈弟子抵达洞外，与张小凡同来的两人一同封住上方出口。"
+    }
+  ]
+}

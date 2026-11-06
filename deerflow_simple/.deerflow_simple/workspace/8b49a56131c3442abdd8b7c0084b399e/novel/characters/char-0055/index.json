@@ -1,0 +1,69 @@
+{
+  "current": {
+    "current_summary": "第78章玉清殿上跪殿以性命为张小凡担保；第82章在后山见其血手与暗红眼光后拔剑对峙；第84章被水月大师告诫日后与张小凡为不共戴天之敌。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0055/index.json",
+          "record_id": "char-0055"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0055/stages/stage-002.md",
+        "record_id": "doc-char-0055-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0055/index.json",
+          "record_id": "char-0055"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 84,
+      "summary": "以性命担保与拔剑相对（第75—84章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0055/stages/stage-005.md",
+        "record_id": "doc-char-0055-stage-005"
+      },
+      "title": "以性命担保与拔剑相对"
+    }
+  ],
+  "id": "char-0055",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 23,
+  "kind": "entity_index",
+  "label": "陆雪琪",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 5,
+  "safe_through": 84,
+  "schema_version": "2.0"
+}

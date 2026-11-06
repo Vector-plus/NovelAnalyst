@@ -1,0 +1,30 @@
+{
+  "id": "thread-1051",
+  "introduced_at": 978,
+  "kind": "story_thread",
+  "label": "紫袍孙姓男子口中「那位」的身份",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 978,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 978,
+          "start": 978
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1051-001",
+      "resolution_refs": [],
+      "revealed_at": 978,
+      "role": "secondary",
+      "status": "open",
+      "summary": "紫袍男子称「那位」也同意了凌天候的邀请，凌天候闻言狂喜；本章未交代「那位」是谁。"
+    }
+  ]
+}

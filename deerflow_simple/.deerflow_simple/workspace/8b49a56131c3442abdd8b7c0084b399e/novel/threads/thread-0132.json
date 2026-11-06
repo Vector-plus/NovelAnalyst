@@ -1,0 +1,30 @@
+{
+  "id": "thread-0132",
+  "introduced_at": 87,
+  "kind": "story_thread",
+  "label": "鬼王与鬼厉的微妙关系",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 87,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0132-001",
+      "resolution_refs": [],
+      "revealed_at": 87,
+      "role": "story_thread",
+      "status": "open",
+      "summary": "青龙称鬼王视鬼厉同己出却可能怀有几分恨意，并多次有人试图离间二人而未成功。"
+    }
+  ]
+}

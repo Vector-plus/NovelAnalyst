@@ -1,0 +1,30 @@
+{
+  "id": "thread-0230",
+  "introduced_at": 144,
+  "kind": "story_thread",
+  "label": "南疆妖兽浩劫与七里峒之围",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 144,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0230-001",
+      "resolution_refs": [],
+      "revealed_at": 144,
+      "role": "setup",
+      "status": "escalating",
+      "summary": "七里峒苗人聚居地被以白骨妖蛇为首的无数妖兽围攻，山林化为地狱；青龙撤民入祭坛并引开妖物，随后森林中妖兽突然尽退、冰冷杀意涌现、妖艳少年现身，局势未解。"
+    }
+  ]
+}

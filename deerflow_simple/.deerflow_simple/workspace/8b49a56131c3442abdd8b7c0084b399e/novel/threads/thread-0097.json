@@ -1,0 +1,30 @@
+{
+  "id": "thread-0097",
+  "introduced_at": 60,
+  "kind": "story_thread",
+  "label": "魔教炼血堂一系被主流派系排挤",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 60,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction",
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0097-001",
+      "resolution_refs": [],
+      "revealed_at": 60,
+      "role": "introduced",
+      "status": "ongoing",
+      "summary": "叙述说明年老大、野狗道人等属魔教炼血堂一系，八百年前在黑心老人手下风光，如今式微并被魔教主流派系排挤；流波山斗法中野狗受困时魔教众人多袖手旁观，最后纷纷散去，只余炼血堂一系。"
+    }
+  ]
+}

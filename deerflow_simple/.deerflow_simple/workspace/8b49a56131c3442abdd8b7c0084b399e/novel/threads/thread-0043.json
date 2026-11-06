@@ -1,0 +1,30 @@
+{
+  "id": "thread-0043",
+  "introduced_at": 27,
+  "kind": "story_thread",
+  "label": "张小凡私自修行“大梵般若”的秘密与背师偷艺罪名",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 27,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "secret",
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0043-001",
+      "resolution_refs": [],
+      "revealed_at": 27,
+      "role": "active",
+      "status": "open",
+      "summary": "田不易逼问张小凡道法来历，张小凡跪请责罚而不吐露功法来源；田不易宣布背师偷艺之罚而未真正追究，此事未揭破。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1152",
+  "introduced_at": 1047,
+  "kind": "story_thread",
+  "label": "王林不再隐藏身份，显露五星古神与朱雀图腾",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1047,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_growth",
+      "chapter_ranges": [
+        {
+          "end": 1047,
+          "start": 1047
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1152-001",
+      "resolution_refs": [],
+      "revealed_at": 1047,
+      "role": "development",
+      "status": "escalating",
+      "summary": "王林在刀芒危机下暴露眉心五星，并化出数百丈古神肉身，朱雀图腾随之放大印于上半身，叙述称此时他既是古神又是朱雀。"
+    }
+  ]
+}

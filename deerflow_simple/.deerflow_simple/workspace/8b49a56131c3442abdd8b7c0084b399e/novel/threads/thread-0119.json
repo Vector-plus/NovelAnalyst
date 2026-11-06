@@ -1,0 +1,30 @@
+{
+  "id": "thread-0119",
+  "introduced_at": 82,
+  "kind": "story_thread",
+  "label": "苍松道人为魔教内应、泄露青云布防",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 82,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 82
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0119-001",
+      "resolution_refs": [],
+      "revealed_at": 82,
+      "role": "main",
+      "status": "escalating",
+      "summary": ""
+    }
+  ]
+}

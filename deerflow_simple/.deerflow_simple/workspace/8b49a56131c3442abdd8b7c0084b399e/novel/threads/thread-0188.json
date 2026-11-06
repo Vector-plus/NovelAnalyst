@@ -1,0 +1,30 @@
+{
+  "id": "thread-0188",
+  "introduced_at": 124,
+  "kind": "story_thread",
+  "label": "还魂异术的消息来源",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 124,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 124,
+          "start": 124
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0188-001",
+      "resolution_refs": [],
+      "revealed_at": 124,
+      "role": "subplot",
+      "status": "open",
+      "summary": "大巫师在施展异术前追问是谁告知鬼厉苗族祭坛大巫师传承此种还魂异术；鬼厉一时无语，只下意识转头看向熟睡的小白，本章未作答。"
+    }
+  ]
+}

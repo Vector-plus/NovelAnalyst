@@ -1,0 +1,30 @@
+{
+  "id": "thread-0042",
+  "introduced_at": 23,
+  "kind": "story_thread",
+  "label": "陆雪琪的道行与法宝展现",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 23,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_arc",
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0042-001",
+      "resolution_refs": [],
+      "revealed_at": 23,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0135",
+  "introduced_at": 89,
+  "kind": "story_thread",
+  "label": "魔教“三公子”格局与四大派阀内斗",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 89,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0135-001",
+      "resolution_refs": [],
+      "revealed_at": 89,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "十年间魔教势盛，万毒门秦无炎（毒公子）、鬼王宗鬼厉（血公子）、合欢派金瓶儿（妙公子）并称三公子，各握本派重权；长生堂年轻一代后继乏人。好事者言三人面对面之日即四大派阀大厮杀开始之时。本章秦无炎与鬼厉已首次当面接触。"
+    }
+  ]
+}

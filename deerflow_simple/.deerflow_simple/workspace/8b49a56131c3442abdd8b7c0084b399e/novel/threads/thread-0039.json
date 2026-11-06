@@ -1,0 +1,30 @@
+{
+  "id": "thread-0039",
+  "introduced_at": 22,
+  "kind": "story_thread",
+  "label": "七脉会武比试进程",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 22,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "event",
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0039-001",
+      "resolution_refs": [],
+      "revealed_at": 22,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "比试已正式开场，共六十三人分四批进行；张小凡抽得一号签、首轮轮空；田灵儿在第一批击败朝阳峰申天斗取得开门红。"
+    }
+  ]
+}

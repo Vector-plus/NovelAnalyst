@@ -1,0 +1,30 @@
+{
+  "id": "thread-0101",
+  "introduced_at": 66,
+  "kind": "story_thread",
+  "label": "张小凡与鬼王父女相识之事外泄风险",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 66,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity_crisis",
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0101-001",
+      "resolution_refs": [],
+      "revealed_at": 66,
+      "role": "escalation",
+      "status": "active",
+      "summary": "萧逸才已知张小凡与鬼王父女相识并私下告知田不易，请其私下处理；田不易准备当面追问张小凡这些日子的行踪。"
+    }
+  ]
+}

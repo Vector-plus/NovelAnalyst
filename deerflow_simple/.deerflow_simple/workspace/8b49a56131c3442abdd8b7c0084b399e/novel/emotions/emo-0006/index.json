@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 84,
+      "summary": "正邪之间的相许与舍身（张小凡—碧瑶）（第75—84章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0006/stages/stage-005.md",
+        "record_id": "doc-emo-0006-stage-005"
+      },
+      "title": "正邪之间的相许与舍身（张小凡—碧瑶）"
+    }
+  ],
+  "id": "emo-0006",
+  "introduced_at": 75,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 84,
+  "schema_version": "2.0"
+}

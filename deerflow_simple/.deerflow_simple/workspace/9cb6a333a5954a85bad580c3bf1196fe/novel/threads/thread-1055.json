@@ -1,0 +1,30 @@
+{
+  "id": "thread-1055",
+  "introduced_at": 980,
+  "kind": "story_thread",
+  "label": "炼魂部落「老祖」归来",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 980,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 980,
+          "start": 980
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1055-001",
+      "resolution_refs": [],
+      "revealed_at": 980,
+      "role": "introduce",
+      "status": "ongoing",
+      "summary": "十三在破城之际剧烈颤抖并高呼「老祖，回来了」，所指身份本章未明示。"
+    }
+  ]
+}

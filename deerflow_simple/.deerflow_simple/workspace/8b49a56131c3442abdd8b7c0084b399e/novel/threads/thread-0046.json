@@ -1,0 +1,30 @@
+{
+  "id": "thread-0046",
+  "introduced_at": 29,
+  "kind": "story_thread",
+  "label": "七脉会武前四比试（张小凡对陆雪琪）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 29,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "competition",
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0046-001",
+      "resolution_refs": [],
+      "revealed_at": 29,
+      "role": "main",
+      "status": "escalating",
+      "summary": "比试升级为生死之争，陆雪琪拔出天琊并施展神剑御雷真诀，天象骤变，胜负未分。"
+    }
+  ]
+}

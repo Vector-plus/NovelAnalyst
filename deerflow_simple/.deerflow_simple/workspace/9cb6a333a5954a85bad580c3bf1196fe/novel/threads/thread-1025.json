@@ -1,0 +1,30 @@
+{
+  "id": "thread-1025",
+  "introduced_at": 963,
+  "kind": "story_thread",
+  "label": "妖灵之地之行与封印交易",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 963,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 963,
+          "start": 963
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1025-001",
+      "resolution_refs": [],
+      "revealed_at": 963,
+      "role": "advancing",
+      "status": "ongoing",
+      "summary": "王林需前往妖灵之地，收陈风（浮风子）为仆从以增助力；陈风承诺期间听令、事成后王林为其打开封印并还其自由。本章该约定已成立但尚未履行。"
+    }
+  ]
+}

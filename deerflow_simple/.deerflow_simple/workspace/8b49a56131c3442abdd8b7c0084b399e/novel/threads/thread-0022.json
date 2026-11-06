@@ -1,0 +1,30 @@
+{
+  "id": "thread-0022",
+  "introduced_at": 13,
+  "kind": "story_thread",
+  "label": "村中惨案追查无进展",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 13,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0022-001",
+      "resolution_refs": [],
+      "revealed_at": 13,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

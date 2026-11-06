@@ -1,0 +1,30 @@
+{
+  "id": "thread-0079",
+  "introduced_at": 49,
+  "kind": "story_thread",
+  "label": "黑石洞除妖",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 49,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0079-001",
+      "resolution_refs": [],
+      "revealed_at": 49,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "张小凡与石头结伴前往小池镇北十里的黑石洞除妖，天黑时抵达洞外树林，尚未入洞。"
+    }
+  ]
+}

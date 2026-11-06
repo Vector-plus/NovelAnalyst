@@ -1,0 +1,30 @@
+{
+  "id": "thread-0171",
+  "introduced_at": 113,
+  "kind": "story_thread",
+  "label": "鬼厉被凶神石刻激起的噬血暴戾之气",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 113,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_state",
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0171-001",
+      "resolution_refs": [],
+      "revealed_at": 113,
+      "role": "escalation",
+      "status": "open",
+      "summary": "接近凶神石刻后鬼厉心中噬血渴望愈发强烈、噬魂自发发亮、眼中红芒如恶鬼，但神志仍能保持清醒，与往日陷入疯狂的情形不同，痛苦反而更甚。"
+    }
+  ]
+}

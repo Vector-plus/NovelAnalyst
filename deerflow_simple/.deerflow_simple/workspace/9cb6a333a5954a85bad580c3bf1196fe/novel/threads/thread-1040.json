@@ -1,0 +1,30 @@
+{
+  "id": "thread-1040",
+  "introduced_at": 976,
+  "kind": "story_thread",
+  "label": "司徒南身中“欲仙欲死”之毒未解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 976,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "crisis",
+      "chapter_ranges": [
+        {
+          "end": 976,
+          "start": 976
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1040-001",
+      "resolution_refs": [],
+      "revealed_at": 976,
+      "role": "subject",
+      "status": "ongoing",
+      "summary": "司徒南被凤栾星女修所中之毒名为“欲仙欲死”，按其所言七日即形神俱灭且中毒即失修为，但他修为仍在，解毒之道本章未明。"
+    }
+  ]
+}

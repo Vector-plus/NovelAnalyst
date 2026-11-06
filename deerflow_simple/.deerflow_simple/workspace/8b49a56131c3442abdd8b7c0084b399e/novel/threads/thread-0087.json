@@ -1,0 +1,30 @@
+{
+  "id": "thread-0087",
+  "introduced_at": 54,
+  "kind": "story_thread",
+  "label": "地底岩浆岩洞中的六尾白狐现身",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 54,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0087-001",
+      "resolution_refs": [],
+      "revealed_at": 54,
+      "role": "major",
+      "status": "open",
+      "summary": "张小凡撞破石壁坠入岩浆岩洞，在石窝上发现一只沉睡的六尾白狐，其身份与是否即为六尾魔狐尚未明示。"
+    }
+  ]
+}

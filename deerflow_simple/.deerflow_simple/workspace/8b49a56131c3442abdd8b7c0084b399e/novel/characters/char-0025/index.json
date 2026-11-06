@@ -1,6 +1,85 @@
 {
+  "current": {
+    "current_summary": "在流波山随父扎营，明确表示要把拾到的石子送给齐昊，其与齐昊的亲近使张小凡心情冷落；第72章夔牛被困时转向袭击法阵铁锥，与青云门弟子一同卷入正魔混战。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 16,
+      "summary": "大竹峰师姐的救护、斗法与直言（第1—16章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0025/stages/stage-001.md",
+        "record_id": "doc-char-0025-stage-001"
+      },
+      "title": "大竹峰师姐的救护、斗法与直言"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0025/stages/stage-002.md",
+        "record_id": "doc-char-0025-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0025/index.json",
+          "record_id": "char-0025"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 74,
+      "summary": "流波山：心意转向与卷入混战（第57—74章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0025/stages/stage-004.md",
+        "record_id": "doc-char-0025-stage-004"
+      },
+      "title": "流波山：心意转向与卷入混战"
+    }
+  ],
   "id": "char-0025",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +88,7 @@
   "label": "田灵儿",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 6,
+  "revision": 7,
+  "safe_through": 74,
   "schema_version": "2.0"
 }

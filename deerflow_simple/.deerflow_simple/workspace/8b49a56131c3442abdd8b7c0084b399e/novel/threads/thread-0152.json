@@ -1,0 +1,30 @@
+{
+  "id": "thread-0152",
+  "introduced_at": 98,
+  "kind": "story_thread",
+  "label": "秦无炎与鬼厉结下「一棍之仇」",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 98,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 98,
+          "start": 98
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0152-001",
+      "resolution_refs": [],
+      "revealed_at": 98,
+      "role": "development",
+      "status": "ongoing",
+      "summary": "秦无炎在与正道四人缠斗中被黑暗中一道无声攻击击中右身重伤，他认定出手者是鬼厉并扬言日后再算；鬼厉随即遁走、陆雪琪追击而去。"
+    }
+  ]
+}

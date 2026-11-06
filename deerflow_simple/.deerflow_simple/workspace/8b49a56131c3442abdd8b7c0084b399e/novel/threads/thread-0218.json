@@ -1,0 +1,30 @@
+{
+  "id": "thread-0218",
+  "introduced_at": 137,
+  "kind": "story_thread",
+  "label": "焚香谷谷主云易岚始终未露面",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0218-001",
+      "resolution_refs": [],
+      "revealed_at": 137,
+      "role": "secondary",
+      "status": "open",
+      "summary": "陆雪琪南疆之行仍未见到云易岚，只由上官策、李洵出面解释；道玄与水月对此各有疑虑。"
+    }
+  ]
+}

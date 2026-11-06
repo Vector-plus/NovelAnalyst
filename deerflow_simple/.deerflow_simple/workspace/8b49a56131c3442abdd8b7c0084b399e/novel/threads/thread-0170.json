@@ -1,0 +1,30 @@
+{
+  "id": "thread-0170",
+  "introduced_at": 113,
+  "kind": "story_thread",
+  "label": "玄火坛的凶神石刻与火焰异兽",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 113,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0170-001",
+      "resolution_refs": [],
+      "revealed_at": 113,
+      "role": "setup",
+      "status": "open",
+      "summary": "殿内八尊凶神石刻可在光源被遮断后自行发光升空，凝成火焰图腾并开启穹顶石板，放出一只火焰异兽；该异兽与石刻来源、与上官策所镇守此地的关系均未说明。"
+    }
+  ]
+}

@@ -1,6 +1,60 @@
 {
+  "current": {
+    "current_summary": "第978—1052章：以剑尊之身参与东海潮汐与仙帝洞府之行；直言粉衣女子疑为昆虚圣女之人，透露王林不足七日开通第四座洞府，对天运子的相救只报冷目；入殿后自认打不开第八层入口封印，转而向王林求援并承诺解释第八层变故（尚未兑现）；后与天运子、葫芦老者同入殿，被吸入第九层，最终随古魔塔珈破土卷入大混战，与王林维持有限的合作与提防关系。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 961,
+          "start": 929
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0762/index.json",
+          "record_id": "char-0762"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 961,
+      "summary": "剑尊围天运宗、仙府之约与重伤闭关（第929—961章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0762/stages/stage-023.md",
+        "record_id": "doc-char-0762-stage-023"
+      },
+      "title": "剑尊围天运宗、仙府之约与重伤闭关"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 962
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0762/index.json",
+          "record_id": "char-0762"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 1119,
+      "summary": "仙帝洞府中的旁观、求援与被卷入（第962—1119章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0762/stages/stage-024.md",
+        "record_id": "doc-char-0762-stage-024"
+      },
+      "title": "仙帝洞府中的旁观、求援与被卷入"
+    }
+  ],
   "id": "char-0762",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +63,7 @@
   "label": "凌天候",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 307,
+  "revision": 5,
+  "safe_through": 1119,
   "schema_version": "2.0"
 }

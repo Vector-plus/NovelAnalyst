@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "随鬼厉进入天帝宝库，饮尽天帝灵药并吞下五面奇石，其后出现体重与额头灰痕等具象异变，能力变化尚未明朗。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0036/index.json",
+          "record_id": "char-0036"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 107,
+      "summary": "死泽内泽：入宝库、服灵药与异变开端（第95—107章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0036/stages/stage-007.md",
+        "record_id": "doc-char-0036-stage-007"
+      },
+      "title": "死泽内泽：入宝库、服灵药与异变开端"
+    }
+  ],
+  "id": "char-0036",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 12,
+  "kind": "entity_index",
+  "label": "小灰",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 107,
+  "schema_version": "2.0"
+}

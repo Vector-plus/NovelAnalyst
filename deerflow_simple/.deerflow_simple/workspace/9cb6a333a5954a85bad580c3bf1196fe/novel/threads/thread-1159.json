@@ -1,0 +1,30 @@
+{
+  "id": "thread-1159",
+  "introduced_at": 1058,
+  "kind": "story_thread",
+  "label": "朱雀觉醒者与圣皇之位",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1058,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_politics",
+      "chapter_ranges": [
+        {
+          "end": 1058,
+          "start": 1058
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1159-001",
+      "resolution_refs": [],
+      "revealed_at": 1058,
+      "role": "new",
+      "status": "open",
+      "summary": "朱雀圣宗六位碎涅老者率近百族人现身护卫王林，族人视其为未来的圣皇。"
+    }
+  ]
+}

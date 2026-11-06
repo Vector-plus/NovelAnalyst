@@ -1,0 +1,30 @@
+{
+  "id": "thread-0195",
+  "introduced_at": 128,
+  "kind": "story_thread",
+  "label": "兽神势力出手，巫妖出山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 128,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_move",
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0195-001",
+      "resolution_refs": [],
+      "revealed_at": 128,
+      "role": "introduction",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

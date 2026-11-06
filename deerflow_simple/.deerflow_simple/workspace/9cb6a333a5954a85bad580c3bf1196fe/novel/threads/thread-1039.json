@@ -1,0 +1,30 @@
+{
+  "id": "thread-1039",
+  "introduced_at": 975,
+  "kind": "story_thread",
+  "label": "司徒南与王林在水灵星重逢交手",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 975,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 975,
+          "start": 975
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1039-001",
+      "resolution_refs": [],
+      "revealed_at": 975,
+      "role": "pivot",
+      "status": "ongoing",
+      "summary": "司徒南循「王兄」线索闯入王林炼尸之地，破禁制、过女尸，与王林交手；二人认出彼此并同忆朱雀星往事，但完整版山动一指与王林肉身之力的对撞尚未分出结果。"
+    }
+  ]
+}

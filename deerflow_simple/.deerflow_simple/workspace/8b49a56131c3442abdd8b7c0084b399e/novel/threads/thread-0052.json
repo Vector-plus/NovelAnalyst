@@ -1,0 +1,30 @@
+{
+  "id": "thread-0052",
+  "introduced_at": 31,
+  "kind": "story_thread",
+  "label": "苍松道人的杀性与道玄的告诫",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 31,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_arc",
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0052-001",
+      "resolution_refs": [],
+      "revealed_at": 31,
+      "role": "subject",
+      "status": "ongoing",
+      "summary": "道玄当众指苍松十余年戾气渐重、杀性愈盛，警示「宁杀错不放过」为魔道所为；苍松口头受教。"
+    }
+  ]
+}

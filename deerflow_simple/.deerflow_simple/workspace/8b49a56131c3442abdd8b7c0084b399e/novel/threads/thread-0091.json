@@ -1,0 +1,30 @@
+{
+  "id": "thread-0091",
+  "introduced_at": 56,
+  "kind": "story_thread",
+  "label": "正魔二道齐赴东海流波山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 56,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_movement",
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0091-001",
+      "resolution_refs": [],
+      "revealed_at": 56,
+      "role": "setup",
+      "status": "open",
+      "summary": "燕虹告知张小凡：魔教蠢蠢欲动，青云门会合其余正道之士在东海流波山相聚，他师父一脉也有前往；张小凡表示即刻动身。周一仙亦听闻正魔人物纷纷往东海去，决定带小环东行。"
+    }
+  ]
+}

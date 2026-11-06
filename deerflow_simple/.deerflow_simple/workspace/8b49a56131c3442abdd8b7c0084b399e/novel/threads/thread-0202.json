@@ -1,0 +1,30 @@
+{
+  "id": "thread-0202",
+  "introduced_at": 133,
+  "kind": "story_thread",
+  "label": "金瓶儿追踪巫妖、杀生和尚疑似遇难",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 133,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "tracking",
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0202-001",
+      "resolution_refs": [],
+      "revealed_at": 133,
+      "role": "副线",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

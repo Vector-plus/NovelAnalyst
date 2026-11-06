@@ -1,0 +1,30 @@
+{
+  "id": "thread-0150",
+  "introduced_at": 97,
+  "kind": "story_thread",
+  "label": "死泽内泽：正道四人被困于秦无炎与巨蚁群",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 97,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 97,
+          "start": 97
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0150-001",
+      "resolution_refs": [],
+      "revealed_at": 97,
+      "role": "escalation",
+      "status": "ongoing",
+      "summary": "法相、曾书书、林惊羽、李洵四人在般若心圈内被数万死泽巨蚁包围，秦无炎现身圈外，局势未解。"
+    }
+  ]
+}

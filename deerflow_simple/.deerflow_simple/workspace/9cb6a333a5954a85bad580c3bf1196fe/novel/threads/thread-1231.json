@@ -1,0 +1,30 @@
+{
+  "id": "thread-1231",
+  "introduced_at": 1112,
+  "kind": "story_thread",
+  "label": "王林深入古神之地寻找拓森之威",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1112,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "exploration",
+      "chapter_ranges": [
+        {
+          "end": 1112,
+          "start": 1112
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1231-001",
+      "resolution_refs": [],
+      "revealed_at": 1112,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "王林以当年记忆中的路线重返古神之地，穿土关抵最后一层虚无，见到大量修士围猎上古炼气士，最终沿血光波纹追向斗法中心。"
+    }
+  ]
+}

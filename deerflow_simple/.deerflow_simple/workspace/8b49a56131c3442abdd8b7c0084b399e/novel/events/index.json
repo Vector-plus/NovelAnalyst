@@ -25,18 +25,243 @@
         "record_id": "block-0001"
       },
       "title": "stage-001 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 17,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0002.json",
+          "record_id": "block-0002"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 17,
+      "summary": "stage-002 事件块（第17章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0002.json",
+        "record_id": "block-0002"
+      },
+      "title": "stage-002 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 32,
+          "start": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "block-0003"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 32,
+      "summary": "stage-003 事件块（第32章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0003.json",
+        "record_id": "block-0003"
+      },
+      "title": "stage-003 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 57,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0004.json",
+          "record_id": "block-0004"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 57,
+      "summary": "stage-004 事件块（第57章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0004.json",
+        "record_id": "block-0004"
+      },
+      "title": "stage-004 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0005.json",
+          "record_id": "block-0005"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 75,
+      "summary": "stage-005 事件块（第75章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0005.json",
+        "record_id": "block-0005"
+      },
+      "title": "stage-005 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0006.json",
+          "record_id": "block-0006"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 85,
+      "summary": "stage-006 事件块（第85章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0006.json",
+        "record_id": "block-0006"
+      },
+      "title": "stage-006 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 95,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0007.json",
+          "record_id": "block-0007"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 95,
+      "summary": "stage-007 事件块（第95章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0007.json",
+        "record_id": "block-0007"
+      },
+      "title": "stage-007 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0008.json",
+          "record_id": "block-0008"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 108,
+      "summary": "stage-008 事件块（第108章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0008.json",
+        "record_id": "block-0008"
+      },
+      "title": "stage-008 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0009.json",
+          "record_id": "block-0009"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 134,
+      "summary": "stage-009 事件块（第134章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0009.json",
+        "record_id": "block-0009"
+      },
+      "title": "stage-009 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0010.json",
+          "record_id": "block-0010"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 144,
+      "summary": "stage-010 事件块（第144章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0010.json",
+        "record_id": "block-0010"
+      },
+      "title": "stage-010 事件块"
     }
   ],
   "id": "idx-events",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 7,
-  "safe_through": 6,
+  "revision": 145,
+  "safe_through": 144,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 6,
+        "end": 144,
         "start": 1
       }
     ],

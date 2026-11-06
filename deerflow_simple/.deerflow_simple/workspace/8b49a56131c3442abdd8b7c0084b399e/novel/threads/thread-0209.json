@@ -1,0 +1,30 @@
+{
+  "id": "thread-0209",
+  "introduced_at": 135,
+  "kind": "story_thread",
+  "label": "凶灵镇守镇魔古洞",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 135,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0209-001",
+      "resolution_refs": [],
+      "revealed_at": 135,
+      "role": "supporting",
+      "status": "closed",
+      "summary": "凶灵自称镇守古洞、不容外人进入，最终以身堵洞口迎击黑气，被吞没消失，消失前呼喊「娘娘」。"
+    }
+  ]
+}

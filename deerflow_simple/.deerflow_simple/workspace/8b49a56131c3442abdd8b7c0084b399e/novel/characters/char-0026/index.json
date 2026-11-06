@@ -1,6 +1,35 @@
 {
+  "current": {
+    "current_summary": "大竹峰弟子，玉清境第四层后按门规下山游历，使门内弟子序列出现空缺；会武前归来，持骰子法宝，提及「万师兄」引来田不易异常反应。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0026/index.json",
+          "record_id": "char-0026"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 16,
+      "summary": "下山游历与归来（第1—16章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0026/stages/stage-001.md",
+        "record_id": "doc-char-0026-stage-001"
+      },
+      "title": "下山游历与归来"
+    }
+  ],
   "id": "char-0026",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +38,7 @@
   "label": "杜必书",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 6,
+  "revision": 3,
+  "safe_through": 16,
   "schema_version": "2.0"
 }

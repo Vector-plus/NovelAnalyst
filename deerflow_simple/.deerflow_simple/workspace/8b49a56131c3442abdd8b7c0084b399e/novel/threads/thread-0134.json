@@ -1,0 +1,30 @@
+{
+  "id": "thread-0134",
+  "introduced_at": 89,
+  "kind": "story_thread",
+  "label": "死泽异宝之争",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 89,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0134-001",
+      "resolution_refs": [],
+      "revealed_at": 89,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "秦无炎与鬼厉均将前往死亡沼泽，秦无炎称死泽内有一份异宝；鬼厉提到若毒神想要则无人敢抢，秦无炎则推称该归经营此地的长生堂玉阳子。异宝具体为何、由谁所得未明。"
+    }
+  ]
+}

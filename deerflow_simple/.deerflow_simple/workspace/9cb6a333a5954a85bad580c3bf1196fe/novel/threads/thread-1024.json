@@ -1,0 +1,30 @@
+{
+  "id": "thread-1024",
+  "introduced_at": 960,
+  "kind": "story_thread",
+  "label": "凌天候修为被吸大半、闭关不出",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 960,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "antagonist_status",
+      "chapter_ranges": [
+        {
+          "end": 960,
+          "start": 960
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1024-001",
+      "resolution_refs": [],
+      "revealed_at": 960,
+      "role": "secondary",
+      "status": "open",
+      "summary": "凌天候六息内被吸去大半力量，放弃向王林复仇并决定就地闭关恢复，同时不知天运子处的变故。"
+    }
+  ]
+}

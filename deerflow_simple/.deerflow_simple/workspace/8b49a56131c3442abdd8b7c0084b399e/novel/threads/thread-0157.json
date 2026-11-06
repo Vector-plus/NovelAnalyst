@@ -1,0 +1,30 @@
+{
+  "id": "thread-0157",
+  "introduced_at": 103,
+  "kind": "story_thread",
+  "label": "天帝宝库的开启与争夺",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 103,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0157-001",
+      "resolution_refs": [],
+      "revealed_at": 103,
+      "role": "primary",
+      "status": "active",
+      "summary": "宝库石门在特定日照下开启又合拢，黑水玄蛇为宝库之物而来却未能进入；鬼厉、陆雪琪、小灰在门关前的最后一刻进入宝库，门缝彻底消失。"
+    }
+  ]
+}

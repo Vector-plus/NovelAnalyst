@@ -21520,12 +21520,5589 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ev-3786",
+      "introduced_at": 955,
+      "kind": "event",
+      "safe_through": 955,
+      "title": "七彩风龙与麒麟厮杀",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26719"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 955,
+              "start": 955
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26719",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "如同拥有不灭龙身",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "七彩风龙与麒麟相互厮杀，风龙由风组成、崩散后片刻即可在一旁重新凝聚，如拥有不灭龙身，二兽斗得旗鼓相当。"
+            }
+          ],
+          "id": "update-3786",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-2112/index.json",
+                "record_id": "char-2112"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1488/index.json",
+                "record_id": "char-1488"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 955,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "七彩风龙与火海麒麟在天地间相互厮杀，风龙由风组成、崩散后可重聚，二兽斗得旗鼓相当。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3787",
+      "introduced_at": 955,
+      "kind": "event",
+      "safe_through": 955,
+      "title": "天运子传音警告凌天候，天暗日出被掩盖",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26723"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 955,
+              "start": 955
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26720",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "立刻这仙界碎片蓦然缩小",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林踏在仙界碎片之上，脚下一点后碎片蓦然缩小，在其身体外旋转防护。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26721",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "不知何处得罪了师尊",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林对凌天候说，多谢前辈夸奖，今日之事自己也莫名其妙，不知何处得罪了师尊，让师尊施展神通要将他斩于此地。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26722",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "三息之内，你若不离开",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子的声音在天地间回荡，警告凌天候话太多，说天运宗之事不容他干涉，三息之内若不离开便出手将其赶走。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26723",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "你要战，那便战",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候冷笑回应天运子，自称剑尊不怕对方，要战便战，并称要看看对方比当年又高出多少。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26724",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "东方渐渐升起的初阳",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子声音传出的刹那，本已朦朦亮的天空突然彻底暗下，东方渐渐升起的初阳被一股大神通之力横卷掩盖。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26725",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "这凌天候的修为比之血祖要高出很多",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述与王林的观察指出：凌天候的修为比血祖高出很多，但与炎雷子、清水等人相比远远不如，与天运子相比差距如天地之差。"
+            }
+          ],
+          "id": "update-3787",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26724"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 955,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "王林向凌天候道谢并陈说被师尊以神通斩杀的缘由；天运子的声音在天地间回荡，限凌天候三息离开，凌天候强硬回绝；声音传出后天空骤暗，初升之阳被彻底掩盖。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26722"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3788",
+      "introduced_at": 955,
+      "kind": "event",
+      "safe_through": 955,
+      "title": "灰衣天运子现身，凝聚黑剑放出十道杀戮之气",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26728"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26730"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 955,
+              "start": 955
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26727",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "正是那当初传授自己杀戮仙诀的灰衣天运子",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天地尽头出现淡淡灰衣身影，王林一震之下认出此人正是当初传授自己杀戮仙诀的灰衣天运子。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26728",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "化作一把黑色的细剑",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子尚未临近即抬右手虚空一抓，天地间的无尽黑暗如蠕动般齐齐向他手中凝聚，被凝固成一把只有一指宽的黑色细剑。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "这暗色在动，在凝聚",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26729",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "吸收光之力！",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林看到黑暗被凝聚后心中震惊，判断这一手是「吸收光之力」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26730",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "十道真正的杀戮之气",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子不与凌天候废话，持黑色细剑一剑横扫，滔天杀戮之气弥漫天地，共十道真正的杀戮之气。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26731",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "肉身、元神融入杀戮之气内",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "原文说明：真正的杀戮之气不是王林当年所修的不完全版，而是修炼杀戮仙诀者把肉身、元神融入杀戮之气，集合数十上百万杀戮之气炼化而成的一道。"
+            }
+          ],
+          "id": "update-3788",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26730"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26731"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 955,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "天地尽头走出灰衣身影，王林认出其为当初传授自己杀戮仙诀的灰衣天运子；灰衣天运子以手虚空一抓，将天地黑暗凝聚成一指宽的黑色细剑，一剑横扫，放出十道真正的杀戮之气。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3789",
+      "introduced_at": 955,
+      "kind": "event",
+      "safe_through": 955,
+      "title": "王林悟出天运子曾在他身上算错一次",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26733"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 955,
+              "start": 955
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "这凌天候却是数万年来敢与天运子作对",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26726",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "他二人之中，到底有什么隐秘",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林不解凌天候为何数万年来敢与天运子作对，觉得天运子对其一忍再忍，怀疑二人之间存在隐秘。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "若是自己明悟的快",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26732",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "也已经变成了灰衣天运子手中的一道杀戮之气",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林心中后怕，想到当年若不是自己明悟得快，如今恐怕也已变成灰衣天运子手中的一道杀戮之气。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "这古妖的帮助，使得天运子的算计，有了些许的偏差",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                },
+                {
+                  "anchor": "而后，又有散魔出现",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26733",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "这，是天运子在我身上，第一次算错",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林推断：天运子当初传授杀戮仙诀有极深原因，但因妖灵之地古妖的无意帮助使算计出现偏差，此后散魔出现再次打乱算计，最终被他明晰因果、毅然放弃杀戮之气，这是他身上天运子的第一次算错。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "算不出我的实际修为",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26734",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "并非完美不可破",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林由此判断：天运子能算出他回来的日期却算不出他的实际修为，眼下的天运子并非完美不可破，那死结也绝非没有破局之法，既然能失误一次就会有第二次。"
+            }
+          ],
+          "id": "update-3789",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26734"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 955,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "王林观战中灵光一闪，回顾古妖相助、散魔出现导致杀戮仙诀算计出现偏差，认定天运子在他身上曾第一次算错，由此判断眼前的天运子并非完美不可破、死结有破局之法；同时他不解凌天候为何数万年来敢与天运子作对。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3790",
+      "introduced_at": 955,
+      "kind": "event",
+      "safe_through": 955,
+      "title": "凌天候施展破天第二式，蛇形雨剑对撞杀戮之气",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26735"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26738"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26739"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 955,
+              "start": 955
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26735",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "竟然走出一个闭着双目的七八岁大小的童子",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候右手掐诀一指天空，四把元神之剑急速旋转并相互融合，光芒中走出一个闭着双目的七八岁童子，一身剑气，背后背着一把通体紫色、弯曲如游蛇的大剑。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26737",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "当年在雨之仙界，雨之仙剑分为四把",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林认出那把蛇形弯曲之剑是雨之仙剑，并忆及当年在雨之仙界雨之仙剑分为四把、其中两把被人抢走，这把蛇形雨剑正是凌天候抢走之物。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26738",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "化作了一条千丈巨蟒",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "剑童睁目爆出两道逼人之光，背后蛇形雨剑飞出，其上散出剑芒化作一条千丈巨蟒，咆哮中腥风大起，化作连接天地的风暴横扫前方。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26739",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "这十个身影有男有女，有老有少",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "十道杀戮之气与巨蟒风暴相撞后黑光一闪，化作十个身影，有男有女有老有少、神情暴虐，各自施展出不下百万的杀戮之气，使天空中杀戮之气数量多得几乎遮盖天穹。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26740",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "右脚向后微微一踏",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林面色略有苍白，目光闪烁中右脚向后微微一踏，判断眼前无法计算数量的杀戮之气威力极为惊人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26736",
+              "revealed_at": 955,
+              "source_refs": [
+                {
+                  "anchor": "剑童背刃",
+                  "chapter_id": "ch-000955",
+                  "chapter_order": 955,
+                  "path": "source/vol-009/ch-000955.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候低喝出招式名：「明、洞、破，破天第二式，剑童背刃！」"
+            }
+          ],
+          "id": "update-3790",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26739"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26740"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2113/index.json",
+                "record_id": "char-2113"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 955,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "凌天候喊出「破天第二式，剑童背刃」，四把元神之剑融合化出背蛇形紫剑的闭目童子；王林认出该剑为雨之仙剑（凌天候当年所抢）；剑童飞出蛇形剑化作千丈巨蟒掀起风暴，与十道杀戮之气化形的十个男女老少身影相撞，对方各自施放不下百万杀戮之气，铺满天穹；王林面色苍白、右脚后踏。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26730"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3791",
+      "introduced_at": 956,
+      "kind": "event",
+      "safe_through": 956,
+      "title": "王林在杀戮之气围攻中悟出天逆所需为阴阳",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26741"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 956,
+              "start": 956
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26741",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林在杀戮之气追击下不断后退，身外旋转的仙界碎片转速更快，几乎形成旋风把身子包裹，与追来的杀戮之气连连撞击发出砰砰之声。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26742",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林判断：杀戮之气数量虽多，但灰衣天运子显然还未尽全力。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26743",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林自述：天逆珠自五行圆满后金木水火土印记消失，代之以一日一月代表阴阳，此前多次尝试都无法令天逆之上的日月印记有半点变化。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26744",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "我天逆珠子此刻所需正是阴阳",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第6-8段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林在战斗中豁然开朗，认定天逆珠子此刻所需正是阴阳，眼前这一丝极阳符合天逆需求，故可借此破开灰衣天运子的局。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26745",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "即便是遇到罗天那神秘莫测的第三步修士",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第9-11段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林判断天运子算不出他有天逆珠、也算不出他能吸收这一丝极阳；并自称连罗天那神秘莫测的第三步修士都未察觉天逆，故不信天运子能察觉。"
+            }
+          ],
+          "id": "update-3791",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 956,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "王林在灰衣天运子的杀戮之气围攻中后退，以高速旋转的仙界碎片形成旋风护身，并在此刻豁然想通：天逆珠五行圆满后所需为阴阳，眼前这一丝极阳正合其需求，因此认为可借此破开天运子的算局。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3792",
+      "introduced_at": 956,
+      "kind": "event",
+      "safe_through": 956,
+      "title": "凌天候以剑童祭灵与灰衣天运子剑道对决",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26747"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26748"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26750"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26753"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 956,
+              "start": 956
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26746",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候来此对抗天运子并非为了王林，而是凡与天运子相关之事都要寻找霉头；他又隐约猜测王林对天运子颇为重要，越发想破坏此事。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26747",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "破字第三式，剑童祭灵",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第13-15段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候掐诀低喝「破字第三式，剑童祭灵」，剑童全身爆出冲霄剑气，一步踏在化作巨蟒的蛇形雨剑之上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26748",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "化作大团的青雾",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第16-22段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "剑童发出厉啸后整个身子崩溃，化作大团青雾融入巨蟒状的蛇形仙剑，构成祭剑；仙剑剑鸣散出，冲击之下大批杀戮之气纷纷消散。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26749",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子称凌天候的剑气略有增长，若凌天候能接下他下一式，便不再理会凌天候与天运子之事。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26750",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "一把七尺长，三寸宽的赤红之剑",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第25-31段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子掐出古怪印决朝凌天候一指，天色转为全黑；他自称为「杀戮化剑」，天地间无数杀戮之气向他指前凝聚，形成一把七尺长、三寸宽的赤红之剑，挥手化作赤线直取蛇形仙剑。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26751",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "相互之间隔了七寸",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第33-36段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "两把剑相互隔了七寸而未真正碰触，七寸之内雷霆与弧形电光交错崩散；灰衣天运子称凌天候修为高了不少，但若只有这些，今日便要被驱除天运星。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26752",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称自己一生与剑为伍、只修剑道，近年明悟剑之规则，并质问灰衣为何甘心受人摆布、今日出现是否已抛却当年两人之谊；灰衣天运子沉默未答。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26753",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "一把由凌天候元神所化，一生无数万年所修之剑",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第38-44段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候眉心裂开一道缝隙透出黑芒笼罩全身，盘膝而坐、双目闭合，自述「以我元神修剑神，以我血肉祭剑尊」；其后天灵飘出由元神所化的一把剑的虚影，整个天运星上所有门派、修道者与剑之法宝皆颤抖剑鸣。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26754",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "元神剑虚影冲出黑芒直奔蛇形仙剑，蛇形仙剑红芒一闪前冲，两剑之间七寸距离碎裂缩至三寸。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26755",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "老夫就拿出七成之力与你一战",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第47段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子神色首次变化，盯着剑虚影长笑，称凌天候能把剑修到这一步，他便拿出七成之力一战。"
+            }
+          ],
+          "id": "update-3792",
+          "outcome_refs": [],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2113/index.json",
+                "record_id": "char-2113"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 956,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "凌天候以「破字第三式，剑童祭灵」令剑童崩溃化青雾祭入蛇形雨剑，剑气大涨冲散杀戮之气；灰衣天运子随即以杀戮之气凝成赤红之剑，双方剑气在七寸之间相持，凌天候又以元神化剑虚影，将距离压至三寸。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3793",
+      "introduced_at": 956,
+      "kind": "event",
+      "safe_through": 956,
+      "title": "双剑决战被送至天运星外星空，灰衣天运子罢手，天运子现身",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26756"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26757"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 956,
+              "start": 956
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26756",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子后退一步张口咆哮，面色狰狞，一道又一道杀戮之气冲出并与杀戮之剑融合，使剑之威力暴增；两剑之间的三寸随即崩溃，双剑相撞。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26757",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "送出了天运星",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第50段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑暗天空出现七彩之芒，化作七彩旋风把包括王林在内的三人全部卷起，送出天运星，落入天运星外的星空中；在星空中双剑剑尖相互碰撞。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26758",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "杀戮之剑坚持了三息",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第51-54段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "星空中双剑不断交错形成风暴，杀戮之剑剑尖崩溃化作无数杀戮之气消散；蛇形仙剑从中间裂开一道缝隙后退。杀戮之剑坚持了三息之后彻底崩溃。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26759",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "凌天候，你之事，老夫不管了。",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第55段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "灰衣天运子长笑转身走向星空直奔天运星，称「凌天候，你之事，老夫不管了」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26760",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "天运老儿，你终于出来了",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第56段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "蛇形仙剑裂缝中飘出虚幻之影，化作凌天候的样子；他盯着星空一处冷笑「天运老儿，你终于出来了」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26761",
+              "revealed_at": 956,
+              "source_refs": [
+                {
+                  "anchor": "全部都是由七彩之光组成",
+                  "chapter_id": "ch-000956",
+                  "chapter_order": 956,
+                  "locator": "第57-59段",
+                  "path": "source/vol-009/ch-000956.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "七彩光芒闪烁处，由七彩之光组成的虚幻身影凝聚成天运子；他扫了凌天候一眼，称打也打了，天运宗之事凌天候没有道理干涉。"
+            }
+          ],
+          "id": "update-3793",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26758"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26759"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26760"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1168/index.json",
+                "record_id": "char-1168"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 956,
+          "status": "resolved",
+          "story_time": null,
+          "summary": "灰衣天运子以七成之力融合杀戮之气使剑威暴增，双剑相撞后七彩旋风将三人卷出天运星，落入星空；星空中杀戮之剑剑尖崩溃、坚持三息后彻底崩溃，蛇形仙剑亦裂开一道缝隙。灰衣天运子称不再理会凌天候之事，转身走向天运星；天运子的七彩虚幻身影随后凝聚现身，被凌天候当面点出。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3794",
+      "introduced_at": 957,
+      "kind": "event",
+      "safe_through": 957,
+      "title": "凌天候以长老之位相邀，天运子作罢退走",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26765"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 957,
+              "start": 957
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26762",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "老夫大罗剑宗缺一个长老",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候当面提出大罗剑宗缺一位长老，问王林可愿意成为大罗剑宗长老。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26763",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "脑中念头百转，抱拳道",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林抱拳道谢，应下凌天候的邀请。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26764",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "天运子眉头一皱。",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "听到凌天候的邀请，天运子眉头一皱。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26765",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "按照约定，现在，老夫有插手的道理了吧",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候对天运子称，按照约定，他现在已有插手的道理。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26766",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "如此，那边算了",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子平淡表示此事就此作罢（「如此，那边算了」）。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26767",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "大有深意的看了一眼王林",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子大有深意地看了王林一眼，随后转身化作七彩之芒消失离去。"
+            }
+          ],
+          "id": "update-3794",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26766"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26767"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 957,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "凌天候当面提出大罗剑宗缺一位长老、请王林担任；王林抱拳道谢应下。凌天候据此向天运子主张按约自己有理由插手，天运子淡言作罢，深意看了王林一眼后化作七彩之芒离去。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26762"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3795",
+      "introduced_at": 957,
+      "kind": "event",
+      "safe_through": 957,
+      "title": "凌天候以五块龟甲卜算天运子用意",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26768"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 957,
+              "start": 957
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26768",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "从其内飘出五块龟甲",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候拍储物袋取出五块龟甲，在手中旋转并时时掐诀推演，但卦象算不出天运子此事的吉凶。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26769",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "凌天候念头迅速闪过",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候心中判断：天运子如此算计王林，说明在其身上所谋之事极为重要，若被其成功将拥有让四圣宗震撼的力量，因此自己必须阻止。"
+            }
+          ],
+          "id": "update-3795",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26769"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 957,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "天运子离去后，凌天候面色阴沉，取出五块龟甲掐诀推演，卦象算不出此事吉凶，只得在心中判断天运子所谋极大、必须阻止。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26767"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3796",
+      "introduced_at": 957,
+      "kind": "event",
+      "safe_through": 957,
+      "title": "凌天候与王林同赴大罗星，途中论道议定同去仙府",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26775"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26776"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 957,
+              "start": 957
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26770",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "今日老夫即便是不来救你，天运子也轻易不敢杀你",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候对王林说，今日即便他不来相救，天运子也轻易不敢杀王林，因为王林毕竟是朱雀序列。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26771",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "朱雀序列有三人，在下只是其一而已",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林回应称朱雀序列共有三人，自己只是其中之一，并称凌天候义助之事他铭记在心。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26772",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "将是下一任的朱雀圣皇",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候自称朱雀圣皇道成之时自己只是晚辈，朱雀圣皇对他有提携之恩，并称王林是朱雀序列、若机缘所致将是下一任朱雀圣皇。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26773",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "毕竟你现在也不是那天运老儿的弟子了",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称王林现在已经不是天运子的弟子，主张两人平辈论交。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26774",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "王某便听从剑尊之语",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林以「剑尊」相称，表示听从凌天候之语，并称对方为「王道友」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26775",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "等潮汐深渊开启，我们一同去那仙府",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候邀王林随他去大罗星，约定等潮汐深渊开启后一同前往仙府；王林含笑应「请」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26776",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "闭口不谈当年王林杀死其弟子之事",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "二人一路疾驰前往大罗星；途中凌天候闭口不谈当年王林杀死其弟子之事，只与王林谈仙术道法。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26777",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "不由的眼露赞叹",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林途中说话不多，但所言令凌天候不由眼露赞叹，认为其修为、见识与对天道的感悟都惊人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [
+                {
+                  "anchor": "他心中隐约有个猜测",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-26778",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "是这个凌天候",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林心中隐约猜测：天运子这一系列行动的目的似乎不是自己，而是身边的凌天候。"
+            }
+          ],
+          "id": "update-3796",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26777"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26778"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 957,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "凌天候称即便自己不来相救天运子也不敢杀王林，并提出以平辈论交；王林应允，二人一路疾驰前往大罗星，途中只谈仙术道法，凌天候闭口不提王林当年杀其弟子之事，并约定潮汐深渊开启后同去仙府。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26770"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3797",
+      "introduced_at": 957,
+      "kind": "event",
+      "safe_through": 957,
+      "title": "凌天候讲述大罗星来历、昆虚修真宗与昆虚圣女",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26786"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26790"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 957,
+              "start": 957
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26779",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "而是这大罗星自身散出之气",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗星远望呈一片水蓝色并缭绕无数驳杂剑气，这些剑气并非修士发出，而是大罗星自身散出之气。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26780",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "如有人牵引这些剑气，其威力，将会惊天动地",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林看出：若有人牵引这些剑气，其威力将会惊天动地。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26781",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "完成了昆虚修真宗的一个人级任务",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称大罗星本不属于天运星范围内，是他当年费很大心血完成昆虚修真宗一个人级任务后获赠的。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26782",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "被昆虚修真宗虚灵上人当剑来炼化",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称大罗星来自昆虚地域内一处无时无刻都在燃烧的庞大虚星（可及天运星千倍以上），该虚星意外崩溃后，其中一块碎块被昆虚修真宗虚灵上人当剑炼化，成了大罗星。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26783",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "名为昆虚星域",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林忆起此前听清水说过「昆虚」，由此推断联盟星域很久之前名为昆虚星域，这是其第二次听闻此词。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26784",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "唯一的一个九级修真国",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称昆虚修真宗是联盟星域内唯一的一个九级修真国，世人皆称之为昆虚修真宗，唯有他们保留「昆虚」这一古老称呼。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26785",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "更是以受到昆虚修真宗邀请为荣",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称联盟星域内修为达到一定程度的修士可以不敬修真联盟，但对昆虚修真宗却是发自内心的尊敬，更以受到昆虚修真宗邀请为荣。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26786",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "每隔三千年，昆虚修真宗都会发出三枚邀请简",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称昆虚修真宗每隔三千年都会发出三枚邀请简，送予被其认可的修士进入昆虚地域修炼；他与天运子当年便是一同获得邀请。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26787",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "与我与天运子一同进入昆虚修真宗的第三人",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称王林数日前来到天运宗时看到的那位形似凡人村姑的女子，就是当年与他及天运子一同进入昆虚修真宗的第三人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26788",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "若我猜测的没错，就是从昆虚修真宗而来",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候猜测那女子身边的女弟子若猜得没错，就是从昆虚修真宗而来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26789",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "邀请自己的粉衣少女",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林闻言脑中第一个想到的，是临走前邀请自己的那位粉衣少女。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26790",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "始终会有一位昆虚圣女",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称昆虚修真宗保留着仙界古老传统，始终会有一位昆虚圣女，但他不知那女弟子是否就是昆虚圣女。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26791",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "曾经是昆虚内的霸主",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称王林所属的四圣宗在很久很久之前曾经是昆虚内的霸主，言及此处便摇头不再多说。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26792",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "这四圣宗竟然远远超过了他的想象",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林听到四圣宗曾是昆虚霸主之说后心神一震，他从未想过四圣宗之强远超其想象。"
+            }
+          ],
+          "id": "update-3797",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26791"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26792"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 957,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "临近大罗星时，凌天候讲述此星由昆虚地域一颗燃烧虚星崩碎后、经虚灵上人炼化而成；又谈及昆虚修真宗为联盟星域唯一的九级修真国、三千年发三枚邀请简，以及当年与他、天运子一同进入昆虚的第三人与可能的昆虚圣女，并称四圣宗很久以前曾是昆虚内的霸主。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26781"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3798",
+      "introduced_at": 957,
+      "kind": "event",
+      "safe_through": 957,
+      "title": "抵达大罗星，数万弟子恭迎，王林受任大罗剑宗长老",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26799"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 957,
+              "start": 957
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26793",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "唯一的宗派，就是大罗剑宗",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗星上海洋占据大半，星上唯一的宗派是大罗剑宗，地面上有一处处高塔。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26794",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "密密麻麻竟然不下数万",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗剑宗数万弟子（一眼望去不下数万）飞起停留在半空，修为大都是问鼎，阴虚虽有但极少，阳实一个也没有。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26795",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "那些真正踏入第二步的修士，另有去处而已",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候称天运宗七系弟子大多天天压制修为、生怕修为无法操控而被天运子一口吞了，而大罗剑宗真正踏入第二步的修士另有去处。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26796",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "恭迎宗主剑尊",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗剑宗数万弟子人人背有大剑，在王林与凌天候降临刹那躬身齐声高呼「恭迎宗主剑尊」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26797",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "顿时神色古怪起来",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "数万弟子中有几十人飞出临近凌天候身边，其中有几人正是当日随凌天候去过天运宗、认识王林者，见到王林后神色古怪。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26798",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "并无辰龙身影",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林在迎接的弟子中扫视后，发现其中并无辰龙身影（他曾于当初联盟北部一战遇到辰龙）。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26799",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "从今以后，王林便是我大罗剑宗长老",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候在大罗星最高的一座巨塔之上当众宣布：「从今以后，王林便是我大罗剑宗长老！」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26800",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "便一晃之下，进入到了那巨塔内",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "说完宣布后，凌天候一晃之下进入巨塔之内。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26801",
+              "revealed_at": 957,
+              "source_refs": [
+                {
+                  "anchor": "老夫要闭关数月",
+                  "chapter_id": "ch-000957",
+                  "chapter_order": 957,
+                  "path": "source/vol-009/ch-000957.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候以神念告知王林，自己要闭关数月，这期间王林在大罗星内绝无危险。"
+            }
+          ],
+          "id": "update-3798",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26800"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26801"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0753/index.json",
+                "record_id": "char-0753"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1432/index.json",
+                "record_id": "char-1432"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 957,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "二人降临大罗星，数万背剑弟子躬身齐呼「恭迎宗主剑尊」，数十名亲近弟子飞出迎候，其中数日前随凌天候去过天运宗者见王林神色古怪。凌天候在最高巨塔上宣布「从今以后，王林便是我大罗剑宗长老」，随即入塔闭关，并以神念告知王林数月内在大罗星绝无危险。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3799",
+      "introduced_at": 958,
+      "kind": "event",
+      "safe_through": 958,
+      "title": "王林在大罗星被迎为长老、自择塔外驻地并布下禁制",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26804"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26807"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 958,
+              "start": 958
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26803",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候进入那座巨塔后，四周数万大罗剑宗弟子的目光齐齐凝聚在塔外的王林身上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26804",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林散开神识向四周横扫，这些大罗剑宗弟子一个个面色大变，看向王林的目光露出敬畏。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26805",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林开口询问自己的居住之处在哪里。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-2117/index.json",
+                "record_id": "char-2117"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26806",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "弟子周秀见过长老",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一名相貌秀美的女修上前数步，在王林十丈外停下，自称「弟子周秀」并见过长老，说长老来得突然，居住之处一般都是长老自己选定。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26807",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林向前迈出一步，身影消失后又出现在千里外一处外围高塔旁；他略看一眼并未进入，盘膝坐在塔外，右手一挥在四周幻化出大片禁制。"
+            }
+          ],
+          "id": "update-3799",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26806"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2117/index.json",
+                "record_id": "char-2117"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1165/index.json",
+                "record_id": "char-1165"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 958,
+          "status": "closed",
+          "story_time": null,
+          "summary": "凌天候进入巨塔后，数万大罗剑宗弟子目光齐聚王林，王林以窥涅初期神识横扫四周令众弟子敬畏；王林开口询问居住之处，女修周秀回话说居住之处一般由长老自己选定；王林随即挪移到千里外一处外围高塔旁，不入塔而盘膝坐在塔外，挥手布下大片禁制。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3800",
+      "introduced_at": 958,
+      "kind": "event",
+      "safe_through": 958,
+      "title": "王林虚拿极阳按入眉心，以自身为炉承接因果之饵",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26809"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26812"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 958,
+              "start": 958
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26802",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "凌天候告诉我这么多隐秘之事",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林心中判断：凌天候告诉他诸多隐秘之事并如此相助，潜在之意是要向他示好，其中绝大部分原因在于他的「朱雀序列」，另有一部分是要让他安心。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26808",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林有自己每一步都在天运子计算之中、一切都被天运子算尽的感觉。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26809",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "今日，我就让你彻底的算错",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林自语道：「天运子，当年王某让你失误一次，今日，我就让你彻底的算错！」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26810",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林一拍储物袋取出那一丝极阳，只能虚拿不敢握紧；他自以为若握紧此物，手掌立刻会被其内炙热穿透，连元神都会受到重创，若非他是古神之体，连这样虚拿都承受不住。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26811",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林判断这一丝极阳是一个天运子计算的因果所化，若被人抢走倒也解了此局，但那只是「解」而非「破」；所谓破局是让天运子始料不及、彻底算错。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26812",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "蓦然间按向自己眉心",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林虚拿着那一丝极阳，蓦然按向自己眉心；一阵剧痛从眉心传出后，那极阳融入他额头消失不见。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26813",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "极阳入体后王林体内如起一片火海，无法想象的高温炙热充斥全身；身体外有大片白雾弥漫，但衣衫没有半点被燃烧的痕迹，豆大汗珠把衣衫全部打湿，体内不断传出砰砰之声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26814",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林凭古神肉身与极强定力强忍极阳焚身之痛，虽痛苦颤抖仍未大吼出声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26815",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "约一炷香后王林猛地睁眼，目中似有两团青色火焰弥漫，身体外有无形之火烘烤虚空、传来咔咔之声，他忍不住一声咆哮，化作雷霆轰隆隆传荡。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26816",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗星巨塔内凌天候盯着王林所在方向，眉心原本已合并的裂缝再一次张开，双目猛的一凝，认出王林体内之物是「极阳」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26817",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候抬手又缓缓放下，思索天运子以这一丝极阳为饵的目的，自语道：「天运老儿，莫非你是想要我来取这一丝极阳？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26818",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "这不是你可以吞下之物",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子在仙山顶睁开双眼，目光似可穿透一切距离看到大罗星上的王林，轻声道「这不是你可以吞下之物……再过七息，你就会把它吐出」，随后逐息念数。"
+            }
+          ],
+          "id": "update-3800",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26815"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 958,
+          "status": "closed",
+          "story_time": null,
+          "summary": "王林自认一切被天运子算尽，自语要让天运子彻底算错；他从储物袋取出那一丝极阳，只能虚拿而不敢握紧，认为此物是天运子所算因果所化，抢走只能解局、不能破局，遂将极阳按向自己眉心使其融入体内。极阳入体后他体内成一片火海，体表白雾弥漫而衣衫不燃，汗珠湿衣、体内砰砰作响，他凭古神肉身强忍焚身之痛。同一时间，凌天候在巨塔中看出极阳并自语言及天运子以极阳为饵；天运子在天运星天云宗三叉戟状仙山顶遥看，断言「这不是你可以吞下之物」，并开始数数计息。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26808"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26811"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3801",
+      "introduced_at": 958,
+      "kind": "event",
+      "safe_through": 958,
+      "title": "天运子数到第七息，天逆珠子现身吸尽火海",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26820"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 958,
+              "start": 958
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26819",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "喊出了最后一个字",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子喊出「七」的刹那，王林体内的火海彻彻底底爆开，从身体每一处角落齐齐凝聚，直奔其元神焚烧而去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26820",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "全部被吸入天逆之中",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林元神中有云雾缭绕，天逆珠子随之出现；火海尚未伤及元神便被一股奇异吸力全部吸入天逆之中，王林身体的剧痛瞬间消失，转为一片难以形容的舒爽。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26821",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "那代表日头的印记，迅速闪烁阵阵明亮之芒",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天逆珠子把火焰全部吸收后，其上日月印记中代表日头的印记迅速闪烁明亮之芒；叙述称这种光的外人之色外人看不到，唯有王林可见。"
+            }
+          ],
+          "id": "update-3801",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26821"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0290/index.json",
+                "record_id": "char-0290"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 958,
+          "status": "closed",
+          "story_time": null,
+          "summary": "天运子念出「七」的刹那，王林体内火海彻底爆开并直奔其元神；王林元神中天逆珠子出现，把涌来的火海全部吸入，王林身体剧痛瞬间消失，转为难以形容的舒爽。天逆珠子日月印记中代表日头的印记迅速闪亮，此光外人看不到、唯王林可见。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26818"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3802",
+      "introduced_at": 958,
+      "kind": "event",
+      "safe_through": 958,
+      "title": "无形之光反噬凌天候，其吐血撞碎塔壁后遁入地底",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26822"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26824"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 958,
+              "start": 958
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26822",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候只见王林体内火海以不可思议的速度瞬间消失，心神中蓦然生出一丝大祸临头的危险错觉；这种若不退避就会魂飞魄散的感觉，他唯有当年在昆虚修真宗内才有过；后退中他在眉心狠狠一拍，与灰衣天运子一战现身的剑形虚影立刻幻化而出并向前轰击。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26823",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "撞碎了塔壁",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "剑形虚影刚飞出即与临至的无形之光轰然相碰，这声音外人听不到也无法感受；凌天候直接喷出一大口鲜血，身子后退中撞碎了塔壁；剑形虚影一颤几乎崩溃，带着凄惨之叫迅速回到他眉心，凌天候面色再度苍白、又喷一大口鲜血而萎靡。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26824",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候吓的头皮发麻，毫不犹豫一闪遁入地底，直奔大罗星中心之处；逃遁中双手掐诀，不断地打开前方一层层封印，脑中唯一念头是尽快进入大罗星中心。"
+            }
+          ],
+          "id": "update-3802",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26823"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 958,
+          "status": "closed",
+          "story_time": null,
+          "summary": "凌天候只见王林体内火海以不可思议的速度瞬间消失，随即心生大祸临头之感，这种危险感唯有当年在昆虚修真宗时有过；他后退中在眉心一拍召出剑形虚影向前轰击，与临至的无形之光相撞，凌天候喷出一大口鲜血并撞碎塔壁倒退，剑形虚影几乎崩溃、带凄惨之叫回到其眉心，他再度喷血、面色苍白萎靡，毫不犹豫遁入地底直奔大罗星中心，逃遁中双手掐诀不断打开前方一层层封印。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26821"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3803",
+      "introduced_at": 958,
+      "kind": "event",
+      "safe_through": 958,
+      "title": "天运子神色大变、七彩云层崩溃，虚幻之手自虚无抓来",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26826"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 958,
+              "start": 958
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26825",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "竟然有一丝惊",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运星三叉戟状仙山顶的天运子原本平静的神色瞬息间大变，双目内竟然现出一丝惊；叙述称他是联盟长老团成员、天运星之主。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26826",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子双手在身前极快一挥，七彩云层凭空而去向前急推，似要抵抗什么；云层飘出不到半丈便砰的一声崩溃。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26827",
+              "revealed_at": 958,
+              "source_refs": [
+                {
+                  "anchor": "从虚无中幻化，向着天运子，狠狠的抓来",
+                  "chapter_id": "ch-000958",
+                  "chapter_order": 958,
+                  "path": "source/vol-009/ch-000958.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "七彩云层崩溃之中，有一只手从虚无中幻化，向着天运子狠狠地抓来。原文未说明该手的来处或主人。"
+            }
+          ],
+          "id": "update-3803",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26827"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 958,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "天运星三叉戟状仙山顶上的天运子神色瞬息大变，双目中竟现出一丝惊，叙述称他身为联盟长老团成员、天运星之主；他双手一挥推出七彩云层向前抵挡，云层飘出不到半丈即砰然崩溃，崩溃中有一只手自虚无中幻化，向天运子狠狠抓来。该章在此处结束。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26821"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3804",
+      "introduced_at": 959,
+      "kind": "event",
+      "safe_through": 959,
+      "title": "虚幻大手袭天运星，天运子倾力抵抗",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26828"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26830"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26832"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26834"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26835"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 959,
+              "start": 959
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26828",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "口中低喝：“北斗七星之力！”",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子见虚无中伸出的大手，神色大变、身影爆退，双手掐诀低喝「北斗七星之力」，天空降临七彩长虹落在其身，右手一拍化作含七个星点的七色漩涡，挡在大手与他之间。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26829",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "那大手根本就无视七色漩涡的存在",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "那大手无视七色漩涡，直接穿透而过，天运子再喝「七星碎仙」使七个星点尽数爆开形成冲击，大手仍无半点停顿，穿透冲击狠狠抓向天运子。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26830",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "把这已经上万年没有施展过的天运之术",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子施展其一生法术大成、上万年未用的「天运之术」，右手指天，天运星长空云层消散，晴空中幻化出一个蔓延无数万里的巨大罗盘状虚影，其上布满符文印记；他又喝「奉天承运」，罗盘缓缓旋转，他飞向罗盘中心以右手掐指推演。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26831",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "天运星，不足十之其一",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子推演后自断「此物无法抵抗」，又以「天运之术，开六道封印」令虚幻罗盘疯狂暴增，罗盘之大使天运星不足其十之一。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26832",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "竟然又有上千分身出现在了身体外",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子在眉心一点，体内散出上千个与自己形貌相同的虚影分身，齐齐扑向大手被其吸收；如此反复，到第四次点眉心放出上千分身再次被吸收。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26833",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "这大手缓缓地后退，不去理会天运子",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "吸收分身后，那大手缓缓后退，渐渐就要消失在虚空。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26834",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "却是一把十丈长短的三叉戟",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子不肯罢休，声称吸走多少元力就要吐出多少，右手按向下方三座与三叉戟极为相似的山峰；三峰崩碎坍塌，三道银光自山内透出，被他虚空一抓摄出，化为一柄十丈长短、通体银色的三叉戟「天运戟」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26835",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "竟然直接穿透大手，从其内一闪而过",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子将三叉戟抛向大手，戟直接穿透大手，被穿透处疯狂散出无尽天地元力，这些元力飞向天运子化作虚影融入其体内。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26836",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "大手却是虚空向着天运子一握",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大手抓住三叉戟，戟内传出碎裂之声、银芒飘散被其吸收；大手松开三叉戟后虚空向天运子一握，天运子身子颤抖如被虚幻手掌抓住，被狠狠一捏，体内幻化的大量虚影被以数倍于先前的速度融入大手。约十息后大手通体几乎化作实质，却未继续吸收，缓缓松开缩回虚无。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26837",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "立刻选择闭关",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子此后再不敢追击，面无血色、眼中茫然，喷出一大口鲜血，收回三叉戟返回天运星，立刻选择闭关。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26850",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "其中南斗主死，北斗主生",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述提到修真联盟内有一个古老的传说：星空中有南北二斗，南斗主死、北斗主生，各自掌握星辰之力；天运子以神通凝聚幻化出传说中之物。"
+            }
+          ],
+          "id": "update-3804",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26836"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26837"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2118/index.json",
+                "record_id": "char-2118"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 959,
+          "status": "ended",
+          "story_time": null,
+          "summary": "一只从虚无中伸出的大手出现在天运子面前，无视其「北斗七星之力」「七星碎仙」，直取天运子。天运子施展上万载未用的「天运之术」，令天运星上空幻化出巨大罗盘，推演出此物无法抵抗，遂开六道封印、放出上千分身供其吞噬；后又按碎三座三叉戟形状的山峰取出「天运戟」穿透大手，逼出被吸元力。大手回身抓住三叉戟并虚空握捏天运子约十息，吸走大量虚影后缩回虚无，天运子不敢再追。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3805",
+      "introduced_at": 959,
+      "kind": "event",
+      "safe_through": 959,
+      "title": "天运子道心现裂痕，退守天云宗自省",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26841"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 959,
+              "start": 959
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26838",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "先是在那王林身上错了一次，引出了此物",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子自述此番一连错了两次：先是在王林身上错了一次，引出了此物；又在此物身上错了一次，引起其更多吞噬。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26839",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "而是有灵操控",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子判断那虚幻之手并无杀人之意，只是在吸收，一旦吸收足够就会离开；他称自己算到了前面，却没算到这大手不是死物，而是有灵操控。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26840",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "但这十息，若是换了其他碎涅修士",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子自述被大手抓住虽只十息，但若换了其他碎涅修士，全身血肉元力一切都会被吸得彻彻底底。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26841",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "天运子回到天云宗，在后山盘膝坐在一处青石",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子回到天云宗，在后山一处青石上盘膝而坐，容颜以肉眼可见的速度飞快衰老。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26842",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "以我之天道，代替天下之道",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子自述：当年修真联盟长老团内剧变，他第一次算错，道心有了裂痕；此后机缘之下遇到「他」，虽只一眼却有了明悟，裂痕渐有弥补迹象，又以数万年时间修至道心再次圆满，并自称「我心中自成天道，以我之天道，代替天下之道」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26843",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "我这一生天运之算，只错过一次",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天运子自述王林先前在妖灵之地时他虽失误，最终仍回到自己的算计之内；而此番先在王林身上算错，后又算错了那虚幻之手。他明白自己损失的不只是元力，最要紧的是圆满的道心有了裂痕。"
+            }
+          ],
+          "id": "update-3805",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26838"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26839"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26842"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 959,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "天运子回到天云宗后山青石盘坐，容颜迅速衰老。他自述此番一连算错两次（先在王林身上、后在那虚幻大手身上），并判断大手并无杀人之意、只是在吸收元力，吸足即走，且有灵操控。他回顾当年联盟长老团剧变时第一次算错、道心裂痕，以及后来遇到「他」而重新圆满道心的经过。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26837"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3806",
+      "introduced_at": 959,
+      "kind": "event",
+      "safe_through": 959,
+      "title": "凌天候被无形之光追杀，遁入大罗星祭火处",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26844"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26845"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26847"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 959,
+              "start": 959
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26844",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "那无形之光紧追不舍",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候一脸惊慌、头皮发麻地在地底深处疾驰，身后一道无形之光紧追不舍，沿途所有禁止封印与阵法都无法阻拦。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26845",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "一头钻入这大罗星内部的边缘",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候咬牙钻入大罗星内部的边缘，刚入内便感到一股热浪扑面而来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26846",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "遗留下来的祭火",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候自述：当年获得大罗星时便知晓此星内部留有一道昆虚修真总虚灵上人炼化大罗星时遗留下来的祭火，眼下危机，希望借祭火抵御。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26847",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "凌天候直接喷出一大口鲜血，但身子却速度更快",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "无形之光迅速临近并穿透而来，化光为一只大手向凌天候抓去；大手轻轻一招手，凌天候便喷出一大口鲜血，但身子速度更快，直接冲出。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26848",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "我只是神识查看那王林而已",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候内心不解，自认只是以神识查看王林，却被这无形之物纠缠不休。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26849",
+              "revealed_at": 959,
+              "source_refs": [
+                {
+                  "anchor": "一头黑色的火凤朱雀",
+                  "chapter_id": "ch-000959",
+                  "chapter_order": 959,
+                  "path": "source/vol-009/ch-000959.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候冲出后看到前方被一片火光笼罩的一团火焰，其形状是一头黑色的火凤朱雀。"
+            }
+          ],
+          "id": "update-3806",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26849"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2119/index.json",
+                "record_id": "char-2119"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 959,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "凌天候在地底深处慌乱疾驰，身后无形之光穿透一切禁制封印与阵法紧追。他咬牙钻入大罗星内部边缘，欲借星内虚灵上人炼化此星时遗留的祭火抵御。无形之光化作大手抓来，招手之下凌天候喷血仍加速冲出，终于看到前方火光笼罩的一团火焰，形状是一头黑色火凤朱雀。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26848"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3807",
+      "introduced_at": 960,
+      "kind": "event",
+      "safe_through": 960,
+      "title": "凌天候遭虚幻大手吞噬修为，脱身后决意闭关",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26851"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 960,
+              "start": 960
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26851",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "anchor": "其体内被吸之力，略有停顿",
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候扑向黑色火凤朱雀时，身后追击的虚幻大手隔空一握，将其死死困住，并在六息内疯狂吸走其血肉、元力、元神与灵魂，凌天候连吼声都无法发出。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26852",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "凌天候眉心闪出妖异黑芒弥漫全身，使体内被吸之力略有停顿；随后那虚幻大手松开、缓缓缩回并消失于虚无，凌天候生出劫后余生之感。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26853",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "anchor": "若非是天运子那里损失的太多",
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述交代：若非天运子那里损失的太多，凌天候此刻已被生生吸收吞噬。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26854",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "六息之间凌天候体内一切已被吸取一大半；他不知天运子那里发生的事，打定主意绝不轻易外出、就在此处闭关争取恢复修为，并把寻王林报损失修为之仇的念头抛在脑后。"
+            }
+          ],
+          "id": "update-3807",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26852"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26853"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26854"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 960,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "凌天候扑向黑色火凤朱雀时被身后追击的虚幻大手隔空握住，六息内血肉、元力、元神与灵魂被疯狂吸走；眉心黑芒一闪使吸力略停，大手随后松开消失。他体内力量已被吸去大半，因惧怕大手而放弃向王林寻仇，决定留在原处闭关恢复。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26851"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3808",
+      "introduced_at": 960,
+      "kind": "event",
+      "safe_through": 960,
+      "title": "天逆珠吸收极阳，王林肉身与元神蜕变（十日闭关）",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26855"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 960,
+              "start": 960
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26855",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林盘膝坐在大罗剑宗高塔外，体内火海早已消失，取而代之的是天逆珠子散发的明亮之芒；那光芒分出两道，一道直奔巨塔内的凌天候，一道融入虚无不知去向，不久两道几乎同时归来，顺其肉身融入元神中的天逆珠子。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26856",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天逆珠上原有日月两个图案，其中圆形太阳仿若拥有灵性，明亮之光正从其散出，融合两道光芒后缓缓转动；此幕除王林外无人可察觉，大罗剑宗弟子因凌天候的剧变纷纷散开四周，神情迷茫不解。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26857",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天逆吸收极阳后，太阳图案越转越快，最终成为一场光的风暴，搅动王林的元神与神识；光芒带一丝暖意，王林不但没有不适反而很舒服，心神静止下来。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26858",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林体内元力在光芒照耀下流动渐快，每次流转一周天都有光亮融入，元力出现了一丝炙热的变化。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26859",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林的元神本是太古雷龙的样子，此刻在太古雷龙之上酝化出一个红色絮状气团，缓缓旋转、不断吸收光芒之力而渐渐壮大。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26860",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林的古神肉身吸收这些光芒后增强不少，皮肤起了一层红润，泌出晶莹汗水。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26861",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林盘膝处方圆百丈内有炙热气息弥漫，试图靠近者会立刻止步，若强行上前不出数步就会形神俱灭。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26862",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林这一坐便是十天，一动不动；其修为早在罗天与联盟大战时便只差意境感悟即可达窥涅中期，十天内没有任何改变，因为意境感悟强求不得。"
+            }
+          ],
+          "id": "update-3808",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26857"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26859"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26860"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26862"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 960,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "王林在大罗剑宗高塔外盘膝，天逆珠亮起后分出两道光芒（一道去凌天候、一道入虚无）并尽数归回。太阳图案被极阳催动高速旋转成光的风暴，王林元力出现炙热变化、元神上酝化出红色絮状气团、古神肉身亦增强；方圆百丈炙热无人可近。他连坐十天，修为仍卡在只差意境感悟的状态。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26855"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3809",
+      "introduced_at": 960,
+      "kind": "event",
+      "safe_through": 960,
+      "title": "王林以第三目本源之力开启天逆大门，逆行窥见本源",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26872"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26871"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 960,
+              "start": 960
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26863",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "第十一天中午天逆珠上太阳图案的转动彻底停顿，停顿刹那王林眉心第三目自动打开，其内红光一闪，所蕴本源之力尽数顺着肉身融入天逆珠的太阳图案中。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26864",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林的本源之力大部分来自战字贴，小部分是在朱雀星从符族感悟中吸收；两种力量都是本源、可完美融合，一直保留在第三目内，成为他与王林斗法的最终极保命神通。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26865",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "本源之力融入天逆珠的瞬间仿若打开了天逆的钥匙，天逆珠子轰然一震，从其内传出一股大力，卷着王林的神识吸入天逆珠子之内。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26866",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林神识所见的虚无无尽之处有一扇顶天立地的大门，他在门面前如同蝼蚁大小。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26867",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林临近时大门发出轰隆巨响、缓缓打开一道缝隙，缝隙内冲出只能感受而看不到的冲击之力，王林一震、脚步停下，再次如当年般迷失。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26868",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林刚迷失，大门上便散开一股炙热气息融入他停留在门外的身体，使其心神一震、清醒过来。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26869",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林清晰辨出那股炙热气息正是被天逆吸收的极阳之力。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26870",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "anchor": "五行圆满，可出现这天逆大门",
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林推断：五行圆满可出现天逆大门，但也仅仅是出现，进入其中却做不到，如他当年止步门外、身心迷失；五行之后是阴阳，此刻天逆吸收了阳极、阴阳达到半圆满，所以在他刚迷失时让他清醒，只是不知极阴的作用、以及阴阳全部圆满后又会如何。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26871",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林自语「我要知晓，这天逆，真正的秘密！」后抬脚向天逆大门的裂缝迈去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26872",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林右脚迈入裂缝的刹那身子一颤，一股阴风从裂缝内吹出、直接穿过他的身体，他顿觉灵魂好似被吹出，顺着阴风不断向后倒退，消失于无尽虚无之中。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26873",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "倒退之中王林感到自身不断缩小、千年岁月弹指逆转、往事在心神中逆走，最终停留在婴儿时酝酿于母亲胎盘内的场景，听到怦怦心跳声，久违的父母亲情融入心神；这种感觉只是一顿便随阴风逆走而过。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26874",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林又一次后退时遇到一股阻隔其后退的奇异之力，但那力量相对阴风微不足道，一声脆响后即崩溃，王林随即看到蓝天、白云与白云下展翅飞翔的飞鸟。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26875",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "那飞鸟羽毛多姿、飞行矫健，移动间好似画出天道之弧渐渐远去；王林生出一种错觉，好似这飞鸟就是自己，很熟悉。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26876",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林看到这飞鸟短暂的一生只有几十年，如上一世轮回中已消散的记忆被触动打开；他亲眼看到飞鸟死于一条蟒蛇口中、心中一痛，飞鸟临死前如同看破虚无的目光落在他眼中，彻底打开了原本一切力量都不可能找回的记忆。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26877",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林自语「本源……这……这才是本源……」，脑中如惊雷轰过，好似抓到了一丝脉络。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26878",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林身子再次后退，阻隔的奇异之力变得强大太多而纹丝未动，两股力量撞击许久后壁垒裂开缝隙；他钻入缝隙的刹那看到一片刺目红芒，随即被一股无法想象的推力送出，全身好似被撕裂成无数，倒卷而退中身体轰然崩溃。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26879",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "崩溃刹那王林猛地睁开双眼，仍站在天逆大门下、右脚悬空正要踏入；刚才所经历的一切都在他抬脚准备踏下那一瞬间内发生。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26880",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天逆大门的裂缝缓缓闭合，最终化作虚幻消失于王林面前。"
+            }
+          ],
+          "id": "update-3809",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26878"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26879"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26880"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 960,
+          "status": "concluded",
+          "story_time": null,
+          "summary": "第十一天太阳图案停转，王林第三目自动打开，本源之力灌入天逆珠，神识被卷入珠内的天逆大门前。他推断五行圆满只令大门出现、阴阳半圆满使他在迷失中清醒，随即主动迈步踏入裂缝，顺阴风逆退历见母胎、前世飞鸟与蟒蛇，再被更强壁垒后的刺目红芒推回、身体崩溃。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26863"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26865"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3810",
+      "introduced_at": 960,
+      "kind": "event",
+      "safe_through": 960,
+      "title": "王林出关，气息达窥涅中期巅峰",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26881"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 960,
+              "start": 960
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26881",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大罗剑宗内盘膝的王林慢慢睁开双眼，沉默许久后长叹一声，站起身子。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26882",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "anchor": "达到了窥涅中期的巅峰",
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林起身的刹那，一股极为强大的气息从其体内轰然爆发，这气息之强已达窥涅中期的巅峰。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26883",
+              "revealed_at": 960,
+              "source_refs": [
+                {
+                  "anchor": "原来，这，才是本源",
+                  "chapter_id": "ch-000960",
+                  "chapter_order": 960,
+                  "path": "source/vol-009/ch-000960.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林叹言「原来，这，才是本源……」。"
+            }
+          ],
+          "id": "update-3810",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26882"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26883"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 960,
+          "status": "progressing",
+          "story_time": null,
+          "summary": "王林在现实中睁眼、沉默、长叹后站起，起身刹那爆发出达到窥涅中期巅峰的强大气息，并叹言这才是本源。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3811",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林在大罗星释放修为并参悟本源",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26884"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26884",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "形成一股以王林为中心点的庞大漩涡",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林在大罗星将窥涅中期巅峰的修为化作磅礴元力外放，形成以他为中心的庞大漩涡，弥漫整颗大罗星；大罗剑宗弟子受压迫，纷纷不由自主运转体内灵力抵抗。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26885",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "不是我的前生，而是一种我心神的象征",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林沉思认为，他在天逆大门外看到的飞鸟不是自己的前生，而是其心神的一种象征、借此而生之物；飞鸟最终葬身蟒口之意他仍未参透，只隐约把握到一丝脉络。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26886",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "还需吸收了极阴后的阴阳大圆满",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林判断此次是天逆吸收极阳后的一次小圆满，若要真正明悟一切，还需吸收极阴后的阴阳大圆满。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26887",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "此局，破",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林心中认定：无论天运子计算的是他还是凌天候，这一次天运子在他身上算错了，此局已破。"
+            }
+          ],
+          "id": "update-3811",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26885"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26886"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26887"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0753/index.json",
+                "record_id": "char-0753"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "completed",
+          "story_time": null,
+          "summary": "王林以窥涅中期巅峰修为在大罗星释放磅礴元力，形成以其为中心的庞大漩涡，大罗剑宗弟子被迫运转灵力抵抗；他静立参悟天逆门外所见飞鸟之象与本源之意。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3812",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林判断天运子算局已破、凌天候为天逆光团所袭",
+      "updates": [
+        {
+          "action_refs": [],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26888",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "这巨塔侧面坍塌出一个大洞",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "原本凌天候所在的巨塔侧面坍塌出一个大洞，洞内仍有残余元力波动。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26889",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "其中一个光团，正是直奔这凌天候而去",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林推断：天逆珠子每次开启都需庞大天地元力，此次开启四周元力没有变化，而凌天候仓惶遁走，其逃遁时间与天逆珠子内外散的两道光团几乎一模一样，因此其中一个光团正是直奔凌天候而去。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26890",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "如果是天运子，就好了",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林推测天逆珠子外散的另一个光团会奔向谁，并希望那是天运子。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26891",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "妖灵之地四仙府，我占据其一，可以带数人同行",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林认为天运子之局已破，不必留在大罗星，眼下要为再去妖灵之地做准备，并称自己在妖灵之地四仙府中占据其一、可以带数人同行。"
+            }
+          ],
+          "id": "update-3812",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26889"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26890"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26891"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0762/index.json",
+                "record_id": "char-0762"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0641/index.json",
+                "record_id": "char-0641"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "completed",
+          "story_time": null,
+          "summary": "王林查看凌天候原所的巨塔坍塌处，推断天逆珠子内外散出的两道光团之一直奔凌天候，致其仓惶遁走，并断定天运子在自己身上的计算已破。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26888"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3813",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林离开大罗星，飞往废弃蛮荒星",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26892"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26894"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26892",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "便离开了大罗星，踏在了星空中",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林身子一晃踏入虚空，向前一迈离开大罗星，站在星空中，随后化作长虹向星空深处疾驰，未施展缩地成寸但速度不慢。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26893",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "并非圆形，而是仿若被吞了一口般，成月牙之状",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "飞行数个时辰后，王林远远看到一颗废弃的蛮荒星：星球形状并非圆形，而是像被吞了一口、呈月牙状漂在星空中，时有碎石脱落，他冲入此星罡风层后脆弱的罡风层连锁瓦解，此星没有半点灵力、大地处处龟裂、无植物、弥漫浓郁死气。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26894",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林双脚落在废弃星的刹那，远处有一大一小两道长虹前后赶来，较小的长虹速度更快，把大的远远落在后面。"
+            }
+          ],
+          "id": "update-3813",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26893"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "completed",
+          "story_time": null,
+          "summary": "王林不再逗留大罗星，计划为再去妖灵之地做准备，随后化作长虹飞行数个时辰，抵达一颗月牙状废弃蛮荒星并冲入其脆弱的罡风层。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3814",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林在废弃星召回大头与雷吉",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26896"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26897"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26900"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26895",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "便被安排在了这里",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大头与雷吉在王林进入天运星之前便被安排在这颗废弃蛮荒星上，等待王林的召唤。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26896",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "参见主人",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大头显出硕大头颅、瘦小身子的形貌，向王林行礼道\"参见主人\"。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26897",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "雷吉见过主人",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "雷吉赶到落地后神色极为恭敬，瓮声道\"雷吉见过主人\"。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26898",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "我今日来此，便是要带你二人去选择一处修真星闭关修炼",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "大头问王林此行是否顺利；王林答\"尚可，只是出了一些小问题\"，并称此来是要带二人去选择一处修真星闭关修炼，因为此地环境恶劣不适合闭关。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-2075/index.json",
+                "record_id": "char-2075"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26899",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "每隔一个时辰就会出现大片崩溃",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "（按大头说法）此地不但处于废弃状态，还每隔一个时辰就会出现大片崩溃，确实不适合闭关。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26900",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "卷着大头与雷吉，直接离开了这废弃星",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林不再多言，大袖一甩卷着大头与雷吉直接离开废弃星，直奔星空。"
+            }
+          ],
+          "id": "update-3814",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26898"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26899"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2075/index.json",
+                "record_id": "char-2075"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1035/index.json",
+                "record_id": "char-1035"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "completed",
+          "story_time": null,
+          "summary": "大头与雷吉早被王林安排在此废弃星等候召唤，二人赶来行礼称\"主人\"；王林告知将带二人去选一处修真星闭关，随即卷二人离开废弃星。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3815",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林以雷吉为坐骑横渡星空",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26901"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26901",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "化作那巨魔族百丈大小的身影",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "星空中雷吉四肢伸开跪伏咆哮，身子无限胀大，化作巨魔族百丈大小的身影；王林一步落在其背上盘膝而坐，大头如侍卫般站在旁边，塔山自王林身后虚影中一步走出、神色冷漠立于旁侧。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26902",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "纷纷自行让道，不敢阻挡",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "雷吉咆哮冲出化作残影疾驰，途中遇到隶属于天运星范围内的修士，这些修士看到雷吉庞大体型后发呆，凡自觉阻挡道路者纷纷自行让道不敢阻挡。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-2121/index.json",
+                "record_id": "char-2121"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26903",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "这是哪位大神通老怪，居然有这等巨魔族坐骑",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "沿途修士议论：来者是哪位大神通老怪，竟有巨魔族坐骑；有人说盘膝坐着的修士有些眼熟；有人称看不透王林身旁两名护卫的修为，连自家宗派大长老也无这种气息。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26904",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "即便是净涅中期，我也有一拼的资格",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林心中评估：当初修为窥涅初期配合古神肉身可战净涅初期修士，如今修为达窥涅中期，战净涅初期不在话下，即便净涅中期也有一拼资格；当年血祖为净涅中期，此时的他应可与其一战，胜之把握不大，但净涅中期修士要杀他也不易。"
+            }
+          ],
+          "id": "update-3815",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26902"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26903"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26904"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1035/index.json",
+                "record_id": "char-1035"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2075/index.json",
+                "record_id": "char-2075"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-1745/index.json",
+                "record_id": "char-1745"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2121/index.json",
+                "record_id": "char-2121"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "completed",
+          "story_time": null,
+          "summary": "雷吉在星空中化作巨魔族百丈身躯，王林盘膝坐于其背，大头随侍，塔山自王林身后虚影走出立于旁侧；沿途天运星范围内的修士见之纷纷让道并议论恭敬。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-3816",
+      "introduced_at": 961,
+      "kind": "event",
+      "safe_through": 961,
+      "title": "王林与肉山老者舟船相遇，七名黑衣人拦路",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26907"
+            },
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26908"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 961,
+              "start": 961
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26905",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "此舟长约三十丈，通体漆黑",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "王林前方星空万里外有一艘长约三十丈、通体漆黑、散发阵阵法宝波动与浓郁灵力的舟形之物，缓缓前行。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26906",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "舟上有一张巨大靠椅，椅上斜躺着身子极为肥大的肉山般老者，身旁七八个身穿纱衣的妖艳女子为其斟酒、奉果、揉捏身体，其中两人趴伏在他怀里；老者与女子外围站着七个一动不动、气息凌厉神色冷漠的黑衣人，舟船外还有上百名青色衣衫的修士踏剑光为其护行。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-2082/index.json",
+                "record_id": "char-2082"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26907",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "果然是他",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "肉山老者先于四周之人察觉前方异常，眉头一皱，把酒杯伸向旁边女子命其斟酒；待看到庞大身影直奔此地而来后，面部肌肉一抖、眼中爆出精光，饮尽杯中酒，低语\"果然是他\"。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-26908",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "化作七道长虹直奔前方而去",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "舟船上的七个黑衣人几乎同时抬头目露寒光，同时踏出化作七道长虹直奔前方，拦住来路。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-2120/index.json",
+                "record_id": "char-2120"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-26909",
+              "revealed_at": 961,
+              "source_refs": [
+                {
+                  "anchor": "三息让道避过，违者，杀",
+                  "chapter_id": "ch-000961",
+                  "chapter_order": 961,
+                  "path": "source/vol-009/ch-000961.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑衣人喝道：\"前方来者，三息让道避过，违者，杀！\""
+            }
+          ],
+          "id": "update-3816",
+          "outcome_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26909"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0001/index.json",
+                "record_id": "char-0001"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2082/index.json",
+                "record_id": "char-2082"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-2120/index.json",
+                "record_id": "char-2120"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 961,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "星空万里外一艘三十丈漆黑舟形法宝上，一名肉山般老者由妖艳女子侍奉、七名黑衣人与上百青衫修士护行；老者先察觉来者并饮下杯中酒，七名黑衣人化作七道长虹上前喝令三息让道，违者杀；王林神识同时发现了老者。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0023.json",
+              "record_id": "claim-26906"
+            }
+          ]
+        }
+      ]
     }
   ],
   "id": "block-0023",
   "kind": "event_collection",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
-  "revision": 27,
-  "safe_through": 954,
+  "revision": 34,
+  "safe_through": 961,
   "schema_version": "2.0"
 }

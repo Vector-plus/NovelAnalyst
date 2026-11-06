@@ -1,0 +1,30 @@
+{
+  "id": "thread-1162",
+  "introduced_at": 1068,
+  "kind": "story_thread",
+  "label": "罗天与联盟残余之战",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1068,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1068,
+          "start": 1068
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1162-001",
+      "resolution_refs": [],
+      "revealed_at": 1068,
+      "role": "core",
+      "status": "ongoing",
+      "summary": "罗天占据联盟西部、北部后，因炎雷子与修真联盟的仇隙，继续进攻中央联盟残余，战火持续。"
+    }
+  ]
+}

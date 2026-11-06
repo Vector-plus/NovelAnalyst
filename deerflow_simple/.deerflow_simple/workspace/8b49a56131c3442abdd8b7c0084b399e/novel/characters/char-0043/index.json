@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "会武中曾暗示田灵儿对陆雪琪一场存在变数；后被田灵儿指认为消息外传链的一环（她等人→水月大师→苏茹）。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0043/index.json",
+          "record_id": "char-0043"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0043/stages/stage-002.md",
+        "record_id": "doc-char-0043-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    }
+  ],
+  "id": "char-0043",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 17,
+  "kind": "entity_index",
+  "label": "文敏",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 31,
+  "schema_version": "2.0"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1064",
+  "introduced_at": 984,
+  "kind": "story_thread",
+  "label": "炼魂部落膜拜的石像与族人身世",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 984,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 984,
+          "start": 984
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1064-001",
+      "resolution_refs": [],
+      "revealed_at": 984,
+      "role": "石像内部真容与族人天灵散出气息的性质在本章被揭示为妖气，族人被认定为妖灵之地原住民。",
+      "status": "advanced",
+      "summary": ""
+    }
+  ]
+}

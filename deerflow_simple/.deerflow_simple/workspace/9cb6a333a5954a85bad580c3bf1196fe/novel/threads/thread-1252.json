@@ -1,0 +1,30 @@
+{
+  "id": "thread-1252",
+  "introduced_at": 1128,
+  "kind": "story_thread",
+  "label": "吕烟菲毁掉的古老画轴",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1128,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unexplained_action",
+      "chapter_ranges": [
+        {
+          "end": 1128,
+          "start": 1128
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1252-001",
+      "resolution_refs": [],
+      "revealed_at": 1128,
+      "role": "new",
+      "status": "open",
+      "summary": "吕烟菲以暗力毁掉储物袋中一副古老画轴，本章未说明其内容与动机。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1088",
+  "introduced_at": 1002,
+  "kind": "story_thread",
+  "label": "幽冥引路意外通往魔气大殿",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1002,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1002,
+          "start": 1002
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1088-001",
+      "resolution_refs": [],
+      "revealed_at": 1002,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林以人头魔气为引施展幽冥引路欲开离开此地的通道，漩涡内反涌浓郁魔气，打通一处魔气缭绕的大殿，巨大座椅上坐着一人，王林震惊。"
+    }
+  ]
+}

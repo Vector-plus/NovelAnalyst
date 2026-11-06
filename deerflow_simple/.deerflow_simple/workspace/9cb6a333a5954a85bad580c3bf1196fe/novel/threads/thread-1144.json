@@ -1,0 +1,43 @@
+{
+  "id": "thread-1144",
+  "introduced_at": 1043,
+  "kind": "story_thread",
+  "label": "塔珈的最后夺舍",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1043,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1043,
+          "start": 1043
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-29166"
+        },
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-29173"
+        },
+        {
+          "path": "events/block-0024.json",
+          "record_id": "claim-29174"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1144-001",
+      "resolution_refs": [],
+      "revealed_at": 1043,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "自称为魔者宣称将完成「最后的夺舍」，其目的是被黑气围攻、眉心仅存一点光点的黑雾身影；夺舍尚未完成。"
+    }
+  ]
+}

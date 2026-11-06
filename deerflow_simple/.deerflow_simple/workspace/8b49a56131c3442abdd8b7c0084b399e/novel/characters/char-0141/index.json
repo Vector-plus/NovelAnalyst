@@ -1,0 +1,69 @@
+{
+  "current": {
+    "current_summary": "主持死泽内泽大局：指派青龙、幽姬赴泽并保密真实来意，第104章携伏龙鼎现身以困龙阙困住黄鸟、征询鬼厉如何处置正道诸人；第105章当众把死泽决断权交还鬼厉后离去，其外泽驻地十三名弟子被屠留字「鱼怪」。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0141/index.json",
+          "record_id": "char-0141"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 84,
+      "summary": "四派集结与攻山主谋（第75—84章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0141/stages/stage-005.md",
+        "record_id": "doc-char-0141-stage-005"
+      },
+      "title": "四派集结与攻山主谋"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0141/index.json",
+          "record_id": "char-0141"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 107,
+      "summary": "死泽内泽：伏龙鼎设伏与决断权移交（第95—107章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0141/stages/stage-007.md",
+        "record_id": "doc-char-0141-stage-007"
+      },
+      "title": "死泽内泽：伏龙鼎设伏与决断权移交"
+    }
+  ],
+  "id": "char-0141",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 63,
+  "kind": "entity_index",
+  "label": "鬼王",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 5,
+  "safe_through": 107,
+  "schema_version": "2.0"
+}

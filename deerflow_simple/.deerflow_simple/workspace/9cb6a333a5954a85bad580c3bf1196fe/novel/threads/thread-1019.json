@@ -1,0 +1,30 @@
+{
+  "id": "thread-1019",
+  "introduced_at": 959,
+  "kind": "story_thread",
+  "label": "天运子道心裂痕与对王林的两次算错",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 959,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 959,
+          "start": 959
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1019-001",
+      "resolution_refs": [],
+      "revealed_at": 959,
+      "role": "setup",
+      "status": "open",
+      "summary": "天运子此番接连算错两次，自认圆满道心再开裂痕，容颜迅速衰老并闭关；他明确将其中一次错误归于在王林身上的推算。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0083",
+  "introduced_at": 52,
+  "kind": "story_thread",
+  "label": "古井（满月之井）与三尾妖狐所追问之事",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 52,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 52,
+          "start": 52
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0083-001",
+      "resolution_refs": [],
+      "revealed_at": 52,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

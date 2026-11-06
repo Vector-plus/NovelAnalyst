@@ -1,0 +1,30 @@
+{
+  "id": "thread-0049",
+  "introduced_at": 29,
+  "kind": "story_thread",
+  "label": "烧火棍与天琊的异动（吸嘬灵力、血渗棍身、如千年之待）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 29,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0049-001",
+      "resolution_refs": [],
+      "revealed_at": 29,
+      "role": "side",
+      "status": "open",
+      "summary": "烧火棍在血渗入后黑气青光大作、有吸嘬灵力之力，与天琊如仇敌；天琊出鞘后它涌出如等待千年的力量。成因未说明。"
+    }
+  ]
+}

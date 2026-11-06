@@ -1,0 +1,30 @@
+{
+  "id": "thread-0095",
+  "introduced_at": 60,
+  "kind": "story_thread",
+  "label": "齐昊与田灵儿关系公开",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 60,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0095-001",
+      "resolution_refs": [],
+      "revealed_at": 60,
+      "role": "introduced",
+      "status": "escalated",
+      "summary": "田灵儿当众拉住齐昊的手走向田不易；林惊羽称田不易原本不允，齐昊求苍松道人、再请掌门真人说项后方才首肯，两人关系已公开。"
+    }
+  ]
+}

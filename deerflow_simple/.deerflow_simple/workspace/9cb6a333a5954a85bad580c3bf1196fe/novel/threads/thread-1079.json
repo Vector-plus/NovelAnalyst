@@ -1,0 +1,30 @@
+{
+  "id": "thread-1079",
+  "introduced_at": 995,
+  "kind": "story_thread",
+  "label": "九龙阵法开启第五座洞府",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 995,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 995,
+          "start": 995
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1079-001",
+      "resolution_refs": [],
+      "revealed_at": 995,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "仙灵天境中心九龙阵法成形，各方强者齐聚后众人被紫光带离，第五座洞府正式开启。"
+    }
+  ]
+}

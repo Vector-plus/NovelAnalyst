@@ -1,0 +1,30 @@
+{
+  "id": "thread-1057",
+  "introduced_at": 981,
+  "kind": "story_thread",
+  "label": "云仙道侣的「计划」与剑灵不灭灵决将突破",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 981,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 981,
+          "start": 981
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1057-001",
+      "resolution_refs": [],
+      "revealed_at": 981,
+      "role": "new",
+      "status": "ongoing",
+      "summary": "王巍与胡娟在外围仙府中等候多年，称「他们来了」、只求谨慎不出意外；剑灵将不灭灵决修至第八层、近日可破第九层；王巍疑青霜未逝、不解雨之仙剑为何重凝。"
+    }
+  ]
+}

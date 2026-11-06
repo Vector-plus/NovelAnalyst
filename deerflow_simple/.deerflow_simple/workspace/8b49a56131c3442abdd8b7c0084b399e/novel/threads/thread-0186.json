@@ -1,0 +1,30 @@
+{
+  "id": "thread-0186",
+  "introduced_at": 122,
+  "kind": "story_thread",
+  "label": "为碧瑶求医：寻访南疆大巫师还魂之法",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 122,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 122,
+          "start": 122
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0186-001",
+      "resolution_refs": [],
+      "revealed_at": 122,
+      "role": "developing",
+      "status": "advancing",
+      "summary": "小白指出三百年前苗人大巫师曾以还魂大法救回被摄去一魂三魄之人，二人据此前往七里峒祭坛求见大巫师，却在山脚被苗人战士拦阻围困。"
+    }
+  ]
+}

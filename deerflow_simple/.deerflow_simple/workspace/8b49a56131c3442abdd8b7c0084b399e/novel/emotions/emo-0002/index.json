@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 31,
+      "summary": "田灵儿与齐昊的情感阶段（第17—31章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0002/stages/stage-002.md",
+        "record_id": "doc-emo-0002-stage-002"
+      },
+      "title": "田灵儿与齐昊的情感阶段"
+    }
+  ],
+  "id": "emo-0002",
+  "introduced_at": 17,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 31,
+  "schema_version": "2.0"
+}

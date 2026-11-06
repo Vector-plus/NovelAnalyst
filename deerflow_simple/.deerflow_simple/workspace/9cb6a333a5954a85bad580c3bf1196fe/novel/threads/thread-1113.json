@@ -1,0 +1,30 @@
+{
+  "id": "thread-1113",
+  "introduced_at": 1018,
+  "kind": "story_thread",
+  "label": "海水凝聚的人形之物与截夺灭神矛的海水手掌",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1018,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1018,
+          "start": 1018
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1113-001",
+      "resolution_refs": [],
+      "revealed_at": 1018,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "大海海水收缩凝成人形，仿佛沉睡而有苏醒迹象；在王林即将追上风妖时，海水手掌从王林原处扫过并抓住灭神矛狠捏，出手方与目的尚未揭示。"
+    }
+  ]
+}

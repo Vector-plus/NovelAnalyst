@@ -144,3 +144,41 @@
 {"kind": "event", "local_id": "ev-local-4", "note": "剑尊凌天候（char-0762）本 stage 首次以真身携赤红麒麟到场，与天运子隔空对峙。", "chapter_order": 954}
 {"kind": "claim", "local_id": "claim-local-11", "note": "王林的关键转折性决断陈述，可作为后续破局行动的触发依据。", "chapter_order": 954}
 {"kind": "claim", "local_id": "claim-local-9", "note": "涉及白巍（char-2103）与其「师尊」关系及极阳之日的因果链，属势力/因果设定线索。", "chapter_order": 954}
+{"kind": "event", "local_id": "ev-local-3", "why": "灰衣天运子首次在本阶段正面现身出手，掌握十道真正杀戮之气", "chapter_order": 955}
+{"kind": "event", "local_id": "ev-local-4", "why": "本阶段「破天运子算局」主线的关键认知转折：王林认定天运子曾算错一次", "chapter_order": 955}
+{"kind": "claim", "local_id": "claim-local-15", "why": "天运子「算错一次」的推理链条，是后续破局的依据", "chapter_order": 955}
+{"kind": "claim", "local_id": "claim-local-16", "why": "王林确信天运子可破、死结有解", "chapter_order": 955}
+{"kind": "claim", "local_id": "claim-local-9", "why": "王林与灰衣天运子的传授关系在当面对质中被确认", "chapter_order": 955}
+{"buffer_kind": "key_event", "local_id": "ev-local-1", "note": "王林悟出天逆需阴阳，自认可破天运子算局（stage-023 核心线索）", "chapter_order": 956}
+{"buffer_kind": "key_event", "local_id": "ev-local-3", "note": "双剑决战被送出天运星、灰衣天运子罢手、天运子七彩虚影现身", "chapter_order": 956}
+{"buffer_kind": "key_claim", "local_id": "claim-local-4", "note": "天逆珠所需为阴阳的判断首次明确成立", "chapter_order": 956}
+{"buffer_kind": "key_claim", "local_id": "claim-local-19", "note": "灰衣天运子退出凌天候因果的明确表态", "chapter_order": 956}
+{"buffer_kind": "key_claim", "local_id": "claim-local-21", "note": "天运子现身并主张天运宗之事外人无道理干涉", "chapter_order": 956}
+{"record_ref_or_local_id": "ev-local-1", "kind": "key_event", "chapter_order": 957, "note": "天运子作罢退走，王林以出任大罗剑宗长老为由脱离其掌控"}
+{"record_ref_or_local_id": "claim-local-25", "kind": "key_claim", "chapter_order": 957, "note": "昆虚修真宗三千年三枚邀请简、凌天候与天运子当年同获邀（reported）"}
+{"record_ref_or_local_id": "claim-local-26", "kind": "key_claim", "chapter_order": 957, "note": "形似村姑的女子=与凌天候、天运子一同进入昆虚修真宗的第三人（reported）"}
+{"record_ref_or_local_id": "claim-local-29", "kind": "key_claim", "chapter_order": 957, "note": "昆虚修真宗世代有「昆虚圣女」，其女弟子身份未定"}
+{"record_ref_or_local_id": "claim-local-30", "kind": "key_claim", "chapter_order": 957, "note": "四圣宗曾被称很久以前为昆虚内霸主（reported），影响对四圣宗定位"}
+{"record_ref_or_local_id": "claim-local-17", "kind": "key_claim", "chapter_order": 957, "note": "王林猜测天运子真正目标为凌天候"}
+{"record_ref_or_local_id": "ev-local-5", "kind": "key_event", "chapter_order": 957, "note": "王林公开受任大罗剑宗长老，凌天候闭关数月，约定潮汐深渊开启后同赴仙府"}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林主动以极阳自伤式入体，明示其「破局」思路：不靠抢走因果物解局，而是让天运子算错。", "chapter_order": 958}
+{"kind": "event", "local_id": "ev-local-3", "note": "天逆珠子当场显性吞噬火海类力量，日头印记亮起并伴随仅王林可见之光——本 stage 关键机制证据。", "chapter_order": 958}
+{"kind": "event", "local_id": "ev-local-4", "note": "无形之光重创凌天候（喷血、撞碎塔壁、剑形虚影几乎崩溃），迫使其遁入大罗星中心，星内封印线索打开。", "chapter_order": 958}
+{"kind": "event", "local_id": "ev-local-5", "note": "天运子神色大变、七彩云层被破，出现自虚无而来的手，本章悬念落点。", "chapter_order": 958}
+{"kind": "claim", "local_id": "claim-local-10", "note": "王林自述「解」与「破」的区别，为其针对天运子算局的策略定调。", "chapter_order": 958}
+{"kind": "claim", "local_id": "claim-local-20", "note": "天逆日月印记中日头印记首次明确因吞噬火海而亮起，唯王林可见。", "chapter_order": 958}
+{"ref": "ev-local-1", "kind": "event", "note": "天运子与虚幻大手正面交锋，其天运之术、六道封印、天运戟首次集中展示，且元力被大量吸走", "chapter_order": 959}
+{"ref": "claim-local-11", "kind": "claim", "note": "天运子自述两次算错，明确将第一次错误归于王林，为阶段主线「破天运子算局」的关键陈述", "chapter_order": 959}
+{"ref": "claim-local-15", "kind": "claim", "note": "天运子道心裂痕来历与「以我之天道代替天下之道」的自述，身份与修为背景信息", "chapter_order": 959}
+{"ref": "claim-local-22", "kind": "claim", "note": "大罗星内部祭火呈黑色火凤朱雀形态，与朱雀序列线索相关的实体道具", "chapter_order": 959}
+{"record_local_id": "claim-local-32", "record_kind": "claim", "category": "character_turning_point", "note": "王林修为达窥涅中期巅峰", "chapter_order": 960}
+{"record_local_id": "claim-local-20", "record_kind": "claim", "category": "setting_rule", "note": "天逆大门出现/清醒条件：五行圆满、阴阳半圆满", "chapter_order": 960}
+{"record_local_id": "claim-local-27", "record_kind": "claim", "category": "character_turning_point", "note": "王林自认领悟「本源」", "chapter_order": 960}
+{"record_local_id": "ev-local-3", "record_kind": "event", "category": "key_event", "note": "天逆再开、神识入天逆大门窥见前世飞鸟", "chapter_order": 960}
+{"record_local_id": "claim-local-4", "record_kind": "claim", "category": "faction_or_antagonist_status", "note": "凌天候修为大损、放弃复仇并闭关", "chapter_order": 960}
+{"kind": "event", "local_id": "ev-local-1", "reason": "本stage收尾章：天逆吸阳小圆满后王林修为与外显实力的直接呈现", "chapter_order": 961}
+{"kind": "event", "local_id": "ev-local-2", "reason": "天运子算局判定为破、天逆两光团去向（含凌天候遁走）的核心结论", "chapter_order": 961}
+{"kind": "event", "local_id": "ev-local-5", "reason": "雷吉/大头/塔山随行阵容确立，可供后续跨章去重与关系判定", "chapter_order": 961}
+{"kind": "event", "local_id": "ev-local-6", "reason": "新对手（肉山老者与七名黑衣人）登场，冲突跨章延续", "chapter_order": 961}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "王林对自身战力（净涅层级比对）的自我评估，后续战力描写可作基准", "chapter_order": 961}
+{"kind": "claim", "local_id": "claim-local-8", "reason": "妖灵之地四仙府之一归属与带人同行的后续目标", "chapter_order": 961}

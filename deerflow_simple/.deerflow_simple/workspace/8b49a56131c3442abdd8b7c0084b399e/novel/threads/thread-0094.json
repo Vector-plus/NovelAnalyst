@@ -1,0 +1,30 @@
+{
+  "id": "thread-0094",
+  "introduced_at": 60,
+  "kind": "story_thread",
+  "label": "张小凡的戾气失控与烧火棍异变",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 60,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0094-001",
+      "resolution_refs": [],
+      "revealed_at": 60,
+      "role": "introduced",
+      "status": "ongoing",
+      "summary": "张小凡见田灵儿当众拉住齐昊的手后脑中空白、狂怒涌起，腰间烧火棍腾起冰凉感觉，全身散出杀气煞气，握棍时棍身发出玄青色光芒并显露肃杀之意；田灵儿出声后戾气如潮水退去。此事在众人面前发生，被正道各脉目睹。"
+    }
+  ]
+}

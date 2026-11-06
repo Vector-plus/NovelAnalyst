@@ -1,0 +1,30 @@
+{
+  "id": "thread-1246",
+  "introduced_at": 1125,
+  "kind": "story_thread",
+  "label": "灵兽精魂与意境感悟之关联",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1125,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "setting_reveal",
+      "chapter_ranges": [
+        {
+          "end": 1125,
+          "start": 1125
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1246-001",
+      "resolution_refs": [],
+      "revealed_at": 1125,
+      "role": "power_system",
+      "status": "active",
+      "summary": "王林推断云海星域内灵兽越强、其魂魄对意境感悟越有帮助，并认为这与雷雨两界完全不同，联想朱雀圣宗墨智所送精魂。"
+    }
+  ]
+}

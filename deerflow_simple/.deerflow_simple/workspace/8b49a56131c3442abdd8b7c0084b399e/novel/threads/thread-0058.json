@@ -1,0 +1,30 @@
+{
+  "id": "thread-0058",
+  "introduced_at": 35,
+  "kind": "story_thread",
+  "label": "法相对张小凡的特别留意",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 35,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0058-001",
+      "resolution_refs": [],
+      "revealed_at": 35,
+      "role": "secondary",
+      "status": "open",
+      "summary": "法相在分兵前有意无意再看了张小凡一眼，张小凡感到其对自己另眼相看；此前对话中法相亦曾提及普泓之言，注意动机本章未明。"
+    }
+  ]
+}

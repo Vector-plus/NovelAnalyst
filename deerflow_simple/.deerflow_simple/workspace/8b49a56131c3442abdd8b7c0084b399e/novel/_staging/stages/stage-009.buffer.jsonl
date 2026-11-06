@@ -1,0 +1,51 @@
+{"local_id": "buf-local-1", "entity_kind": "event", "local_id_or_ref": "ev-local-1", "label": "凶灵与巫妖在镇魔古洞决裂，巫妖入洞", "chapter_order": 134, "why": "stage-009 开篇的场景锚点，涉及巫妖动机与石像/娘娘之谜"}
+{"local_id": "buf-local-2", "entity_kind": "event", "local_id_or_ref": "ev-local-4", "label": "鬼厉携苗族大巫师归来（青龙禀报）", "chapter_order": 134, "why": "本 stage 主线（招魂救碧瑶）的启动信息，后续发展与失败结局均以此为起点"}
+{"local_id": "buf-local-3", "entity_kind": "event", "local_id_or_ref": "ev-local-2", "label": "四灵血阵进度：夔牛降服、黄鸟三日归阵", "chapter_order": 134, "why": "鬼王宗势力动向关键节点，涉及鬼王真实目标诛仙剑阵"}
+{"local_id": "buf-local-4", "entity_kind": "event", "local_id_or_ref": "ev-local-5", "label": "金瓶儿触摸石像，凶灵举剑斩下", "chapter_order": 134, "why": "章末悬念，跨章衔接需追踪"}
+{"ref_type": "event", "local_id": "ev-local-1", "chapter_order": 135, "note": "巫妖以骨玉黑杖完成复生仪式，白骨生心跳血脉，属本 stage 核心转折"}
+{"ref_type": "event", "local_id": "ev-local-4", "chapter_order": 135, "note": "凶灵被黑气吞没消失；丝绸裹身男子现身并唤「玲珑」"}
+{"ref_type": "claim", "local_id": "claim-local-15", "chapter_order": 135, "note": "骨玉嵌入白骨前额裂洞——复生仪式的关键动作"}
+{"ref_type": "claim", "local_id": "claim-local-43", "chapter_order": 135, "note": "复生男子对石像低唤「玲珑」，涉及身份线索"}
+{"ref_type": "claim", "local_id": "claim-local-34", "chapter_order": 135, "note": "石像落泪，情感与身份线索"}
+{"kind": "key_event", "local_id": "ev-local-4", "chapter_order": 136, "note": "小白在鬼王宗当众自报“我是白狐”，与鬼王相认，为阶段内重要身份揭示点。"}
+{"kind": "key_event", "local_id": "ev-local-6", "chapter_order": 136, "note": "鬼厉归返寒冰石室对碧瑶承诺救治，是救碧瑶主线的关键节点。"}
+{"kind": "key_claim", "local_id": "claim-local-9", "chapter_order": 136, "note": "狐岐山煞气之下另有两股委靡灵力臣服，为后续悬念埋点。"}
+{"kind": "faction_move", "local_id": "claim-local-18", "chapter_order": 136, "note": "鬼王宗势力壮大，原炼血堂系年老大等人已归入鬼王宗旗下，野狗道人不在。"}
+{"kind": "event", "local_id": "ev-local-4", "note": "碧瑶线关键节点：合欢铃首次对施术起反应并反噬大巫师（阶段核心事件铺垫）", "chapter_order": 137}
+{"kind": "event", "local_id": "ev-local-5", "note": "招魂引法阵确立，大巫师垂危，为阶段内后续结果的关键前置", "chapter_order": 137}
+{"kind": "claim", "local_id": "claim-local-37", "note": "大巫师明示碧瑶残魂确在合欢铃中，且须破铃取魂", "chapter_order": 137}
+{"kind": "claim", "local_id": "claim-local-6", "note": "巫妖掌握黑杖、骨玉两件五族圣器，魔教/兽妖线关键情报", "chapter_order": 137}
+{"kind": "claim", "local_id": "claim-local-16", "note": "陆雪琪对师门隐瞒与鬼厉诀别，人物立场证据", "chapter_order": 137}
+{"kind": "claim", "local_id": "claim-local-20", "note": "正道对鬼厉（张小凡）三家真法合一的公开评估", "chapter_order": 137}
+{"buffer_kind": "key_event", "local_ref": "ev-local-3", "chapter_order": 138, "note": "招魂引初步奏效：九道轻烟聚于合欢铃并隐约现出人形"}
+{"buffer_kind": "key_event", "local_ref": "ev-local-4", "chapter_order": 138, "note": "大巫师在“灵神入体”最后一字前气绝，招魂引功败"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-22", "chapter_order": 138, "note": "大巫师临终残句“九幽……至阴……非……此”，语义未明"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-23", "chapter_order": 138, "note": "大巫师死亡（能力来源与法术执行者损失）"}
+{"buffer_kind": "key_claim", "local_ref": "claim-local-14", "chapter_order": 138, "note": "合欢铃为招魂核心器物，可离手升空发金光"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 139, "note": "鬼王三日白头出关，命以圣教重礼送大巫师骨灰归南疆"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 139, "note": "鬼厉带小灰破空离谷，留书托青龙送骨灰回苗族七里峒"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 139, "note": "云易岚出关，形貌返老还童，焚香谷上下震动"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 139, "note": "云易岚宣布率众入中土拜会青云门与天音寺，遣李洵先送信赴青云山"}
+{"kind": "claim", "local_id": "claim-local-40", "chapter_order": 139, "note": "云易岚望十万大山冷哼「既然你要出来，我便让整个天下来挡」，暗示另有对手"}
+{"kind": "event", "local_id": "ev-local-3", "reason": "兽妖（兽神）首次就玲珑与天下公开发出陪葬誓言，阶段主线冲突升级", "salience": "high", "chapter_order": 140}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "报复誓言原话证据，供后续冲突发展对照", "salience": "high", "chapter_order": 140}
+{"kind": "claim", "local_id": "claim-local-5", "reason": "十三妖王收服十万大山蛮族，势力动向关键情报", "salience": "high", "chapter_order": 140}
+{"kind": "claim", "local_id": "claim-local-10", "reason": "兽妖与玲珑、巫妖旧事的自述，涉及八人追杀往事", "salience": "medium", "chapter_order": 140}
+{"kind": "entity", "ref": {"path": "characters/char-0247/index.json", "record_id": "char-0247"}, "reason": "本章唯一现身并发言的兽妖，与 char-0209 兽神疑似同一实体", "salience": "high", "chapter_order": 140}
+{"kind": "entity", "ref": {"candidate_name": "带三眼猴子的醉客（何家小店）"}, "reason": "疑似鬼厉的颓废状态首次全景呈现，需持续跟踪", "salience": "high", "chapter_order": 140}
+{"kind": "claim", "local_id": "claim-local-24", "reason": "小环认出小灰，周一仙一行与醉客线交汇的钩子", "salience": "medium", "chapter_order": 140}
+{"local_id": "ev-local-1", "kind": "event", "chapter_order": 141, "reason": "鬼厉酒醉落魄、小灰以手势暗示与女子有关，为阶段主线关键节点"}
+{"local_id": "claim-local-25", "kind": "claim", "chapter_order": 141, "reason": "小环以死泽救命之恩为由决定带鬼厉同行"}
+{"local_id": "claim-local-30", "kind": "claim", "chapter_order": 141, "reason": "野狗道人注视鬼厉的异常神色，可能是后续动向伏笔"}
+{"local_id": "claim-local-37", "kind": "claim", "chapter_order": 141, "reason": "焚香谷谷主出关并有意拜访道玄真人，势力动向"}
+{"local_id": "claim-local-40", "kind": "claim", "chapter_order": 141, "reason": "水月大师带文敏、陆雪琪到通天峰，人物汇集"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 142, "note": "青云门玉清殿出现焚香谷来使李洵及云谷主书信，正道势力动向（焚香谷将赴中土、先至青云山）。"}
+{"kind": "claim", "local_id": "claim-local-35", "chapter_order": 142, "certainty": "reported", "note": "章内首次由青云长辈之口明确张小凡＝鬼厉、鬼王宗副宗主、血公子，为本 stage 关键身份陈述。"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 142, "note": "鬼厉随周一仙一行行至空桑山；野狗道人夜中持兽牙法宝走向鬼厉，悬置未决。"}
+{"kind": "claim", "local_id": "claim-local-41", "chapter_order": 142, "certainty": "explicit", "note": "空桑山为炼血堂一系圣地、炼血堂已灭——势力地理与旧势力结局证据。"}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_event", "local_ref": "ev-local-1", "note": "小灰首次显化三眼凶猴巨身护主，并击伤野狗道人", "chapter_order": 143}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_event", "local_ref": "ev-local-2", "note": "鬼厉放走野狗道人并自问为何而活，行踪转为不明", "chapter_order": 143}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_statement", "local_ref": "claim-local-14", "note": "鬼厉“若是杀人能救她，便是要杀天下人”的自我陈述", "chapter_order": 143}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_statement", "local_ref": "claim-local-23", "note": "苗族老人对鬼厉的请求由图麻骨托青龙转达，内容悬置", "chapter_order": 143}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_event", "local_ref": "ev-local-3", "note": "大巫师骨灰归葬七里峒祭坛，鬼王宗与苗族关系公开化", "chapter_order": 143}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-009"}, "kind": "key_event", "local_ref": "ev-local-5", "note": "白骨妖蛇率妖兽异族袭击七里峒，阶段末悬念", "chapter_order": 143}

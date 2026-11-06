@@ -1,0 +1,30 @@
+{
+  "id": "thread-0093",
+  "introduced_at": 56,
+  "kind": "story_thread",
+  "label": "满月之井中张小凡所见仍未明说",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 56,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "unresolved_question",
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0093-001",
+      "resolution_refs": [],
+      "revealed_at": 56,
+      "role": "setup",
+      "status": "open",
+      "summary": "碧瑶追问张小凡在满月之井中看到了什么，张小凡摇头不答；碧瑶自行查看也只见井水倒映面容。"
+    }
+  ]
+}

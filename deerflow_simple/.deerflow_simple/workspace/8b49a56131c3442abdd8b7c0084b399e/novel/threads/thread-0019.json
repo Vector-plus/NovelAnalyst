@@ -1,0 +1,30 @@
+{
+  "id": "thread-0019",
+  "introduced_at": 11,
+  "kind": "story_thread",
+  "label": "神秘黑衣人身份与噬血珠来历",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 11,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0019-001",
+      "resolution_refs": [],
+      "revealed_at": 11,
+      "role": "background",
+      "status": "ongoing",
+      "summary": "叙述交代草庙村一战普智被神秘黑衣人重创，黑衣人负伤遁逃且对噬血珠志在必得；黑心老人与魔教四宝的旧事已提及，但黑衣人身份在本章仍无交代。"
+    }
+  ]
+}

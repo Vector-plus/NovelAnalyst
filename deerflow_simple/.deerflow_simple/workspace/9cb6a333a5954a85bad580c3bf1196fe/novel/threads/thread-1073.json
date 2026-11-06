@@ -1,0 +1,30 @@
+{
+  "id": "thread-1073",
+  "introduced_at": 989,
+  "kind": "story_thread",
+  "label": "仙府内环龟甲阵未破，大殿白衣身影现身",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 989,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 989,
+          "start": 989
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1073-001",
+      "resolution_refs": [],
+      "revealed_at": 989,
+      "role": "developing",
+      "status": "open",
+      "summary": "王林与浮风子等人联手亦未能破开龟甲之幻，随后龟甲自行退隐露出大殿，殿内脚步声与心跳同频重创众人心神，一名白衣身影显露并以目光锁定王林，王林生出久未出现的生死危机。"
+    }
+  ]
+}

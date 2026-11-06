@@ -1,0 +1,30 @@
+{
+  "id": "thread-0017",
+  "introduced_at": 10,
+  "kind": "story_thread",
+  "label": "两年后的七脉会武与田灵儿的太极洞修习",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 10,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 10,
+          "start": 10
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0017-001",
+      "resolution_refs": [],
+      "revealed_at": 10,
+      "role": "setup",
+      "status": "open",
+      "summary": "田灵儿转述娘的安排：她这些天要多入太极洞修习，为两年后的七脉会武作准备。"
+    }
+  ]
+}

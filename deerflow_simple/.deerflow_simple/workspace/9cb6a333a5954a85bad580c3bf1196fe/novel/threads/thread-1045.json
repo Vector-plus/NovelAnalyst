@@ -1,0 +1,30 @@
+{
+  "id": "thread-1045",
+  "introduced_at": 977,
+  "kind": "story_thread",
+  "label": "妖灵之地之行",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 977,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 977,
+          "start": 977
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1045-001",
+      "resolution_refs": [],
+      "revealed_at": 977,
+      "role": "main",
+      "status": "open",
+      "summary": "司徒南同意与王林一同前往妖灵之地，称即便无解毒之事本也打算同去。"
+    }
+  ]
+}

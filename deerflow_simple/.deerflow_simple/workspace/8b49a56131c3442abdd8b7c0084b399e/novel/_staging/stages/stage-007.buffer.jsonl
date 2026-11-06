@@ -1,0 +1,70 @@
+{"local_id": "ev-local-2", "kind": "event", "note": "鬼厉一方的内部情报：青龙、朱雀二圣使动向死泽，为 stage-007（死泽内泽/天帝宝库之争）势力格局铺垫", "chapter_order": 95}
+{"local_id": "ev-local-7", "kind": "event", "note": "鬼厉与陆雪琪在瘴气中重逢、双方各自收手；本章为二人时隔多年首次当面对阵", "chapter_order": 95}
+{"local_id": "claim-local-15", "kind": "claim", "note": "太极玄清道与大梵般若在鬼厉身上合二为一的明示，能力层面关键节点", "chapter_order": 95}
+{"local_id": "claim-local-7", "kind": "claim", "note": "四大圣使中青龙朱雀赴死泽的 reported 情报，属势力动向证据", "chapter_order": 95}
+{"local_id": "claim-local-17", "kind": "claim", "note": "瘴气中不明巨型怪物，可能是后续内泽线索", "chapter_order": 95}
+{"local_id": "ev-local-2", "kind": "event", "note": "鬼王宗青龙、幽姬受宗主指派前往死亡沼泽，方向与离开死泽者相反", "chapter_order": 96}
+{"local_id": "claim-local-20", "kind": "claim", "note": "幽姬原话提及“宗主吩咐我们要进行的大事”（宗主身份未点名）", "chapter_order": 96}
+{"local_id": "claim-local-9", "kind": "claim", "note": "周一仙推断：长生堂将灭于鬼厉、秦无炎、金瓶儿之手，玉阳子亦难保", "chapter_order": 96}
+{"local_id": "ev-local-3", "kind": "event", "note": "鬼厉受噬血珠反噬、玄火鉴压制；鬼王不知情——为后续失控伏笔", "chapter_order": 96}
+{"local_id": "ev-local-5", "kind": "event", "note": "内泽首次出现噬人花与似凫怪兽，正道三人组（林惊羽、曾书书、法相）会合", "chapter_order": 96}
+{"kind": "event", "local_ref": "ev-local-3", "subject_refs": [{"path": "characters/char-0002/index.json", "record_id": "char-0002"}, {"path": "characters/char-0078/index.json", "record_id": "char-0078"}], "reason": "本阶段内林惊羽对张小凡立场的首次明确表态，属人物转折点证据", "chapter_order": 97}
+{"kind": "claim", "local_ref": "claim-local-15", "subject_refs": [{"path": "characters/char-0002/index.json", "record_id": "char-0002"}], "reason": "关键陈述原文可锚定，供跨章立场判断使用", "chapter_order": 97}
+{"kind": "claim", "local_ref": "claim-local-13", "subject_refs": [{"path": "characters/char-0078/index.json", "record_id": "char-0078"}, {"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "reason": "正道一方对张小凡现状与“血公子”称号的转述，属 reported 需谨慎引用", "chapter_order": 97}
+{"kind": "event", "local_ref": "ev-local-5", "subject_refs": [{"path": "characters/char-0162/index.json", "record_id": "char-0162"}], "reason": "秦无炎在内泽首次以驭虫手段现身并对峙正道，势力动向关键节点", "chapter_order": 97}
+{"kind": "claim", "local_ref": "claim-local-33", "subject_refs": [{"path": "characters/char-0162/index.json", "record_id": "char-0162"}], "reason": "万毒门法门源流与控妖笛能力首次说明，能力设定证据", "chapter_order": 97}
+{"kind": "event", "chapter_order": 98, "local_id": "ev-local-2", "title": "秦无炎受暗袭重创后遁走", "note": "魔教阵营内部冲突首次以「一棍之仇」明面化"}
+{"kind": "event", "chapter_order": 98, "local_id": "ev-local-3", "title": "陆雪琪追截鬼厉并在树梢对峙", "note": "鬼厉/张小凡与陆雪琪十年后首次面对面，未交手即收剑"}
+{"kind": "claim", "chapter_order": 98, "local_id": "claim-local-34", "note": "叙述文本明确鬼厉与张小凡为同一人的表述"}
+{"kind": "claim", "chapter_order": 98, "local_id": "claim-local-9", "note": "「斩相思神匕」为万毒门/毒神旧物的辨认（出自法相，reported）"}
+{"append_kind": "event_ref", "local_id": "ev-local-4", "note": "死泽异宝征兆实体出现（金色光柱冲天），本 stage 核心事件节点；金瓶儿与正道三人争斗因此中止", "chapter_order": 99}
+{"append_kind": "claim_ref", "local_id": "claim-local-17", "note": "金瓶儿身份经法善之口点明（魔教合欢派妖女），属 reported 身份陈述", "chapter_order": 99}
+{"append_kind": "claim_ref", "local_id": "claim-local-18", "note": "金瓶儿与秦无炎、鬼厉并称“三公子”的魔教格局信息", "chapter_order": 99}
+{"append_kind": "claim_ref", "local_id": "claim-local-29", "note": "异宝征兆的原文场景描写，可作为后续异宝出世线索的锚点", "chapter_order": 99}
+{"append_kind": "claim_ref", "local_id": "claim-local-35", "note": "伏龙鼎铭文“金芒现世，黄鸟必出”，把异兆与黄鸟、伏龙鼎计划绑定，属势力动向关键陈述（reported）", "chapter_order": 99}
+{"append_kind": "claim_ref", "local_id": "claim-local-40", "note": "青龙对鬼王性情变化的判断（碧瑶出事后杀戮之心渐盛），属鬼王宗内部动向（reported）", "chapter_order": 99}
+{"append_kind": "faithless", "local_id": "claim-local-43", "note": "幽姬指出鬼王此次未告知鬼厉自己等人的来意，为后续鬼厉与鬼王关系线索", "chapter_order": 99}
+{"append_kind": "faction_ref", "local_id": "合欢派", "note": "本 stage 首次出现魔教合欢派及其媚心术，作为新势力候选登记", "chapter_order": 99}
+{"kind": "event", "local_id": "ev-local-3", "note": "「天帝宝库」石门首次现身，本 stage 核心目标物成形", "chapter_order": 100}
+{"kind": "event", "local_id": "ev-local-1", "note": "鬼厉与陆雪琪重逢后互相确认敌手立场，为后续对决埋点", "chapter_order": 100}
+{"kind": "claim", "local_id": "claim-local-19", "note": "关键铭文“天帝宝库”，可作物证/地点锚点", "chapter_order": 100}
+{"kind": "claim", "local_id": "claim-local-3", "note": "陆雪琪称鬼厉为“张师弟”，身份关联的一手文本证据", "chapter_order": 100}
+{"kind": "claim", "local_id": "claim-local-7", "note": "陆雪琪承诺日后会杀鬼厉，双方互为敌手之约", "chapter_order": 100}
+{"kind": "claim", "local_id": "claim-local-20", "note": "白衣女子先于鬼厉抵达宝库石门，位置信息", "chapter_order": 100}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 101, "note": "周一仙与神秘中年男子（自报\"万人往\"）古道重逢，旧识关系与算命往事在本阶段首次展开"}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "chapter_order": 101, "note": "关键身份陈述：男子自报\"你就叫我万人往吧\""}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "chapter_order": 101, "note": "关键反转性陈述：周一仙否认当年算命为真，称纯属胡说骗人"}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "chapter_order": 101, "note": "势力动向：男子明言正前往死泽，与阶段主线（死泽）衔接"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 101, "note": "野狗道人被点明为鬼厉身边之人，并对其极为畏惧"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 102, "note": "鬼厉与陆雪琪在宝库门前正面交手，双方道行层次首次正面对比"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 102, "note": "章末黑水玄蛇现身，阶段悬念收束点"}
+{"kind": "claim", "local_id": "claim-local-17", "chapter_order": 102, "note": "鬼厉与金瓶儿达成临时合作，势力格局变动"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 102, "note": "魔教三大派阀内斗与牵制的整体交代"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 102, "note": "鬼厉=张小凡的文本明示证据（供身份链接复核）"}
+{"ref_type": "event", "local_id": "ev-local-5", "reason": "本阶段核心转折：鬼厉与陆雪琪、小灰在石门关闭前进入天帝宝库", "chapter_order": 103}
+{"ref_type": "event", "local_id": "ev-local-8", "reason": "新势力/灵兽登场：黄鸟现身与黑水玄蛇对峙", "chapter_order": 103}
+{"ref_type": "claim", "local_id": "claim-local-12", "reason": "叙述明言鬼厉即当初的张小凡，关键身份陈述", "chapter_order": 103}
+{"ref_type": "claim", "local_id": "claim-local-24", "reason": "金瓶儿称“连他们也都来了”，暗示第三方势力到场，势力动向线索", "chapter_order": 103}
+{"ref_type": "claim", "local_id": "claim-local-18", "reason": "陆雪琪对鬼厉说“你，回来吧……”，二人互动的关键陈述", "chapter_order": 103}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 104, "reason": "鬼厉认定天帝宝库金字为《天书》第三卷，属本阶段关键信息揭示", "subject_ref_or_candidate": {"path": "characters/char-0173/index.json", "record_id": "char-0173"}}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 104, "reason": "小灰饮尽天帝灵药并吞下五面奇石，宝物归属转折", "subject_ref_or_candidate": {"path": "characters/char-0036/index.json", "record_id": "char-0036"}}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 104, "reason": "鬼王宗镇宗奇宝伏龙鼎与鬼王现身设伏，势力动向关键点", "subject_ref_or_candidate": {"path": "characters/char-0141/index.json", "record_id": "char-0141"}}
+{"kind": "event", "local_id": "ev-local-8", "chapter_order": 104, "reason": "困龙阙法阵困住神兽黄鸟，可作后续战局参照", "subject_ref_or_candidate": {"path": "characters/char-0141/index.json", "record_id": "char-0141"}}
+{"kind": "claim", "local_id": "claim-local-31", "chapter_order": 104, "reason": "鬼王就处置法相、陆雪琪等人征询鬼厉，为下一章悬念", "subject_ref_or_candidate": {"path": "characters/char-0141/index.json", "record_id": "char-0141"}}
+{"ref_type": "event", "local_id": "ev-local-1", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "note": "鬼王当众把死泽决断权交还鬼厉，与青龙、幽姬先行离去；正魔巨树对峙未动手", "chapter_order": 105}
+{"ref_type": "event", "local_id": "ev-local-3", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "note": "曾书书与鬼厉以朋友相称并赠旧书，为二人关系留下可用证据", "chapter_order": 105}
+{"ref_type": "event", "local_id": "ev-local-5", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "note": "鬼王宗外泽驻地十三名警戒弟子被碎尸屠戮，徐冲海留字「鱼怪」——本阶段尾部新增悬案", "chapter_order": 105}
+{"ref_type": "event", "local_id": "ev-local-6", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "note": "杀生和尚独自南追；万毒门已全部撤出死泽、合欢派死二十余人，显示死泽局势变动", "chapter_order": 105}
+{"ref_type": "claim", "local_id": "claim-local-46", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}, "note": "鬼厉忆及袭击小环的神秘鱼头怪人，与「鱼怪」线索呼应", "chapter_order": 105}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 106, "note": "鬼厉部属遇袭与鱼人族线索在本阶段末段（本章为 95~107 的第 12 章）集中落地"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 106, "note": "鱼人族设定首次系统陈述（角色口述）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 106, "note": "鬼厉推断焚香谷可能出问题，为后续南疆线埋点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "chapter_order": 106, "note": "天际有光南去，紧接金瓶儿登场，阶段收束处的悬念"}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "chapter_order": 106, "note": "野狗道人正式脱离鬼王宗队伍、随周一仙祖孙同行的转折"}
+{"kind": "claim", "ref_or_local_id": "claim-local-14", "chapter_order": 106, "note": "小灰异变的具象证据（体重、额头灰痕）"}
+{"kind": "key_event", "chapter_order": 107, "local_id": "ev-local-1", "note": "陆雪琪望月台夜舞并回忆天帝宝库救人一事，念诵“天地不仁，以万物为刍狗”", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}
+{"kind": "key_event", "chapter_order": 107, "local_id": "ev-local-2", "note": "道玄与守祠老人对话，披露诛仙剑反噬之伤十年未愈及当年救人之旧怨", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}
+{"kind": "key_statement", "chapter_order": 107, "local_id": "claim-local-18", "note": "道玄：“我救你，是因为我欠你，但我不会让你活得比我更久的！”", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}
+{"kind": "key_statement", "chapter_order": 107, "local_id": "claim-local-27", "note": "守祠老人评苍松：“苍松他只是个走错路的可怜人啊”", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}
+{"kind": "faction_development", "chapter_order": 107, "local_id": "claim-local-22", "note": "三大门派联手灭长生堂之事已轰传天下（由林惊羽转述传闻）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}
+{"kind": "character_turning_point", "chapter_order": 107, "local_id": "claim-local-25", "note": "林惊羽对苍松的立场：正邪不两立、再见即不共戴天的仇人，但言语间显动摇（“我也不知道”）", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-007"}}

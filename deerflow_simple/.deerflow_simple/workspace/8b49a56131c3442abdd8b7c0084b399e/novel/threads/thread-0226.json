@@ -1,0 +1,30 @@
+{
+  "id": "thread-0226",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "大巫师之死与对苗族的未明承诺",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0226-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "setup",
+      "status": "open",
+      "summary": "大巫师为救碧瑶不顾一切而死，骨灰归葬七里峒后，族长图麻骨托青龙转达“一位老人对他的请求，还望他记在心上”，该请求内容本章未明；青龙亦推测鬼厉答应了苗族某事。"
+    }
+  ]
+}

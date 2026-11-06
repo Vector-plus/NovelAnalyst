@@ -1,0 +1,30 @@
+{
+  "id": "thread-0118",
+  "introduced_at": 78,
+  "kind": "story_thread",
+  "label": "水月大师所提“百年前犯大错之人”的身份",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 78,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0118-001",
+      "resolution_refs": [],
+      "revealed_at": 78,
+      "role": "unknown",
+      "status": "open",
+      "summary": "水月称近百年前有人如张小凡一般犯大错，众人求情而终于无效，且那人向来是掌门道玄真人最痛恨的人；章内未点明姓名。"
+    }
+  ]
+}

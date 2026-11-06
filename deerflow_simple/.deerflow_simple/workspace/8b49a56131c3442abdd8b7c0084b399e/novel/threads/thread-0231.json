@@ -1,0 +1,30 @@
+{
+  "id": "thread-0231",
+  "introduced_at": 144,
+  "kind": "story_thread",
+  "label": "焚香谷谷主云易岚率弟子拜山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 144,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction",
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0231-001",
+      "resolution_refs": [],
+      "revealed_at": 144,
+      "role": "setup",
+      "status": "foreshadowed",
+      "summary": "道玄真人告知祠堂老人：今日迟些时候，焚香谷谷主云易岚将率门下弟子前来青云山拜山；老人称云易岚「是个老滑头」。"
+    }
+  ]
+}

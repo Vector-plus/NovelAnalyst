@@ -1,0 +1,30 @@
+{
+  "id": "thread-0053",
+  "introduced_at": 34,
+  "kind": "story_thread",
+  "label": "萧逸才下落不明",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 34,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0053-001",
+      "resolution_refs": [],
+      "revealed_at": 34,
+      "role": "setup",
+      "status": "open",
+      "summary": "齐昊称萧逸才三个月前已先行来空桑山，法相答称他们到此以来并未见过萧逸才；齐昊皱眉沉吟。"
+    }
+  ]
+}

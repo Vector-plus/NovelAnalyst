@@ -1,0 +1,30 @@
+{
+  "id": "thread-1143",
+  "introduced_at": 1041,
+  "kind": "story_thread",
+  "label": "王平想见母亲一面的未了愿望",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1041,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "other",
+      "chapter_ranges": [
+        {
+          "end": 1041,
+          "start": 1041
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1143-001",
+      "resolution_refs": [],
+      "revealed_at": 1041,
+      "role": "advance",
+      "status": "open",
+      "summary": "王平一生只提过一次想看母亲一眼的愿望，未得答案后终身未再提起；王林念及柳眉、木冰眉时心神剧痛，天逆珠子内的王平似有苏醒迹象。"
+    }
+  ]
+}

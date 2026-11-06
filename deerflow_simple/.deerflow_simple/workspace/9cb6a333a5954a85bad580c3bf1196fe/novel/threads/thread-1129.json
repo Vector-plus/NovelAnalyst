@@ -1,0 +1,30 @@
+{
+  "id": "thread-1129",
+  "introduced_at": 1032,
+  "kind": "story_thread",
+  "label": "朱雀圣宗因王林崛起的预言",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1032,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 1032,
+          "start": 1032
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1129-001",
+      "resolution_refs": [],
+      "revealed_at": 1032,
+      "role": "main",
+      "status": "open",
+      "summary": "黑衣人断定朱雀圣宗将因王林重新崛起并达到前所未有高度；虚空子亦以「朱雀圣皇」之位来看待王林的将来。"
+    }
+  ]
+}

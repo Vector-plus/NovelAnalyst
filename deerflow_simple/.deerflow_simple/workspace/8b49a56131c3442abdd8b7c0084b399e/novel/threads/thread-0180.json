@@ -1,0 +1,30 @@
+{
+  "id": "thread-0180",
+  "introduced_at": 117,
+  "kind": "story_thread",
+  "label": "金瓶儿如何得知鬼厉行踪",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 117,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0180-001",
+      "resolution_refs": [],
+      "revealed_at": 117,
+      "role": "close",
+      "status": "resolved",
+      "summary": "本章内给出解释：气味来自小灰身上，为金瓶儿所留；二人为小灰洗澡以清除追踪线索。"
+    }
+  ]
+}

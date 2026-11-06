@@ -1,0 +1,30 @@
+{
+  "id": "thread-1249",
+  "introduced_at": 1127,
+  "kind": "story_thread",
+  "label": "吕烟菲与卢迪的纠葛",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1127,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_relation",
+      "chapter_ranges": [
+        {
+          "end": 1127,
+          "start": 1127
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1249-001",
+      "resolution_refs": [],
+      "revealed_at": 1127,
+      "role": "setup",
+      "status": "active",
+      "summary": "吕烟菲称宁死也不屈从卢迪；卢迪身份与二者关系本章未展开。"
+    }
+  ]
+}

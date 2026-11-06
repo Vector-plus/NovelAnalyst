@@ -1,0 +1,30 @@
+{
+  "id": "thread-0018",
+  "introduced_at": 11,
+  "kind": "story_thread",
+  "label": "噬血珠与玄黑短棒融合为玄青色短棒",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 11,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0018-001",
+      "resolution_refs": [],
+      "revealed_at": 11,
+      "role": "progress",
+      "status": "ongoing",
+      "summary": "噬血珠上的佛门禁制崩碎，与自水潭漩涡中升起的玄黑短棒以张小凡之血为介相斗后融合，成一根玄青色短棒，现由张小凡带在身上并弃于屋角。"
+    }
+  ]
+}

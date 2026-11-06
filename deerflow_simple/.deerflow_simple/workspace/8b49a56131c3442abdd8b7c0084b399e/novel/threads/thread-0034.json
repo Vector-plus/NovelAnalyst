@@ -1,0 +1,30 @@
+{
+  "id": "thread-0034",
+  "introduced_at": 20,
+  "kind": "story_thread",
+  "label": "灵尊（镇山灵兽）为何突然暴怒又迅速平息",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 20,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 20
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0034-001",
+      "resolution_refs": [],
+      "revealed_at": 20,
+      "role": "main",
+      "status": "open",
+      "summary": "道玄称察看后灵尊并无异样，欲用通灵术查看却因其睡着未成，只能待其醒后再议；本章未给出原因。"
+    }
+  ]
+}

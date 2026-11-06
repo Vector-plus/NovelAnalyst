@@ -1,0 +1,30 @@
+{
+  "id": "thread-0107",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "鬼王宗实力之谜：《天书》传言与乾坤清光戒",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0107-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "advanced",
+      "status": "open",
+      "summary": "万毒门门主遣百毒子刺探鬼王宗秘密；魔教中流传《天书》已落鬼王宗手中；失踪千年的乾坤清光戒又现于青龙之手，令百毒子觉得鬼王宗深不可测。"
+    }
+  ]
+}

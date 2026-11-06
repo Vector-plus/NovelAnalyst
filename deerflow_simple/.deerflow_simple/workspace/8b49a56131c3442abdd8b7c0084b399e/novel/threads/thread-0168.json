@@ -1,0 +1,30 @@
+{
+  "id": "thread-0168",
+  "introduced_at": 106,
+  "kind": "story_thread",
+  "label": "野狗道人离开鬼王宗、随周一仙祖孙同行",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 106,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0168-001",
+      "resolution_refs": [],
+      "revealed_at": 106,
+      "role": "setup",
+      "status": "open",
+      "summary": "野狗道人因不愿再与年老大等人相处而跟随周一仙与小环；鬼厉提醒年老大等人随时会来找他，鬼厉未阻拦。"
+    }
+  ]
+}

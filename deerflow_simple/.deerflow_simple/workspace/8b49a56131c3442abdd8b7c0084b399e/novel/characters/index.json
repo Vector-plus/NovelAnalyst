@@ -775,19 +775,6007 @@
         "record_id": "char-0031"
       },
       "title": "郑通"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0032/index.json",
+          "record_id": "char-0032"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 7,
+      "summary": "掌门真人（第7章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0032/index.json",
+        "record_id": "char-0032"
+      },
+      "title": "掌门真人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 8,
+          "start": 8
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0033/index.json",
+          "record_id": "char-0033"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 8,
+      "summary": "大黄（第8章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0033/index.json",
+        "record_id": "char-0033"
+      },
+      "title": "大黄"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 10,
+          "start": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0034/index.json",
+          "record_id": "char-0034"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 10,
+      "summary": "灰猴（第10章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0034/index.json",
+        "record_id": "char-0034"
+      },
+      "title": "灰猴"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0035/index.json",
+          "record_id": "char-0035"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 11,
+      "summary": "黑心老人（第11章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0035/index.json",
+        "record_id": "char-0035"
+      },
+      "title": "黑心老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 12,
+          "start": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0036/index.json",
+          "record_id": "char-0036"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 12,
+      "summary": "小灰（第12章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0036/index.json",
+        "record_id": "char-0036"
+      },
+      "title": "小灰"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 12,
+          "start": 12
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0037/index.json",
+          "record_id": "char-0037"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 12,
+      "summary": "白衣俊逸男子（与少年同来）（第12章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0037/index.json",
+        "record_id": "char-0037"
+      },
+      "title": "白衣俊逸男子（与少年同来）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0038/index.json",
+          "record_id": "char-0038"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 13,
+      "summary": "齐昊（第13章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0038/index.json",
+        "record_id": "char-0038"
+      },
+      "title": "齐昊"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0039/index.json",
+          "record_id": "char-0039"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 13,
+      "summary": "苍松真人（第13章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0039/index.json",
+        "record_id": "char-0039"
+      },
+      "title": "苍松真人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0040/index.json",
+          "record_id": "char-0040"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 13,
+      "summary": "萧逸才（第13章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0040/index.json",
+        "record_id": "char-0040"
+      },
+      "title": "萧逸才"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 14,
+          "start": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0041/index.json",
+          "record_id": "char-0041"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 14,
+      "summary": "红衣女子（第14章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0041/index.json",
+        "record_id": "char-0041"
+      },
+      "title": "红衣女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0042/index.json",
+          "record_id": "char-0042"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 16,
+      "summary": "万师兄（第16章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0042/index.json",
+        "record_id": "char-0042"
+      },
+      "title": "万师兄"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 17,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0043/index.json",
+          "record_id": "char-0043"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 17,
+      "summary": "文敏（第17章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0043/index.json",
+        "record_id": "char-0043"
+      },
+      "title": "文敏"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 17,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0044/index.json",
+          "record_id": "char-0044"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 17,
+      "summary": "无名女子（唤宋大仁为宋师兄）（第17章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0044/index.json",
+        "record_id": "char-0044"
+      },
+      "title": "无名女子（唤宋大仁为宋师兄）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 18,
+          "start": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0045/index.json",
+          "record_id": "char-0045"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 18,
+      "summary": "通天峰长门传令道士（第18章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0045/index.json",
+        "record_id": "char-0045"
+      },
+      "title": "通天峰长门传令道士"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 18,
+          "start": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0046/index.json",
+          "record_id": "char-0046"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 18,
+      "summary": "小竹峰众女弟子（第18章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0046/index.json",
+        "record_id": "char-0046"
+      },
+      "title": "小竹峰众女弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 18,
+          "start": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0047/index.json",
+          "record_id": "char-0047"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 18,
+      "summary": "龙首峰众白衣弟子（第18章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0047/index.json",
+        "record_id": "char-0047"
+      },
+      "title": "龙首峰众白衣弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 18,
+          "start": 18
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0048/index.json",
+          "record_id": "char-0048"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 18,
+      "summary": "青云门参赛弟子群（第18章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0048/index.json",
+        "record_id": "char-0048"
+      },
+      "title": "青云门参赛弟子群"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 19,
+          "start": 19
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0049/index.json",
+          "record_id": "char-0049"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 19,
+      "summary": "白衣女子（第19章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0049/index.json",
+        "record_id": "char-0049"
+      },
+      "title": "白衣女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0050/index.json",
+          "record_id": "char-0050"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 20,
+      "summary": "灵尊（第20章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0050/index.json",
+        "record_id": "char-0050"
+      },
+      "title": "灵尊"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0051/index.json",
+          "record_id": "char-0051"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 21,
+      "summary": "持描金扇的年轻青云弟子（第21章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0051/index.json",
+        "record_id": "char-0051"
+      },
+      "title": "持描金扇的年轻青云弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0052/index.json",
+          "record_id": "char-0052"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 21,
+      "summary": ".持描金扇的年轻青云弟子（第21章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0052/index.json",
+        "record_id": "char-0052"
+      },
+      "title": ".持描金扇的年轻青云弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 22,
+      "summary": "曾书书（第22章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "title": "曾书书"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0054/index.json",
+          "record_id": "char-0054"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 22,
+      "summary": "申天斗（第22章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0054/index.json",
+        "record_id": "char-0054"
+      },
+      "title": "申天斗"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0055/index.json",
+          "record_id": "char-0055"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "陆雪琪（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "title": "陆雪琪"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0056/index.json",
+          "record_id": "char-0056"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "方超（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0056/index.json",
+        "record_id": "char-0056"
+      },
+      "title": "方超"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0057/index.json",
+          "record_id": "char-0057"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "白胡子长老（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0057/index.json",
+        "record_id": "char-0057"
+      },
+      "title": "白胡子长老"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0058/index.json",
+          "record_id": "char-0058"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "青云弟子（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0058/index.json",
+        "record_id": "char-0058"
+      },
+      "title": "青云弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "青云门（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0059/index.json",
+        "record_id": "char-0059"
+      },
+      "title": "青云门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0060/index.json",
+          "record_id": "char-0060"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "风回峰（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0060/index.json",
+        "record_id": "char-0060"
+      },
+      "title": "风回峰"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0061/index.json",
+          "record_id": "char-0061"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 23,
+      "summary": "小竹峰（第23章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0061/index.json",
+        "record_id": "char-0061"
+      },
+      "title": "小竹峰"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 24,
+          "start": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0062/index.json",
+          "record_id": "char-0062"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 24,
+      "summary": "楚誉宏（第24章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0062/index.json",
+        "record_id": "char-0062"
+      },
+      "title": "楚誉宏"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 24,
+          "start": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0063/index.json",
+          "record_id": "char-0063"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 24,
+      "summary": "枯心上人（第24章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0063/index.json",
+        "record_id": "char-0063"
+      },
+      "title": "枯心上人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 24,
+          "start": 24
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0064/index.json",
+          "record_id": "char-0064"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 24,
+      "summary": "白胡子老头（第24章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0064/index.json",
+        "record_id": "char-0064"
+      },
+      "title": "白胡子老头"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 25,
+          "start": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0065/index.json",
+          "record_id": "char-0065"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 25,
+      "summary": "段雷（第25章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0065/index.json",
+        "record_id": "char-0065"
+      },
+      "title": "段雷"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 25,
+          "start": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0066/index.json",
+          "record_id": "char-0066"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 25,
+      "summary": "高师兄（第25章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0066/index.json",
+        "record_id": "char-0066"
+      },
+      "title": "高师兄"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 25,
+          "start": 25
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0067/index.json",
+          "record_id": "char-0067"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 25,
+      "summary": "浓眉男子（第25章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0067/index.json",
+        "record_id": "char-0067"
+      },
+      "title": "浓眉男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 26,
+          "start": 26
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0068/index.json",
+          "record_id": "char-0068"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 26,
+      "summary": "彭昌（第26章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0068/index.json",
+        "record_id": "char-0068"
+      },
+      "title": "彭昌"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0069/index.json",
+          "record_id": "char-0069"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 27,
+      "summary": "真雩大师（第27章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0069/index.json",
+        "record_id": "char-0069"
+      },
+      "title": "真雩大师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 28,
+          "start": 28
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0070/index.json",
+          "record_id": "char-0070"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 28,
+      "summary": "范长老（第28章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0070/index.json",
+        "record_id": "char-0070"
+      },
+      "title": "范长老"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0071/index.json",
+          "record_id": "char-0071"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 29,
+      "summary": "天琊（第29章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0071/index.json",
+        "record_id": "char-0071"
+      },
+      "title": "天琊"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0072/index.json",
+          "record_id": "char-0072"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 29,
+      "summary": "烧火棍（第29章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0072/index.json",
+        "record_id": "char-0072"
+      },
+      "title": "烧火棍"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 32,
+          "start": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0073/index.json",
+          "record_id": "char-0073"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 32,
+      "summary": "水绿衣衫少女（第32章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0073/index.json",
+        "record_id": "char-0073"
+      },
+      "title": "水绿衣衫少女"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 32,
+          "start": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0074/index.json",
+          "record_id": "char-0074"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 32,
+      "summary": "面蒙轻纱的女子（第32章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0074/index.json",
+        "record_id": "char-0074"
+      },
+      "title": "面蒙轻纱的女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 32,
+          "start": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0075/index.json",
+          "record_id": "char-0075"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 32,
+      "summary": "山海苑店小二（第32章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0075/index.json",
+        "record_id": "char-0075"
+      },
+      "title": "山海苑店小二"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 33,
+          "start": 33
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0076/index.json",
+          "record_id": "char-0076"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 33,
+      "summary": "碧瑶（第33章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0076/index.json",
+        "record_id": "char-0076"
+      },
+      "title": "碧瑶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 33,
+          "start": 33
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0077/index.json",
+          "record_id": "char-0077"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 33,
+      "summary": "幽姨（第33章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0077/index.json",
+        "record_id": "char-0077"
+      },
+      "title": "幽姨"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0078/index.json",
+          "record_id": "char-0078"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 34,
+      "summary": "法相（第34章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0078/index.json",
+        "record_id": "char-0078"
+      },
+      "title": "法相"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0079/index.json",
+          "record_id": "char-0079"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 34,
+      "summary": "法善（第34章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0079/index.json",
+        "record_id": "char-0079"
+      },
+      "title": "法善"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0080/index.json",
+          "record_id": "char-0080"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 34,
+      "summary": "李洵（第34章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0080/index.json",
+        "record_id": "char-0080"
+      },
+      "title": "李洵"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0081/index.json",
+          "record_id": "char-0081"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 34,
+      "summary": "燕虹（第34章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0081/index.json",
+        "record_id": "char-0081"
+      },
+      "title": "燕虹"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0082/index.json",
+          "record_id": "char-0082"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 34,
+      "summary": "普泓（第34章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0082/index.json",
+        "record_id": "char-0082"
+      },
+      "title": "普泓"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0083/index.json",
+          "record_id": "char-0083"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 35,
+      "summary": "妖人（暗红小叉主人）（第35章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0083/index.json",
+        "record_id": "char-0083"
+      },
+      "title": "妖人（暗红小叉主人）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0084/index.json",
+          "record_id": "char-0084"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "野狗道人（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0084/index.json",
+        "record_id": "char-0084"
+      },
+      "title": "野狗道人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0085/index.json",
+          "record_id": "char-0085"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "刘镐（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0085/index.json",
+        "record_id": "char-0085"
+      },
+      "title": "刘镐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0086/index.json",
+          "record_id": "char-0086"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "姜老三（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0086/index.json",
+        "record_id": "char-0086"
+      },
+      "title": "姜老三"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0087/index.json",
+          "record_id": "char-0087"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "吸血老妖（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0087/index.json",
+        "record_id": "char-0087"
+      },
+      "title": "吸血老妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0088/index.json",
+          "record_id": "char-0088"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "满脸胡须大汉（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0088/index.json",
+        "record_id": "char-0088"
+      },
+      "title": "满脸胡须大汉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0089/index.json",
+          "record_id": "char-0089"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "美貌少妇（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0089/index.json",
+        "record_id": "char-0089"
+      },
+      "title": "美貌少妇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 36,
+          "start": 36
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0090/index.json",
+          "record_id": "char-0090"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 36,
+      "summary": "白衣青年（第36章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0090/index.json",
+        "record_id": "char-0090"
+      },
+      "title": "白衣青年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 37,
+          "start": 37
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0091/index.json",
+          "record_id": "char-0091"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 37,
+      "summary": "林锋（第37章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0091/index.json",
+        "record_id": "char-0091"
+      },
+      "title": "林锋"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 37,
+          "start": 37
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0092/index.json",
+          "record_id": "char-0092"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 37,
+      "summary": "年老大（第37章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0092/index.json",
+        "record_id": "char-0092"
+      },
+      "title": "年老大"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 37,
+          "start": 37
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0093/index.json",
+          "record_id": "char-0093"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 37,
+      "summary": "风月老祖（第37章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0093/index.json",
+        "record_id": "char-0093"
+      },
+      "title": "风月老祖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0094/index.json",
+          "record_id": "char-0094"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 38,
+      "summary": "阴灵（第38章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0094/index.json",
+        "record_id": "char-0094"
+      },
+      "title": "阴灵"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 39,
+          "start": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0095/index.json",
+          "record_id": "char-0095"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 39,
+      "summary": "绿衣少女（第39章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0095/index.json",
+        "record_id": "char-0095"
+      },
+      "title": "绿衣少女"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 39,
+          "start": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0096/index.json",
+          "record_id": "char-0096"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 39,
+      "summary": "树妖（第39章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0096/index.json",
+        "record_id": "char-0096"
+      },
+      "title": "树妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 39,
+          "start": 39
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0097/index.json",
+          "record_id": "char-0097"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 39,
+      "summary": "赤眼猪妖（第39章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0097/index.json",
+        "record_id": "char-0097"
+      },
+      "title": "赤眼猪妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0098/index.json",
+          "record_id": "char-0098"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 40,
+      "summary": "黑水玄蛇（第40章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0098/index.json",
+        "record_id": "char-0098"
+      },
+      "title": "黑水玄蛇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0099/index.json",
+          "record_id": "char-0099"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 40,
+      "summary": "黄鸟（第40章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0099/index.json",
+        "record_id": "char-0099"
+      },
+      "title": "黄鸟"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0100/index.json",
+          "record_id": "char-0100"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 41,
+      "summary": "蒙面女子（第41章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0100/index.json",
+        "record_id": "char-0100"
+      },
+      "title": "蒙面女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0101/index.json",
+          "record_id": "char-0101"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 41,
+      "summary": "黄衣人（第41章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0101/index.json",
+        "record_id": "char-0101"
+      },
+      "title": "黄衣人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 43,
+          "start": 43
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0102/index.json",
+          "record_id": "char-0102"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 43,
+      "summary": "黑心老鬼（第43章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0102/index.json",
+        "record_id": "char-0102"
+      },
+      "title": "黑心老鬼"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 44,
+          "start": 44
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0103/index.json",
+          "record_id": "char-0103"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 44,
+      "summary": "金铃夫人（第44章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0103/index.json",
+        "record_id": "char-0103"
+      },
+      "title": "金铃夫人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0104/index.json",
+          "record_id": "char-0104"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "普方（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0104/index.json",
+        "record_id": "char-0104"
+      },
+      "title": "普方"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0105/index.json",
+          "record_id": "char-0105"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "碧瑶的娘亲（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0105/index.json",
+        "record_id": "char-0105"
+      },
+      "title": "碧瑶的娘亲"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0106/index.json",
+          "record_id": "char-0106"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "碧瑶的姥姥（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0106/index.json",
+        "record_id": "char-0106"
+      },
+      "title": "碧瑶的姥姥"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0107/index.json",
+          "record_id": "char-0107"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "碧瑶的父亲（本章未具名）（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0107/index.json",
+        "record_id": "char-0107"
+      },
+      "title": "碧瑶的父亲（本章未具名）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0108/index.json",
+          "record_id": "char-0108"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "青龙叔叔（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0108/index.json",
+        "record_id": "char-0108"
+      },
+      "title": "青龙叔叔"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0109/index.json",
+          "record_id": "char-0109"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "白虎叔叔（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0109/index.json",
+        "record_id": "char-0109"
+      },
+      "title": "白虎叔叔"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0110/index.json",
+          "record_id": "char-0110"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 45,
+      "summary": "玄武叔叔（第45章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0110/index.json",
+        "record_id": "char-0110"
+      },
+      "title": "玄武叔叔"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 47,
+          "start": 47
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0111/index.json",
+          "record_id": "char-0111"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 47,
+      "summary": "万人往（第47章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0111/index.json",
+        "record_id": "char-0111"
+      },
+      "title": "万人往"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 47,
+          "start": 47
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0112/index.json",
+          "record_id": "char-0112"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 47,
+      "summary": "碧瑶之父（第47章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0112/index.json",
+        "record_id": "char-0112"
+      },
+      "title": "碧瑶之父"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0113/index.json",
+          "record_id": "char-0113"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "石头（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0113/index.json",
+        "record_id": "char-0113"
+      },
+      "title": "石头"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0114/index.json",
+          "record_id": "char-0114"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "大力尊者（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0114/index.json",
+        "record_id": "char-0114"
+      },
+      "title": "大力尊者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0115/index.json",
+          "record_id": "char-0115"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "茶摊老板（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0115/index.json",
+        "record_id": "char-0115"
+      },
+      "title": "茶摊老板"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0116/index.json",
+          "record_id": "char-0116"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "看相老者（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0116/index.json",
+        "record_id": "char-0116"
+      },
+      "title": "看相老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0117/index.json",
+          "record_id": "char-0117"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "小女孩（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0117/index.json",
+        "record_id": "char-0117"
+      },
+      "title": "小女孩"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0118/index.json",
+          "record_id": "char-0118"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "镇长（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0118/index.json",
+        "record_id": "char-0118"
+      },
+      "title": "镇长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0119/index.json",
+          "record_id": "char-0119"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "李保长（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0119/index.json",
+        "record_id": "char-0119"
+      },
+      "title": "李保长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0120/index.json",
+          "record_id": "char-0120"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "范秀才（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0120/index.json",
+        "record_id": "char-0120"
+      },
+      "title": "范秀才"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0121/index.json",
+          "record_id": "char-0121"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 48,
+      "summary": "三尾妖狐（第48章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0121/index.json",
+        "record_id": "char-0121"
+      },
+      "title": "三尾妖狐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0122/index.json",
+          "record_id": "char-0122"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 49,
+      "summary": "周一仙（第49章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0122/index.json",
+        "record_id": "char-0122"
+      },
+      "title": "周一仙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0123/index.json",
+          "record_id": "char-0123"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 49,
+      "summary": "小环（第49章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0123/index.json",
+        "record_id": "char-0123"
+      },
+      "title": "小环"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 53,
+          "start": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0124/index.json",
+          "record_id": "char-0124"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 53,
+      "summary": "焚香谷谷主（第53章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0124/index.json",
+        "record_id": "char-0124"
+      },
+      "title": "焚香谷谷主"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 53,
+          "start": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0125/index.json",
+          "record_id": "char-0125"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 53,
+      "summary": "深渊巨大触手怪物（第53章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0125/index.json",
+        "record_id": "char-0125"
+      },
+      "title": "深渊巨大触手怪物"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 53,
+          "start": 53
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0126/index.json",
+          "record_id": "char-0126"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 53,
+      "summary": "坑底火龙的来源实体（第53章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0126/index.json",
+        "record_id": "char-0126"
+      },
+      "title": "坑底火龙的来源实体"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0127/index.json",
+          "record_id": "char-0127"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 54,
+      "summary": "六尾魔狐（第54章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0127/index.json",
+        "record_id": "char-0127"
+      },
+      "title": "六尾魔狐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0128/index.json",
+          "record_id": "char-0128"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 54,
+      "summary": "白色六尾狐狸（第54章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0128/index.json",
+        "record_id": "char-0128"
+      },
+      "title": "白色六尾狐狸"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0129/index.json",
+          "record_id": "char-0129"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 54,
+      "summary": "上官策（第54章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0129/index.json",
+        "record_id": "char-0129"
+      },
+      "title": "上官策"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0130/index.json",
+          "record_id": "char-0130"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 55,
+      "summary": "六尾白狐（第55章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0130/index.json",
+        "record_id": "char-0130"
+      },
+      "title": "六尾白狐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0131/index.json",
+          "record_id": "char-0131"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 55,
+      "summary": "大黑蛭（第55章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0131/index.json",
+        "record_id": "char-0131"
+      },
+      "title": "大黑蛭"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 57,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0132/index.json",
+          "record_id": "char-0132"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 57,
+      "summary": "王掌柜（第57章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0132/index.json",
+        "record_id": "char-0132"
+      },
+      "title": "王掌柜"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 57,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0133/index.json",
+          "record_id": "char-0133"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 57,
+      "summary": "雨中撑伞女子（第57章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0133/index.json",
+        "record_id": "char-0133"
+      },
+      "title": "雨中撑伞女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 58,
+          "start": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0134/index.json",
+          "record_id": "char-0134"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 58,
+      "summary": "石头的师父（第58章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0134/index.json",
+        "record_id": "char-0134"
+      },
+      "title": "石头的师父"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 58,
+          "start": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0135/index.json",
+          "record_id": "char-0135"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 58,
+      "summary": "魔教（第58章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0135/index.json",
+        "record_id": "char-0135"
+      },
+      "title": "魔教"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 58,
+          "start": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0136/index.json",
+          "record_id": "char-0136"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 58,
+      "summary": "天音寺（第58章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0136/index.json",
+        "record_id": "char-0136"
+      },
+      "title": "天音寺"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 58,
+          "start": 58
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0137/index.json",
+          "record_id": "char-0137"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 58,
+      "summary": "焚香谷（第58章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0137/index.json",
+        "record_id": "char-0137"
+      },
+      "title": "焚香谷"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0138/index.json",
+          "record_id": "char-0138"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 60,
+      "summary": "法中（第60章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0138/index.json",
+        "record_id": "char-0138"
+      },
+      "title": "法中"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0139/index.json",
+          "record_id": "char-0139"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 61,
+      "summary": "雨夜女子（章内叙述称陆雪琪）（第61章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0139/index.json",
+        "record_id": "char-0139"
+      },
+      "title": "雨夜女子（章内叙述称陆雪琪）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 62,
+          "start": 62
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0140/index.json",
+          "record_id": "char-0140"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 62,
+      "summary": "普空（第62章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0140/index.json",
+        "record_id": "char-0140"
+      },
+      "title": "普空"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 63,
+          "start": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0141/index.json",
+          "record_id": "char-0141"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 63,
+      "summary": "鬼王（第63章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0141/index.json",
+        "record_id": "char-0141"
+      },
+      "title": "鬼王"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 63,
+          "start": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0142/index.json",
+          "record_id": "char-0142"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 63,
+      "summary": "尊使（第63章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0142/index.json",
+        "record_id": "char-0142"
+      },
+      "title": "尊使"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 63,
+          "start": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0143/index.json",
+          "record_id": "char-0143"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 63,
+      "summary": "皮肤黝黑的高个男子（第63章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0143/index.json",
+        "record_id": "char-0143"
+      },
+      "title": "皮肤黝黑的高个男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 63,
+          "start": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0144/index.json",
+          "record_id": "char-0144"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 63,
+      "summary": "不知姓名的美貌少妇（第63章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0144/index.json",
+        "record_id": "char-0144"
+      },
+      "title": "不知姓名的美貌少妇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 63,
+          "start": 63
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0145/index.json",
+          "record_id": "char-0145"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 63,
+      "summary": "面生的年轻人（第63章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0145/index.json",
+        "record_id": "char-0145"
+      },
+      "title": "面生的年轻人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 64,
+          "start": 64
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0146/index.json",
+          "record_id": "char-0146"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 64,
+      "summary": "小周（第64章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0146/index.json",
+        "record_id": "char-0146"
+      },
+      "title": "小周"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 64,
+          "start": 64
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0147/index.json",
+          "record_id": "char-0147"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 64,
+      "summary": "与碧瑶同行的高大男子（第64章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0147/index.json",
+        "record_id": "char-0147"
+      },
+      "title": "与碧瑶同行的高大男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0148/index.json",
+          "record_id": "char-0148"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 68,
+      "summary": "光头秃顶老者（魔教中人）（第68章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0148/index.json",
+        "record_id": "char-0148"
+      },
+      "title": "光头秃顶老者（魔教中人）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0149/index.json",
+          "record_id": "char-0149"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 68,
+      "summary": "样貌凶悍的矮小侏儒（魔教中人）（第68章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0149/index.json",
+        "record_id": "char-0149"
+      },
+      "title": "样貌凶悍的矮小侏儒（魔教中人）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0150/index.json",
+          "record_id": "char-0150"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 68,
+      "summary": "白面书生（魔教中人）（第68章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0150/index.json",
+        "record_id": "char-0150"
+      },
+      "title": "白面书生（魔教中人）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0151/index.json",
+          "record_id": "char-0151"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 69,
+      "summary": "百毒子（第69章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0151/index.json",
+        "record_id": "char-0151"
+      },
+      "title": "百毒子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0152/index.json",
+          "record_id": "char-0152"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 69,
+      "summary": "端木老祖（第69章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0152/index.json",
+        "record_id": "char-0152"
+      },
+      "title": "端木老祖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0153/index.json",
+          "record_id": "char-0153"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 69,
+      "summary": "青龙（第69章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0153/index.json",
+        "record_id": "char-0153"
+      },
+      "title": "青龙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0154/index.json",
+          "record_id": "char-0154"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 69,
+      "summary": "万剑一（第69章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0154/index.json",
+        "record_id": "char-0154"
+      },
+      "title": "万剑一"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0155/index.json",
+          "record_id": "char-0155"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 70,
+      "summary": "朱雀（第70章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0155/index.json",
+        "record_id": "char-0155"
+      },
+      "title": "朱雀"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0156/index.json",
+          "record_id": "char-0156"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 70,
+      "summary": "白虎（第70章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0156/index.json",
+        "record_id": "char-0156"
+      },
+      "title": "白虎"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0157/index.json",
+          "record_id": "char-0157"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 70,
+      "summary": "玄武（第70章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0157/index.json",
+        "record_id": "char-0157"
+      },
+      "title": "玄武"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0158/index.json",
+          "record_id": "char-0158"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 70,
+      "summary": "道玄（第70章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0158/index.json",
+        "record_id": "char-0158"
+      },
+      "title": "道玄"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 71,
+          "start": 71
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0159/index.json",
+          "record_id": "char-0159"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 71,
+      "summary": "美貌妇人（炼血堂）（第71章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0159/index.json",
+        "record_id": "char-0159"
+      },
+      "title": "美貌妇人（炼血堂）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 72,
+          "start": 72
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0160/index.json",
+          "record_id": "char-0160"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 72,
+      "summary": "夔牛（第72章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0160/index.json",
+        "record_id": "char-0160"
+      },
+      "title": "夔牛"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0161/index.json",
+          "record_id": "char-0161"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 75,
+      "summary": "毒神（第75章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0161/index.json",
+        "record_id": "char-0161"
+      },
+      "title": "毒神"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0162/index.json",
+          "record_id": "char-0162"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 75,
+      "summary": "秦无炎（第75章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0162/index.json",
+        "record_id": "char-0162"
+      },
+      "title": "秦无炎"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0163/index.json",
+          "record_id": "char-0163"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 75,
+      "summary": "幽姬（第75章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0163/index.json",
+        "record_id": "char-0163"
+      },
+      "title": "幽姬"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0164/index.json",
+          "record_id": "char-0164"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 75,
+      "summary": "玉阳子（第75章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0164/index.json",
+        "record_id": "char-0164"
+      },
+      "title": "玉阳子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 75,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0165/index.json",
+          "record_id": "char-0165"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 75,
+      "summary": "三妙仙子（第75章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0165/index.json",
+        "record_id": "char-0165"
+      },
+      "title": "三妙仙子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 79,
+          "start": 79
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0166/index.json",
+          "record_id": "char-0166"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 79,
+      "summary": "七尾蜈蚣（第79章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0166/index.json",
+        "record_id": "char-0166"
+      },
+      "title": "七尾蜈蚣"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 80,
+          "start": 80
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0167/index.json",
+          "record_id": "char-0167"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 80,
+      "summary": "上官老人（第80章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0167/index.json",
+        "record_id": "char-0167"
+      },
+      "title": "上官老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 80,
+          "start": 80
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0168/index.json",
+          "record_id": "char-0168"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 80,
+      "summary": "假上官策（第80章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0168/index.json",
+        "record_id": "char-0168"
+      },
+      "title": "假上官策"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 81,
+          "start": 81
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0169/index.json",
+          "record_id": "char-0169"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 81,
+      "summary": "祖师祠堂扫地老者（第81章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0169/index.json",
+        "record_id": "char-0169"
+      },
+      "title": "祖师祠堂扫地老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 81,
+          "start": 81
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0170/index.json",
+          "record_id": "char-0170"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 81,
+      "summary": "周隐（第81章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0170/index.json",
+        "record_id": "char-0170"
+      },
+      "title": "周隐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 82
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0171/index.json",
+          "record_id": "char-0171"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 82,
+      "summary": "枯槁老者（第82章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0171/index.json",
+        "record_id": "char-0171"
+      },
+      "title": "枯槁老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 84
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0172/index.json",
+          "record_id": "char-0172"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 84,
+      "summary": "鬼先生（第84章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0172/index.json",
+        "record_id": "char-0172"
+      },
+      "title": "鬼先生"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0173/index.json",
+          "record_id": "char-0173"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "鬼厉（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0173/index.json",
+        "record_id": "char-0173"
+      },
+      "title": "鬼厉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0174/index.json",
+          "record_id": "char-0174"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "何老板（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0174/index.json",
+        "record_id": "char-0174"
+      },
+      "title": "何老板"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0175/index.json",
+          "record_id": "char-0175"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "商旅老者（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0175/index.json",
+        "record_id": "char-0175"
+      },
+      "title": "商旅老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0176/index.json",
+          "record_id": "char-0176"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "角落神秘男子（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0176/index.json",
+        "record_id": "char-0176"
+      },
+      "title": "角落神秘男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0177/index.json",
+          "record_id": "char-0177"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "鬼王宗黑衣人头领（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0177/index.json",
+        "record_id": "char-0177"
+      },
+      "title": "鬼王宗黑衣人头领"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0178/index.json",
+          "record_id": "char-0178"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "炼血堂（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0178/index.json",
+        "record_id": "char-0178"
+      },
+      "title": "炼血堂"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0179/index.json",
+          "record_id": "char-0179"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 85,
+      "summary": "鬼王宗（第85章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0179/index.json",
+        "record_id": "char-0179"
+      },
+      "title": "鬼王宗"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 86,
+          "start": 86
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0180/index.json",
+          "record_id": "char-0180"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 86,
+      "summary": "祖师祠堂神秘老人（第86章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0180/index.json",
+        "record_id": "char-0180"
+      },
+      "title": "祖师祠堂神秘老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 86,
+          "start": 86
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0181/index.json",
+          "record_id": "char-0181"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 86,
+      "summary": "黑衣人（鬼厉手下）（第86章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0181/index.json",
+        "record_id": "char-0181"
+      },
+      "title": "黑衣人（鬼厉手下）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 88,
+          "start": 88
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0182/index.json",
+          "record_id": "char-0182"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 88,
+      "summary": "杀生和尚（第88章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0182/index.json",
+        "record_id": "char-0182"
+      },
+      "title": "杀生和尚"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 88,
+          "start": 88
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0183/index.json",
+          "record_id": "char-0183"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 88,
+      "summary": "燕回（第88章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0183/index.json",
+        "record_id": "char-0183"
+      },
+      "title": "燕回"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0184/index.json",
+          "record_id": "char-0184"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 89,
+      "summary": "金瓶儿（第89章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0184/index.json",
+        "record_id": "char-0184"
+      },
+      "title": "金瓶儿"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0185/index.json",
+          "record_id": "char-0185"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 89,
+      "summary": "鹅黄衣裳女子（第89章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0185/index.json",
+        "record_id": "char-0185"
+      },
+      "title": "鹅黄衣裳女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0186/index.json",
+          "record_id": "char-0186"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 90,
+      "summary": "雾中之人（第90章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0186/index.json",
+        "record_id": "char-0186"
+      },
+      "title": "雾中之人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 91,
+          "start": 91
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0187/index.json",
+          "record_id": "char-0187"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 91,
+      "summary": "鱼人（鱼头人身怪物）（第91章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0187/index.json",
+        "record_id": "char-0187"
+      },
+      "title": "鱼人（鱼头人身怪物）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 92,
+          "start": 92
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0188/index.json",
+          "record_id": "char-0188"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 92,
+      "summary": "孟骥（第92章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0188/index.json",
+        "record_id": "char-0188"
+      },
+      "title": "孟骥"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 92,
+          "start": 92
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0189/index.json",
+          "record_id": "char-0189"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 92,
+      "summary": "长生堂（第92章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0189/index.json",
+        "record_id": "char-0189"
+      },
+      "title": "长生堂"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 93,
+          "start": 93
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0190/index.json",
+          "record_id": "char-0190"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 93,
+      "summary": "神秘老人（第93章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0190/index.json",
+        "record_id": "char-0190"
+      },
+      "title": "神秘老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 93,
+          "start": 93
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0191/index.json",
+          "record_id": "char-0191"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 93,
+      "summary": "黑暗中若隐若现的身影（第93章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0191/index.json",
+        "record_id": "char-0191"
+      },
+      "title": "黑暗中若隐若现的身影"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0192/index.json",
+          "record_id": "char-0192"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 94,
+      "summary": "长生堂门众（第94章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0192/index.json",
+        "record_id": "char-0192"
+      },
+      "title": "长生堂门众"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0193/index.json",
+          "record_id": "char-0193"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 94,
+      "summary": "自称玉阳子师侄的男子（第94章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0193/index.json",
+        "record_id": "char-0193"
+      },
+      "title": "自称玉阳子师侄的男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0194/index.json",
+          "record_id": "char-0194"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 96,
+      "summary": "凫形怪兽（内泽异兽）（第96章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0194/index.json",
+        "record_id": "char-0194"
+      },
+      "title": "凫形怪兽（内泽异兽）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 101,
+          "start": 101
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0195/index.json",
+          "record_id": "char-0195"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 101,
+      "summary": "瓶儿（第101章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0195/index.json",
+        "record_id": "char-0195"
+      },
+      "title": "瓶儿"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 101,
+          "start": 101
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0196/index.json",
+          "record_id": "char-0196"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 101,
+      "summary": "小环的爹（第101章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0196/index.json",
+        "record_id": "char-0196"
+      },
+      "title": "小环的爹"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0197/index.json",
+          "record_id": "char-0197"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 103,
+      "summary": "天帝宝库（第103章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0197/index.json",
+        "record_id": "char-0197"
+      },
+      "title": "天帝宝库"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0198/index.json",
+          "record_id": "char-0198"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 105,
+      "summary": "徐冲海（第105章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0198/index.json",
+        "record_id": "char-0198"
+      },
+      "title": "徐冲海"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0199/index.json",
+          "record_id": "char-0199"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 105,
+      "summary": "鱼怪（第105章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0199/index.json",
+        "record_id": "char-0199"
+      },
+      "title": "鱼怪"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0200/index.json",
+          "record_id": "char-0200"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 105,
+      "summary": "鱼头怪人（第105章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0200/index.json",
+        "record_id": "char-0200"
+      },
+      "title": "鱼头怪人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0201/index.json",
+          "record_id": "char-0201"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 105,
+      "summary": "万毒门（第105章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0201/index.json",
+        "record_id": "char-0201"
+      },
+      "title": "万毒门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 105,
+          "start": 105
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0202/index.json",
+          "record_id": "char-0202"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 105,
+      "summary": "合欢派（第105章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0202/index.json",
+        "record_id": "char-0202"
+      },
+      "title": "合欢派"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0203/index.json",
+          "record_id": "char-0203"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 106,
+      "summary": "鱼人族（第106章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0203/index.json",
+        "record_id": "char-0203"
+      },
+      "title": "鱼人族"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 107
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0204/index.json",
+          "record_id": "char-0204"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 107,
+      "summary": "祖师祠堂老人（第107章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0204/index.json",
+        "record_id": "char-0204"
+      },
+      "title": "祖师祠堂老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0205/index.json",
+          "record_id": "char-0205"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "吕顺（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0205/index.json",
+        "record_id": "char-0205"
+      },
+      "title": "吕顺"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0206/index.json",
+          "record_id": "char-0206"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "孙图（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0206/index.json",
+        "record_id": "char-0206"
+      },
+      "title": "孙图"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0207/index.json",
+          "record_id": "char-0207"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "云易岚（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0207/index.json",
+        "record_id": "char-0207"
+      },
+      "title": "云易岚"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0208/index.json",
+          "record_id": "char-0208"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "鱼人族长（披风裹身者）（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0208/index.json",
+        "record_id": "char-0208"
+      },
+      "title": "鱼人族长（披风裹身者）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0209/index.json",
+          "record_id": "char-0209"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "兽神（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0209/index.json",
+        "record_id": "char-0209"
+      },
+      "title": "兽神"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0210/index.json",
+          "record_id": "char-0210"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "古刹殿中发声者（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0210/index.json",
+        "record_id": "char-0210"
+      },
+      "title": "古刹殿中发声者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 108,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0211/index.json",
+          "record_id": "char-0211"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 108,
+      "summary": "击杀鱼人族长的紫芒黑影（第108章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0211/index.json",
+        "record_id": "char-0211"
+      },
+      "title": "击杀鱼人族长的紫芒黑影"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 109,
+          "start": 109
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0212/index.json",
+          "record_id": "char-0212"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 109,
+      "summary": "南蛮鱼人族族长（第109章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0212/index.json",
+        "record_id": "char-0212"
+      },
+      "title": "南蛮鱼人族族长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 110,
+          "start": 110
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0213/index.json",
+          "record_id": "char-0213"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 110,
+      "summary": "灰豚（第110章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0213/index.json",
+        "record_id": "char-0213"
+      },
+      "title": "灰豚"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 111,
+          "start": 111
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0214/index.json",
+          "record_id": "char-0214"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 111,
+      "summary": "灰衣老者（第111章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0214/index.json",
+        "record_id": "char-0214"
+      },
+      "title": "灰衣老者"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 111,
+          "start": 111
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0215/index.json",
+          "record_id": "char-0215"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 111,
+      "summary": "焚香谷弟子（第111章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0215/index.json",
+        "record_id": "char-0215"
+      },
+      "title": "焚香谷弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 111,
+          "start": 111
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0216/index.json",
+          "record_id": "char-0216"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 111,
+      "summary": "鱼人（第111章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0216/index.json",
+        "record_id": "char-0216"
+      },
+      "title": "鱼人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 112,
+          "start": 112
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0217/index.json",
+          "record_id": "char-0217"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 112,
+      "summary": "鱼人蛮族（第112章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0217/index.json",
+        "record_id": "char-0217"
+      },
+      "title": "鱼人蛮族"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0218/index.json",
+          "record_id": "char-0218"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 113,
+      "summary": "火焰异兽（第113章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0218/index.json",
+        "record_id": "char-0218"
+      },
+      "title": "火焰异兽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0219/index.json",
+          "record_id": "char-0219"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 113,
+      "summary": "上官（第113章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0219/index.json",
+        "record_id": "char-0219"
+      },
+      "title": "上官"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0220/index.json",
+          "record_id": "char-0220"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 114,
+      "summary": "第三层黑暗中的女子声音（第114章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0220/index.json",
+        "record_id": "char-0220"
+      },
+      "title": "第三层黑暗中的女子声音"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0221/index.json",
+          "record_id": "char-0221"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 114,
+      "summary": "九尾天狐（第114章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0221/index.json",
+        "record_id": "char-0221"
+      },
+      "title": "九尾天狐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0222/index.json",
+          "record_id": "char-0222"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 114,
+      "summary": "赤焰兽（第114章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0222/index.json",
+        "record_id": "char-0222"
+      },
+      "title": "赤焰兽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0223/index.json",
+          "record_id": "char-0223"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 114,
+      "summary": "小六（第114章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0223/index.json",
+        "record_id": "char-0223"
+      },
+      "title": "小六"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0224/index.json",
+          "record_id": "char-0224"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 116,
+      "summary": "焚香谷众人（第116章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0224/index.json",
+        "record_id": "char-0224"
+      },
+      "title": "焚香谷众人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 118,
+          "start": 118
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0225/index.json",
+          "record_id": "char-0225"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 118,
+      "summary": "小白（第118章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0225/index.json",
+        "record_id": "char-0225"
+      },
+      "title": "小白"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 118,
+          "start": 118
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0226/index.json",
+          "record_id": "char-0226"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 118,
+      "summary": "南疆流氓三人（第118章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0226/index.json",
+        "record_id": "char-0226"
+      },
+      "title": "南疆流氓三人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 119,
+          "start": 119
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0227/index.json",
+          "record_id": "char-0227"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 119,
+      "summary": "天水客栈老板与伙计（第119章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0227/index.json",
+        "record_id": "char-0227"
+      },
+      "title": "天水客栈老板与伙计"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 119,
+          "start": 119
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0228/index.json",
+          "record_id": "char-0228"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 119,
+      "summary": "焚香谷弟子（李洵的师弟）（第119章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0228/index.json",
+        "record_id": "char-0228"
+      },
+      "title": "焚香谷弟子（李洵的师弟）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 121,
+          "start": 121
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0229/index.json",
+          "record_id": "char-0229"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 121,
+      "summary": "柯如晦（第121章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0229/index.json",
+        "record_id": "char-0229"
+      },
+      "title": "柯如晦"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 122,
+          "start": 122
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0230/index.json",
+          "record_id": "char-0230"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 122,
+      "summary": "苗人大巫师（第122章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0230/index.json",
+        "record_id": "char-0230"
+      },
+      "title": "苗人大巫师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 122,
+          "start": 122
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0231/index.json",
+          "record_id": "char-0231"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 122,
+      "summary": "苗人祭坛守卫头目（第122章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0231/index.json",
+        "record_id": "char-0231"
+      },
+      "title": "苗人祭坛守卫头目"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 123,
+          "start": 123
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0232/index.json",
+          "record_id": "char-0232"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 123,
+      "summary": "图麻骨（第123章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0232/index.json",
+        "record_id": "char-0232"
+      },
+      "title": "图麻骨"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 123,
+          "start": 123
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0233/index.json",
+          "record_id": "char-0233"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 123,
+      "summary": "大巫师（第123章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0233/index.json",
+        "record_id": "char-0233"
+      },
+      "title": "大巫师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 123,
+          "start": 123
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0234/index.json",
+          "record_id": "char-0234"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 123,
+      "summary": "苗人战士小头目（第123章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0234/index.json",
+        "record_id": "char-0234"
+      },
+      "title": "苗人战士小头目"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 124,
+          "start": 124
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0235/index.json",
+          "record_id": "char-0235"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 124,
+      "summary": "苗族（第124章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0235/index.json",
+        "record_id": "char-0235"
+      },
+      "title": "苗族"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0236/index.json",
+          "record_id": "char-0236"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 125,
+      "summary": "阿合台（第125章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0236/index.json",
+        "record_id": "char-0236"
+      },
+      "title": "阿合台"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0237/index.json",
+          "record_id": "char-0237"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 125,
+      "summary": "黎族族长（第125章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0237/index.json",
+        "record_id": "char-0237"
+      },
+      "title": "黎族族长"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0238/index.json",
+          "record_id": "char-0238"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 125,
+      "summary": "苗族巫师（传话者）（第125章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0238/index.json",
+        "record_id": "char-0238"
+      },
+      "title": "苗族巫师（传话者）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 125,
+          "start": 125
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0239/index.json",
+          "record_id": "char-0239"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 125,
+      "summary": "黎族（第125章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0239/index.json",
+        "record_id": "char-0239"
+      },
+      "title": "黎族"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0240/index.json",
+          "record_id": "char-0240"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 126,
+      "summary": "苗族哑巴少年（第126章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0240/index.json",
+        "record_id": "char-0240"
+      },
+      "title": "苗族哑巴少年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 127,
+          "start": 127
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0241/index.json",
+          "record_id": "char-0241"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 127,
+      "summary": "哑巴少年（第127章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0241/index.json",
+        "record_id": "char-0241"
+      },
+      "title": "哑巴少年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 127,
+          "start": 127
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0242/index.json",
+          "record_id": "char-0242"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 127,
+      "summary": "魔王（第127章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0242/index.json",
+        "record_id": "char-0242"
+      },
+      "title": "魔王"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0243/index.json",
+          "record_id": "char-0243"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 128,
+      "summary": "巫妖（第128章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0243/index.json",
+        "record_id": "char-0243"
+      },
+      "title": "巫妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0244/index.json",
+          "record_id": "char-0244"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 128,
+      "summary": "恶龙（第128章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0244/index.json",
+        "record_id": "char-0244"
+      },
+      "title": "恶龙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 130,
+          "start": 130
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0245/index.json",
+          "record_id": "char-0245"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 130,
+      "summary": "年轻巫师（第130章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0245/index.json",
+        "record_id": "char-0245"
+      },
+      "title": "年轻巫师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 130,
+          "start": 130
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0246/index.json",
+          "record_id": "char-0246"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 130,
+      "summary": "巨兽（形似神龙）（第130章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0246/index.json",
+        "record_id": "char-0246"
+      },
+      "title": "巨兽（形似神龙）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 131,
+          "start": 131
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0247/index.json",
+          "record_id": "char-0247"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 131,
+      "summary": "兽妖（第131章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0247/index.json",
+        "record_id": "char-0247"
+      },
+      "title": "兽妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 132,
+          "start": 132
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0248/index.json",
+          "record_id": "char-0248"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 132,
+      "summary": "玲珑（第132章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0248/index.json",
+        "record_id": "char-0248"
+      },
+      "title": "玲珑"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0249/index.json",
+          "record_id": "char-0249"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 133,
+      "summary": "凶灵（持剑盾白气男子）（第133章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0249/index.json",
+        "record_id": "char-0249"
+      },
+      "title": "凶灵（持剑盾白气男子）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0250/index.json",
+          "record_id": "char-0250"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 133,
+      "summary": "玲珑娘娘（第133章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0250/index.json",
+        "record_id": "char-0250"
+      },
+      "title": "玲珑娘娘"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0251/index.json",
+          "record_id": "char-0251"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 134,
+      "summary": "凶灵（第134章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0251/index.json",
+        "record_id": "char-0251"
+      },
+      "title": "凶灵"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0252/index.json",
+          "record_id": "char-0252"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 134,
+      "summary": "黑木（第134章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0252/index.json",
+        "record_id": "char-0252"
+      },
+      "title": "黑木"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0253/index.json",
+          "record_id": "char-0253"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 134,
+      "summary": "娘娘（第134章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0253/index.json",
+        "record_id": "char-0253"
+      },
+      "title": "娘娘"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0254/index.json",
+          "record_id": "char-0254"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 134,
+      "summary": "狐媚女子（第134章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0254/index.json",
+        "record_id": "char-0254"
+      },
+      "title": "狐媚女子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0255/index.json",
+          "record_id": "char-0255"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 135,
+      "summary": "丝绸裹身的复生男子（第135章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0255/index.json",
+        "record_id": "char-0255"
+      },
+      "title": "丝绸裹身的复生男子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0256/index.json",
+          "record_id": "char-0256"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 136,
+      "summary": "小痴（第136章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0256/index.json",
+        "record_id": "char-0256"
+      },
+      "title": "小痴"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 139,
+          "start": 139
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0257/index.json",
+          "record_id": "char-0257"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 139,
+      "summary": "鬼王宗值守弟子（第139章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0257/index.json",
+        "record_id": "char-0257"
+      },
+      "title": "鬼王宗值守弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0258/index.json",
+          "record_id": "char-0258"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 140,
+      "summary": "带三眼猴子的醉客（何家小店）（第140章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0258/index.json",
+        "record_id": "char-0258"
+      },
+      "title": "带三眼猴子的醉客（何家小店）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0259/index.json",
+          "record_id": "char-0259"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 140,
+      "summary": "玲珑巫女（第140章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0259/index.json",
+        "record_id": "char-0259"
+      },
+      "title": "玲珑巫女"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 141,
+          "start": 141
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0260/index.json",
+          "record_id": "char-0260"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 141,
+      "summary": "云老前辈（第141章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0260/index.json",
+        "record_id": "char-0260"
+      },
+      "title": "云老前辈"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0261/index.json",
+          "record_id": "char-0261"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 142,
+      "summary": "飞云道人（第142章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0261/index.json",
+        "record_id": "char-0261"
+      },
+      "title": "飞云道人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0262/index.json",
+          "record_id": "char-0262"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 142,
+      "summary": "云谷主（第142章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0262/index.json",
+        "record_id": "char-0262"
+      },
+      "title": "云谷主"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0263/index.json",
+          "record_id": "char-0263"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 143,
+      "summary": "白羊巫师（第143章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0263/index.json",
+        "record_id": "char-0263"
+      },
+      "title": "白羊巫师"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0264/index.json",
+          "record_id": "char-0264"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 143,
+      "summary": "白骨妖蛇（第143章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0264/index.json",
+        "record_id": "char-0264"
+      },
+      "title": "白骨妖蛇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0265/index.json",
+          "record_id": "char-0265"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 144,
+      "summary": "祠堂老人（第144章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0265/index.json",
+        "record_id": "char-0265"
+      },
+      "title": "祠堂老人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0266/index.json",
+          "record_id": "char-0266"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 144,
+      "summary": "妖艳少年（第144章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0266/index.json",
+        "record_id": "char-0266"
+      },
+      "title": "妖艳少年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0267/index.json",
+          "record_id": "char-0267"
+        }
+      ],
+      "kind": "entity_index",
+      "safe_through": 144,
+      "summary": "墨绿身影（第144章起）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0267/index.json",
+        "record_id": "char-0267"
+      },
+      "title": "墨绿身影"
     }
   ],
   "id": "idx-characters",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 32,
-  "safe_through": 6,
+  "revision": 268,
+  "safe_through": 144,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 6,
+        "end": 8,
         "start": 1
+      },
+      {
+        "end": 14,
+        "start": 10
+      },
+      {
+        "end": 29,
+        "start": 16
+      },
+      {
+        "end": 41,
+        "start": 32
+      },
+      {
+        "end": 45,
+        "start": 43
+      },
+      {
+        "end": 49,
+        "start": 47
+      },
+      {
+        "end": 55,
+        "start": 53
+      },
+      {
+        "end": 58,
+        "start": 57
+      },
+      {
+        "end": 64,
+        "start": 60
+      },
+      {
+        "end": 72,
+        "start": 68
+      },
+      {
+        "end": 75,
+        "start": 75
+      },
+      {
+        "end": 82,
+        "start": 79
+      },
+      {
+        "end": 86,
+        "start": 84
+      },
+      {
+        "end": 94,
+        "start": 88
+      },
+      {
+        "end": 96,
+        "start": 96
+      },
+      {
+        "end": 101,
+        "start": 101
+      },
+      {
+        "end": 103,
+        "start": 103
+      },
+      {
+        "end": 114,
+        "start": 105
+      },
+      {
+        "end": 116,
+        "start": 116
+      },
+      {
+        "end": 119,
+        "start": 118
+      },
+      {
+        "end": 128,
+        "start": 121
+      },
+      {
+        "end": 136,
+        "start": 130
+      },
+      {
+        "end": 144,
+        "start": 139
       }
     ],
     "subject_refs": []

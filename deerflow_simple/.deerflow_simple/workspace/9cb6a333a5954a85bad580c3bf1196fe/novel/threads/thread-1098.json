@@ -1,0 +1,30 @@
+{
+  "id": "thread-1098",
+  "introduced_at": 1008,
+  "kind": "story_thread",
+  "label": "凌天候对天运子相救的冷淡反应",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1008,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1008,
+          "start": 1008
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1098-001",
+      "resolution_refs": [],
+      "revealed_at": 1008,
+      "role": "setup",
+      "status": "open",
+      "summary": "天运子亲自俯冲救下凌天候，凌天候却沉默不语，仅报以冷冷目光。"
+    }
+  ]
+}

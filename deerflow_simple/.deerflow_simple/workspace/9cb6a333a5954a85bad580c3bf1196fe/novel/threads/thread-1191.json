@@ -1,0 +1,30 @@
+{
+  "id": "thread-1191",
+  "introduced_at": 1086,
+  "kind": "story_thread",
+  "label": "王林以九玄变自我封印压制净涅天劫",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1086,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 1086,
+          "start": 1086
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1191-001",
+      "resolution_refs": [],
+      "revealed_at": 1086,
+      "role": "main",
+      "status": "open",
+      "summary": "王林已达净涅边缘并以九玄变自我封印天劫，欲在联盟东部偏僻处独力对抗天劫，因蚊兽被夺而暂缓。"
+    }
+  ]
+}

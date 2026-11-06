@@ -1,0 +1,30 @@
+{
+  "id": "thread-0108",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "正道商议退避回山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0108-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "advanced",
+      "status": "open",
+      "summary": "苍松、田不易都有退避之意，苏茹提议暂且避退回山与掌门商议，两人点头同意，但随即因后方遇袭未能实行。"
+    }
+  ]
+}

@@ -1,6 +1,35 @@
 {
+  "current": {
+    "current_summary": "会武期间对青云弟子摆出攻击姿态并爆发千余年未有的狂怒，被道玄真人出手挡击；对张小凡的烧火棍表现出异常关注；掌门深夜以通灵术试探、召六脉首座议事；后因感应凶物煞气躁动，线索消失未解。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0013/index.json",
+          "record_id": "char-0013"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0013/stages/stage-002.md",
+        "record_id": "doc-char-0013-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    }
+  ],
   "id": "char-0013",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +38,7 @@
   "label": "水麒麟",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 4,
+  "revision": 3,
+  "safe_through": 31,
   "schema_version": "2.0"
 }

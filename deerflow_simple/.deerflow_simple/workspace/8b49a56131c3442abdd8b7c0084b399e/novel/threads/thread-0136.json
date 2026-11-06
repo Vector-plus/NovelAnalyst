@@ -1,0 +1,30 @@
+{
+  "id": "thread-0136",
+  "introduced_at": 89,
+  "kind": "story_thread",
+  "label": "小环一行随鹅黄衣裳女子入死泽",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 89,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "journey",
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0136-001",
+      "resolution_refs": [],
+      "revealed_at": 89,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "小环应鹅黄衣裳女子之邀答应进入死泽看热闹，周一仙亦同往；二人先行，摊子留给周一仙收拾。女子身份章内未点明。"
+    }
+  ]
+}

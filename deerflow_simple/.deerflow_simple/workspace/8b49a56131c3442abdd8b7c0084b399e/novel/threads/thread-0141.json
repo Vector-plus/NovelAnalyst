@@ -1,0 +1,30 @@
+{
+  "id": "thread-0141",
+  "introduced_at": 94,
+  "kind": "story_thread",
+  "label": "死泽异宝与内泽探索",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 94,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0141-001",
+      "resolution_refs": [],
+      "revealed_at": 94,
+      "role": "escalation",
+      "status": "ongoing",
+      "summary": "死泽多日搜索异宝无果，玉阳子推断宝物在内泽；正道议定八人进内泽，魔教三方亦言明将往内泽，双方将在内泽再遇。"
+    }
+  ]
+}

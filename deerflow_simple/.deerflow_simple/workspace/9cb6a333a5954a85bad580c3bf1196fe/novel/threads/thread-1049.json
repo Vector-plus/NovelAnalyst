@@ -1,0 +1,30 @@
+{
+  "id": "thread-1049",
+  "introduced_at": 978,
+  "kind": "story_thread",
+  "label": "炼魂部落夺郡之战（火妖郡）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 978,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 978,
+          "start": 978
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1049-001",
+      "resolution_refs": [],
+      "revealed_at": 978,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "炼魂部落数百万族人倾巢而出，由欧阳华与十三等带头进攻四分五裂、无古妖镇守的火妖郡。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0179",
+  "introduced_at": 117,
+  "kind": "story_thread",
+  "label": "鬼厉身体的隐患",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 117,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "risk",
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0179-001",
+      "resolution_refs": [],
+      "revealed_at": 117,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "鬼厉体内冰凉气息与玄火鉴暖意并存；其身体在与赤焰兽斗法时突然崩溃，证实了九尾天狐此前的说法，他自己也不知还能支撑多久。"
+    }
+  ]
+}

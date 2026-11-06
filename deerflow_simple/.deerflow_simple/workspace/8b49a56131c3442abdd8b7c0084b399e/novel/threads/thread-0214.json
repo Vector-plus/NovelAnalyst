@@ -1,0 +1,30 @@
+{
+  "id": "thread-0214",
+  "introduced_at": 137,
+  "kind": "story_thread",
+  "label": "巫妖持有黑杖与骨玉两件五族圣器",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0214-001",
+      "resolution_refs": [],
+      "revealed_at": 137,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "上官策向云易岚禀报巫妖已得黑杖、骨玉，并称兽妖借黎族巫师「黑火」挑起苗黎争斗夺取圣器。云易岚叹焚香谷百年大计毁于一旦。"
+    }
+  ]
+}

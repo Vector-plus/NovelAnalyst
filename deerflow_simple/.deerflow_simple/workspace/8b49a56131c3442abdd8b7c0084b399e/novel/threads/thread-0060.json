@@ -1,0 +1,30 @@
+{
+  "id": "thread-0060",
+  "introduced_at": 38,
+  "kind": "story_thread",
+  "label": "平台战局未决：法相、齐昊、曾书书等人安危",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 38,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0060-001",
+      "resolution_refs": [],
+      "revealed_at": 38,
+      "role": "secondary",
+      "status": "open",
+      "summary": "张小凡昏迷前听到平台上一句熟悉的佛号，推测法相师兄等四人赶到，但平台上众人是否脱险本章未交代。"
+    }
+  ]
+}

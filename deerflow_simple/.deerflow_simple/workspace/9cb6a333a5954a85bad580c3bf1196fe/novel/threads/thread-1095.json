@@ -1,0 +1,30 @@
+{
+  "id": "thread-1095",
+  "introduced_at": 1007,
+  "kind": "story_thread",
+  "label": "葬仙池吸力危机中众人的脱身",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1007,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1007,
+          "start": 1007
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1095-001",
+      "resolution_refs": [],
+      "revealed_at": 1007,
+      "role": "setup",
+      "status": "active",
+      "summary": "漩涡吸力与煞气风暴持续增强，尘道三子、大头、三名女弟子、孙姓长老等已被卷入或正被吸去；王林刚抓住司徒南向上冲出，无眼女子双目黑血化为血海向上汹涌。"
+    }
+  ]
+}

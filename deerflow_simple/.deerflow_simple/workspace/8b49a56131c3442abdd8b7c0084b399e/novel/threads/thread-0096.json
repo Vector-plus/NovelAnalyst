@@ -1,0 +1,30 @@
+{
+  "id": "thread-0096",
+  "introduced_at": 60,
+  "kind": "story_thread",
+  "label": "田不易对张小凡的惩戒与师徒裂痕",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 60,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0096-001",
+      "resolution_refs": [],
+      "revealed_at": 60,
+      "role": "introduced",
+      "status": "ongoing",
+      "summary": "田不易掌掴张小凡、斥其「忤逆之徒」后不再理会，张小凡在洞外跪了四个多时辰仍未获宽恕；宋大仁、何大智、杜必书与田灵儿相继求情均被斥回。"
+    }
+  ]
+}

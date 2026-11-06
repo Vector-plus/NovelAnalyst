@@ -300,13 +300,5513 @@
         "record_id": "thread-0012"
       },
       "title": "张小凡的大竹峰入门功课（每日砍竹、门规道法）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0013.json",
+          "record_id": "thread-0013"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 7,
+      "summary": "张小凡在大竹峰入门修行（第7章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0013.json",
+        "record_id": "thread-0013"
+      },
+      "title": "张小凡在大竹峰入门修行"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0014.json",
+          "record_id": "thread-0014"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 7,
+      "summary": "普智遗留的紫色圆珠异状（第7章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0014.json",
+        "record_id": "thread-0014"
+      },
+      "title": "普智遗留的紫色圆珠异状"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0015.json",
+          "record_id": "thread-0015"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 7,
+      "summary": "苏茹与小竹峰水月大师的往来（第7章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0015.json",
+        "record_id": "thread-0015"
+      },
+      "title": "苏茹与小竹峰水月大师的往来"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 10,
+          "start": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0016.json",
+          "record_id": "thread-0016"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 10,
+      "summary": "幽谷碧潭异力与普智所赠珠子的衰弱（第10章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0016.json",
+        "record_id": "thread-0016"
+      },
+      "title": "幽谷碧潭异力与普智所赠珠子的衰弱"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 10,
+          "start": 10
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0017.json",
+          "record_id": "thread-0017"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 10,
+      "summary": "两年后的七脉会武与田灵儿的太极洞修习（第10章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0017.json",
+        "record_id": "thread-0017"
+      },
+      "title": "两年后的七脉会武与田灵儿的太极洞修习"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0018.json",
+          "record_id": "thread-0018"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 11,
+      "summary": "噬血珠与玄黑短棒融合为玄青色短棒（第11章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0018.json",
+        "record_id": "thread-0018"
+      },
+      "title": "噬血珠与玄黑短棒融合为玄青色短棒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0019.json",
+          "record_id": "thread-0019"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 11,
+      "summary": "神秘黑衣人身份与噬血珠来历（第11章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0019.json",
+        "record_id": "thread-0019"
+      },
+      "title": "神秘黑衣人身份与噬血珠来历"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0020.json",
+          "record_id": "thread-0020"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 11,
+      "summary": "后山无名谷异常是否会被人察觉（第11章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0020.json",
+        "record_id": "thread-0020"
+      },
+      "title": "后山无名谷异常是否会被人察觉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0021.json",
+          "record_id": "thread-0021"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 13,
+      "summary": "两年后七脉会武改制为六十四人六轮（第13章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0021.json",
+        "record_id": "thread-0021"
+      },
+      "title": "两年后七脉会武改制为六十四人六轮"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 13,
+          "start": 13
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0022.json",
+          "record_id": "thread-0022"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 13,
+      "summary": "村中惨案追查无进展（第13章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0022.json",
+        "record_id": "thread-0022"
+      },
+      "title": "村中惨案追查无进展"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 14,
+          "start": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0023.json",
+          "record_id": "thread-0023"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 14,
+      "summary": "大竹峰一脉式微与田不易的心结（第14章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0023.json",
+        "record_id": "thread-0023"
+      },
+      "title": "大竹峰一脉式微与田不易的心结"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 14,
+          "start": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0024.json",
+          "record_id": "thread-0024"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 14,
+      "summary": "齐昊修为进境（未祭仙剑即凝冰墙）（第14章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0024.json",
+        "record_id": "thread-0024"
+      },
+      "title": "齐昊修为进境（未祭仙剑即凝冰墙）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 14,
+          "start": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0025.json",
+          "record_id": "thread-0025"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 14,
+      "summary": "斩龙剑与田不易的压制：法宝可被他人强夺催动（第14章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0025.json",
+        "record_id": "thread-0025"
+      },
+      "title": "斩龙剑与田不易的压制：法宝可被他人强夺催动"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 14,
+          "start": 14
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0026.json",
+          "record_id": "thread-0026"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 14,
+      "summary": "红衣女子夜现张小凡房中（第14章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0026.json",
+        "record_id": "thread-0026"
+      },
+      "title": "红衣女子夜现张小凡房中"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0027.json",
+          "record_id": "thread-0027"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 15,
+      "summary": "七脉会武前的大竹峰闭关（第15章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0027.json",
+        "record_id": "thread-0027"
+      },
+      "title": "七脉会武前的大竹峰闭关"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0028.json",
+          "record_id": "thread-0028"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 15,
+      "summary": "黑色短棒（噬血珠）的来历与下落（第15章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0028.json",
+        "record_id": "thread-0028"
+      },
+      "title": "黑色短棒（噬血珠）的来历与下落"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0029.json",
+          "record_id": "thread-0029"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 15,
+      "summary": "张小凡私自习练太极玄清道第三层法诀（第15章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0029.json",
+        "record_id": "thread-0029"
+      },
+      "title": "张小凡私自习练太极玄清道第三层法诀"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0030.json",
+          "record_id": "thread-0030"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 16,
+      "summary": "张小凡暗中修至玉清境第三层（第16章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0030.json",
+        "record_id": "thread-0030"
+      },
+      "title": "张小凡暗中修至玉清境第三层"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0031.json",
+          "record_id": "thread-0031"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 16,
+      "summary": "七脉会武与九个名额（第16章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0031.json",
+        "record_id": "thread-0031"
+      },
+      "title": "七脉会武与九个名额"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0032.json",
+          "record_id": "thread-0032"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 16,
+      "summary": "烧火棍的异样与驱物初动（第16章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0032.json",
+        "record_id": "thread-0032"
+      },
+      "title": "烧火棍的异样与驱物初动"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0033.json",
+          "record_id": "thread-0033"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 16,
+      "summary": "田灵儿私授法诀犯门规（第16章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0033.json",
+        "record_id": "thread-0033"
+      },
+      "title": "田灵儿私授法诀犯门规"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0034.json",
+          "record_id": "thread-0034"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 20,
+      "summary": "灵尊（镇山灵兽）为何突然暴怒又迅速平息（第20章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0034.json",
+        "record_id": "thread-0034"
+      },
+      "title": "灵尊（镇山灵兽）为何突然暴怒又迅速平息"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 20,
+          "start": 20
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0035.json",
+          "record_id": "thread-0035"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 20,
+      "summary": "空桑山万蝠古窟魔教异动与噬血珠传闻；青云门将派七脉会武前四名弟子前往（第20章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0035.json",
+        "record_id": "thread-0035"
+      },
+      "title": "空桑山万蝠古窟魔教异动与噬血珠传闻；青云门将派七脉会武前四名弟子前往"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0036.json",
+          "record_id": "thread-0036"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 21,
+      "summary": "田灵儿与齐昊在碧水潭边私会并互诉情意（第21章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0036.json",
+        "record_id": "thread-0036"
+      },
+      "title": "田灵儿与齐昊在碧水潭边私会并互诉情意"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0037.json",
+          "record_id": "thread-0037"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 21,
+      "summary": "水麒麟（灵尊）对张小凡的烧火棍表现出探查兴趣（第21章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0037.json",
+        "record_id": "thread-0037"
+      },
+      "title": "水麒麟（灵尊）对张小凡的烧火棍表现出探查兴趣"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 21,
+          "start": 21
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0038.json",
+          "record_id": "thread-0038"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 21,
+      "summary": "七脉会武期间通天峰拥挤，张小凡本章轮空（第21章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0038.json",
+        "record_id": "thread-0038"
+      },
+      "title": "七脉会武期间通天峰拥挤，张小凡本章轮空"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0039.json",
+          "record_id": "thread-0039"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 22,
+      "summary": "七脉会武比试进程（第22章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0039.json",
+        "record_id": "thread-0039"
+      },
+      "title": "七脉会武比试进程"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0040.json",
+          "record_id": "thread-0040"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 22,
+      "summary": "张小凡对小灰身世（三眼灵猴）的了解（第22章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0040.json",
+        "record_id": "thread-0040"
+      },
+      "title": "张小凡对小灰身世（三眼灵猴）的了解"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0041.json",
+          "record_id": "thread-0041"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 23,
+      "summary": "七脉会武大试赛程推进（第23章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0041.json",
+        "record_id": "thread-0041"
+      },
+      "title": "七脉会武大试赛程推进"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0042.json",
+          "record_id": "thread-0042"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 23,
+      "summary": "陆雪琪的道行与法宝展现（第23章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0042.json",
+        "record_id": "thread-0042"
+      },
+      "title": "陆雪琪的道行与法宝展现"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0043.json",
+          "record_id": "thread-0043"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 27,
+      "summary": "张小凡私自修行“大梵般若”的秘密与背师偷艺罪名（第27章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0043.json",
+        "record_id": "thread-0043"
+      },
+      "title": "张小凡私自修行“大梵般若”的秘密与背师偷艺罪名"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0044.json",
+          "record_id": "thread-0044"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 27,
+      "summary": "灵尊躁动与“凶物煞气”的来源之谜（第27章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0044.json",
+        "record_id": "thread-0044"
+      },
+      "title": "灵尊躁动与“凶物煞气”的来源之谜"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0045.json",
+          "record_id": "thread-0045"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 27,
+      "summary": "七脉会武进程：大竹峰仅剩张小凡一人，第四轮待战（第27章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0045.json",
+        "record_id": "thread-0045"
+      },
+      "title": "七脉会武进程：大竹峰仅剩张小凡一人，第四轮待战"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0046.json",
+          "record_id": "thread-0046"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 29,
+      "summary": "七脉会武前四比试（张小凡对陆雪琪）（第29章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0046.json",
+        "record_id": "thread-0046"
+      },
+      "title": "七脉会武前四比试（张小凡对陆雪琪）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0047.json",
+          "record_id": "thread-0047"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 29,
+      "summary": "田灵儿与齐昊之事遭到田不易夫妇反对（第29章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0047.json",
+        "record_id": "thread-0047"
+      },
+      "title": "田灵儿与齐昊之事遭到田不易夫妇反对"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0048.json",
+          "record_id": "thread-0048"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 29,
+      "summary": "张小凡暗修天音寺“大梵般若”（第29章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0048.json",
+        "record_id": "thread-0048"
+      },
+      "title": "张小凡暗修天音寺“大梵般若”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0049.json",
+          "record_id": "thread-0049"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 29,
+      "summary": "烧火棍与天琊的异动（吸嘬灵力、血渗棍身、如千年之待）（第29章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0049.json",
+        "record_id": "thread-0049"
+      },
+      "title": "烧火棍与天琊的异动（吸嘬灵力、血渗棍身、如千年之待）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0050.json",
+          "record_id": "thread-0050"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 31,
+      "summary": "张小凡隐瞒噬血珠与普智传功（第31章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0050.json",
+        "record_id": "thread-0050"
+      },
+      "title": "张小凡隐瞒噬血珠与普智传功"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0051.json",
+          "record_id": "thread-0051"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 31,
+      "summary": "张小凡被疑为魔教奸细之争（第31章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0051.json",
+        "record_id": "thread-0051"
+      },
+      "title": "张小凡被疑为魔教奸细之争"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0052.json",
+          "record_id": "thread-0052"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 31,
+      "summary": "苍松道人的杀性与道玄的告诫（第31章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0052.json",
+        "record_id": "thread-0052"
+      },
+      "title": "苍松道人的杀性与道玄的告诫"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0053.json",
+          "record_id": "thread-0053"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 34,
+      "summary": "萧逸才下落不明（第34章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0053.json",
+        "record_id": "thread-0053"
+      },
+      "title": "萧逸才下落不明"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0054.json",
+          "record_id": "thread-0054"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 34,
+      "summary": "三派年轻弟子入万蝠古窟查探（第34章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0054.json",
+        "record_id": "thread-0054"
+      },
+      "title": "三派年轻弟子入万蝠古窟查探"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 34,
+          "start": 34
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0055.json",
+          "record_id": "thread-0055"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 34,
+      "summary": "正道三派弟子同行中的摩擦（第34章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0055.json",
+        "record_id": "thread-0055"
+      },
+      "title": "正道三派弟子同行中的摩擦"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0056.json",
+          "record_id": "thread-0056"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 35,
+      "summary": "正道众人入洞，魔教设伏（第35章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0056.json",
+        "record_id": "thread-0056"
+      },
+      "title": "正道众人入洞，魔教设伏"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0057.json",
+          "record_id": "thread-0057"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 35,
+      "summary": "烧火棍反噬/吸取妖人性命（第35章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0057.json",
+        "record_id": "thread-0057"
+      },
+      "title": "烧火棍反噬/吸取妖人性命"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0058.json",
+          "record_id": "thread-0058"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 35,
+      "summary": "法相对张小凡的特别留意（第35章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0058.json",
+        "record_id": "thread-0058"
+      },
+      "title": "法相对张小凡的特别留意"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0059.json",
+          "record_id": "thread-0059"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 38,
+      "summary": "死灵渊求生：烧火棍失效与阴灵围攻（第38章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0059.json",
+        "record_id": "thread-0059"
+      },
+      "title": "死灵渊求生：烧火棍失效与阴灵围攻"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0060.json",
+          "record_id": "thread-0060"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 38,
+      "summary": "平台战局未决：法相、齐昊、曾书书等人安危（第38章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0060.json",
+        "record_id": "thread-0060"
+      },
+      "title": "平台战局未决：法相、齐昊、曾书书等人安危"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0061.json",
+          "record_id": "thread-0061"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 38,
+      "summary": "张小凡大梵般若与第四层修为的双重底牌（第38章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0061.json",
+        "record_id": "thread-0061"
+      },
+      "title": "张小凡大梵般若与第四层修为的双重底牌"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0062.json",
+          "record_id": "thread-0062"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 40,
+      "summary": "寻找滴血洞（第40章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0062.json",
+        "record_id": "thread-0062"
+      },
+      "title": "寻找滴血洞"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0063.json",
+          "record_id": "thread-0063"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 40,
+      "summary": "烧火棍（黑色短棒）的来历（第40章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0063.json",
+        "record_id": "thread-0063"
+      },
+      "title": "烧火棍（黑色短棒）的来历"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0064.json",
+          "record_id": "thread-0064"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 40,
+      "summary": "黑水玄蛇现身无情海（第40章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0064.json",
+        "record_id": "thread-0064"
+      },
+      "title": "黑水玄蛇现身无情海"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 40,
+          "start": 40
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0065.json",
+          "record_id": "thread-0065"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 40,
+      "summary": "陆雪琪余毒未清、重伤无力（第40章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0065.json",
+        "record_id": "thread-0065"
+      },
+      "title": "陆雪琪余毒未清、重伤无力"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0066.json",
+          "record_id": "thread-0066"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 41,
+      "summary": "陆雪琪下落不明、中毒未清（第41章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0066.json",
+        "record_id": "thread-0066"
+      },
+      "title": "陆雪琪下落不明、中毒未清"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0067.json",
+          "record_id": "thread-0067"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 41,
+      "summary": "洞顶石壁的红色痕迹引碧瑶紧张（第41章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0067.json",
+        "record_id": "thread-0067"
+      },
+      "title": "洞顶石壁的红色痕迹引碧瑶紧张"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0068.json",
+          "record_id": "thread-0068"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 45,
+      "summary": "碧瑶身世：六狐洞被活埋与娘亲之死（第45章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0068.json",
+        "record_id": "thread-0068"
+      },
+      "title": "碧瑶身世：六狐洞被活埋与娘亲之死"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0069.json",
+          "record_id": "thread-0069"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 45,
+      "summary": "痴情咒与石壁机关（合欢铃开启）（第45章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0069.json",
+        "record_id": "thread-0069"
+      },
+      "title": "痴情咒与石壁机关（合欢铃开启）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0070.json",
+          "record_id": "thread-0070"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 45,
+      "summary": "被困绝境的食物耗尽与生路（第45章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0070.json",
+        "record_id": "thread-0070"
+      },
+      "title": "被困绝境的食物耗尽与生路"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 46,
+          "start": 46
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0071.json",
+          "record_id": "thread-0071"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 46,
+      "summary": "碧瑶娘亲之死与父女怨隙（第46章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0071.json",
+        "record_id": "thread-0071"
+      },
+      "title": "碧瑶娘亲之死与父女怨隙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 46,
+          "start": 46
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0072.json",
+          "record_id": "thread-0072"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 46,
+      "summary": "滴血洞出口与开天斧机关（第46章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0072.json",
+        "record_id": "thread-0072"
+      },
+      "title": "滴血洞出口与开天斧机关"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0073.json",
+          "record_id": "thread-0073"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "张小凡的信念动摇：正邪之分与摄魂、诛仙之辩（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0073.json",
+        "record_id": "thread-0073"
+      },
+      "title": "张小凡的信念动摇：正邪之分与摄魂、诛仙之辩"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0074.json",
+          "record_id": "thread-0074"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "烧火棍真身：噬血珠与摄魂被精血炼成血炼之物（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0074.json",
+        "record_id": "thread-0074"
+      },
+      "title": "烧火棍真身：噬血珠与摄魂被精血炼成血炼之物"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0075.json",
+          "record_id": "thread-0075"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "万人往与碧瑶的图谋：以戾气侵蚀逼张小凡入教（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0075.json",
+        "record_id": "thread-0075"
+      },
+      "title": "万人往与碧瑶的图谋：以戾气侵蚀逼张小凡入教"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0076.json",
+          "record_id": "thread-0076"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "东海流波山：魔教聚集、正魔大战将起（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0076.json",
+        "record_id": "thread-0076"
+      },
+      "title": "东海流波山：魔教聚集、正魔大战将起"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0077.json",
+          "record_id": "thread-0077"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "小池镇三尾妖狐之患（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0077.json",
+        "record_id": "thread-0077"
+      },
+      "title": "小池镇三尾妖狐之患"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0078.json",
+          "record_id": "thread-0078"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 48,
+      "summary": "突兀登场的看相老者与小女孩（第48章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0078.json",
+        "record_id": "thread-0078"
+      },
+      "title": "突兀登场的看相老者与小女孩"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0079.json",
+          "record_id": "thread-0079"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 49,
+      "summary": "黑石洞除妖（第49章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0079.json",
+        "record_id": "thread-0079"
+      },
+      "title": "黑石洞除妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0080.json",
+          "record_id": "thread-0080"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 49,
+      "summary": "张小凡对自己所用邪物法宝的隐忧（第49章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0080.json",
+        "record_id": "thread-0080"
+      },
+      "title": "张小凡对自己所用邪物法宝的隐忧"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0081.json",
+          "record_id": "thread-0081"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 49,
+      "summary": "周一仙一门与青云门（青云子）的渊源（第49章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0081.json",
+        "record_id": "thread-0081"
+      },
+      "title": "周一仙一门与青云门（青云子）的渊源"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0082.json",
+          "record_id": "thread-0082"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 49,
+      "summary": "碧瑶追击周一仙并与张小凡重逢（第49章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0082.json",
+        "record_id": "thread-0082"
+      },
+      "title": "碧瑶追击周一仙并与张小凡重逢"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 52,
+          "start": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0083.json",
+          "record_id": "thread-0083"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 52,
+      "summary": "古井（满月之井）与三尾妖狐所追问之事（第52章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0083.json",
+        "record_id": "thread-0083"
+      },
+      "title": "古井（满月之井）与三尾妖狐所追问之事"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 52,
+          "start": 52
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0084.json",
+          "record_id": "thread-0084"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 52,
+      "summary": "黑石洞地底断崖下的异兽群落（第52章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0084.json",
+        "record_id": "thread-0084"
+      },
+      "title": "黑石洞地底断崖下的异兽群落"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0085.json",
+          "record_id": "thread-0085"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 54,
+      "summary": "张小凡佛道双修与《天书》总纲的融合契机（第54章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0085.json",
+        "record_id": "thread-0085"
+      },
+      "title": "张小凡佛道双修与《天书》总纲的融合契机"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0086.json",
+          "record_id": "thread-0086"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 54,
+      "summary": "焚香谷追索玄火神器与六尾魔狐下落（第54章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0086.json",
+        "record_id": "thread-0086"
+      },
+      "title": "焚香谷追索玄火神器与六尾魔狐下落"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0087.json",
+          "record_id": "thread-0087"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 54,
+      "summary": "地底岩浆岩洞中的六尾白狐现身（第54章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0087.json",
+        "record_id": "thread-0087"
+      },
+      "title": "地底岩浆岩洞中的六尾白狐现身"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0088.json",
+          "record_id": "thread-0088"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 55,
+      "summary": "焚香谷追缉狐妖三百年（第55章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0088.json",
+        "record_id": "thread-0088"
+      },
+      "title": "焚香谷追缉狐妖三百年"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0089.json",
+          "record_id": "thread-0089"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 55,
+      "summary": "“狐岐山”一名令张小凡感到熟悉（第55章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0089.json",
+        "record_id": "thread-0089"
+      },
+      "title": "“狐岐山”一名令张小凡感到熟悉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0090.json",
+          "record_id": "thread-0090"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 56,
+      "summary": "玄火鉴被张小凡隐瞒带离小池镇（第56章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0090.json",
+        "record_id": "thread-0090"
+      },
+      "title": "玄火鉴被张小凡隐瞒带离小池镇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0091.json",
+          "record_id": "thread-0091"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 56,
+      "summary": "正魔二道齐赴东海流波山（第56章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0091.json",
+        "record_id": "thread-0091"
+      },
+      "title": "正魔二道齐赴东海流波山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0092.json",
+          "record_id": "thread-0092"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 56,
+      "summary": "燕虹对碧瑶的留意与金铃（第56章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0092.json",
+        "record_id": "thread-0092"
+      },
+      "title": "燕虹对碧瑶的留意与金铃"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0093.json",
+          "record_id": "thread-0093"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 56,
+      "summary": "满月之井中张小凡所见仍未明说（第56章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0093.json",
+        "record_id": "thread-0093"
+      },
+      "title": "满月之井中张小凡所见仍未明说"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0094.json",
+          "record_id": "thread-0094"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 60,
+      "summary": "张小凡的戾气失控与烧火棍异变（第60章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0094.json",
+        "record_id": "thread-0094"
+      },
+      "title": "张小凡的戾气失控与烧火棍异变"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0095.json",
+          "record_id": "thread-0095"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 60,
+      "summary": "齐昊与田灵儿关系公开（第60章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0095.json",
+        "record_id": "thread-0095"
+      },
+      "title": "齐昊与田灵儿关系公开"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0096.json",
+          "record_id": "thread-0096"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 60,
+      "summary": "田不易对张小凡的惩戒与师徒裂痕（第60章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0096.json",
+        "record_id": "thread-0096"
+      },
+      "title": "田不易对张小凡的惩戒与师徒裂痕"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 60,
+          "start": 60
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0097.json",
+          "record_id": "thread-0097"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 60,
+      "summary": "魔教炼血堂一系被主流派系排挤（第60章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0097.json",
+        "record_id": "thread-0097"
+      },
+      "title": "魔教炼血堂一系被主流派系排挤"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0098.json",
+          "record_id": "thread-0098"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 61,
+      "summary": "控制张小凡情绪的奇异煞气（第61章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0098.json",
+        "record_id": "thread-0098"
+      },
+      "title": "控制张小凡情绪的奇异煞气"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0099.json",
+          "record_id": "thread-0099"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 61,
+      "summary": "雨夜现身女子的真实身份（第61章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0099.json",
+        "record_id": "thread-0099"
+      },
+      "title": "雨夜现身女子的真实身份"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0100.json",
+          "record_id": "thread-0100"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 66,
+      "summary": "青云掌门之位之争（苍松与萧逸才）（第66章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0100.json",
+        "record_id": "thread-0100"
+      },
+      "title": "青云掌门之位之争（苍松与萧逸才）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0101.json",
+          "record_id": "thread-0101"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 66,
+      "summary": "张小凡与鬼王父女相识之事外泄风险（第66章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0101.json",
+        "record_id": "thread-0101"
+      },
+      "title": "张小凡与鬼王父女相识之事外泄风险"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0102.json",
+          "record_id": "thread-0102"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 66,
+      "summary": "吸血老妖为传人姜老三寻仇（第66章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0102.json",
+        "record_id": "thread-0102"
+      },
+      "title": "吸血老妖为传人姜老三寻仇"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0103.json",
+          "record_id": "thread-0103"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 68,
+      "summary": "苍松口中的“长门的万……／那个人”（第68章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0103.json",
+        "record_id": "thread-0103"
+      },
+      "title": "苍松口中的“长门的万……／那个人”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0104.json",
+          "record_id": "thread-0104"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 68,
+      "summary": "张小凡右臂玄火鉴异动（第68章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0104.json",
+        "record_id": "thread-0104"
+      },
+      "title": "张小凡右臂玄火鉴异动"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0105.json",
+          "record_id": "thread-0105"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 68,
+      "summary": "魔教高手齐聚流波山与正道对峙（第68章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0105.json",
+        "record_id": "thread-0105"
+      },
+      "title": "魔教高手齐聚流波山与正道对峙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0106.json",
+          "record_id": "thread-0106"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "万剑一之名与魔教百年旧怨（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0106.json",
+        "record_id": "thread-0106"
+      },
+      "title": "万剑一之名与魔教百年旧怨"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0107.json",
+          "record_id": "thread-0107"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "鬼王宗实力之谜：《天书》传言与乾坤清光戒（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0107.json",
+        "record_id": "thread-0107"
+      },
+      "title": "鬼王宗实力之谜：《天书》传言与乾坤清光戒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0108.json",
+          "record_id": "thread-0108"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "正道商议退避回山（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0108.json",
+        "record_id": "thread-0108"
+      },
+      "title": "正道商议退避回山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0109.json",
+          "record_id": "thread-0109"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "萧逸才整夜未现身（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0109.json",
+        "record_id": "thread-0109"
+      },
+      "title": "萧逸才整夜未现身"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0110.json",
+          "record_id": "thread-0110"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "流波山正魔混战（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0110.json",
+        "record_id": "thread-0110"
+      },
+      "title": "流波山正魔混战"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0111.json",
+          "record_id": "thread-0111"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 69,
+      "summary": "远方海中长啸渐近（第69章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0111.json",
+        "record_id": "thread-0111"
+      },
+      "title": "远方海中长啸渐近"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0112.json",
+          "record_id": "thread-0112"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 70,
+      "summary": "夔牛出世与「其余三只灵兽」的计划（第70章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0112.json",
+        "record_id": "thread-0112"
+      },
+      "title": "夔牛出世与「其余三只灵兽」的计划"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0113.json",
+          "record_id": "thread-0113"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 70,
+      "summary": "斩龙剑由万剑一转为林惊羽所持（第70章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0113.json",
+        "record_id": "thread-0113"
+      },
+      "title": "斩龙剑由万剑一转为林惊羽所持"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0114.json",
+          "record_id": "thread-0114"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 70,
+      "summary": "魔教「四大圣使」与圣殿之辱（第70章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0114.json",
+        "record_id": "thread-0114"
+      },
+      "title": "魔教「四大圣使」与圣殿之辱"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0115.json",
+          "record_id": "thread-0115"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 70,
+      "summary": "大竹峰诸人东海昌合城会合（第70章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0115.json",
+        "record_id": "thread-0115"
+      },
+      "title": "大竹峰诸人东海昌合城会合"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0116.json",
+          "record_id": "thread-0116"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 78,
+      "summary": "焚香谷至宝玄火鉴的下落与追索（第78章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0116.json",
+        "record_id": "thread-0116"
+      },
+      "title": "焚香谷至宝玄火鉴的下落与追索"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0117.json",
+          "record_id": "thread-0117"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 78,
+      "summary": "张小凡是否说出普智与大梵般若的师承（第78章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0117.json",
+        "record_id": "thread-0117"
+      },
+      "title": "张小凡是否说出普智与大梵般若的师承"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 78,
+          "start": 78
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0118.json",
+          "record_id": "thread-0118"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 78,
+      "summary": "水月大师所提“百年前犯大错之人”的身份（第78章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0118.json",
+        "record_id": "thread-0118"
+      },
+      "title": "水月大师所提“百年前犯大错之人”的身份"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 82
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0119.json",
+          "record_id": "thread-0119"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 82,
+      "summary": "苍松道人为魔教内应、泄露青云布防（第82章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0119.json",
+        "record_id": "thread-0119"
+      },
+      "title": "苍松道人为魔教内应、泄露青云布防"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 82
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0120.json",
+          "record_id": "thread-0120"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 82,
+      "summary": "古剑诛仙与诛仙剑阵首次实战发动（第82章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0120.json",
+        "record_id": "thread-0120"
+      },
+      "title": "古剑诛仙与诛仙剑阵首次实战发动"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 82,
+          "start": 82
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0121.json",
+          "record_id": "thread-0121"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 82,
+      "summary": "张小凡身上的异状与陆雪琪的敌意（第82章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0121.json",
+        "record_id": "thread-0121"
+      },
+      "title": "张小凡身上的异状与陆雪琪的敌意"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0122.json",
+          "record_id": "thread-0122"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 83,
+      "summary": "草庙村血案真凶（第83章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0122.json",
+        "record_id": "thread-0122"
+      },
+      "title": "草庙村血案真凶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0123.json",
+          "record_id": "thread-0123"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 83,
+      "summary": "鬼王宗折返青云山寻碧瑶（第83章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0123.json",
+        "record_id": "thread-0123"
+      },
+      "title": "鬼王宗折返青云山寻碧瑶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0124.json",
+          "record_id": "thread-0124"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 83,
+      "summary": "张小凡身怀大梵般若之秘（第83章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0124.json",
+        "record_id": "thread-0124"
+      },
+      "title": "张小凡身怀大梵般若之秘"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0125.json",
+          "record_id": "thread-0125"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 83,
+      "summary": "诛仙古剑下落不明（第83章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0125.json",
+        "record_id": "thread-0125"
+      },
+      "title": "诛仙古剑下落不明"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0126.json",
+          "record_id": "thread-0126"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 85,
+      "summary": "张小凡的现状与「鬼厉」身份（第85章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0126.json",
+        "record_id": "thread-0126"
+      },
+      "title": "张小凡的现状与「鬼厉」身份"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 85,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0127.json",
+          "record_id": "thread-0127"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 85,
+      "summary": "魔教（圣教）内部派阀兼并（第85章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0127.json",
+        "record_id": "thread-0127"
+      },
+      "title": "魔教（圣教）内部派阀兼并"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 86,
+          "start": 86
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0128.json",
+          "record_id": "thread-0128"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 86,
+      "summary": "青云门年轻弟子西行大沼泽争夺异宝、应对魔教与天音寺焚香谷（第86章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0128.json",
+        "record_id": "thread-0128"
+      },
+      "title": "青云门年轻弟子西行大沼泽争夺异宝、应对魔教与天音寺焚香谷"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 86,
+          "start": 86
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0129.json",
+          "record_id": "thread-0129"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 86,
+      "summary": "鬼厉收留野狗道人与其「张小凡」之名的身份疑问（第86章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0129.json",
+        "record_id": "thread-0129"
+      },
+      "title": "鬼厉收留野狗道人与其「张小凡」之名的身份疑问"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 86,
+          "start": 86
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0130.json",
+          "record_id": "thread-0130"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 86,
+      "summary": "神秘老人与道玄真人的往日秘辛（祖师祠堂）（第86章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0130.json",
+        "record_id": "thread-0130"
+      },
+      "title": "神秘老人与道玄真人的往日秘辛（祖师祠堂）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0131.json",
+          "record_id": "thread-0131"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 87,
+      "summary": "鬼王宗寻找黑巫族（第87章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0131.json",
+        "record_id": "thread-0131"
+      },
+      "title": "鬼王宗寻找黑巫族"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0132.json",
+          "record_id": "thread-0132"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 87,
+      "summary": "鬼王与鬼厉的微妙关系（第87章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0132.json",
+        "record_id": "thread-0132"
+      },
+      "title": "鬼王与鬼厉的微妙关系"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0133.json",
+          "record_id": "thread-0133"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 87,
+      "summary": "幽姬对鬼厉的私下关心（第87章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0133.json",
+        "record_id": "thread-0133"
+      },
+      "title": "幽姬对鬼厉的私下关心"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0134.json",
+          "record_id": "thread-0134"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 89,
+      "summary": "死泽异宝之争（第89章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0134.json",
+        "record_id": "thread-0134"
+      },
+      "title": "死泽异宝之争"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0135.json",
+          "record_id": "thread-0135"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 89,
+      "summary": "魔教“三公子”格局与四大派阀内斗（第89章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0135.json",
+        "record_id": "thread-0135"
+      },
+      "title": "魔教“三公子”格局与四大派阀内斗"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 89,
+          "start": 89
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0136.json",
+          "record_id": "thread-0136"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 89,
+      "summary": "小环一行随鹅黄衣裳女子入死泽（第89章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0136.json",
+        "record_id": "thread-0136"
+      },
+      "title": "小环一行随鹅黄衣裳女子入死泽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0137.json",
+          "record_id": "thread-0137"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 90,
+      "summary": "焚香谷与青云门争入死泽夺取无名异宝（第90章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0137.json",
+        "record_id": "thread-0137"
+      },
+      "title": "焚香谷与青云门争入死泽夺取无名异宝"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0138.json",
+          "record_id": "thread-0138"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 90,
+      "summary": "合欢派四名弟子遇害与黑蟾散疑云（第90章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0138.json",
+        "record_id": "thread-0138"
+      },
+      "title": "合欢派四名弟子遇害与黑蟾散疑云"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0139.json",
+          "record_id": "thread-0139"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 90,
+      "summary": "金瓶儿交给小环的「那件东西」与三年前东海旧怨（第90章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0139.json",
+        "record_id": "thread-0139"
+      },
+      "title": "金瓶儿交给小环的「那件东西」与三年前东海旧怨"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0140.json",
+          "record_id": "thread-0140"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 94,
+      "summary": "长生堂覆灭与玉阳子末路（第94章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0140.json",
+        "record_id": "thread-0140"
+      },
+      "title": "长生堂覆灭与玉阳子末路"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0141.json",
+          "record_id": "thread-0141"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 94,
+      "summary": "死泽异宝与内泽探索（第94章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0141.json",
+        "record_id": "thread-0141"
+      },
+      "title": "死泽异宝与内泽探索"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0142.json",
+          "record_id": "thread-0142"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 94,
+      "summary": "魔教三派内部猜忌（第94章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0142.json",
+        "record_id": "thread-0142"
+      },
+      "title": "魔教三派内部猜忌"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 95,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0143.json",
+          "record_id": "thread-0143"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 95,
+      "summary": "青龙与朱雀二圣使前往死泽（第95章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0143.json",
+        "record_id": "thread-0143"
+      },
+      "title": "青龙与朱雀二圣使前往死泽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 95,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0144.json",
+          "record_id": "thread-0144"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 95,
+      "summary": "瘴气中一闪而没的巨大黑色怪物（第95章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0144.json",
+        "record_id": "thread-0144"
+      },
+      "title": "瘴气中一闪而没的巨大黑色怪物"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0145.json",
+          "record_id": "thread-0145"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 96,
+      "summary": "长生堂存亡危机（第96章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0145.json",
+        "record_id": "thread-0145"
+      },
+      "title": "长生堂存亡危机"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0146.json",
+          "record_id": "thread-0146"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 96,
+      "summary": "鬼王宗宗主吩咐的“大事”（第96章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0146.json",
+        "record_id": "thread-0146"
+      },
+      "title": "鬼王宗宗主吩咐的“大事”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0147.json",
+          "record_id": "thread-0147"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 96,
+      "summary": "鬼厉受噬血珠凶戾之气侵蚀、玄火鉴持续压制（第96章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0147.json",
+        "record_id": "thread-0147"
+      },
+      "title": "鬼厉受噬血珠凶戾之气侵蚀、玄火鉴持续压制"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0148.json",
+          "record_id": "thread-0148"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 96,
+      "summary": "正道年轻高手在内泽失散（第96章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0148.json",
+        "record_id": "thread-0148"
+      },
+      "title": "正道年轻高手在内泽失散"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0149.json",
+          "record_id": "thread-0149"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 96,
+      "summary": "周一仙身份被青龙关注（第96章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0149.json",
+        "record_id": "thread-0149"
+      },
+      "title": "周一仙身份被青龙关注"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 97,
+          "start": 97
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0150.json",
+          "record_id": "thread-0150"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 97,
+      "summary": "死泽内泽：正道四人被困于秦无炎与巨蚁群（第97章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0150.json",
+        "record_id": "thread-0150"
+      },
+      "title": "死泽内泽：正道四人被困于秦无炎与巨蚁群"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 97,
+          "start": 97
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0151.json",
+          "record_id": "thread-0151"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 97,
+      "summary": "林惊羽对张小凡的立场公开化（第97章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0151.json",
+        "record_id": "thread-0151"
+      },
+      "title": "林惊羽对张小凡的立场公开化"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 98,
+          "start": 98
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0152.json",
+          "record_id": "thread-0152"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 98,
+      "summary": "秦无炎与鬼厉结下「一棍之仇」（第98章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0152.json",
+        "record_id": "thread-0152"
+      },
+      "title": "秦无炎与鬼厉结下「一棍之仇」"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 98,
+          "start": 98
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0153.json",
+          "record_id": "thread-0153"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 98,
+      "summary": "鬼厉与陆雪琪在死泽重逢对峙（第98章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0153.json",
+        "record_id": "thread-0153"
+      },
+      "title": "鬼厉与陆雪琪在死泽重逢对峙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 100,
+          "start": 100
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0154.json",
+          "record_id": "thread-0154"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 100,
+      "summary": "天帝宝库（第100章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0154.json",
+        "record_id": "thread-0154"
+      },
+      "title": "天帝宝库"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 101,
+          "start": 101
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0155.json",
+          "record_id": "thread-0155"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 101,
+      "summary": "周一仙与小环前往河阳城祭扫小环亡父（第101章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0155.json",
+        "record_id": "thread-0155"
+      },
+      "title": "周一仙与小环前往河阳城祭扫小环亡父"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 101,
+          "start": 101
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0156.json",
+          "record_id": "thread-0156"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 101,
+      "summary": "野狗道人尾随周一仙与小环的意图（第101章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0156.json",
+        "record_id": "thread-0156"
+      },
+      "title": "野狗道人尾随周一仙与小环的意图"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0157.json",
+          "record_id": "thread-0157"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 103,
+      "summary": "天帝宝库的开启与争夺（第103章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0157.json",
+        "record_id": "thread-0157"
+      },
+      "title": "天帝宝库的开启与争夺"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0158.json",
+          "record_id": "thread-0158"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 103,
+      "summary": "黄鸟现身与黑水玄蛇对峙（第103章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0158.json",
+        "record_id": "thread-0158"
+      },
+      "title": "黄鸟现身与黑水玄蛇对峙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0159.json",
+          "record_id": "thread-0159"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 103,
+      "summary": "暗红花圃阵纹与“他们”（第103章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0159.json",
+        "record_id": "thread-0159"
+      },
+      "title": "暗红花圃阵纹与“他们”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0160.json",
+          "record_id": "thread-0160"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 104,
+      "summary": "天帝宝库灵药归属（第104章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0160.json",
+        "record_id": "thread-0160"
+      },
+      "title": "天帝宝库灵药归属"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0161.json",
+          "record_id": "thread-0161"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 104,
+      "summary": "《天书》第三卷现世（第104章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0161.json",
+        "record_id": "thread-0161"
+      },
+      "title": "《天书》第三卷现世"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0162.json",
+          "record_id": "thread-0162"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 104,
+      "summary": "鬼厉与陆雪琪宝库内对峙（第104章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0162.json",
+        "record_id": "thread-0162"
+      },
+      "title": "鬼厉与陆雪琪宝库内对峙"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0163.json",
+          "record_id": "thread-0163"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 104,
+      "summary": "黄鸟被伏龙鼎困龙阙所擒（第104章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0163.json",
+        "record_id": "thread-0163"
+      },
+      "title": "黄鸟被伏龙鼎困龙阙所擒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0164.json",
+          "record_id": "thread-0164"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 104,
+      "summary": "台阶/花圃中鬼王一方暗中先到（第104章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0164.json",
+        "record_id": "thread-0164"
+      },
+      "title": "台阶/花圃中鬼王一方暗中先到"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0165.json",
+          "record_id": "thread-0165"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 106,
+      "summary": "鬼厉部属遭鱼人族偷袭，线索指向焚香谷（第106章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0165.json",
+        "record_id": "thread-0165"
+      },
+      "title": "鬼厉部属遭鱼人族偷袭，线索指向焚香谷"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0166.json",
+          "record_id": "thread-0166"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 106,
+      "summary": "金瓶儿追问鱼人之事，天际有光南去（第106章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0166.json",
+        "record_id": "thread-0166"
+      },
+      "title": "金瓶儿追问鱼人之事，天际有光南去"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0167.json",
+          "record_id": "thread-0167"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 106,
+      "summary": "小灰的异变与天帝宝库所饮液体、所吞奇石（第106章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0167.json",
+        "record_id": "thread-0167"
+      },
+      "title": "小灰的异变与天帝宝库所饮液体、所吞奇石"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0168.json",
+          "record_id": "thread-0168"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 106,
+      "summary": "野狗道人离开鬼王宗、随周一仙祖孙同行（第106章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0168.json",
+        "record_id": "thread-0168"
+      },
+      "title": "野狗道人离开鬼王宗、随周一仙祖孙同行"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0169.json",
+          "record_id": "thread-0169"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 113,
+      "summary": "小灰的异变：三眼灵猴（第113章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0169.json",
+        "record_id": "thread-0169"
+      },
+      "title": "小灰的异变：三眼灵猴"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0170.json",
+          "record_id": "thread-0170"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 113,
+      "summary": "玄火坛的凶神石刻与火焰异兽（第113章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0170.json",
+        "record_id": "thread-0170"
+      },
+      "title": "玄火坛的凶神石刻与火焰异兽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 113,
+          "start": 113
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0171.json",
+          "record_id": "thread-0171"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 113,
+      "summary": "鬼厉被凶神石刻激起的噬血暴戾之气（第113章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0171.json",
+        "record_id": "thread-0171"
+      },
+      "title": "鬼厉被凶神石刻激起的噬血暴戾之气"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0172.json",
+          "record_id": "thread-0172"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 114,
+      "summary": "“小六”与玄火鉴的下落之谜（第114章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0172.json",
+        "record_id": "thread-0172"
+      },
+      "title": "“小六”与玄火鉴的下落之谜"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0173.json",
+          "record_id": "thread-0173"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 114,
+      "summary": "玄火鉴纯阳之力异动与小灰天眼凶芒（第114章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0173.json",
+        "record_id": "thread-0173"
+      },
+      "title": "玄火鉴纯阳之力异动与小灰天眼凶芒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0174.json",
+          "record_id": "thread-0174"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 114,
+      "summary": "上官策离开玄火坛与祭坛被外人闯入（第114章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0174.json",
+        "record_id": "thread-0174"
+      },
+      "title": "上官策离开玄火坛与祭坛被外人闯入"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0175.json",
+          "record_id": "thread-0175"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 116,
+      "summary": "救治碧瑶（肉身不灭不死、一魂被合欢铃扣下）（第116章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0175.json",
+        "record_id": "thread-0175"
+      },
+      "title": "救治碧瑶（肉身不灭不死、一魂被合欢铃扣下）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0176.json",
+          "record_id": "thread-0176"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 116,
+      "summary": "鬼厉体内邪力与噬魂（噬血珠、摄魂）之隐患（第116章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0176.json",
+        "record_id": "thread-0176"
+      },
+      "title": "鬼厉体内邪力与噬魂（噬血珠、摄魂）之隐患"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0177.json",
+          "record_id": "thread-0177"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 116,
+      "summary": "九尾天狐脱困后的去向与玄火鉴归属（第116章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0177.json",
+        "record_id": "thread-0177"
+      },
+      "title": "九尾天狐脱困后的去向与玄火鉴归属"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0178.json",
+          "record_id": "thread-0178"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 117,
+      "summary": "救治碧瑶：寻找黑巫族还魂之法（第117章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0178.json",
+        "record_id": "thread-0178"
+      },
+      "title": "救治碧瑶：寻找黑巫族还魂之法"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0179.json",
+          "record_id": "thread-0179"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 117,
+      "summary": "鬼厉身体的隐患（第117章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0179.json",
+        "record_id": "thread-0179"
+      },
+      "title": "鬼厉身体的隐患"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0180.json",
+          "record_id": "thread-0180"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 117,
+      "summary": "金瓶儿如何得知鬼厉行踪（第117章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0180.json",
+        "record_id": "thread-0180"
+      },
+      "title": "金瓶儿如何得知鬼厉行踪"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0181.json",
+          "record_id": "thread-0181"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 117,
+      "summary": "焚香谷谷口鱼人怪族的来历（第117章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0181.json",
+        "record_id": "thread-0181"
+      },
+      "title": "焚香谷谷口鱼人怪族的来历"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0182.json",
+          "record_id": "thread-0182"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 120,
+      "summary": "陆雪琪与鬼厉决裂：自划深痕、约定再见为敌（第120章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0182.json",
+        "record_id": "thread-0182"
+      },
+      "title": "陆雪琪与鬼厉决裂：自划深痕、约定再见为敌"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0183.json",
+          "record_id": "thread-0183"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 120,
+      "summary": "陆雪琪断情后吐血，身体状态存疑（第120章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0183.json",
+        "record_id": "thread-0183"
+      },
+      "title": "陆雪琪断情后吐血，身体状态存疑"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0184.json",
+          "record_id": "thread-0184"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 120,
+      "summary": "鬼厉心中碧瑶之结（第120章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0184.json",
+        "record_id": "thread-0184"
+      },
+      "title": "鬼厉心中碧瑶之结"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0185.json",
+          "record_id": "thread-0185"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 120,
+      "summary": "小白（九尾天狐）携小灰暗中跟随鬼厉（第120章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0185.json",
+        "record_id": "thread-0185"
+      },
+      "title": "小白（九尾天狐）携小灰暗中跟随鬼厉"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 122,
+          "start": 122
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0186.json",
+          "record_id": "thread-0186"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 122,
+      "summary": "为碧瑶求医：寻访南疆大巫师还魂之法（第122章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0186.json",
+        "record_id": "thread-0186"
+      },
+      "title": "为碧瑶求医：寻访南疆大巫师还魂之法"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 124,
+          "start": 124
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0187.json",
+          "record_id": "thread-0187"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 124,
+      "summary": "为碧瑶求还魂奇术（第124章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0187.json",
+        "record_id": "thread-0187"
+      },
+      "title": "为碧瑶求还魂奇术"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 124,
+          "start": 124
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0188.json",
+          "record_id": "thread-0188"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 124,
+      "summary": "还魂异术的消息来源（第124章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0188.json",
+        "record_id": "thread-0188"
+      },
+      "title": "还魂异术的消息来源"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0189.json",
+          "record_id": "thread-0189"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 126,
+      "summary": "求苗人大巫师以还魂异术救治碧瑶（第126章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0189.json",
+        "record_id": "thread-0189"
+      },
+      "title": "求苗人大巫师以还魂异术救治碧瑶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0190.json",
+          "record_id": "thread-0190"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 126,
+      "summary": "犬神警报：苗族亡族灭种之危（第126章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0190.json",
+        "record_id": "thread-0190"
+      },
+      "title": "犬神警报：苗族亡族灭种之危"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0191.json",
+          "record_id": "thread-0191"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 126,
+      "summary": "骨玉与苗人圣器“黑杖”（第126章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0191.json",
+        "record_id": "thread-0191"
+      },
+      "title": "骨玉与苗人圣器“黑杖”"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0192.json",
+          "record_id": "thread-0192"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 126,
+      "summary": "阿合台与“那个恶魔”的力量契约（第126章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0192.json",
+        "record_id": "thread-0192"
+      },
+      "title": "阿合台与“那个恶魔”的力量契约"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0193.json",
+          "record_id": "thread-0193"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 126,
+      "summary": "苗族与黎族两百年的仇怨（第126章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0193.json",
+        "record_id": "thread-0193"
+      },
+      "title": "苗族与黎族两百年的仇怨"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0194.json",
+          "record_id": "thread-0194"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 128,
+      "summary": "五族圣器与兽神复活条件（第128章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0194.json",
+        "record_id": "thread-0194"
+      },
+      "title": "五族圣器与兽神复活条件"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0195.json",
+          "record_id": "thread-0195"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 128,
+      "summary": "兽神势力出手，巫妖出山（第128章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0195.json",
+        "record_id": "thread-0195"
+      },
+      "title": "兽神势力出手，巫妖出山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0196.json",
+          "record_id": "thread-0196"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 128,
+      "summary": "陆雪琪身上的淡金色光芒（第128章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0196.json",
+        "record_id": "thread-0196"
+      },
+      "title": "陆雪琪身上的淡金色光芒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 128,
+          "start": 128
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0197.json",
+          "record_id": "thread-0197"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 128,
+      "summary": "鬼厉重伤（右肩贯穿、天雷击中）（第128章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0197.json",
+        "record_id": "thread-0197"
+      },
+      "title": "鬼厉重伤（右肩贯穿、天雷击中）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0198.json",
+          "record_id": "thread-0198"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 133,
+      "summary": "兽妖复生之兆：五件兽妖圣器尽失（第133章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0198.json",
+        "record_id": "thread-0198"
+      },
+      "title": "兽妖复生之兆：五件兽妖圣器尽失"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0199.json",
+          "record_id": "thread-0199"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 133,
+      "summary": "玄火鉴在鬼厉身上（第133章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0199.json",
+        "record_id": "thread-0199"
+      },
+      "title": "玄火鉴在鬼厉身上"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0200.json",
+          "record_id": "thread-0200"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 133,
+      "summary": "大巫师随鬼厉赴十万大山救人（第133章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0200.json",
+        "record_id": "thread-0200"
+      },
+      "title": "大巫师随鬼厉赴十万大山救人"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0201.json",
+          "record_id": "thread-0201"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 133,
+      "summary": "镇魔古洞与洞口女子石像（第133章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0201.json",
+        "record_id": "thread-0201"
+      },
+      "title": "镇魔古洞与洞口女子石像"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0202.json",
+          "record_id": "thread-0202"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 133,
+      "summary": "金瓶儿追踪巫妖、杀生和尚疑似遇难（第133章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0202.json",
+        "record_id": "thread-0202"
+      },
+      "title": "金瓶儿追踪巫妖、杀生和尚疑似遇难"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0203.json",
+          "record_id": "thread-0203"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 134,
+      "summary": "为碧瑶还魂：鬼厉携苗族大巫师归来（第134章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0203.json",
+        "record_id": "thread-0203"
+      },
+      "title": "为碧瑶还魂：鬼厉携苗族大巫师归来"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0204.json",
+          "record_id": "thread-0204"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 134,
+      "summary": "四灵血阵收集灵兽（第134章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0204.json",
+        "record_id": "thread-0204"
+      },
+      "title": "四灵血阵收集灵兽"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0205.json",
+          "record_id": "thread-0205"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 134,
+      "summary": "镇魔古洞女子石像与巫妖的目的（第134章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0205.json",
+        "record_id": "thread-0205"
+      },
+      "title": "镇魔古洞女子石像与巫妖的目的"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0206.json",
+          "record_id": "thread-0206"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 134,
+      "summary": "金瓶儿与凶灵的相对（第134章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0206.json",
+        "record_id": "thread-0206"
+      },
+      "title": "金瓶儿与凶灵的相对"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0207.json",
+          "record_id": "thread-0207"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 135,
+      "summary": "巫妖借骨玉黑杖复生白骨妖物（第135章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0207.json",
+        "record_id": "thread-0207"
+      },
+      "title": "巫妖借骨玉黑杖复生白骨妖物"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0208.json",
+          "record_id": "thread-0208"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 135,
+      "summary": "石像女子「玲珑」与巫女娘娘的身份关系（第135章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0208.json",
+        "record_id": "thread-0208"
+      },
+      "title": "石像女子「玲珑」与巫女娘娘的身份关系"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0209.json",
+          "record_id": "thread-0209"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 135,
+      "summary": "凶灵镇守镇魔古洞（第135章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0209.json",
+        "record_id": "thread-0209"
+      },
+      "title": "凶灵镇守镇魔古洞"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0210.json",
+          "record_id": "thread-0210"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 136,
+      "summary": "救活碧瑶（第136章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0210.json",
+        "record_id": "thread-0210"
+      },
+      "title": "救活碧瑶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0211.json",
+          "record_id": "thread-0211"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 136,
+      "summary": "狐岐山中的浓烈煞气与两股臣服灵力（第136章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0211.json",
+        "record_id": "thread-0211"
+      },
+      "title": "狐岐山中的浓烈煞气与两股臣服灵力"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0212.json",
+          "record_id": "thread-0212"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 136,
+      "summary": "小白即白狐（第136章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0212.json",
+        "record_id": "thread-0212"
+      },
+      "title": "小白即白狐"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 136,
+          "start": 136
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0213.json",
+          "record_id": "thread-0213"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 136,
+      "summary": "小痴之死与鬼王的旧情（第136章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0213.json",
+        "record_id": "thread-0213"
+      },
+      "title": "小痴之死与鬼王的旧情"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0214.json",
+          "record_id": "thread-0214"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 137,
+      "summary": "巫妖持有黑杖与骨玉两件五族圣器（第137章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0214.json",
+        "record_id": "thread-0214"
+      },
+      "title": "巫妖持有黑杖与骨玉两件五族圣器"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0215.json",
+          "record_id": "thread-0215"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 137,
+      "summary": "以招魂引救碧瑶（第137章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0215.json",
+        "record_id": "thread-0215"
+      },
+      "title": "以招魂引救碧瑶"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0216.json",
+          "record_id": "thread-0216"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 137,
+      "summary": "陆雪琪隐去与鬼厉诀别一事（第137章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0216.json",
+        "record_id": "thread-0216"
+      },
+      "title": "陆雪琪隐去与鬼厉诀别一事"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0217.json",
+          "record_id": "thread-0217"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 137,
+      "summary": "正道对张小凡实力与三家真法的评估（第137章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0217.json",
+        "record_id": "thread-0217"
+      },
+      "title": "正道对张小凡实力与三家真法的评估"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0218.json",
+          "record_id": "thread-0218"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 137,
+      "summary": "焚香谷谷主云易岚始终未露面（第137章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0218.json",
+        "record_id": "thread-0218"
+      },
+      "title": "焚香谷谷主云易岚始终未露面"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0219.json",
+          "record_id": "thread-0219"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 140,
+      "summary": "兽妖（兽神）立誓让一切为玲珑陪葬（第140章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0219.json",
+        "record_id": "thread-0219"
+      },
+      "title": "兽妖（兽神）立誓让一切为玲珑陪葬"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0220.json",
+          "record_id": "thread-0220"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 140,
+      "summary": "三眼猴子的主人（醉客）颓废滞留何家小店（第140章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0220.json",
+        "record_id": "thread-0220"
+      },
+      "title": "三眼猴子的主人（醉客）颓废滞留何家小店"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0221.json",
+          "record_id": "thread-0221"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 140,
+      "summary": "周一仙三人与三眼猴子小灰重逢（第140章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0221.json",
+        "record_id": "thread-0221"
+      },
+      "title": "周一仙三人与三眼猴子小灰重逢"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0222.json",
+          "record_id": "thread-0222"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 142,
+      "summary": "野狗道人在空桑山下夜中走到昏睡的鬼厉身前（第142章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0222.json",
+        "record_id": "thread-0222"
+      },
+      "title": "野狗道人在空桑山下夜中走到昏睡的鬼厉身前"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0223.json",
+          "record_id": "thread-0223"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 142,
+      "summary": "宋大仁与文敏的婚事：田不易不情愿地答应亲赴小竹峰提亲（第142章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0223.json",
+        "record_id": "thread-0223"
+      },
+      "title": "宋大仁与文敏的婚事：田不易不情愿地答应亲赴小竹峰提亲"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0224.json",
+          "record_id": "thread-0224"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 142,
+      "summary": "云谷主（焚香谷谷主）将率焚香谷弟子前来中土，先至青云山（第142章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0224.json",
+        "record_id": "thread-0224"
+      },
+      "title": "云谷主（焚香谷谷主）将率焚香谷弟子前来中土，先至青云山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0225.json",
+          "record_id": "thread-0225"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 142,
+      "summary": "道玄真人阅信后看向水月大师，安排陆雪琪陪李洵游山（第142章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0225.json",
+        "record_id": "thread-0225"
+      },
+      "title": "道玄真人阅信后看向水月大师，安排陆雪琪陪李洵游山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0226.json",
+          "record_id": "thread-0226"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 143,
+      "summary": "大巫师之死与对苗族的未明承诺（第143章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0226.json",
+        "record_id": "thread-0226"
+      },
+      "title": "大巫师之死与对苗族的未明承诺"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0227.json",
+          "record_id": "thread-0227"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 143,
+      "summary": "鬼厉的迷惘与去向不明（第143章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0227.json",
+        "record_id": "thread-0227"
+      },
+      "title": "鬼厉的迷惘与去向不明"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0228.json",
+          "record_id": "thread-0228"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 143,
+      "summary": "妖兽异族大举进犯七里峒（第143章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0228.json",
+        "record_id": "thread-0228"
+      },
+      "title": "妖兽异族大举进犯七里峒"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0229.json",
+          "record_id": "thread-0229"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 143,
+      "summary": "小灰的巨猿形态与战力显露（第143章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0229.json",
+        "record_id": "thread-0229"
+      },
+      "title": "小灰的巨猿形态与战力显露"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0230.json",
+          "record_id": "thread-0230"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 144,
+      "summary": "南疆妖兽浩劫与七里峒之围（第144章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0230.json",
+        "record_id": "thread-0230"
+      },
+      "title": "南疆妖兽浩劫与七里峒之围"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0231.json",
+          "record_id": "thread-0231"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 144,
+      "summary": "焚香谷谷主云易岚率弟子拜山（第144章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0231.json",
+        "record_id": "thread-0231"
+      },
+      "title": "焚香谷谷主云易岚率弟子拜山"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 144,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "threads/thread-0232.json",
+          "record_id": "thread-0232"
+        }
+      ],
+      "kind": "story_thread",
+      "safe_through": 144,
+      "summary": "祖师祠堂老人的身份之谜（第144章起）",
+      "tags": [
+        "thread"
+      ],
+      "target": {
+        "path": "threads/thread-0232.json",
+        "record_id": "thread-0232"
+      },
+      "title": "祖师祠堂老人的身份之谜"
     }
   ],
   "id": "idx-threads",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 13,
-  "safe_through": 6,
+  "revision": 233,
+  "safe_through": 144,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
@@ -315,8 +5815,144 @@
         "start": 1
       },
       {
-        "end": 6,
+        "end": 7,
         "start": 5
+      },
+      {
+        "end": 11,
+        "start": 10
+      },
+      {
+        "end": 16,
+        "start": 13
+      },
+      {
+        "end": 23,
+        "start": 20
+      },
+      {
+        "end": 27,
+        "start": 27
+      },
+      {
+        "end": 29,
+        "start": 29
+      },
+      {
+        "end": 31,
+        "start": 31
+      },
+      {
+        "end": 35,
+        "start": 34
+      },
+      {
+        "end": 38,
+        "start": 38
+      },
+      {
+        "end": 41,
+        "start": 40
+      },
+      {
+        "end": 46,
+        "start": 45
+      },
+      {
+        "end": 49,
+        "start": 48
+      },
+      {
+        "end": 52,
+        "start": 52
+      },
+      {
+        "end": 56,
+        "start": 54
+      },
+      {
+        "end": 61,
+        "start": 60
+      },
+      {
+        "end": 66,
+        "start": 66
+      },
+      {
+        "end": 70,
+        "start": 68
+      },
+      {
+        "end": 78,
+        "start": 78
+      },
+      {
+        "end": 83,
+        "start": 82
+      },
+      {
+        "end": 87,
+        "start": 85
+      },
+      {
+        "end": 90,
+        "start": 89
+      },
+      {
+        "end": 98,
+        "start": 94
+      },
+      {
+        "end": 101,
+        "start": 100
+      },
+      {
+        "end": 104,
+        "start": 103
+      },
+      {
+        "end": 106,
+        "start": 106
+      },
+      {
+        "end": 114,
+        "start": 113
+      },
+      {
+        "end": 117,
+        "start": 116
+      },
+      {
+        "end": 120,
+        "start": 120
+      },
+      {
+        "end": 122,
+        "start": 122
+      },
+      {
+        "end": 124,
+        "start": 124
+      },
+      {
+        "end": 126,
+        "start": 126
+      },
+      {
+        "end": 128,
+        "start": 128
+      },
+      {
+        "end": 137,
+        "start": 133
+      },
+      {
+        "end": 140,
+        "start": 140
+      },
+      {
+        "end": 144,
+        "start": 142
       }
     ],
     "subject_refs": []

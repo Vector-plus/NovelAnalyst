@@ -1,0 +1,30 @@
+{
+  "id": "thread-0182",
+  "introduced_at": 120,
+  "kind": "story_thread",
+  "label": "陆雪琪与鬼厉决裂：自划深痕、约定再见为敌",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 120,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship",
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0182-001",
+      "resolution_refs": [],
+      "revealed_at": 120,
+      "role": "key_thread",
+      "status": "changed",
+      "summary": "陆雪琪当面表明十年心意，同时宣告不可能，并以天琊划下深痕断情，声明今后再见即仇敌；鬼厉终究没有跨过深痕。"
+    }
+  ]
+}

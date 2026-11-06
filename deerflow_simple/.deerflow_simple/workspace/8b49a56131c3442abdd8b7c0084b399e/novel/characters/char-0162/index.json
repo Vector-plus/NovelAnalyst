@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "以内泽驭虫法门现身对峙正道，能力源流与控妖笛首次说明；第98章遭暗袭重创遁走，「一棍之仇」公开化，随后随万毒门全部撤出死泽。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0162/index.json",
+          "record_id": "char-0162"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 107,
+      "summary": "死泽内泽：驭虫现身与重创遁走（第95—107章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0162/stages/stage-007.md",
+        "record_id": "doc-char-0162-stage-007"
+      },
+      "title": "死泽内泽：驭虫现身与重创遁走"
+    }
+  ],
+  "id": "char-0162",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 75,
+  "kind": "entity_index",
+  "label": "秦无炎",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 107,
+  "schema_version": "2.0"
+}

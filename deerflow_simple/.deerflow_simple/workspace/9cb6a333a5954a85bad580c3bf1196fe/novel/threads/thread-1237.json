@@ -1,0 +1,30 @@
+{
+  "id": "thread-1237",
+  "introduced_at": 1120,
+  "kind": "story_thread",
+  "label": "莫罗大陆北部丛林被遗弃的阵法在雷雨夜自行异动",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1120,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery_setup",
+      "chapter_ranges": [
+        {
+          "end": 1120,
+          "start": 1120
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1237-001",
+      "resolution_refs": [],
+      "revealed_at": 1120,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "守阵修士三个月前撤走而未毁阵，阵法在雷雨夜发出咔咔之声并亮起蓝色光芒，环绕整个阵法，雨势雷霆随之加剧。"
+    }
+  ]
+}

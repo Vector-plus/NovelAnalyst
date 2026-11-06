@@ -1,14 +1,277 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-001.md",
+          "record_id": "doc-arc-001"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 16,
+      "summary": "草庙血案与大竹峰入门（第16章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-001.md",
+        "record_id": "doc-arc-001"
+      },
+      "title": "草庙血案与大竹峰入门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-002.md",
+          "record_id": "doc-arc-002"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云（第31章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-002.md",
+        "record_id": "doc-arc-002"
+      },
+      "title": "七脉会武与血炼疑云"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-003.md",
+          "record_id": "doc-arc-003"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 56,
+      "summary": "下山历练：空桑山绝地与小池镇除妖（第56章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-003.md",
+        "record_id": "doc-arc-003"
+      },
+      "title": "下山历练：空桑山绝地与小池镇除妖"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 74
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-004.md",
+          "record_id": "doc-arc-004"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 74,
+      "summary": "东海流波山：正魔对峙与身份暴露（第74章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-004.md",
+        "record_id": "doc-arc-004"
+      },
+      "title": "东海流波山：正魔对峙与身份暴露"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 84
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-005.md",
+          "record_id": "doc-arc-005"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 84,
+      "summary": "青云惊变：玉清殿公审与苍松叛门（第84章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-005.md",
+        "record_id": "doc-arc-005"
+      },
+      "title": "青云惊变：玉清殿公审与苍松叛门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-006.md",
+          "record_id": "doc-arc-006"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 94,
+      "summary": "十年之后：鬼厉与魔教内斗·长生堂覆灭（第94章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-006.md",
+        "record_id": "doc-arc-006"
+      },
+      "title": "十年之后：鬼厉与魔教内斗·长生堂覆灭"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 107
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-007.md",
+          "record_id": "doc-arc-007"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 107,
+      "summary": "死泽内泽：瘴气之墙与天帝宝库之争（第107章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-007.md",
+        "record_id": "doc-arc-007"
+      },
+      "title": "死泽内泽：瘴气之墙与天帝宝库之争"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-008.md",
+          "record_id": "doc-arc-008"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 133,
+      "summary": "南下南疆：焚香谷秘辛与七里峒求巫救魂（第133章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-008.md",
+        "record_id": "doc-arc-008"
+      },
+      "title": "南下南疆：焚香谷秘辛与七里峒求巫救魂"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-009.md",
+          "record_id": "doc-arc-009"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 143,
+      "summary": "招魂引功败：碧瑶无救与大巫师之死（第143章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-009.md",
+        "record_id": "doc-arc-009"
+      },
+      "title": "招魂引功败：碧瑶无救与大巫师之死"
+    }
+  ],
   "id": "idx-plot",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 10,
+  "safe_through": 143,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 16,
+        "start": 16
+      },
+      {
+        "end": 31,
+        "start": 31
+      },
+      {
+        "end": 56,
+        "start": 56
+      },
+      {
+        "end": 74,
+        "start": 74
+      },
+      {
+        "end": 84,
+        "start": 84
+      },
+      {
+        "end": 94,
+        "start": 94
+      },
+      {
+        "end": 107,
+        "start": 107
+      },
+      {
+        "end": 133,
+        "start": 133
+      },
+      {
+        "end": 143,
+        "start": 143
+      }
+    ],
     "subject_refs": []
   },
   "title": "章节剧情"

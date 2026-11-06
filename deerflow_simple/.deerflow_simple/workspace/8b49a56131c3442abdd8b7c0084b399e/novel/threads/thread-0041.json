@@ -1,0 +1,30 @@
+{
+  "id": "thread-0041",
+  "introduced_at": 23,
+  "kind": "story_thread",
+  "label": "七脉会武大试赛程推进",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 23,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 23,
+          "start": 23
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0041-001",
+      "resolution_refs": [],
+      "revealed_at": 23,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": ""
+    }
+  ]
+}

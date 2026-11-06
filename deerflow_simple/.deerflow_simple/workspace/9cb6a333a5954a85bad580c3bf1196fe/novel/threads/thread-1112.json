@@ -1,0 +1,30 @@
+{
+  "id": "thread-1112",
+  "introduced_at": 1018,
+  "kind": "story_thread",
+  "label": "王林追杀占据姚惜雪身体的风妖（贝罗记忆），因果之争未解",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1018,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1018,
+          "start": 1018
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1112-001",
+      "resolution_refs": [],
+      "revealed_at": 1018,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "风妖自认是贝罗与姚惜雪融合后残留的一段记忆，无法离开姚惜雪的身体；王林要求其离开身体被拒，以灭神矛毁其虚化法器后紧追，追杀过程被海水人形的手掌打断。"
+    }
+  ]
+}

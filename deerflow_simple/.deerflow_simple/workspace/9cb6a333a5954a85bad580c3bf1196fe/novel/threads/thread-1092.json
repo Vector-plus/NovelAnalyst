@@ -1,0 +1,30 @@
+{
+  "id": "thread-1092",
+  "introduced_at": 1003,
+  "kind": "story_thread",
+  "label": "神秘人影送出黄色菱形结晶的目的",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1003,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1003,
+          "start": 1003
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1092-001",
+      "resolution_refs": [],
+      "revealed_at": 1003,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林判断对方是以大神通干扰幽冥引路以便送出结晶，但目的不明；他因元力不足暂未探查结晶。"
+    }
+  ]
+}

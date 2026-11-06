@@ -1,0 +1,858 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-005"
+  },
+  "stage_range": {
+    "start": 75,
+    "end": 84
+  },
+  "as_of": 84,
+  "arc_summary": {
+    "doc_id": "arc-local-005",
+    "front_matter": {
+      "title": "青云惊变：玉清殿公审与苍松叛门",
+      "chapter_ranges": [
+        {
+          "start": 75,
+          "end": 84
+        }
+      ],
+      "as_of": 84,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        },
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        },
+        {
+          "path": "characters/char-0076/index.json",
+          "record_id": "char-0076"
+        }
+      ],
+      "record_refs": [],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第75—84章（as_of 84）。前四章为魔教四派集结与玉清殿公审的铺垫（第75—78章），第79—82章为苍松叛门与魔教攻山的正面爆发，第83—84章为真相反转与收束。\n\n## 起始局面\n青云门自流波山归来，张小凡的「大梵般若」与烧火棍上「噬血珠」已在人前被指认，其处置权由门中移交掌门道玄真人裁定（第75章）。同期青云山下，鬼王宗、万毒门、长生堂、合欢派四派门主在明王座下发下重誓，毒神伪装病弱、推辞主持大局，秦无炎以毒神十年前关门弟子身份出场；七尾蜈蚣感应到另一只同类已在青云山上（第75章）。\n\n## 核心目标与冲突\n三层冲突并行：其一，青云门要在玉清殿审清张小凡的功法与法宝来历（第76—78章）；其二，魔教四派意图借内应一举攻破青云山门（第75、77、80章）；其三，张小凡自身要在「守住某个人」与「不背弃师门」之间维持立场（第76—77章）。\n\n## 关键转折\n1. 第76—77章：田不易当众质询卧底之疑，张小凡跪地否认；碧瑶于后山重逢相拥并劝其脱离青云门，被张小凡明确拒绝，碧瑶留下「拿我的命去换你」之言。\n2. 第78章：玉清殿公审，张小凡当众承认所施为大梵般若、烧火棍上有噬血珠，审问因道玄退殿暂止；陆雪琪、林惊羽、曾书书、齐昊、田灵儿跪殿以性命担保。\n3. 第79章：本阶段核心反转——苍松道人刺伤道玄并公开叛门，揭出万剑一旧案，自述百年前见万剑一下场后便已「疯了」，并当面承认勾结魔教。\n4. 第80—82章：魔教四大宗主攻入通天峰核心；张小凡推断草庙村凶手为苍松、戾气发作露血手与暗红眼光，陆雪琪拔剑对峙；祖师祠堂扫地老者执斩龙剑尽诛四名魔教之人，幻月洞府豪光冲天，诛仙剑阵首次实战发动，四大宗主带伤突围，道玄发动后昏厥于田不易怀中。\n5. 第83—84章：天音寺一方当众说出草庙村血案真相，法相指认凶手为三师叔普智；王二叔指认普空为「杀人的」；碧瑶身份被认出为鬼王宗宗主独生女，施痴情咒强撼诛仙主剑、肉身不灭坠亡；张小凡于鬼王宗醒来。\n\n## 阶段结果\n魔教四派带伤突围退走，青云门伤亡惨重（第83章给出双方伤亡的明示数据），道玄重伤昏厥；苍松道人正式与魔教合流，并透露诛仙剑阵只发挥了一半威力（第83章）。张小凡被道玄判定为「绝世祸胎」、决意诛杀（第84章），其本人则在鬼王宗醒来，得知回魂之术已失传、黑巫族已灭绝。墨瑶肉身不灭而坠亡（第84章）。\n\n## 下一阶段承接与未决问题\n1. 碧瑶是否可救：合欢铃摄魂与黑巫族回魂术的信息已给出，但回魂之术失传、黑巫族灭绝，救活之路成悬念（第84章）。\n2. 道玄必诛张小凡的立场与青云门对他的通缉尚未落地（第84章）。\n3. 水月告诫陆雪琪日后与张小凡为不共戴天之敌，二人关系走向未定（第84章）。\n4. 苍松是否即当年草庙村黑衣人，仅为主角推断，未坐实（第79—80章）；草庙村真凶已转向普智，张小凡的复仇指向被彻底改写。\n5. 祖师祠堂扫地老者与枯槁老者身份未明（周隐临死指认「你是万……」被打断），诛仙剑阵威力未尽（第81—83章）。"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "char-0001-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "玉清殿公审与碧瑶之死",
+          "chapter_ranges": [
+            {
+              "start": 75,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n流波山之后，张小凡的「大梵般若」与烧火棍上的「噬血珠」已被当众指认，是否治罪由门中移交掌门道玄裁定（第75章）。回山之初即被田不易当面质询是否为卧底，全门私议纷纷（第76章）。\n\n## 目标与动机\n本阶段他的选择几乎全部由两件事驱动：一是守住那个不能说的「那个人」，只以「我不是卧底」自辩而不肯吐露详情（第76章）；二是不背弃师门——碧瑶在后山重逢时劝他脱离青云门，他明确拒绝（第77章）。\n\n## 关键选择与经历\n1. 面对田不易的质询跪地否认卧底，却始终守口不提「那个人」（第76章）；当夜与碧瑶后山重逢相拥，被劝离山而未应（第76—77章）。\n2. 玉清殿公审中当众承认所施为大梵般若、烧火棍上有噬血珠，未作隐瞒；同门陆雪琪、林惊羽、曾书书、齐昊、田灵儿跪殿以性命担保，各脉首座惊愕（第78章）。\n3. 苍松道人刺伤道玄、公开叛门之后，他据言行推断苍松即当年草庙村的黑衣人（第79—80章），戾气随之发作、露出血手与暗红眼光，被陆雪琪拔剑相对（第82章）。\n4. 法相当众揭示草庙村血案真相、指认凶手为三师叔普智后，其多年复仇指向被彻底改写（第83—84章）。\n5. 碧瑶以痴情咒强撼诛仙主剑、肉身不灭坠亡；事后他在鬼王宗醒来，得知回魂之术失传、黑巫族已灭绝（第84章）。\n\n## 阶段终点\n被道玄定性为「绝世祸胎」、决意诛之；人已在鬼王宗，青云门再无归路。水月大师告诫陆雪琪日后与他为不共戴天之敌（第84章）。"
+      },
+      "current_summary_update": "玉清殿公审中当众承认大梵般若与噬血珠，同门跪殿以性命作保；苍松叛门、魔教攻山后戾气异状暴露、被陆雪琪拔剑相对；草庙村真相反转指向天音寺普智，碧瑶为其身死，人已在鬼王宗醒来，被道玄定为必诛的「绝世祸胎」。",
+      "identity_notes_appends": [
+        {
+          "note": "在大庭广众之下承认身怀天音寺「大梵般若」且烧火棍上嵌有「噬血珠」，身份与功法来源成为公审焦点。",
+          "basis_refs": [
+            {
+              "path": "claims/block-0078.json",
+              "record_id": "claim-local-7"
+            },
+            {
+              "path": "claims/block-0078.json",
+              "record_id": "claim-local-10"
+            }
+          ],
+          "revealed_at": 78
+        },
+        {
+          "note": "被掌门道玄公开定性为「绝世祸胎」，成为青云门决意诛杀之人。",
+          "basis_refs": [
+            {
+              "path": "claims/block-0084.json",
+              "record_id": "claim-local-49"
+            }
+          ],
+          "revealed_at": 84
+        },
+        {
+          "note": "与天音寺的血仇关系发生反转：凶手被指认为其师承源头的普智大师，其复仇对象由「魔教」改为「旧恩人」。",
+          "basis_refs": [
+            {
+              "path": "claims/block-0084.json",
+              "record_id": "claim-local-1"
+            }
+          ],
+          "revealed_at": 84
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "stage_doc_id": "char-0018-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "玉清殿叛门",
+          "chapter_ranges": [
+            {
+              "start": 79,
+              "end": 83
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0018/index.json",
+              "record_id": "char-0018"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n本阶段前段他仍以青云门首座身份在场，第74章刚扣留了张小凡的烧火棍；公审期间各脉首座皆在玉清殿内（第78—79章）。\n\n## 目标与动机\n其行为的公开解释是「报仇」：他自称百年前亲眼见过万剑一的下场之后，人便已经「疯了」，此后一切布局都指向对青云门当权者的清算（第79章）。\n\n## 关键选择与经历\n1. 玉清殿上骤然出手刺伤掌门道玄，随即公开宣示叛门，并当众揭出万剑一旧案（第79章）。\n2. 当面承认勾结魔教，直言这是自己所为；并当众指水月大师当年私下苦恋万剑一（第79章）。\n3. 魔教攻上通天峰后，他自述「假扮焚香谷」之计出自鬼王策划；叙述亦确认鬼王正是依他所报设伏（第80、82章）。\n4. 正式与魔教合流，并向魔教一方透露诛仙剑阵的威力其实未尽（第83章）。\n\n## 阶段终点\n其叛门事实在玉清殿公开落实，身份由青云门首座转为投向魔教的内应；同时成为张小凡推断中的草庙村黑衣人候选（第80章，仅为主角推断）。"
+      },
+      "current_summary_update": "第79章玉清殿上刺伤道玄、公开承认勾结魔教并叛门，自述百年前因万剑一之案而「疯了」，当众揭出水月苦恋万剑一的旧事；第80章交代假扮焚香谷之计出自鬼王，第83章正式与魔教合流并透露诛仙剑阵威力未尽；是否为当年草庙村黑衣人仅为主角推断，未坐实。",
+      "identity_notes_appends": [
+        {
+          "note": "公开承认勾结魔教并当场叛门，人物定性由青云门首座转为魔教内应。",
+          "basis_refs": [
+            {
+              "path": "claims/block-0079.json",
+              "record_id": "claim-local-47"
+            }
+          ],
+          "revealed_at": 79
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0007/index.json",
+        "record_id": "char-0007"
+      },
+      "stage_doc_id": "char-0007-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "公审、被刺与发动诛仙剑阵",
+          "chapter_ranges": [
+            {
+              "start": 78,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0007/index.json",
+              "record_id": "char-0007"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以掌门身份主持玉清殿公审，面对的是本门弟子身怀天音寺真法与魔教法宝的棘手局面（第78章）。此前门中私议已称苍松为「住在龙首峰的掌门」，掌门权威本身处于暗流之中。\n\n## 目标与动机\n查清张小凡功法与法宝来源、维持门规；同时对「近百年前那桩大错」表现出极深忌惮——水月暗示该类案例正是他最为痛恨之事（第78章）。\n\n## 关键选择与经历\n1. 公审中问出张小凡当众承认大梵般若与噬血珠后，审问因其退殿而暂止（第78章）。\n2. 被苍松道人当场刺成重伤（第79章）；仍入幻月洞府，引出诛仙出世之象（第81章）。\n3. 第82章发动诛仙剑阵，四大宗主带伤突围，其本人发动后昏厥于田不易怀中。\n4. 第84章判定张小凡为「绝世祸胎」，决意诛杀。\n\n## 阶段终点\n重伤昏厥、由田不易照护，掌门安危本身成为悬念；其对张小凡的杀意已经明确下达。"
+      },
+      "current_summary_update": "主持玉清殿公审，问出大梵般若与噬血珠后一度退殿；第79章被苍松道人当场刺成重伤，仍入幻月洞府引诛仙出世，第82章发动诛仙剑阵击退魔教四大宗主后昏厥于田不易怀中；第84章判定张小凡为绝世祸胎、决意诛杀。"
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0076/index.json",
+        "record_id": "char-0076"
+      },
+      "stage_doc_id": "char-0076-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "后山相拥与痴情咒之死",
+          "chapter_ranges": [
+            {
+              "start": 76,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0076/index.json",
+              "record_id": "char-0076"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n随魔教一方活动，玉清殿公审前后潜入青云山，与张小凡在后山重逢（第76章）。\n\n## 目标与动机\n唯一明确目标是让张小凡离开青云门：她劝其脱门被拒后，留下「拿我的命去换你」的表态（第77章）。\n\n## 关键选择与经历\n1. 第76章与张小凡后山重逢并相拥，动作事实被明确记录。\n2. 第77章劝其脱离青云门被拒，双方立场分歧公开化。\n3. 第84章身份被认出为鬼王宗宗主独生女，随即施痴情咒强撼诛仙主剑，肉身不灭而坠亡。\n\n## 阶段终点\n肉身不灭、魂魄不知归处的坠亡结局；其父鬼王因她下落不明折返青云山（第83章），为后续埋线。"
+      },
+      "current_summary_update": "第76章与张小凡后山重逢相拥，第77章劝其脱离青云门被拒并留下「拿我的命去换你」之言；第84章身份被认出为鬼王宗宗主独生女，随即施痴情咒强撼诛仙主剑，肉身不灭而坠亡。",
+      "identity_notes_appends": [
+        {
+          "note": "身份被认出为鬼王宗宗主（鬼王）的独生女。",
+          "basis_refs": [
+            {
+              "path": "claims/block-0084.json",
+              "record_id": "claim-local-24"
+            }
+          ],
+          "revealed_at": 84
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "stage_doc_id": "char-0019-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "质询门徒与承护掌门",
+          "chapter_ranges": [
+            {
+              "start": 76,
+              "end": 82
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n大竹峰首座身份，带着流波山以来与苍松等人的门内分歧回到青云山（第76章起）。\n\n## 目标与动机\n先要弄清自己弟子是不是卧底，再在公审中保住大竹峰一脉的立场（第76章）。\n\n## 关键选择与经历\n1. 第76章当面质询张小凡是否为卧底，逼出其跪地否认与守口不答。\n2. 第79章在苍松揭出万剑一旧案时当众承认万剑一对己「恩深意重」，态度公开化。\n3. 第82章道玄发动诛仙剑阵后昏厥，落于其怀中，承接照护掌门的责任。\n\n## 阶段终点\n大竹峰一脉的立场已随公审公开；道玄的伤情照护落在其身上，掌门安危由其承接下来。"
+      },
+      "current_summary_update": "第76章当面质询张小凡卧底之疑；第79章在苍松揭出万剑一旧案时当众承认万剑一对己恩深意重；第82章道玄发动诛仙剑阵后昏厥于其怀中，承接照护掌门之责。"
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "stage_doc_id": "char-0023-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "旧案牵动与被公开的往事",
+          "chapter_ranges": [
+            {
+              "start": 78,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以小竹峰首座身份参与玉清殿公审（第78章）。\n\n## 目标与动机\n本阶段她的言行围绕两件事：一是在公审中提示「近百年前曾有类似案例」这一重压，二是护住本峰弟子陆雪琪（第78、84章）。\n\n## 关键选择与经历\n1. 第78章殿外谈话，暗示近百年前有类似案例，且其人正是道玄最痛恨之人，身份未明却已牵动旧怨。\n2. 第79章被苍松当众指为当年私下苦恋万剑一，旧事被强行揭开。\n3. 第84章告诫陆雪琪，日后与张小凡为不共戴天之敌。\n\n## 阶段终点\n旧日情事被公开谈论，其立场转向为弟子划下敌我界线。"
+      },
+      "current_summary_update": "第78章殿外谈话暗示近百年前有类似案例且为道玄最痛恨之人；第79章被苍松当众指为当年私下苦恋万剑一；第84章告诫陆雪琪日后与张小凡为不共戴天之敌。"
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0078/index.json",
+        "record_id": "char-0078"
+      },
+      "stage_doc_id": "char-0078-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "当众揭示草庙村真相",
+          "chapter_ranges": [
+            {
+              "start": 83,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0078/index.json",
+              "record_id": "char-0078"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n天音寺一方已至玉清殿，公审阵容成型（第77章）。\n\n## 目标与动机\n受普泓之命说出真相——普泓承认「师弟做了错事」，由他出面把草庙村血案的凶手点名（第83章）。\n\n## 关键选择与经历\n1. 第83章当众说出草庙村血案真相，指向天音寺自身。\n2. 第84章明确指认凶手为三师叔普智大师，成为本阶段真相反转的落定点。\n\n## 阶段终点\n真相落定，天音寺由旁观者变为血案的当事一方。"
+      },
+      "current_summary_update": "第83章奉普泓之命当众说出草庙村血案真相，指向天音寺自身；第84章明确指认凶手为三师叔普智大师，成为本阶段真相反转的关键证人。"
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "stage_doc_id": "char-0055-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "以性命担保与拔剑相对",
+          "chapter_ranges": [
+            {
+              "start": 78,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0005"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以小竹峰弟子身份在场旁观玉清殿公审（第78章）。\n\n## 目标与动机\n本阶段她的选择集中在「护」与「守门规」之间：先在殿上出面担保，后在张小凡显出异状时立即出剑。\n\n## 关键选择与经历\n1. 第78章与林惊羽、曾书书、齐昊、田灵儿一同跪殿，以性命为张小凡担保，令各脉首座惊愕。\n2. 第82章在后山见张小凡血手与暗红眼光，拔剑与其对峙。\n3. 第84章被水月大师告诫，日后与张小凡为不共戴天之敌。\n\n## 阶段终点\n立场由「担保」转为「对峙」，并被师门明确指定了今后的敌我关系。"
+      },
+      "current_summary_update": "第78章玉清殿上跪殿以性命为张小凡担保；第82章在后山见其血手与暗红眼光后拔剑对峙；第84章被水月大师告诫日后与张小凡为不共戴天之敌。"
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0141/index.json",
+        "record_id": "char-0141"
+      },
+      "stage_doc_id": "char-0141-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "四派集结与攻山主谋",
+          "chapter_ranges": [
+            {
+              "start": 75,
+              "end": 83
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0141/index.json",
+              "record_id": "char-0141"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n与万毒门、长生堂、合欢派三方门主会面，主持合攻青云门的谋划（第75章）。\n\n## 目标与动机\n联合四派破青云山门；为此先请毒神出面主持大局，遭推辞后仍维持联合（第75章）。\n\n## 关键选择与经历\n1. 第75章请毒神主持大局遭推辞，四派门主在明王座下发重誓。\n2. 第80章被苍松自述为由其策划的「假扮焚香谷」之计的策划者；第82章叙述确认他依苍松所报设伏。\n3. 第83章因碧瑶下落不明，率鬼王宗折返青云山。\n\n## 阶段终点\n四派联合攻山以带伤突围收场，其本人因女儿下落不明而折返，行动目标由破山转为寻人。"
+      },
+      "current_summary_update": "第75章与四派门主会面、请毒神主持大局遭推辞，四派在明王座下发重誓；第80章被苍松自述为其策划假扮焚香谷之计，第82章依苍松所报设伏攻山；第83章因碧瑶下落不明折返青云山。"
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": true,
+    "doc_id": "faction-landscape-005",
+    "reason": "本阶段势力格局发生实质剧变：魔教四派联手攻山、青云门首座叛门、天音寺由旁观者转为血案当事方。势力索引（factions/index.json）尚无条目，故格局文档以角色索引中的组织条目为 subject_refs。",
+    "front_matter": {
+      "title": "青云山之战前后的势力格局",
+      "chapter_ranges": [
+        {
+          "start": 75,
+          "end": 84
+        }
+      ],
+      "as_of": 84,
+      "subject_refs": [
+        {
+          "path": "characters/char-0059/index.json",
+          "record_id": "char-0059"
+        },
+        {
+          "path": "characters/char-0135/index.json",
+          "record_id": "char-0135"
+        },
+        {
+          "path": "characters/char-0136/index.json",
+          "record_id": "char-0136"
+        },
+        {
+          "path": "characters/char-0137/index.json",
+          "record_id": "char-0137"
+        }
+      ],
+      "record_refs": [],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段态势\n本阶段格局由三条线交织：正道三大派在青云山玉清殿公审张小凡；魔教四派（鬼王宗、万毒门、长生堂、合欢派）在山下集结、以重誓结成临时同盟；青云门内部因苍松道人叛门而出现「内应破门」的致命裂隙（第75—80章）。\n\n## 阵营划分与实力对比\n- 魔教一侧：四派门主在明王座下发重誓，推举未能成事（毒神伪装病弱、推辞主持），实际主事人为玉阳子；鬼王为真正策划者，四派内部亦非铁板一块——三妙仙子当面索问合欢铃即为裂隙（第75、77、80章）。\n- 正道一侧：青云门为主力，天音寺神僧与焚香谷前辈已至玉清殿，公审阵容成型（第77章）。\n\n## 关键变动\n1. 苍松道人由青云门首座转为魔教内应，刺伤掌门并公开叛门，四派攻山即依其情报设伏（第79—82章）。\n2. 诛仙剑阵首次实战发动，四大宗主带伤突围，但苍松透露剑阵只发挥一半威力（第82—83章）。\n3. 天音寺自证其罪：法相当众说出草庙村血案真相并指认普智，正道内部的关系被血案改写（第83—84章）。\n4. 双方伤亡均有明示数据，青云门以重伤掌门与首座叛门为代价守住山门（第83章）。\n\n## 未决问题\n道玄必诛张小凡的立场会否转为对鬼王宗的整体追杀；苍松投向魔教后四派联合是否继续；天音寺与青云门如何处置普智旧案；诛仙剑阵未尽的另一半威力指向何处。"
+  },
+  "relationship_snapshots": [
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0018/index.json",
+              "record_id": "char-0018"
+            }
+          ],
+          "introduced_at": 79
+        }
+      },
+      "local_id": "rel-local-1",
+      "stage_doc_id": "rel-local-1-stage-005",
+      "front_matter": {
+        "title": "张小凡—苍松道人：疑凶与叛门者",
+        "chapter_ranges": [
+          {
+            "start": 79,
+            "end": 84
+          }
+        ],
+        "as_of": 84,
+        "subject_refs": [
+          {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          {
+            "path": "characters/char-0018/index.json",
+            "record_id": "char-0018"
+          }
+        ],
+        "record_refs": [],
+        "source_refs": []
+      },
+      "body_markdown": "## 本阶段关系状态\n苍松由审问者一侧转为叛门者，张小凡由被审者转为指认者。苍松刺伤道玄、公开叛门之后，张小凡据其言行怀疑他就是当年草庙村的黑衣人（第79章），并进一步推断草庙村凶手为苍松（第80章）。第83—84章真相转向天音寺普智，这一指向未被坐实，两人的关系从「仇敌推定」回落为「叛门者与受害者门人」。\n\n## 不对称之处\n本阶段只有张小凡一侧有明确的敌意与指认表达；苍松一侧对本阶段无针对张小凡的直接表态记录，故不为苍松添加对应态度维度。",
+      "facets": [
+        {
+          "dimension": "敌意与指认",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0018/index.json",
+            "record_id": "char-0018"
+          },
+          "value": "怀疑苍松即当年黑衣人，进而推断其为草庙村凶手（后者未被坐实）",
+          "basis_refs": [
+            {
+              "path": "claims/block-0079.json",
+              "record_id": "claim-local-51"
+            },
+            {
+              "path": "claims/block-0080.json",
+              "record_id": "claim-local-31"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0079.json",
+          "record_id": "ev-local-4"
+        },
+        {
+          "path": "events/block-0080.json",
+          "record_id": "ev-local-4"
+        }
+      ],
+      "safe_through": 84
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0076/index.json",
+              "record_id": "char-0076"
+            }
+          ],
+          "introduced_at": 76
+        }
+      },
+      "local_id": "rel-local-2",
+      "stage_doc_id": "rel-local-2-stage-005",
+      "front_matter": {
+        "title": "张小凡—碧瑶：相拥、分歧与舍身",
+        "chapter_ranges": [
+          {
+            "start": 76,
+            "end": 84
+          }
+        ],
+        "as_of": 84,
+        "subject_refs": [
+          {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          {
+            "path": "characters/char-0076/index.json",
+            "record_id": "char-0076"
+          }
+        ],
+        "record_refs": [],
+        "source_refs": []
+      },
+      "body_markdown": "## 本阶段关系状态\n第76章两人在后山重逢并相拥（动作事实明确记录）。第77章碧瑶劝张小凡脱离青云门被拒，双方在「走与留」上立场相反，但分歧并未转为敌意：碧瑶留下「拿我的命去换你」的表态，张小凡则坚持不背弃师门（第77章）。第84章碧瑶施痴情咒强撼诛仙主剑、肉身不灭坠亡，关系以一方舍身、另一方失去为结局。\n\n## 不对称之处\n碧瑶一侧有明确的舍身与表态记录；张小凡一侧本阶段以「拒绝离山」为显性表达，其情感回应只见于相拥这一动作事实，故不作对等强度的推断。",
+      "facets": [
+        {
+          "dimension": "亲密行为（相拥）",
+          "direction": "symmetric",
+          "value": "第76章后山重逢时相拥",
+          "basis_refs": [
+            {
+              "path": "claims/block-0076.json",
+              "record_id": "claim-local-35"
+            }
+          ]
+        },
+        {
+          "dimension": "立场分歧",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0076/index.json",
+            "record_id": "char-0076"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "value": "劝其脱离青云门，被明确拒绝",
+          "basis_refs": [
+            {
+              "path": "claims/block-0077.json",
+              "record_id": "claim-local-6"
+            }
+          ]
+        },
+        {
+          "dimension": "舍身救护",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0076/index.json",
+            "record_id": "char-0076"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "value": "以「拿我的命去换你」自陈，最终施痴情咒强撼诛仙主剑而坠亡",
+          "basis_refs": [
+            {
+              "path": "claims/block-0077.json",
+              "record_id": "claim-local-4"
+            },
+            {
+              "path": "events/block-0084.json",
+              "record_id": "ev-local-6"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0076.json",
+          "record_id": "ev-local-4"
+        },
+        {
+          "path": "events/block-0077.json",
+          "record_id": "ev-local-1"
+        },
+        {
+          "path": "events/block-0084.json",
+          "record_id": "ev-local-6"
+        }
+      ],
+      "safe_through": 84
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0018/index.json",
+              "record_id": "char-0018"
+            },
+            {
+              "path": "characters/char-0007/index.json",
+              "record_id": "char-0007"
+            }
+          ],
+          "introduced_at": 79
+        }
+      },
+      "local_id": "rel-local-3",
+      "stage_doc_id": "rel-local-3-stage-005",
+      "front_matter": {
+        "title": "苍松道人—道玄真人：同门而叛",
+        "chapter_ranges": [
+          {
+            "start": 79,
+            "end": 82
+          }
+        ],
+        "as_of": 84,
+        "subject_refs": [
+          {
+            "path": "characters/char-0018/index.json",
+            "record_id": "char-0018"
+          },
+          {
+            "path": "characters/char-0007/index.json",
+            "record_id": "char-0007"
+          }
+        ],
+        "record_refs": [],
+        "source_refs": []
+      },
+      "body_markdown": "## 本阶段关系状态\n由同门首座关系急转为刺杀与被刺。第79章苍松在玉清殿上当众出手刺伤道玄，并当面承认勾结魔教；其动机自陈为百年前万剑一之案的积怨。第82章道玄重伤之下仍发动诛仙剑阵，两人此后分属敌对阵营。\n\n## 不对称之处\n苍松一侧有明确的攻击、背叛与动机陈述；道玄一侧本阶段只见被刺与重伤后的行动，未见针对苍松的直接表态记录，故不为道玄添加对苍松的态度维度。",
+      "facets": [
+        {
+          "dimension": "刺杀与背叛",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0018/index.json",
+            "record_id": "char-0018"
+          },
+          "to_ref": {
+            "path": "characters/char-0007/index.json",
+            "record_id": "char-0007"
+          },
+          "value": "玉清殿上刺伤道玄，自陈此举出自百年前万剑一旧案的积怨",
+          "basis_refs": [
+            {
+              "path": "claims/block-0079.json",
+              "record_id": "claim-local-47"
+            },
+            {
+              "path": "claims/block-0079.json",
+              "record_id": "claim-local-26"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0079.json",
+          "record_id": "ev-local-4"
+        }
+      ],
+      "safe_through": 84
+    },
+    {
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            },
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "introduced_at": 78
+        }
+      },
+      "local_id": "rel-local-4",
+      "stage_doc_id": "rel-local-4-stage-005",
+      "front_matter": {
+        "title": "陆雪琪—张小凡：担保与对峙",
+        "chapter_ranges": [
+          {
+            "start": 78,
+            "end": 84
+          }
+        ],
+        "as_of": 84,
+        "subject_refs": [
+          {
+            "path": "characters/char-0055/index.json",
+            "record_id": "char-0055"
+          },
+          {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          }
+        ],
+        "record_refs": [],
+        "source_refs": []
+      },
+      "body_markdown": "## 本阶段关系状态\n第78章陆雪琪跪殿以性命为张小凡担保，属同门层面的强力背书；第82章在后山见其血手与暗红眼光，立即拔剑对峙，关系由护转守；第84章被师门（水月大师）明确告知日后与张小凡为不共戴天之敌。\n\n## 不对称之处\n本阶段有明确行为与表态的只有陆雪琪一侧；张小凡一侧对本阶段无针对陆雪琪的直接表态记录，故不添加对应对称维度。",
+      "facets": [
+        {
+          "dimension": "以性命担保",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0055/index.json",
+            "record_id": "char-0055"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "value": "玉清殿上跪殿，以性命为张小凡作保",
+          "basis_refs": [
+            {
+              "path": "events/block-0078.json",
+              "record_id": "ev-local-2"
+            }
+          ]
+        },
+        {
+          "dimension": "拔剑对峙",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0055/index.json",
+            "record_id": "char-0055"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "value": "见其血手与暗红眼光后出剑相对",
+          "basis_refs": [
+            {
+              "path": "events/block-0082.json",
+              "record_id": "ev-local-2"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/block-0078.json",
+          "record_id": "ev-local-2"
+        },
+        {
+          "path": "events/block-0082.json",
+          "record_id": "ev-local-2"
+        }
+      ],
+      "safe_through": 84
+    }
+  ],
+  "emotional_stages": [
+    {
+      "emotional_ref_or_new": {
+        "new_emotion": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0076/index.json",
+              "record_id": "char-0076"
+            }
+          ],
+          "introduced_at": 76
+        }
+      },
+      "local_id": "emo-local-1",
+      "stage_doc_id": "emo-local-1-stage-005",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "正邪之间的相许与舍身（张小凡—碧瑶）",
+          "chapter_ranges": [
+            {
+              "start": 76,
+              "end": 84
+            }
+          ],
+          "as_of": 84,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0076/index.json",
+              "record_id": "char-0076"
+            }
+          ],
+          "record_refs": [],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n本阶段这条情感线由「重逢相拥」走向「舍身而死」：第76章两人在后山重逢并相拥，第77章碧瑶劝张小凡脱离青云门被拒，随即留下「拿我的命去换你」的表态，第84章她以痴情咒强撼诛仙主剑、肉身不灭而坠亡。以痴情咒这一明确的殉身之举、以及「拿命去换」的自陈与相拥的动作事实为依据，判定该关系在本阶段已超出一般同门或友情性质，进入以身相许的情感形态（category=romantic）。\n\n## 变化解释\n推动变化的有两个相互冲突的力量：一是立场——张小凡不肯背弃师门，碧瑶要他离开青云门，分歧在字面上是对立的；二是情感——分歧并未带来疏远，反而以一方舍身收束。因此本阶段的曲线不是「疏远」，而是「立场越对立、情感越是以极端方式兑现」。\n\n## 关系阶段引用\n对应关系快照 rel-local-2（张小凡—碧瑶：相拥、分歧与舍身）：其中「亲密行为（相拥）」为对称维度，「立场分歧」与「舍身救护」为碧瑶指向张小凡的有向维度。\n\n## 推断边界\n1. 本阶段记录中，张小凡一侧的明确表态是「拒绝离山」，并未出现对碧瑶的告白；相拥是动作事实，其内在情感强度不作进一步推断。\n2. 「romantic」定性基于痴情咒殉身与「拿我的命去换你」的自陈，其中后者为转述（reported），非当事人当面原话记录。\n3. 碧瑶身死之后的情感后果（张小凡的反应）在本阶段末章仅以「在鬼王宗醒来」呈现，故不作延伸推断。"
+      },
+      "assessment": {
+        "category": "romantic",
+        "confidence": "medium",
+        "summary": "第76章后山重逢相拥、第77章劝离被拒后留下「拿我的命去换你」，第84章以痴情咒强撼诛仙主剑而肉身不灭坠亡；据殉身之举与相拥动作事实判定为以身相许型情感，但张小凡一侧无告白记录，故置信度中等。",
+        "basis_refs": [
+          {
+            "path": "claims/block-0076.json",
+            "record_id": "claim-local-35"
+          },
+          {
+            "path": "claims/block-0077.json",
+            "record_id": "claim-local-4"
+          },
+          {
+            "path": "claims/block-0077.json",
+            "record_id": "claim-local-6"
+          },
+          {
+            "path": "events/block-0084.json",
+            "record_id": "ev-local-6"
+          }
+        ],
+        "relationship_links": [
+          {
+            "ref_or_new": {
+              "new_rel_local_id": "rel-local-2"
+            }
+          }
+        ],
+        "safe_through": 84,
+        "revealed_at": 84
+      }
+    }
+  ],
+  "thread_updates": [],
+  "warnings": [
+    "stage_buffer 只提供 local_id（ev-local-N / claim-local-N，且不同章节的 local_id 有重名），未解析为全局 record_id；因此各 Markdown 均未内联 [[ref]]，record_refs 统一置空，正文以「第N章 + local_id」的方式保留可追溯线索，请由节点函数统一解析回填。",
+    "本阶段涉及的关系对与感情线在既有索引中均无对应条目（relationships/pairs 索引不存在，emotions/index.json 中仅有张小凡—田灵儿、田灵儿—齐昊等旧线），故全部按 new_rel / new_emotion 新建，并在 emotional assessment 的 relationship_links 中用 new_rel_local_id 指向本次产出。",
+    "factions/index.json 为空（revision 1、safe_through 0），无势力实体可挂载，故 faction_stages 为空；faction_landscape 以角色索引中的组织条目（青云门 char-0059、魔教 char-0135、天音寺 char-0136、焚香谷 char-0137）作为 subject_refs 代替，建议后续统一建立 faction 实体后迁移。",
+    "祖师祠堂扫地老者（char-0169，第81章尽诛四名魔教之人）与枯槁老者（char-0171，第82章枯干而死并托林惊羽传话）两条身份线索，加上周隐临死指认「你是万……」被打断，均指向同一身份的合并可能，但本阶段无任何提及其为万剑一的直接 claim，故未做 identity_links 合并、也未产出这两个实体的 stage 文档，留作候选。",
+    "普智（char-0008）本阶段无出场经历，仅为第83—84章被当众指认为草庙村元凶；其身份揭示已记入张小凡的 identity_notes_appends 与 arc_summary，未为其单独产出 stage 文档。"
+  ],
+  "notes_for_audit": [
+    "character stage 命名统一采用 stage-005（与 stage-plan 的 stage-005 对齐）；张小凡既有 stage-001～004、苍松既有 stage-001/002/004、道玄既有 stage-002、田不易/水月/陆雪琪既有 stage-001/002/004、碧瑶与法相尚无 stage 文档，均无编号冲突。",
+    "所有 stage Markdown 的 chapter_ranges 均落在 75—84 内，as_of 与 safe_through 一律 ≤ 84。",
+    "关系快照方向性：rel-local-1 仅张小凡一侧有指认与敌意表达；rel-local-3 仅苍松一侧有攻击与动机陈述；rel-local-4 仅陆雪琪一侧有担保与对峙行为；均未做两端口径对称化，另一端 attitude 留空。",
+    "张小凡对苍松的「草庙村凶手」推断（claim-local-31）在第83—84章被天音寺真相部分推翻，关系快照与 arc_summary 均已注明「未坐实」，未升格为事实。",
+    "碧瑶「拿我的命去换你」为 reported 陈述，assessment 中已标注该边界，置信度为 medium。",
+    "田不易、水月、法相、陆雪琪、鬼王虽在既有索引中 entity kind 为 character，其本阶段经历均围绕公审与战局，故按人物阶段产出，未与势力阶段混用。"
+  ]
+}

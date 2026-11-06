@@ -1,0 +1,30 @@
+{
+  "id": "thread-0184",
+  "introduced_at": 120,
+  "kind": "story_thread",
+  "label": "鬼厉心中碧瑶之结",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 120,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_arc",
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0184-001",
+      "resolution_refs": [],
+      "revealed_at": 120,
+      "role": "key_thread",
+      "status": "ongoing",
+      "summary": "鬼厉在陆雪琪表白之际心中首先呼喊碧瑶，并因此维持冷漠、退回深痕之外；小白亦称其心中终究有碧瑶。"
+    }
+  ]
+}

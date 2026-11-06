@@ -1,0 +1,30 @@
+{
+  "id": "thread-0160",
+  "introduced_at": 104,
+  "kind": "story_thread",
+  "label": "天帝宝库灵药归属",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 104,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item",
+      "chapter_ranges": [
+        {
+          "end": 104,
+          "start": 104
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0160-001",
+      "resolution_refs": [],
+      "revealed_at": 104,
+      "role": "resolved_for_now",
+      "status": "advanced",
+      "summary": ""
+    }
+  ]
+}

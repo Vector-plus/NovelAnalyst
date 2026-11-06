@@ -1,0 +1,30 @@
+{
+  "id": "thread-1245",
+  "introduced_at": 1125,
+  "kind": "story_thread",
+  "label": "「白发」线索：师祖择灵遗言与孙芸的既视感",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1125,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1125,
+          "start": 1125
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1245-001",
+      "resolution_refs": [],
+      "revealed_at": 1125,
+      "role": "clue",
+      "status": "active",
+      "summary": "孙芸由白发身影联想到师祖归墟前择灵神通后所说的「北部……白发……」，并生出见过此身影的直觉，随即前往师尊寝宫求证。"
+    }
+  ]
+}

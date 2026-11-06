@@ -1,0 +1,30 @@
+{
+  "id": "thread-1084",
+  "introduced_at": 1000,
+  "kind": "story_thread",
+  "label": "王林与冥海在黑沙荒漠黑塔前的交锋",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1000,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1000,
+          "start": 1000
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1084-001",
+      "resolution_refs": [],
+      "revealed_at": 1000,
+      "role": "escalation",
+      "status": "ongoing",
+      "summary": "冥海以沙土法术与「方竹」小剑压制王林，王林转入古神神通「功灵」；冥海中途失望返回黑塔，胜负未分，王林仍未得到「此地是否只他一人」的答案。"
+    }
+  ]
+}

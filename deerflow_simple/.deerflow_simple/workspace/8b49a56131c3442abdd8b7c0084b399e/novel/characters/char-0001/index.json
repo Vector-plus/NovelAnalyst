@@ -1,6 +1,210 @@
 {
+  "current": {
+    "current_summary": "南下南疆：夜探焚香谷、潜入玄火坛以玄火鉴解玄火链放出九尾天狐（得名「小白」），并以归还玄火鉴换取救治碧瑶之法；得知须求黑巫族／还魂大法，转赴七里峒求苗族大巫师。途中与陆雪琪深痕断情、正面对立，被李洵以玉尺伤右肩、又遭天雷击伤，仍公开只认碧瑶；阶段末求得大巫师决意随其入十万大山招魂。焚香谷云易岚下「宁杀错，不放过」密令，其身陷多方追杀。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 16,
+      "summary": "草庙遗孤到大竹峰弟子（第1—16章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-001.md",
+        "record_id": "doc-char-0001-stage-001"
+      },
+      "title": "草庙遗孤到大竹峰弟子"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-002.md",
+        "record_id": "doc-char-0001-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 32
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 56,
+      "summary": "空桑山绝地与小池镇除妖阶段（第32—56章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-003.md",
+        "record_id": "doc-char-0001-stage-003"
+      },
+      "title": "空桑山绝地与小池镇除妖阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 74,
+      "summary": "流波山对峙与当众暴露（第57—74章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-004.md",
+        "record_id": "doc-char-0001-stage-004"
+      },
+      "title": "流波山对峙与当众暴露"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 84,
+      "summary": "玉清殿公审与碧瑶之死（第75—84章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-005.md",
+        "record_id": "doc-char-0001-stage-005"
+      },
+      "title": "玉清殿公审与碧瑶之死"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 85
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 94,
+      "summary": "十年之后：鬼厉与魔教内斗·长生堂覆灭（第85—94章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-006.md",
+        "record_id": "doc-char-0001-stage-006"
+      },
+      "title": "十年之后：鬼厉与魔教内斗·长生堂覆灭"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 95
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 107,
+      "summary": "死泽内泽：副宗主统兵与天帝宝库之争（第95—107章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-007.md",
+        "record_id": "doc-char-0001-stage-007"
+      },
+      "title": "死泽内泽：副宗主统兵与天帝宝库之争"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 108
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 133,
+      "summary": "南下南疆：焚香谷秘辛与七里峒求巫（第108—133章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-008.md",
+        "record_id": "doc-char-0001-stage-008"
+      },
+      "title": "南下南疆：焚香谷秘辛与七里峒求巫"
+    }
+  ],
   "id": "char-0001",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +213,7 @@
   "label": "张小凡",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 1,
+  "revision": 17,
+  "safe_through": 133,
   "schema_version": "2.0"
 }

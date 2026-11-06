@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第83章奉普泓之命当众说出草庙村血案真相，指向天音寺自身；第84章明确指认凶手为三师叔普智大师，成为本阶段真相反转的关键证人。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0078/index.json",
+          "record_id": "char-0078"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 84,
+      "summary": "当众揭示草庙村真相（第75—84章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0078/stages/stage-005.md",
+        "record_id": "doc-char-0078-stage-005"
+      },
+      "title": "当众揭示草庙村真相"
+    }
+  ],
+  "id": "char-0078",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 34,
+  "kind": "entity_index",
+  "label": "法相",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 84,
+  "schema_version": "2.0"
+}

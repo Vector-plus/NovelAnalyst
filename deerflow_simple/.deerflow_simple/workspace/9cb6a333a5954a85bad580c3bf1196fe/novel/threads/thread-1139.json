@@ -1,0 +1,30 @@
+{
+  "id": "thread-1139",
+  "introduced_at": 1040,
+  "kind": "story_thread",
+  "label": "岩浆深处的奇异之灵（火龙）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1040,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1040,
+          "start": 1040
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1139-001",
+      "resolution_refs": [],
+      "revealed_at": 1040,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林吸收火元力后渐与岩浆融为一体，隐约感到其中有一个奇异之灵，他判断为那头吞噬宫殿的火龙，因怕惊扰而停手。"
+    }
+  ]
+}

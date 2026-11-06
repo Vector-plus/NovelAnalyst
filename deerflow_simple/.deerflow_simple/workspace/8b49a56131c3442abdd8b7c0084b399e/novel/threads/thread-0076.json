@@ -1,0 +1,35 @@
+{
+  "id": "thread-0076",
+  "introduced_at": 48,
+  "kind": "story_thread",
+  "label": "东海流波山：魔教聚集、正魔大战将起",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 48,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1671"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0076-001",
+      "resolution_refs": [],
+      "revealed_at": 48,
+      "role": "introduced",
+      "status": "pending",
+      "summary": "万人往（自称凡夫俗子）告知张小凡魔教已在东海流波山聚集，青云门等派前往会合，怕是有一场大战。此说尚未获旁证。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0061",
+  "introduced_at": 38,
+  "kind": "story_thread",
+  "label": "张小凡大梵般若与第四层修为的双重底牌",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 38,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0061-001",
+      "resolution_refs": [],
+      "revealed_at": 38,
+      "role": "secondary",
+      "status": "open",
+      "summary": "叙述揭示张小凡太极玄清道仅第四层，却因体内另修五年大梵般若而经脉根基远超同门，故能承受魔教妖人重击；陆雪琪不知此事。"
+    }
+  ]
+}

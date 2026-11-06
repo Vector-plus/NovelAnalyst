@@ -1,0 +1,30 @@
+{
+  "id": "thread-1168",
+  "introduced_at": 1072,
+  "kind": "story_thread",
+  "label": "王林冲击九玄第一变",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1072,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "cultivation",
+      "chapter_ranges": [
+        {
+          "end": 1072,
+          "start": 1072
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1168-001",
+      "resolution_refs": [],
+      "revealed_at": 1072,
+      "role": "protagonist",
+      "status": "resolved",
+      "summary": "王林以九世元力强行封九成玄，化灵入体，完成九玄第一变，并现出新一任圣皇之兆。"
+    }
+  ]
+}

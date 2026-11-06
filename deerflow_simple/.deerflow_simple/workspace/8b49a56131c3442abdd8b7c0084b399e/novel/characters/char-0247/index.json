@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第140章公开现身，就玲珑之死向天下发出陪葬誓言，并统合十三妖王收服十万大山蛮族；与既有「兽神」实体疑为同一，尚待确认。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 134
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0247/index.json",
+          "record_id": "char-0247"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 143,
+      "summary": "南疆现身与陪葬誓言（第134—143章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0247/stages/stage-009.md",
+        "record_id": "doc-char-0247-stage-009"
+      },
+      "title": "南疆现身与陪葬誓言"
+    }
+  ],
+  "id": "char-0247",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 131,
+  "kind": "entity_index",
+  "label": "兽妖",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 143,
+  "schema_version": "2.0"
+}

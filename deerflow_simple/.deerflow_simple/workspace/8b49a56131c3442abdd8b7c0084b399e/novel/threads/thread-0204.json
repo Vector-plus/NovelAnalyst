@@ -1,0 +1,30 @@
+{
+  "id": "thread-0204",
+  "introduced_at": 134,
+  "kind": "story_thread",
+  "label": "四灵血阵收集灵兽",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 134,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plan",
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0204-001",
+      "resolution_refs": [],
+      "revealed_at": 134,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "鬼先生报称夔牛已降服、黄鸟三日内可搜灵归阵，四灵血阵已成一半；鬼王将加紧寻找其余两只灵兽。"
+    }
+  ]
+}

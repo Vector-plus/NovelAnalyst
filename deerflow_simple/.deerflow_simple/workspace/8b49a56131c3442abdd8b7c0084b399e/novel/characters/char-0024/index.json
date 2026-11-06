@@ -1,6 +1,85 @@
 {
+  "current": {
+    "current_summary": "流波山期间与田不易一同现身救张小凡、正面对峙吸血老妖；察觉苍松道人对田不易的持续注视与暗中试探，并打断其“长门的万……”之语；第70章指定东海昌合城为会合地点。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 1
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 16,
+      "summary": "大竹峰师娘的训导与会武张罗（第1—16章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0024/stages/stage-001.md",
+        "record_id": "doc-char-0024-stage-001"
+      },
+      "title": "大竹峰师娘的训导与会武张罗"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0024/stages/stage-002.md",
+        "record_id": "doc-char-0024-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 57
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0024/index.json",
+          "record_id": "char-0024"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 74,
+      "summary": "流波山：护徒、察疑与定会合点（第57—74章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0024/stages/stage-004.md",
+        "record_id": "doc-char-0024-stage-004"
+      },
+      "title": "流波山：护徒、察疑与定会合点"
+    }
+  ],
   "id": "char-0024",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +88,7 @@
   "label": "苏茹",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 6,
+  "revision": 7,
+  "safe_through": 74,
   "schema_version": "2.0"
 }

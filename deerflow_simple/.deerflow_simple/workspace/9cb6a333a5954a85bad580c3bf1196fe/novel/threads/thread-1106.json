@@ -1,0 +1,30 @@
+{
+  "id": "thread-1106",
+  "introduced_at": 1011,
+  "kind": "story_thread",
+  "label": "修真联盟图谋擒拿青霖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1011,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_intent",
+      "chapter_ranges": [
+        {
+          "end": 1011,
+          "start": 1011
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1106-001",
+      "resolution_refs": [],
+      "revealed_at": 1011,
+      "role": "active",
+      "status": "ongoing",
+      "summary": "虚空子自称依据修真联盟多年观察，有九成把握青霖已到弥留之际，主张以特殊方法擒拿操控青霖，使修真联盟再无对手，并对此流露贪婪之芒。"
+    }
+  ]
+}

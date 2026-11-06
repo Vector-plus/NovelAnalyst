@@ -1,0 +1,30 @@
+{
+  "id": "thread-0048",
+  "introduced_at": 29,
+  "kind": "story_thread",
+  "label": "张小凡暗修天音寺“大梵般若”",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 29,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "hidden_ability",
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0048-001",
+      "resolution_refs": [],
+      "revealed_at": 29,
+      "role": "side",
+      "status": "revealed",
+      "summary": "本章明确张小凡除太极玄清道外暗自修习大梵般若，经脉强固并有护身之效，成为他能撑住天琊神力的原因。"
+    }
+  ]
+}

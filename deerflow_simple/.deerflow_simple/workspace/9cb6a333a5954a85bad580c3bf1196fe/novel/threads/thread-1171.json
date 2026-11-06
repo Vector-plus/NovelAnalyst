@@ -1,0 +1,30 @@
+{
+  "id": "thread-1171",
+  "introduced_at": 1073,
+  "kind": "story_thread",
+  "label": "王林继任朱雀圣宗圣皇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1073,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 1073,
+          "start": 1073
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1171-001",
+      "resolution_refs": [],
+      "revealed_at": 1073,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "老圣皇将圣皇披风、朱雀圣灵与太古圣器传承给王林并宣告其为圣皇，令其先见族人、七日后返回；老圣皇自述将进行此生最后一次打坐。青霖眉心的圣器之血仍待王林取用。"
+    }
+  ]
+}

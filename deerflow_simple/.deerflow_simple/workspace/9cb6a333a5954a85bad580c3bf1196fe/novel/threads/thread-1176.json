@@ -1,0 +1,30 @@
+{
+  "id": "thread-1176",
+  "introduced_at": 1074,
+  "kind": "story_thread",
+  "label": "朱雀圣宗圣皇之位交接与挑战风波",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1074,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1074,
+          "start": 1074
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1176-001",
+      "resolution_refs": [],
+      "revealed_at": 1074,
+      "role": "核心",
+      "status": "escalating",
+      "summary": "王林归返受举族恭迎，任涛依历代法则当众挑战并被王林两指灭杀；王林随即转向任涛身后三名老者发问，圣皇之位接任尚未完成。"
+    }
+  ]
+}

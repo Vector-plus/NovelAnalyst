@@ -1,0 +1,30 @@
+{
+  "id": "thread-0207",
+  "introduced_at": 135,
+  "kind": "story_thread",
+  "label": "巫妖借骨玉黑杖复生白骨妖物",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 135,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0207-001",
+      "resolution_refs": [],
+      "revealed_at": 135,
+      "role": "core",
+      "status": "advanced",
+      "summary": "巫妖独入镇魔古洞深处，以骨玉嵌入白骨前额裂洞、黑杖置于脊骨，复生仪式完成，心跳与血脉声响起，白骨妖物苏醒。"
+    }
+  ]
+}

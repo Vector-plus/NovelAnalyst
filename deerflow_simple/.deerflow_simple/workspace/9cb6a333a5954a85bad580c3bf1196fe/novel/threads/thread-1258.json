@@ -1,0 +1,30 @@
+{
+  "id": "thread-1258",
+  "introduced_at": 1137,
+  "kind": "story_thread",
+  "label": "兽骨丹方（涅空丹）下落与华清宗求证线索",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadow",
+      "chapter_ranges": [
+        {
+          "end": 1137,
+          "start": 1137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1258-001",
+      "resolution_refs": [],
+      "revealed_at": 1137,
+      "role": "setup",
+      "status": "open",
+      "summary": "华清宗所得线索为真，但丹方本体去向仍为万八千年的隐秘；施洛刑已取得兽骨碎片与一枚玉简，东西现落何处未明。"
+    }
+  ]
+}

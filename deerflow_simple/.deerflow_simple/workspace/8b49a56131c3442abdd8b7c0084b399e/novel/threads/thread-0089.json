@@ -1,0 +1,35 @@
+{
+  "id": "thread-0089",
+  "introduced_at": 55,
+  "kind": "story_thread",
+  "label": "“狐岐山”一名令张小凡感到熟悉",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 55,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 55,
+          "start": 55
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1955"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0089-001",
+      "resolution_refs": [],
+      "revealed_at": 55,
+      "role": "伏笔",
+      "status": "open",
+      "summary": "张小凡听三尾妖狐提到“狐岐山”时深心一动，觉得有几分熟悉却想不起来，本章未解。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0190",
+  "introduced_at": 126,
+  "kind": "story_thread",
+  "label": "犬神警报：苗族亡族灭种之危",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 126,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "crisis",
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0190-001",
+      "resolution_refs": [],
+      "revealed_at": 126,
+      "role": "foreground",
+      "status": "ongoing",
+      "summary": "犬神石刻发出千年一遇的警报，随即黑云压境、火球轰落、黎族夜袭，苗人向祭坛跪拜并撤离妇孺。"
+    }
+  ]
+}

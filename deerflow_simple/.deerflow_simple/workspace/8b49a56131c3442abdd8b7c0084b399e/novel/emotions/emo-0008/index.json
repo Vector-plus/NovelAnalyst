@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 108
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 133,
+      "summary": "感情阶段：断情之约与不对等的收束（第108—133章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0008/stages/stage-008.md",
+        "record_id": "doc-emo-0008-stage-008"
+      },
+      "title": "感情阶段：断情之约与不对等的收束"
+    }
+  ],
+  "id": "emo-0008",
+  "introduced_at": 108,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 133,
+  "schema_version": "2.0"
+}

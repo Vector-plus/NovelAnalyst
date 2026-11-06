@@ -1,0 +1,30 @@
+{
+  "id": "thread-0071",
+  "introduced_at": 46,
+  "kind": "story_thread",
+  "label": "碧瑶娘亲之死与父女怨隙",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 46,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 46,
+          "start": 46
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0071-001",
+      "resolution_refs": [],
+      "revealed_at": 46,
+      "role": "new",
+      "status": "open",
+      "summary": "碧瑶在神像前自陈是自己害死了娘亲、父亲一直因此恨她；本章仅呈现碧瑶一方的说法，具体经过未展开。"
+    }
+  ]
+}

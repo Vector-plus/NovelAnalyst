@@ -1,0 +1,30 @@
+{
+  "id": "thread-0137",
+  "introduced_at": 90,
+  "kind": "story_thread",
+  "label": "焚香谷与青云门争入死泽夺取无名异宝",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 90,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0137-001",
+      "resolution_refs": [],
+      "revealed_at": 90,
+      "role": "introduced",
+      "status": "ongoing",
+      "summary": "萧逸才通报焚香谷李洵传书、焚香谷已先行入泽；他判断异宝归属关系到日后正道领袖之位，率青云门十三名弟子随后进入死泽。"
+    }
+  ]
+}

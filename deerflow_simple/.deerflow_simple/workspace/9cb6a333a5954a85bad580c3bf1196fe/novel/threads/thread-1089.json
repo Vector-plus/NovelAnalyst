@@ -1,0 +1,30 @@
+{
+  "id": "thread-1089",
+  "introduced_at": 1002,
+  "kind": "story_thread",
+  "label": "冥海脑中魔气碎片与“仙帝”",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1002,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1002,
+          "start": 1002
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1089-001",
+      "resolution_refs": [],
+      "revealed_at": 1002,
+      "role": "reveal",
+      "status": "open",
+      "summary": "冥海右眉疤痕深处嵌有冒黑气的碎片，魔气由此持续注入其头部；魔气被阻断后他高呼“仙帝，冥海不忠，为一己私念，魔化至今，当得一死”。"
+    }
+  ]
+}

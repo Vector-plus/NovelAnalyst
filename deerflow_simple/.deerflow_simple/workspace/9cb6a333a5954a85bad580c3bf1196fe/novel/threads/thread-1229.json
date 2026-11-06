@@ -1,0 +1,30 @@
+{
+  "id": "thread-1229",
+  "introduced_at": 1112,
+  "kind": "story_thread",
+  "label": "拓森撕开血色天空，血海数百修士升空",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1112,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1112,
+          "start": 1112
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1229-001",
+      "resolution_refs": [],
+      "revealed_at": 1112,
+      "role": "setup",
+      "status": "escalating",
+      "summary": "拓森在血海锥形石上起身，狂笑称可杀个足够后撕出万丈裂痕，其内即众修士所在的虚无；血海下数百修士睁眼升空，指向即将爆发的大规模厮杀。"
+    }
+  ]
+}

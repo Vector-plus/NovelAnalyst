@@ -1,0 +1,30 @@
+{
+  "id": "thread-0206",
+  "introduced_at": 134,
+  "kind": "story_thread",
+  "label": "金瓶儿与凶灵的相对",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 134,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0206-001",
+      "resolution_refs": [],
+      "revealed_at": 134,
+      "role": "minor",
+      "status": "ongoing",
+      "summary": "金瓶儿因好奇触摸石像，凶灵自身后现身举剑斩下，结果留待下章。"
+    }
+  ]
+}

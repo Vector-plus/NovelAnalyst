@@ -1,0 +1,30 @@
+{
+  "id": "thread-0051",
+  "introduced_at": 31,
+  "kind": "story_thread",
+  "label": "张小凡被疑为魔教奸细之争",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 31,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0051-001",
+      "resolution_refs": [],
+      "revealed_at": 31,
+      "role": "subject",
+      "status": "resolved_this_chapter",
+      "summary": "七脉首座在玉清殿就是否处死张小凡分裂表态，道玄真人最终认同其不似魔教中人，并将黑棒归还。"
+    }
+  ]
+}

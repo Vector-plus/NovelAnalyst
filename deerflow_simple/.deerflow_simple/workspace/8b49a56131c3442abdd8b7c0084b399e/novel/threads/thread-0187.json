@@ -1,0 +1,30 @@
+{
+  "id": "thread-0187",
+  "introduced_at": 124,
+  "kind": "story_thread",
+  "label": "为碧瑶求还魂奇术",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 124,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 124,
+          "start": 124
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0187-001",
+      "resolution_refs": [],
+      "revealed_at": 124,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "鬼厉携昏迷的碧瑶远赴南疆七里峒，向苗族祭坛大巫师求还魂奇术；本章已获接见并当面陈述病情与病因，大巫师称“略知一二”但无把握。"
+    }
+  ]
+}

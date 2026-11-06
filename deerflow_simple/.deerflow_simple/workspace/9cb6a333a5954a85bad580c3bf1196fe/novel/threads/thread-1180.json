@@ -1,0 +1,30 @@
+{
+  "id": "thread-1180",
+  "introduced_at": 1076,
+  "kind": "story_thread",
+  "label": "墨智师尊所托的精魂小旗",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1076,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1076,
+          "start": 1076
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1180-001",
+      "resolution_refs": [],
+      "revealed_at": 1076,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "墨智代师尊送出蓝绿相间小旗，内为数百年前炼化封印的一头精魂，王林郑重收下并道谢。"
+    }
+  ]
+}

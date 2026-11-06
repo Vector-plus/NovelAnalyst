@@ -1,0 +1,62 @@
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 85, "note": "鬼厉以副宗主身份登场，一句话逼降、血光杀人，正式确立其在魔教中的位置"}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-5", "chapter_order": 85, "note": "野狗道人拒绝投降、独守炼血堂，人物立场转折点"}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-4", "chapter_order": 85, "note": "炼血堂覆灭开端：黑心令交出，鬼王宗兼并小派系"}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-33", "chapter_order": 85, "note": "鬼厉=张小凡的间接证据链（青云弟子/烧火棍/容貌未变），后续身份揭示需据此续证"}
+{"buffer_kind": "faction_move", "ref_or_local_id": "ev-local-2", "chapter_order": 85, "note": "鬼王宗攻打空桑山、兼并炼血堂，魔教内部派阀兼并升级"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "鬼厉身份关键陈述节点：野狗直呼「张小凡」，鬼厉称此名已忘多年", "chapter_order": 86}
+{"kind": "claim", "ref_or_local_id": "claim-local-12", "note": "鬼厉拒认/回避「张小凡」之名的原话，供后续身份揭示比对", "chapter_order": 86}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "林惊羽十年守灵期满出关，首次行走天下", "chapter_order": 86}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "note": "神秘老人—道玄旧日秘辛的关键对话，身份未揭示", "chapter_order": 86}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "note": "阶段主线发端：青云门年轻弟子西行大沼泽，天音寺焚香谷同往", "chapter_order": 86}
+{"kind": "event", "ref_or_local_id": "ev-local-7", "note": "齐昊—林惊羽托付、宋大仁代行大竹峰；齐昊以「岳母」称苏茹", "chapter_order": 86}
+{"kind": "claim", "ref_or_local_id": "claim-local-50", "note": "齐昊—田灵儿关系的原文依据（出自齐昊之口的称谓）", "chapter_order": 86}
+{"kind": "event", "local_id": "ev-local-2", "note": "鬼厉首次以“鬼厉”身份重返青云山大竹峰旧地，与大黄小灰重逢", "chapter_order": 87}
+{"kind": "event", "local_id": "ev-local-4", "note": "鬼厉回狐岐山冰室对碧瑶低语，自述已灭炼血堂", "chapter_order": 87}
+{"kind": "claim", "local_id": "claim-local-26", "note": "鬼王宗主为张小凡赐名“鬼厉”的明示（身份认同关键）", "chapter_order": 87}
+{"kind": "claim", "local_id": "claim-local-35", "note": "炼血堂被鬼厉奉鬼王之命所灭（魔教扩张动向）", "chapter_order": 87}
+{"kind": "claim", "local_id": "claim-local-19", "note": "十年间魔教格局与鬼王宗崛起的势力概述", "chapter_order": 87}
+{"kind": "thread", "local_id": "thread-local-1", "note": "寻找黑巫族：本阶段新的搜寻目标线索", "chapter_order": 87}
+{"kind": "thread", "local_id": "thread-local-2", "note": "鬼王与鬼厉关系的潜在裂痕", "chapter_order": 87}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 88, "note": "鬼王授密信、命鬼厉主持鬼王宗在死亡沼泽一切人马——stage-006 任务派发节点"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 88, "note": "秦无炎首次以该名自称现身，可作 stage-006 人物引入锚点"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 88, "note": "鬼王宗与万毒门、合欢派三日后同入死亡沼泽的行动时间线"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 88, "note": "叙述层明示张小凡即今日鬼厉，身份合并证据"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 88, "note": "鬼王怀疑鬼厉三门真法俱进另有缘由，跨阶段悬念"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 88, "note": "鬼王未尽之言与『碧瑶』暗示，人物线伏笔"}
+{"buffer_type": "key_event", "local_id": "ev-local-2", "note": "鬼厉与秦无炎首次当街对峙（万毒门 vs 鬼王宗），互相点破身份称号，为魔教内斗线起点", "chapter_order": 89}
+{"buffer_type": "key_claim", "local_id": "claim-local-18", "note": "“三公子”格局设定：万毒门秦无炎（毒公子）、鬼王宗鬼厉（血公子）、合欢派金瓶儿（妙公子）", "chapter_order": 89}
+{"buffer_type": "key_claim", "local_id": "claim-local-19", "note": "长生堂年轻一代后继乏人（本 stage 标题涉及长生堂覆灭，此为伏笔性事实）", "chapter_order": 89}
+{"buffer_type": "key_claim", "local_id": "claim-local-25", "note": "秦无炎称毒神已不问世事，长生堂玉阳子经营死泽（势力动向，reported）", "chapter_order": 89}
+{"buffer_type": "faction_move", "local_id": "claim-local-23", "note": "秦无炎与鬼厉均将前往死泽争夺“异宝”，异宝归属未定", "chapter_order": 89}
+{"buffer_type": "character_turn", "local_id": "claim-local-27", "note": "鬼厉对小环一句“你长大了”，为二人十年后重逢的关键互动", "chapter_order": 89}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "魔教内部就黑蟾散杀人案交涉，雾中之人身份未明，为 stage-006「魔教内斗」关键节点", "chapter_order": 90}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "青云门十三名弟子进入死泽，与焚香谷争夺异宝的正面竞争开启", "chapter_order": 90}
+{"kind": "claim", "ref_or_local_id": "claim-local-33", "note": "黑蟾散为万毒门独门所有（金瓶儿之言），指向万毒门的作案嫌疑", "chapter_order": 90}
+{"kind": "claim", "ref_or_local_id": "claim-local-34", "note": "雾中之人自称若出手不必用毒，金瓶儿未反驳", "chapter_order": 90}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "note": "金瓶儿与周一仙、小环的三年前东海旧事：小环自损一年阳寿施收魂奇阵", "chapter_order": 90}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "note": "金瓶儿身份与「与鬼厉、秦无炎齐名」的定位", "chapter_order": 90}
+{"kind": "candidate", "ref_or_local_id": "雾中之人", "note": "疑似万毒门一方的魔教人物，待后续章节确认", "chapter_order": 90}
+{"ref_type": "event", "local_id": "ev-local-4", "note": "金瓶儿在死泽首次展示紫气／紫芒杀招并击毙鱼头人身怪物（能力展示）", "chapter_order": 91, "stage_id": "stage-006"}
+{"ref_type": "event", "local_id": "ev-local-6", "note": "首次出现“南疆十万大山六十三异族·鱼人族”设定，来源为周一仙口述", "chapter_order": 91, "stage_id": "stage-006"}
+{"ref_type": "event", "local_id": "ev-local-7", "note": "鬼厉、金瓶儿、秦无炎三名魔教年轻高手在死泽相会，并提及未明示的“所约之事”（势力动向）", "chapter_order": 91, "stage_id": "stage-006"}
+{"ref_type": "claim", "local_id": "claim-local-46", "note": "金瓶儿对小环的评价与告诫：鬼厉与秦无炎俱是辣手无情的人物", "chapter_order": 91, "stage_id": "stage-006"}
+{"kind": "event", "local_id_or_ref": "ev-local-2", "note": "长生堂困局与死泽异宝之争的背景铺垫，交代青云一战后果与迁堂死泽", "chapter_order": 92}
+{"kind": "event", "local_id_or_ref": "ev-local-5", "note": "长生堂夜袭无底坑，正道伏光反击，玉阳子脸色大变——本 stage 冲突转折点", "chapter_order": 92}
+{"kind": "claim", "local_id_or_ref": "claim-local-9", "note": "玉阳子断臂来历：青云一战伤于诛仙剑下", "chapter_order": 92}
+{"kind": "claim", "local_id_or_ref": "claim-local-21", "note": "玉阳子定策：先灭正道弟子，再夺异宝", "chapter_order": 92}
+{"kind": "claim", "local_id_or_ref": "claim-local-37", "note": "五道奇光反冲长生堂，正道疑似早有布置", "chapter_order": 92}
+{"kind": "character", "local_id_or_ref": "孟骥", "note": "长生堂二号人物首次出现，深得玉阳子信重", "chapter_order": 92}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 93, "note": "正道伏击长生堂，死泽夜战开打并结束"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 93, "note": "陆雪琪神剑御雷真诀 + 玉阳子血祭阴阳镜脱身，长生堂惨败"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 93, "note": "林惊羽十年随祖师祠堂神秘老人学艺大成"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 93, "note": "玉阳子十年前青云一战断左臂"}
+{"kind": "claim", "local_id": "claim-local-48", "chapter_order": 93, "note": "长生堂此战惨败定论"}
+{"kind": "claim", "local_id": "claim-local-50", "chapter_order": 93, "note": "不明身影旁观，悬而未决"}
+{"kind": "faction", "candidate_name": "长生堂", "chapter_order": 93, "note": "损失约三分之一人手后撤退"}
+{"kind": "event", "ref_or_candidate": {"local_id": "ev-local-3"}, "chapter_order": 94, "note": "长生堂覆灭、玉阳子末路属本阶段收束点"}
+{"kind": "event", "ref_or_candidate": {"local_id": "ev-local-4"}, "chapter_order": 94, "note": "正道八人进内泽名单，为下一阶段关键行动配置"}
+{"kind": "claim", "ref_or_candidate": {"local_id": "claim-local-42"}, "chapter_order": 94, "note": "玉阳子结局目前仅为秦无炎口述，未经直叙"}
+{"kind": "claim", "ref_or_candidate": {"local_id": "claim-local-29"}, "chapter_order": 94, "note": "鬼厉以利害说服秦、金放弃招降，魔教内部权力考量显现"}
+{"kind": "claim", "ref_or_candidate": {"local_id": "claim-local-18"}, "chapter_order": 94, "note": "玉阳子挑拨合欢派与万毒门之事被揭穿，为三家合围的直接导因"}
+{"kind": "candidate_entity", "ref_or_candidate": {"candidate_name": "合欢派"}, "chapter_order": 94, "note": "势力档案缺失，仅在本阶段以人物索引登记"}
+{"kind": "candidate_entity", "ref_or_candidate": {"candidate_name": "万毒门"}, "chapter_order": 94, "note": "势力档案缺失，仅在本阶段以人物索引登记"}

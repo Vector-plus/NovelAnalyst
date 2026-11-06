@@ -1,0 +1,1287 @@
+{
+  "events": [
+    {
+      "id": "ev-0746",
+      "introduced_at": 144,
+      "kind": "event",
+      "safe_through": 144,
+      "title": "林惊羽在祖师祠堂外施展「斩鬼神」剑诀",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5309"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 144,
+              "start": 144
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5309",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "斩龙剑夹带万道霞光",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽持斩龙剑凌空扑下，施展「斩鬼神」剑诀，一击深深刺入地底，将法阵内地面轰出巨大深坑。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5310",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "将这股巨大的破坏力量笼罩其中",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "空地四周布满相隔约半丈的符纸，暗合组成一座法阵，将剑诀的巨大破坏力量笼罩其中，不使外泄。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5311",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "一个墨绿身影，远远地望着这里，负手而立",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "演练期间，远处有一墨绿身影负手而立，一动不动地望着祠堂外的空地。"
+            }
+          ],
+          "id": "update-0746",
+          "outcome_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5310"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "role": "witness"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0267/index.json",
+                "record_id": "char-0267"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 144,
+          "status": "completed",
+          "story_time": null,
+          "summary": "青云山通天峰祖师祠堂外的空地被符纸法阵封锁，林惊羽持斩龙剑凌空扑下，一击在地面轰出巨大深坑，威力被法阵束缚不外泄；远处有一墨绿身影负手观望。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0747",
+      "introduced_at": 144,
+      "kind": "event",
+      "safe_through": 144,
+      "title": "祠堂老人与林惊羽的授业对话",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5312"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5315"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5318"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5323"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5324"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 144,
+              "start": 144
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5312",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "演练结束后林惊羽从深坑中跃出，满身灰尘，喘息稍定后快步走到祠堂老人身边。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5313",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人向林惊羽招手，说「你很好，真的很好」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5314",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "也比你快不了多少",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人自称：就算是他当年修成这式「斩鬼神」真法剑诀，也快不了林惊羽多少。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5315",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽对老人说，若不是有他指点，自己不知要到什么时候才能修习这等绝世真法。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5316",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "也就田不易还有你以前那个师父苍松还算可以",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人称，如今青云门中除了道玄之外，只有田不易和林惊羽以前那个师父苍松还算可以，其他长老首座都不成器。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5317",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "学艺至今已超过十年",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽从师这位祠堂老人学艺至今已超过十年，修行每深一分，对老人的钦佩敬慕之心就更深一分。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5318",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "我看那个田不易稀松平常的紧",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽对老人说「我看那个田不易稀松平常的紧，有什么了不起的」。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [
+                {
+                  "anchor": "其中只怕还有一些当初看到田不易责骂张小凡的原因",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "certainty": "uncertain",
+              "id": "claim-5319",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽一向看田不易不顺眼，其原因可能包含当初见到田不易责骂张小凡一事，但原文以「只怕」推测，未确定。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5320",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "道法修行便一日千里",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人称田不易在修道上有另一番天赋、性子坚毅执着，入门后平平无奇，一旦得指点开窍便一日千里，成就反在平日起看不起他的师兄师姐之上。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5321",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "如以前天云、商正梁一帮废物",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人将天云、商正梁等原青云首座称作废物。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5322",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "不到危急关头，还是不要运用此真法剑诀",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人告诫林惊羽：此式真法剑诀刚猛至阳、威力虽大但大耗元气，不到危急关头不要运用。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5323",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "林惊羽在他面前跪下",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽在祠堂老人面前跪下。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5324",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽恭声答「是，弟子知道了」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5325",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "总共传下了四式真法剑诀",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人称：青云门内外只道「神剑御雷真诀」是无上真法，实则青叶祖师整理前辈祖师道法、又以自身从无名古卷领悟所得，共传下四式真法剑诀。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5326",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "你师父也不知道的",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人称林惊羽的师父苍松道人也不知道四式真法剑诀之事。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5327",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "对这个老人的身分来历",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽对这位老人的身份来历多了几分好奇。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5328",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "时候不早了，你先回去吧",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "祠堂老人忽然眉头一皱，向远处望了一眼，随即以「时候不早了」为由让林惊羽先回去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5329",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "勉强填平",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林惊羽端端正正磕了三个头后离去；老人独自将隐秘处的符咒轻若无物般扫起，把石块填入深坑勉强填平，随后走回祖师祠堂大殿。"
+            }
+          ],
+          "id": "update-0747",
+          "outcome_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5327"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5329"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0002/index.json",
+                "record_id": "char-0002"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0235/index.json",
+                "record_id": "char-0235"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "mentioned"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0014/index.json",
+                "record_id": "char-0014"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 144,
+          "status": "completed",
+          "story_time": null,
+          "summary": "演练后老人赞许林惊羽，评点青云门人物，透露青云门共有四式真法剑诀、苍松道人并不知情；随后察觉远处动静，遣林惊羽回去，独自清扫符咒填平深坑。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0748",
+      "introduced_at": 144,
+      "kind": "event",
+      "safe_through": 144,
+      "title": "道玄真人上香并告知焚香谷将来拜山",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5330"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5338"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 144,
+              "start": 144
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5330",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "拿起三根细香",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人已在祖师祠堂大殿灵位前，取三根细香点燃、恭敬三鞠躬后插入香炉。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5331",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "我有段日子没来进香了",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人说「我有段日子没来进香了」，不知列位祖师会不会怪罪。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5332",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "又怎么会怪罪你",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老人答道玄将青云门搞得有声有色，列位祖师欢喜还来不及，不会怪罪他。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5333",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "好像又老了几分了",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人对老人说「你好像又老了几分了」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5334",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "连心都死了的人，自然老的比较快",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老人回答「连心都死了的人，自然老的比较快」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5335",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "你会将‘斩鬼神’传了给他",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人问老人「刚才都看到了」，并说自己没有想到老人会将「斩鬼神」传给了林惊羽。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5336",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "难道都如你一般藏密于身",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老人反问「为何不传」，讥讽道玄藏密于身、要带到棺材里去。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5337",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "竟格外的忍耐",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人闻言脸色一变似有怒容，但面对老人格外忍耐，随即忍住了。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5338",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "前来青云山拜山了",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "道玄真人告知老人：就在今日迟些时候，焚香谷谷主云易岚将率门下弟子前来青云山拜山。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5339",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "可是个老滑头了",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "老人冷笑称云易岚「可是个老滑头了」。"
+            }
+          ],
+          "id": "update-0748",
+          "outcome_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5338"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0007/index.json",
+                "record_id": "char-0007"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0265/index.json",
+                "record_id": "char-0265"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 144,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "道玄真人在祖师祠堂灵位前上香，与祠堂老人互相讥讽，问及传授「斩鬼神」之事；随后告知今日迟些时候焚香谷谷主云易岚将率弟子前来青云山拜山。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-0749",
+      "introduced_at": 144,
+      "kind": "event",
+      "safe_through": 144,
+      "title": "七里峒妖兽之劫与青龙引敌",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5342"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5343"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5347"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 144,
+              "start": 144
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5340",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "到处都是各种怪异的妖兽异族",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "南疆七里峒山脉的森林已失去原貌，阴风呼啸、黑云低垂，到处是怪异妖兽与被杀戮的鸟兽尸体。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5341",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "领头的就是这一只状极可怖的妖物白骨妖蛇",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "七里峒苗人聚居地被无数妖兽团团包围，领头的是白骨妖蛇；其身躯巨大，所过之处白骨挥舞，并能喷出毒气中人即死。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5342",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "让苗族族长图麻骨将残余苗人撤入祭坛",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙让苗族族长图麻骨将残余苗人撤入祭坛，祭坛中的巫师以略懂的南疆巫法抵抗一阵。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5343",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "将大部分妖物的注意力引到自己身上",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙偷袭白骨妖蛇，并以迅疾身法连下重手杀伤妖兽，将大部分妖物的注意力引到自己身上。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5344",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "他名列鬼王宗四大圣使之首",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙名列鬼王宗四大圣使之首。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5345",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "乾坤清光戒",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙身怀奇宝「乾坤清光戒」，以他的道行仍无法胜过白骨妖蛇。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0264/index.json",
+                "record_id": "char-0264"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5346",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "忽地三对翅膀震动",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "白骨妖蛇生有三对翅膀，震动后巨大身躯飞起，凌空扑向青龙。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5347",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "朝与七里峒相反方向飞去",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙从白骨妖蛇身躯扭动的缝隙间穿过，朝与七里峒相反的方向飞去，渐渐将妖物甩远。"
+            }
+          ],
+          "id": "update-0749",
+          "outcome_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5347"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0264/index.json",
+                "record_id": "char-0264"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0232/index.json",
+                "record_id": "char-0232"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0235/index.json",
+                "record_id": "char-0235"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 144,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "南疆七里峒山脉化作人间地狱，无数妖兽以白骨妖蛇为首围攻苗人聚居地；青龙让苗族族长图麻骨撤民入祭坛，自己偷袭妖蛇引开妖兽，向与七里峒相反方向飞去。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5340"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-0750",
+      "introduced_at": 144,
+      "kind": "event",
+      "safe_through": 144,
+      "title": "青龙遇金瓶儿，妖艳少年现身",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5349"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5350"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5354"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 144,
+              "start": 144
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5348",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "竟看见身下树林一处闪过一道紫芒",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙见身下树林一处闪过一道紫芒、鲜血溅起、妖兽嘶吼，四面八方的妖兽向该处赶去，遂折返下去查看。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5349",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "手中一件紫芒闪闪的法宝",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "林中一名女子手持紫芒闪烁的法宝与无数妖兽厮斗，四处是四分五裂的妖兽尸体与鲜血。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5350",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "你是金瓶儿",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙凭「紫芒刃」认出该女子，失声道「紫芒刃……你是金瓶儿？」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0184/index.json",
+                "record_id": "char-0184"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-5351",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "金瓶儿落到青龙身边，冷然道",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "金瓶儿落到青龙身边，冷然反问「你是谁？」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5352",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "为什么不御空而起",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青龙心中奇怪，以金瓶儿此刻的道行为何不御空而起。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5353",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "突然如潮水一般地退了下去",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "无数妖兽突然如潮水般退去，森林深处涌来一股冰冷杀意，令青龙与金瓶儿这两个道行高深之人都打了冷战。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5354",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "竟是个漂亮的几乎带着几分妖艳的少年",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "前头一棵巨木背后人影闪动，走出一个身披鲜艳丝绸衣衫、黑发散落肩头、双手修长洁白、容貌俊美近乎妖艳的少年。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-5355",
+              "revealed_at": 144,
+              "source_refs": [
+                {
+                  "anchor": "在这个少年出现以后，竟有些微微的颤抖",
+                  "chapter_id": "ch-000144",
+                  "chapter_order": 144,
+                  "path": "source/vol-004/ch-000144.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "少年出现后，青龙感觉到身旁金瓶儿的身体竟有些微微的颤抖。"
+            }
+          ],
+          "id": "update-0750",
+          "outcome_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5353"
+            },
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5355"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0153/index.json",
+                "record_id": "char-0153"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0184/index.json",
+                "record_id": "char-0184"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0266/index.json",
+                "record_id": "char-0266"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 144,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "青龙循紫芒查探，认出持紫芒刃的金瓶儿；妖兽突然退去，森林深处涌来冰冷杀意，一名容貌近乎妖艳的少年从巨木后走出，金瓶儿身体微微颤抖。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0010.json",
+              "record_id": "claim-5348"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "block-0010",
+  "kind": "event_collection",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 2,
+  "safe_through": 144,
+  "schema_version": "2.0"
+}

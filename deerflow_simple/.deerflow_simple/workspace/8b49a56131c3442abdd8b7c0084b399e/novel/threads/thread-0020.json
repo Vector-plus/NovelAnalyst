@@ -1,0 +1,30 @@
+{
+  "id": "thread-0020",
+  "introduced_at": 11,
+  "kind": "story_thread",
+  "label": "后山无名谷异常是否会被人察觉",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 11,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 11,
+          "start": 11
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0020-001",
+      "resolution_refs": [],
+      "revealed_at": 11,
+      "role": "setup",
+      "status": "open",
+      "summary": "田灵儿称此地大有古怪、提议次日叫娘来看看，但苏茹回禀田不易时称她已查看过、并无异常，将二人昏迷归因于灵儿修行不够御空脱力；谷中水潭与异变尚未被他人发现。"
+    }
+  ]
+}

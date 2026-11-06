@@ -1,0 +1,30 @@
+{
+  "id": "thread-0059",
+  "introduced_at": 38,
+  "kind": "story_thread",
+  "label": "死灵渊求生：烧火棍失效与阴灵围攻",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 38,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 38,
+          "start": 38
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0059-001",
+      "resolution_refs": [],
+      "revealed_at": 38,
+      "role": "primary",
+      "status": "open",
+      "summary": "张小凡伤势加上阴气侵袭而昏倒，烧火棍光芒熄灭，陆雪琪亦无力御剑，无数阴灵扑向二人，本章以此悬念收束。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0147",
+  "introduced_at": 96,
+  "kind": "story_thread",
+  "label": "鬼厉受噬血珠凶戾之气侵蚀、玄火鉴持续压制",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 96,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0147-001",
+      "resolution_refs": [],
+      "revealed_at": 96,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "鬼厉雨中失控劈树，靠右臂玄火鉴的正阳之气与体内太极玄清道、大梵般若勉强压住噬血珠；他自知不知还能撑多久，鬼王并不知情。"
+    }
+  ]
+}

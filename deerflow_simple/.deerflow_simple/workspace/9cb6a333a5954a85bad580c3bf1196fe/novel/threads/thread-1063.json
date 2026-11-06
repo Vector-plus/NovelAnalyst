@@ -1,0 +1,30 @@
+{
+  "id": "thread-1063",
+  "introduced_at": 984,
+  "kind": "story_thread",
+  "label": "贝罗九灵合一与吞并其余七妖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 984,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_conflict",
+      "chapter_ranges": [
+        {
+          "end": 984,
+          "start": 984
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1063-001",
+      "resolution_refs": [],
+      "revealed_at": 984,
+      "role": "本章借石像内古妖残灵与记忆画面，交代贝罗吞火妖后并未彻底融合成功，并给出云妖已被吞灭、云妖郡崩裂的结果。",
+      "status": "advanced",
+      "summary": ""
+    }
+  ]
+}

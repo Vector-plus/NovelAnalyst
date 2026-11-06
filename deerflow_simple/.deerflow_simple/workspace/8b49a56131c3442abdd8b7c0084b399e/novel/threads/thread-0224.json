@@ -1,0 +1,30 @@
+{
+  "id": "thread-0224",
+  "introduced_at": 142,
+  "kind": "story_thread",
+  "label": "云谷主（焚香谷谷主）将率焚香谷弟子前来中土，先至青云山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 142,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0224-001",
+      "resolution_refs": [],
+      "revealed_at": 142,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

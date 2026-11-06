@@ -1,0 +1,30 @@
+{
+  "id": "thread-1047",
+  "introduced_at": 978,
+  "kind": "story_thread",
+  "label": "东海潮汐之地开启与仙人洞府之争",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 978,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 978,
+          "start": 978
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1047-001",
+      "resolution_refs": [],
+      "revealed_at": 978,
+      "role": "primary",
+      "status": "open",
+      "summary": "天运子发出请帖宣告十日后开启东海潮汐之地入仙人洞府，各方老怪聚集潮汐入口，凌天候亦邀来紫袍孙姓男子及其身后「那位」。"
+    }
+  ]
+}

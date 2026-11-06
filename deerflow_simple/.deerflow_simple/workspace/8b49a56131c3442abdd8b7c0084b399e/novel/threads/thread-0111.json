@@ -1,0 +1,30 @@
+{
+  "id": "thread-0111",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "远方海中长啸渐近",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0111-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "introduced",
+      "status": "open",
+      "summary": "深夜海风呼啸，远方茫茫大海中阵阵莫名长啸之声越来越近、渐渐清晰。"
+    }
+  ]
+}

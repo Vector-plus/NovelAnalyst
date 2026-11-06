@@ -1,0 +1,30 @@
+{
+  "id": "thread-0178",
+  "introduced_at": 117,
+  "kind": "story_thread",
+  "label": "救治碧瑶：寻找黑巫族还魂之法",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 117,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 117,
+          "start": 117
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0178-001",
+      "resolution_refs": [],
+      "revealed_at": 117,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "九尾天狐指出只要碧瑶肉身不灭、魂魄尚有残余便有救，关键在黑巫族的黑巫法师；她答应次日起带鬼厉在南疆寻找当年遇见黑巫族人的地点。"
+    }
+  ]
+}

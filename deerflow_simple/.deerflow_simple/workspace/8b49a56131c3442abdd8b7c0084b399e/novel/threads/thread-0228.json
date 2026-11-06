@@ -1,0 +1,30 @@
+{
+  "id": "thread-0228",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "妖兽异族大举进犯七里峒",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0228-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "setup",
+      "status": "open",
+      "summary": "白骨妖蛇率无数妖兽异族自群山冲下袭击七里峒苗人，鬼哭尖啸与惊雷中出现隐约嘶吼“玲珑……”，袭击目的与背后主使本章未明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1093",
+  "introduced_at": 1003,
+  "kind": "story_thread",
+  "label": "王林元力枯竭与吞火补元力的尝试",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1003,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_progression",
+      "chapter_ranges": [
+        {
+          "end": 1003,
+          "start": 1003
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1093-001",
+      "resolution_refs": [],
+      "revealed_at": 1003,
+      "role": "primary",
+      "status": "open",
+      "summary": "黑沙荒漠天地元力被火焰弥漫融合，王林元力无法补充；他取一丝火焰吞入体内，使融合火苗的元力涌入元神，结果待后文。"
+    }
+  ]
+}

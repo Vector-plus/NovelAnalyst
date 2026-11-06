@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第1016—1019章：作为古妖九灵之一、贝罗未吞尽的残余现世，以姚惜雪的献祭与记忆为承载体占据其肉身，与王林先在冰海、后在海上决战（火海融冰、风之规则、封神锁魔幡、海水凝人形）；所借三杆小旗被灭神矛击毁而重伤，自认只是一段记忆、无法离开姚惜雪身体，并当面指认王林为「王族古神」；自陈已放弃古妖身份、妖体崩亡，最终妖气与姚惜雪魂魄记忆被王林以吞噬抽走而消散。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 962
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-2158/index.json",
+          "record_id": "char-2158"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 1119,
+      "summary": "附身姚惜雪的海上决战与被击毁（第962—1119章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-2158/stages/stage-024.md",
+        "record_id": "doc-char-2158-stage-024"
+      },
+      "title": "附身姚惜雪的海上决战与被击毁"
+    }
+  ],
+  "id": "char-2158",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 981,
+  "kind": "entity_index",
+  "label": "风妖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 1119,
+  "schema_version": "2.0"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0191",
+  "introduced_at": 126,
+  "kind": "story_thread",
+  "label": "骨玉与苗人圣器“黑杖”",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 126,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact_secret",
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0191-001",
+      "resolution_refs": [],
+      "revealed_at": 126,
+      "role": "foreground",
+      "status": "open",
+      "summary": "黎族欲夺回镶在苗人圣器“黑杖”上的骨玉以祭祀熊神；黎族族长见大巫师木杖红光时高呼“骨玉”，暗示二者相关但本章未明示。"
+    }
+  ]
+}

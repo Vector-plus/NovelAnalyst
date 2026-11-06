@@ -1,0 +1,30 @@
+{
+  "id": "thread-0193",
+  "introduced_at": 126,
+  "kind": "story_thread",
+  "label": "苗族与黎族两百年的仇怨",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 126,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_conflict",
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0193-001",
+      "resolution_refs": [],
+      "revealed_at": 126,
+      "role": "background",
+      "status": "ongoing",
+      "summary": "黎族族长称要清算两百年旧仇；叙述提及两百年前有一场决定二族命运的圣器决战。"
+    }
+  ]
+}

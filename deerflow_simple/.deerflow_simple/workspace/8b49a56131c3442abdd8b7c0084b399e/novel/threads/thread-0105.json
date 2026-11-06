@@ -1,0 +1,30 @@
+{
+  "id": "thread-0105",
+  "introduced_at": 68,
+  "kind": "story_thread",
+  "label": "魔教高手齐聚流波山与正道对峙",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 68,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict_escalation",
+      "chapter_ranges": [
+        {
+          "end": 68,
+          "start": 68
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0105-001",
+      "resolution_refs": [],
+      "revealed_at": 68,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

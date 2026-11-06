@@ -1,0 +1,1721 @@
+{
+  "stage_ref": {
+    "path": "navigation/stage-plan.json",
+    "record_id": "stage-002"
+  },
+  "stage_range": {
+    "start": 17,
+    "end": 31
+  },
+  "as_of": 31,
+  "arc_summary": {
+    "doc_id": "doc-arc-002",
+    "front_matter": {
+      "title": "七脉会武与血炼疑云",
+      "chapter_ranges": [
+        {
+          "start": 17,
+          "end": 31
+        }
+      ],
+      "as_of": 31,
+      "subject_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        },
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        },
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        },
+        {
+          "path": "characters/char-0055/index.json",
+          "record_id": "char-0055"
+        },
+        {
+          "path": "characters/char-0013/index.json",
+          "record_id": "char-0013"
+        }
+      ],
+      "record_refs": [
+        {
+          "path": "events/chapter-017.json",
+          "record_id": "c17-ev-local-3"
+        },
+        {
+          "path": "events/chapter-017.json",
+          "record_id": "c17-ev-local-4"
+        },
+        {
+          "path": "claims/chapter-017.json",
+          "record_id": "c17-claim-local-26"
+        },
+        {
+          "path": "events/chapter-018.json",
+          "record_id": "c18-ev-local-5"
+        },
+        {
+          "path": "events/chapter-019.json",
+          "record_id": "c19-ev-local-1"
+        },
+        {
+          "path": "events/chapter-019.json",
+          "record_id": "c19-ev-local-6"
+        },
+        {
+          "path": "events/chapter-020.json",
+          "record_id": "c20-ev-local-4"
+        },
+        {
+          "path": "claims/chapter-020.json",
+          "record_id": "c20-claim-local-34"
+        },
+        {
+          "path": "claims/chapter-020.json",
+          "record_id": "c20-claim-local-32"
+        },
+        {
+          "path": "events/chapter-024.json",
+          "record_id": "c24-ev-local-6"
+        },
+        {
+          "path": "events/chapter-026.json",
+          "record_id": "c26-ev-local-5"
+        },
+        {
+          "path": "claims/chapter-026.json",
+          "record_id": "c26-claim-local-10"
+        },
+        {
+          "path": "events/chapter-027.json",
+          "record_id": "c27-ev-local-7"
+        },
+        {
+          "path": "claims/chapter-027.json",
+          "record_id": "c27-claim-local-23"
+        },
+        {
+          "path": "claims/chapter-027.json",
+          "record_id": "c27-claim-local-40"
+        },
+        {
+          "path": "claims/chapter-027.json",
+          "record_id": "c27-claim-local-43"
+        },
+        {
+          "path": "events/chapter-028.json",
+          "record_id": "c28-ev-local-4"
+        },
+        {
+          "path": "events/chapter-029.json",
+          "record_id": "c29-ev-local-2"
+        },
+        {
+          "path": "events/chapter-029.json",
+          "record_id": "c29-ev-local-1"
+        },
+        {
+          "path": "claims/chapter-029.json",
+          "record_id": "c29-claim-local-53"
+        },
+        {
+          "path": "events/chapter-030.json",
+          "record_id": "c30-ev-local-1"
+        },
+        {
+          "path": "claims/chapter-030.json",
+          "record_id": "c30-claim-local-23"
+        },
+        {
+          "path": "claims/chapter-030.json",
+          "record_id": "c30-claim-local-27"
+        },
+        {
+          "path": "claims/chapter-030.json",
+          "record_id": "c30-claim-local-41"
+        },
+        {
+          "path": "events/chapter-031.json",
+          "record_id": "c31-ev-local-2"
+        },
+        {
+          "path": "claims/chapter-031.json",
+          "record_id": "c31-claim-local-22"
+        },
+        {
+          "path": "claims/chapter-031.json",
+          "record_id": "c31-claim-local-24"
+        },
+        {
+          "path": "claims/chapter-031.json",
+          "record_id": "c31-claim-local-26"
+        },
+        {
+          "path": "claims/chapter-031.json",
+          "record_id": "c31-claim-local-28"
+        }
+      ],
+      "source_refs": []
+    },
+    "body_markdown": "## 阶段范围\n第17—31章。起于大竹峰弟子御法宝离峰、抵达通天峰云海广场集结（[[c17-ev-local-4]]、[[c17-ev-local-3]]），止于玉清殿七脉首座会审张小凡并作出去留裁定、归还黑棒（[[c31-ev-local-2]]、[[c31-claim-local-26]]）。\n\n## 起始局面\n七脉会武为青云门十年一度的盛事，七脉首座长老将先于玉清观聚会议事以定会武规则（[[c17-claim-local-26]]）。大竹峰式微、人才凋零，张小凡三年仅成太极玄清道第一层，怀中玄黑短棒（烧火棍）已与其精血相连，出发前已获准随行。\n\n## 核心目标与冲突\n大竹峰欲借会武争名次以振门风；张小凡只求不辱师门，同时要隐瞒两件事——仅能驱动烧火棍而不能驱动他物，以及暗中修习的天音寺「大梵般若」（[[c24-claim-local-34]]、[[c27-claim-local-23]]）。上层冲突则在青云门内部展开：玉清殿首座对「血炼」之物的处置、以及对门下弟子身份的质疑（[[c30-claim-local-23]]、[[c30-claim-local-27]]）。\n\n## 关键转折\n- 抽签定局：张小凡抽中一号签，首轮轮空（[[c19-ev-local-6]]）。\n- 镇山灵兽失常：水麒麟千余年未有的狂怒、对青云弟子摆出攻击姿态，道玄真人出手挡击（[[c18-ev-local-5]]、[[c19-ev-local-1]]）。\n- 烧火棍两次显露异常：对楚誉宏时首次在人前显形（血红眼神、黑气青光，对手七窍涌血）；此后自主驱动吸取草木生机（[[c24-ev-local-6]]、[[c26-ev-local-5]]）。\n- 田不易逼问张小凡功法来历并动手责罚，但随后仍决定让其继续参加第四轮比试（[[c27-ev-local-7]]、[[c27-claim-local-40]]）。\n- 半决赛张小凡对陆雪琪：天琊出鞘、道玄道出「神剑御雷真诀」，张小凡被雷柱击中重伤（[[c29-ev-local-2]]、[[c29-claim-local-53]]、[[c30-ev-local-1]]）。\n- 玉清殿会审：道玄判黑棍为「血炼」之物，苍松公开质疑张小凡或为魔教奸细；最终道玄公开定性其不似魔教中人、黑棒归还（[[c30-claim-local-23]]、[[c30-claim-local-27]]、[[c31-claim-local-22]]、[[c31-claim-local-26]]）。\n\n## 阶段结果\n张小凡因首轮轮空与常箭弃权一路进入四强（[[c28-ev-local-4]]），半决赛重伤；黑棒的归属与「血炼」定性在门派层面得到正式处置口径。道玄同时敲定空桑山万蝠古窟查探任务与前四名弟子人选，为下一阶段任务线埋点（[[c20-ev-local-4]]、[[c30-claim-local-41]]）。大竹峰三人晋级十六强、远胜往届（该项在 stage_buffer 中仅为势力候选记录，尚无对应实体档案）。\n\n## 下一阶段承接与未决问题\n- 空桑山万蝠古窟任务与前四弟子名单（张小凡是否在内尚存疑）（[[c30-claim-local-41]]、[[c31-claim-local-28]]）。\n- 烧火棍的真正性质：「精血炼化、以血为媒」的邪道法宝口径已立，噬血珠可能藏于万蝠古窟密洞的推测仍未证实（[[c26-claim-local-10]]、[[c20-claim-local-34]]）。\n- 炼血堂抬头、万蝠古窟为魔教据点/炼血堂总堂的情报待实地印证（[[c20-claim-local-32]]）。\n- 水麒麟（灵尊）因感应凶物煞气而躁动，其后线索消失，尚未解开（[[c27-claim-local-43]]）。\n- 道玄与苍松的分歧公开化（道玄当众批评苍松杀性愈盛），高层走向待追踪（[[c31-claim-local-24]]）。\n- 田灵儿与齐昊之事被父母反对、田灵儿云海夜哭，以及消息外传的链条（[[c29-ev-local-1]]）。"
+  },
+  "character_stages": [
+    {
+      "entity_ref": {
+        "path": "characters/char-0001/index.json",
+        "record_id": "char-0001"
+      },
+      "stage_doc_id": "doc-char-0001-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 17,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-017.json",
+              "record_id": "c17-ev-local-3"
+            },
+            {
+              "path": "events/chapter-017.json",
+              "record_id": "c17-ev-local-4"
+            },
+            {
+              "path": "events/chapter-019.json",
+              "record_id": "c19-ev-local-6"
+            },
+            {
+              "path": "claims/chapter-022.json",
+              "record_id": "c22-claim-local-12"
+            },
+            {
+              "path": "events/chapter-024.json",
+              "record_id": "c24-ev-local-6"
+            },
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-47"
+            },
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-49"
+            },
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-34"
+            },
+            {
+              "path": "events/chapter-026.json",
+              "record_id": "c26-ev-local-5"
+            },
+            {
+              "path": "claims/chapter-025.json",
+              "record_id": "c25-claim-local-7"
+            },
+            {
+              "path": "events/chapter-027.json",
+              "record_id": "c27-ev-local-7"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-23"
+            },
+            {
+              "path": "events/chapter-028.json",
+              "record_id": "c28-ev-local-4"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-2"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-37"
+            },
+            {
+              "path": "events/chapter-030.json",
+              "record_id": "c30-ev-local-1"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-27"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-22"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-26"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-28"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n伤后已获准随行，随大竹峰众人御法宝离峰、抵通天峰云海广场集结（[[c17-ev-local-3]]、[[c17-ev-local-4]]）。抽签抽中一号签，首轮轮空（[[c19-ev-local-6]]、[[c22-claim-local-12]]）。\n\n## 目标与动机\n不为夺魁，只求不辱师门、不在众脉之前给大竹峰丢脸。为此有两处刻意隐瞒：一是仅能驱动烧火棍、不能驱动他物（[[c24-claim-local-34]]），二是暗中修习天音寺「大梵般若」（[[c27-claim-local-23]]、[[c29-claim-local-37]]）。\n\n## 关键选择与经历\n- 对楚誉宏一役，烧火棍首次在人前异变：血红眼神、黑气青光，对手七窍涌血倒地（[[c24-ev-local-6]]、[[c24-claim-local-47]]、[[c24-claim-local-49]]）；他选择不解释、不主动上缴。\n- 此后烧火棍自主驱动、吸取草木生机，他对这件的来历由陌生转为恐惧，联想到幽谷梦魇（[[c26-ev-local-5]]、[[c25-claim-local-7]]）。\n- 被田不易逼问功法来历并当场受责罚，仍未吐实（[[c27-ev-local-7]]）。\n- 常箭弃权，他不战而进四强（[[c28-ev-local-4]]）；半决赛对陆雪琪，天琊出鞘、神剑御雷真诀，他被雷柱击中重伤（[[c29-ev-local-2]]、[[c30-ev-local-1]]）。\n- 玉清殿会审中遭苍松公开质疑为魔教奸细，全程被动、无力自辩（[[c30-claim-local-27]]）。\n\n## 阶段终点\n道玄当众定性其不似魔教中人（[[c31-claim-local-22]]），黑棒正式归还（[[c31-claim-local-26]]），并以前四名身份被召入空桑山任务序列（[[c31-claim-local-28]]）。但「血炼」疑云的定调、以及自身功法来源两件事，都只被暂时搁置而未解决。"
+      },
+      "current_summary_update": "七脉会武中因首轮轮空与常箭弃权进入四强，半决赛被陆雪琪天琊与神剑御雷真诀击成重伤；赛中烧火棍屡次异变（人前显形、吸取草木生机），致对手七窍涌血，被田不易逼问功法来历并责罚仍隐瞒不吐；玉清殿会审后由道玄公开定性不似魔教中人、黑棒归还，并列名前四待赴空桑山。",
+      "identity_notes_appends": [
+        {
+          "note": "烧火棍首次在他人面前显现异状（血红眼神、黑气青光），并致对手七窍涌血——其「异宝」属性由私下异动转为公开可见事实。",
+          "basis_refs": [
+            {
+              "path": "events/chapter-024.json",
+              "record_id": "c24-ev-local-6"
+            },
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-47"
+            }
+          ],
+          "revealed_at": 24
+        },
+        {
+          "note": "叙述明确张小凡独自修习天音寺「大梵般若」且自知其来历，为其功法来源的双重身份（青云弟子兼修佛门根本法）首次在叙述层确立。",
+          "basis_refs": [
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-23"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-37"
+            }
+          ],
+          "revealed_at": 29
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0019/index.json",
+        "record_id": "char-0019"
+      },
+      "stage_doc_id": "doc-char-0019-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 17,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-017.json",
+              "record_id": "c17-ev-local-3"
+            },
+            {
+              "path": "events/chapter-027.json",
+              "record_id": "c27-ev-local-7"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-40"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-15"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-34"
+            },
+            {
+              "path": "events/chapter-031.json",
+              "record_id": "c31-ev-local-2"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以首座身份率大竹峰弟子先行赴通天峰会武，携妻苏茹同往（[[c17-ev-local-3]]）。\n\n## 目标与动机\n为式微的大竹峰争一口气，且不容门下弟子在众脉之前出丑、丢师门脸面；对张小凡这个「资质最差」的弟子，仍是护在自己门下的人。\n\n## 关键选择与经历\n- 会武中途发现张小凡所使功法来历不明，当场逼问并动手责罚（[[c27-ev-local-7]]）。\n- 责罚之后仍决定让张小凡继续参加第四轮比试，这一决定直接改变了会武后续走向（[[c27-claim-local-40]]）。\n- 其护短之心由苏茹转述给张小凡——「你师父心疼你还来不及呢」，形成他本人未曾直说的另一面（[[c28-claim-local-15]]）。\n- 玉清殿会审后受掌门之命先行盘问张小凡、再带至玉清殿，成为门派审查链条上的一环（[[c30-claim-local-34]]、[[c31-ev-local-2]]）。\n\n## 阶段终点\n门内弟子进入四强、大竹峰声势回升，但他被置于「师门责任」与「护徒」之间：既要向掌门交出盘问结果，也要替这个来历可疑的弟子担责。"
+      },
+      "current_summary_update": "以大竹峰首座身份率弟子赴七脉会武，门下有三人进十六强、张小凡更入四强；赛中逼问张小凡功法来历并动手责罚，却仍准其继续比试，护短之心经苏茹之口传出；玉清殿会审后奉命先行盘问张小凡再带至玉清殿，夹在师门责任与护徒之间。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0007/index.json",
+        "record_id": "char-0007"
+      },
+      "stage_doc_id": "doc-char-0007-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 17,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0007/index.json",
+              "record_id": "char-0007"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-019.json",
+              "record_id": "c19-ev-local-1"
+            },
+            {
+              "path": "claims/chapter-019.json",
+              "record_id": "c19-claim-local-18"
+            },
+            {
+              "path": "events/chapter-020.json",
+              "record_id": "c20-ev-local-4"
+            },
+            {
+              "path": "claims/chapter-020.json",
+              "record_id": "c20-claim-local-38"
+            },
+            {
+              "path": "claims/chapter-020.json",
+              "record_id": "c20-claim-local-34"
+            },
+            {
+              "path": "claims/chapter-026.json",
+              "record_id": "c26-claim-local-24"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-53"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-23"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-34"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-22"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-24"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-26"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以青云门掌教之尊主持七脉会武，镇山灵兽水麒麟就在其座下。\n\n## 目标与动机\n维持七脉秩序与门内体面，同时处理两件麻烦事：镇山灵兽的失常，以及弟子身上出现的不明凶物。对外则借此会武择人，与天音寺、焚香谷弟子相较（[[c20-claim-local-38]]）。\n\n## 关键选择与经历\n- 水麒麟狂怒时出手挡击，并于苍松追问灵尊之事时以手势压下，显出对灵兽异动原因的回避（[[c19-ev-local-1]]、[[c19-claim-local-18]]）。\n- 决定派七脉会武前四名弟子前往空桑山，并推测噬血珠可能藏于万蝠古窟密洞——本阶段最重要的任务线起点（[[c20-ev-local-4]]、[[c20-claim-local-34]]）。\n- 深夜以通灵术试探灵尊、召六脉首座议事，把灵兽异常上升为门派层议题（[[c26-claim-local-24]]）。\n- 半决赛中道出「神剑御雷真诀」之名，确认陆雪琪所施奇术（[[c29-claim-local-53]]）。\n- 玉清殿会审中判断黑棍为「血炼」之物，命田不易先行盘问张小凡（[[c30-claim-local-23]]、[[c30-claim-local-34]]）；最终公开定性张小凡不似魔教中人、归还黑棒，并当众批评苍松杀性愈盛（[[c31-claim-local-22]]、[[c31-claim-local-24]]、[[c31-claim-local-26]]）。\n\n## 阶段终点\n一手定下「血炼」的口径，一手放过当事人，同时与苍松的分歧公开化；空桑山任务与前四名弟子人选成为他交给下一阶段的牌。"
+      },
+      "current_summary_update": "主持七脉会武，出手挡下水麒麟狂怒并压下苍松追问；定下派前四名弟子赴空桑山、疑噬血珠藏于万蝠古窟密洞的任务线；深夜以通灵术试灵尊并召六脉首座议事；会审判黑棍为「血炼」之物、命田不易盘问，最终公开定性张小凡不似魔教中人并归还黑棒，同时当众批评苍松杀性愈盛。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0055/index.json",
+        "record_id": "char-0055"
+      },
+      "stage_doc_id": "doc-char-0055-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 23,
+              "end": 30
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-023.json",
+              "record_id": "c23-ev-local-3"
+            },
+            {
+              "path": "events/chapter-023.json",
+              "record_id": "c23-ev-local-4"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-24"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-33"
+            },
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-3"
+            },
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-10"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-27"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-2"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-47"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-53"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-55"
+            },
+            {
+              "path": "events/chapter-030.json",
+              "record_id": "c30-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n以小竹峰八代弟子身份参加七脉会武（自述，[[c23-claim-local-24]]），初次登场即以云气载身而行（[[c23-ev-local-3]]）。\n\n## 目标与动机\n本阶段文本未展开其个人动机，仅呈现为一路碾压的夺冠热门之一；重心在于其实力的展示而非意愿的表达。\n\n## 关键选择与经历\n- 乾台对上方超：银白仙剑被震断，方超吐血昏倒（[[c23-ev-local-4]]、[[c23-claim-local-33]]）。\n- 对长门热门段雷，天琊未出鞘即取胜（[[c25-ev-local-3]]），其实力被门内公认。\n- 半决赛对张小凡：天琊出鞘（首次），施出道玄所称的「神剑御雷真诀」（[[c29-ev-local-2]]、[[c29-claim-local-47]]、[[c29-claim-local-53]]），最终以雷柱击中张小凡致其重伤（[[c30-ev-local-1]]）。\n- 比试中有一处疑点：烧火棍对天琊出鞘起了反应，如「等待千年」（[[c29-claim-local-55]]）。\n\n## 阶段终点\n以压倒性实力进入最终对决，与张小凡的交集由「陌生对手」变成留下疑点的一战；天琊之名自此与会武结果绑定（[[c28-claim-local-27]]）。八强对位曾被认为存在变数（[[c25-ev-local-10]]），但最终未成变数。"
+      },
+      "current_summary_update": "以小竹峰弟子身份出战七脉会武：以云气载身登场，乾台震断方超仙剑并令其吐血昏倒；对段雷天琊未出鞘即胜；半决赛对张小凡天琊首次出鞘、施「神剑御雷真诀」，以雷柱将其击成重伤。",
+      "identity_notes_appends": [
+        {
+          "note": "天琊为其随身神剑，未出鞘即具压倒性威力，出鞘时与烧火棍产生「等待千年」式反应，暗示法宝层面的旧有关联。",
+          "basis_refs": [
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-3"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-47"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-55"
+            }
+          ],
+          "revealed_at": 29
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0024/index.json",
+        "record_id": "char-0024"
+      },
+      "stage_doc_id": "doc-char-0024-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-10"
+            },
+            {
+              "path": "claims/chapter-025.json",
+              "record_id": "c25-claim-local-46"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n随大竹峰赴会，是会武中较被看好的一脉弟子之一；持琥珀朱绫，并已练成「缚神」类制敌手法。\n\n## 目标与动机\n在会武中争胜、替大竹峰出头；同时与龙首峰齐昊的往来已成为她自己的重心，并因此与父母产生冲突。\n\n## 关键选择与经历\n- 与齐昊夜间私会，被张小凡目睹——这是她本阶段情感线的起点（[[c21-ev-local-3]]）。\n- 首轮对申天斗以「缚神」取胜，首次在本阶段展示该手法实战效果（[[c22-ev-local-3]]）。\n- 比试后与齐昊结伴离开，公开场合的同行（[[c22-ev-local-4]]）。\n- 下一轮对陆雪琪，文敏曾暗示此场存在变数（[[c25-ev-local-10]]）；同期水月大师对田不易的敌意（仍怪其「拐跑」苏茹）牵连到长辈层面的旧怨（[[c25-claim-local-46]]）。\n- 与齐昊之事被父母反对后，独自于云海夜哭，并指认消息经文敏等人→水月大师→苏茹传出（[[c29-ev-local-1]]）。\n\n## 阶段终点\n会武战绩尚可，但私人情感转入受阻期：父母反对已成事实，消息链被揭出，她在师门与家庭的双重注视下没有了私下的余地。"
+      },
+      "current_summary_update": "七脉会武中以「缚神」击败申天斗，成为该手法实战效果的首次展示；赛中与龙首峰齐昊夜间私会并被张小凡目睹、比试后结伴离开；与齐昊之事被父母反对后在云海夜哭，并指认消息经文敏等人传至水月大师再至苏茹。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0038/index.json",
+        "record_id": "char-0038"
+      },
+      "stage_doc_id": "doc-char-0038-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 28
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0038/index.json",
+              "record_id": "char-0038"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "events/chapter-028.json",
+              "record_id": "c28-ev-local-5"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n龙首峰苍松门下弟子，作为会武参赛者赴通天峰。\n\n## 目标与动机\n本阶段文本只呈现其会武进程与与田灵儿的往来，未见对目标的自述；动机层面材料不足，未作推断。\n\n## 关键选择与经历\n- 与田灵儿夜间私会（[[c21-ev-local-3]]），此后在比试场边与田灵儿结伴离开（[[c22-ev-local-4]]）。\n- 一路进入四强，半决赛对曾书书（[[c28-ev-local-5]]）。\n- 与田灵儿之事被田不易夫妇反对，成为田灵儿云海夜哭的直接背景（[[c29-ev-local-1]]）。\n\n## 阶段终点\n会武进入四强；与田灵儿的往来在长辈层面受挫，而他本人对此的态度与行动在本阶段文本中未有表达。"
+      },
+      "current_summary_update": "七脉会武中进入四强，半决赛对曾书书；与田灵儿夜间私会、赛场上结伴同行，两人之事被田不易夫妇反对，成为田灵儿云海夜哭的背景之一，其本人态度尚未见表达。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0025/index.json",
+        "record_id": "char-0025"
+      },
+      "stage_doc_id": "doc-char-0025-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 17,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0025/index.json",
+              "record_id": "char-0025"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-017.json",
+              "record_id": "c17-ev-local-3"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-38"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-15"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n随夫田不易先行赴通天峰会武（[[c17-ev-local-3]]），以小竹峰出身的长辈身份处身于两脉之间。\n\n## 目标与动机\n护住大竹峰这一门与门下弟子；在夫与弟子之间充当转圜者，是她在本阶段唯一清晰可见的行动逻辑。\n\n## 关键选择与经历\n- 主动向张小凡点破师父的心意——「你师父心疼你还来不及呢」，直接动摇了张小凡对田不易的认知（[[c28-claim-local-15]]）。\n- 却被卷入另一件事：田灵儿与齐昊之事被指为经水月大师而传至她耳中，成为女儿眼中的「告密链」末端（[[c29-ev-local-1]]）。\n- 首座之间的口角（苍松与水月大师）也牵涉长辈旧怨，她身处其中（[[c23-claim-local-38]]）。\n\n## 阶段终点\n一边缓和了师徒关系，一边在母女关系上留下裂缝：她的转述与规劝，被女儿理解成压制。"
+      },
+      "current_summary_update": "随田不易赴七脉会武，主动向张小凡点破「你师父心疼你」，动摇了其对师父的认知；同时因田灵儿与齐昊之事被指为消息链末端（经文敏等人→水月大师→苏茹），在母女关系上留下裂缝。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0013/index.json",
+        "record_id": "char-0013"
+      },
+      "stage_doc_id": "doc-char-0013-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 18,
+              "end": 27
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0013/index.json",
+              "record_id": "char-0013"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-018.json",
+              "record_id": "c18-claim-local-24"
+            },
+            {
+              "path": "events/chapter-018.json",
+              "record_id": "c18-ev-local-5"
+            },
+            {
+              "path": "events/chapter-019.json",
+              "record_id": "c19-ev-local-1"
+            },
+            {
+              "path": "claims/chapter-019.json",
+              "record_id": "c19-claim-local-18"
+            },
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-4"
+            },
+            {
+              "path": "claims/chapter-026.json",
+              "record_id": "c26-claim-local-25"
+            },
+            {
+              "path": "claims/chapter-026.json",
+              "record_id": "c26-claim-local-24"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-43"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n青云门镇山灵兽，居通天峰，会武期间在众弟子前现身（[[c18-claim-local-24]]）。\n\n## 目标与动机\n非人角色，无自述动机；其行为在本阶段被门内解释为对「凶物煞气」的感应（[[c27-claim-local-43]]）。\n\n## 关键选择与经历\n- 会武集结期间对青云弟子摆出攻击姿态（[[c18-ev-local-5]]）。\n- 随即爆发千余年未有的狂怒，道玄真人出手挡击（[[c19-ev-local-1]]）；苍松追问灵尊之事时被道玄以手势压下（[[c19-claim-local-18]]）。\n- 对张小凡身上烧火棍表现出异常关注，属灵物/宝物线索（[[c21-ev-local-4]]）。\n- 掌门深夜以通灵术试探之，并召六脉首座议事（[[c26-claim-local-24]]）。\n- 因感应凶物煞气而躁动，其后线索消失、未被解开（[[c27-claim-local-43]]）。\n\n## 阶段终点\n异动被门内高层知晓并密议，但原因悬空；其反应构成「烧火棍＝凶物」的一条独立旁证。"
+      },
+      "current_summary_update": "会武期间对青云弟子摆出攻击姿态并爆发千余年未有的狂怒，被道玄真人出手挡击；对张小凡的烧火棍表现出异常关注；掌门深夜以通灵术试探、召六脉首座议事；后因感应凶物煞气躁动，线索消失未解。",
+      "identity_notes_appends": [
+        {
+          "note": "「灵尊」为水麒麟之别称／同一实体，青云门镇山灵兽之设定在章内明示，可据此与灵尊（char-0050）条目合并。",
+          "basis_refs": [
+            {
+              "path": "claims/chapter-018.json",
+              "record_id": "c18-claim-local-24"
+            },
+            {
+              "path": "claims/chapter-026.json",
+              "record_id": "c26-claim-local-25"
+            }
+          ],
+          "revealed_at": 26
+        }
+      ]
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0053/index.json",
+        "record_id": "char-0053"
+      },
+      "stage_doc_id": "doc-char-0053-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 22,
+              "end": 28
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0053/index.json",
+              "record_id": "char-0053"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-022.json",
+              "record_id": "c22-claim-local-10"
+            },
+            {
+              "path": "claims/chapter-022.json",
+              "record_id": "c22-claim-local-7"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-4"
+            },
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-11"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-11"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-27"
+            },
+            {
+              "path": "events/chapter-028.json",
+              "record_id": "c28-ev-local-5"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n风回峰弟子，经宋大仁转述被定位为大热门（[[c22-claim-local-10]]）。\n\n## 目标与动机\n以会武名次为目标，同时充当场内的信息中转者——门内关于法宝与秘术的说法多由他口中传出。\n\n## 关键选择与经历\n- 已先赢一场，赛程上有实际战绩（[[c23-claim-local-4]]）。\n- 其比试之处聚集风回峰弟子，赛场关注度可见（[[c27-claim-local-11]]）。\n- 向他人转述多条信息：三眼灵猴的书载说法（未经证实）、天琊与噬血珠／枯心上人的关联、天琊与陆雪琪的关联（[[c22-claim-local-7]]、[[c24-claim-local-11]]、[[c28-claim-local-27]]）。\n- 进入四强，半决赛对齐昊（[[c28-ev-local-5]]）。\n\n## 阶段终点\n稳居四强之列，且成为门内情报的散布节点；其转述内容真伪混杂，为后续线索留下需要核对的来源。"
+      },
+      "current_summary_update": "风回峰弟子、会武大热门，先赢一场后进入四强，半决赛对齐昊；同时是会武期间的门内情报中转者，转述过三眼灵猴、天琊与噬血珠／枯心上人的关联等说法。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0018/index.json",
+        "record_id": "char-0018"
+      },
+      "stage_doc_id": "doc-char-0018-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 19,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0018/index.json",
+              "record_id": "char-0018"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-019.json",
+              "record_id": "c19-claim-local-18"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-38"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-27"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-24"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n龙首峰首座，会武期间在场主持并关注灵兽异动，曾追问灵尊之事而被道玄以手势压下（[[c19-claim-local-18]]）。\n\n## 目标与动机\n其立场在本阶段渐显强硬：追问灵兽异动的真因，并在会审中将矛头指向门下弟子的来历。\n\n## 关键选择与经历\n- 与水月大师就首座之见口角，由道玄调停，首座之间的张力外化（[[c23-claim-local-38]]）。\n- 玉清殿议事中公开提出张小凡可能为魔教奸细——主角在门内首次被身份质疑（[[c30-claim-local-27]]）。\n- 该质疑随即被道玄当众驳回，并被反批「杀性愈盛」（[[c31-claim-local-24]]）。\n\n## 阶段终点\n其主张未获采纳，但与掌门的路线分歧被公开记录，成为下一阶段门内走向的未决变量。"
+      },
+      "current_summary_update": "会武期间追问灵尊异动被道玄压下，与水月大师就首座之见口角；玉清殿议事中公开提出张小凡或为魔教奸细，随即被道玄当众驳回并反批杀性愈盛，与掌门的分歧公开化。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0023/index.json",
+        "record_id": "char-0023"
+      },
+      "stage_doc_id": "doc-char-0023-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 23,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0023/index.json",
+              "record_id": "char-0023"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-38"
+            },
+            {
+              "path": "claims/chapter-025.json",
+              "record_id": "c25-claim-local-46"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n小竹峰首座，门下陆雪琪为会武热门，其在首座之列中的立场偏于维护本脉。\n\n## 目标与动机\n护小竹峰弟子、维护本脉声名；对田不易的旧怨（仍怪其「拐跑」苏茹）持续未消（[[c25-claim-local-46]]）。\n\n## 关键选择与经历\n- 与苍松道人口角，由道玄调停，首座间的紧张关系公开（[[c23-claim-local-38]]）。\n- 对田不易的敌意在本阶段续存，属两脉师长旧怨的延续（[[c25-claim-local-46]]）。\n- 被卷入田灵儿之事的消息链：田灵儿指认消息经文敏等人传至水月大师，再到苏茹（[[c29-ev-local-1]]）。\n\n## 阶段终点\n弟子在会武中风光，自己却被指为消息外传的中间一环，与田不易一脉的嫌隙未见缓和。"
+      },
+      "current_summary_update": "会武期间与苍松口角由道玄调停，与田不易的旧怨（怪其拐跑苏茹）持续未消；并被田灵儿指为消息外传链的中间一环（经文敏等人传至她、再到苏茹）。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0002/index.json",
+        "record_id": "char-0002"
+      },
+      "stage_doc_id": "doc-char-0002-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 17,
+              "end": 18
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0002/index.json",
+              "record_id": "char-0002"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-017.json",
+              "record_id": "c17-claim-local-29"
+            },
+            {
+              "path": "claims/chapter-018.json",
+              "record_id": "c18-claim-local-21"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n龙首峰苍松门下弟子，随门赴七脉会武。\n\n## 目标与动机\n本阶段未展开其个人动机；仅见其作为知情者与讲述者的位置。\n\n## 关键选择与经历\n- 因两年前龙首峰传信之事在会武集结时被点名，大竹峰众人反应异常（[[c17-claim-local-29]]）。\n- 向众人讲述「诛仙剑阵」与御剑禁忌（转述，未经证实），把门中禁忌层面的知识带入叙事（[[c18-claim-local-21]]）。\n\n## 阶段终点\n本阶段会武进程未见其赛场表现记录；其功能在于串起两年前的旧事与门中秘闻，为后续回溯留扣。"
+      },
+      "current_summary_update": "会武集结时因两年前的龙首峰传信之事被点名，引动大竹峰众人异常反应；并向众人转述「诛仙剑阵」与御剑禁忌，作为门中秘闻的讲述者。",
+      "identity_notes_appends": []
+    },
+    {
+      "entity_ref": {
+        "path": "characters/char-0043/index.json",
+        "record_id": "char-0043"
+      },
+      "stage_doc_id": "doc-char-0043-stage-002",
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武与血炼疑云阶段",
+          "chapter_ranges": [
+            {
+              "start": 25,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0043/index.json",
+              "record_id": "char-0043"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-10"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 阶段起点\n小竹峰门下的女弟子之一，会武期间在各脉之间往来传话。\n\n## 目标与动机\n本阶段未见其自述动机，材料仅涉及其在赛程与消息传递两个环节中的位置。\n\n## 关键选择与经历\n- 对下一轮田灵儿对陆雪琪一场暗示存在变数，为赛程判断提供了另一种口径（[[c25-ev-local-10]]）。\n- 被田灵儿指认为消息外传链的一环：她等人→水月大师→苏茹（[[c29-ev-local-1]]）。\n\n## 阶段终点\n赛场内的判断未见后续印证；而「传话者」的身份被当事人指认，成为母女冲突中的具体责任人之一。"
+      },
+      "current_summary_update": "会武中曾暗示田灵儿对陆雪琪一场存在变数；后被田灵儿指认为消息外传链的一环（她等人→水月大师→苏茹）。",
+      "identity_notes_appends": []
+    }
+  ],
+  "faction_stages": [],
+  "faction_landscape": {
+    "produce": false,
+    "reason": "factions/* 下不存在任何实体档案（factions/fac-0001..0008 均返回「实体不存在」），stage_buffer 中的「大竹峰」等仅以候选名出现，无 entity_ref 可锚定；本阶段的势力层变化（大竹峰三人进十六强、苍松与道玄的路线分歧、炼血堂抬头与万蝠古窟情报、空桑山任务下达）已写入 arc_summary 与相关人物 stage，待实体档案建立后再产出格局文档。"
+  },
+  "relationship_snapshots": [
+    {
+      "local_id": "rel-0001",
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            }
+          ],
+          "introduced_at": 5
+        }
+      },
+      "stage_doc_id": "doc-rel-0001-stage-001",
+      "safe_through": 31,
+      "facets": [
+        {
+          "facet": "师徒",
+          "direction": "symmetric",
+          "attitude": "田不易：严厉管教中带护短，动手责罚后仍准其继续比试；张小凡：由畏惧转为认知动摇，被点破师父心疼自己后心思松动",
+          "basis_refs": [
+            {
+              "path": "events/chapter-027.json",
+              "record_id": "c27-ev-local-7"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-40"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-15"
+            }
+          ]
+        },
+        {
+          "facet": "知情与隐瞒",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0019/index.json",
+            "record_id": "char-0019"
+          },
+          "attitude": "张小凡：被逼问功法来历仍不吐实，刻意隐瞒烧火棍只能自驱与暗中修习的佛门功法",
+          "basis_refs": [
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-34"
+            },
+            {
+              "path": "events/chapter-027.json",
+              "record_id": "c27-ev-local-7"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/chapter-027.json",
+          "record_id": "c27-ev-local-7"
+        },
+        {
+          "path": "events/chapter-028.json",
+          "record_id": "c28-ev-local-4"
+        }
+      ],
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武期间的师徒关系",
+          "chapter_ranges": [
+            {
+              "start": 24,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0019/index.json",
+              "record_id": "char-0019"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-024.json",
+              "record_id": "c24-claim-local-34"
+            },
+            {
+              "path": "events/chapter-027.json",
+              "record_id": "c27-ev-local-7"
+            },
+            {
+              "path": "claims/chapter-027.json",
+              "record_id": "c27-claim-local-40"
+            },
+            {
+              "path": "claims/chapter-028.json",
+              "record_id": "c28-claim-local-15"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-34"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段概况\n会武前半段的疏离在烧火棍异变后被打破：师父第一次认真追究这个「最差弟子」的来历，师徒关系从「无视」转入「审查」。\n\n## 关系状态\n表层是责罚与隐瞒的对峙，底层是护短。田不易动手责罚（[[c27-ev-local-7]]），却仍让张小凡继续比试（[[c27-claim-local-40]]）；张小凡私下被苏茹点破师父心意后，对田不易的认知出现动摇（[[c28-claim-local-15]]）。\n\n## 关键互动\n- 逼问与责罚：师父要答案，弟子不开口（[[c27-ev-local-7]]）。\n- 准其续战：责罚之后仍不换人，是护短的实际证明（[[c27-claim-local-40]]）。\n- 转述其心意：由苏茹代传（[[c28-claim-local-15]]）。\n- 受命盘问：会审后师父成为审查链的执行者（[[c30-claim-local-34]]）。\n\n## 边界\n张小凡隐瞒的内容（[[c24-claim-local-34]]）在田不易一侧仍未知情，双方信息并不对称；本阶段未出现关系修复的正面场景，只有认知层面的松动。"
+      }
+    },
+    {
+      "local_id": "rel-0002",
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            }
+          ],
+          "introduced_at": 5
+        }
+      },
+      "stage_doc_id": "doc-rel-0002-stage-001",
+      "safe_through": 31,
+      "facets": [
+        {
+          "facet": "同门",
+          "direction": "symmetric",
+          "attitude": "同峰师姐弟，日常往来亲近，赛场内外同处一脉",
+          "basis_refs": [
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            }
+          ]
+        },
+        {
+          "facet": "单向情绪依附",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0024/index.json",
+            "record_id": "char-0024"
+          },
+          "attitude": "张小凡：目睹其与齐昊私会后情绪转折，赛场上持续关注其动向，并在看陆雪琪比试时联想到她",
+          "basis_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-40"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/chapter-021.json",
+          "record_id": "c21-ev-local-3"
+        },
+        {
+          "path": "events/chapter-022.json",
+          "record_id": "c22-ev-local-4"
+        },
+        {
+          "path": "events/chapter-029.json",
+          "record_id": "c29-ev-local-1"
+        }
+      ],
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武期间的同门关系",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-40"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段概况\n关系形态从「同峰师姐弟的日常」变为「知情者与被观察者」：张小凡撞见田灵儿与齐昊私会，此后始终处在旁观的位次上。\n\n## 关系状态\n单向倾斜。张小凡一侧有可证的情绪反应（目睹私会后情绪转折、赛场持续关注、看别人比试时联想到她）（[[c21-ev-local-3]]、[[c22-ev-local-4]]、[[c23-claim-local-40]]）；田灵儿对其态度本阶段无任何超出同门范围的表达，故不作对称记录。\n\n## 关键互动\n- 夜间私会被目睹：信息不对称的起点（[[c21-ev-local-3]]）。\n- 赛后与齐昊结伴离开：把私下往来带到公开场合（[[c22-ev-local-4]]）。\n- 云海夜哭：她的情感困境，他仍只是旁观者（[[c29-ev-local-1]]）。\n\n## 边界\n「关注」与「联想」同样可以出自同门关照，不构成爱慕的证据；田灵儿一侧的空白是本节结论的首要限制。"
+      }
+    },
+    {
+      "local_id": "rel-0003",
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            },
+            {
+              "path": "characters/char-0038/index.json",
+              "record_id": "char-0038"
+            }
+          ],
+          "introduced_at": 21
+        }
+      },
+      "stage_doc_id": "doc-rel-0003-stage-001",
+      "safe_through": 31,
+      "facets": [
+        {
+          "facet": "私下来往",
+          "direction": "symmetric",
+          "attitude": "两人夜间私会、比试后结伴同行；关系被田不易夫妇反对后，田灵儿一方出现云海夜哭的强烈反应",
+          "basis_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ]
+        },
+        {
+          "facet": "长辈阻力",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0019/index.json",
+            "record_id": "char-0019"
+          },
+          "to_ref": {
+            "path": "characters/char-0038/index.json",
+            "record_id": "char-0038"
+          },
+          "attitude": "田不易夫妇对这段往来的反对，构成关系的主要外部限制（以田灵儿夜哭为后果显现）",
+          "basis_refs": [
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/chapter-021.json",
+          "record_id": "c21-ev-local-3"
+        },
+        {
+          "path": "events/chapter-029.json",
+          "record_id": "c29-ev-local-1"
+        }
+      ],
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武期间的往来关系",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            },
+            {
+              "path": "characters/char-0038/index.json",
+              "record_id": "char-0038"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "events/chapter-021.json",
+              "record_id": "c21-ev-local-3"
+            },
+            {
+              "path": "events/chapter-022.json",
+              "record_id": "c22-ev-local-4"
+            },
+            {
+              "path": "events/chapter-025.json",
+              "record_id": "c25-ev-local-10"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段概况\n由夜间私会（[[c21-ev-local-3]]）到公开结伴（[[c22-ev-local-4]]），再到被父母反对后云海夜哭（[[c29-ev-local-1]]），一条完整的「升温—受阻」曲线在本阶段内成形。\n\n## 关系状态\n双方均有赴约与同行的实际行为，故记为对称维度；但态度强度只能由田灵儿一侧证实（夜哭、指认消息链），齐昊一侧除赴约外无表达。\n\n## 关键互动\n- 夜间私会：关系的确立点，且恰被张小凡目睹（[[c21-ev-local-3]]）。\n- 比试后结伴离开：关系被同门看见（[[c22-ev-local-4]]）。\n- 长辈反对与消息外传：关系被推入师门/家庭层面（[[c29-ev-local-1]]）。\n- 会武八强对位曾被认为存在变数，两人各自在赛程中推进（[[c25-ev-local-10]]）。\n\n## 边界\n本阶段文本未直陈恋爱关系，也未写到齐昊对阻力的反应；不得据此推定双向情感强度对等。"
+      }
+    },
+    {
+      "local_id": "rel-0004",
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            }
+          ],
+          "introduced_at": 23
+        }
+      },
+      "stage_doc_id": "doc-rel-0004-stage-001",
+      "safe_through": 31,
+      "facets": [
+        {
+          "facet": "比试对手",
+          "direction": "symmetric",
+          "attitude": "乾台半决赛交手：陆雪琪以天琊与神剑御雷真诀压倒性压制，张小凡被雷柱击中重伤；双方实力差距在本阶段被公开确认",
+          "basis_refs": [
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-2"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-47"
+            },
+            {
+              "path": "events/chapter-030.json",
+              "record_id": "c30-ev-local-1"
+            }
+          ]
+        },
+        {
+          "facet": "单方留心",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "to_ref": {
+            "path": "characters/char-0055/index.json",
+            "record_id": "char-0055"
+          },
+          "attitude": "张小凡：观看其比试时留意其言行，并由此联想到田灵儿",
+          "basis_refs": [
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-40"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/chapter-029.json",
+          "record_id": "c29-ev-local-2"
+        }
+      ],
+      "stage_markdown": {
+        "front_matter": {
+          "title": "七脉会武期间的交集",
+          "chapter_ranges": [
+            {
+              "start": 23,
+              "end": 30
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0055/index.json",
+              "record_id": "char-0055"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-023.json",
+              "record_id": "c23-claim-local-40"
+            },
+            {
+              "path": "events/chapter-029.json",
+              "record_id": "c29-ev-local-2"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-47"
+            },
+            {
+              "path": "claims/chapter-029.json",
+              "record_id": "c29-claim-local-55"
+            },
+            {
+              "path": "events/chapter-030.json",
+              "record_id": "c30-ev-local-1"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段概况\n关系由「场边观看」走到「乾台正面对决」：先是张小凡看她击败方超（[[c23-claim-local-40]]），后两人在半决赛相遇（[[c29-ev-local-2]]）。\n\n## 关系状态\n主体是对手关系，双方参与同一场比试，故有对称维度。天琊出鞘、神剑御雷真诀施出，张小凡被雷柱击中重伤（[[c29-claim-local-47]]、[[c30-ev-local-1]]），实力位差明确。\n\n## 关键互动\n- 场边观看与联想：单向的留心（[[c23-claim-local-40]]）。\n- 半决赛对决：两人唯一实质交手（[[c29-ev-local-2]]）。\n- 烧火棍对天琊出鞘起反应，「如等待千年」——超出普通对手层面的法宝线索（[[c29-claim-local-55]]）。\n\n## 边界\n陆雪琪对张小凡本阶段无任何个体化表达，反向态度留空；不得据「法宝反应」推定人物关系性质。"
+      }
+    },
+    {
+      "local_id": "rel-0005",
+      "relationship_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0007/index.json",
+              "record_id": "char-0007"
+            }
+          ],
+          "introduced_at": 30
+        }
+      },
+      "stage_doc_id": "doc-rel-0005-stage-001",
+      "safe_through": 31,
+      "facets": [
+        {
+          "facet": "审查与裁定",
+          "direction": "directed",
+          "from_ref": {
+            "path": "characters/char-0007/index.json",
+            "record_id": "char-0007"
+          },
+          "to_ref": {
+            "path": "characters/char-0001/index.json",
+            "record_id": "char-0001"
+          },
+          "attitude": "道玄：判黑棍为「血炼」之物、命田不易先行盘问后带至玉清殿；最终公开定性其不似魔教中人并归还黑棒",
+          "basis_refs": [
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-23"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-34"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-22"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-26"
+            }
+          ]
+        }
+      ],
+      "turning_event_refs": [
+        {
+          "path": "events/chapter-031.json",
+          "record_id": "c31-ev-local-2"
+        }
+      ],
+      "stage_markdown": {
+        "front_matter": {
+          "title": "玉清殿会审中的审查关系",
+          "chapter_ranges": [
+            {
+              "start": 30,
+              "end": 31
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0007/index.json",
+              "record_id": "char-0007"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-23"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-34"
+            },
+            {
+              "path": "claims/chapter-030.json",
+              "record_id": "c30-claim-local-27"
+            },
+            {
+              "path": "events/chapter-031.json",
+              "record_id": "c31-ev-local-2"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-22"
+            },
+            {
+              "path": "claims/chapter-031.json",
+              "record_id": "c31-claim-local-26"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 本阶段概况\n一位掌教与一名低辈弟子因一件黑棍被绑定在同一场审查里，过程仅两章却决定了后者在门内的处境。\n\n## 关系状态\n单向的裁定关系：道玄握有定义权与处置权，张小凡只能接受结果。定「血炼」（[[c30-claim-local-23]]）→ 命盘问（[[c30-claim-local-34]]）→ 会审定论并归还黑棒（[[c31-ev-local-2]]、[[c31-claim-local-22]]、[[c31-claim-local-26]]）。\n\n## 关键互动\n- 定性：血炼之说先立，是苍松提出奸细之疑的前提（[[c30-claim-local-27]]）。\n- 放行：掌教主动压下最重的指控，并交还法宝。\n- 任务：随后把张小凡纳入前四名弟子的空桑山序列（外溢至下一阶段）。\n\n## 边界\n张小凡在整个过程中少有自陈，其态度仅见被动承受；本阶段未出现双方信任构建的内容，不宜解读为「获得庇护」。"
+      }
+    }
+  ],
+  "emotional_stages": [
+    {
+      "local_id": "emo-0001",
+      "emotional_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            },
+            {
+              "path": "characters/char-0038/index.json",
+              "record_id": "char-0038"
+            }
+          ],
+          "introduced_at": 21
+        }
+      },
+      "stage_doc_id": "doc-emo-0001-stage-001",
+      "safe_through": 31,
+      "assessment": {
+        "local_id": "asi-0001",
+        "category": "uncertain",
+        "summary": "田灵儿与齐昊自会武期间夜间私会、赛场上结伴同行，被田不易夫妇反对后田灵儿云海夜哭；往来已超出普通同门交游，但原文未以叙述或当事人对白直陈恋爱关系，故定性为 uncertain（倾向浪漫，待后证）。",
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/rel-0003.json",
+            "record_id": "rel-0003-stage-001"
+          }
+        ]
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "田灵儿与齐昊的情感阶段",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 29
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            },
+            {
+              "path": "characters/char-0038/index.json",
+              "record_id": "char-0038"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0003.json",
+              "record_id": "rel-0003-stage-001"
+            },
+            {
+              "path": "emotions/emo-0001.json",
+              "record_id": "asi-0001"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n[[asi-0001]] 定性为 uncertain。两人的往来已具情感线的形状——夜间私下会面、赛场上结伴同行、被长辈反对后的独自夜哭，三者连成一条「升温—受阻」的曲线，程度远过泛泛同门。但 stage_buffer 中的事件与陈述均未直陈恋爱关系，既无当事人表白，也无叙述层定性，因此不取 romantic。\n\n## 变化解释\n第21章的夜间私会是起点，第22章的结伴离开把关系带入同门可见的公开场合，第29章父母反对与云海夜哭使冲突升级到师门与家庭层面，并牵出「消息经谁传出」的追问。关系的变化并非源于两人之间的争执，而是源于外部——长辈的否决权与消息链的失控。\n\n## 关系阶段引用\n[[rel-0003-stage-001]]\n\n## 推断边界\n- 夜哭的诱因文本仅显示为「父母反对后」，不排除夹杂父女之间的冲突，不足以独占为情感原因。\n- 齐昊一侧的表达只有赴约与同行，其立场强度不可与田灵儿的反应等量齐观。\n- 私下会面的内容在 buffer 中未展开，不作补写。\n- 若后续章节出现明示性表述，可据此升级定性。"
+      }
+    },
+    {
+      "local_id": "emo-0002",
+      "emotional_ref_or_new": {
+        "new_rel": {
+          "subjects": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            }
+          ],
+          "introduced_at": 21
+        }
+      },
+      "stage_doc_id": "doc-emo-0002-stage-001",
+      "safe_through": 31,
+      "assessment": {
+        "local_id": "asi-0002",
+        "category": "uncertain",
+        "summary": "张小凡目睹田灵儿与齐昊私会后情绪转折，赛中持续关注其动向、并在看他人比试时联想到她；仅张小凡一侧有可证的态度，田灵儿一侧无相关表达，故不构成恋爱关系，定性 uncertain。",
+        "relationship_links": [
+          {
+            "path": "relationships/pairs/rel-0002.json",
+            "record_id": "rel-0002-stage-001"
+          }
+        ]
+      },
+      "stage_markdown": {
+        "front_matter": {
+          "title": "张小凡对田灵儿的单向情感阶段",
+          "chapter_ranges": [
+            {
+              "start": 21,
+              "end": 23
+            }
+          ],
+          "as_of": 31,
+          "subject_refs": [
+            {
+              "path": "characters/char-0001/index.json",
+              "record_id": "char-0001"
+            },
+            {
+              "path": "characters/char-0024/index.json",
+              "record_id": "char-0024"
+            }
+          ],
+          "record_refs": [
+            {
+              "path": "relationships/pairs/rel-0002.json",
+              "record_id": "rel-0002-stage-001"
+            },
+            {
+              "path": "emotions/emo-0002.json",
+              "record_id": "asi-0002"
+            }
+          ],
+          "source_refs": []
+        },
+        "body_markdown": "## 分析结论\n[[asi-0002]] 定性为 uncertain，且是严格单向的。可证据只有张小凡一侧：目睹私会后的情绪转折、赛场上对她动向的关注、以及看陆雪琪比试时把她联想进来。这些足以说明他把她放在心里的特殊位次，但不足以命名为恋爱关系。\n\n## 变化解释\n关系的位置变了：他由「同峰师弟」变成「知情者」，而她并不知道他知道。信息不对称加上对方已有往来对象，使他的关注只能停留在旁观的形态上；本阶段的情绪变化因此是内收的，而非外显行动。\n\n## 关系阶段引用\n[[rel-0002-stage-001]]\n\n## 推断边界\n- 田灵儿一侧在感情层面无任何表达，不作对称补写。\n- 「关注／联想」同样可以出自师弟对师姐的关切，不能单独作为爱慕证据。\n- 本阶段未出现他主动表达或介入的场面，故不推论其情感强度。"
+      }
+    }
+  ],
+  "thread_updates": [],
+  "warnings": [
+    "输入未提供本阶段的实体清单（人物/势力/关系/故事线均为「无」），但 stage_buffer 中实际涉及大量已存在实体；本节点通过索引探测（characters/char-0001..0062、factions/fac-0001..0008）逐一确认，共消耗 72 次工具调用，远超约定的 25 次预算。后续请在上游 buffer 中直接给出 entity_ref，避免探测。",
+    "factions/* 下不存在任何实体档案（fac-0001..0008 全部返回「实体不存在」），因此 faction_stages 为空、faction_landscape.produce=false；stage_buffer 中的势力候选「大竹峰」与青云门/炼血堂等势力动向已记入 arc_summary。",
+    "record_refs 使用「章号限定」的 buffer 本地 ID（如 c27-ev-local-7、c27-claim-local-23），path 采用 events/chapter-0NN.json 与 claims/chapter-0NN.json 形式。原始 buffer 中 ev-local/claim-local 编号在不同章重复出现，无法直接作为全局唯一 ID，需由写入服务按 (chapter_order, local_id) 映射真实 block 文件后再落盘。",
+    "各实体的 stage 文件名一律按 stage-002 命名（仅 char-0001 已确认存在 stage-001.md，其余实体未逐个核对已有 stage 编号，存在编号冲突风险，落盘前需按实际存在的 stage 列表校正）。",
+    "水麒麟（char-0013）与灵尊（char-0050）经 c18-claim-local-24、c26-claim-local-25 明示为同一实体的别称关系，已写入 identity_notes_appends；但本 payload 结构不含 identity_links 字段，实体合并需由写入侧据该 identity note 执行。",
+    "char-0049「白衣女子」（第19章对张小凡冷眼）与 char-0055「陆雪琪」（第23章起登场）疑为同一人物，但本阶段 buffer 中无明示依据，未作合并，也未将此条互动计入 rel-0004。",
+    "char-0059「青云门」、char-0060「风回峰」、char-0061「小竹峰」被登记为 entity_type=character，属实体分类错误，应迁移为 faction；这是 faction 档案缺失的直接原因。",
+    "本阶段 char-0050「灵尊」未单独产出 stage，以避免与 char-0013 水麒麟的同一实体重复；待合并完成后由水麒麟 stage 承载其经历。"
+  ],
+  "notes_for_audit": [
+    "建议新建故事线：①「烧火棍与血炼疑云」（起点 c24-ev-local-6 / c26-ev-local-5，定调 c30-claim-local-23，未决 c31-claim-local-26）；②「空桑山万蝠古窟任务」（原点 c20-ev-local-4 / c20-claim-local-38，人选钩子 c30-claim-local-41 / c31-claim-local-28）；③「水麒麟（灵尊）失常之谜」（c18-ev-local-5、c19-ev-local-1、c26-claim-local-24、c27-claim-local-43）；④「田灵儿与齐昊之事」（c21-ev-local-3、c22-ev-local-4、c29-ev-local-1）。stage 内无既有故事线可更新，故 thread_updates 留空。",
+    "待核陈述：c17-claim-local-33（章末无名女子招呼宋大仁，身份未明，char-0044 仍未定身份）；c28-claim-local-17（常箭因伤弃权，reported，伤情待验）；c17-claim-local-29（林惊羽因两年前龙首峰传信被点名）；c23-claim-local-24（陆雪琪自述小竹峰八代弟子，reported）；c28-claim-local-27（天琊与陆雪琪的关联，来自曾书书转述）。",
+    "c18-claim-local-21（林惊羽口述「诛仙剑阵」与御剑禁忌）与 c22-claim-local-7（三眼灵猴书载说法）均为 reported 未证实陈述，本 payload 已标记为「转述」，未作为事实使用。",
+    "c25 的势力候选「大竹峰三人晋级十六强，远胜往届」与 setting 候选「天琊」在 buffer 中以 candidate 形式出现，无 claim/event 记录可引用，故未写入任何 front_matter；天琊的相关信息改由 c25-ev-local-3、c29-claim-local-47 承载。",
+    "感情定性：asi-0001（田灵儿↔齐昊）与 asi-0002（张小凡↔田灵儿）均取 uncertain，未使用 romantic。若要升级 asi-0001，需后续章节出现当事人对白或叙述层明示。",
+    "relationship_links 指向的 rel-0002 / rel-0003 stage 快照均在同一次 payload 内产出，落盘顺序应为 relationship_snapshots → emotional_stages，避免引用悬空。"
+  ]
+}

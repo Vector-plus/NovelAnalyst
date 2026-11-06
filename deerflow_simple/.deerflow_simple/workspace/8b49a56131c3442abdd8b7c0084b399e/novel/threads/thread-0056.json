@@ -1,0 +1,30 @@
+{
+  "id": "thread-0056",
+  "introduced_at": 35,
+  "kind": "story_thread",
+  "label": "正道众人入洞，魔教设伏",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 35,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0056-001",
+      "resolution_refs": [],
+      "revealed_at": 35,
+      "role": "main",
+      "status": "open",
+      "summary": "两条岔路之后的洞穴本为当年正魔大战时魔教巢穴所在；「天道在我」石碑被斩开后又被修复，青云门四人在左岔路即遭法宝围攻与地下爆裂伏击，可见魔教在此确有布置。"
+    }
+  ]
+}

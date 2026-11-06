@@ -1,0 +1,30 @@
+{
+  "id": "thread-1233",
+  "introduced_at": 1119,
+  "kind": "story_thread",
+  "label": "王林离开联盟星域、寻求对抗拓森之力",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1119,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 1119
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1233-001",
+      "resolution_refs": [],
+      "revealed_at": 1119,
+      "role": "protagonist_arc",
+      "status": "ongoing",
+      "summary": "王林判定联盟星域不可再留，须尽快永久离开，除非拥有对抗拓森之力；他前往先前布置好阵法的偏僻废弃星。"
+    }
+  ]
+}

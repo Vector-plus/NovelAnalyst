@@ -1,14 +1,244 @@
 {
   "coverage_status": "partial",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 16,
+          "start": 16
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0001/index.json",
+          "record_id": "emo-0001"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 16,
+      "summary": "同门亲近与落差感（张小凡—田灵儿）（第16章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0001/index.json",
+        "record_id": "emo-0001"
+      },
+      "title": "同门亲近与落差感（张小凡—田灵儿）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0002/index.json",
+          "record_id": "emo-0002"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 31,
+      "summary": "田灵儿与齐昊的情感阶段（第31章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0002/index.json",
+        "record_id": "emo-0002"
+      },
+      "title": "田灵儿与齐昊的情感阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0003/index.json",
+          "record_id": "emo-0003"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 31,
+      "summary": "张小凡对田灵儿的单向情感阶段（第31章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0003/index.json",
+        "record_id": "emo-0003"
+      },
+      "title": "张小凡对田灵儿的单向情感阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0004/index.json",
+          "record_id": "emo-0004"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 56,
+      "summary": "stage-003 感情分析（第56章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0004/index.json",
+        "record_id": "emo-0004"
+      },
+      "title": "stage-003 感情分析"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 74,
+          "start": 74
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0005/index.json",
+          "record_id": "emo-0005"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 74,
+      "summary": "单恋被点破之后的落差（第74章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0005/index.json",
+        "record_id": "emo-0005"
+      },
+      "title": "单恋被点破之后的落差"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 84
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0006/index.json",
+          "record_id": "emo-0006"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 84,
+      "summary": "正邪之间的相许与舍身（张小凡—碧瑶）（第84章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0006/index.json",
+        "record_id": "emo-0006"
+      },
+      "title": "正邪之间的相许与舍身（张小凡—碧瑶）"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 107,
+          "start": 107
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0007/index.json",
+          "record_id": "emo-0007"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 107,
+      "summary": "鬼厉—林惊羽：旧同门情谊与正邪决裂的撕裂（第107章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0007/index.json",
+        "record_id": "emo-0007"
+      },
+      "title": "鬼厉—林惊羽：旧同门情谊与正邪决裂的撕裂"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0008/index.json",
+          "record_id": "emo-0008"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 133,
+      "summary": "感情阶段：断情之约与不对等的收束（第133章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0008/index.json",
+        "record_id": "emo-0008"
+      },
+      "title": "感情阶段：断情之约与不对等的收束"
+    }
+  ],
   "id": "idx-emotions",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 1,
-  "safe_through": 0,
+  "revision": 9,
+  "safe_through": 133,
   "schema_version": "2.0",
   "scope": {
-    "chapter_ranges": [],
+    "chapter_ranges": [
+      {
+        "end": 16,
+        "start": 16
+      },
+      {
+        "end": 31,
+        "start": 31
+      },
+      {
+        "end": 56,
+        "start": 56
+      },
+      {
+        "end": 74,
+        "start": 74
+      },
+      {
+        "end": 84,
+        "start": 84
+      },
+      {
+        "end": 107,
+        "start": 107
+      },
+      {
+        "end": 133,
+        "start": 133
+      }
+    ],
     "subject_refs": []
   },
   "title": "感情线"

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1177",
+  "introduced_at": 1074,
+  "kind": "story_thread",
+  "label": "残夜神通在联盟星域的口碑扩散",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1074,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1074,
+          "start": 1074
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1177-001",
+      "resolution_refs": [],
+      "revealed_at": 1074,
+      "role": "背景",
+      "status": "ongoing",
+      "summary": "叙述称三年内妖灵之地修真联盟残存者口口相传，残夜已在联盟星域传开，并被传为「虚空子亡、天运子三大分身二死一重伤」的战绩。"
+    }
+  ]
+}

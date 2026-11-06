@@ -1,0 +1,30 @@
+{
+  "id": "thread-0205",
+  "introduced_at": 134,
+  "kind": "story_thread",
+  "label": "镇魔古洞女子石像与巫妖的目的",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 134,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 134,
+          "start": 134
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0205-001",
+      "resolution_refs": [],
+      "revealed_at": 134,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "巫妖称要为「娘娘」做她未完之事并进入镇魔古洞，凶灵阻止未成后消散；石像身份与此事的性质当章未明。"
+    }
+  ]
+}

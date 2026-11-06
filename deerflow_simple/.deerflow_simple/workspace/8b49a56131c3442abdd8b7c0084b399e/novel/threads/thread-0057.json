@@ -1,0 +1,30 @@
+{
+  "id": "thread-0057",
+  "introduced_at": 35,
+  "kind": "story_thread",
+  "label": "烧火棍反噬/吸取妖人性命",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 35,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 35,
+          "start": 35
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0057-001",
+      "resolution_refs": [],
+      "revealed_at": 35,
+      "role": "main",
+      "status": "open",
+      "summary": "张小凡以烧火棍插中吸血妖人后，妖人血肉化枯皮干瘪，而烧火棍反将源源不绝的力量输回张小凡体内、止住其流血；黑暗中伴有心跳般波动。原因与后果本章未作解释。"
+    }
+  ]
+}

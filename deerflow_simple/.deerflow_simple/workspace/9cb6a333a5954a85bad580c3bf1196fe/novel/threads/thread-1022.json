@@ -1,0 +1,30 @@
+{
+  "id": "thread-1022",
+  "introduced_at": 960,
+  "kind": "story_thread",
+  "label": "天逆大门与阴阳本源之谜",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 960,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "setting_mystery",
+      "chapter_ranges": [
+        {
+          "end": 960,
+          "start": 960
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1022-001",
+      "resolution_refs": [],
+      "revealed_at": 960,
+      "role": "primary",
+      "status": "open",
+      "summary": "王林推断五行圆满只令天逆大门出现、阳极使阴阳半圆满并在迷失中清醒，极阴的作用与阴阳全圆满后的结果仍未知；他主动踏入裂缝窥见前世飞鸟后被红芒推回。"
+    }
+  ]
+}

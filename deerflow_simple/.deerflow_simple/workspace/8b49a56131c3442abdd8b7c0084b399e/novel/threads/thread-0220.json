@@ -1,0 +1,30 @@
+{
+  "id": "thread-0220",
+  "introduced_at": 140,
+  "kind": "story_thread",
+  "label": "三眼猴子的主人（醉客）颓废滞留何家小店",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 140,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_state",
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0220-001",
+      "resolution_refs": [],
+      "revealed_at": 140,
+      "role": "unresolved",
+      "status": "open",
+      "summary": "男子带小灰在何家小店连住三日，终日醉酒寡言，何老板索要酒钱未得其回应；本章未点名其身份。"
+    }
+  ]
+}

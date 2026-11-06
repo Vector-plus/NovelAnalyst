@@ -1,0 +1,30 @@
+{
+  "id": "thread-0028",
+  "introduced_at": 15,
+  "kind": "story_thread",
+  "label": "黑色短棒（噬血珠）的来历与下落",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 15,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0028-001",
+      "resolution_refs": [],
+      "revealed_at": 15,
+      "role": "setup",
+      "status": "open",
+      "summary": "旁白揭示幽谷之行所得的黑色短棒即黑心老人炼造的噬血珠，目前被张小凡当作烧火棍日常使用，其真正价值与后果尚无人知晓。"
+    }
+  ]
+}

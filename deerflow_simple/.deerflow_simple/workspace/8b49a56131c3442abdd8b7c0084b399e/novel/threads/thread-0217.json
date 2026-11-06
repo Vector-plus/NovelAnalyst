@@ -1,0 +1,30 @@
+{
+  "id": "thread-0217",
+  "introduced_at": 137,
+  "kind": "story_thread",
+  "label": "正道对张小凡实力与三家真法的评估",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0217-001",
+      "resolution_refs": [],
+      "revealed_at": 137,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "道玄真人推断张小凡已融会佛、道、魔三家真法，道行多半胜过青云门下弟子，并告诫陆雪琪小心；水月大师则称此乃命数。"
+    }
+  ]
+}

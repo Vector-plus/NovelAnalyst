@@ -1,0 +1,30 @@
+{
+  "id": "thread-1061",
+  "introduced_at": 982,
+  "kind": "story_thread",
+  "label": "黑色石像内的奇异之力",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 982,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 982,
+          "start": 982
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1061-001",
+      "resolution_refs": [],
+      "revealed_at": 982,
+      "role": "setup",
+      "status": "open",
+      "summary": "石像散出的黑光可冲天并与王林神识刹那融合，其中奇异之力王林千年修道从未遇过；叙述者归因其来源为数百万族人数百年来每日膜拜。后续走向未在本章展开。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1173",
+  "introduced_at": 1073,
+  "kind": "story_thread",
+  "label": "出云国派墨智送贺礼交好新圣皇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1073,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "side_plot",
+      "chapter_ranges": [
+        {
+          "end": 1073,
+          "start": 1073
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1173-001",
+      "resolution_refs": [],
+      "revealed_at": 1073,
+      "role": "advance",
+      "status": "ongoing",
+      "summary": "出云宗白发老者命墨智取五粒极品仙丹、一百寻常仙丹、千件仙宝与一头贵重精魂为贺礼送往四圣宗新圣皇，墨智已告辞出发。"
+    }
+  ]
+}

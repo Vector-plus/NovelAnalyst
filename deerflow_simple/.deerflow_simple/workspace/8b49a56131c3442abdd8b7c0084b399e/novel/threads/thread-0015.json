@@ -1,0 +1,30 @@
+{
+  "id": "thread-0015",
+  "introduced_at": 7,
+  "kind": "story_thread",
+  "label": "苏茹与小竹峰水月大师的往来",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_relation",
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0015-001",
+      "resolution_refs": [],
+      "revealed_at": 7,
+      "role": "secondary",
+      "status": "ongoing",
+      "summary": "师娘听说水月有恙即带灵儿前往小竹峰，今晚便回；田不易对水月缺席七脉聚会有不满之语。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0068",
+  "introduced_at": 45,
+  "kind": "story_thread",
+  "label": "碧瑶身世：六狐洞被活埋与娘亲之死",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 45,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 45,
+          "start": 45
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0068-001",
+      "resolution_refs": [],
+      "revealed_at": 45,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

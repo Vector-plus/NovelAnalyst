@@ -1,0 +1,30 @@
+{
+  "id": "thread-0156",
+  "introduced_at": 101,
+  "kind": "story_thread",
+  "label": "野狗道人尾随周一仙与小环的意图",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 101,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 101,
+          "start": 101
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0156-001",
+      "resolution_refs": [],
+      "revealed_at": 101,
+      "role": "setup",
+      "status": "open",
+      "summary": "野狗道人一路远远跟随，被察觉后停步看天，面对小环追问亦不答；动机本章未交代，其见中年男子后既恐惧又似愤怒。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1075",
+  "introduced_at": 990,
+  "kind": "story_thread",
+  "label": "为周佚求得复活青霜之法（指向青霖）",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 990,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 990,
+          "start": 990
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1075-001",
+      "resolution_refs": [],
+      "revealed_at": 990,
+      "role": "main",
+      "status": "open",
+      "summary": "王林此行妖灵之地的目的是让周佚如心愿使青霜复活，复活希望系于青霜之父青霖；本章仅交代动机，未取得进展。"
+    }
+  ]
+}

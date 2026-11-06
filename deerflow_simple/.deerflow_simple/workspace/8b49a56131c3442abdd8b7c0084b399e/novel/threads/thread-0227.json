@@ -1,0 +1,30 @@
+{
+  "id": "thread-0227",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "鬼厉的迷惘与去向不明",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_arc",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0227-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "setup",
+      "status": "open",
+      "summary": "鬼厉自问十年来除杀人还做了什么、为何而活，放走野狗道人后独自离去；小环追问“你要去哪”后他自问“我能去哪”，去向未定，青龙对外称少有人知其行踪。"
+    }
+  ]
+}

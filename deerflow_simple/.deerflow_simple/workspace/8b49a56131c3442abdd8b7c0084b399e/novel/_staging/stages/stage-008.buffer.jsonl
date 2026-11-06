@@ -1,0 +1,149 @@
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 108, "reason": "本阶段开篇：鬼厉抵达南疆，追踪线索断于杀生和尚失踪"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 108, "reason": "首次展示焚香谷与南疆鱼人族的暗中往来，涉及天帝冥石与兽神"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 108, "reason": "关键转折：鱼人族长在焚香谷人眼前被紫芒法宝劈杀，凶手身份未明"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 108, "reason": "章末钩子：古刹中未知者向鬼厉发声，暗示其瞒过吕顺的潜伏者身份"}
+{"kind": "claim", "local_id": "claim-local-17", "chapter_order": 108, "reason": "天帝冥石所在（死泽天帝宝库）的关键陈述，出自吕顺之口按 reported 记录"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 108, "reason": "十年前青云一战周隐假扮上官策一事的叙述确认，可跨阶段复用"}
+{"kind": "claim", "local_id": "claim-local-34", "chapter_order": 108, "reason": "鬼厉将天帝冥石与小灰吞食之石联系的猜疑，后续伏笔"}
+{"ref_type": "event_local", "local_id": "ev-local-1", "chapter_order": 109, "note": "鬼王宗核心禁地狐岐山困龙阙：四灵血阵血池与伏龙鼎首次正面呈现"}
+{"ref_type": "event_local", "local_id": "ev-local-2", "chapter_order": 109, "note": "鬼王对鬼厉的评价与对陆雪琪之事的追问，幽姬承认暧昧"}
+{"ref_type": "event_local", "local_id": "ev-local-4", "chapter_order": 109, "note": "鬼厉与金瓶儿在南疆古刹达成夜探焚香谷的意向（附条件）"}
+{"ref_type": "claim_local", "local_id": "claim-local-14", "chapter_order": 109, "note": "四灵血阵完成一半、尚需两只灵兽——阶段级关键情报"}
+{"ref_type": "claim_local", "local_id": "claim-local-10", "chapter_order": 109, "note": "四灵血阵来源：伏龙鼎铭文，鬼王与鬼先生合力解出"}
+{"ref_type": "claim_local", "local_id": "claim-local-21", "chapter_order": 109, "note": "鬼厉为救陆雪琪冒死对抗黑水玄蛇（幽姬亲见并回禀鬼王）"}
+{"ref_type": "claim_local", "local_id": "claim-local-36", "chapter_order": 109, "note": "焚香谷与鱼人异族之事有关的首次点明"}
+{"ref_type": "claim_local", "local_id": "claim-local-17", "chapter_order": 109, "note": "鬼厉在内泽偷袭重伤秦无炎"}
+{"local_id": "ev-local-3", "kind": "event", "label": "深夜外敌强攻焚香谷", "note": "南疆线关键节点，攻击方身份未明，影响后续入谷与局势判断", "chapter_order": 110}
+{"local_id": "ev-local-4", "kind": "event", "label": "鬼厉借小灰发现灰豚、铃声之谜暂解", "note": "潜行成功的关键转折", "chapter_order": 110}
+{"local_id": "claim-local-3", "kind": "claim", "label": "焚香谷疑与南蛮异族暗中勾结（推断）", "note": "本阶段主线索之一", "chapter_order": 110}
+{"local_id": "claim-local-20", "kind": "claim", "label": "鬼厉因兔肉之言追忆碧瑶", "note": "人物心理转折点，情绪触发来源明确", "chapter_order": 110}
+{"local_id": "claim-local-33", "kind": "claim", "label": "小灰额痕变色、双眼泛金红光", "note": "小灰异常能力首次显形，待后续解释", "chapter_order": 110}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "note": "焚香谷与鱼人/蛮族冲突的直接口述证据，本 stage 南疆线关键节点", "chapter_order": 111}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "note": "上官策曾震慑蛮族、被视作天人；谷主派李洵燕虹相请——势力关系关键陈述（reported）", "chapter_order": 111}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "燕虹未说尽的“等到将来……”，焚香谷对蛮族另有图谋的伏笔（reported）", "chapter_order": 111}
+{"ref_or_local_id": "claim-local-22", "kind": "claim", "note": "鬼厉将夜袭与鱼人族长被金瓶儿狙杀相联系的推断", "chapter_order": 111}
+{"ref_or_local_id": "claim-local-30", "kind": "claim", "note": "玄火坛首次实地展现，本 stage 核心地点", "chapter_order": 111}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "小灰异变与噬血珠青色血光同步出现，人物/器物线索转折点", "chapter_order": 111}
+{"kind": "claim", "local_id": "claim-local-21", "note": "上官策首次自报姓名，身份揭示锚点", "chapter_order": 112}
+{"kind": "claim", "local_id": "claim-local-28", "note": "焚香谷百年大计与南疆绝世人物，阶段级伏笔", "chapter_order": 112}
+{"kind": "claim", "local_id": "claim-local-34", "note": "凶手潜伏焚香谷内的关键断言", "chapter_order": 112}
+{"kind": "claim", "local_id": "claim-local-5", "note": "鱼人族长被狙杀的时间、地点与经手人", "chapter_order": 112}
+{"kind": "event", "local_id": "ev-local-4", "note": "鬼厉潜入玄火坛，跨章悬置行动", "chapter_order": 112}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "note": "小灰蜕变三眼灵猴，本阶段关键能力揭示节点", "chapter_order": 113}
+{"record_ref_or_local_id": "claim-local-26", "kind": "claim", "note": "第三只眼出现，异变完成的直接证据", "chapter_order": 113}
+{"record_ref_or_local_id": "claim-local-22", "kind": "claim", "note": "鬼厉施展青云门密法太极玄清道，身份线索需谨慎留存", "chapter_order": 113}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "凶神石刻发光召出火焰异兽，玄火坛机关机制首次展示", "chapter_order": 113}
+{"record_ref_or_local_id": "claim-local-7", "kind": "claim", "note": "鬼厉受凶神石刻影响噬血之气加重而神志清醒，状态转折点", "chapter_order": 113}
+{"kind": "event", "local_id": "ev-local-3", "reason": "玄火鉴首次显示吸摄凶神之能，同时赤焰兽对玄火鉴俯首消散，为本阶段法宝与祭坛线索的关键节点", "chapter_order": 114}
+{"kind": "event", "local_id": "ev-local-4", "reason": "玄火祭坛分层结构与“玄火鉴”凹痕机关的明确证据，第三层极寒环境首次被记录", "chapter_order": 114}
+{"kind": "event", "local_id": "ev-local-5", "reason": "九尾天狐首次现身并与鬼厉对峙，涉及噬魂来历、玄火鉴归属与“小六”线索", "chapter_order": 114}
+{"kind": "claim", "local_id": "claim-local-3", "reason": "大梵般若与太极玄清道首次同施的明确叙述，属能力体系关键陈述", "chapter_order": 114}
+{"kind": "claim", "local_id": "claim-local-24", "reason": "第三层女子关于“只有玄火鉴能开三层”的规则性陈述，可作为祭坛设定的可引用依据", "chapter_order": 114}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 115, "note": "九尾天狐自称小六（六尾魔狐）之母，母子关系由角色自述揭示"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 115, "note": "玄火鉴可解玄火链、八凶玄火法阵之说；鬼厉起身走向石壁尽头，解链动作未完"}
+{"kind": "claim", "local_id": "claim-local-24", "chapter_order": 115, "note": "狐妖一族三百年前抢玄火鉴、九尾天狐被囚玄火坛的来历"}
+{"kind": "claim", "local_id": "claim-local-47", "chapter_order": 115, "note": "上官策疑心燕虹功力精进过快——可疑伏笔"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 115, "note": "地动与天变色指涉玄火坛，上官策急赴，双线即将交汇"}
+{"ref_type": "event", "local_id": "ev-local-1", "note": "九尾天狐脱困、玄火链被毁，本阶段核心节点", "chapter_order": 116}
+{"ref_type": "event", "local_id": "ev-local-2", "note": "玄火坛塌毁、火柱冲天，焚香谷发生重大异变", "chapter_order": 116}
+{"ref_type": "event", "local_id": "ev-local-5", "note": "鬼厉请求救治碧瑶，九尾天狐称有办法——救魂线索起点", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-31", "note": "碧瑶现状（肉身不灭不死、无知觉、合欢铃扣一魂）的关键陈述", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-25", "note": "鬼厉体内邪力靠玄火鉴压制的关键陈述，关联其嗜血好杀倾向", "chapter_order": 116}
+{"ref_type": "claim", "local_id": "claim-local-19", "note": "鬼厉主动归还玄火鉴，体现其对神器的态度与对九尾天狐的举动", "chapter_order": 116}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 117, "note": "救治碧瑶主线获得具体路径：黑巫族/黑巫法师，九尾天狐承诺带路"}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "chapter_order": 117, "note": "九尾天狐称至少五百年前黑巫族仍存，与“千年前灭绝”之说形成时间冲突点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-9", "chapter_order": 117, "note": "九尾天狐得名“小白”，后续称呼依据"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 117, "note": "金瓶儿可追踪鬼厉行踪，且以“上狐岐山道贺”相激，双方保持表面客套的相互试探"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 117, "note": "鬼厉身体状况恶化已由其本人确认，构成后续行动限制"}
+{"kind": "event", "local_id": "ev-local-1", "note": "南疆风云聚会：焚香谷动员搜索、正道探询、魔教刺探受挫，为本阶段局势主背景", "chapter_order": 118}
+{"kind": "event", "local_id": "ev-local-3", "note": "小白自述狐妖一族来历、狐岐山与鬼王宗数百年邻居关系，涉及鬼王宗总堂与鬼厉身份信息", "chapter_order": 118}
+{"kind": "claim", "local_id": "claim-local-10", "note": "叙述明写小白即九尾天狐化身，供身份合并与后续能力线索使用", "chapter_order": 118}
+{"kind": "claim", "local_id": "claim-local-11", "note": "鬼厉本阶段核心目标：追查黑巫族以救碧瑶", "chapter_order": 118}
+{"kind": "claim", "local_id": "claim-local-25", "note": "小白同族尽亡且自认由她所致，为后续身世与势力线索", "chapter_order": 118}
+{"kind": "event", "local_id": "ev-local-4", "note": "天水寨街头冲突，首次展示鬼厉对普通人出手的方式与一行人对外的假称关系", "chapter_order": 118}
+{"kind": "event", "local_id": "ev-local-4", "note": "金瓶儿以「七里峒」牵制鬼厉、鬼厉与陆雪琪重逢对峙，为本阶段关键节点", "chapter_order": 119}
+{"kind": "claim", "local_id": "claim-local-27", "note": "「七里峒」三字首次出现并直接改变鬼厉行动", "chapter_order": 119}
+{"kind": "claim", "local_id": "claim-local-21", "note": "焚香谷一方指认金瓶儿杀同门、燕虹失踪，涉及上官策察觉内情", "chapter_order": 119}
+{"kind": "claim", "local_id": "claim-local-25", "note": "金瓶儿杀死焚香谷弟子，焚香谷与其仇恨升级", "chapter_order": 119}
+{"kind": "claim", "local_id": "claim-local-9", "note": "鬼厉此行进南疆的动因：躲避焚香谷追兵；旧日目标为黑巫族救碧瑶", "chapter_order": 119}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 120, "note": "本阶段关键节点：陆雪琪划下深痕、宣告断情并约定再见为敌"}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 120, "note": "陆雪琪吐血离去、鬼厉止步深痕之外，二人关系状态定型"}
+{"record_ref_or_local_id": "claim-local-12", "kind": "claim", "chapter_order": 120, "note": "陆雪琪自述十年心意起点（七脉会武）"}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "chapter_order": 120, "note": "鬼厉内心首个呼喊是碧瑶，情结所在"}
+{"record_ref_or_local_id": "claim-local-27", "kind": "claim", "chapter_order": 120, "note": "陆雪琪吐血，身体状况待后续印证"}
+{"record_ref_or_local_id": "claim-local-29", "kind": "claim", "chapter_order": 120, "note": "小白被叙述称为九尾天狐，身份合并待确认"}
+{"record_ref_or_local_id": "claim-local-34", "kind": "claim", "chapter_order": 120, "note": "第三方对鬼厉/碧瑶心结的判断（角色说法）"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_id": "ch-000121", "chapter_order": 121, "note": "云易岚闭关真相首次被具体呈现（声音垂危、隔屏风不见客），并对鬼厉下达“宁杀错，不放过”密令"}
+{"kind": "claim", "local_id": "claim-local-17", "chapter_id": "ch-000121", "chapter_order": 121, "note": "云易岚独语揭示其洞悉上官策推责李洵、并记着三百年前玄火鉴失职之事"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_id": "ch-000121", "chapter_order": 121, "note": "七里峒成为各方追踪目标；陆雪琪主动开口提供线索，与其昨夜异常状态形成对照"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_id": "ch-000121", "chapter_order": 121, "note": "鬼厉、小白、小灰抵达马头山，行程指向七里峒，与焚香谷一行形成同向奔赴"}
+{"kind": "event", "local_id": "ev-local-2", "note": "目标线索落到苗人祭坛与苗人大巫师还魂大法，为碧瑶救魂线提供新指向", "chapter_order": 122}
+{"kind": "event", "local_id": "ev-local-3", "note": "求见受阻：言语不通+触犯祭坛大忌，形成本章核心冲突", "chapter_order": 122}
+{"kind": "claim", "local_id": "claim-local-9", "note": "小白对三百年前还魂大法的陈述（reported），关键线索口供", "chapter_order": 122}
+{"kind": "claim", "local_id": "claim-local-18", "note": "小白自称被关三百年（reported），身份/经历待补", "chapter_order": 122}
+{"kind": "event", "local_id": "ev-local-4", "note": "章末悬念：山上下来的威严喝声者身份未知，跨章衔接点", "chapter_order": 122}
+{"local_id": "ev-local-2", "kind": "event", "reason": "求医主线在本阶段的关键推进：大巫师由拒绝改为允见，是后续祭坛情节的直接引子", "chapter_order": 123}
+{"local_id": "claim-local-11", "kind": "claim", "reason": "明确图麻骨为苗族族长，新增势力核心人物身份", "chapter_order": 123}
+{"local_id": "claim-local-19", "kind": "claim", "reason": "大巫师对“魂魄十去其九”反应异常并最终允见，属关键转折陈述", "chapter_order": 123}
+{"local_id": "claim-local-27", "kind": "claim", "reason": "小白对鬼厉的直接询问，属人物互动转折点证据", "chapter_order": 123}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 124, "note": "鬼厉首次向大巫师当面完整陈述碧瑶散魂与十年前旧事，为求医主线关键节点"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 124, "note": "大巫师点破痴情咒并反问消息来源，章末形成悬念"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 124, "note": "鬼厉视角的十年前旧事版本（仙剑、燃尽精血、合欢铃扣一魂），confidence 为角色陈述"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 124, "note": "大巫师追问还魂异术消息来源，暗示引路者身份存疑"}
+{"kind": "event", "local_id": "ev-local-1", "note": "鬼厉求还魂异术被搁置，要求先弄清小白来历（stage-008 主线推进关键节点）", "chapter_order": 125}
+{"kind": "event", "local_id": "ev-local-3", "note": "黎族一方登场，定下当夜攻打苗族夺骨玉（南疆局势新支线）", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-6", "note": "还魂异术传承规则（只传历代大巫师、从不外传）——本次求术的直接障碍", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-5", "note": "小白=修炼千年九尾天狐的叙述性明示，供身份档案合并判定", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-19", "note": "骨玉被镇压于苗族祭坛恶狗雕像下——黎族行动目标与地点", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-23", "note": "阿合台自称获兽神神法与神奇宝贝，为南疆冲突的力量来源线索", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-25", "note": "「今晚报两百年之仇」——时间紧迫的冲突倒计时", "chapter_order": 125}
+{"kind": "claim", "local_id": "claim-local-27", "note": "章末敲门悬念，下一章衔接入口", "chapter_order": 125}
+{"ref_kind": "event", "ref_local_id": "ev-local-6", "note": "黎族夜袭七里峒，两百年仇怨公开化；本 stage 主要势力冲突爆发点", "chapter_order": 126}
+{"ref_kind": "event", "ref_local_id": "ev-local-7", "note": "大巫师木杖红光／血色屏障首次完整展示，对手为操控火焰的黎族阿合台", "chapter_order": 126}
+{"ref_kind": "event", "ref_local_id": "ev-local-8", "note": "阿合台来历与其背后赐力存在首次交代，反派线索", "chapter_order": 126}
+{"ref_kind": "claim", "ref_local_id": "claim-local-14", "note": "犬神石刻警报设定：千年一遇、亡族灭种之危", "chapter_order": 126}
+{"ref_kind": "claim", "ref_local_id": "claim-local-40", "note": "苗人圣器“黑杖”与其上骨玉，本 stage 关键物证线索", "chapter_order": 126}
+{"ref_kind": "claim", "ref_local_id": "claim-local-38", "note": "阿合台深入十万大山求得恶魔力量的动机与经过", "chapter_order": 126}
+{"record_type": "event", "local_id": "ev-local-3", "note": "鬼厉与陆雪琪在七里峒正面交手，正道与鬼厉对立公开化的标志性一幕", "chapter_order": 127}
+{"record_type": "event", "local_id": "ev-local-4", "note": "黎族圣器骨玉与苗族圣器黑杖同时落入阿合台之手，南疆势力格局变动", "chapter_order": 127}
+{"record_type": "claim", "local_id": "claim-local-27", "note": "“魔王”授意阿合台夺取双圣器的目标陈述，属角色转述", "chapter_order": 127}
+{"record_type": "claim", "local_id": "claim-local-4", "note": "上官策神色异常与独自先行的疑点", "chapter_order": 127}
+{"record_type": "claim", "local_id": "claim-local-19", "note": "陆雪琪当面呼“张小凡”，鬼厉与张小凡身份关联的关键陈述", "chapter_order": 127}
+{"kind": "event", "local_ref": "ev-local-2", "note": "阿合台被黑火精珠反噬焚身，骨玉黑杖落入巫妖之手——圣器流向的转折点", "chapter_order": 128}
+{"kind": "event", "local_ref": "ev-local-3", "note": "巫妖与焚香谷上官策八十年后重逢，直言兽神将出，是势力动向的关键证据", "chapter_order": 128}
+{"kind": "claim", "local_ref": "claim-local-7", "note": "巫妖的定位：兽妖（兽神）座下最重要助手之一，巫力不高却有神秘异术", "chapter_order": 128}
+{"kind": "claim", "local_ref": "claim-local-14", "note": "兽神预埋“黑火精珠”反制叛徒，显示其手段与对阿合台的判断", "chapter_order": 128}
+{"kind": "claim", "local_ref": "claim-local-28", "note": "鬼厉察觉陆雪琪身上有非青云门的淡金色力量，人物线索待续", "chapter_order": 128}
+{"kind": "event", "local_ref": "ev-local-6", "note": "李洵偷袭、法相救人、天雷击中鬼厉，正魔年轻一代战局的关键一击", "chapter_order": 128}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 129, "reason": "九尾天狐小白当众现身夺走鬼厉，正道多方出手未拦下"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 129, "reason": "陆雪琪确认李洵以玉尺伤鬼厉，互动关系信号"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 129, "reason": "鬼厉公开表态只认碧瑶，且执意赴救大巫师"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 129, "reason": "吕顺指认小白为九尾妖狐（角色陈述）"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 129, "reason": "李洵承认以玉尺伤鬼厉右肩"}
+{"kind": "claim", "local_id": "claim-local-42", "chapter_order": 129, "reason": "鬼厉称世上只有碧瑶一人真心对他"}
+{"kind": "claim", "local_id": "claim-13", "note": "上官策自称遇「小毛贼」，法相、陆雪琪皆不信；本阶段焚香谷秘辛线索的关键陈述", "chapter_order": 130}
+{"kind": "claim", "local_id": "claim-30", "note": "大巫师召见鬼厉、小白，七里峒求巫主线推进的关键转折", "chapter_order": 130}
+{"kind": "claim", "local_id": "claim-32", "note": "祭坛岩石龟裂粉碎，南疆巫术威能的实景证据", "chapter_order": 130}
+{"kind": "claim", "local_id": "claim-37", "note": "巫妖与形似神龙的巨兽同现十万大山入口，势力动向", "chapter_order": 130}
+{"kind": "claim", "local_id": "claim-41", "note": "金瓶儿独自潜入十万大山洞穴，追踪线索与后续伏线", "chapter_order": 130}
+{"kind": "event", "local_id": "ev-local-2", "note": "本章主线事件：七里峒求见大巫师，先受阻后获允上山", "chapter_order": 130}
+{"kind": "event", "local_id_or_ref": "ev-local-2", "note": "本 stage 关键信息节点：古巫族—五族分裂—兽妖/八凶玄火法阵—五件圣器的完整传说由大巫师口述，全部为 reported", "chapter_order": 131}
+{"kind": "claim", "local_id_or_ref": "claim-local-17", "note": "\"八凶玄火法阵\"与\"玄火鉴\"首次以名称出现（角色口述），鬼厉与小白反应异常", "chapter_order": 131}
+{"kind": "claim", "local_id_or_ref": "claim-local-14", "note": "鬼厉自述在西方大沼泽见过鱼头人身怪物，与大巫师传说形成呼应，值得跨章追踪", "chapter_order": 131}
+{"kind": "claim", "local_id_or_ref": "claim-local-23", "note": "南疆五族分裂与五件圣器归属的设定，可能与后续苗族圣器线相关", "chapter_order": 131}
+{"kind": "event", "local_id": "ev-local-1", "note": "招魂之约与大巫师决意赴中土，本 stage 末端的行动起点", "chapter_order": 132}
+{"kind": "event", "local_id": "ev-local-2", "note": "五族圣器丢失与黑杖藏骨玉的关键情报披露", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-2", "note": "黑杖镶骨玉、两百年前苗族夺黎族圣器", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-3", "note": "壮、土、高山三族圣器数百年陆续诡异丢失", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-4", "note": "大巫师将圣器丢失与黑火妖术归因兽妖", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-6", "note": "大巫师自述余日无多", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-11", "note": "巫女娘娘名讳“玲珑”首次出现", "chapter_order": 132}
+{"kind": "event", "local_id": "ev-local-6", "note": "金瓶儿被巫妖恶龙打落悬崖，巫妖已察觉被跟踪后离去", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-19", "note": "刻有“杀生”的怪刀出现在金瓶儿手中", "chapter_order": 132}
+{"kind": "claim", "local_id": "claim-local-20", "note": "金瓶儿自语“杀生和尚么”，指向新线索", "chapter_order": 132}
+{"ref_kind": "event", "local_id": "ev-local-4", "note": "大巫师诀别离族、随鬼厉入十万大山，阶段末关键节点", "chapter_order": 133}
+{"ref_kind": "event", "local_id": "ev-local-6", "note": "凶灵现身斥巫妖为叛徒，镇魔古洞线首次正面冲突", "chapter_order": 133}
+{"ref_kind": "claim", "local_id": "claim-local-11", "note": "大巫师自陈仅余三十日阳寿（reported）", "chapter_order": 133}
+{"ref_kind": "claim", "local_id": "claim-local-14", "note": "玄火鉴在鬼厉身上（大巫师推断，reported），指向焚香谷流失", "chapter_order": 133}
+{"ref_kind": "claim", "local_id": "claim-local-9", "note": "兽妖封印传说：五件圣器同时回归镇魔洞即为复生之兆（reported）", "chapter_order": 133}
+{"ref_kind": "claim", "local_id": "claim-local-38", "note": "叙述直述鬼厉即当年青云门小弟子张小凡，可用于身份归并", "chapter_order": 133}

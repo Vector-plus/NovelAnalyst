@@ -1,0 +1,30 @@
+{
+  "id": "thread-0138",
+  "introduced_at": 90,
+  "kind": "story_thread",
+  "label": "合欢派四名弟子遇害与黑蟾散疑云",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 90,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 90,
+          "start": 90
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0138-001",
+      "resolution_refs": [],
+      "revealed_at": 90,
+      "role": "introduced",
+      "status": "open",
+      "summary": "金瓶儿质问雾中之人：三日之前合欢派门下弟子四人在大王村西北六里处身中黑蟾散剧毒被害；她指出黑蟾散为万毒门独有，对方否认下手并承诺此间事了后给她说法。"
+    }
+  ]
+}

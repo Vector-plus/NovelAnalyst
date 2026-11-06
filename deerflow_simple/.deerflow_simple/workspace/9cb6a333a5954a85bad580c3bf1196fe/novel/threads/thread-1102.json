@@ -1,0 +1,30 @@
+{
+  "id": "thread-1102",
+  "introduced_at": 1010,
+  "kind": "story_thread",
+  "label": "朱雀之变与王林的朱雀序列觉醒",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1010,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 1010,
+          "start": 1010
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1102-001",
+      "resolution_refs": [],
+      "revealed_at": 1010,
+      "role": "核心线索",
+      "status": "escalating",
+      "summary": "朱雀圣宗九星爆发朱雀之变、朱雀真灵现身并映出王林与符族圣祖、青霖等人的画面，圣皇神念下令倾全族之力寻回觉醒者，朱雀宗正式介入王林所在处境。"
+    }
+  ]
+}

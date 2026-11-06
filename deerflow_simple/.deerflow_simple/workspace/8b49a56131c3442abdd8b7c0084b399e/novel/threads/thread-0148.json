@@ -1,0 +1,30 @@
+{
+  "id": "thread-0148",
+  "introduced_at": 96,
+  "kind": "story_thread",
+  "label": "正道年轻高手在内泽失散",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 96,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0148-001",
+      "resolution_refs": [],
+      "revealed_at": 96,
+      "role": "introduce",
+      "status": "open",
+      "summary": "青云门、天音寺、焚香谷一众年轻高手穿越瘴气之墙时遇暴风眼与巨大怪兽穿行而失散；林惊羽已与曾书书、法相会合，其余众人下落本章未交代。"
+    }
+  ]
+}

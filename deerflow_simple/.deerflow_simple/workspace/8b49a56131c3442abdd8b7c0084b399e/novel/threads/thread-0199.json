@@ -1,0 +1,30 @@
+{
+  "id": "thread-0199",
+  "introduced_at": 133,
+  "kind": "story_thread",
+  "label": "玄火鉴在鬼厉身上",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 133,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 133,
+          "start": 133
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0199-001",
+      "resolution_refs": [],
+      "revealed_at": 133,
+      "role": "主线",
+      "status": "escalating",
+      "summary": ""
+    }
+  ]
+}

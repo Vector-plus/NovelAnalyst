@@ -1,0 +1,30 @@
+{
+  "id": "thread-1192",
+  "introduced_at": 1091,
+  "kind": "story_thread",
+  "label": "王林引诸势力入古神之地的「计中计」与四圣宗雨之仙界救青龙圣皇计划",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1091,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plan",
+      "chapter_ranges": [
+        {
+          "end": 1091,
+          "start": 1091
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1192-001",
+      "resolution_refs": [],
+      "revealed_at": 1091,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林自称对外送玉简的另一目的是把罗天、尸阴、联盟诸势力引向古神之地，避免其干扰四圣宗在雨之仙界救青龙圣皇；眼下等待老圣皇的雨之仙晶。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1149",
+  "introduced_at": 1046,
+  "kind": "story_thread",
+  "label": "青霖被夺舍前留下的话：雨界尊殿、元神结晶、青霜之血",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1046,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 1046,
+          "start": 1046
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1149-001",
+      "resolution_refs": [],
+      "revealed_at": 1046,
+      "role": "planted",
+      "status": "open",
+      "summary": "胡娟转述的青霖留言在第八层魔龙吞噬之际被王林反复回想，并直接促使他拍碎仙玉塔取出青霜尸体取血，留言的具体所指尚未说明。"
+    }
+  ]
+}

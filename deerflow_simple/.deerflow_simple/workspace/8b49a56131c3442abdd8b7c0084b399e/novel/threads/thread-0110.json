@@ -1,0 +1,30 @@
+{
+  "id": "thread-0110",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "流波山正魔混战",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0110-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "advanced",
+      "status": "open",
+      "summary": "魔教伏兵包抄正道后路，正道一度处于下风；陆雪琪以天琊、法相以轮回珠投入黑暗反击，形势转向正道有利，但鬼王与青龙尚未出手。"
+    }
+  ]
+}

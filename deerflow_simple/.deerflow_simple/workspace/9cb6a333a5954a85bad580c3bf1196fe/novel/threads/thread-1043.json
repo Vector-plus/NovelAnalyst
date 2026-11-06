@@ -1,0 +1,30 @@
+{
+  "id": "thread-1043",
+  "introduced_at": 977,
+  "kind": "story_thread",
+  "label": "司徒南中毒后的解毒之路",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 977,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 977,
+          "start": 977
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1043-001",
+      "resolution_refs": [],
+      "revealed_at": 977,
+      "role": "main",
+      "status": "open",
+      "summary": "司徒南称凤栾星女修只有毒药无解药，真正解药在仙界，需待雨之仙界开启；王林提出可借妖灵之地青霖/青霜线索令青霜复活以破毒。"
+    }
+  ]
+}

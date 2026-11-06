@@ -1,0 +1,30 @@
+{
+  "id": "thread-0123",
+  "introduced_at": 83,
+  "kind": "story_thread",
+  "label": "鬼王宗折返青云山寻碧瑶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 83,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 83,
+          "start": 83
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0123-001",
+      "resolution_refs": [],
+      "revealed_at": 83,
+      "role": "introduction",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

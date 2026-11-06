@@ -1,0 +1,30 @@
+{
+  "id": "thread-1059",
+  "introduced_at": 981,
+  "kind": "story_thread",
+  "label": "王林重返妖灵之地：欲回炼魂部落寻十三",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 981,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 981,
+          "start": 981
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1059-001",
+      "resolution_refs": [],
+      "revealed_at": 981,
+      "role": "new",
+      "status": "ongoing",
+      "summary": "王林率司徒南、浮风子、尘道三子等自漩涡抵达妖灵之地，首先想回炼魂部落，念及十三与虎咆的对比及当年古妖城救人、望天证道之语。"
+    }
+  ]
+}

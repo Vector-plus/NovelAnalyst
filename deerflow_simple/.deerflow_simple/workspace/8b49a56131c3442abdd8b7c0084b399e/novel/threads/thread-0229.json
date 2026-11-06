@@ -1,0 +1,30 @@
+{
+  "id": "thread-0229",
+  "introduced_at": 143,
+  "kind": "story_thread",
+  "label": "小灰的巨猿形态与战力显露",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 143,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ability",
+      "chapter_ranges": [
+        {
+          "end": 143,
+          "start": 143
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0229-001",
+      "resolution_refs": [],
+      "revealed_at": 143,
+      "role": "setup",
+      "status": "open",
+      "summary": "小灰在护主时化为高逾四五丈、双眼燃三团火焰（金色与血红色并处）的三眼凶猴，单手抓住兽牙法宝、并将兽牙作为武器击伤野狗道人，其后可自行缩回猴子形态。"
+    }
+  ]
+}

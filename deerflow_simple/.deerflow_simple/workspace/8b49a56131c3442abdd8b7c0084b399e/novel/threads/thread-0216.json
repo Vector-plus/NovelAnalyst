@@ -1,0 +1,30 @@
+{
+  "id": "thread-0216",
+  "introduced_at": 137,
+  "kind": "story_thread",
+  "label": "陆雪琪隐去与鬼厉诀别一事",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 137,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 137,
+          "start": 137
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0216-001",
+      "resolution_refs": [],
+      "revealed_at": 137,
+      "role": "secondary",
+      "status": "open",
+      "summary": "陆雪琪向道玄真人陈述南疆经历时刻意不提天水寨与鬼厉深夜诀别；水月大师察觉弟子神色有异。"
+    }
+  ]
+}

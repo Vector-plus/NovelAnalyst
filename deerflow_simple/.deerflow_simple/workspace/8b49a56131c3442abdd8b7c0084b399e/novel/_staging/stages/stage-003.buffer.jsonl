@@ -1,0 +1,137 @@
+{"kind": "event", "ref_or_local_id": "ev-local-1", "stage_id": "stage-003", "chapter_order": 32, "note": "本 stage 开篇任务起点：四弟子奉命下山查探空桑山万蝠古窟"}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "stage_id": "stage-003", "chapter_order": 32, "note": "四人离开青云山、抵达河阳城的行程节点"}
+{"kind": "event", "ref_or_local_id": "ev-local-9", "stage_id": "stage-003", "chapter_order": 32, "note": "水绿衣衫少女首次与张小凡夜间相遇，后续关系伏笔"}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "stage_id": "stage-003", "chapter_order": 32, "note": "六合镜赐予齐昊（法宝流向关键）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "stage_id": "stage-003", "chapter_order": 32, "note": "苏茹传授张小凡道法秘诀与御空之法（能力来源）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-46", "stage_id": "stage-003", "chapter_order": 32, "note": "张小凡静坐现金光，与噩梦形成对照，疑似体内异力伏笔"}
+{"kind": "claim", "ref_or_local_id": "claim-local-2", "stage_id": "stage-003", "chapter_order": 32, "note": "空桑山查探任务的任务说明（道玄真人口述）"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 33, "note": "张小凡与碧瑶首次当面交谈；蒙面女子被称为“幽姨”，绿衣少女被称为“碧瑶”；幽姨识出四人为青云门弟子（带头者为龙首峰齐昊）。"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 33, "note": "空桑山万蝠夜袭、六合镜护主成型；张小凡挡在陆雪琪身前的直接互动。"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 33, "note": "称谓揭示：碧瑶 / 幽姨（原文对二人的直接称呼，非推测）。"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 33, "note": "齐昊口述的空桑山背景：八百年前为魔教妖人集聚之地（reported，需与其他来源核对）。"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "三派八人正式进入万蝠古窟，stage 内主要探查线索开启"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "蝙蝠来历（魔教畜养异种、八百年前据点覆灭）为后续魔教线索的世界观依据（reported）"}
+{"kind": "claim", "local_id": "claim-local-31", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "萧逸才三个月前先行来空桑山、至今未见，属跨章悬念（reported）"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "陆雪琪主动请战焚香谷，为其性格/立场的关键展示"}
+{"kind": "character_candidate", "local_id": "法相", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "天音寺法相首次登场，对张小凡表现出特别关注"}
+{"kind": "faction_candidate", "local_id": "焚香谷", "chapter_order": 34, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-003"}, "note": "焚香谷弟子首次登场，与青云门弟子当场摩擦"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 35, "note": "本阶段主线推进节点：双岔路分兵，正道阵营分成两路深入魔教旧巢。"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 35, "note": "张小凡首次以烧火棍反杀妖人并出现吸血/反哺异象，属主角能力异变的首次展示。"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 35, "note": "烧火棍向张小凡回输力量并止血的关键陈述，后续需持续跟踪。"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 35, "note": "妖人自述取精血的意图台词，可用于判断魔教在此的作为。"}
+{"kind": "key_event", "ref_or_candidate": "ev-local-4", "chapter_order": 36, "note": "死灵渊首次出现；魔教主脑人物显露战力"}
+{"kind": "key_claim", "ref_or_candidate": "claim-local-21", "chapter_order": 36, "note": "地点名“死灵渊”首次明文出现，锚点已核对"}
+{"kind": "key_claim", "ref_or_candidate": "claim-local-15", "chapter_order": 36, "note": "魔教伏击计划与“六合镜”护罩被破的经过说明"}
+{"kind": "character_turning_point", "ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "chapter_order": 36, "note": "姜老三精血被吸干、张小凡体内气血异样，为本章的核心悬念"}
+{"kind": "key_event", "local_id": "ev-local-4", "chapter_order": 37, "label": "张小凡与陆雪琪坠入死灵渊"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 37, "label": "缚仙索擒陆雪琪，张小凡重伤"}
+{"kind": "key_reveal", "local_id": "claim-local-4", "chapter_order": 37, "label": "烧火棍由噬血珠与后山黑棒以张小凡精血熔炼"}
+{"kind": "key_statement", "local_id": "claim-local-21", "chapter_order": 37, "label": "年老大自述炼血堂祖师黑心老人败于天琊，欲夺此剑"}
+{"kind": "faction_move", "candidate_name": "炼血堂", "chapter_order": 37, "label": "炼血堂众人围杀青云门四人并图谋天琊"}
+{"local_id": "buf-local-1", "kind": "event", "ref_local_id": "ev-local-3", "chapter_order": 38, "note": "章末生死悬念：烧火棍失效、张小凡昏迷、阴灵围攻"}
+{"local_id": "buf-local-2", "kind": "claim", "ref_local_id": "claim-local-29", "chapter_order": 38, "note": "揭示张小凡另行身具佛门真法大梵般若"}
+{"local_id": "buf-local-3", "kind": "claim", "ref_local_id": "claim-local-28", "chapter_order": 38, "note": "确证张小凡太极玄清道仅第四层"}
+{"local_id": "buf-local-4", "kind": "claim", "ref_local_id": "claim-local-30", "chapter_order": 38, "note": "双法护身解释其受重击不死"}
+{"local_id": "buf-local-5", "kind": "claim", "ref_local_id": "claim-local-22", "chapter_order": 38, "note": "张小凡与陆雪琪堕渊后长时间握手的互动事实（仅记事实，不做定性）"}
+{"local_id": "buf-local-6", "kind": "claim", "ref_local_id": "claim-local-7", "chapter_order": 38, "note": "烧火棍玄青光芒可压制阴灵，为后文攻防依据"}
+{"kind": "key_event", "local_ref": "ev-local-4", "note": "烧火棍首次明写吸取草木生机并反哺张小凡伤势，棍身血丝变色", "chapter_order": 39}
+{"kind": "key_event", "local_ref": "ev-local-5", "note": "张小凡以烧火棍投掷贯穿击杀赤眼猪妖；陆雪琪左肩中毒昏厥", "chapter_order": 39}
+{"kind": "key_statement", "local_ref": "claim-local-27", "note": "叙述者首次给出噬血珠与炼血堂/黑心老人的来历关联，解释阴灵退避", "chapter_order": 39}
+{"kind": "character_turn", "local_ref": "ev-local-6", "note": "死灵渊下绿衣少女（候选）现身，张小凡认出为河阳城山海苑所见之人", "chapter_order": 39}
+{"kind": "faction_move", "local_ref": "claim-local-27", "note": "炼血堂/黑心老人背景信息：基业设于万蝠古窟地底迷宫", "chapter_order": 39}
+{"kind": "event", "local_id": "ev-local-1", "note": "本 stage 内张小凡与碧瑶首次正面相遇并交手，关系定性的关键互动证据", "chapter_order": 40}
+{"kind": "event", "local_id": "ev-local-2", "note": "幽姨出场并质疑烧火棍来历，指向圣教渊源线索", "chapter_order": 40}
+{"kind": "event", "local_id": "ev-local-3", "note": "黑水玄蛇首次登场，本 stage 绝地危机升级", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-12", "note": "烧火棍与圣教有关的疑点（角色推测，reported）", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-19", "note": "黑水玄蛇/黄鸟的世系与传闻设定（角色口述）", "chapter_order": 40}
+{"kind": "claim", "local_id": "claim-local-14", "note": "张小凡“不走”的表态，人物转折点证据", "chapter_order": 40}
+{"kind": "setting", "local_id": "setting-candidate-hanhai", "note": "无情海/滴血洞地点链在本 stage 推进", "chapter_order": 40}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "黑水玄蛇正式发难，击散正道与魔教众人", "chapter_order": 41}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "张小凡与陆雪琪失散，陆雪琪下落成悬念", "chapter_order": 41}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "note": "张小凡与碧瑶被困同一石洞，敌方人物被迫共处", "chapter_order": 41}
+{"record_ref_or_local_id": "claim-local-11", "kind": "claim", "note": "叙述明示张小凡具道佛两家真法护体", "chapter_order": 41}
+{"record_ref_or_local_id": "claim-local-32", "kind": "claim", "note": "章末悬念：石壁红色痕迹引发碧瑶强烈反应", "chapter_order": 41}
+{"kind": "event", "local_id": "ev-local-1", "note": "滴血洞被认出：八百年来魔教寻找未果之地首次确认位置，阶段关键地点线索起点", "chapter_order": 42}
+{"kind": "event", "local_id": "ev-local-4", "note": "滴血洞石门开启，两人首次进入秘洞，是阶段内绝地线的重要转折", "chapter_order": 42}
+{"kind": "claim", "local_id": "claim-local-10", "note": "炼血堂密宝传说与万蝠古窟—滴血洞地理关系，后续线索的设定基础", "chapter_order": 42}
+{"kind": "claim", "local_id": "claim-local-7", "note": "碧瑶身份为鬼王宗重要人物、奉宗主重托来死灵渊，势力动机证据", "chapter_order": 42}
+{"kind": "claim", "local_id": "claim-local-21", "note": "碧瑶自称「圣教四十三代弟子」拜幽明圣母、天煞明王，组织身份与信仰证据", "chapter_order": 42}
+{"kind": "claim", "local_id": "claim-local-16", "note": "双方互通姓名，人物识别节点", "chapter_order": 42}
+{"kind": "event", "ref_local_id": "ev-local-4", "tag": "天书首次现世", "note": "主角在绝地石室发现《天书·第一卷》石刻", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-17", "tag": "关键揭示", "note": "石刻开头两字为「天书」", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-20", "tag": "核心秘密", "note": "张小凡察觉道佛两家修真道法在天书中殊途同归", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-21", "tag": "核心秘密", "note": "魔教诸般神通根源在天书", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-18", "tag": "人物陈述", "note": "碧瑶称天书为圣教经典（reported）", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-14", "tag": "物品线索", "note": "小铃铛被碧瑶取得并系于腰间", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-25", "tag": "待解文本", "note": "骷髅遮住的石壁四行字", "chapter_order": 43}
+{"kind": "claim", "ref_local_id": "claim-local-8", "tag": "人物背景", "note": "碧瑶父亲在魔教位高权重（叙述交代）", "chapter_order": 43}
+{"kind": "event", "local_ref": "ev-local-4", "chapter_order": 44, "note": "碧瑶获得/认出刻有“合欢铃”的金铃，法宝线关键证据"}
+{"kind": "event", "local_ref": "ev-local-6", "chapter_order": 44, "note": "张小凡高烧胡话暴露草庙村屠村旧事与“师姐”线索"}
+{"kind": "claim", "local_ref": "claim-local-41", "chapter_order": 44, "note": "叙述确认张小凡念念不忘者为大竹峰田灵儿"}
+{"kind": "claim", "local_ref": "claim-local-8", "chapter_order": 44, "note": "碧瑶自称圣教弟子、曾在幽明圣母与天煞明王座前立重誓（角色陈述）"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 45, "note": "痴情咒首次现世，由合欢铃开启石壁机关"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 45, "note": "碧瑶身世（六狐洞活埋、娘亲之死）首次披露，为关键人物转折点"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 45, "note": "碧瑶自述天音寺普方以浮屠金钵震塌六狐洞（门派旧怨，reported）"}
+{"kind": "claim", "local_id": "claim-local-34", "chapter_order": 45, "note": "碧瑶讲述中断于娘亲“那只手”，留有未解细节"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 45, "note": "碧瑶请求先杀她并食其肉，绝境中的关键请求"}
+{"local_id": "ev-local-5", "kind": "event", "chapter_order": 46, "note": "滴血洞脱困核心事件：开天斧装回神像触发机括、石壁暗道开启"}
+{"local_id": "claim-local-5", "kind": "claim", "chapter_order": 46, "note": "碧瑶自陈害死娘亲（仅其自述），为人物转折点证据"}
+{"local_id": "claim-local-11", "kind": "claim", "chapter_order": 46, "note": "碧瑶点破张小凡惦记灵儿师姐，称来自其重病胡话"}
+{"local_id": "claim-local-20", "kind": "claim", "chapter_order": 46, "note": "炼血堂与滴血洞暗道来历，势力/场景背景证据"}
+{"local_id": "claim-local-33", "kind": "claim", "chapter_order": 46, "note": "二人溪边相邻入睡、碧瑶睡中抓住张小凡肩膀的互动事实"}
+{"local_id": "buf-local-1", "kind": "event", "local_ref": "ev-local-1", "note": "张小凡与碧瑶因正邪立场分手，碧瑶放话他日取其人头，关系转为决裂", "chapter_order": 47}
+{"local_id": "buf-local-2", "kind": "event", "local_ref": "ev-local-2", "note": "碧瑶被自称“爹”的男子接走，该男子身份待定", "chapter_order": 47}
+{"local_id": "buf-local-3", "kind": "event", "local_ref": "ev-local-4", "note": "烧火棍内珠子被指为魔教圣物噬血珠、黑心老人遗物", "chapter_order": 47}
+{"local_id": "buf-local-4", "kind": "claim", "local_ref": "claim-local-18", "note": "关键新人物万人往登场并自报名号", "chapter_order": 47}
+{"local_id": "buf-local-5", "kind": "claim", "local_ref": "claim-local-26", "note": "关键陈述：噬血珠/八百年/黑心老人（reported，未经他证）", "chapter_order": 47}
+{"buffer_type": "key_event", "local_id": "ev-local-4", "chapter_order": 48, "note": "万人往被属下称「宗主」、碧瑶称其为「爹」，并在此章道出以戾气侵蚀逼张小凡入教的长期图谋"}
+{"buffer_type": "key_claim", "local_id": "claim-local-3", "chapter_order": 48, "note": "烧火棍真身为「摄魂」的首次揭示"}
+{"buffer_type": "key_claim", "local_id": "claim-local-23", "chapter_order": 48, "note": "噬血珠与摄魂被张小凡精血炼成血炼法宝、他人不可驱用"}
+{"buffer_type": "key_claim", "local_id": "claim-local-9", "chapter_order": 48, "note": "张小凡自幼信念首次出现裂痕，为后续正邪立场转折的关键节点"}
+{"buffer_type": "key_claim", "local_id": "claim-local-16", "chapter_order": 48, "note": "魔教在东海流波山聚集、正魔大战将起的预告（角色转述，未证实）"}
+{"buffer_type": "key_event", "local_id": "ev-local-7", "chapter_order": 48, "note": "石头登场：自称金刚门大力尊者传人，祭「破煞」狼牙棒碎墙"}
+{"buffer_type": "new_entity_seed", "local_id": "ev-local-8", "chapter_order": 48, "note": "看相老者与小女孩首次出现（姓名未明），后续章节需确认身份"}
+{"ref_kind": "event", "local_id": "ev-local-3", "why": "本阶段主线：张小凡与石头结伴赴黑石洞除妖，除妖行动开始", "chapter_order": 49}
+{"ref_kind": "event", "local_id": "ev-local-4", "why": "碧瑶在本阶段再次登场并与张小凡正面相遇", "chapter_order": 49}
+{"ref_kind": "claim", "local_id": "claim-local-31", "why": "张小凡对自身邪物法宝的自我怀疑，为其心理转折点", "chapter_order": 49}
+{"ref_kind": "claim", "local_id": "claim-local-16", "why": "周一仙自称与青云门同宗别脉，涉及势力渊源线索", "chapter_order": 49}
+{"ref_kind": "claim", "local_id": "claim-local-15", "why": "“乱魔命”命数说法，与张小凡命格相关的悬置信息", "chapter_order": 49}
+{"kind": "key_event", "local_id": "ev-local-4", "chapter_order": 50, "note": "小池镇除妖主线推进：黑石洞外古井对峙三尾妖狐，破煞发威，张小凡窥井结果留悬念"}
+{"kind": "key_statement", "local_id": "claim-local-32", "chapter_order": 50, "note": "叙述明确碧瑶为魔教鬼王宗宗主独生女（身份类关键事实）"}
+{"kind": "key_statement", "local_id": "claim-local-23", "chapter_order": 50, "note": "三尾妖狐称古井可偿愿，且“他的病”看井三次无起色——指向一名未出场对象"}
+{"kind": "key_event", "local_id": "ev-local-1", "chapter_order": 50, "note": "张小凡公开否认与碧瑶的关系，碧瑶当场翻脸，二人互动出现明确摩擦"}
+{"kind": "faction_signal", "local_id": "claim-local-15", "chapter_order": 50, "note": "周一仙持有青云子传下的道家符咒土遁之术，暗示其与青云门一脉的渊源线索（本章未明说）"}
+{"kind": "event", "ref_local_id": "ev-local-2", "note": "烧火棍首次显出令五百年道行妖狐几近失色的邪煞威能，旁观者周一仙当场惊疑其来历。", "chapter_order": 51}
+{"kind": "event", "ref_local_id": "ev-local-4", "note": "焚香谷镇谷奇珍“玄火鉴”首次现世，持于三尾妖狐之手。", "chapter_order": 51}
+{"kind": "claim", "ref_local_id": "claim-local-18", "note": "张小凡对“正道/正义”与师门教诲产生自我怀疑，为价值观转向的早期节点。", "chapter_order": 51}
+{"kind": "claim", "ref_local_id": "claim-local-25", "note": "张小凡认定烧火棍（“摄魂”）以妖物阴灵厉魄炼成，与万人往之言相互印证。", "chapter_order": 51}
+{"kind": "setting", "ref_local_id": null, "note": "新势力/物品线索：焚香谷及其镇谷奇珍玄火鉴（均无既有档案，已登记候选）。", "chapter_order": 51}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 52, "note": "玄火鉴首次实战展示：图腾复燃、喷出火龙，与石头/张小凡/碧瑶交锋后三尾妖狐遁走"}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "chapter_order": 52, "note": "三尾妖狐化白光遁走，追缉转入黑石洞"}
+{"kind": "claim", "ref_or_local_id": "claim-local-9", "chapter_order": 52, "note": "周一仙关于玄火鉴来历与八荒火龙的传闻（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "chapter_order": 52, "note": "满月之井设定：满月望井可见最心爱之人或事物（周一仙推断）"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 52, "note": "周一仙、小环亲验古井，各自所见不同，古井之谜仍未解"}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "chapter_order": 52, "note": "黑石洞地底断崖下发现大规模异兽群落，温度随深度升高"}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "chapter_order": 52, "note": "碧瑶战中暗握腰间小金铃，细节留存待后续印证"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 53, "note": "本章最重要转折：张小凡被深渊未知触手生物卷走，主角团分散，悬念跨章。"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 53, "note": "焚香谷李洵、燕虹正式登场并投身同一深渊，与张小凡一行线索汇合。"}
+{"kind": "claim", "local_id": "claim-local-24", "chapter_order": 53, "note": "焚香谷此行目的：除妖狐余孽、追回玄火鉴（角色言论，需后续验证归属与动机）。"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 53, "note": "周一仙口述的势力格局：焚香谷与青云门、天音寺并列三大正道大派。"}
+{"kind": "claim", "local_id": "claim-local-47", "chapter_order": 53, "note": "烧火棍对未知触手生物造成枯萎伤害，属能力表现，可作为后续战斗描写参照。"}
+{"kind": "claim", "local_id": "claim-local-41", "chapter_order": 53, "note": "石头（破煞法杖）全力一击破壁并击落火龙，战斗能力上限表现，且付出吐血代价。"}
+{"kind": "event", "chapter_order": 54, "local_id": "ev-local-5", "note": "张小凡首次以《天书》总纲调和佛道二法，烧火棍异变——人物转折点"}
+{"kind": "event", "chapter_order": 54, "local_id": "ev-local-7", "note": "地底岩浆岩洞中出现六尾白狐，本阶段收束前的关键揭示"}
+{"kind": "claim", "chapter_order": 54, "local_id": "claim-local-8", "note": "焚香谷玄火神器失窃与六尾魔狐受创的旧事（角色陈述，待后文验证）"}
+{"kind": "claim", "chapter_order": 54, "local_id": "claim-local-33", "note": "六尾白狐形象（六只尾巴）——身份判定核心证据"}
+{"ref_type": "event", "local_id": "ev-local-3", "chapter_order": 55, "note": "本阶段关键收束事件：三尾妖狐以玄火鉴自尽，六尾白狐垂死"}
+{"ref_type": "event", "local_id": "ev-local-2", "chapter_order": 55, "note": "外部战局通报：焚香谷两名年轻弟子抵达、火龙洞被封锁"}
+{"ref_type": "claim", "local_id": "claim-local-24", "chapter_order": 55, "note": "三尾妖狐死亡方式与玄火鉴的实际用法（自伤贯穿躯体）"}
+{"ref_type": "claim", "local_id": "claim-local-20", "chapter_order": 55, "note": "六尾白狐道行被九寒凝冰刺冰毒毁坏的自陈，涉及焚香谷旧怨"}
+{"ref_type": "claim", "local_id": "claim-local-17", "chapter_order": 55, "note": "焚香谷弟子现身的势力动向"}
+{"ref_type": "claim", "local_id": "claim-local-31", "chapter_order": 55, "note": "“狐岐山”唤起张小凡熟悉感的伏笔"}
+{"ref_type": "claim", "local_id": "claim-local-34", "chapter_order": 55, "note": "妖狐言论令张小凡想起万人往，心志受影响的证据点"}
+{"record_kind": "event", "local_id": "ev-local-1", "tags": ["妖狐结局", "小池镇除妖任务收束", "stage-003 收尾"], "note": "本 stage（32~56）以双狐殉情自尽作结，除妖主线在小池镇结束。", "chapter_order": 56}
+{"record_kind": "event", "local_id": "ev-local-2", "tags": ["法宝转移", "玄火鉴", "长期伏笔"], "note": "玄火鉴由六尾白狐转交张小凡并被要求隐瞒，为后续法宝线关键节点。", "chapter_order": 56}
+{"record_kind": "claim", "local_id": "claim-local-21", "tags": ["隐瞒", "人物转折", "张小凡"], "note": "张小凡首次明确向正道同侪隐瞒实情，理由是感念妖狐。", "chapter_order": 56}
+{"record_kind": "claim", "local_id": "claim-local-26", "tags": ["势力动向", "流波山", "正道聚合"], "note": "魔教蠢动与正道齐赴东海流波山，为下一阶段情节指向。", "chapter_order": 56}
+{"record_kind": "claim", "local_id": "claim-local-28", "tags": ["身份风险", "碧瑶", "合欢魔铃"], "note": "燕虹点出碧瑶金铃，焚香谷一方对碧瑶产生留意的直接证据。", "chapter_order": 56}

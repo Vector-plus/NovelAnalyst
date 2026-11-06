@@ -1,0 +1,30 @@
+{
+  "id": "thread-0099",
+  "introduced_at": 61,
+  "kind": "story_thread",
+  "label": "雨夜现身女子的真实身份",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 61,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 61,
+          "start": 61
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0099-001",
+      "resolution_refs": [],
+      "revealed_at": 61,
+      "role": "setup",
+      "status": "open",
+      "summary": "暴雨之夜现身安慰张小凡的女子，叙述以陆雪琪之名描写，但张小凡事后无法确认她是否真的出现过，身份与真伪留待后文。"
+    }
+  ]
+}

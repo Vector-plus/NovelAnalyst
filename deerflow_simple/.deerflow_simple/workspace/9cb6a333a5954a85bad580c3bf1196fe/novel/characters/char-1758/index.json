@@ -1,6 +1,35 @@
 {
+  "current": {
+    "current_summary": "第1029—1051章：以黑衣人之身入青霖洞府，眉心有黑龙印记，能吸火元力，对王林极度忌惮而刻意保持距离，一面觊觎其本源与火朱雀，一面断言朱雀圣宗将因王林崛起；奉幕后「大人」之命以三滴青霖之血为任务目标；肉身被王林斩碎后元神当众自称「掌尊坐下第七弟子罗睺」，随即被王林吞噬，与三火融合凝成本源火种，仅余「掌尊」「大人」的未决线索。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 962
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-1758/index.json",
+          "record_id": "char-1758"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 1119,
+      "summary": "仙帝洞府中的潜伏与罗睺自陈（第962—1119章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-1758/stages/stage-024.md",
+        "record_id": "doc-char-1758-stage-024"
+      },
+      "title": "仙帝洞府中的潜伏与罗睺自陈"
+    }
+  ],
   "id": "char-1758",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +38,7 @@
   "label": "黑衣人",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 799,
+  "revision": 3,
+  "safe_through": 1119,
   "schema_version": "2.0"
 }

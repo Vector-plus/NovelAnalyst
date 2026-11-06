@@ -1,0 +1,30 @@
+{
+  "id": "thread-0106",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "万剑一之名与魔教百年旧怨",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0106-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "advanced",
+      "status": "open",
+      "summary": "端木老祖、百毒子对万剑一极为忌惮且恨之入骨；田不易称其早已羽化登仙，魔教诸人闻之震动并扬言要杀上青云挫骨扬灰；青云年轻一辈对其名一无所知。"
+    }
+  ]
+}

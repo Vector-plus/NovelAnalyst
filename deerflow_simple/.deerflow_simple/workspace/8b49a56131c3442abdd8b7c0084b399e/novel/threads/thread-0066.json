@@ -1,0 +1,30 @@
+{
+  "id": "thread-0066",
+  "introduced_at": 41,
+  "kind": "story_thread",
+  "label": "陆雪琪下落不明、中毒未清",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 41,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "survival",
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0066-001",
+      "resolution_refs": [],
+      "revealed_at": 41,
+      "role": "dangling",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

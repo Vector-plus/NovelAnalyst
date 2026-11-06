@@ -1,0 +1,30 @@
+{
+  "id": "thread-1239",
+  "introduced_at": 1121,
+  "kind": "story_thread",
+  "label": "归元宗欲在千年分宗大比脱离末位",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1121,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 1121,
+          "start": 1121
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1239-001",
+      "resolution_refs": [],
+      "revealed_at": 1121,
+      "role": "introduced",
+      "status": "open",
+      "summary": "掌门遗憾未能踏入碎涅，寄望弟子在百年后的分宗大比使归元宗不再居末位。"
+    }
+  ]
+}

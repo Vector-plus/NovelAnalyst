@@ -1,0 +1,30 @@
+{
+  "id": "thread-0090",
+  "introduced_at": 56,
+  "kind": "story_thread",
+  "label": "玄火鉴被张小凡隐瞒带离小池镇",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 56,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item_destination",
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0090-001",
+      "resolution_refs": [],
+      "revealed_at": 56,
+      "role": "setup",
+      "status": "open",
+      "summary": "六尾白狐将玄火鉴绑于张小凡右臂并要他勿示人；李洵追问时张小凡答未见，李洵判定法宝已随妖狐沉入岩浆，燕虹遂作罢。周一仙推测法宝被焚香谷弟子收回。法宝实仍在张小凡身上。"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "朱雀墓夺命魂与离星阶段（第428—455章）：其早先对修星之晶的封印仍是朱雀星无人能抽回命魂的根本原因；本阶段前中期未在朱雀墓中心现身，后段于四级修真国周国一带再现并与王林汇合，最终与王林一同冲出朱雀星踏入星空。"
+    "current_summary": "第966—1103章：携红粉宫女修自天运星至水灵星寻访王林，自称一别数百年为寻兄弟而暗图凤栾星；以寂灭变与规则之力破水灵星三层护星大阵并卷走赵雪、灵儿，与王林重逢交手后于绝峰叙旧，当面点出其化名「许木」并揭示自身身中「欲仙欲死」之毒；确认解药在雨之仙界，决定与王林同赴妖灵之地；此后得知青霖处亦无解法，毒素仅被禁锢未除；雨界之行后于青霖重凝的新雨之仙界拜青霖为师，获允解毒，归属转为青霖门下弟子。"
   },
   "entity_type": "character",
   "entries": [
@@ -53,6 +53,31 @@
         "record_id": "doc-char-0115-stage-014"
       },
       "title": "朱雀墓夺命魂与离星阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 1119,
+          "start": 962
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0115/index.json",
+          "record_id": "char-0115"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 1119,
+      "summary": "天运星寻兄弟至拜入青霖门下解毒（第962—1119章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0115/stages/stage-024.md",
+        "record_id": "doc-char-0115-stage-024"
+      },
+      "title": "天运星寻兄弟至拜入青霖门下解毒"
     }
   ],
   "id": "char-0115",
@@ -63,7 +88,7 @@
   "label": "司徒南",
   "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
   "related_materials": [],
-  "revision": 5,
-  "safe_through": 455,
+  "revision": 7,
+  "safe_through": 1119,
   "schema_version": "2.0"
 }

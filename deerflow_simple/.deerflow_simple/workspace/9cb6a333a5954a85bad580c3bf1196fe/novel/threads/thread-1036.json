@@ -1,0 +1,30 @@
+{
+  "id": "thread-1036",
+  "introduced_at": 972,
+  "kind": "story_thread",
+  "label": "妖灵之地再次开启的时限",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 972,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 972,
+          "start": 972
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1036-001",
+      "resolution_refs": [],
+      "revealed_at": 972,
+      "role": "setup",
+      "status": "active",
+      "summary": "浮风子称妖灵之地短则数月、长则半年内会再开，王林一行时间不多。"
+    }
+  ]
+}

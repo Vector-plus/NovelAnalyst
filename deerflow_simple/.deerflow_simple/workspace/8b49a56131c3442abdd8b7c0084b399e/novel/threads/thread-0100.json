@@ -1,0 +1,30 @@
+{
+  "id": "thread-0100",
+  "introduced_at": 66,
+  "kind": "story_thread",
+  "label": "青云掌门之位之争（苍松与萧逸才）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 66,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_struggle",
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0100-001",
+      "resolution_refs": [],
+      "revealed_at": 66,
+      "role": "setup",
+      "status": "active",
+      "summary": "田不易与苏茹议论：道玄专心参道、门务多由苍松主持，门中已有“住在龙首峰的掌门”之议，萧逸才接任掌门出现疑问；田不易认为萧逸才私下示好是为日后相争留人情。"
+    }
+  ]
+}

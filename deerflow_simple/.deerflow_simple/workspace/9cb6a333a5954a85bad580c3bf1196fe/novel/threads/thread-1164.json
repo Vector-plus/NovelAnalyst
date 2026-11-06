@@ -1,0 +1,30 @@
+{
+  "id": "thread-1164",
+  "introduced_at": 1068,
+  "kind": "story_thread",
+  "label": "朱雀九玄变传承",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1068,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "technique",
+      "chapter_ranges": [
+        {
+          "end": 1068,
+          "start": 1068
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1164-001",
+      "resolution_refs": [],
+      "revealed_at": 1068,
+      "role": "core",
+      "status": "new",
+      "summary": "老者向白衣青年讲述朱雀圣宗历代圣皇必修神通「朱雀九玄变」，称其为太古传承、当今天下巅峰神通之一。"
+    }
+  ]
+}

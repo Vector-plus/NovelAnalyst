@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "风回峰弟子、会武大热门，先赢一场后进入四强，半决赛对齐昊；同时是会武期间的门内情报中转者，转述过三眼灵猴、天琊与噬血珠／枯心上人的关联等说法。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 17
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0053/index.json",
+          "record_id": "char-0053"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 31,
+      "summary": "七脉会武与血炼疑云阶段（第17—31章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0053/stages/stage-002.md",
+        "record_id": "doc-char-0053-stage-002"
+      },
+      "title": "七脉会武与血炼疑云阶段"
+    }
+  ],
+  "id": "char-0053",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 22,
+  "kind": "entity_index",
+  "label": "曾书书",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 31,
+  "schema_version": "2.0"
+}

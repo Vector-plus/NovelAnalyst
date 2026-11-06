@@ -1,0 +1,30 @@
+{
+  "id": "thread-0029",
+  "introduced_at": 15,
+  "kind": "story_thread",
+  "label": "张小凡私自习练太极玄清道第三层法诀",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 15,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 15,
+          "start": 15
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0029-001",
+      "resolution_refs": [],
+      "revealed_at": 15,
+      "role": "setup",
+      "status": "open",
+      "summary": "田灵儿私授的第三层法诀需张小凡隐瞒众人修习，一旦被田不易、苏茹发现，田灵儿将受责罚，此线尚未展开。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "thread-0078",
+  "introduced_at": 48,
+  "kind": "story_thread",
+  "label": "突兀登场的看相老者与小女孩",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 48,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 48,
+          "start": 48
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1706"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1708"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1709"
+        },
+        {
+          "path": "events/block-0003.json",
+          "record_id": "claim-1711"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0078-001",
+      "resolution_refs": [],
+      "revealed_at": 48,
+      "role": "introduced",
+      "status": "ongoing",
+      "summary": "看相老者以凶兆之言截住张小凡并要为他看相，其与随行小女孩的来历、姓名原文未明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0047",
+  "introduced_at": 29,
+  "kind": "story_thread",
+  "label": "田灵儿与齐昊之事遭到田不易夫妇反对",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 29,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "relationship_conflict",
+      "chapter_ranges": [
+        {
+          "end": 29,
+          "start": 29
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0047-001",
+      "resolution_refs": [],
+      "revealed_at": 29,
+      "role": "main",
+      "status": "escalating",
+      "summary": "田灵儿因父母责骂夜哭，声称已知情者经由文敏等人、水月大师传到苏茹处，并立誓仍要与齐昊在一起。"
+    }
+  ]
+}

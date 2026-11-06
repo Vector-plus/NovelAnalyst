@@ -1,0 +1,30 @@
+{
+  "id": "thread-0040",
+  "introduced_at": 22,
+  "kind": "story_thread",
+  "label": "张小凡对小灰身世（三眼灵猴）的了解",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 22,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "setting",
+      "chapter_ranges": [
+        {
+          "end": 22,
+          "start": 22
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0040-001",
+      "resolution_refs": [],
+      "revealed_at": 22,
+      "role": "secondary",
+      "status": "opened",
+      "summary": "经曾书书指出，张小凡确认小灰为三眼灵猴，并在其额头看到浅浅竖痕；关于其成年开灵目、能通五行仙术的说法来自书中记载，尚未在文中验证。"
+    }
+  ]
+}

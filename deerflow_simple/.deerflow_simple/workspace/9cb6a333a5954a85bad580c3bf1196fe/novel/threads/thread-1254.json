@@ -1,0 +1,30 @@
+{
+  "id": "thread-1254",
+  "introduced_at": 1130,
+  "kind": "story_thread",
+  "label": "极阴之魂不完整且饲养方法有误，线索指向紫道宗",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1130,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadow",
+      "chapter_ranges": [
+        {
+          "end": 1130,
+          "start": 1130
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1254-001",
+      "resolution_refs": [],
+      "revealed_at": 1130,
+      "role": "setup",
+      "status": "open",
+      "summary": "王林封存的极阴之魂只有一丝且不完整；他推断此物既属卢迪，紫道宗内定有线索。"
+    }
+  ]
+}

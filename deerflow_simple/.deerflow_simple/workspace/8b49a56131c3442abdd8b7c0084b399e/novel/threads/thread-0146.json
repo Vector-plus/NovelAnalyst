@@ -1,0 +1,30 @@
+{
+  "id": "thread-0146",
+  "introduced_at": 96,
+  "kind": "story_thread",
+  "label": "鬼王宗宗主吩咐的“大事”",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 96,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0146-001",
+      "resolution_refs": [],
+      "revealed_at": 96,
+      "role": "introduce",
+      "status": "open",
+      "summary": "幽姬提到宗主吩咐要进行的大事不可耽搁，青龙与幽姬随即离开大王村，直向死亡沼泽。宗主身份与大事内容本章未明示。"
+    }
+  ]
+}

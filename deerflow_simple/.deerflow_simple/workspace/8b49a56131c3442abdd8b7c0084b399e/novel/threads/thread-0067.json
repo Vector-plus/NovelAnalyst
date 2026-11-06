@@ -1,0 +1,30 @@
+{
+  "id": "thread-0067",
+  "introduced_at": 41,
+  "kind": "story_thread",
+  "label": "洞顶石壁的红色痕迹引碧瑶紧张",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 41,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 41,
+          "start": 41
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0067-001",
+      "resolution_refs": [],
+      "revealed_at": 41,
+      "role": "clue",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

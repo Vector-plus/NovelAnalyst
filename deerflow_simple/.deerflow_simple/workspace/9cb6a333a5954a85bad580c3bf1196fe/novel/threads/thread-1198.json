@@ -1,0 +1,30 @@
+{
+  "id": "thread-1198",
+  "introduced_at": 1092,
+  "kind": "story_thread",
+  "label": "将红色玉简送往昆虚之境、救援青龙圣皇",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1092,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mission",
+      "chapter_ranges": [
+        {
+          "end": 1092,
+          "start": 1092
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1198-001",
+      "resolution_refs": [],
+      "revealed_at": 1092,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

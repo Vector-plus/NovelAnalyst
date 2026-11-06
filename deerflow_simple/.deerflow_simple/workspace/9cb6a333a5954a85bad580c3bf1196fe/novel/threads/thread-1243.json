@@ -1,0 +1,30 @@
+{
+  "id": "thread-1243",
+  "introduced_at": 1125,
+  "kind": "story_thread",
+  "label": "紫袍青年欲夺归元宗、掳吕烟菲为炉鼎",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1125,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1125,
+          "start": 1125
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1243-001",
+      "resolution_refs": [],
+      "revealed_at": 1125,
+      "role": "antagonist_threat",
+      "status": "active",
+      "summary": "紫袍青年与宋叔乘百丈凶兽行于云海五阶星域星雾中，宋叔称那老道死后已有十成把握，对归元宗的图谋正在推进。"
+    }
+  ]
+}

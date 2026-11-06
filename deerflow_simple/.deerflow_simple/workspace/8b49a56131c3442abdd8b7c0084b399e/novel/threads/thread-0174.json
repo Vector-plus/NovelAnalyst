@@ -1,0 +1,30 @@
+{
+  "id": "thread-0174",
+  "introduced_at": 114,
+  "kind": "story_thread",
+  "label": "上官策离开玄火坛与祭坛被外人闯入",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 114,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 114,
+          "start": 114
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0174-001",
+      "resolution_refs": [],
+      "revealed_at": 114,
+      "role": "open",
+      "status": "open",
+      "summary": "鬼厉推断镇守此处的上官老者因有火焰异兽守护才敢离开；第三层女子亦以“上官老鬼”称呼守坛者并追问其是否已死。"
+    }
+  ]
+}

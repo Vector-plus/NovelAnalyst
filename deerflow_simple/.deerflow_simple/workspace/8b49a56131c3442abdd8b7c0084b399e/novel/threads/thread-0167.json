@@ -1,0 +1,30 @@
+{
+  "id": "thread-0167",
+  "introduced_at": 106,
+  "kind": "story_thread",
+  "label": "小灰的异变与天帝宝库所饮液体、所吞奇石",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 106,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0167-001",
+      "resolution_refs": [],
+      "revealed_at": 106,
+      "role": "setup",
+      "status": "open",
+      "summary": "小灰自天帝宝库饮下神秘液体并吞下奇石后嗜睡两日，体重骤增、毛色变亮、额头灰痕加深，本章由小环指出体重与灰痕变化。"
+    }
+  ]
+}

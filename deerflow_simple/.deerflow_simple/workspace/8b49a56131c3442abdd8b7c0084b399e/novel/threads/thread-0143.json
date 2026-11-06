@@ -1,0 +1,30 @@
+{
+  "id": "thread-0143",
+  "introduced_at": 95,
+  "kind": "story_thread",
+  "label": "青龙与朱雀二圣使前往死泽",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 95,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "faction_movement",
+      "chapter_ranges": [
+        {
+          "end": 95,
+          "start": 95
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0143-001",
+      "resolution_refs": [],
+      "revealed_at": 95,
+      "role": "setup",
+      "status": "open",
+      "summary": "燕回据总堂消息告知鬼厉：四大圣使中的青龙、朱雀数日前突然向死泽方向而来；鬼厉要求不宣扬、照旧行事、静观其变。"
+    }
+  ]
+}

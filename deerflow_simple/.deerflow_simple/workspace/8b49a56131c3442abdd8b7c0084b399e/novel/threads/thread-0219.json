@@ -1,0 +1,30 @@
+{
+  "id": "thread-0219",
+  "introduced_at": 140,
+  "kind": "story_thread",
+  "label": "兽妖（兽神）立誓让一切为玲珑陪葬",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 140,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 140,
+          "start": 140
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0219-001",
+      "resolution_refs": [],
+      "revealed_at": 140,
+      "role": "escalating",
+      "status": "open",
+      "summary": "兽妖在玲珑石像前宣言要让所有一切陪葬后再来找她；此前巫妖已报十三妖王收服十万大山残余蛮族听命于他。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-1153",
+  "introduced_at": 1047,
+  "kind": "story_thread",
+  "label": "王林一方与古魔塔珈的正面交锋",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1047,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 1047,
+          "start": 1047
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1153-001",
+      "resolution_refs": [],
+      "revealed_at": 1047,
+      "role": "development",
+      "status": "ongoing",
+      "summary": "刀芒事件后古魔塔珈抓走黑衣人元神，一吼重创王巍、胡娟与虚空子；王林化出古神真身，对抗尚未结束。"
+    }
+  ]
+}

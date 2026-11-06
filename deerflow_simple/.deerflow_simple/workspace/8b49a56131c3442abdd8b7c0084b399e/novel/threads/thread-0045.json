@@ -1,0 +1,30 @@
+{
+  "id": "thread-0045",
+  "introduced_at": 27,
+  "kind": "story_thread",
+  "label": "七脉会武进程：大竹峰仅剩张小凡一人，第四轮待战",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 27,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "contest",
+      "chapter_ranges": [
+        {
+          "end": 27,
+          "start": 27
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0045-001",
+      "resolution_refs": [],
+      "revealed_at": 27,
+      "role": "active",
+      "status": "ongoing",
+      "summary": "会武已至第四轮，大竹峰其余弟子（含田灵儿、宋大仁）均已落败，田不易决定让张小凡明日继续参赛。"
+    }
+  ]
+}

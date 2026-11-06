@@ -1,0 +1,30 @@
+{
+  "id": "thread-0208",
+  "introduced_at": 135,
+  "kind": "story_thread",
+  "label": "石像女子「玲珑」与巫女娘娘的身份关系",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 135,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 135,
+          "start": 135
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0208-001",
+      "resolution_refs": [],
+      "revealed_at": 135,
+      "role": "core",
+      "status": "opened",
+      "summary": "石像女子眼中落泪，复生男子抚像低唤「玲珑」，石像、娘娘、玲珑三者关系尚未明示。"
+    }
+  ]
+}

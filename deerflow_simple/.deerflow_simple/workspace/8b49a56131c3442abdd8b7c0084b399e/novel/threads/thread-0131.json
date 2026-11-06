@@ -1,0 +1,30 @@
+{
+  "id": "thread-0131",
+  "introduced_at": 87,
+  "kind": "story_thread",
+  "label": "鬼王宗寻找黑巫族",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 87,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 87,
+          "start": 87
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0131-001",
+      "resolution_refs": [],
+      "revealed_at": 87,
+      "role": "story_thread",
+      "status": "open",
+      "summary": "幽姬询问进展，青龙称黑巫族只千年前昙花一现、目前毫无头绪。"
+    }
+  ]
+}

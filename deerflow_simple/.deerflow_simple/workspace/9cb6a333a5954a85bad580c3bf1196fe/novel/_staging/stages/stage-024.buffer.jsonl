@@ -1,0 +1,838 @@
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-3", "note": "王林首次在实战中以一拳幻化近百丈古神手臂虚影，并召出灭神矛击溃净涅初期老者的涂罗浮尘", "chapter_order": 962}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-19", "note": "王林自评战力：可杀净涅初期，若化古神真身可与净涅中期一战", "chapter_order": 962}
+{"buffer_kind": "key_claim", "ref_or_local_id": "claim-local-25", "note": "新线索：肉山老者的青光小盾带微弱古神气息", "chapter_order": 962}
+{"buffer_kind": "faction_move", "ref_or_local_id": "claim-local-5", "note": "肉山老者为仙府钥匙与巨魔族坐骑出手，索要钥匙失败后血遁遁走", "chapter_order": 962}
+{"local_id": "ev-local-1", "kind": "event", "note": "王林首次在天运星施展缩地成寸并以一拳逼降净涅老者，为能力展示节点", "chapter_order": 963}
+{"local_id": "ev-local-2", "kind": "event", "note": "王林以奴印＋心机封印收服浮风子，确立妖灵之地之行的关键助力与事后解封约定", "chapter_order": 963}
+{"local_id": "claim-local-8", "kind": "claim", "note": "老者自陈本名陈风、道号浮风子（身份揭示，reported）", "chapter_order": 963}
+{"local_id": "claim-local-11", "kind": "claim", "note": "王林真实修为仍为窥涅中期巅峰，封印靠心机（对战力设定的关键约束）", "chapter_order": 963}
+{"local_id": "claim-local-31", "kind": "claim", "note": "王林对外定性陈风为“我的仆从”，成为尘道三子态度转变的直接原因", "chapter_order": 963}
+{"local_id": "ev-local-5", "kind": "event", "note": "与尘道三子的结交契机开启，一尘子邀王林留水灵星修炼，下章待续", "chapter_order": 963}
+{"local_id": "ev-local-4", "kind": "event", "reason": "本阶段起始处出现的新谜题事件：青光小盾侧面印记，疑与古神遗宝相关，后续可能展开", "chapter_order": 964}
+{"local_id": "claim-local-21", "kind": "claim", "reason": "主角修为定位与下一目标（妖灵之地仙府）的自述，可用于阶段内实力判断基线", "chapter_order": 964}
+{"local_id": "claim-local-20", "kind": "claim", "reason": "修为境界的可核对锚点：窥涅中期巅峰", "chapter_order": 964}
+{"local_id": "ev-local-3", "kind": "event", "reason": "主角团在水灵星的落脚点与行动限制（百里内）设定，影响后续活动范围", "chapter_order": 964}
+{"local_id": "claim-local-11", "kind": "claim", "reason": "一龙子自称“柳某”，为尘道三子成员俗姓线索", "chapter_order": 964}
+{"kind": "key_event", "local_id": "ev-local-2", "chapter_order": 965, "note": "青龙圣皇神念求援，涉及雨之仙界与青龙第一序列，为阶段内重要线索"}
+{"kind": "key_claim", "local_id": "claim-local-9", "chapter_order": 965, "note": "青龙圣皇自称及其许诺，全部为角色说辞，certainty=reported"}
+{"kind": "key_claim", "local_id": "claim-local-11", "chapter_order": 965, "note": "古神虚影星数不明，可能牵涉古神等级线"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 965, "note": "青光盾全面开启引发水灵星范围震动，多组人物反应记录在案"}
+{"kind": "relationship_shift", "local_id": "claim-local-17", "chapter_order": 965, "note": "浮风子对王林的忌惮加深，仍选择跟随"}
+{"kind": "event", "local_ref": "ev-local-1", "label": "王林获陌生古神之青光盾并令其认主", "chapter_order": 966}
+{"kind": "event", "local_ref": "ev-local-3", "label": "青光盾融入王林右眼瞳孔", "chapter_order": 966}
+{"kind": "claim", "local_ref": "claim-local-13", "label": "青光盾可吸收天地之力开启陌生古神保命神通（王林自述）", "chapter_order": 966}
+{"kind": "claim", "local_ref": "claim-local-10", "label": "青光盾为唯有古神才可使用之宝、非古神族不敢让其认主", "chapter_order": 966}
+{"kind": "event", "local_ref": "ev-local-4", "label": "司徒南携女修抵达天运星外寻访王林", "chapter_order": 966}
+{"kind": "claim", "local_ref": "claim-local-21", "label": "司徒南称与王林一别数百年、来此为寻兄弟", "chapter_order": 966}
+{"kind": "character_turn", "local_ref": "claim-local-15", "label": "王林右眼化为深蓝，青光盾入眼", "chapter_order": 966}
+{"local_id": "ev-local-3", "kind": "event", "note": "灵儿确认梦中古神真实存在，心神大乱——本 stage 内灵儿线的关键转折，锚点：她看到了那天空上磅礴的身影", "chapter_order": 967}
+{"local_id": "claim-local-11", "kind": "claim", "note": "灵儿梦境细节：祭坛、跪地念咒众人、眉心八个星点的古神", "chapter_order": 967}
+{"local_id": "claim-local-22", "kind": "claim", "note": "皇冠红影对王林呼唤无回应后消散，红蝶线关键证据", "chapter_order": 967}
+{"local_id": "ev-local-5", "kind": "event", "note": "王林取得获骸狱界顶级炼尸并准备祭炼，为净涅初期助力与妖灵之地之行铺垫", "chapter_order": 967}
+{"local_id": "ev-local-6", "kind": "event", "note": "灵儿清晨求见王林被塔山拦在殿外，章末悬念", "chapter_order": 967}
+{"local_id": "ev-local-1", "kind": "event", "note": "司徒南携红粉宫女子赴天运星，并暗想称霸凤栾星", "chapter_order": 967}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 968, "note": "本章核心悬念：灵儿的童年梦境与宝瓶状动作指向与「眉心星点巨人」相关的线索，是 stage-024 内重要的未决要素"}
+{"kind": "claim", "local_id": "claim-local-17", "chapter_order": 968, "note": "灵儿关键陈述：梦中巨人与夜空巨人同为眉心有星点，且自称从未对任何人说过"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 968, "note": "灵儿关键动作（宝瓶状手势），王林出现强烈反应，疑为跨章伏笔"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 968, "note": "王林对外口径：夜空巨人虚影为「法宝的一个器灵」，后续若被推翻需做 supersede"}
+{"kind": "claim", "local_id": "claim-local-5", "note": "灵儿自称月族神奴木灵（reported），为神奴身份首次自述", "chapter_order": 969}
+{"kind": "claim", "local_id": "claim-local-9", "note": "灵儿眉心印记与王林心跳相连，神奴烙印关系确立", "chapter_order": 969}
+{"kind": "claim", "local_id": "claim-local-11", "note": "王林推断自身取代原印记成为神奴之主，原古神未死而油尽灯枯", "chapter_order": 969}
+{"kind": "claim", "local_id": "claim-local-16", "note": "王林首次触及始境边缘，属阶段内重要修炼节点", "chapter_order": 969}
+{"kind": "event", "local_id": "ev-local-2", "note": "月族祭祀幻境与神奴记忆觉醒事件，后续可能复现", "chapter_order": 969}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 970, "label": "王林海边山峰两月余感悟，体悟「海日生残夜」之力", "note": "本阶段王林神通/境界进展的关键节点"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 970, "label": "浮风子决意袭杀王林，踏入十里范围遭遇异变", "note": "章末悬念，下一章需接续"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 970, "label": "灵儿自称「神奴木灵」、称王林为「古神」", "note": "身份揭示类陈述（角色自述）"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 970, "label": "「海日生残夜」之力体悟", "note": "能力首次展示/命名"}
+{"kind": "claim", "local_id": "claim-local-24", "chapter_order": 970, "label": "浮风子杀王林以破全部封印的动机", "note": "势力/人物动向：浮风子与王林的敌对行动"}
+{"kind": "claim", "local_id": "claim-local-3", "chapter_order": 970, "label": "始境可自创天地之术之说", "note": "境界设定传闻，供后续境界体系核对"}
+{"ref_type": "event", "local_id": "ev-local-1", "reason": "王林自创神通残夜首次实战，击溃净涅修士，属本 stage 关键战力节点", "chapter_order": 971}
+{"ref_type": "claim", "local_id": "claim-local-11", "reason": "王林自称残夜为此生第一个自创神通，人物能力转折关键陈述", "chapter_order": 971}
+{"ref_type": "claim", "local_id": "claim-local-10", "reason": "残夜明悟境界与妖灵之地古妖贝罗空间相似，跨阶段线索", "chapter_order": 971}
+{"ref_type": "claim", "local_id": "claim-local-13", "reason": "浮风子被擒后开口询问，紧接下一章的对话起点", "chapter_order": 971}
+{"ref_type": "claim", "local_id": "claim-local-16", "reason": "雷吉提出收回巨魔星的意图，势力动向", "chapter_order": 971}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "王林确立残夜之力的施展限制与「日初最强」设定，属本阶段能力体系关键节点", "chapter_order": 972}
+{"record_ref_or_local_id": "claim-local-13", "kind": "claim", "note": "神通需日初借天地之力的机制陈述", "chapter_order": 972}
+{"record_ref_or_local_id": "claim-local-14", "kind": "claim", "note": "王林自评日初一刻可拼碎涅初期，战力标定", "chapter_order": 972}
+{"record_ref_or_local_id": "claim-local-7", "kind": "claim", "note": "妖灵之地开启时限（数月～半年），影响本阶段节奏", "chapter_order": 972}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "浮风子以道基启誓转向协助王林，势力/关系动向", "chapter_order": 972}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "银衣女尸镇压进程，跨章延续中的线索", "chapter_order": 972}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "event", "local_id": "ev-local-2", "note": "王林掌握尸卫控制之法并炼化女尸，为其新增战力/手段", "chapter_order": 973}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "event", "local_id": "ev-local-4", "note": "天运子闭关前封闭天运宗、开启护山大阵，解释天运宗不可进入", "chapter_order": 973}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "event", "local_id": "ev-local-5", "note": "司徒南率红粉宫离开天运星抵达水灵星，为王林与司徒南会合的前置", "chapter_order": 973}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "claim", "local_id": "claim-local-8", "note": "尸卫之术出处：仙帝青霖玉简", "chapter_order": 973}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 974, "note": "司徒南首次展示寂灭变与规则之力，破水灵星三层护星大阵"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 974, "note": "赵雪与灵儿被司徒南卷走，水灵星冲突结果待续"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 974, "note": "司徒南报出姓名，可与王林线衔接的潜在重逢前提"}
+{"kind": "claim", "local_id": "claim-local-23", "chapter_order": 974, "note": "灵儿水灵根被确认"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 974, "note": "「兄弟」指向未明，暂不合并任何实体"}
+{"record_local_id": "ev-local-5", "kind": "event", "relevance": "high", "reason": "本阶段开启后司徒南与王林在水灵星正式重逢并交手，是阶段024的重要节点", "chapter_order": 975}
+{"record_local_id": "claim-local-22", "kind": "claim", "relevance": "medium", "reason": "司徒南自述完整版山动一指在蛮荒星完善，涉及其神通来源信息", "chapter_order": 975}
+{"record_local_id": "claim-local-18", "kind": "claim", "relevance": "medium", "reason": "王林炼尸产物（银衫女尸）首次在本阶段展示以剪刀瓦解困仙指的战力", "chapter_order": 975}
+{"record_local_id": "claim-local-8", "kind": "claim", "relevance": "medium", "reason": "浮风子与王林之间「两次不杀」旧债关系在本章明确表述，可解释其立场", "chapter_order": 975}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 976, "label": "司徒南中毒真相揭示（欲仙欲死）", "subject_ref_or_candidate": {"path": "characters/char-0115/index.json", "record_id": "char-0115"}, "note": "本阶段司徒南线核心危机首次成形，解毒线索留待后章。"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 976, "label": "王林与司徒南绝峰重逢叙旧", "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "note": "千年旧交关系与过往相助的集中回顾，可供关系线引用。"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 976, "label": "司徒南当面点出许木即王林", "subject_ref_or_candidate": {"candidate_name": "许木"}, "note": "化名识别线索，但档案中两条“许木”记录待归属。"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 976, "label": "尘道三子推断司徒南抢赵雪灵儿是为王林", "subject_ref_or_candidate": {"path": "characters/char-2097/index.json", "record_id": "char-2097"}, "note": "旁证视角确认赵雪、灵儿事件的动机指向，事件后续处置未写。"}
+{"kind": "event_ref", "local_id": "ev-local-1", "note": "司徒南续命之法与解毒/复仇路线首次在王林面前摊开", "chapter_order": 977}
+{"kind": "claim_ref", "local_id": "claim-local-8", "note": "解药在雨之仙界——后续开启仙界的挂钩点", "chapter_order": 977}
+{"kind": "claim_ref", "local_id": "claim-local-11", "note": "王林提出青霖/青霜复活破毒假设，指向妖灵之地洞府", "chapter_order": 977}
+{"kind": "claim_ref", "local_id": "claim-local-13", "note": "司徒南确定与王林同赴妖灵之地", "chapter_order": 977}
+{"kind": "claim_ref", "local_id": "claim-local-20", "note": "王林判断柳眉未死（自身直觉），为后续伏笔", "chapter_order": 977}
+{"kind": "event_ref", "local_id": "ev-local-2", "note": "王林首次在司徒南面前倾吐一千三百余年心结并醉倒", "chapter_order": 977}
+{"kind": "event", "local_id": "ev-local-1", "note": "本阶段主线起点：天运子以请帖召集老怪，宣告十日后开启东海潮汐之地入仙人洞府", "chapter_order": 978}
+{"kind": "event", "local_id": "ev-local-6", "note": "新登场大神通者（孙姓紫袍男子）到场，且引出未露面的「那位」；与天运子、凌天候三方关系进入同一场景", "chapter_order": 978}
+{"kind": "event", "local_id": "ev-local-7", "note": "炼魂部落自建势力线回到主线：数百万族人攻打火妖郡，并抬出老祖石像", "chapter_order": 978}
+{"kind": "claim", "local_id": "claim-local-15", "note": "粉衣女子被明示为凌天候口中疑似昆虚圣女之人", "chapter_order": 978}
+{"kind": "claim", "local_id": "claim-local-26", "note": "欧阳华九十九杆大幡的战力量级（数亿魂魄）首次给出", "chapter_order": 978}
+{"kind": "claim", "local_id": "claim-local-25", "note": "十三已具与妖帅对抗的实力", "chapter_order": 978}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 979, "note": "东海潮汐开启、天运子先入黑洞，本阶段入场节点"}
+{"kind": "claim", "local_id": "claim-local-35", "chapter_order": 979, "note": "四座仙府全开方启第五座洞府——本阶段规则性信息（角色所述）"}
+{"kind": "claim", "local_id": "claim-local-37", "chapter_order": 979, "note": "王林认出天运子三叉戟为涂司所炼法宝"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 979, "note": "浮风子被指为王林帮手，王林阵营公开化"}
+{"record_local_id": "ev-local-1", "kind": "event", "chapter_order": 980, "title": "虚空子现身东海潮汐星空", "note": "碎涅级大长老首次出场，与凌天候、天运子旧事相关"}
+{"record_local_id": "claim-local-10", "kind": "claim", "chapter_order": 980, "note": "司徒南判断虚空子修为为碎涅"}
+{"record_local_id": "claim-local-12", "kind": "claim", "chapter_order": 980, "note": "虚空子自称送凌天候与天运子入昆虚圣地"}
+{"record_local_id": "claim-local-13", "kind": "claim", "chapter_order": 980, "note": "虚空子此行为终结凌天候与天运子往事；提及罗天战事与师兄重玄子"}
+{"record_local_id": "ev-local-2", "kind": "event", "chapter_order": 980, "title": "众人进入妖灵之地黑洞", "note": "王林一行与千琴、夕萱等进入妖灵之地，黑洞随后关闭"}
+{"record_local_id": "ev-local-3", "kind": "event", "chapter_order": 980, "title": "炼魂部落攻破火妖都城", "note": "炼魂部落成为妖灵之地九大势力之一；十三被称第一强者"}
+{"record_local_id": "ev-local-4", "kind": "event", "chapter_order": 980, "title": "十三高呼「老祖回来了」", "note": "章末悬念，指向炼魂部落老祖身份未明"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-4", "chapter_order": 981, "note": "本阶段新反派性人物动机首次成形：姚惜雪以风妖传承换力量，代价为神识灵魂被抹去"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 981, "note": "云仙道侣王巍、胡娟首次正面出场，牵动仙府开启与剑灵、青霜、雨之仙剑诸线"}
+{"kind": "key_event", "ref_or_local_id": "ev-local-5", "chapter_order": 981, "note": "王林一行正式进入妖灵之地，立足点与下一步去向指向炼魂部落与仙府"}
+{"kind": "key_statement", "ref_or_local_id": "claim-local-15", "chapter_order": 981, "note": "王巍自称曾助剑灵、疑青霜未逝，为后续剑灵/青霜身份揭示的伏笔"}
+{"kind": "key_statement", "ref_or_local_id": "claim-local-5", "chapter_order": 981, "note": "五座仙府开启规则：外围四座最后一层全开方能开第五座"}
+{"kind": "character_turning_point", "ref_or_local_id": "claim-local-22", "chapter_order": 981, "note": "姚惜雪自愿以神识灵魂为代价换取复仇之力，明确其自我消解式交易"}
+{"kind": "faction_movement", "ref_or_local_id": "ev-local-1", "chapter_order": 981, "note": "妖灵之地天幕漩涡异变，全境原住民受惊，为多方势力行动的共同触发点"}
+{"kind": "key_event", "local_id": "ev-local-2", "chapter_order": 982, "note": "黑色石像异动与王林神识相融，属本 stage 内新增的未解之力线索"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 982, "note": "王林以老祖身份归返火妖郡，炼魂部落全体恭迎"}
+{"kind": "key_statement", "local_id": "claim-local-2", "chapter_order": 982, "note": "王林自陈救十三是必须完成的执念"}
+{"kind": "faction_movement", "local_id": "ev-local-1", "chapter_order": 982, "note": "司徒南、浮风子、银衣女子、尘道三子、大头获石盘入王林仙府强破禁制"}
+{"kind": "turning_point", "local_id": "claim-local-29", "chapter_order": 982, "note": "王林阔别数百年重立火妖郡都城城墙"}
+{"record_kind": "event", "local_id": "ev-local-1", "label": "火妖郡改立炼魂宗并大举传法", "why": "本阶段内势力格局变动与王林在妖灵之地的班底建设", "salience": "high", "chapter_order": 983}
+{"record_kind": "event", "local_id": "ev-local-2", "label": "十三肉身改造至仙卫银尸境界", "why": "核心随从战力定位升级的关键节点", "salience": "high", "chapter_order": 983}
+{"record_kind": "event", "local_id": "ev-local-3", "label": "王林独自探究黑色石像诡异", "why": "章末未决悬念，跨章很可能延续", "salience": "high", "chapter_order": 983}
+{"record_kind": "claim", "local_id": "claim-local-17", "label": "王林自认弟子为十三与谢青", "why": "师徒关系定性依据（关系定性留待汇总阶段）", "salience": "medium", "chapter_order": 983}
+{"record_kind": "claim", "local_id": "claim-local-24", "label": "黑色石像随膜拜渐变为王林样貌", "why": "石像诡异现象的事实基底", "salience": "medium", "chapter_order": 983}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林本章首次展示以雷霆+古神皮甲镇压黑墨的能力，可作为能力/境界证据", "chapter_order": 984}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "石像内出现与王林一模一样的古妖残灵，身份与后续推演的关键点", "chapter_order": 984}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "note": "古妖与王林相貌完全相同（唯双角）——身份类关键陈述", "chapter_order": 984}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "王林判断贝罗未彻底成功、眼前古妖仅为残存", "chapter_order": 984}
+{"ref_or_local_id": "claim-local-28", "kind": "claim", "note": "云妖郡崩裂、再无妖灵——势力格局变动", "chapter_order": 984}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "贝罗吞灭云妖的记忆画面，作为九灵合一进度证据", "chapter_order": 984}
+{"ref_or_local_id": "claim-local-29", "kind": "claim", "note": "云妖塔废墟飞出的虚弱残影，待确认身份", "chapter_order": 984}
+{"kind": "event", "ref_local_id": "ev-local-2", "note": "王林完成第二分身（石像古妖）祭炼，设禁制并嘱炼魂宗持续膜拜", "chapter_order": 985}
+{"kind": "event", "ref_local_id": "ev-local-3", "note": "王林重临天妖郡都城，与帝君河畔重逢，弹琴女子再现", "chapter_order": 985}
+{"kind": "claim", "ref_local_id": "claim-local-7", "note": "王林自述三分身体系构想（古神/修士/古妖，或再造古魔）", "chapter_order": 985}
+{"kind": "claim", "ref_local_id": "claim-local-9", "note": "第二分身当前实力判定：仅存石像、以妖识攻击、相当于问鼎后期", "chapter_order": 985}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "贝罗经帝君传话提出交易，王林应允：「入第五座仙府名额留一个」换「妖灵之地九郡之四赠炼魂部落＋不干涉炼魂（含云妖之识）」", "chapter_order": 986}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "帝君托孤：帝剑之灵（好友之女）交由王林带出妖灵之地；帝君寿元将尽", "chapter_order": 986}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "仙府第四座洞府内环入口石桥禁制受阻，王林改以银尸试探", "chapter_order": 986}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "叙述明示帝君身上有淡淡死气、寿元快枯竭，不到半甲将归墟", "chapter_order": 986}
+{"kind": "entity_candidate", "ref_or_local_id": "帝剑之灵", "note": "新角色候选：帝剑剑灵少女，已随王林离开妖灵之地，命运线待续", "chapter_order": 986}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "reason": "本阶段首次展示王林以破灭禁心禁之术完整破解仙府百步禁制，为仙府主线关键进展", "chapter_order": 987}
+{"kind": "claim", "ref_or_local_id": "claim-local-16", "reason": "心禁罗盘作为破灭禁传人标志性器物的首次明确出场", "chapter_order": 987}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "reason": "仙府内部存在操控禁制者的判断，构成后续冲突的直接引信", "chapter_order": 987}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "reason": "玄金与仙卫强化的材料线索，关联青霖玉简与仙卫体系", "chapter_order": 987}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "reason": "仙府内部空间结构的首次描述，可作为后续场景定位基准", "chapter_order": 987}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 988, "why": "银尸以毒为神通的关键展示（吸尽花毒、白雾消融花灵），是进入仙府内环后首个能力揭示点", "tags": ["仙府", "银尸", "花灵"]}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 988, "why": "十尊守府仙兵启动、众人分头迎战，仙府内环冲突升级，后续战况需跟踪", "tags": ["仙府", "仙兵", "战斗"]}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 988, "why": "本阶段新增仙界毒物体系（花仙排列第十、花灵第四十九、雨后毒香第九十三）的知识来源，属可复用的设定陈述", "tags": ["设定", "毒榜", "花仙"]}
+{"kind": "claim", "local_id": "claim-local-8", "chapter_order": 988, "why": "银尸神通本质为毒、修为净涅初期的定性陈述，人物能力档案要点", "tags": ["银尸", "能力"]}
+{"kind": "claim", "local_id": "claim-local-1", "chapter_order": 988, "why": "关于仙府守府仙魂与凌天侯打通仙府的历史陈述（角色转述），后续仙府来历线索", "tags": ["仙府", "凌天侯", "背景陈述"]}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林本章连展子母道枯、三九之剑（二十七剑）、十八地狱封仙印、「呼风」四黑龙，并首次出现「白凡之术」之名（他人惊呼）", "chapter_order": 989}
+{"kind": "event", "local_id": "ev-local-4", "note": "仙府大殿白衣身影现身，王林生出久未出现的生死危机——stage 内重要悬念起点", "chapter_order": 989}
+{"kind": "claim", "local_id": "claim-local-16", "note": "青衣老者失声「白凡之术！」——关键陈述，需跨章核对", "chapter_order": 989}
+{"kind": "claim", "local_id": "claim-local-36", "note": "白衣身影首次显露，关键身份悬念锚点", "chapter_order": 989}
+{"kind": "claim", "local_id": "claim-local-23", "note": "龟甲承受古神一拳未破，体现敌方防护强度基准", "chapter_order": 989}
+{"kind": "event", "local_id": "ev-local-1", "label": "白衣女子现身，一道目光重创众人", "chapter_order": 990, "why": "本阶段仙府之行首次出现压倒性阻力，确立仙府守护者的存在"}
+{"kind": "event", "local_id": "ev-local-3", "label": "白衣女子以花朵击碎雷之仙界碎片", "chapter_order": 990, "why": "王林保命法宝被毁，实力对比反转，后续冲突的关键节点"}
+{"kind": "claim", "local_id": "claim-local-4", "label": "浮风子称白衣女子为「花仙」", "chapter_order": 990, "why": "唯一给出该存在称谓的陈述，供后续身份确认使用"}
+{"kind": "claim", "local_id": "claim-local-9", "label": "王林为周佚复活青霜（青霖之女）而入妖灵之地", "chapter_order": 990, "why": "本阶段核心动机陈述"}
+{"kind": "claim", "local_id": "claim-local-22", "label": "「我已经警告过你。」", "chapter_order": 990, "why": "守护者的明确警告与原话证据"}
+{"kind": "event", "ref_local_id": "ev-local-3", "chapter_order": 991, "note": "王林首次同时施展白凡三大仙术（呼风、唤雨、撒豆成兵）并配合古神之身"}
+{"kind": "event", "ref_local_id": "ev-local-5", "chapter_order": 991, "note": "青霜自仙玉塔现出，白衣女子剧震——身份线索关键点"}
+{"kind": "claim", "ref_local_id": "claim-local-23", "chapter_order": 991, "note": "王林首次以眉心第三目本源之力交战"}
+{"kind": "claim", "ref_local_id": "claim-local-31", "chapter_order": 991, "note": "浮风子所称「花仙」与本章白衣女子的关联（未明示）"}
+{"kind": "claim", "ref_local_id": "claim-local-26", "chapter_order": 991, "note": "王林进入妖灵仙府的目标与备用方案（古妖贝罗）"}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 992, "note": "仙府洞府内环大殿现九尊雕像，正前方黄袍中年男子雕像气息极强，为本章核心新场景与悬念"}
+{"local_id": "claim-local-26", "kind": "claim", "chapter_order": 992, "note": "白衣女子听闻「王林」姓名后自语「姓王……真的是姓王……」，为其身份/立场线索"}
+{"local_id": "claim-local-31", "kind": "claim", "chapter_order": 992, "note": "王林判断雕像气息强于清水、炎雷子、天运子与罗天星域第三步老者，可与既有强者于后续比对"}
+{"local_id": "claim-local-33", "kind": "claim", "chapter_order": 992, "note": "王林在雕像压制下爆发古神之力，为能力展示节点"}
+{"record_ref_or_local_id": "ev-local-1", "record_kind": "event", "chapter_order": 993, "why": "王林以古神之力硬抗仙帝青霖雕像威压并三步通过考验，是本章「逆」主题与本阶段洞府线的关键节点"}
+{"record_ref_or_local_id": "claim-local-10", "record_kind": "claim", "chapter_order": 993, "why": "白衣女子自陈「仙帝八妃之一，花妃含烟」，为身份揭示的关键陈述（reported）"}
+{"record_ref_or_local_id": "claim-local-16", "record_kind": "claim", "chapter_order": 993, "why": "仙府四入口与真正通道规则，是本阶段目的地推进的核心设定"}
+{"record_ref_or_local_id": "claim-local-21", "record_kind": "claim", "chapter_order": 993, "why": "花妃化花仙、「花妃已死」为人物结局向的转折证据"}
+{"record_ref_or_local_id": "ev-local-4", "record_kind": "event", "chapter_order": 993, "why": "以仙府钥匙开启大阵并心神掌控第四座洞府，王林掌握洞府控制权，同伴被移入"}
+{"record_ref_or_local_id": "claim-local-28", "record_kind": "claim", "chapter_order": 993, "why": "王林安排雷吉留守、余众随行，界定本阶段队伍构成"}
+{"kind": "event", "local_ref": "ev-local-1", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "四道光柱先后升起并交错成阵，本 stage 主线推进", "chapter_order": 994}
+{"kind": "event", "local_ref": "ev-local-4", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "仙气风暴横扫、妖灵之地恢复仙灵天境原貌", "chapter_order": 994}
+{"kind": "event", "local_ref": "ev-local-5", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "王巍/胡娟启动第一座洞府阵法", "chapter_order": 994}
+{"kind": "claim", "local_ref": "claim-local-21", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "王巍揭示妖灵之地旧名「仙灵天境」（reported）", "chapter_order": 994}
+{"kind": "claim", "local_ref": "claim-local-11", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "凌天候透露王林不足七日开通第四座洞府（reported）", "chapter_order": 994}
+{"kind": "claim", "local_ref": "claim-local-26", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "章末水潭妖异之脸现身，为后续冲突引线", "chapter_order": 994}
+{"kind": "event", "local_id_or_ref": "ev-local-8", "note": "第五座洞府正式开启，众人被九龙阵法紫光带离，是阶段内重要节点", "chapter_order": 995}
+{"kind": "claim", "local_id_or_ref": "claim-local-3", "note": "妖异之脸自称「我贝罗」，声称此必成功并提及古魔、仙帝", "chapter_order": 995}
+{"kind": "claim", "local_id_or_ref": "claim-local-26", "note": "王林以「贝罗」称呼红衣光头青年，确认其身份称谓", "chapter_order": 995}
+{"kind": "claim", "local_id_or_ref": "claim-local-7", "note": "部分仙风自行改变方向助炼魂宗抵御其余三股，暗示仙灵天境中存在自主意志或特定存在介入", "chapter_order": 995}
+{"kind": "claim", "local_id_or_ref": "claim-local-22", "note": "王林认出王巍身后虚幻身影即周佚，两者取得无声默契", "chapter_order": 995}
+{"local_id": "ev-local-2", "record_type": "event", "note": "王林在第五洞府黑沙旷野遭遇「越打越多」的灰气/灰色旋风，手段尽出仍无法清除", "chapter_order": 996}
+{"local_id": "ev-local-3", "record_type": "event", "note": "王林现出数百丈古神真身、眉心五个古神星点，主动迎击旋风", "chapter_order": 996}
+{"local_id": "ev-local-4", "record_type": "event", "note": "第五洞府木桥黑雾人影首次现身，等待第一个出洞者并声称多年未食人血肉", "chapter_order": 996}
+{"local_id": "claim-local-1", "record_type": "claim", "note": "第五座洞府权属与禁制规则（青霖闭关处、外人必死）", "chapter_order": 996}
+{"local_id": "claim-local-24", "record_type": "claim", "note": "黑雾人影原话：嗜血等待出洞之人", "chapter_order": 996}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 997, "note": "王林五星古神肉身首次重伤：十五道旋风连串撞青光盾后被抛数千丈坠地。"}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 997, "note": "灰光机理首次展示：神识散开即引来灰光，魂魄瞬间魂飞魄散。"}
+{"record_ref_or_local_id": "claim-local-6", "kind": "claim", "chapter_order": 997, "note": "人物转折点：王林自省「太安逸」，重新找回谨慎。"}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "chapter_order": 997, "note": "环境规则证据：此荒漠禁空，魂魄升空逾二十丈即崩溃。"}
+{"record_ref_or_local_id": "claim-local-19", "kind": "claim", "chapter_order": 997, "note": "章末悬念：捏碎魔气后自语「或许可以这样」，下章行动伏笔。"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "label": "王林吞噬第三十二道神识并以血遁追击至巨大黑影", "chapter_order": 998, "note": "阶段内王林脱困线的关键转折：首次以魔气遮罩捕捉对方神识并主动追击。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-9", "label": "王林因需帮周佚、为司徒南解毒而不能在此耗数十年", "chapter_order": 998, "note": "交代王林脱困动机与其对周佚、司徒南的两项未了之事。"}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "label": "长期以化魔指吸魔的代价：形貌大变、魔念在身", "chapter_order": 998, "note": "王林状态转折点，后续其魔修化程度可据此追踪。"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 999, "note": "散魔之塔现身黑沙荒漠，王林推断古魔位于青霖第五座洞府（阶段级关键推断点）"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 999, "note": "散魔首仆冥海首次现身并自陈身份，提出以山河图之大漠孤烟为饵"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 999, "note": "冥海自称『五行水散魔首仆冥海』，并提及『仙帝青霖山河图之大漠孤烟』"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 999, "note": "王林推断古魔所在即第五座洞府（青霖闭关处）"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 1000, "note": "王林与冥海首次正面交手，冥海用「方竹」小剑，双方未分胜负"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 1000, "note": "关键陈述（reported）：冥海称方竹剑为仙帝当年所赐、剑有灵"}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "chapter_order": 1000, "note": "王林能力展示：五星古神极限神通「功灵」首次在档内出现"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 1000, "note": "功灵之术打通第五座洞府与外界的通道（西海潮汐漩涡—九龙阵法）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "chapter_order": 1000, "note": "关键陈述（reported）：黑雾之人称「竟然可以引发外界天地之威」"}
+{"kind": "claim", "ref_or_local_id": "claim-local-23", "chapter_order": 1000, "note": "关键陈述（reported）：黑雾之人称此前只有四人需引起重视，现多一人"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 1000, "note": "白玉瓶异动，瓶塞收缩似被吸入，指向该洞府的核心谜团"}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "瓶中界设定首次由冥海自述揭示：仙帝洞府第一层、九十九界、大漠孤烟图封于界内", "chapter_order": 1001}
+{"kind": "key_claim", "local_id": "claim-local-20", "note": "冥海自称瓶中界灵，持方竹与仙帝神通焚天（自述）", "chapter_order": 1001}
+{"kind": "key_claim", "local_id": "claim-local-22", "note": "叙述层面点明焚天创出者为青霖，可作跨章能力归属线索", "chapter_order": 1001}
+{"kind": "character_turn", "local_id": "claim-local-30", "note": "王林首次在本场战斗祭出射神车，为本阶段战力手段记录点", "chapter_order": 1001}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "冥海身死（魔气碎片被七彩之粉阻断后自焚化灰）", "chapter_order": 1002}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "幽冥引路意外打通魔气大殿，座椅上有人，为下章主线悬念", "chapter_order": 1002}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "note": "冥海口呼「仙帝」并自陈魔化，涉及更高层势力", "chapter_order": 1002}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "射神车三道封印为王林当前修为极限（能力边界）", "chapter_order": 1002}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "note": "魔气大殿与座椅上之人（身份待定）", "chapter_order": 1002}
+{"local_id": "claim-local-5", "kind": "claim", "note": "神秘人影以大神通抛出黄色结晶并穿透王林青光盾，能力级别高于王林防御手段", "chapter_order": 1003}
+{"local_id": "claim-local-9", "kind": "claim", "note": "王林自问神秘人影是否即青霖，仅为其猜测，非原文确认", "chapter_order": 1003}
+{"local_id": "claim-local-6", "kind": "claim", "note": "黄色菱形结晶落入王林手中，为后续待解物件", "chapter_order": 1003}
+{"local_id": "claim-local-22", "kind": "claim", "note": "王林吞下塔外火焰入体，为本章未完成的修炼动作", "chapter_order": 1003}
+{"local_id": "claim-local-26", "kind": "claim", "note": "古神皮甲脱离元神，元力与火苗融合后涌入元神，结果待下章", "chapter_order": 1003}
+{"local_id": "ev-local-2", "kind": "event", "note": "结晶送出事件，为本章核心新信息", "chapter_order": 1003}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1004, "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "reason": "本阶段核心节点：王林眉心朱雀印记觉醒、朱雀本灵幻化，为 stage-024 标题所指「朱雀觉醒」的当章落点", "salience": "high"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1004, "subject_ref_or_candidate": {"path": "characters/char-0641/index.json", "record_id": "char-0641"}, "reason": "天运子卜算被朱雀之音击溃，属跨线人物动向", "salience": "medium"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1004, "subject_ref_or_candidate": {"path": "characters/char-0762/index.json", "record_id": "char-0762"}, "reason": "凌天候在瓶中另一界察觉朱雀之音，提示多方同处瓶中界", "salience": "medium"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 1004, "subject_ref_or_candidate": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "reason": "叙述给出王林「朱雀序列，没有之一」的身份判定及其前提条件", "salience": "high"}
+{"record_ref_or_local_id": "ev-local-7", "buffer_kind": "key_event", "note": "王林朱雀觉醒完成，火海归体，形如朱雀圣皇（本 stage 核心节点）", "chapter_order": 1005}
+{"record_ref_or_local_id": "ev-local-8", "buffer_kind": "key_event", "note": "朱雀圣火首度爆发，威力超过焚天之力，焚灭桥上魔影", "chapter_order": 1005}
+{"record_ref_or_local_id": "ev-local-2", "buffer_kind": "faction_move", "note": "修真联盟虚空子明示对四圣宗觉醒者的杀意", "chapter_order": 1005}
+{"record_ref_or_local_id": "ev-local-9", "buffer_kind": "key_event", "note": "火海崩溃瓶中九十九界，众人现身，直冲白玉瓶最后一界", "chapter_order": 1005}
+{"record_ref_or_local_id": "claim-local-33", "buffer_kind": "key_claim", "note": "王林外貌如朱雀圣皇（关键身份/位阶线索）", "chapter_order": 1005}
+{"record_ref_or_local_id": "claim-local-42", "buffer_kind": "plot_hook", "note": "毁掉最后一界即可冲出白玉瓶", "chapter_order": 1005}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "key_event", "local_id": "ev-local-3", "note": "王林破瓶而出，仙帝洞府木桥庭院被火海焚毁；阶段标题中“拓森脱困”相关线索未在本章出现于文本", "chapter_order": 1006}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "key_event", "local_id": "ev-local-4", "note": "仙府内众修士集体出瓶，王林成为焦点；散魔现身并动手", "chapter_order": 1006}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "key_claim", "local_id": "claim-local-19", "note": "reported：贝罗称铠甲之人为仙帝旧部“残刀”，已成古魔炼化散魔", "chapter_order": 1006}
+{"target_stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "character_turning_point", "local_id": "claim-local-5", "note": "朱雀觉醒只改元力不改修为，王林仍为窥涅中期，肉身五星上限为净涅中期", "chapter_order": 1006}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1007, "note": "葬仙池开启：散魔踏碎地面，地下巨漩涡吸力吞噬全场，散魔率先被卷入"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1007, "note": "葬仙池无眼女子身影升起，天运子震惊、虚空子断言被仙帝青霖封印"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 1007, "note": "关于无眼女子身份与青霖封印的关键角色陈述（reported）"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1007, "note": "贝罗确认女子来历并放弃救援离开，涉及青霖、塔珈当年贪念的陈述"}
+{"kind": "claim", "local_id": "claim-local-8", "chapter_order": 1007, "note": "葬仙池来历的关键陈述：仙帝青霖的葬仙之处，被吸入必死"}
+{"local_id": "ev-local-3", "kind": "event", "note": "符族女子现面并发问、召走王林仙卫塔山，为本阶段后续重要伏笔", "chapter_order": 1008}
+{"local_id": "claim-local-40", "kind": "claim", "note": "塔山与符族关联的首个线索（推断）", "chapter_order": 1008}
+{"local_id": "claim-local-23", "kind": "claim", "note": "虚空子所述天运子道念崩溃、规则之力出现破绽的缘由，关系到其后续状态与战力判断", "chapter_order": 1008}
+{"local_id": "claim-local-29", "kind": "claim", "note": "女子双脚被赤红色筋状之物锁住，疑为封印线索", "chapter_order": 1008}
+{"local_id": "claim-local-14", "kind": "claim", "note": "凌天候对天运子相救只报以冷目，二人关系动向可供追踪", "chapter_order": 1008}
+{"kind": "key_event", "local_id": "ev-local-1", "chapter_order": 1009, "note": "塔山仙卫烙印被拔除、改为符族圣纹之身"}
+{"kind": "key_event", "local_id": "ev-local-2", "chapter_order": 1009, "note": "符族圣祖因青霖欺骗怨气爆发，撕扯葬仙池漩涡、红筋光环崩溃"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 1009, "note": "青霖留在葬仙池的禁制分神显化，天运子忌惮、王林认出"}
+{"kind": "key_event", "local_id": "ev-local-4", "chapter_order": 1009, "note": "章末点题：朱雀觉醒引发朱雀圣宗剧变"}
+{"kind": "key_statement", "local_id": "claim-local-9", "chapter_order": 1009, "note": "“青霖……你骗我”——本阶段核心怨气动机"}
+{"kind": "key_statement", "local_id": "claim-local-20", "chapter_order": 1009, "note": "虚空子给出青霖禁制分神与“符族圣祖秋瑶”之名"}
+{"kind": "faction_move", "local_id": "thread-local-3", "chapter_order": 1009, "note": "朱雀圣宗方向出现剧变线头"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 1010, "note": "朱雀之变爆发：九星火柱汇聚、朱雀真灵现身，为朱雀圣宗败于修真联盟后第一次"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 1010, "note": "圣皇神念下达全族寻回觉醒者之命，确认朱雀印记来源"}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "chapter_order": 1010, "note": "圣皇自称王林朱雀印记为其分身所送（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "chapter_order": 1010, "note": "朱雀宗高层指认画面中人为符族圣祖秋瑶、仙帝青霖（reported）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-25", "chapter_order": 1010, "note": "虚空子察觉朱雀宗已知王林觉醒，露出杀机"}
+{"kind": "faction_move", "ref_or_local_id": {"candidate_name": "朱雀圣宗"}, "chapter_order": 1010, "note": "朱雀圣宗动员九名碎涅修士寻找觉醒者"}
+{"record_type": "event", "local_id": "ev-local-2", "reason": "本阶段核心冲突：青霖对符族圣祖的封印行动进入九印之阵与葬仙漩涡锁拽阶段，后续章节大概率承接其结果。", "chapter_order": 1011}
+{"record_type": "event", "local_id": "ev-local-3", "reason": "王林首次亲见定身术施展，为其法术精进与身份来源（青霖玉简传人）留下可复用证据。", "chapter_order": 1011}
+{"record_type": "claim", "local_id": "claim-local-10", "reason": "修真联盟（虚空子）对青霖「弥留之际」的判断与擒拿操控意图，属势力动向关键陈述。", "chapter_order": 1011}
+{"record_type": "claim", "local_id": "claim-local-16", "reason": "符族圣祖质问青霖「为什么要骗我」，指向未解旧怨，是重要的待补线索陈述。", "chapter_order": 1011}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1012, "note": "葬仙池崩碎、仙府封印崩溃，stage-024 内的空间结构转折"}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1012, "note": "仙府内众人被禁制打散，各方线索分头展开"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 1012, "note": "枯符之术：需符族之力，王林与符族结缘的凭据"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 1012, "note": "青霖分神晶光融入王林的黄色结晶，关键悬念物"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 1012, "note": "秋瑶眉心符文烙入塔山眉心，塔山身体状态变化"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 1012, "note": "妖气疤痕女子与王林同处一地，后续相遇伏笔"}
+{"kind": "claim", "local_id": "claim-local-28", "chapter_order": 1012, "note": "星痕貂潜入深坑最深处，未解气息"}
+{"kind": "event", "local_id": "ev-local-2", "note": "黑雾男子（自称青霖）与秋瑶、符族、仙界崩溃旧史的核心证据章", "chapter_order": 1013}
+{"kind": "claim", "local_id": "claim-local-7", "note": "地底大殿即王林幽冥引路受扰之处，跨章呼应王林旧线", "chapter_order": 1013}
+{"kind": "claim", "local_id": "claim-local-8", "note": "男子即赠王林黄色结晶者，来源物线可追溯", "chapter_order": 1013}
+{"kind": "claim", "local_id": "claim-local-14", "note": "符族圣祖=秋瑶分身的角色说法，身份线关键", "chapter_order": 1013}
+{"kind": "claim", "local_id": "claim-local-16", "note": "太初之力与通天之门的世界观级信息（角色自述）", "chapter_order": 1013}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林被传送至无边大海，为妖灵之地后续场景开端", "chapter_order": 1013}
+{"kind": "event", "local_id": "ev-local-4", "note": "枯符遁类效果首次实测：贴于大剑后瞬移十丈，符上符文转黯；王林判断可媲美碎涅之速。", "chapter_order": 1014}
+{"kind": "claim", "local_id": "claim-local-18", "note": "枯符知识来源：秋瑶所赠青气团；符族专属符文，四类威力封崩遁解，外人需符族帮助开启。", "chapter_order": 1014}
+{"kind": "claim", "local_id": "claim-local-13", "note": "朱雀觉醒的后果判断：朱雀之音穿透九十九界，王林被认为与四圣宗有关，成为洞府内被关注的焦点。", "chapter_order": 1014}
+{"kind": "claim", "local_id": "claim-local-14", "note": "王林对同入洞府者（虚空子、村姑美妇、疑似昆虚圣女）的戒备判断，可作为后续冲突伏笔。", "chapter_order": 1014}
+{"kind": "claim", "local_id": "claim-local-7", "note": "青霖分神晶光进入王林储物袋黄色结晶，待解的物件线索。", "chapter_order": 1014}
+{"kind": "key_event", "local_ref": "ev-local-1", "chapter_order": 1015, "note": "葬仙池崩溃，洞府内众人被禁制传送分散——阶段空间格局分流的起点"}
+{"kind": "key_event", "local_ref": "ev-local-5", "chapter_order": 1015, "note": "姚惜雪以妖气现身海面，与王林数百年恩怨正面对上，且外貌已毁"}
+{"kind": "key_statement", "local_ref": "claim-local-20", "chapter_order": 1015, "note": "姚惜雪宣称『我无力杀你，但却有人可以让你死』，指向未明第三方"}
+{"kind": "key_statement", "local_ref": "claim-local-9", "chapter_order": 1015, "note": "黄色结晶内青霖分神似已失踪、查无端倪，结晶与青霖目的仍为悬案"}
+{"kind": "new_figure", "local_ref": "ev-local-2", "chapter_order": 1015, "note": "丛林深处眉心符文男子修成枯符之术、剥凶兽眉心皮，自称无法挥散『之前主人』身影"}
+{"kind": "key_event", "local_id": "ev-local-2", "chapter_order": 1016, "reason": "姚惜雪献祭、风妖记忆全开占据其肉身，是本章身份级转折"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 1016, "reason": "王林与风妖正式动手，王林以大鼎拉回并点眉心，风妖以冰海万冰反击，战局未决"}
+{"kind": "key_claim", "local_id": "claim-local-11", "chapter_order": 1016, "reason": "明示古妖九灵之一风妖操控姚惜雪肉身，需带 anchor 归档"}
+{"kind": "key_claim", "local_id": "claim-local-12", "chapter_order": 1016, "reason": "贝罗吞噬七妖、修为恢复八成、余二成在风妖身上的妖灵势力格局"}
+{"kind": "key_claim", "local_id": "claim-local-14", "chapter_order": 1016, "reason": "风妖记忆传承与承载体机制，关系到后续「新风妖」身份判定"}
+{"kind": "key_claim", "local_id": "claim-local-25", "chapter_order": 1016, "reason": "主角认知转折：血祖亦为因，真正的果在自己的道心（与 stage 标题「因果大成的源头」呼应）"}
+{"kind": "key_claim", "local_id": "claim-local-22", "chapter_order": 1016, "reason": "王林首次明确表述因果大成之法：解开一切迷惑并彻底融入其内"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1017, "subject_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}, {"path": "characters/char-2158/index.json", "record_id": "char-2158"}], "note": "王林与风妖海上对决：火海融冰、风之规则、古神虚影破风、枯符雕鸟追击", "significance": "high"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1017, "subject_refs": [{"path": "characters/char-2158/index.json", "record_id": "char-2158"}], "note": "封神锁魔幡现世、此界禁制全开、海水凝成人形（跨章悬念）", "significance": "high"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 1017, "subject_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "note": "王林自述因果之道大成的最后一关为姚惜雪之事（reported）", "significance": "high"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 1017, "subject_refs": [{"path": "characters/char-2158/index.json", "record_id": "char-2158"}, {"path": "characters/char-1202/index.json", "record_id": "char-1202"}], "note": "叙述指明风妖吞噬了姚惜雪的记忆", "significance": "high"}
+{"applies_to_stage": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "event", "target_local_id": "ev-local-1", "note": "风妖（贝罗与姚惜雪融合的记忆）以妖气虚化封神锁魔幡三杆小旗，被王林灭神矛击毁并重伤；风妖自认只是一段记忆，无法离开姚惜雪身体", "chapter_order": 1018}
+{"applies_to_stage": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "event", "target_local_id": "ev-local-2", "note": "海水凝成人形之物（沉睡将醒）与海水手掌抓夺灭神矛，为本章末新变数", "chapter_order": 1018}
+{"applies_to_stage": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "claim", "target_local_id": "claim-local-13", "note": "风妖指认王林持有古神王族圣器、为「王族古神」——本章对王林古神身份的当面确认", "chapter_order": 1018}
+{"applies_to_stage": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "kind": "claim", "target_local_id": "claim-local-10", "note": "设定：风妖已放弃古妖身份、妖体崩亡，虚化法器之法与王林召唤灭神矛类似；封神锁魔幡四十九杆小旗与七任主人信息", "chapter_order": 1018}
+{"local_id": "ev-local-3", "kind": "key_event", "note": "王林以吞噬一式抽走妖气与姚惜雪魂魄记忆，姚惜雪失忆苏醒，是本章因果线的核心节点", "chapter_order": 1019}
+{"local_id": "claim-local-19", "kind": "key_statement", "note": "王林自述因果判定标准（承诺/复仇是否完成）与其生死轮回、因果意境转化相关，对后续因果设定有支撑价值", "chapter_order": 1019}
+{"local_id": "claim-local-14", "kind": "key_statement", "note": "王林以救姚惜雪了结因果、令其与父相见的公开承诺", "chapter_order": 1019}
+{"local_id": "claim-local-27", "kind": "key_evidence", "note": "十八地狱封仙印第十四层仅存血祖之魂，属重要设定/线索", "chapter_order": 1019}
+{"local_id": "ev-local-1", "kind": "key_event", "note": "朱雀之火实战表现与「花丛露珠即世界」的禁制结构揭示", "chapter_order": 1019}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "姚惜雪/血祖因果了断，王林主动解禁放人", "chapter_order": 1020}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "note": "王林道心圆满、修为出现突破迹象（本阶段修为进境节点）", "chapter_order": 1020}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "王林于葬仙池深坑闭关冲关，吞修士元神补元力", "chapter_order": 1020}
+{"record_ref_or_local_id": "claim-local-33", "kind": "claim", "note": "朱雀圣宗之名首次由旁观修士说出，与庞大朱雀降临星空相关", "chapter_order": 1020}
+{"record_ref_or_local_id": {"candidate_name": "银衣女尸"}, "kind": "entity", "note": "吸收花海之毒后出现异样，眼中偶现并被隐藏的迷惑之色——潜在伏笔", "chapter_order": 1020}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "四圣宗败落全史首次集中梳理：玄武叛变、朱雀十大分身、白虎战死", "chapter_order": 1021}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "朱雀再现星空——本阶段四圣宗线的标志性节点", "chapter_order": 1021}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "罗天举星域之力进攻联盟，势力格局重大动向", "chapter_order": 1021}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "王林修为推进节点：突破窥涅后期并窥见规则", "chapter_order": 1021}
+{"kind": "claim", "ref_or_local_id": "claim-local-5", "note": "玄武圣皇叛变原因被明确标记为悬案，后续可能的解谜入口", "chapter_order": 1021}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "窥涅阶段规则观的体系性说明，可作为后续能力判定基准", "chapter_order": 1021}
+{"kind": "claim", "ref_or_local_id": "claim-local-22", "note": "王林自评距窥涅后期大圆满仅差元力，能力上限线索", "chapter_order": 1021}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "note": "左眼火焰、右目雷球、眉心飞出太古雷龙，王林当前手段组合", "chapter_order": 1021}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1022, "note": "王林借天逆珠之力破开妖灵之地、心神弥漫联盟星域，为本阶段修为与视野的关键推进"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1022, "note": "火海朱雀横穿星空并对王林心神产生异常反应，可作为后续朱雀线索"}
+{"kind": "claim", "local_id": "claim-local-9", "chapter_order": 1022, "note": "心神覆盖联盟星域一小半，修为接近窥涅大圆满"}
+{"kind": "claim", "local_id": "claim-local-13", "chapter_order": 1022, "note": "朱雀对王林心神的反应及「熟悉感」，身份关联待定"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 1022, "note": "修真联盟总部结构（173 星环形 + 紫色漩涡 + 吸纳紫气的末星）首次具体描写"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 1022, "note": "王林对瓶中九十九界穿梭能力门槛（净涅/规则之力）的自述"}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 1023, "reason": "王林因见周茹与蓝裙绝美女子而苏醒，修为达窥涅圆满（主角进境节点）"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 1023, "reason": "昆虚之境首次被王林抵达，周茹与其师尊同场出现"}
+{"ref_or_local_id": "claim-local-32", "kind": "claim", "chapter_order": 1023, "reason": "王林判断当年柳眉为其分身（关键身份线索，需后续核实）"}
+{"ref_or_local_id": "ev-local-6", "kind": "event", "chapter_order": 1023, "reason": "青衣男子动身赴修真联盟追查仙界崩溃隐秘（主线目标）"}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "chapter_order": 1023, "reason": "多方（炎雷子、修真联盟总部、朱雀）感知王林气息，外显其突破"}
+{"kind": "event", "local_id": "ev-local-5", "note": "阶段内重要场景揭示：仙帝洞府深坑底部出现被冰封的无名古神头颅（八碎星痕迹），可能牵动古神灭绝与拓森/古神线。", "chapter_order": 1024}
+{"kind": "event", "local_id": "ev-local-3", "note": "灵兽关系确立：星痕貂主动来归王林，古神气息对其蜕变有直接作用。", "chapter_order": 1024}
+{"kind": "claim", "local_id": "claim-local-3", "note": "主角修为状态推进至窥涅巅峰（承接第961章记录的窥涅中期巅峰）。", "chapter_order": 1024}
+{"kind": "claim", "local_id": "claim-local-11", "note": "修行路线设定：王林计划以雷火规则融合突破净涅，为后续突破埋线。", "chapter_order": 1024}
+{"kind": "claim", "local_id": "claim-local-15", "note": "朱雀图腾与星空所见朱雀的关联认定，进入待验证状态。", "chapter_order": 1024}
+{"local_id": "ev-local-1", "kind": "event", "note": "古神头颅线关键推进：颈部无形之气与二十三枚颗粒", "chapter_order": 1025}
+{"local_id": "ev-local-2", "kind": "event", "note": "铁剑首次落于王林视野并被认出，直连朱雀墓与托森", "chapter_order": 1025}
+{"local_id": "claim-local-13", "kind": "claim", "note": "斩首古神之力非青霖，指向更高层力量", "chapter_order": 1025}
+{"local_id": "claim-local-15", "kind": "claim", "note": "王林首次将古神封印与天道直接联系", "chapter_order": 1025}
+{"local_id": "claim-local-24", "kind": "claim", "note": "铁剑身份线索：与朱雀墓铁剑一模一样", "chapter_order": 1025}
+{"local_id": "claim-local-25", "kind": "claim", "note": "托森使者夺剑旧事，可作为托森线索锚点", "chapter_order": 1025}
+{"kind": "event", "local_ref": "ev-local-1", "chapter_order": 1026, "note": "王林在仙帝洞府深坑取得与朱雀墓同源的铁剑，为托森/铁剑线索的直接推进点"}
+{"kind": "claim", "local_ref": "claim-local-1", "chapter_order": 1026, "note": "铁剑与朱雀墓铁剑外观一模一样，可作为跨章物品同一性对照证据"}
+{"kind": "claim", "local_ref": "claim-local-2", "chapter_order": 1026, "note": "主角自述记忆传承缺失部分在托森手中，属关键信息缺口声明"}
+{"kind": "event", "local_ref": "ev-local-3", "chapter_order": 1026, "note": "王林以火焰黑龙冲出深坑，场景由坑底转为坑外，站位变化影响后续章节衔接"}
+{"ref": {"local_id": "ev-local-3"}, "kind": "event", "note": "王林首次借助玉简地图与禁制之术穿越数万禁制竹林、甩开人形之物", "chapter_order": 1027}
+{"ref": {"local_id": "ev-local-4"}, "kind": "event", "note": "王林锁定第一层通往第二层的入口，向黑雾宫殿方向推进", "chapter_order": 1027}
+{"ref": {"local_id": "claim-local-20"}, "kind": "claim", "note": "仙帝洞府共九层、禁制逐层增强的结构信息", "chapter_order": 1027}
+{"ref": {"local_id": "claim-local-21"}, "kind": "claim", "note": "玉简地图仅前七层，后两层似被抹去", "chapter_order": 1027}
+{"ref": {"local_id": "claim-local-22"}, "kind": "claim", "note": "散魔以白玉瓶与葬仙池使众人散开、迷惑于洞府之内的推断", "chapter_order": 1027}
+{"ref": {"local_id": "claim-local-5"}, "kind": "claim", "note": "王林修为已达窥涅巅峰，呼风唤雨显出白凡神通真容", "chapter_order": 1027}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林试验铁剑锈迹与五把剑鞘，气息相似次空涅箭，疑为关键法器线索", "chapter_order": 1028}
+{"kind": "claim", "local_id": "claim-local-11", "note": "铁剑/剑鞘气息与玄宝上人次空涅箭相似的判断，绑定玄宝上人档案", "chapter_order": 1028}
+{"kind": "event", "local_id": "ev-local-6", "note": "人形之物破禁追击、王林转向中心黑雾宫殿，本章末尾进行中动作", "chapter_order": 1028}
+{"kind": "claim", "local_id": "claim-local-38", "note": "第一层所有禁眼已被他人打开，指向存在先行者的势力/人物动向", "chapter_order": 1028}
+{"kind": "event", "local_id": "ev-local-7", "chapter_order": 1029, "note": "虚空子以碎涅神通重创王林，是本阶段虚空子杀机的首个实质出手"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1029, "note": "黑衣人眉心黑龙印记首次在本章显现，其后王林装作未见"}
+{"kind": "claim", "local_id": "claim-local-32", "chapter_order": 1029, "note": "叙述以「未来的朱雀圣皇」指称王林，并写明虚空子预期其肉身崩溃、朱雀死亡"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 1029, "note": "确立实力对比：王林窥涅巅峰+古神肉身，虚空子为碎涅修士"}
+{"kind": "claim", "local_id": "claim-local-5", "chapter_order": 1029, "note": "虚空子以波纹一击逼退人形之物，首次展示其神通"}
+{"kind": "event", "ref_local_id": "ev-local-5", "chapter": 1030, "why": "王林首次在与虚空子的正面对抗中开启眉心第三目释放本源之力，属关键能力展示节点。", "chapter_order": 1030}
+{"kind": "event", "ref_local_id": "ev-local-6", "chapter": 1030, "why": "虚空子、黑衣人、村姑美妇三方对「本源」的不同反应，为后续势力与立场分化的证据点。", "chapter_order": 1030}
+{"kind": "claim", "ref_local_id": "claim-local-8", "chapter": 1030, "why": "王林针对虚空子的杀局成立，是其主动反击的转折陈述。", "chapter_order": 1030}
+{"kind": "claim", "ref_local_id": "claim-local-18", "chapter": 1030, "why": "虚空子对晶源/本源的狂热与抛弃朱雀圣宗、修真联盟的立场表述，涉势力动向。", "chapter_order": 1030}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "王林首次在实战中亮出铁剑（次空涅法宝）并发动对虚空子的杀局", "chapter_order": 1031}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "铁剑「以宝御人」自动连环剑招的首次展示，王林元力耗尽仍靠古神肉身支撑", "chapter_order": 1031}
+{"kind": "claim", "ref_or_local_id": "claim-local-8", "note": "虚空子当场指认铁剑为次空涅法宝（角色陈述）", "chapter_order": 1031}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "note": "王林据气息把紫色冰块与铁剑、玄宝上人次空涅箭归为同类", "chapter_order": 1031}
+{"kind": "claim", "ref_or_local_id": "claim-local-19", "note": "王林对杀局得失的判断：暴露本源与至宝，以重创虚空子换取震慑村姑美妇与黑衣人", "chapter_order": 1031}
+{"ref_local_id": "ev-local-1", "kind": "event", "label": "王林二十三把银光大剑击穿虚空子分身元神", "chapter_order": 1032, "note": "本阶段王林对碎涅级对手的首次重大战果，可作为战力量级的锚点事件"}
+{"ref_local_id": "ev-local-3", "kind": "event", "label": "铁剑锈迹之力打断虚空子感悟本源、王林收回本源", "chapter_order": 1032, "note": "铁剑锈迹作为全新能力的首次展示（对应 claim-local-13 / claim-local-15 / claim-local-17）"}
+{"ref_local_id": "claim-local-19", "kind": "claim", "label": "王林留话「想要王某的本源/法宝，尽管来拿」", "chapter_order": 1032, "note": "人物姿态宣言，利于后续对齐人物行为基线"}
+{"ref_local_id": "claim-local-21", "kind": "claim", "label": "黑衣人断言朱雀圣宗将因王林崛起，并疑其本源来源", "chapter_order": 1032, "note": "势力动向与悬念：朱雀圣宗走向 + 本源来源之谜"}
+{"ref_local_id": "claim-local-24", "kind": "claim", "label": "虚空子决意提前天人第一衰三千年杀王林、夺取本源", "chapter_order": 1032, "note": "主要反派威胁线索，贯穿本阶段后续"}
+{"ref_local_id": "claim-local-27", "kind": "claim", "label": "法宝等级体系（灵/玄/仙/空/涅及「空」级来历）", "chapter_order": 1032, "note": "世界观设定摘要，后续章节继续展开，写入侧可作 setting 归并依据"}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林首次在仙帝洞府二层以下遇到其他修士，六层出现未知出声者", "chapter_order": 1033}
+{"kind": "event", "local_id": "ev-local-3", "note": "两个月洞府搜刮，仙玉量级足以支撑一个门派", "chapter_order": 1033}
+{"kind": "claim", "local_id": "claim-local-16", "note": "周佚剑气留在第二层烛台，指示其已进入第三层往后", "chapter_order": 1033}
+{"kind": "claim", "local_id": "claim-local-23", "note": "第六层两处储物传送点，其一为仙丹妙药储藏，本章目标", "chapter_order": 1033}
+{"kind": "event", "local_id": "ev-local-4", "reason": "阶段内关键重逢节点：王林在仙帝洞府丹药储存处与周佚会合", "chapter_order": 1034}
+{"kind": "claim", "local_id": "claim-local-20", "reason": "阶段内重要谜团线索：仙帝洞府禁制布阵者与改动者或为同一人（未证实）", "chapter_order": 1034}
+{"kind": "claim", "local_id": "claim-local-27", "reason": "周佚状态异常：身上带与空涅法宝极为相似的气息，可能关联后续能力/身份线索", "chapter_order": 1034}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 1035, "note": "周佚完整讲述雨之仙界与青霜往事，云仙道侣知情后致谢"}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 1035, "note": "云仙道侣身份揭示：王巍为仙帝青霖座下第一侍卫兼二弟子，胡娟为第七弟子"}
+{"kind": "claim", "ref_or_local_id": "claim-local-28", "chapter_order": 1035, "note": "王巍身份自陈，关键身份线索"}
+{"kind": "claim", "ref_or_local_id": "claim-local-29", "chapter_order": 1035, "note": "胡娟身份自陈，关键身份线索"}
+{"kind": "claim", "ref_or_local_id": "claim-local-30", "chapter_order": 1035, "note": "仙帝青霖重伤隐匿于仙灵天境（王巍自述），阶段主线目标"}
+{"kind": "claim", "ref_or_local_id": "claim-local-35", "chapter_order": 1035, "note": "章末悬念：尖锐之笑打断仙玉塔取出"}
+{"kind": "event", "local_id": "ev-local-1", "note": "本阶段首次出现古妖贝罗与云仙道侣由恶斗转为合作，商定联手破塔珈封印", "chapter_order": 1036}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林当众指认虚空子，冲突在章末一触即发，为下一章对质起点", "chapter_order": 1036}
+{"kind": "claim", "local_id": "claim-local-30", "note": "王林指认伤己之人的关键台词，章内唯一锚点可定位", "chapter_order": 1036}
+{"kind": "claim", "local_id": "claim-local-34", "note": "虚空子自报修真联盟长老身份并抬出大长老重玄子（reported）", "chapter_order": 1036}
+{"kind": "claim", "local_id": "claim-local-13", "note": "青丹功效与存量信息（reported，出自王巍）", "chapter_order": 1036}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1037, "note": "王林主动突袭碎涅修士虚空子，周佚化剑芒同攻，王巍以水幕封碎漩涡、贝罗吞吸泥潭并追击，形成夹击"}
+{"kind": "claim", "local_id": "claim-local-2", "chapter_order": 1037, "note": "身份揭示：王巍与胡娟是仙帝青霖的弟子"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 1037, "note": "虚空子被迫示弱后杀机转浓，全部记在王林身上"}
+{"kind": "claim", "local_id": "claim-local-30", "chapter_order": 1037, "note": "周佚剑光首次带有次空涅法宝气息的凌厉一击"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1037, "note": "天运子、凌天候、葫芦老者入殿；虚空子求援；章末留下未决战斗悬念"}
+{"local_id": "ev-local-1", "record_type": "event", "chapter_order": 1038, "note": "周佚拼死一击重创虚空子，虚空子修为再度跌落"}
+{"local_id": "ev-local-3", "record_type": "event", "chapter_order": 1038, "note": "双方达成私怨暂缓，众人进入仙帝洞府第七层"}
+{"local_id": "ev-local-4", "record_type": "event", "chapter_order": 1038, "note": "第七层化为火海废墟，与地图玉简不符"}
+{"local_id": "ev-local-6", "record_type": "event", "chapter_order": 1038, "note": "王林吸收火元力并参悟山崩；黑衣人觊觎火朱雀"}
+{"local_id": "claim-local-30", "record_type": "claim", "chapter_order": 1038, "note": "王林：白凡六大神通后三式第一式「山崩」与火山爆发相似"}
+{"local_id": "claim-local-32", "record_type": "claim", "chapter_order": 1038, "note": "黑衣人：再吞火朱雀或令炎龙第二次觉醒"}
+{"local_id": "claim-local-11", "record_type": "claim", "chapter_order": 1038, "note": "昆虚之境（粉衣女子）声明不介入王林与虚空子的冲突"}
+{"kind": "event", "local_id": "ev-local-3", "note": "第八层入口封印被合力破开，大门开启瞬间出现惊变（悬念落点）", "chapter_order": 1039}
+{"kind": "event", "local_id": "ev-local-2", "note": "黑衣人展现同源吸火元力与眉心印记，与王林保持距离", "chapter_order": 1039}
+{"kind": "claim", "local_id": "claim-local-27", "note": "凌天候自认打不开第八层入口封印（角色说法）", "chapter_order": 1039}
+{"kind": "claim", "local_id": "claim-local-3", "note": "王巍不知欲仙欲死之毒解法，解毒线索指向青霖/青霜", "chapter_order": 1039}
+{"kind": "entity", "entity_ref": {"path": "characters/char-1758/index.json", "record_id": "char-1758"}, "note": "黑衣人能吸收火元力、眉心有印记，对王林极度忌惮", "chapter_order": 1039}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1040, "note": "紫红棺材、红袍老者与火龙登场，天运子、贝罗、王巍、胡娟同时行动，阶段内关键强敌/夺宝场景"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 1040, "note": "王林在岩浆底吸收火元力、元力更为精进，为其能力成长节点"}
+{"kind": "claim", "local_id": "claim-local-29", "chapter_order": 1040, "note": "粉衣女子对四圣宗与朱雀觉醒抵抗火力的评判，属他方视角对王林实力的认知"}
+{"kind": "claim", "local_id": "claim-local-33", "chapter_order": 1040, "note": "粉衣女子当面划定立场：与王林无仇隙、仇隙归于虚空子"}
+{"kind": "thread", "local_id": "thread-local-2", "chapter_order": 1040, "note": "岩浆内奇异之灵的伏笔，后续可回收"}
+{"kind": "claim", "local_id": "claim-local-13", "reason": "本阶段关键身份揭示：昆虚圣女木冰眉与王林所寻身影对应", "tags": ["identity_reveal", "kunxu"], "chapter_order": 1041}
+{"kind": "claim", "local_id": "claim-local-15", "reason": "第七代圣女木冰眉与历代圣女功法信息", "tags": ["kunxu", "shengnyu"], "chapter_order": 1041}
+{"kind": "claim", "local_id": "claim-local-27", "reason": "天魂道与无情之道捷径的功法设定核心陈述", "tags": ["setting", "gongfa"], "chapter_order": 1041}
+{"kind": "claim", "local_id": "claim-local-29", "reason": "九分身之秘与第九分身柳眉在朱雀星出意外，为跨阶段线索", "tags": ["identity_reveal", "thread"], "chapter_order": 1041}
+{"kind": "event", "local_id": "ev-local-2", "reason": "王林以定身术压制并强搜他人记忆的关键行动节点", "tags": ["action", "souhun"], "chapter_order": 1041}
+{"kind": "event", "local_id": "ev-local-3", "note": "王林以昆极鞭与自悟一掌击碎第八层古魔，为本章能力展示关键节点", "chapter_order": 1042}
+{"kind": "claim", "local_id": "claim-local-19", "note": "古魔左目八星点、七暗一明，魔气强弱与星点相关", "chapter_order": 1042}
+{"kind": "claim", "local_id": "claim-local-29", "note": "王林当前修为自述/叙述为窥涅巅峰，并具古神肉身", "chapter_order": 1042}
+{"kind": "claim", "local_id": "claim-local-34", "note": "九十九盏烛台燃烧数由两盏降为一盏，剩一盏挣扎将熄", "chapter_order": 1042}
+{"kind": "claim", "local_id": "claim-local-14", "note": "凌天候向王林求援并承诺解释第八层变故，解释尚未给出", "chapter_order": 1042}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1043, "note": "第九层殿外众修与魔影缠斗全面展开，塔珈自称将完成最后夺舍"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1043, "note": "天运子施展「天运一指」，巨指戳向黑雾宫殿"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 1043, "note": "散魔肉身即年轻版凌天候——重要身份伏笔"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 1043, "note": "塔珈宣称即将完成最后的夺舍，指向殿内眉心光点者"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 1043, "note": "天运子出手帮贝罗、胡娟被吸入第九层，众修阵营裂痕线索"}
+{"kind": "claim", "local_id": "claim-local-14", "chapter_order": 1043, "note": "王林入第九层的动机：周佚与司徒南解毒"}
+{"kind": "key_event", "local_id": "ev-local-2", "note": "仙帝洞府第九层男子被魔气占据并起身，洞府禁制全崩、妖灵之地魔化，为本阶段重大转折", "chapter_order": 1044}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "无声狂笑笼罩联盟星域，修真联盟总部残存仙人惊呼「仙帝青霖」", "chapter_order": 1044}
+{"kind": "key_event", "local_id": "ev-local-5", "note": "拓森宣告再有百年走出朱雀星古神之地，古神肉身手指动了一下", "chapter_order": 1044}
+{"kind": "key_claim", "local_id": "claim-local-24", "note": "朱雀圣皇在火海星域雪白石块上现身登场，身份由叙述确认", "chapter_order": 1044}
+{"kind": "key_claim", "local_id": "claim-local-11", "note": "古妖贝罗判断对方刚夺舍成功未稳，构成后续行动动机", "chapter_order": 1044}
+{"kind": "key_claim", "local_id": "claim-local-4", "note": "黑衣人以三滴青霖之血为任务目标，指向幕后「大人」", "chapter_order": 1044}
+{"kind": "event", "local_id": "ev-local-1", "note": "青霖肉身（被塔珈夺舍）破殿而出，一招化解王巍大海神通与天运一指", "chapter_order": 1045}
+{"kind": "statement", "local_id": "claim-local-10", "note": "贝罗指称塔珈夺舍青霖身体、尚未彻底融合", "chapter_order": 1045}
+{"kind": "statement", "local_id": "claim-local-14", "note": "王林判定铠甲男子即仙帝青霖（身份揭示，含锚点）", "chapter_order": 1045}
+{"kind": "event", "local_id": "ev-local-4", "note": "王巍被黑虹穿胸重伤，仙府战局出现关键伤情", "chapter_order": 1045}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林首次展示古神大鼎换位之术，代王巍受虚空子一掌", "chapter_order": 1045}
+{"kind": "key_event", "ref_or_local_id": "ev-local-4", "chapter_order": 1046, "note": "古魔斩贝罗肉身、妖灵之体现形，是本阶段古之一族与青霖肉身之争的关键节点。"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-24", "chapter_order": 1046, "note": "青霖被夺舍前唯一留言，含三个未解词条，为后续剧情钩子。"}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-19", "chapter_order": 1046, "note": "虚空子首次自认「天人第一衰」提前降临，解释其失控行为。"}
+{"kind": "entity_state", "ref_or_local_id": "claim-local-27", "chapter_order": 1046, "note": "王林毁仙玉塔取青霜之血，涉及青霜尸体与周佚安放之诺，需跨章跟踪。"}
+{"kind": "event", "local_ref": "ev-local-2", "note": "黑衣人肉身被斩碎，元神自称罗睺", "chapter_order": 1047}
+{"kind": "claim", "local_ref": "claim-local-20", "note": "身份自述：掌尊坐下第七弟子罗睺（reported）", "chapter_order": 1047}
+{"kind": "claim", "local_ref": "claim-local-30", "note": "王林古神真身与朱雀图腾同现", "chapter_order": 1047}
+{"kind": "faction_or_rule", "local_ref": "setting-new-1", "note": "青霖肉身规则内容（reported）", "chapter_order": 1047}
+{"local_id": "ev-local-1", "kind": "event", "note": "古之三族同地混战，第八层与第九层被打通，仙帝洞府第九层从此消失", "chapter_order": 1048}
+{"local_id": "ev-local-2", "kind": "event", "note": "王林舍身断后，把救命之恩做实给王巍与胡娟", "chapter_order": 1048}
+{"local_id": "ev-local-3", "kind": "event", "note": "虚空子修为自碎涅跌落净涅巅峰", "chapter_order": 1048}
+{"local_id": "ev-local-4", "kind": "event", "note": "第七层岩浆被吞尽，火龙现身，王林战力/恢复关键点", "chapter_order": 1048}
+{"local_id": "ev-local-5", "kind": "event", "note": "朱雀圣宗六名碎涅修士出动，目标为妖灵之地与觉醒族人", "chapter_order": 1048}
+{"local_id": "ev-local-6", "kind": "event", "note": "修真联盟战略转向青霖洞府；清水现身联盟之外", "chapter_order": 1048}
+{"local_id": "claim-local-5", "kind": "claim", "note": "塔珈点出王林眉心金芒代表王族（角色陈述）", "chapter_order": 1048}
+{"local_id": "claim-local-27", "kind": "claim", "note": "火龙首次出现", "chapter_order": 1048}
+{"local_id": "claim-local-31", "kind": "claim", "note": "修真联盟暂缓罗天之战的号令原文", "chapter_order": 1048}
+{"local_id": "claim-local-32", "kind": "claim", "note": "清水对修真联盟显露敌意的首次画面", "chapter_order": 1048}
+{"chapter_order": 1049, "target_type": "event", "local_id": "ev-local-3", "note": "塔珈已可施展青霖神通并发挥肉身无形之力，夺舍趋于心身归一（关键转折）"}
+{"chapter_order": 1049, "target_type": "event", "local_id": "ev-local-4", "note": "虚空子自爆肉身、元神冲出，第七层战局出现缺口"}
+{"chapter_order": 1049, "target_type": "claim", "local_id": "claim-local-5", "note": "木冰眉与“柳眉”同一性指认，及昆虚圣女对抗界外之民的责任（角色说法）"}
+{"chapter_order": 1049, "target_type": "claim", "local_id": "claim-local-12", "note": "木冰眉决定随老者前往探看被夺舍肉身者，人物立场转向行动"}
+{"kind": "event", "local_id": "ev-local-1", "note": "虚空子强引天人第一衰，星象震动联盟星域；为 stage-024 内重要节点", "chapter_order": 1050}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林吸收火灵龙、凝聚本源火种，为主角能力关键跃迁", "chapter_order": 1050}
+{"kind": "claim", "local_id": "claim-local-25", "note": "贝罗关于「本源火种」与塔珈夺舍未完美的判断，为脱困逻辑依据", "chapter_order": 1050}
+{"kind": "event", "local_id": "ev-local-4", "note": "贝罗自碎两颗妖星与塔珈正面相撼，冲突升级", "chapter_order": 1050}
+{"kind": "event", "local_id": "ev-local-1", "label": "王林吞噬黑衣人元神、三火融合凝出火种", "chapter_order": 1051}
+{"kind": "event", "local_id": "ev-local-2", "label": "火焰风暴贯通仙帝洞府七层，朱雀二次觉醒", "chapter_order": 1051}
+{"kind": "event", "local_id": "ev-local-4", "label": "朱雀圣皇元神出窍离开燃烧星域", "chapter_order": 1051}
+{"kind": "claim", "local_id": "claim-local-7", "label": "朱雀圣宗觉醒次数决定圣皇归属的规矩", "chapter_order": 1051}
+{"kind": "claim", "local_id": "claim-local-13", "label": "朱雀二次觉醒的现场呈现", "chapter_order": 1051}
+{"kind": "claim", "local_id": "claim-local-17", "label": "虚空子天人第一衰出现失败初步迹象", "chapter_order": 1051}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1052, "note": "古妖贝罗以村姑美妇为炉鼎施放妖灵变，美妇形神俱灭——古妖保命神通的首次正面展示"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1052, "note": "贝罗自爆，仙帝洞府第七层崩溃，追击方与逃方的直接对抗告一段落"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1052, "note": "王林以朱雀与群修神通令洞府坍塌并布下禁制大网，封镇下方古魔"}
+{"kind": "claim", "local_id": "claim-local-26", "chapter_order": 1052, "note": "古魔塔珈破土而出，天运子、凌天候、虚空子与人形之物随行，人形之物疑似听命于塔珈"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 1052, "note": "王林首次将人形之物与古魔相联系，心中生出猜测（内容未明示）"}
+{"record_type": "event", "local_id": "ev-local-7", "reason": "古魔塔珈自陈破掉青霖第一规则，是本阶段关键反转（幻术驱使来救者开道）", "chapter_order": 1053}
+{"record_type": "event", "local_id": "ev-local-8", "reason": "花妃首次现身并宣告青霖第二规则，直接对准塔珈脱困布局", "chapter_order": 1053}
+{"record_type": "claim", "local_id": "claim-local-33", "reason": "塔珈关于青霖规则限制与其破解方式的自述，跨章可复用的关键陈述", "chapter_order": 1053}
+{"record_type": "claim", "local_id": "claim-local-37", "reason": "「第二个规则」的存在与内容线索，阶段级悬念核心", "chapter_order": 1053}
+{"record_type": "claim", "local_id": "claim-local-31", "reason": "王巍夫妇的托付（救活青霜、甩出周佚），对王林后续行动的明确请托", "chapter_order": 1053}
+{"record_type": "claim", "local_id": "claim-local-17", "reason": "妖灵之地封印随时可破＋星空初之规则之光照临，跨章衔接的关键状态", "chapter_order": 1053}
+{"kind": "event", "local_id": "ev-local-4", "note": "本 stage 关键节点：朱雀圣宗破封印、妖灵之地天空崩溃", "importance": "high", "chapter_order": 1054}
+{"kind": "event", "local_id": "ev-local-2", "note": "花妃与古魔塔珈正面交手，涉及青霖日月星三式神通", "importance": "high", "chapter_order": 1054}
+{"kind": "event", "local_id": "ev-local-3", "note": "虚空子入肉衰后持续追杀王林，云仙道侣带伤阻拦", "importance": "high", "chapter_order": 1054}
+{"kind": "claim", "local_id": "claim-local-13", "note": "肉衰设定：碎涅圆满天人五衰第一衰，肉身恶化至腐烂即形神俱灭", "importance": "high", "chapter_order": 1054}
+{"kind": "claim", "local_id": "claim-local-23", "note": "朱雀真灵与朱雀圣宗修士自外部破封的首次明确叙述", "importance": "high", "chapter_order": 1054}
+{"kind": "claim", "local_id": "claim-local-3", "note": "花妃来历（风之仙界、仙帝蓝云之妹）与青霖八妃之说，为塔珈口述", "importance": "medium", "chapter_order": 1054}
+{"kind": "key_event", "target_local_id": "ev-local-1", "stage_id": "stage-024", "reason": "天运子首次明示以与仙帝青霖算计一战为目的并分出八道分身，是本阶段核心反派动机的公开点。", "chapter_order": 1055}
+{"kind": "key_event", "target_local_id": "ev-local-5", "stage_id": "stage-024", "reason": "王林首次在实战中施展自创神通残夜，形成黑夜大海独立空间。", "chapter_order": 1055}
+{"kind": "key_claim", "target_local_id": "claim-local-8", "stage_id": "stage-024", "reason": "青霖关于「王姓之人」与仙灵天境崩溃的预言内容被完整引述，为花妃线关键依据。", "chapter_order": 1055}
+{"kind": "key_claim", "target_local_id": "claim-local-20", "stage_id": "stage-024", "reason": "虚空子肉身乃元神在天人第一衰中的幻化，属对手状态的关键设定。", "chapter_order": 1055}
+{"kind": "key_claim", "target_local_id": "claim-local-28", "stage_id": "stage-024", "reason": "王林当前修为定位（窥涅巅峰、距净涅一步）与残夜施展条件的旁白判定。", "chapter_order": 1055}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "王林残夜骄阳神通（初之规则+朱雀二次觉醒）首次完整爆发", "chapter_order": 1056}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "虚空子（char-2145）本章身死，碎涅大圆满陨落", "chapter_order": 1056}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "三具天运子分身被逼至困兽，战斗未完", "chapter_order": 1056}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "note": "天运宗无数万年来被吞噬之人以煞气身影现身", "chapter_order": 1056}
+{"ref_or_local_id": "claim-local-22", "kind": "claim", "note": "灰衣天运子的赤红血剑为其一生杀戮之气根本", "chapter_order": 1056}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "虚空子死亡结论，供后续战果汇总", "chapter_order": 1056}
+{"entity_type": "event", "local_id": "ev-local-1", "reason": "王林首次以残夜一击灭虚空子与天运子两个分身的关键战例", "chapter_order": 1057}
+{"entity_type": "claim", "local_id": "claim-local-2", "reason": "残夜神通引动初之规则的首次完整展示", "chapter_order": 1057}
+{"entity_type": "claim", "local_id": "claim-local-9", "reason": "三人身份构成的叙述明示（虚空子＋天运子两分身）", "chapter_order": 1057}
+{"entity_type": "claim", "local_id": "claim-local-12", "reason": "天运子自述师徒关系与放出朱雀星，师徒反目定性依据", "chapter_order": 1057}
+{"entity_type": "claim", "local_id": "claim-local-17", "reason": "初之规则/太初之力的世界规则设定", "chapter_order": 1057}
+{"entity_type": "claim", "local_id": "claim-local-18", "reason": "「掌尊的力量」与青霖苏醒最后一招的重要伏笔", "chapter_order": 1057}
+{"entity_type": "event", "local_id": "ev-local-2", "reason": "修真联盟命牌碎裂与九响钟鸣，预示联盟报复动向", "chapter_order": 1057}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 1058, "note": "朱雀真灵融入王林、化赤红铠甲，王林自感净涅修为与掌火之能"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 1058, "note": "朱雀圣宗六碎涅老者率近百族人现身护卫「朱雀觉醒者」，族人称其为未来圣皇"}
+{"kind": "claim", "ref_or_local_id": "claim-local-4", "chapter_order": 1058, "note": "十八地狱封仙印第十八层两个天运子之魂发生诡异融合"}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "chapter_order": 1058, "note": "王林感到体内净涅修为、可操控天下火之力（如太古雷龙）"}
+{"kind": "claim", "ref_or_local_id": "claim-local-20", "chapter_order": 1058, "note": "修真联盟总部的咆哮与极境红光者踏入外围（身份未明）"}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "朱雀圣宗第一批来临并护王林，王林记恩", "chapter_order": 1059}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "天运子百里混沌封界，战场被封闭", "chapter_order": 1059}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "天运子召无头之人袭杀王林，王林动用十八地狱封仙印，虚空子魂魄出战", "chapter_order": 1059}
+{"kind": "claim", "ref_or_local_id": "claim-local-10", "note": "塔珈由不重视转为必杀王林，并疑其为青霖计算一环", "chapter_order": 1059}
+{"kind": "claim", "ref_or_local_id": "claim-local-11", "note": "天运子对塔珈的「异数」论，明确其与塔珈同阵", "chapter_order": 1059}
+{"kind": "claim", "ref_or_local_id": "claim-local-18", "note": "朱雀圣宗近百元神融合成火焰巨人，王林对其产生好奇", "chapter_order": 1059}
+{"kind": "event", "local_id": "ev-local-6", "note": "天运子撕开第一道封印、释放天人第一衰全部修为的首次记录；朱雀圣宗老者碎涅自爆身亡", "chapter_order": 1060}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林第三目本源之力对天运子生效，天运子数千分身显化", "chapter_order": 1060}
+{"kind": "event", "local_id": "ev-local-7", "note": "雨之仙界残存者、朱雀圣皇元神、昆虚之境老者与木冰眉同时向妖灵之地汇聚", "chapter_order": 1060}
+{"kind": "claim", "local_id": "claim-local-3", "note": "王林仙力枯竭隐患：撒豆成兵依赖仙力，玄宝上人元神已近耗尽", "chapter_order": 1060}
+{"kind": "claim", "local_id": "claim-local-17", "note": "朱雀圣宗为保王林付出修士自爆的代价，王林不知其名", "chapter_order": 1060}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 1061, "note": "塔山现身救主，王林与天运子之战的转折点"}
+{"local_id": "ev-local-1", "kind": "event", "chapter_order": 1061, "note": "朱雀圣皇遍历四圣宗借力，青龙圣宗应命随行"}
+{"local_id": "claim-local-14", "kind": "claim", "chapter_order": 1061, "note": "剑鞘承受天运子一指未崩，天运子因反震暗自心惊"}
+{"local_id": "ev-local-5", "kind": "event", "chapter_order": 1061, "note": "大头、雷吉、浮风子、尘道子相继重创，战局恶化"}
+{"target": "new_events", "local_id": "ev-local-3", "reason": "本阶段王林与天运子决战的关键高潮节点（三十三剑、坠落）", "chapter_order": 1062}
+{"target": "new_events", "local_id": "ev-local-4", "reason": "木冰眉首次介入并救下王林，为后续人物线起点", "chapter_order": 1062}
+{"target": "new_claims", "local_id": "claim-local-11", "reason": "王林以师尊相称并托付骸骨回朱雀星的遗愿式陈述", "chapter_order": 1062}
+{"target": "new_claims", "local_id": "claim-local-14", "reason": "天运子自述「天人第一衰」与三十剑阈值的权威性说法（reported）", "chapter_order": 1062}
+{"target": "new_claims", "local_id": "claim-local-25", "reason": "木冰眉对天运子的公开警告，人物立场关键语", "chapter_order": 1062}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1063, "note": "阶段内重要斗法节点：昆虚圣女封禁天运子外在元力，直接影响王林生死战局。"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1063, "note": "王林动用八星古神保命底牌，五颗古神星点全部黯淡，属能力—代价类转折。"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 1063, "note": "四大星域各有一远古仙域传承圣女的世界观设定陈述（角色所述）。"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 1063, "note": "王林对木冰眉援手的明确拒绝，人物立场转折点。"}
+{"kind": "claim", "local_id": "claim-local-6", "chapter_order": 1063, "note": "吕云道与青霖之间的救命恩情与旧怨，势力关系线索。"}
+{"kind": "event", "local_id": "ev-local-5", "reason": "王林首次展示八星古神保命神通「梦回远古」，将妖灵之地全体卷入远古战场，为本阶段重大战力与局势转折", "chapter_order": 1064}
+{"kind": "claim", "local_id": "claim-local-31", "reason": "明确该幻景来源（青光盾内八星古神保命神通）的关键陈述", "chapter_order": 1064}
+{"kind": "claim", "local_id": "claim-local-18", "reason": "天运子撕裂眉心第二道封印（进度一半），其封印体系后续可能延伸", "chapter_order": 1064}
+{"kind": "event", "local_id": "ev-local-1", "reason": "修真联盟＋仙人正式入场并布「炼道」九剑大阵，势力动向关键", "chapter_order": 1064}
+{"kind": "claim", "local_id": "claim-local-2", "reason": "修真联盟对四圣宗、天运子、古魔塔珈及青霖的态度立场陈述", "chapter_order": 1064}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 1065, "note": "朱雀圣皇率四圣宗众降临妖灵之地，当众称王林为「我未来圣皇」并取出朱雀宗太古圣器"}
+{"local_id": "claim-local-27", "kind": "claim", "chapter_order": 1065, "note": "朱雀圣皇自述性叙述：早已到场，未现身是为对王林进行试炼考核，结果满意"}
+{"local_id": "claim-local-13", "kind": "claim", "chapter_order": 1065, "note": "王林青光盾彻底碎裂、失去战斗之力，手中夺得天运子三叉戟"}
+{"local_id": "claim-local-19", "kind": "claim", "chapter_order": 1065, "note": "王林因妖灵之地一战成名，进入联盟星域强者之列"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1066, "note": "四圣器天地二式印决完整展示，四圣宗战力定位与古魔受压制的关键节点"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 1066, "note": "四圣方位五行与印决体系的设定锚点"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 1066, "note": "四圣器瑕疵＝玄武圣器，指向玄武圣器真品归属悬念"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 1066, "note": "真玄武圣器在修真联盟昔日玄武圣皇手中的线索"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 1066, "note": "木冰眉对王林的关注与神色变化，人物态度证据"}
+{"kind": "key_event", "local_ref": "ev-local-1", "chapter_order": 1067, "note": "古魔塔珈被太古圣器血液封印真灵并倒地（本阶段主要对抗收束点）"}
+{"kind": "key_event", "local_ref": "ev-local-3", "chapter_order": 1067, "note": "天运子撕开第三道封印一半后撕空逃走，未伏法"}
+{"kind": "key_event", "local_ref": "ev-local-5", "chapter_order": 1067, "note": "王林与朱雀圣皇达成条件交换，四圣宗承担救治与接人义务"}
+{"kind": "key_event", "local_ref": "ev-local-6", "chapter_order": 1067, "note": "王林与木冰眉当面对峙后双双倒下，昆虚老者评「孽缘」"}
+{"kind": "key_claim", "local_ref": "claim-local-36", "chapter_order": 1067, "note": "木冰眉单方称王林是「我的孩子」，为关系定性关键陈述（reported）"}
+{"kind": "key_claim", "local_ref": "claim-local-32", "chapter_order": 1067, "note": "王林自述欠木冰眉一粒救命丹药与一次救命之恩（reported）"}
+{"kind": "key_claim", "local_ref": "claim-local-10", "chapter_order": 1067, "note": "血液非太古天道属性，可封古魔真灵（太古圣器关键能力展示）"}
+{"kind": "faction_move", "local_ref": "claim-local-30", "chapter_order": 1067, "note": "四圣宗对在场修真联盟仙人出手横扫"}
+{"kind": "character_state", "local_ref": "claim-local-42", "chapter_order": 1067, "note": "王林伤势达承受极限、元神有消散迹象，被带往朱雀圣宗"}
+{"kind": "event", "local_id": "ev-local-4", "reason": "修真联盟正式发布追杀令指向王林，并以封命+法宝+命魂约束重整天域格局，是阶段内关键政治事件", "chapter_order": 1068}
+{"kind": "claim", "local_id": "claim-local-13", "reason": "追杀令首次将王林、许木、魔道子、正品雷仙、四圣宗朱雀圣宗族人等称号并列，为身份线关键陈述（reported）", "chapter_order": 1068}
+{"kind": "event", "local_id": "ev-local-7", "reason": "燃烧星域疗伤两年为人物状态与时间跨度的关键节点", "chapter_order": 1068}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "朱雀九玄变作为朱雀圣宗圣皇必修神通的首次点出，为后续功法线入口", "chapter_order": 1068}
+{"kind": "faction", "candidate_name": "出云国", "reason": "新崛起的八级修真国，阶段内势力格局变化", "chapter_order": 1068}
+{"kind": "faction", "candidate_name": "芦笛国", "reason": "新崛起的八级修真国，阶段内势力格局变化", "chapter_order": 1068}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1069, "note": "朱雀圣宗传承托付、雨之仙晶与营救青龙圣皇的任务分派"}
+{"kind": "claim", "local_id": "claim-local-38", "chapter_order": 1069, "note": "关键任务分派：圣皇取雨之仙晶，王林负责营救青龙圣皇"}
+{"kind": "claim", "local_id": "claim-local-42", "chapter_order": 1069, "note": "清水行踪与修真联盟总部两年封锁相关（圣皇怀疑）"}
+{"kind": "claim", "local_id": "claim-local-32", "chapter_order": 1069, "note": "朱雀圣皇死气日重、意向将朱雀圣宗交予王林（人物转折点）"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 1069, "note": "司徒南毒素被禁锢但未根除（持续状态）"}
+{"kind": "key_event", "local_ref": "ev-local-3", "note": "王林开启第八火图腾、冲击九玄第一变，章末宣告第一变成即必为圣皇", "chapter_order": 1070}
+{"kind": "key_event", "local_ref": "ev-local-2", "note": "朱雀圣皇强行灌顶加速第九世吸收，第七天死气弥漫倒下", "chapter_order": 1070}
+{"kind": "key_statement", "local_ref": "claim-local-22", "note": "朱雀圣皇自判仅剩三个月寿命，天人第三衰再发必死", "chapter_order": 1070}
+{"kind": "key_statement", "local_ref": "claim-local-16", "note": "九玄第一变之法与「变即变强」的解释", "chapter_order": 1070}
+{"kind": "faction_status", "local_ref": "ev-local-5", "note": "朱雀圣宗内部对王林继位的抵触势力（三人及老一辈修士）", "chapter_order": 1070}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "reason": "本 stage 核心：王林朱雀九玄变觉醒进程，后续圣皇之位走向的直接依据", "chapter_order": 1071}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "reason": "多方故人同时感应，是收束三年时间跨度的关键节点", "chapter_order": 1071}
+{"record_ref_or_local_id": "ev-local-4", "kind": "event", "reason": "尘道子自责「老二、老三」的未决线索，可能牵动后续复仇线与朱雀圣宗关系", "chapter_order": 1071}
+{"record_ref_or_local_id": "claim-local-16", "kind": "claim", "reason": "银衣女子记忆恢复线索，身份问题尚未解明", "chapter_order": 1071}
+{"record_ref_or_local_id": "claim-local-19", "kind": "claim", "reason": "十三守石像三年并称王林师尊，弟子身份与忠诚关系证据", "chapter_order": 1071}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "reason": "许立国被困火中修成远古剑意、期盼王林出关，是其后行动的前置条件", "chapter_order": 1071}
+{"target_local_id": "ev-local-1", "kind": "event", "note": "本阶段核心节点：王林完成九玄第一变、朱雀圣宗新皇之兆显现，为 stage-024 标题所指的「朱雀觉醒入圣皇之位」", "chapter_order": 1072}
+{"target_local_id": "ev-local-2", "kind": "event", "note": "四圣宗与联盟星域（罗天、尸阴宗）被惊动的势力动向起点，供后续章节比对", "chapter_order": 1072}
+{"target_local_id": "ev-local-3", "kind": "event", "note": "任涛一方的不服与潜在冲突线索，涉及三名新角色任涛、廖云、凤姗", "chapter_order": 1072}
+{"kind": "event", "local_id": "ev-local-6", "note": "王林正式继任朱雀圣宗圣皇并获得三件信物，为本 stage 核心节点", "chapter_order": 1073}
+{"kind": "event", "local_id": "ev-local-2", "note": "罗天雷神殿大军推进与炎雷子的不安，为主要外部威胁动向", "chapter_order": 1073}
+{"kind": "event", "local_id": "ev-local-5", "note": "墨智受命送贺礼，牵出旧人再现线索", "chapter_order": 1073}
+{"kind": "claim", "local_id": "claim-local-37", "note": "太古圣器带有与天逆相似气息，涉及王林核心能力线索", "chapter_order": 1073}
+{"kind": "claim", "local_id": "claim-local-38", "note": "青霖眉心尚有圣器之血，为后续可回收的悬置物", "chapter_order": 1073}
+{"kind": "claim", "local_id": "claim-local-15", "note": "黑衣老者明确提及无极子，新的势力/人物线索", "chapter_order": 1073}
+{"local_id": "ev-local-3", "kind": "event", "note": "王林首次施展九玄变与三世火元，以两指灭杀任涛（含火与雷交错之力）", "chapter_order": 1074}
+{"local_id": "ev-local-2", "kind": "event", "note": "任涛援引历代法则当众挑战，朱雀圣宗内部出现公开反对声音", "chapter_order": 1074}
+{"local_id": "claim-local-28", "kind": "claim", "note": "九玄变为历代圣皇专属神通的设定说明", "chapter_order": 1074}
+{"local_id": "claim-local-25", "kind": "claim", "note": "残夜战绩在联盟星域流传（虚空子亡、天运子三大分身二死一重伤）", "chapter_order": 1074}
+{"local_id": "ev-local-4", "kind": "event", "note": "章末悬念：王林转向任涛身后三名老者发问，局势未结", "chapter_order": 1074}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1075, "note": "王林明确判断拓森将脱困并开始布局，为主线危机锚点"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1075, "note": "王林对长老公开表态「救青龙圣皇」，对老圣皇之诺首次对第三方宣示"}
+{"kind": "claim", "local_id": "claim-local-30", "chapter_order": 1075, "note": "关键陈述：救青龙圣皇"}
+{"kind": "claim", "local_id": "claim-local-31", "chapter_order": 1075, "note": "朱雀圣宗长老对王林认知转折（高深莫测）"}
+{"kind": "claim", "local_id": "claim-local-19", "chapter_order": 1075, "note": "拓森索回涂司忆之传承的旧约复现"}
+{"kind": "event", "local_id": "ev-local-6", "chapter_order": 1075, "note": "三方使者到访，两名身份未明但被叙述明示为「王林熟悉之人」"}
+{"local_id": "ev-local-2", "kind": "event", "reason": "本阶段核心节点：新朱雀圣皇首次在大殿现身并引动天地火元力", "chapter_order": 1076}
+{"local_id": "ev-local-4", "kind": "event", "reason": "烈云子当殿索要王林，冲突线在本阶段内部开启", "chapter_order": 1076}
+{"local_id": "claim-local-29", "kind": "claim", "reason": "叙述以「王林」指称圣皇，是身份认定链上的关键表述", "chapter_order": 1076}
+{"local_id": "claim-local-17", "kind": "claim", "reason": "尸阴宗对新圣皇身份的判断，可用于后续身份揭示对照", "chapter_order": 1076}
+{"local_id": "claim-local-28", "kind": "claim", "reason": "墨智师尊所送精魂小旗，疑为后续伏笔", "chapter_order": 1076}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 1077, "note": "王林在朱雀圣宗大殿显露真容，“铠甲之人/新圣皇”与王林同一人被原文明示"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 1077, "note": "烈云子在大殿受压认错并取出三个画轴，事件未收束"}
+{"kind": "claim", "ref_or_local_id": "claim-local-8", "chapter_order": 1077, "note": "身份揭示关键证据（anchored）：铠甲消散后显露王林"}
+{"kind": "claim", "ref_or_local_id": "claim-local-26", "chapter_order": 1077, "note": "王林索要战家全部战字贴，战家线索推进点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "chapter_order": 1077, "note": "墨智公开以出云国名义为王林作证，势力立场证据"}
+{"local_id": "ev-local-1", "kind": "event", "significance": "high", "note": "战字帖与罗浮血球交割，王林在新身份下对烈云子的压制完成", "chapter_order": 1078}
+{"local_id": "ev-local-3", "kind": "event", "significance": "high", "note": "烈云子肉身被毁、中尸阴宗之毒逃遁，形成复仇线与幕后出手者伏笔", "chapter_order": 1078}
+{"local_id": "ev-local-4", "kind": "event", "significance": "high", "note": "蓝衣男子自称欠王林人情，为神秘助力者线索", "chapter_order": 1078}
+{"local_id": "ev-local-5", "kind": "event", "significance": "medium", "note": "尸阴宗正式表达与四圣宗结盟意愿，势力格局变动", "chapter_order": 1078}
+{"local_id": "ev-local-6", "kind": "event", "significance": "high", "note": "神秘尸身玉简震惊尸阴宗使者，跨章悬念", "chapter_order": 1078}
+{"local_id": "claim-local-11", "kind": "claim", "significance": "medium", "note": "烈云子誓言取回战家祖物并杀王林", "chapter_order": 1078}
+{"local_id": "claim-local-19", "kind": "claim", "significance": "high", "note": "蓝衣男子自述以司徒南体内毒素偷袭，伉俪二人欠王林人情", "chapter_order": 1078}
+{"kind": "event", "local_id": "ev-local-6", "note": "四圣宗并非此界之人、根源之星与青霖不知情等惊天之秘的首次披露节点", "chapter_order": 1079}
+{"kind": "event", "local_id": "ev-local-5", "note": "前任圣皇鲁云元神交付朱雀圣宗与雨界仙晶计划，属阶段级关键交接", "chapter_order": 1079}
+{"kind": "claim", "local_id": "claim-local-38", "note": "本阶段核心隐秘陈述，后续多方势力动向的因果起点", "chapter_order": 1079}
+{"kind": "claim", "local_id": "claim-local-30", "note": "鲁云赴联盟总部取雨界仙晶，牵动联盟/四圣宗/尸阴宗多方", "chapter_order": 1079}
+{"kind": "claim", "local_id": "claim-local-10", "note": "王林以尸身玉简为饵布局罗天与尸阴宗，阶段内线索", "chapter_order": 1079}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "chapter_order": 1080, "note": "四圣宗隐秘与原始之门四份藏点首次完整交代"}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "chapter_order": 1080, "note": "王林托烈云子转交玉简抵达雷仙殿"}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "chapter_order": 1080, "note": "罗天阵营停止与联盟战事、转向四圣宗"}
+{"kind": "claim", "ref_or_local_id": "claim-local-24", "chapter_order": 1080, "note": "「那朱雀圣皇，是王林」——关键身份陈述，出自烈云子"}
+{"kind": "claim", "ref_or_local_id": "claim-local-13", "chapter_order": 1080, "note": "朱雀星为原始之门四份之一，另三处以星图传给王林"}
+{"kind": "claim", "ref_or_local_id": "claim-local-33", "chapter_order": 1080, "note": "炎雷子受未知传音者指令，势力动向转折点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-34", "chapter_order": 1080, "note": "尸阴宗因玉简疯狂，为下章铺垫"}
+{"buffer_type": "key_event", "local_ids": ["ev-local-2"], "entity_refs": [{"candidate_name": "第三王"}, {"path": "characters/char-0197/index.json", "record_id": "char-0197"}], "note": "尸阴宗第三王被唤醒并下令倾全宗夺取王族八星古神肉身，本阶段势力级动向的关键节点。", "chapter_order": 1081}
+{"buffer_type": "key_claim", "local_ids": ["claim-local-9", "claim-local-10", "claim-local-11"], "entity_refs": [{"candidate_name": "第三王"}, {"candidate_name": "王族古神"}], "note": "「王族八星古神」认定与「尸阴九王将出八人」的命令，均为角色口述（reported）。", "chapter_order": 1081}
+{"buffer_type": "key_claim", "local_ids": ["claim-local-18", "claim-local-22"], "entity_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "note": "王林明确其策略为明告古神消息的「阳谋」，并自陈另有「计中计」，是后续情节的伏线。", "chapter_order": 1081}
+{"buffer_type": "turning_point", "local_ids": ["ev-local-5", "claim-local-26"], "entity_refs": [{"path": "characters/char-0001/index.json", "record_id": "char-0001"}], "note": "王林自胸口引出断剑，为本章收束处的器物/能力首现记录。", "chapter_order": 1081}
+{"kind": "event", "local_id": "ev-local-1", "subject": "王林", "note": "炼化灰衣天运子断剑成赤红杀戮之剑；杀戮之气不足百万，后续需补足", "chapter_order": 1082}
+{"kind": "claim", "local_id": "claim-local-1", "subject": "灰衣天运子／王林", "note": "断剑来历与归属：灰衣天运子杀戮根源所化，妖灵之地一战后留在王林体内", "chapter_order": 1082}
+{"kind": "claim", "local_id": "claim-local-7", "subject": "王林", "note": "十八地狱封仙印可召出虚空子与天运子之魂为己所用", "chapter_order": 1082}
+{"kind": "claim", "local_id": "claim-local-19", "subject": "十三", "note": "十三称王林「师尊」，驻守朱雀圣宗主星石像旁", "chapter_order": 1082}
+{"kind": "claim", "local_id": "claim-local-23", "subject": "王林", "note": "王林本尊腰部以下仅余骸骨（状态待解释）", "chapter_order": 1082}
+{"kind": "event", "local_id": "ev-local-4", "subject": "外来黄衣修士", "note": "联盟星域外势力驱引巨蚊兽潜入，欲与长老汇合立功；与本章标题「外人」呼应", "chapter_order": 1082}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1083, "reason": "王林首次对尘道子立下复仇承诺，涉及古魔塔珈这条敌对线索，属阶段内关键人物关系动向"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1083, "reason": "王林守李慕婉棺木的核心场面，交代其长期动机与心愿"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1083, "reason": "王林感悟白凡仙术第四式「山崩」，涉及其能力进阶与「火元」明悟"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 1083, "reason": "王林「让你有亲手杀古魔塔珈的机会」的承诺陈述，可作为后续兑现的核对依据"}
+{"kind": "claim", "local_id": "claim-local-11", "chapter_order": 1083, "reason": "王林自陈「我没有看透」，是其心境的直接表态"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 1083, "reason": "交代王林已明悟火元、并对山崩仙术认识渐深的事实基础"}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林明悟白凡六大仙术后三式第一式「山崩」，可作本阶段主角战力跃升节点", "chapter_order": 1084}
+{"kind": "event", "local_id": "ev-local-2", "note": "王林神念融合整片星域修真星并引发全星火山齐爆，朱雀圣宗全宗撤离且长老对其生出不满", "chapter_order": 1084}
+{"kind": "event", "local_id": "ev-local-3", "note": "炎雷子现身朱雀圣宗星域外，与尸阴宗九王之一照面互道身份，为后续线索起点", "chapter_order": 1084}
+{"kind": "claim", "local_id": "claim-local-15", "note": "朱雀圣宗长老因撤离事件对「新圣皇」王林产生强烈不满，属势力内部动向证据", "chapter_order": 1084}
+{"ref_local_id": "ev-local-3", "record_type": "event", "note": "王林以朱雀圣皇身份与尸阴宗第三王、炎雷子当面交涉，星图指明朱雀星，两方势力将赴该地；阶段内关键势力动向", "chapter_order": 1085}
+{"ref_local_id": "claim-local-11", "record_type": "claim", "note": "王林神念自称“朱雀圣皇”，炎雷子随即认出“你是王林”，为身份公开的关键陈述", "chapter_order": 1085}
+{"ref_local_id": "claim-local-28", "record_type": "claim", "note": "王林自述突破窥涅进军净涅、意境出现真假之变，属境界里程碑陈述", "chapter_order": 1085}
+{"ref_local_id": "claim-local-32", "record_type": "claim", "note": "以空间裂缝取代储物袋，能力手段变化的直接证据", "chapter_order": 1085}
+{"ref_local_id": "ev-local-5", "record_type": "event", "note": "蚊兽重伤归来、王林读取记忆后爆发杀机，阶段内悬置线索", "chapter_order": 1085}
+{"ref_local_id": "claim-local-14", "record_type": "claim", "note": "尸阴宗经李莹芝带回玉简一事，串连既有实体李莹芝、烈云子与雷仙殿线索", "chapter_order": 1085}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "note": "王林以缩地成寸追至联盟东部边缘，与天门宗夺兽一行即将交锋", "chapter_order": 1086}
+{"kind": "event", "ref_or_local_id": "ev-local-3", "note": "天门宗长老决定弃顾忌、带十九只巨蚊兽返云海，是王林与天门宗结怨的直接起因", "chapter_order": 1086}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "王林以九玄变自我封印压制净涅天劫，天劫为其后续战力展示的关键伏笔", "chapter_order": 1086}
+{"kind": "claim", "ref_or_local_id": "claim-local-21", "note": "九玄变可牵制天劫降临时间并自我封印修为（叙述明确）", "chapter_order": 1086}
+{"kind": "claim", "ref_or_local_id": "claim-local-15", "note": "青光外阵可阻碎涅大圆满数日，为后续破阵/对抗设定参照", "chapter_order": 1086}
+{"kind": "character", "ref_or_local_id": "char-0001", "note": "王林进入云海/天门宗线索，状态：愤怒追索、修为净涅边缘自我封印", "chapter_order": 1086}
+{"local_id": "sb-local-1", "kind": "event", "target_local_id": "ev-local-3", "summary": "王林首次在联盟星域碎石星域解封净涅气息并引动天劫，成为对峙转折点", "chapter_order": 1087}
+{"local_id": "sb-local-2", "kind": "claim", "target_local_id": "claim-local-13", "summary": "天门宗二老仅净涅后期、非云海星域真正使者、以特殊方式偷偷到来——势力动向关键陈述", "chapter_order": 1087}
+{"local_id": "sb-local-3", "kind": "claim", "target_local_id": "claim-local-9", "summary": "三个青年认出并欲抓捕逃走的蚊兽王，与王林同行蚊兽的同一性线索", "chapter_order": 1087}
+{"local_id": "sb-local-4", "kind": "claim", "target_local_id": "claim-local-2", "summary": "山崩为仙帝白凡后三式神通第一式，王林当前掌握手段的层级说明", "chapter_order": 1087}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-3", "chapter_order": 1088, "note": "王林以天劫雷球击溃青光阵、毁碎石星域，紫衣老者一方死伤惨重"}
+{"buffer_kind": "key_event", "ref_or_local_id": "ev-local-4", "chapter_order": 1088, "note": "章末王林道出「山崩」，效果未明，跨章续接点"}
+{"buffer_kind": "key_statement", "ref_or_local_id": "claim-local-10", "chapter_order": 1088, "note": "王林以雷龙元神＋左目吞噬天雷的能力展示"}
+{"buffer_kind": "key_statement", "ref_or_local_id": "claim-local-22", "chapter_order": 1088, "note": "叙述提及蚊兽曾被重伤掠走，为当前冲突的动机线索"}
+{"buffer_kind": "character_turn", "ref_or_local_id": {"path": "characters/char-0001/index.json", "record_id": "char-0001"}, "chapter_order": 1088, "note": "王林主动引天劫当作攻击手段，手段与气场较此前升级"}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 1089, "note": "王林首次完整施展山崩仙术，大规模杀灭云海星域修士"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 1089, "note": "第一崩摧毁阵法；紫衣老者元神自爆被定身术+昆极鞭收走"}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 1089, "note": "第二崩使山峰与山魂崩溃，燃烧长河环绕；天劫对峙未完"}
+{"ref_or_local_id": "claim-local-15", "kind": "claim", "chapter_order": 1089, "note": "昆极鞭可抽散自爆气息并卷住元神，王林具备储物空间裂缝收纳之能"}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "chapter_order": 1089, "note": "王林山崩仙术上限为一山二崩，与清水六山十二崩对标"}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "chapter_order": 1089, "note": "王林依仗天劫敢于独战净涅后期乃至碎涅修士"}
+{"kind": "event", "local_id": "ev-local-3", "reason": "本阶段内明确的对立修士陨灭节点（紫衣老者元神崩溃）", "chapter_order": 1090}
+{"kind": "event", "local_id": "ev-local-6", "reason": "第五种天劫「血劫」首次出现，跨章待续", "chapter_order": 1090}
+{"kind": "claim", "local_id": "claim-local-12", "reason": "首次出现「九阶神宗的役灵印」这一势力／神通线索", "chapter_order": 1090}
+{"kind": "claim", "local_id": "claim-local-18", "reason": "王林以「雷龙王林」自称并行使号令天地之雷之权", "chapter_order": 1090}
+{"kind": "claim", "local_id": "claim-local-21", "reason": "王林以「朱雀王林」自称并行使号令天地之火之权", "chapter_order": 1090}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "本章主旨转向「与天争雷、与天争火」的主动反击", "chapter_order": 1090}
+{"record_ref_or_local_id": "ev-local-5", "kind": "event", "chapter_order": 1091, "note": "黑衣老者跨星域瞬移查看远古仙域气息，叙述将其指认为当年阻止清水与姚家老祖交战者"}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 1091, "note": "首次出现远古仙域石像群与道袍青年，开启新线索"}
+{"record_ref_or_local_id": "ev-local-6", "kind": "event", "chapter_order": 1091, "note": "王林确立刻意退路：云海星域、路引与阵法"}
+{"record_ref_or_local_id": "claim-local-26", "kind": "claim", "chapter_order": 1091, "note": "王林自述计中计与四圣宗救青龙圣皇计划"}
+{"record_ref_or_local_id": "claim-local-31", "kind": "claim", "chapter_order": 1091, "note": "老圣皇急召王林，与本阶段圣皇之位相关线索引衔接"}
+{"record_ref_or_local_id": "ev-local-8", "kind": "event", "chapter_order": 1091, "note": "修真联盟总部异动，需关注后续展开"}
+{"kind": "event", "local_id_or_ref": "ev-local-3", "note": "本章核心转折：朱雀老圣皇元神消散归墟，留下红色玉简与仙气晶体", "chapter_order": 1092}
+{"kind": "claim", "local_id_or_ref": "claim-local-3", "note": "清水在修真联盟总部且疯癫（角色陈述）", "chapter_order": 1092}
+{"kind": "claim", "local_id_or_ref": "claim-local-5", "note": "老圣皇遗命：救青龙圣皇、送玉简至昆虚之境", "chapter_order": 1092}
+{"kind": "event", "local_id_or_ref": "ev-local-6", "note": "罗天、尸阴宗、联盟各势力向朱雀星集结，势力格局变动", "chapter_order": 1092}
+{"kind": "event", "local_id_or_ref": "ev-local-7", "note": "四圣宗秘密集结三十五名碎涅长老布阵，四圣宗之变伏笔", "chapter_order": 1092}
+{"kind": "claim", "local_id_or_ref": "claim-local-20", "note": "许立国修为因感悟远古剑意而突飞猛进", "chapter_order": 1092}
+{"kind": "claim", "local_id_or_ref": "claim-local-13", "note": "四圣宗高层历史背景：白虎战死、玄武背叛、青龙失踪", "chapter_order": 1092}
+{"local_id": "ev-local-1", "kind": "event", "chapter_order": 1093, "note": "王林对许立国的祭炼收束，威压手段已施加"}
+{"local_id": "ev-local-2", "kind": "event", "chapter_order": 1093, "note": "塔山辞行并赠速、崩、封三符，人物离场"}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 1093, "note": "云仙道侣正式答应协助营救青龙圣皇，同盟达成"}
+{"local_id": "ev-local-5", "kind": "event", "chapter_order": 1093, "note": "雨界大门重开，联盟星域层面重大事件"}
+{"local_id": "ev-local-6", "kind": "event", "chapter_order": 1093, "note": "入界阵容与银衣女尸暗中跟随"}
+{"local_id": "ev-local-7", "kind": "event", "chapter_order": 1093, "note": "天运子持雨鼎现身并宣示针对王林的算计（关键反转）"}
+{"local_id": "claim-local-41", "kind": "claim", "chapter_order": 1093, "note": "身份揭示：白发老者即天运子"}
+{"local_id": "claim-local-25", "kind": "claim", "chapter_order": 1093, "note": "青霖三词语与雨界尊殿线索"}
+{"local_id": "claim-local-38", "kind": "claim", "chapter_order": 1093, "note": "银衣女尸闯入雨界的伏笔"}
+{"local_id": "claim-local-13", "kind": "claim", "chapter_order": 1093, "note": "司徒南复仇凤栾星的动机设定"}
+{"kind": "event", "local_id": "ev-local-6", "note": "拓森在血海抬右手狠抓，为本章章末悬念点，建议纳入 stage 追踪", "chapter_order": 1094}
+{"kind": "event", "local_id": "ev-local-5", "note": "古神之地入口凶兽暴动 + 深渊至深沉睡存在被惊醒（本章新增未知威胁）", "chapter_order": 1094}
+{"kind": "claim", "local_id": "claim-local-18", "note": "各方势力第一批不足七千人进入朱雀星查探王林玉简，主力留驻星外", "chapter_order": 1094}
+{"kind": "claim", "local_id": "claim-local-15", "note": "罗天已取消王林正品雷仙资格（势力态度关键事实）", "chapter_order": 1094}
+{"kind": "claim", "local_id": "claim-local-13", "note": "西子凤喝止毁坏王林雕像，并复杂注视雕像", "chapter_order": 1094}
+{"buffer_type": "event", "ref_local_id": "ev-local-2", "note": "灭神矛贯穿古神之地与星空，重创罗天/尸阴宗/联盟，为多方入朱雀星之直接诱因", "chapter_order": 1095}
+{"buffer_type": "event", "ref_local_id": "ev-local-3", "note": "罗天、尸阴宗、联盟三方大举进入朱雀星", "chapter_order": 1095}
+{"buffer_type": "event", "ref_local_id": "ev-local-5", "note": "王林一行抵达雨界锁形山峰，峰内传出呼救", "chapter_order": 1095}
+{"buffer_type": "claim", "ref_local_id": "claim-local-12", "note": "灭神矛离去时的沙哑宣告“吾等你们前来”", "chapter_order": 1095}
+{"buffer_type": "claim", "ref_local_id": "claim-local-25", "note": "旁白称王林是朱雀圣皇，且唯其知晓青龙圣皇被困之处", "chapter_order": 1095}
+{"local_id": "buf-local-1", "kind": "event", "ref_or_local_id": "ev-local-1", "note": "四圣宗抬山破青霖金锁救青龙圣皇：一息之限、抬至六丈多未达七丈，青光老者将出", "chapter_order": 1096}
+{"local_id": "buf-local-2", "kind": "event", "ref_or_local_id": "ev-local-2", "note": "天运子突现雨界碎片，三具分身接连自爆截击王林与王巍胡娟", "chapter_order": 1096}
+{"local_id": "buf-local-3", "kind": "claim", "ref_or_local_id": "claim-local-11", "note": "呼救者称金锁为仙帝青霖所印，另封「一物」，不可放出（角色陈述）", "chapter_order": 1096}
+{"local_id": "buf-local-4", "kind": "claim", "ref_or_local_id": "claim-local-21", "note": "王林左眼火、右目雷凝雷球火球成雷火之海，首次在本段展示该手段", "chapter_order": 1096}
+{"local_id": "buf-local-5", "kind": "claim", "ref_or_local_id": "claim-local-4", "note": "青龙圣宗长老当面称王林为「朱雀圣皇大人」", "chapter_order": 1096}
+{"ref_or_candidate": {"local_id": "ev-local-5"}, "entry_type": "event", "label": "青龙圣皇血箭青龙重创天运子后放其离去", "why": "本阶段主角阵营与天运子的正面冲突结果，天运子负伤远遁", "chapter_order": 1097}
+{"ref_or_candidate": {"local_id": "claim-local-18"}, "entry_type": "claim", "label": "天运子所取之物被青龙圣皇称为「天道之血」", "why": "核心名词首次在本阶段出现，后续线索依赖", "chapter_order": 1097}
+{"ref_or_candidate": {"local_id": "claim-local-30"}, "entry_type": "claim", "label": "青龙圣皇称天道之血已被吞半、余血含自身血液", "why": "为天运子后续修炼埋下反制伏笔", "chapter_order": 1097}
+{"ref_or_candidate": {"local_id": "claim-local-22"}, "entry_type": "claim", "label": "锁山为仙帝青霖封印、青龙圣皇受玄重子蛊惑被困", "why": "补足仙界浩劫与仙帝一系研究的背景陈述", "chapter_order": 1097}
+{"ref_or_candidate": {"local_id": "ev-local-7"}, "entry_type": "event", "label": "王林拒回四圣宗，青龙圣皇率众离去并嘱送回朱雀太古圣器", "why": "主角与四圣宗关系的阶段性定轨", "chapter_order": 1097}
+{"ref_or_candidate": {"local_id": "claim-local-11"}, "entry_type": "claim", "label": "雨之仙界彻底瓦解", "why": "世界状态级变化，影响后续场景设定", "chapter_order": 1097}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1098, "why": "王林与四圣宗关系断绝、向朱雀老圣皇立誓报恩的分水岭"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1098, "why": "雨界尊殿首次被定位并进入，雨界崩溃进程推进"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1098, "why": "青霖肉身已取出置于逆魂阵法前，复活线启动"}
+{"kind": "claim", "local_id": "claim-local-5", "chapter_order": 1098, "why": "青龙圣皇对朱雀太古圣器的处置要求（明确条件与期限）"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 1098, "why": "青龙圣皇称其余三圣皇已死、态度淡漠，四圣宗格局变动的关键陈述"}
+{"kind": "claim", "local_id": "claim-local-30", "chapter_order": 1098, "why": "王林以火海之力自行挣脱漩涡吸力，能力表现节点"}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 1099, "note": "银衣女尸首次开口、王林以自身血液补全阵法，导致众人进入青霖识海"}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 1099, "note": "青霜以白衣女子形象在青霖识海现身，自称暂时复活"}
+{"local_id": "claim-local-17", "kind": "claim", "chapter_order": 1099, "note": "银衣女尸首次开口，提出缺王姓之血"}
+{"local_id": "claim-local-18", "kind": "claim", "chapter_order": 1099, "note": "银衣女尸转述花妃说法：主人姓王可进入仙帝洞府"}
+{"local_id": "claim-local-24", "kind": "claim", "chapter_order": 1099, "note": "王林认出白衣女子为青霖之女、雨之仙君青霜"}
+{"local_id": "claim-local-35", "kind": "claim", "chapter_order": 1099, "note": "青霜确认周佚为新任雨之剑魂并加以警告"}
+{"ref_kind": "event", "local_id": "ev-local-3", "note": "青霖宣称收王林为最后弟子并传道，众弟子与青霖自身融入王林体内，为阶段内重要转折点。", "chapter_order": 1100}
+{"ref_kind": "event", "local_id": "ev-local-4", "note": "王林首次以传道之力施展空涅级别战斗，破界限、破吞天、困塔珈，塔珈三星崩溃。", "chapter_order": 1100}
+{"ref_kind": "claim", "local_id": "claim-local-36", "note": "清水封印的白凡仙术至宝机制描述，为后续仙术成长线埋线。", "chapter_order": 1100}
+{"ref_kind": "claim", "local_id": "claim-local-42", "note": "塔珈八魔星崩其三，魔星数量可作为其战力/状态的量化锚点。", "chapter_order": 1100}
+{"kind": "event", "local_id": "ev-local-4", "chapter_order": 1101, "note": "王林以「定」＋七指逼碎塔珈剩余五颗魔星的完整战果，可作为本阶段战力与规则之体运用的关键节点"}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1101, "note": "塔珈转入九星神通「紫气魔劫」，战局跨章延续，下一章衔接入口"}
+{"kind": "claim", "local_id": "claim-local-3", "chapter_order": 1101, "note": "青霖集王巍、胡娟、青霜、周佚之力赠王林造化的转述，可支撑识海战场来源"}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 1101, "note": "王林「规则之体」在实战中穿行元神攻击的直接表现"}
+{"kind": "event", "local_id": "ev-local-2", "note": "青霖布局机制首次明示：以救援者入识海、交出识海操控换取第三步力量，属阶段性关键信息", "chapter_order": 1102}
+{"kind": "event", "local_id": "ev-local-4", "note": "青霖识海崩溃，王林「仙术，陨星」首次施展", "chapter_order": 1102}
+{"kind": "claim", "local_id": "claim-local-8", "note": "王林第三步力量为暂时之力、离开青霖识海即打回原形，影响后续战力判断", "chapter_order": 1102}
+{"kind": "event", "local_id": "ev-local-5", "note": "王林回到雨之仙界青光大殿苏醒，为下一段叙事的衔接点", "chapter_order": 1102}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1103, "note": "青霖以「重凝仙界」造出新雨之仙界，为阶段级势力/空间格局变化的直接依据"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1103, "note": "司徒南拜青霖为师并获允解毒，人物归属变化"}
+{"kind": "claim", "local_id": "claim-local-33", "chapter_order": 1103, "note": "王林修为明确为净涅初期，体内得第三步种子，能力阶位关键证据"}
+{"kind": "claim", "local_id": "claim-local-36", "chapter_order": 1103, "note": "青霖容颜苍老，人物状态异常，留待后续解释"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 1104, "note": "青霖明确雨之新界归属与「一击之力」限度，影响后续拓森危机处理"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 1104, "note": "避天棺被正式命名并给出紫霞/闪仙界线索，核心长期线索推进"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1104, "note": "王林与昆虚之境守阵修士冲突起点，跨章延续"}
+{"kind": "claim", "local_id": "claim-local-22", "chapter_order": 1104, "note": "王林确立「靠自己」路线，不请青霖对抗拓森"}
+{"kind": "claim", "local_id": "claim-local-17", "chapter_order": 1104, "note": "避天棺口诀指向仙帝紫霞，后续需追踪该实体"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 1104, "note": "联盟星域修士大举迁往朱雀星的势力动向"}
+{"kind": "event", "local_id": "ev-local-1", "salience": "high", "note": "王林独灭四名窥涅修士，实力再次外显，且未让对方传出讯息", "chapter_order": 1105}
+{"kind": "event", "local_id": "ev-local-2", "salience": "high", "note": "王林以朱雀老圣皇名义送玉简进入昆虚之境，遇守阵童子", "chapter_order": 1105}
+{"kind": "event", "local_id": "ev-local-3", "salience": "medium", "note": "周茹现身呼应王林；未具名女子与紫金袍中年男子登场", "chapter_order": 1105}
+{"kind": "claim", "local_id": "claim-local-16", "salience": "high", "note": "四名窥涅修士三擒一亡，传讯玉简未被捏碎", "chapter_order": 1105}
+{"kind": "claim", "local_id": "claim-local-32", "salience": "high", "note": "青霖符文可令王林随时自昆虚之境返回新雨界", "chapter_order": 1105}
+{"kind": "claim", "local_id": "claim-local-41", "salience": "medium", "note": "昆虚方面以「朱雀圣皇」称呼王林", "chapter_order": 1105}
+{"kind": "event", "local_id": "ev-local-1", "note": "朱雀老圣皇遗托玉简送达昆虚之境，涉及联盟总部秘闻", "chapter_order": 1106}
+{"kind": "event", "local_id": "ev-local-2", "note": "木冰眉现身放行，王林当面索要周茹", "chapter_order": 1106}
+{"kind": "event", "local_id": "ev-local-3", "note": "木冰眉赠翠玉钗、正式送别周茹", "chapter_order": 1106}
+{"kind": "event", "local_id": "ev-local-4", "note": "木冰眉道歉与王林停阵追问「真的想看看他么」，本章悬念", "chapter_order": 1106}
+{"kind": "claim", "local_id": "claim-local-33", "note": "王林对木冰眉定性「柳眉已经死了，你不是她」——身份关系关键陈述", "chapter_order": 1106}
+{"kind": "claim", "local_id": "claim-local-34", "note": "王平怨婴旧事再次浮现，王林心结关键证据", "chapter_order": 1106}
+{"kind": "event", "local_id_or_ref": "ev-local-3", "note": "四圣宗合一、圣尊集权，玄武白虎圣器被收归，势力格局重大变化", "chapter_order": 1107}
+{"kind": "event", "local_id_or_ref": "ev-local-7", "note": "青龙圣尊现身并索还太古圣器，交代外人被送石岩星", "chapter_order": 1107}
+{"kind": "claim", "local_id_or_ref": "claim-local-11", "note": "四圣宗不再有单独圣皇、只称圣尊的权威叙述", "chapter_order": 1107}
+{"kind": "claim", "local_id_or_ref": "claim-local-26", "note": "外人在石岩星的唯一来源为青龙圣皇之口（reported）", "chapter_order": 1107}
+{"kind": "claim", "local_id_or_ref": "claim-local-27", "note": "王林愿以朱雀圣皇身份与太古圣器换带走一物", "chapter_order": 1107}
+{"kind": "event", "local_id_or_ref": "ev-local-1", "note": "王林与木冰眉分别、木冰眉未去看王平的转折点", "chapter_order": 1107}
+{"kind": "event", "local_id_or_ref": "ev-local-2", "note": "周茹被留在新雨界，托付胡娟", "chapter_order": 1107}
+{"kind": "event", "local_id": "ev-local-1", "note": "王林交出石块并带走老圣皇石像，正式与四圣宗分道；四圣宗线收束点", "chapter_order": 1108}
+{"kind": "event", "local_id": "ev-local-4", "note": "王林公开宣战拓森，主线转入朱雀星古神之地", "chapter_order": 1108}
+{"kind": "claim", "local_id": "claim-local-17", "note": "凝神化体仙术规则：假身十天、本体沉睡不可移动——后续行动的时间与风险约束", "chapter_order": 1108}
+{"kind": "event", "local_id": "ev-local-9", "note": "古神之地首次出现强敌对峙，章末悬念承接下一章", "chapter_order": 1108}
+{"kind": "claim", "local_id": "claim-local-13", "note": "古神之地与外界隔绝，外部无法观测内部，后续多线并行的空间前提", "chapter_order": 1108}
+{"local_id": "ev-local-1", "kind": "event", "note": "王林在古神之地虚无中辨识吉穷并缓退，含涂司记忆中的三十六头吉穷画面", "chapter_order": 1109}
+{"local_id": "ev-local-2", "kind": "event", "note": "吉穷以血符封锁天地、黑风风暴追杀王林，瞬移被封后王林改用纸符提速", "chapter_order": 1109}
+{"local_id": "ev-local-3", "kind": "event", "note": "王林以雷火阻碍后动用杀戮之气反击吉穷，章末未结算", "chapter_order": 1109}
+{"local_id": "claim-local-9", "kind": "claim", "note": "吉穷血符封天锁地、令瞬移失效的能力展示", "chapter_order": 1109}
+{"local_id": "claim-local-14", "kind": "claim", "note": "王林首次在本章展示杀戮之气攻击手段", "chapter_order": 1109}
+{"ref_or_local_id": "ev-local-4", "record_type": "event", "note": "王林首次在本阶段以铁剑斩落吉穷一头，能力展示与战果关键节点", "chapter_order": 1110}
+{"ref_or_local_id": "claim-local-14", "record_type": "claim", "note": "「九玄神通·火遁」的实战运用与借火瞬移机制", "chapter_order": 1110}
+{"ref_or_local_id": "claim-local-15", "record_type": "claim", "note": "带锈铁剑与金关剑坟飞剑共鸣，为后续器物线索", "chapter_order": 1110}
+{"ref_or_local_id": "claim-local-18", "record_type": "claim", "note": "王林此来为分身、本体在月球，且目的是探查拓森实力，属阶段目标陈述", "chapter_order": 1110}
+{"kind": "event", "local_id": "ev-local-2", "label": "王林分身被吉穷吞杀，吉穷生出王林模样的新头", "salience": "high", "chapter_order": 1111}
+{"kind": "event", "local_id": "ev-local-4", "label": "王林重塑第二具分身再入古神之地漩涡入口", "salience": "medium", "chapter_order": 1111}
+{"kind": "claim", "local_id": "claim-local-12", "label": "吉穷十七头中九头内藏瓷器碎片，紫气掌印短暂封印压顶", "salience": "high", "chapter_order": 1111}
+{"kind": "claim", "local_id": "claim-local-13", "label": "吉穷新长头颅样貌为王林", "salience": "high", "chapter_order": 1111}
+{"kind": "claim", "local_id": "claim-local-17", "label": "王林自省自满被击碎，重申谨慎（人物转折点）", "salience": "high", "chapter_order": 1111}
+{"kind": "claim", "local_id": "claim-local-19", "label": "王林分神已达极限，青霖仙术耗仙力过多", "salience": "medium", "chapter_order": 1111}
+{"kind": "key_event", "local_ref": "ev-local-3", "chapter_order": 1112, "note": "「上尊」（黑衣老人）首次现身，一指击杀红衣上古炼气士，炎雷子行礼"}
+{"kind": "key_claim", "local_ref": "claim-local-25", "chapter_order": 1112, "note": "上尊直接点名「无极子」，并指其藏身于此不肯现身"}
+{"kind": "key_event", "local_ref": "ev-local-4", "chapter_order": 1112, "note": "拓森起身撕天，血色天空出现通往虚无的万丈裂痕，血海数百修士升空"}
+{"kind": "stage_progress", "local_ref": "ev-local-1", "chapter_order": 1112, "note": "王林已进入古神之地最后一层「虚无」，与寻找拓森之威的线索衔接"}
+{"kind": "event", "local_id": "ev-local-1", "summary": "拓森撕裂血天、驱使血海化龙与上古炼气士涌入虚无之地，下令血洗古神之地。", "chapter_order": 1113}
+{"kind": "event", "local_id": "ev-local-3", "summary": "尸阴八王以尸阴第四阵（玄冰巨人）、第三阵（毒棱冰球）连续迎战万丈血龙。", "chapter_order": 1113}
+{"kind": "event", "local_id": "ev-local-4", "summary": "王林在虚无之地被三名红衣上古炼气士追击。", "chapter_order": 1113}
+{"kind": "claim", "local_id": "claim-local-6", "summary": "封印削弱使上古炼气士释放的修为远超王林初来此地之时；拓森脱困步伐加快。", "chapter_order": 1113}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "note": "尸阴宗八王以冰球重创血龙，血龙被冰封逃遁", "chapter_order": 1114}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "尸阴宗一王弃肉身换童子之身，八王齐追血龙", "chapter_order": 1114}
+{"ref_or_local_id": "ev-local-5", "kind": "event", "note": "王林以定身术+山崩仙术击杀一名净涅初期上古炼气士", "chapter_order": 1114}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "note": "王林内心判断拓森即将走出（reported）", "chapter_order": 1114}
+{"ref_or_local_id": "claim-local-29", "kind": "claim", "note": "血龙于虚无之地正中心释放笼罩全域的岁月之力", "chapter_order": 1114}
+{"ref_or_local_id": "ev-local-7", "kind": "event", "note": "王林以速符兽皮尾随八王，前往血龙所在", "chapter_order": 1114}
+{"local_id": "ev-local-3", "kind": "event", "chapter_order": 1115, "note": "血龙冰晶尽碎、漩涡传出「吾，等你们前来」，中心对抗由清场转入对峙"}
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 1115, "note": "古神之地真实结构与古神胸腔定位揭示"}
+{"local_id": "claim-local-14", "kind": "claim", "chapter_order": 1115, "note": "无极子首次具名现身于古神第四星点至深处（身份揭示，带 anchor）"}
+{"local_id": "claim-local-13", "kind": "claim", "chapter_order": 1115, "note": "古神之地入口/空间裂缝/古神体内结构设定"}
+{"local_id": "claim-local-10", "kind": "claim", "chapter_order": 1115, "note": "尸阴宗八王不受岁月规则影响并显露贪婪"}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-3", "note": "王林冲向血龙夺取古神心血，与「三损七劫第一损」目标直接相关", "chapter_order": 1116}
+{"kind": "key_event", "record_ref_or_local_id": "ev-local-2", "note": "血龙黑夜神通逐轮加长（一息至五息），炎雷子与尸阴宗八王均受重创", "chapter_order": 1116}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-27", "note": "古神心血在血龙伤口内被王林认出", "chapter_order": 1116}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-28", "note": "王林自述古神心血可渡三损七劫第一损", "chapter_order": 1116}
+{"kind": "claim", "record_ref_or_local_id": "claim-local-13", "note": "黑衣老人推测无极子意在王族八星古神之力，仙帝青霖曾放弃", "chapter_order": 1116}
+{"kind": "faction_move", "record_ref_or_local_id": "ev-local-1", "note": "炎雷子与尸阴宗八王临时联手围攻血龙", "chapter_order": 1116}
+{"kind": "event", "local_id": "ev-local-3", "note": "拓森真身首次在暗古神之地现身（本阶段后段关键转折）", "chapter_order": 1117}
+{"kind": "event", "local_id": "ev-local-5", "note": "黑衣老人与拓森直接交手，展示空涅级神通与古神一击之力", "chapter_order": 1117}
+{"kind": "claim", "local_id": "claim-local-5", "note": "王林取得古神心血（前章已明其用于渡三损七劫第一损）", "chapter_order": 1117}
+{"kind": "claim", "local_id": "claim-local-18", "note": "拓森与涂司关系的叙述性说明：魔念而生、真正的王族古神", "chapter_order": 1117}
+{"kind": "claim", "local_id": "claim-local-39", "note": "涂司肉身第一次睁眼，为下一阶段衔接点", "chapter_order": 1117}
+{"kind": "key_event", "local_id": "ev-local-1", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-024"}, "note": "本阶段收束点的核心事件：古神拓森苏醒起身", "chapter_order": 1118}
+{"kind": "key_claim", "local_id": "claim-local-3", "note": "拓森自报身份（reported），章内身份宣告", "chapter_order": 1118}
+{"kind": "key_claim", "local_id": "claim-local-15", "note": "黑衣老人呼唤无极子，直接衔接下一章", "chapter_order": 1118}
+{"kind": "character_turning_point", "local_id": "claim-local-5", "note": "王林元神重创、肉身将化作岩石", "chapter_order": 1118}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 1119, "note": "本阶段收束章的关键对决：拓森祭出灭神矛并宣告王林为第一颗古神之星", "tags": ["climax", "tuosen", "mieshenmao"]}
+{"kind": "event", "local_id": "ev-local-5", "chapter_order": 1119, "note": "王林彻底退出联盟星域的转折点，前往自备废弃星后路", "tags": ["turning_point", "departure"]}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 1119, "note": "拓森古神之星体系的直接口述证据（无极子为第四星，黑衣老人将成第五星）", "tags": ["identity", "tuosen"]}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 1119, "note": "拓森留给王林的威胁性宣言，贯穿下一阶段核心动机", "tags": ["threat", "wanglin"]}
+{"kind": "claim", "local_id": "claim-local-15", "chapter_order": 1119, "note": "第三星内骷髅修士的月牙印记，可供后续身份核对", "tags": ["identity_clue"]}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 1119, "note": "无极子自述贪图王族古神之力以破空涅初期的前史", "tags": ["backstory", "wujizi"]}

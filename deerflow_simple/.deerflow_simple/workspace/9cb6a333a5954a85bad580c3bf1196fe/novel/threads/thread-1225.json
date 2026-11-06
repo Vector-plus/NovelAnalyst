@@ -1,0 +1,30 @@
+{
+  "id": "thread-1225",
+  "introduced_at": 1102,
+  "kind": "story_thread",
+  "label": "青霖识海之战与救援青霖",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1102,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "main_plot",
+      "chapter_ranges": [
+        {
+          "end": 1102,
+          "start": 1102
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1225-001",
+      "resolution_refs": [],
+      "revealed_at": 1102,
+      "role": "primary",
+      "status": "advanced",
+      "summary": "塔珈在青霖识海内以「初开，始魔道」崩溃自身，王林以「仙术，陨星」破之，识海崩溃后王林于雨之仙界青光大殿中苏醒；青霖本体身影在识海崩溃中消散，救援结果未在本章交代。"
+    }
+  ]
+}

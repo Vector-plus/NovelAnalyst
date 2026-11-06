@@ -1,0 +1,30 @@
+{
+  "id": "thread-0225",
+  "introduced_at": 142,
+  "kind": "story_thread",
+  "label": "道玄真人阅信后看向水月大师，安排陆雪琪陪李洵游山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 142,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 142,
+          "start": 142
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0225-001",
+      "resolution_refs": [],
+      "revealed_at": 142,
+      "role": "setup",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

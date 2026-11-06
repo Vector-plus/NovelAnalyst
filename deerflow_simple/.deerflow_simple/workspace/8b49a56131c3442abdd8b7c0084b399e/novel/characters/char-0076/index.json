@@ -1,0 +1,44 @@
+{
+  "current": {
+    "current_summary": "第76章与张小凡后山重逢相拥，第77章劝其脱离青云门被拒并留下「拿我的命去换你」之言；第84章身份被认出为鬼王宗宗主独生女，随即施痴情咒强撼诛仙主剑，肉身不灭而坠亡。"
+  },
+  "entity_type": "character",
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 84,
+          "start": 75
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0076/index.json",
+          "record_id": "char-0076"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 84,
+      "summary": "后山相拥与痴情咒之死（第75—84章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0076/stages/stage-005.md",
+        "record_id": "doc-char-0076-stage-005"
+      },
+      "title": "后山相拥与痴情咒之死"
+    }
+  ],
+  "id": "char-0076",
+  "identity_links": [],
+  "identity_notes": [],
+  "introduced_at": 33,
+  "kind": "entity_index",
+  "label": "碧瑶",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "related_materials": [],
+  "revision": 3,
+  "safe_through": 84,
+  "schema_version": "2.0"
+}

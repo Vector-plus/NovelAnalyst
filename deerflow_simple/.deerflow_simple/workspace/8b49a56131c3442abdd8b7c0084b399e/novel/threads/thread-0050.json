@@ -1,0 +1,30 @@
+{
+  "id": "thread-0050",
+  "introduced_at": 31,
+  "kind": "story_thread",
+  "label": "张小凡隐瞒噬血珠与普智传功",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 31,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "secret",
+      "chapter_ranges": [
+        {
+          "end": 31,
+          "start": 31
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0050-001",
+      "resolution_refs": [],
+      "revealed_at": 31,
+      "role": "subject",
+      "status": "ongoing",
+      "summary": "田不易追问黑棒来历与法诀来源，张小凡交代了幽谷得棒之事，但刻意隐去噬血珠，并决意绝不提普智；秘密在本章未被揭破。"
+    }
+  ]
+}

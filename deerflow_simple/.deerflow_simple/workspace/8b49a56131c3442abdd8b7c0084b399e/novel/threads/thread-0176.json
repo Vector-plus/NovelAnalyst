@@ -1,0 +1,30 @@
+{
+  "id": "thread-0176",
+  "introduced_at": 116,
+  "kind": "story_thread",
+  "label": "鬼厉体内邪力与噬魂（噬血珠、摄魂）之隐患",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 116,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "condition",
+      "chapter_ranges": [
+        {
+          "end": 116,
+          "start": 116
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0176-001",
+      "resolution_refs": [],
+      "revealed_at": 116,
+      "role": "primary",
+      "status": "ongoing",
+      "summary": "九尾天狐指出鬼厉以噬血珠、摄魂做法宝致邪力侵体，靠玄火鉴压制；劝其丢弃，鬼厉拒绝，并称天地间第一邪物是人心。"
+    }
+  ]
+}

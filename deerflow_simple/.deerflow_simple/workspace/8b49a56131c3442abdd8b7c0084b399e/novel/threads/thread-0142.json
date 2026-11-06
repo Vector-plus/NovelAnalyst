@@ -1,0 +1,30 @@
+{
+  "id": "thread-0142",
+  "introduced_at": 94,
+  "kind": "story_thread",
+  "label": "魔教三派内部猜忌",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 94,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 94,
+          "start": 94
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0142-001",
+      "resolution_refs": [],
+      "revealed_at": 94,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "围杀过后三家当场分道，金瓶儿率合欢派离去，秦无炎在笑中目光转冷，魔教内部彼此警惕未消。"
+    }
+  ]
+}

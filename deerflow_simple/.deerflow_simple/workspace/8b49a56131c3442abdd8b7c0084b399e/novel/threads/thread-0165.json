@@ -1,0 +1,30 @@
+{
+  "id": "thread-0165",
+  "introduced_at": 106,
+  "kind": "story_thread",
+  "label": "鬼厉部属遭鱼人族偷袭，线索指向焚香谷",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 106,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 106,
+          "start": 106
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0165-001",
+      "resolution_refs": [],
+      "revealed_at": 106,
+      "role": "setup",
+      "status": "open",
+      "summary": "鬼厉向周一仙确认凶手为南疆十万大山六十三异族中的鱼人族，并推断大群异族无声无息抵达死亡沼泽不可能，除非镇守南疆的焚香谷出了问题。"
+    }
+  ]
+}

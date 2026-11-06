@@ -1,0 +1,30 @@
+{
+  "id": "thread-0092",
+  "introduced_at": 56,
+  "kind": "story_thread",
+  "label": "燕虹对碧瑶的留意与金铃",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 56,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "identity_risk",
+      "chapter_ranges": [
+        {
+          "end": 56,
+          "start": 56
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0092-001",
+      "resolution_refs": [],
+      "revealed_at": 56,
+      "role": "setup",
+      "status": "open",
+      "summary": "燕虹反复留意碧瑶、追问其出身，临别特意点出碧瑶腰间的金铃。该金铃为金铃夫人留下的合欢魔铃，碧瑶因此疑心身分被看破。"
+    }
+  ]
+}

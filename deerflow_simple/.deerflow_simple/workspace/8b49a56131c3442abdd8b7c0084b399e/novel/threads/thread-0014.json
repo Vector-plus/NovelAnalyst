@@ -1,0 +1,30 @@
+{
+  "id": "thread-0014",
+  "introduced_at": 7,
+  "kind": "story_thread",
+  "label": "普智遗留的紫色圆珠异状",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 7,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 7,
+          "start": 7
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0014-001",
+      "resolution_refs": [],
+      "revealed_at": 7,
+      "role": "primary",
+      "status": "open",
+      "summary": "普智曾交代要丢掉此珠；张小凡在月光下发现珠内有青气旋转、表面现“卍”字阻挡，最终以红绳穿珠挂于胸前。"
+    }
+  ]
+}

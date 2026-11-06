@@ -1,0 +1,30 @@
+{
+  "id": "thread-0113",
+  "introduced_at": 70,
+  "kind": "story_thread",
+  "label": "斩龙剑由万剑一转为林惊羽所持",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 70,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "item_provenance",
+      "chapter_ranges": [
+        {
+          "end": 70,
+          "start": 70
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0113-001",
+      "resolution_refs": [],
+      "revealed_at": 70,
+      "role": "reveal",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

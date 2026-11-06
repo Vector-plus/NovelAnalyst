@@ -1,0 +1,30 @@
+{
+  "id": "thread-0102",
+  "introduced_at": 66,
+  "kind": "story_thread",
+  "label": "吸血老妖为传人姜老三寻仇",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 66,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "revenge",
+      "chapter_ranges": [
+        {
+          "end": 66,
+          "start": 66
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0102-001",
+      "resolution_refs": [],
+      "revealed_at": 66,
+      "role": "setup",
+      "status": "active",
+      "summary": "野狗道人被吸血老妖拎到流波山，指认张小凡是害其唯一传人“吸血鬼姜老三”之人，骷髅头鬼物当场围住张小凡。"
+    }
+  ]
+}

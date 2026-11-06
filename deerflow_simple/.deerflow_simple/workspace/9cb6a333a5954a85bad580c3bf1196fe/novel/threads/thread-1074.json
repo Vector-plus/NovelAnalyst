@@ -1,0 +1,30 @@
+{
+  "id": "thread-1074",
+  "introduced_at": 990,
+  "kind": "story_thread",
+  "label": "妖灵之地仙府探索与白衣女子（花仙）的警告",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 990,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 990,
+          "start": 990
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1074-001",
+      "resolution_refs": [],
+      "revealed_at": 990,
+      "role": "main",
+      "status": "open",
+      "summary": "王林一行破开外围第四座仙府龟甲，遭白衣女子一道目光重创并被明确警告；最终仙府尚未开启。"
+    }
+  ]
+}

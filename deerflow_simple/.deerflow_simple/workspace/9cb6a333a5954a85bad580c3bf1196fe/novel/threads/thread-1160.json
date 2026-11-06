@@ -1,0 +1,30 @@
+{
+  "id": "thread-1160",
+  "introduced_at": 1058,
+  "kind": "story_thread",
+  "label": "十八地狱封仙印第十八层两个天运子之魂的融合",
+  "novel_id": "9cb6a333a5954a85bad580c3bf1196fe",
+  "revision": 1,
+  "safe_through": 1058,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "power_up",
+      "chapter_ranges": [
+        {
+          "end": 1058,
+          "start": 1058
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-1160-001",
+      "resolution_refs": [],
+      "revealed_at": 1058,
+      "role": "new",
+      "status": "open",
+      "summary": "第十八层新增虚空子之魂与天运子紫衣、黄衣分身之分魂，其中两个天运子之魂发生诡异融合。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0192",
+  "introduced_at": 126,
+  "kind": "story_thread",
+  "label": "阿合台与“那个恶魔”的力量契约",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 126,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "antagonist_origin",
+      "chapter_ranges": [
+        {
+          "end": 126,
+          "start": 126
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0192-001",
+      "resolution_refs": [],
+      "revealed_at": 126,
+      "role": "foreground",
+      "status": "open",
+      "summary": "阿合台深入十万大山找到神秘恶魔求得火焰奇术，其力量被大巫师疑为南疆流传数千年的恶魔传说；他打算胜后令黎族改信那位神祇。"
+    }
+  ]
+}

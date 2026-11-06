@@ -1,0 +1,30 @@
+{
+  "id": "thread-0158",
+  "introduced_at": 103,
+  "kind": "story_thread",
+  "label": "黄鸟现身与黑水玄蛇对峙",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 103,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 103,
+          "start": 103
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0158-001",
+      "resolution_refs": [],
+      "revealed_at": 103,
+      "role": "primary",
+      "status": "active",
+      "summary": "天空出现橙黄羽毛巨鸟，黑水玄蛇停止撞门、严阵以待；法相称其为传说中的九天灵鸟黄鸟。"
+    }
+  ]
+}

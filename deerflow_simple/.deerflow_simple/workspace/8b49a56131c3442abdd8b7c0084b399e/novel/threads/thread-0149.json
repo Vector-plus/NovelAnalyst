@@ -1,0 +1,30 @@
+{
+  "id": "thread-0149",
+  "introduced_at": 96,
+  "kind": "story_thread",
+  "label": "周一仙身份被青龙关注",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 96,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 96,
+          "start": 96
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0149-001",
+      "resolution_refs": [],
+      "revealed_at": 96,
+      "role": "introduce",
+      "status": "open",
+      "summary": "青龙认为周一仙颇不简单，且其孙女与合欢派金瓶儿有往来，判断日后需要多加注意。"
+    }
+  ]
+}

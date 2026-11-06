@@ -1,0 +1,30 @@
+{
+  "id": "thread-0085",
+  "introduced_at": 54,
+  "kind": "story_thread",
+  "label": "张小凡佛道双修与《天书》总纲的融合契机",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 54,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "capability",
+      "chapter_ranges": [
+        {
+          "end": 54,
+          "start": 54
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0085-001",
+      "resolution_refs": [],
+      "revealed_at": 54,
+      "role": "major",
+      "status": "developing",
+      "summary": "在黑暗绝境中，张小凡强运大梵般若与太极玄清道二气，因《天书》第一卷总纲文字而顿悟，将二气逼入烧火棍，使其呈现玄青、金光与血丝红光的异变并获得破开触手之力。"
+    }
+  ]
+}

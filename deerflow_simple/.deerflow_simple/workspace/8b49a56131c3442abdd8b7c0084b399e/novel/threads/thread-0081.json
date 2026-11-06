@@ -1,0 +1,30 @@
+{
+  "id": "thread-0081",
+  "introduced_at": 49,
+  "kind": "story_thread",
+  "label": "周一仙一门与青云门（青云子）的渊源",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 49,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 49,
+          "start": 49
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0081-001",
+      "resolution_refs": [],
+      "revealed_at": 49,
+      "role": "setup",
+      "status": "open",
+      "summary": "周一仙自称其相学传自青云子、与青云门同宗别脉，此为角色自述，尚未获任何证实。"
+    }
+  ]
+}

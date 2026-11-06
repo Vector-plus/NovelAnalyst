@@ -1,0 +1,30 @@
+{
+  "id": "thread-0109",
+  "introduced_at": 69,
+  "kind": "story_thread",
+  "label": "萧逸才整夜未现身",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 69,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "suspense",
+      "chapter_ranges": [
+        {
+          "end": 69,
+          "start": 69
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0109-001",
+      "resolution_refs": [],
+      "revealed_at": 69,
+      "role": "advanced",
+      "status": "open",
+      "summary": "苍松问起萧逸才一夜不见，齐昊仅转述其称身体不适未跟出来，苍松脸色一沉。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0185",
+  "introduced_at": 120,
+  "kind": "story_thread",
+  "label": "小白（九尾天狐）携小灰暗中跟随鬼厉",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 120,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "situation",
+      "chapter_ranges": [
+        {
+          "end": 120,
+          "start": 120
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0185-001",
+      "resolution_refs": [],
+      "revealed_at": 120,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "小白抱着小灰在暗处看完整场，事后在深痕前感叹，主张心结须当事人自解，其随行意图本章未明。"
+    }
+  ]
+}
