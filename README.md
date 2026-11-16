@@ -194,9 +194,9 @@ python design/doc/scripts/validate_index.py --root novel --novel-id xianni --sou
 ---
 ## 八、效果演示
 
-1. 索引生成
+1. 原文
 
-![索引生成](design/doc/photo/实例3.png)
+![原文](design/doc/photo/示例5.png)
 
 2. 解说词生成
 
@@ -206,5 +206,8 @@ python design/doc/scripts/validate_index.py --root novel --novel-id xianni --sou
 
 ![展示解说词](design/doc/photo/实例2.png)
 
-![展示解说词](design/doc/photo/示例4.png)
+4. 索引生成
+
+![索引生成](design/doc/photo/实例3.png)
+
 
