@@ -1,0 +1,30 @@
+{
+  "id": "thread-0235",
+  "introduced_at": 148,
+  "kind": "story_thread",
+  "label": "苍松献计：以兽妖消耗万毒门",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 148,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "scheme",
+      "chapter_ranges": [
+        {
+          "end": 148,
+          "start": 148
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0235-001",
+      "resolution_refs": [],
+      "revealed_at": 148,
+      "role": "setup",
+      "status": "unresolved",
+      "summary": "苍松道人向鬼王宗献计欲借南疆兽妖荡平万毒门，计策细节原文未写出；鬼先生另叠加一层，以鬼王宗半数弟子为饵诱合欢派前来送死。"
+    }
+  ]
+}

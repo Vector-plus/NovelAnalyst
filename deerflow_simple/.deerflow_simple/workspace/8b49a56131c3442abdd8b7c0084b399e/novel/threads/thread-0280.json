@@ -1,0 +1,43 @@
+{
+  "id": "thread-0280",
+  "introduced_at": 196,
+  "kind": "story_thread",
+  "label": "一行人必须穿越黑森林寻找兽妖巢穴",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 196,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "goal",
+      "chapter_ranges": [
+        {
+          "end": 196,
+          "start": 196
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7073"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7074"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7087"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0280-001",
+      "resolution_refs": [],
+      "revealed_at": 196,
+      "role": "core",
+      "status": "open",
+      "summary": "黑森林上空毒瘴无法飞越、范围广袤无法绕开，李洵称兽妖巢穴在其后的镇魔古洞，队伍休整后将穿林前行。"
+    }
+  ]
+}

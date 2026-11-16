@@ -1,0 +1,30 @@
+{
+  "id": "thread-0251",
+  "introduced_at": 175,
+  "kind": "story_thread",
+  "label": "青云门弟子向后山搜索，逼近幻月洞府",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 175,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 175,
+          "start": 175
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0251-001",
+      "resolution_refs": [],
+      "revealed_at": 175,
+      "role": "secondary",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

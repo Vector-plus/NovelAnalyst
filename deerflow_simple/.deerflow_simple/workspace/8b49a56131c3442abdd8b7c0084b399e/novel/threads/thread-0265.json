@@ -1,0 +1,30 @@
+{
+  "id": "thread-0265",
+  "introduced_at": 189,
+  "kind": "story_thread",
+  "label": "野狗道人被收魂术复生后的状态",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 189,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 189,
+          "start": 189
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0265-001",
+      "resolution_refs": [],
+      "revealed_at": 189,
+      "role": "seed",
+      "status": "open",
+      "summary": "野狗道人气绝多时后被小环以收魂术召回魂魄复生，呼出一口气；其身体与神智是否完全恢复、是否有后患，本章未交代。"
+    }
+  ]
+}

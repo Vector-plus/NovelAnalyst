@@ -5072,12 +5072,1494 @@
         }
       ],
       "normalized_name": "墨绿身影"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0268/index.json",
+            "record_id": "char-0268"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 145,
+          "source_refs": [],
+          "surface": "饕餮"
+        }
+      ],
+      "normalized_name": "饕餮"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0269/index.json",
+            "record_id": "char-0269"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 145,
+          "source_refs": [],
+          "surface": "黑暗中的神秘人影"
+        }
+      ],
+      "normalized_name": "黑暗中的神秘人影"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0270/index.json",
+            "record_id": "char-0270"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 146,
+          "source_refs": [],
+          "surface": "丝绸衣衫的少年"
+        }
+      ],
+      "normalized_name": "丝绸衣衫的少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0271/index.json",
+            "record_id": "char-0271"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 147,
+          "source_refs": [],
+          "surface": "奇异少年"
+        }
+      ],
+      "normalized_name": "奇异少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0272/index.json",
+            "record_id": "char-0272"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 147,
+          "source_refs": [],
+          "surface": "小诗"
+        }
+      ],
+      "normalized_name": "小诗"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0273/index.json",
+            "record_id": "char-0273"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 147,
+          "source_refs": [],
+          "surface": "林师妹"
+        }
+      ],
+      "normalized_name": "林师妹"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0274/index.json",
+            "record_id": "char-0274"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 148,
+          "source_refs": [],
+          "surface": "三妙夫人"
+        }
+      ],
+      "normalized_name": "三妙夫人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0275/index.json",
+            "record_id": "char-0275"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 148,
+          "source_refs": [],
+          "surface": "烛龙"
+        }
+      ],
+      "normalized_name": "烛龙"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0276/index.json",
+            "record_id": "char-0276"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 149,
+          "source_refs": [],
+          "surface": "范雄"
+        }
+      ],
+      "normalized_name": "范雄"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0277/index.json",
+            "record_id": "char-0277"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 149,
+          "source_refs": [],
+          "surface": "程无牙"
+        }
+      ],
+      "normalized_name": "程无牙"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0278/index.json",
+            "record_id": "char-0278"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 149,
+          "source_refs": [],
+          "surface": "段如山"
+        }
+      ],
+      "normalized_name": "段如山"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0279/index.json",
+            "record_id": "char-0279"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 150,
+          "source_refs": [],
+          "surface": "刍吾"
+        }
+      ],
+      "normalized_name": "刍吾"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0280/index.json",
+            "record_id": "char-0280"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 150,
+          "source_refs": [],
+          "surface": "毒神三大高徒"
+        }
+      ],
+      "normalized_name": "毒神三大高徒"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0281/index.json",
+            "record_id": "char-0281"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 151,
+          "source_refs": [],
+          "surface": "毒门四老"
+        }
+      ],
+      "normalized_name": "毒门四老"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0282/index.json",
+            "record_id": "char-0282"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 152,
+          "source_refs": [],
+          "surface": "发疯的魔教弟子"
+        }
+      ],
+      "normalized_name": "发疯的魔教弟子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0283/index.json",
+            "record_id": "char-0283"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 154,
+          "source_refs": [],
+          "surface": "普泓上人"
+        }
+      ],
+      "normalized_name": "普泓上人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0284/index.json",
+            "record_id": "char-0284"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 155,
+          "source_refs": [],
+          "surface": "神秘少年"
+        }
+      ],
+      "normalized_name": "神秘少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0285/index.json",
+            "record_id": "char-0285"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 157,
+          "source_refs": [],
+          "surface": "周行云"
+        }
+      ],
+      "normalized_name": "周行云"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0286/index.json",
+            "record_id": "char-0286"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 157,
+          "source_refs": [],
+          "surface": "祖师祠堂看守老人"
+        }
+      ],
+      "normalized_name": "祖师祠堂看守老人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0287/index.json",
+            "record_id": "char-0287"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 157,
+          "source_refs": [],
+          "surface": "河阳城逃难人群"
+        }
+      ],
+      "normalized_name": "河阳城逃难人群"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0288/index.json",
+            "record_id": "char-0288"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 160,
+          "source_refs": [],
+          "surface": "青叶"
+        }
+      ],
+      "normalized_name": "青叶"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0289/index.json",
+            "record_id": "char-0289"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 161,
+          "source_refs": [],
+          "surface": "河阳城中逃难百姓"
+        }
+      ],
+      "normalized_name": "河阳城中逃难百姓"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0290/index.json",
+            "record_id": "char-0290"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 162,
+          "source_refs": [],
+          "surface": "伞下华丽衣衫的少年"
+        }
+      ],
+      "normalized_name": "伞下华丽衣衫的少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0291/index.json",
+            "record_id": "char-0291"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 162,
+          "source_refs": [],
+          "surface": "巨大鸟妖（自河阳城头归来）"
+        }
+      ],
+      "normalized_name": "巨大鸟妖(自河阳城头归来)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0292/index.json",
+            "record_id": "char-0292"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 162,
+          "source_refs": [],
+          "surface": "修罗鸟"
+        }
+      ],
+      "normalized_name": "修罗鸟"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0293/index.json",
+            "record_id": "char-0293"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 162,
+          "source_refs": [],
+          "surface": "两名人影（被巨鸟抛下）"
+        }
+      ],
+      "normalized_name": "两名人影(被巨鸟抛下)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0294/index.json",
+            "record_id": "char-0294"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 163,
+          "source_refs": [],
+          "surface": "祖师祠堂佝偻老人"
+        }
+      ],
+      "normalized_name": "祖师祠堂佝偻老人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0295/index.json",
+            "record_id": "char-0295"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 163,
+          "source_refs": [],
+          "surface": "戴帽子的神秘人"
+        }
+      ],
+      "normalized_name": "戴帽子的神秘人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0296/index.json",
+            "record_id": "char-0296"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 163,
+          "source_refs": [],
+          "surface": "递纸条的小孩"
+        }
+      ],
+      "normalized_name": "递纸条的小孩"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0297/index.json",
+            "record_id": "char-0297"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "黑云中的少年"
+        }
+      ],
+      "normalized_name": "黑云中的少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0298/index.json",
+            "record_id": "char-0298"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "林先生"
+        }
+      ],
+      "normalized_name": "林先生"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0299/index.json",
+            "record_id": "char-0299"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "父亲（幻象中）"
+        }
+      ],
+      "normalized_name": "父亲(幻象中)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0300/index.json",
+            "record_id": "char-0300"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "母亲（幻象中）"
+        }
+      ],
+      "normalized_name": "母亲(幻象中)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0301/index.json",
+            "record_id": "char-0301"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "稳婆（幻象中）"
+        }
+      ],
+      "normalized_name": "稳婆(幻象中)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0302/index.json",
+            "record_id": "char-0302"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 165,
+          "source_refs": [],
+          "surface": "幻象中的老和尚"
+        }
+      ],
+      "normalized_name": "幻象中的老和尚"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0303/index.json",
+            "record_id": "char-0303"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 167,
+          "source_refs": [],
+          "surface": "引导林惊羽的神秘人影"
+        }
+      ],
+      "normalized_name": "引导林惊羽的神秘人影"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0304/index.json",
+            "record_id": "char-0304"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 169,
+          "source_refs": [],
+          "surface": "白骨恶灵"
+        }
+      ],
+      "normalized_name": "白骨恶灵"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0305/index.json",
+            "record_id": "char-0305"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 170,
+          "source_refs": [],
+          "surface": "恶灵妖物"
+        }
+      ],
+      "normalized_name": "恶灵妖物"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0306/index.json",
+            "record_id": "char-0306"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 170,
+          "source_refs": [],
+          "surface": "正道长老"
+        }
+      ],
+      "normalized_name": "正道长老"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0307/index.json",
+            "record_id": "char-0307"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 170,
+          "source_refs": [],
+          "surface": "观战众人"
+        }
+      ],
+      "normalized_name": "观战众人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0308/index.json",
+            "record_id": "char-0308"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 171,
+          "source_refs": [],
+          "surface": "白骨妖物"
+        }
+      ],
+      "normalized_name": "白骨妖物"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0309/index.json",
+            "record_id": "char-0309"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 172,
+          "source_refs": [],
+          "surface": "恶灵巨兽"
+        }
+      ],
+      "normalized_name": "恶灵巨兽"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0310/index.json",
+            "record_id": "char-0310"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 174,
+          "source_refs": [],
+          "surface": "祖师祠堂神秘老者"
+        }
+      ],
+      "normalized_name": "祖师祠堂神秘老者"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0311/index.json",
+            "record_id": "char-0311"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 176,
+          "source_refs": [],
+          "surface": "诛仙古剑"
+        }
+      ],
+      "normalized_name": "诛仙古剑"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0312/index.json",
+            "record_id": "char-0312"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 176,
+          "source_refs": [],
+          "surface": "噬魂魔棒"
+        }
+      ],
+      "normalized_name": "噬魂魔棒"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0313/index.json",
+            "record_id": "char-0313"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 178,
+          "source_refs": [],
+          "surface": "小和尚（法相的师弟）"
+        }
+      ],
+      "normalized_name": "小和尚(法相的师弟)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0314/index.json",
+            "record_id": "char-0314"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 178,
+          "source_refs": [],
+          "surface": "为鬼厉诊脉的僧人"
+        }
+      ],
+      "normalized_name": "为鬼厉诊脉的僧人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0315/index.json",
+            "record_id": "char-0315"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 181,
+          "source_refs": [],
+          "surface": "黑衣妖人"
+        }
+      ],
+      "normalized_name": "黑衣妖人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0316/index.json",
+            "record_id": "char-0316"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 181,
+          "source_refs": [],
+          "surface": "草庙村被救少年"
+        }
+      ],
+      "normalized_name": "草庙村被救少年"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0317/index.json",
+            "record_id": "char-0317"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 183,
+          "source_refs": [],
+          "surface": "祖师祠堂守灵老者"
+        }
+      ],
+      "normalized_name": "祖师祠堂守灵老者"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0318/index.json",
+            "record_id": "char-0318"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 184,
+          "source_refs": [],
+          "surface": "面容枯槁的神秘老僧"
+        }
+      ],
+      "normalized_name": "面容枯槁的神秘老僧"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0319/index.json",
+            "record_id": "char-0319"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 184,
+          "source_refs": [],
+          "surface": "天音寺创派祖师"
+        }
+      ],
+      "normalized_name": "天音寺创派祖师"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0320/index.json",
+            "record_id": "char-0320"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 185,
+          "source_refs": [],
+          "surface": "干槁老僧"
+        }
+      ],
+      "normalized_name": "干槁老僧"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0321/index.json",
+            "record_id": "char-0321"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 188,
+          "source_refs": [],
+          "surface": "黑衣蒙面人"
+        }
+      ],
+      "normalized_name": "黑衣蒙面人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0322/index.json",
+            "record_id": "char-0322"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 188,
+          "source_refs": [],
+          "surface": "被兽妖掳掠的活人"
+        }
+      ],
+      "normalized_name": "被兽妖掳掠的活人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0323/index.json",
+            "record_id": "char-0323"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 188,
+          "source_refs": [],
+          "surface": "正道各派弟子"
+        }
+      ],
+      "normalized_name": "正道各派弟子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0324/index.json",
+            "record_id": "char-0324"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 191,
+          "source_refs": [],
+          "surface": "年轻的大巫师（南疆苗族新一代）"
+        }
+      ],
+      "normalized_name": "年轻的大巫师(南疆苗族新一代)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0325/index.json",
+            "record_id": "char-0325"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 191,
+          "source_refs": [],
+          "surface": "七里峒祭司（约四十岁）"
+        }
+      ],
+      "normalized_name": "七里峒祭司(约四十岁)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0326/index.json",
+            "record_id": "char-0326"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 193,
+          "source_refs": [],
+          "surface": "天日道长"
+        }
+      ],
+      "normalized_name": "天日道长"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0327/index.json",
+            "record_id": "char-0327"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 196,
+          "source_refs": [],
+          "surface": "老七"
+        }
+      ],
+      "normalized_name": "老七"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0328/index.json",
+            "record_id": "char-0328"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 199,
+          "source_refs": [],
+          "surface": "黑虎"
+        }
+      ],
+      "normalized_name": "黑虎"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0329/index.json",
+            "record_id": "char-0329"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 199,
+          "source_refs": [],
+          "surface": "白衣女子（持天琊仙剑）"
+        }
+      ],
+      "normalized_name": "白衣女子(持天琊仙剑)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0330/index.json",
+            "record_id": "char-0330"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 200,
+          "source_refs": [],
+          "surface": "阳长老"
+        }
+      ],
+      "normalized_name": "阳长老"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0331/index.json",
+            "record_id": "char-0331"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 201,
+          "source_refs": [],
+          "surface": "秦师弟"
+        }
+      ],
+      "normalized_name": "秦师弟"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0332/index.json",
+            "record_id": "char-0332"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 201,
+          "source_refs": [],
+          "surface": "镇魔古洞神秘女子"
+        }
+      ],
+      "normalized_name": "镇魔古洞神秘女子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0333/index.json",
+            "record_id": "char-0333"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 202,
+          "source_refs": [],
+          "surface": "黑暗中的女子"
+        }
+      ],
+      "normalized_name": "黑暗中的女子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0334/index.json",
+            "record_id": "char-0334"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 203,
+          "source_refs": [],
+          "surface": "黑蝠"
+        }
+      ],
+      "normalized_name": "黑蝠"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0335/index.json",
+            "record_id": "char-0335"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 203,
+          "source_refs": [],
+          "surface": "黑暗中的神秘女子"
+        }
+      ],
+      "normalized_name": "黑暗中的神秘女子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0336/index.json",
+            "record_id": "char-0336"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 203,
+          "source_refs": [],
+          "surface": "黑虎凶灵"
+        }
+      ],
+      "normalized_name": "黑虎凶灵"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0337/index.json",
+            "record_id": "char-0337"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 204,
+          "source_refs": [],
+          "surface": "义庄异人"
+        }
+      ],
+      "normalized_name": "义庄异人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0338/index.json",
+            "record_id": "char-0338"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 204,
+          "source_refs": [],
+          "surface": "双头魔豹"
+        }
+      ],
+      "normalized_name": "双头魔豹"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0339/index.json",
+            "record_id": "char-0339"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 206,
+          "source_refs": [],
+          "surface": "义庄神秘人"
+        }
+      ],
+      "normalized_name": "义庄神秘人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0340/index.json",
+            "record_id": "char-0340"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 207,
+          "source_refs": [],
+          "surface": "身着鲜艳丝绸衣衫的男子"
+        }
+      ],
+      "normalized_name": "身着鲜艳丝绸衣衫的男子"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0341/index.json",
+            "record_id": "char-0341"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 208,
+          "source_refs": [],
+          "surface": "穿青云门道袍的神秘道人（持断剑）"
+        }
+      ],
+      "normalized_name": "穿青云门道袍的神秘道人(持断剑)"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0342/index.json",
+            "record_id": "char-0342"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 208,
+          "source_refs": [],
+          "surface": "持赤色仙剑的矮胖道人"
+        }
+      ],
+      "normalized_name": "持赤色仙剑的矮胖道人"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0343/index.json",
+            "record_id": "char-0343"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 209,
+          "source_refs": [],
+          "surface": "巫女娘娘"
+        }
+      ],
+      "normalized_name": "巫女娘娘"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0344/index.json",
+            "record_id": "char-0344"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 210,
+          "source_refs": [],
+          "surface": "赤焰魔兽"
+        }
+      ],
+      "normalized_name": "赤焰魔兽"
+    },
+    {
+      "matches": [
+        {
+          "basis_refs": [],
+          "chapter_ranges": [],
+          "entity_ref": {
+            "path": "characters/char-0345/index.json",
+            "record_id": "char-0345"
+          },
+          "entity_type": "character",
+          "identity_status": "candidate",
+          "name_type": "name",
+          "revealed_at": 213,
+          "source_refs": [],
+          "surface": "八荒火龙"
+        }
+      ],
+      "normalized_name": "八荒火龙"
     }
   ],
   "id": "names-part-0001",
   "kind": "name_lookup",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 268,
+  "revision": 346,
   "safe_through": 0,
   "schema_version": "2.0"
 }

@@ -225,13 +225,88 @@
         "record_id": "doc-arc-009"
       },
       "title": "招魂引功败：碧瑶无救与大巫师之死"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 177
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-010.md",
+          "record_id": "doc-arc-010"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 177,
+      "summary": "兽妖浩劫：三派会盟、青云山决战与诛仙剑断（第177章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-010.md",
+        "record_id": "doc-arc-010"
+      },
+      "title": "兽妖浩劫：三派会盟、青云山决战与诛仙剑断"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 186,
+          "start": 186
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-011.md",
+          "record_id": "doc-arc-011"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 186,
+      "summary": "天音寺疗伤与普智真相·天书第四卷阶段（第186章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-011.md",
+        "record_id": "doc-arc-011"
+      },
+      "title": "天音寺疗伤与普智真相·天书第四卷阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 201,
+          "start": 201
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "plot/arcs/arc-012.md",
+          "record_id": "doc-arc-012"
+        }
+      ],
+      "kind": "arc_summary",
+      "safe_through": 201,
+      "summary": "南下执行鬼王密令：南疆寻踪与十万大山行军（第201章起）",
+      "tags": [
+        "plot"
+      ],
+      "target": {
+        "path": "plot/arcs/arc-012.md",
+        "record_id": "doc-arc-012"
+      },
+      "title": "南下执行鬼王密令：南疆寻踪与十万大山行军"
     }
   ],
   "id": "idx-plot",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 10,
-  "safe_through": 143,
+  "revision": 13,
+  "safe_through": 201,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
@@ -270,6 +345,18 @@
       {
         "end": 143,
         "start": 143
+      },
+      {
+        "end": 177,
+        "start": 177
+      },
+      {
+        "end": 186,
+        "start": 186
+      },
+      {
+        "end": 201,
+        "start": 201
       }
     ],
     "subject_refs": []

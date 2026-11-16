@@ -1,6 +1,35 @@
 {
+  "current": {
+    "current_summary": "自镇魔古洞复生，归返时另携一只来历不明的高道行妖孽；被诛仙古剑重创后重伤，与一神秘女子达成内容未知的交易。"
+  },
   "entity_type": "character",
-  "entries": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 201,
+          "start": 187
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0209/index.json",
+          "record_id": "char-0209"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 201,
+      "summary": "复生·重伤交易阶段（第187—201章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0209/stages/stage-012.md",
+        "record_id": "doc-char-0209-stage-012"
+      },
+      "title": "复生·重伤交易阶段"
+    }
+  ],
   "id": "char-0209",
   "identity_links": [],
   "identity_notes": [],
@@ -9,7 +38,7 @@
   "label": "兽神",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 1,
-  "safe_through": 108,
+  "revision": 3,
+  "safe_through": 201,
   "schema_version": "2.0"
 }

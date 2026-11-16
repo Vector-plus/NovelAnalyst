@@ -1,0 +1,30 @@
+{
+  "id": "thread-0246",
+  "introduced_at": 155,
+  "kind": "story_thread",
+  "label": "碧瑶沉眠于寒冰石室与鬼厉的守候",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 155,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_state",
+      "chapter_ranges": [
+        {
+          "end": 155,
+          "start": 155
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0246-001",
+      "resolution_refs": [],
+      "revealed_at": 155,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "碧瑶安详躺于寒冰石台，嘴角似带笑意；鬼厉独自守候第三日后离开，约定一个月后再回来探望。"
+    }
+  ]
+}

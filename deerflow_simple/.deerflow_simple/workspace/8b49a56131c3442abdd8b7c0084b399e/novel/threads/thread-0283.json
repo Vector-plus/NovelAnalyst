@@ -1,0 +1,30 @@
+{
+  "id": "thread-0283",
+  "introduced_at": 203,
+  "kind": "story_thread",
+  "label": "鬼厉一行闯入镇魔古洞深层，引来兽神与神秘女子注意",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 203,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 203,
+          "start": 203
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0283-001",
+      "resolution_refs": [],
+      "revealed_at": 203,
+      "role": "main",
+      "status": "escalating",
+      "summary": "鬼厉与金瓶儿已越过黑蝠守卫之地深入镇魔古洞，兽神与黑暗中的女子察觉并决定由女子出手对付来敌；洞口另有黑虎凶灵未动。"
+    }
+  ]
+}

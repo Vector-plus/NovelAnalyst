@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "第76章当面质询张小凡卧底之疑；第79章在苍松揭出万剑一旧案时当众承认万剑一对己恩深意重；第82章道玄发动诛仙剑阵后昏厥于其怀中，承接照护掌门之责。"
+    "current_summary": "代宋大仁向小竹峰提亲被水月大师拒绝、两峰生隙；就撤除七脉天机印当面向道玄提出戾气反噬与道行侵蚀之虑，并推断掌门之位将传萧逸才；私下在大竹峰暗供万剑一灵位祭拜。"
   },
   "entity_type": "character",
   "entries": [
@@ -103,6 +103,31 @@
         "record_id": "doc-char-0019-stage-005"
       },
       "title": "质询门徒与承护掌门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0019/index.json",
+          "record_id": "char-0019"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 177,
+      "summary": "天机印之谏与万剑一旧事阶段（第144—177章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0019/stages/stage-010.md",
+        "record_id": "doc-char-0019-stage-010"
+      },
+      "title": "天机印之谏与万剑一旧事阶段"
     }
   ],
   "id": "char-0019",
@@ -113,7 +138,7 @@
   "label": "田不易",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 9,
-  "safe_through": 84,
+  "revision": 11,
+  "safe_through": 177,
   "schema_version": "2.0"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0247",
+  "introduced_at": 174,
+  "kind": "story_thread",
+  "label": "诛仙古剑出现裂缝并坠落后山",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 174,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "artifact",
+      "chapter_ranges": [
+        {
+          "end": 174,
+          "start": 174
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0247-001",
+      "resolution_refs": [],
+      "revealed_at": 174,
+      "role": "core",
+      "status": "changed",
+      "summary": ""
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "南下南疆：夜探焚香谷、潜入玄火坛以玄火鉴解玄火链放出九尾天狐（得名「小白」），并以归还玄火鉴换取救治碧瑶之法；得知须求黑巫族／还魂大法，转赴七里峒求苗族大巫师。途中与陆雪琪深痕断情、正面对立，被李洵以玉尺伤右肩、又遭天雷击伤，仍公开只认碧瑶；阶段末求得大巫师决意随其入十万大山招魂。焚香谷云易岚下「宁杀错，不放过」密令，其身陷多方追杀。"
+    "current_summary": "本阶段被秘密救至天音寺疗伤，见到普智法身，得悉其屠戮草庙村的真相与动因，主动请求火化普智法身并叩拜辞别；无字玉璧镇阵失败、天刑厉雷中由玉壁挡劫崩毁，玉璧现《天书》第四卷，其诸气汇为黑白二气、修为质变；仍拒绝皈依佛门，带着真相与心魔离山。"
   },
   "entity_type": "character",
   "entries": [
@@ -203,6 +203,56 @@
         "record_id": "doc-char-0001-stage-008"
       },
       "title": "南下南疆：焚香谷秘辛与七里峒求巫"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 177,
+      "summary": "兽妖浩劫与青云山决战阶段（第144—177章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-010.md",
+        "record_id": "doc-char-0001-stage-010"
+      },
+      "title": "兽妖浩劫与青云山决战阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 186,
+          "start": 178
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0001/index.json",
+          "record_id": "char-0001"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 186,
+      "summary": "天音寺疗伤与普智真相·天书第四卷阶段（第178—186章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0001/stages/stage-011.md",
+        "record_id": "doc-char-0001-stage-011"
+      },
+      "title": "天音寺疗伤与普智真相·天书第四卷阶段"
     }
   ],
   "id": "char-0001",
@@ -213,7 +263,7 @@
   "label": "张小凡",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 17,
-  "safe_through": 133,
+  "revision": 21,
+  "safe_through": 186,
   "schema_version": "2.0"
 }

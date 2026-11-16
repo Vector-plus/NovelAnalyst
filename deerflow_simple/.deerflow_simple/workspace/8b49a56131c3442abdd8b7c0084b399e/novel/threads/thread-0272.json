@@ -1,0 +1,30 @@
+{
+  "id": "thread-0272",
+  "introduced_at": 193,
+  "kind": "story_thread",
+  "label": "南疆十万大山与兽神追踪",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 193,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mission",
+      "chapter_ranges": [
+        {
+          "end": 193,
+          "start": 193
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0272-001",
+      "resolution_refs": [],
+      "revealed_at": 193,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "鬼厉与金瓶儿进入十万大山，追查战败逃亡的兽神。"
+    }
+  ]
+}

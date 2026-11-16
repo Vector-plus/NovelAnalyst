@@ -1,0 +1,30 @@
+{
+  "id": "thread-0291",
+  "introduced_at": 213,
+  "kind": "story_thread",
+  "label": "娘娘遗言：火龙复生降临即为冤孽结束之时",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 213,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 213,
+          "start": 213
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0291-001",
+      "resolution_refs": [],
+      "revealed_at": 213,
+      "role": "setup",
+      "status": "open",
+      "summary": "黑虎转述娘娘弥留之言，将八荒火龙的复生与「冤孽结束」绑定，本章火龙已然降临。"
+    }
+  ]
+}

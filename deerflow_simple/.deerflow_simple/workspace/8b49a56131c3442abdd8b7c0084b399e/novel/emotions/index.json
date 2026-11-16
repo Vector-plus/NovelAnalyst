@@ -200,13 +200,38 @@
         "record_id": "emo-0008"
       },
       "title": "感情阶段：断情之约与不对等的收束"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 177
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "emotions/emo-0009/index.json",
+          "record_id": "emo-0009"
+        }
+      ],
+      "kind": "emotional_index",
+      "safe_through": 177,
+      "summary": "鬼厉与陆雪琪：感情线（第144—177章）（第177章起）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0009/index.json",
+        "record_id": "emo-0009"
+      },
+      "title": "鬼厉与陆雪琪：感情线（第144—177章）"
     }
   ],
   "id": "idx-emotions",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 9,
-  "safe_through": 133,
+  "revision": 10,
+  "safe_through": 177,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
@@ -237,6 +262,10 @@
       {
         "end": 133,
         "start": 133
+      },
+      {
+        "end": 177,
+        "start": 177
       }
     ],
     "subject_refs": []

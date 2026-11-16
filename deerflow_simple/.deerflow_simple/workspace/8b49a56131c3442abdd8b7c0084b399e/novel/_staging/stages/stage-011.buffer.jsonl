@@ -1,0 +1,47 @@
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "stage-011 天音寺疗伤线的起点事件：鬼厉被秘密救至天音寺禅房", "chapter_order": 178}
+{"record_ref_or_local_id": "claim-local-20", "kind": "claim", "note": "法相口头承认救人为天音寺一方所为，是本章关键陈述", "chapter_order": 178}
+{"record_ref_or_local_id": "claim-local-25", "kind": "claim", "note": "普泓上人将亲自说明救人缘由，直接指向下一阶段真相揭示", "chapter_order": 178}
+{"record_ref_or_local_id": "claim-local-13", "kind": "claim", "note": "鬼厉明确拒绝使用“张小凡”之名，人物身份认同转折点", "chapter_order": 178}
+{"record_ref_or_local_id": "claim-local-19", "kind": "claim", "note": "天音寺秘密收留鬼厉，寺中仅少数人知情——势力动向要点", "chapter_order": 178}
+{"ref_type": "event", "local_id": "ev-local-3", "label": "法相道出石阶开辟者为普智、其已过世十数年", "chapter_order": 179, "stage_id": "stage-011", "significance": "key_revelation"}
+{"ref_type": "event", "local_id": "ev-local-5", "label": "普泓上人欲带鬼厉去见「想见他很久」的人（身份未明）", "chapter_order": 179, "stage_id": "stage-011", "significance": "open_loop"}
+{"ref_type": "claim", "local_id": "claim-local-14", "label": "天音寺对世俗百姓开放烧香礼佛", "chapter_order": 179, "stage_id": "stage-011", "significance": "faction_practice"}
+{"ref_type": "claim", "local_id": "claim-local-16", "label": "普泓接任方丈后与三位师叔发愿开山门接纳百姓", "chapter_order": 179, "stage_id": "stage-011", "significance": "faction_background"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "note": "鬼厉首次见到普智法身，是本章及本阶段的核心场面（ch-180）。", "chapter_order": 180}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "法相请渡化被普泓拒绝，确立“他人无法力可施加于鬼厉”的判断，供后续心魔线使用。", "chapter_order": 180}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "章末悬念：普泓将讲述普智临终往事，衔接后续真相揭示。", "chapter_order": 180}
+{"record_ref_or_local_id": "claim-local-7", "kind": "claim", "note": "普泓称普智生前最后遗愿已代为做到（遗愿内容未明），为后续揭示的核心线索。", "chapter_order": 180}
+{"record_ref_or_local_id": "claim-local-22", "kind": "claim", "note": "天音寺黑衣藏踪抢走鬼厉，普泓自承怕青云门翻脸——势力层面的潜在冲突点。", "chapter_order": 180}
+{"record_ref_or_local_id": "claim-local-11", "kind": "claim", "note": "玉冰盘护持法身不朽、寒气伤人的设定，可作物件档案依据。", "chapter_order": 180}
+{"kind": "key_event", "local_id": "ev-local-5", "note": "普智屠戮草庙村二百余人的真相由法相当面讲出（reported）", "chapter_order": 181}
+{"kind": "key_event", "local_id": "ev-local-7", "note": "鬼厉听完真相后独自前往后院停放普智遗骸的小屋，本章悬念", "chapter_order": 181}
+{"kind": "key_claim", "local_id": "claim-local-29", "note": "普智遗愿：遗骸以玉冰盘镇护，待张小凡知情后自行处置", "chapter_order": 181}
+{"kind": "key_claim", "local_id": "claim-local-27", "note": "普智作案动因链：噬血珠戾气 + 佛法大损 + 心愿将落空", "chapter_order": 181}
+{"kind": "key_claim", "local_id": "claim-local-22", "note": "黑衣妖人懂青云门道家真法异术，为后续身份线索", "chapter_order": 181}
+{"ref_type": "event", "local_id": "ev-local-4", "chapter_order": 182, "note": "鬼厉主动请求火化普智法身并叩拜辞别，是其在普智一事上的态度转化节点。"}
+{"ref_type": "event", "local_id": "ev-local-5", "chapter_order": 182, "note": "普智法身风化消散、玉冰盘自毁，普智相关遗物线收束。"}
+{"ref_type": "claim", "local_id": "claim-local-11", "chapter_order": 182, "note": "普泓上人自述归隐之念与天音寺继承安排（其本人说法）。"}
+{"ref_type": "claim", "local_id": "claim-local-8", "chapter_order": 182, "note": "法相自称开悟，天音寺下一代核心人物成长节点。"}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-2", "chapter_order": 183, "note": "田不易公开怀疑道玄真人被诛仙剑戾气反噬，苏茹以门中密事喝止"}
+{"buffer_kind": "key_event", "record_ref_or_local_id": "ev-local-3", "chapter_order": 183, "note": "祖师祠堂空白灵位守灵场景：林惊羽守灵、道玄反常言行"}
+{"buffer_kind": "key_statement", "record_ref_or_local_id": "claim-local-13", "chapter_order": 183, "note": "断剑被道玄携入幻月洞府、禁地封闭、处置无人知晓"}
+{"buffer_kind": "key_statement", "record_ref_or_local_id": "claim-local-14", "chapter_order": 183, "note": "道玄为无名老看守立空白灵位，情绪剧烈反常"}
+{"buffer_kind": "faction_move", "record_ref_or_local_id": "claim-local-5", "chapter_order": 183, "note": "青云门高层第四次下达诛仙剑损毁保密令，门内互信出现裂痕"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "note": "普泓提出无字玉壁+金刚环法阵镇压噬血珠戾气，为鬼厉离开天音寺前的关键约定", "chapter_order": 184}
+{"ref_or_local_id": "ev-local-7", "kind": "event", "note": "法阵失败、鬼厉长啸腾空，无字玉壁浮现「天地不仁，以万物为刍狗」，疑与天书线索相关", "chapter_order": 184}
+{"ref_or_local_id": "claim-local-40", "kind": "claim", "note": "本章收束性关键陈述：玉壁现出「天地不仁，以万物为刍狗」铭文与金色古文字", "chapter_order": 184}
+{"ref_or_local_id": "claim-local-9", "kind": "claim", "note": "天音寺势力动向：普泓愿竭力庇护鬼厉，并声称不惧青云门与天下正道", "chapter_order": 184}
+{"ref_or_local_id": "claim-local-25", "kind": "claim", "note": "疑点证据：鬼厉在无字玉壁外山谷雾中见到与自己一模一样的沧桑人影", "chapter_order": 184}
+{"kind": "event", "local_id": "ev-local-4", "weight": "high", "reason": "stage 核心转折：天刑厉雷降下、无字玉壁替鬼厉挡劫并崩毁，为普智真相与《天书》第四卷线索的收束点", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-7", "weight": "high", "reason": "关键信息揭示：无字玉壁所现为魔教经典《天书》第四卷", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-17", "weight": "high", "reason": "鬼厉修为质变：诸气汇为黑白二气，属能力层面的关键变化", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-36", "weight": "high", "reason": "势力动向：普泓上人宣告将辞去天音寺方丈之位", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-39", "weight": "medium", "reason": "普泓对玉壁救人的解读，构成其护持鬼厉立场的依据", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-14", "weight": "medium", "reason": "天音寺内部反对派声音（干槁老僧）首次当面对质普泓", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-42", "weight": "medium", "reason": "人物节点：鬼厉自天刑与昏睡中醒来，衔接下一章", "chapter_order": 185}
+{"kind": "claim", "local_id": "claim-local-4", "weight": "high", "note": "《天书》第四卷现身无字玉壁、鬼厉为唯一修过前三卷者——stage-011 主题核心证据", "chapter_order": 186}
+{"kind": "claim", "local_id": "claim-local-16", "weight": "high", "note": "普泓评鬼厉“世间第一的人物，竟看不破自己的心魔”，为阶段收束时的人物定性（角色原话）", "chapter_order": 186}
+{"kind": "claim", "local_id": "claim-local-15", "weight": "high", "note": "鬼厉明确拒绝皈依佛门，自陈俗世情怀割舍不得，人物立场转折点", "chapter_order": 186}
+{"kind": "event", "local_id": "ev-local-2", "weight": "medium", "note": "贝壳石痕→须弥山曾是汪洋的推想，属鬼厉离山前的境界与心境收束", "chapter_order": 186}
+{"kind": "event", "local_id": "ev-local-3", "weight": "high", "note": "小灰独自回到大竹峰，鬼厉线索借此转回青云山", "chapter_order": 186}
+{"kind": "claim", "local_id": "claim-local-35", "weight": "medium", "note": "苏茹对鬼厉重伤被救、故意留下猴子的推测，属未经证实的转述", "chapter_order": 186}

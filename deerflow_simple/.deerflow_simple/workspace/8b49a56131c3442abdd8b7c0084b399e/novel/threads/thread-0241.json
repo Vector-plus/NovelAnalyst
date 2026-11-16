@@ -1,0 +1,30 @@
+{
+  "id": "thread-0241",
+  "introduced_at": 151,
+  "kind": "story_thread",
+  "label": "毒蛇谷外大军压境与断尾之谜",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 151,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 151,
+          "start": 151
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0241-001",
+      "resolution_refs": [],
+      "revealed_at": 151,
+      "role": "setup",
+      "status": "open",
+      "summary": "狼头虎豹身怪兽在毒蛇谷外衔走一条腐烂发臭的断尾；另两只中毒死于谷中。随后谷口外传来如千军万马的战鼓轰鸣与大地颤动。断尾归属及来军身份未明。"
+    }
+  ]
+}

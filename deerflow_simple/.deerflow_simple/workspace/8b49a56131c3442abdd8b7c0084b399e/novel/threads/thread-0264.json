@@ -1,0 +1,30 @@
+{
+  "id": "thread-0264",
+  "introduced_at": 189,
+  "kind": "story_thread",
+  "label": "黑衣人看中小环的鬼道天赋",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 189,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadow",
+      "chapter_ranges": [
+        {
+          "end": 189,
+          "start": 189
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0264-001",
+      "resolution_refs": [],
+      "revealed_at": 189,
+      "role": "seed",
+      "status": "open",
+      "summary": "黑衣人旁观小环施收魂术，自语其鬼道天赋极高、若有鬼道明师指点假以时日不可限量，并罕见地现出犹豫之色；其后续举动未明。"
+    }
+  ]
+}

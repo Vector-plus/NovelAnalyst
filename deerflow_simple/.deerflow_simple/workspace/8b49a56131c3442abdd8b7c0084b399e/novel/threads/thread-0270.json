@@ -1,0 +1,30 @@
+{
+  "id": "thread-0270",
+  "introduced_at": 193,
+  "kind": "story_thread",
+  "label": "万剑一生死之谜",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 193,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 193,
+          "start": 193
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0270-001",
+      "resolution_refs": [],
+      "revealed_at": 193,
+      "role": "main",
+      "status": "open",
+      "summary": "道玄称万剑一已困守祖师祠堂扫地终老并死于邪魔外道之手，水月大师闻言追问“万师兄他还活着”，生死说法相左。"
+    }
+  ]
+}

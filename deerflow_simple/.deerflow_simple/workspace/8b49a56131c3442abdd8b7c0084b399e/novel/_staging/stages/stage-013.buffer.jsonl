@@ -1,0 +1,64 @@
+{"kind": "key_event", "ref_or_local_id": "ev-local-1", "note": "兽神当众自证已成凡人、可被杀，本阶段核心转折", "chapter_order": 202}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-17", "note": "五枚圣器 + 血肉白骨骨架 = 兽神复生条件，且复生后为人", "chapter_order": 202}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-13", "note": "玄火鉴催动八凶玄火法阵召出八荒火龙，本阶段阵法设定核心", "chapter_order": 202}
+{"kind": "key_claim", "ref_or_local_id": "claim-local-3", "note": "云易岚背约，焚香谷与兽神的旧约伏线", "chapter_order": 202}
+{"kind": "character_turn", "ref_or_local_id": "claim-local-19", "note": "兽神在洞口人像前「我明白了」，其情感动机收束点", "chapter_order": 202}
+{"kind": "event", "local_id": "ev-local-2", "note": "小灰首次显化三眼灵猴巨猿之身并击杀黑蝠，属能力展示，建议纳入 stage 关键事件", "chapter_order": 203}
+{"kind": "event", "local_id": "ev-local-3", "note": "兽神与神秘女子就法阵与来敌达成应对，直接影响 stage 后续冲突", "chapter_order": 203}
+{"kind": "claim", "local_id": "claim-local-19", "note": "八凶玄火法阵/玄火鉴/焚香谷玄火坛的关键设定陈述（角色口径）", "chapter_order": 203}
+{"kind": "claim", "local_id": "claim-local-20", "note": "法阵与玲珑禁制、兽神生死绑定，阶段核心设定", "chapter_order": 203}
+{"kind": "claim", "local_id": "claim-local-21", "note": "神秘女子答应对付来敌，势力动向转折点", "chapter_order": 203}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "note": "义庄异人现身，具青云门标记与暗红眼眸，无活人气息——本阶段重要悬念起点", "chapter_order": 204}
+{"ref_or_local_id": "claim-local-11", "kind": "claim", "note": "周一仙指认异人手臂带青云门标记（reported），是与青云门关联的唯一线索", "chapter_order": 204}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "note": "金瓶儿评估鬼厉道行已超出其想像，隐指可能超越鬼王与鬼先生", "chapter_order": 204}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "note": "噬血珠妖力首次在守洞妖物身上表现：躯干干瘪、精华被吸噬", "chapter_order": 204}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "note": "古洞深处凄切歌声（小松岗，月如霜…），本阶段关键意象", "chapter_order": 204}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "note": "小灰挣脱鬼厉窜入黑暗，为下章衔接点", "chapter_order": 204}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 205, "weight": "high", "note": "九尾天狐小白在古洞最深处现身，与鬼厉重逢（本章身份揭示节点）"}
+{"record_ref_or_local_id": "claim-local-24", "kind": "claim", "chapter_order": 205, "weight": "high", "note": "叙述明示现身女子即失踪已久的九尾天狐小白"}
+{"record_ref_or_local_id": "claim-local-15", "kind": "claim", "chapter_order": 205, "weight": "high", "note": "外部评述：鬼厉兼修魔教道法、大梵般若、太极玄清道并已融会贯通，太极玄清道青云门内仅次道玄"}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 205, "weight": "medium", "note": "鬼厉三种道法实战转换的首次完整展现（金刚法印、噬魂、太极玄清道）"}
+{"record_ref_or_local_id": "claim-local-21", "kind": "claim", "chapter_order": 205, "weight": "medium", "note": "鬼厉自称鬼王宗主令金瓶儿带路，交代其进入古洞的缘由（角色说法）"}
+{"record_ref_or_local_id": "claim-local-22", "kind": "claim", "chapter_order": 205, "weight": "medium", "note": "小白提及“还躺在寒冰床上的那个人”，为后续人物线索"}
+{"record_type": "event", "local_id": "ev-local-2", "reason": "魔教出身的野狗道人全力一击与法宝被赤手压碎，是本章对神秘人道行强度的首个明确证据，供阶段内战力/威胁评估使用。", "as_of": 206, "chapter_order": 206}
+{"record_type": "claim", "local_id": "claim-local-13", "reason": "周一仙当面指出对方修有不低于上清境界的太极玄清道，是神秘人与青云门关联的首条来源明确的陈述（角色说法）。", "as_of": 206, "chapter_order": 206}
+{"record_type": "claim", "local_id": "claim-local-15", "reason": "小环对“一身鬼气、义庄无游荡阴灵”的感知，与青云门身份的陈述形成张力，为阶段内身份谜题的关键旁证。", "as_of": 206, "chapter_order": 206}
+{"record_type": "claim", "local_id": "claim-local-28", "reason": "神秘人认出“五丁金甲”“小鬼搬运”“地遁”三门失传法术，显示其对青云门旧术的熟悉程度，属阶段内重要线索。", "as_of": 206, "chapter_order": 206}
+{"record_type": "claim", "local_id": "claim-local-31", "reason": "章末周一仙对神秘人的整体判断（道行高深莫测、太极玄清道生平仅见、戾气前所未见），是本章收束的悬置点。", "as_of": 206, "chapter_order": 206}
+{"kind": "event", "local_id": "ev-local-4", "note": "鬼厉与小白在镇魔古洞重逢，确认兽神所在与八凶玄火法阵地处", "chapter_order": 207}
+{"kind": "event", "local_id": "ev-local-5", "note": "小白给出对付兽神的两条关键提示（可打败、危急用玄火鉴），并表明与兽神交情非浅", "chapter_order": 207}
+{"kind": "event", "local_id": "ev-local-6", "note": "鬼厉进入石室与丝绸衣衫男子及饕餮相见，男子称'我们又见面了'", "chapter_order": 207}
+{"kind": "claim", "local_id": "claim-local-12", "note": "云易岚已知诛仙古剑损毁之秘并向青云弟子询问——秘密外泄", "chapter_order": 207}
+{"kind": "claim", "local_id": "claim-local-15", "note": "苏茹暗示道玄因诛仙古剑凶戾反挫而入魔更深", "chapter_order": 207}
+{"kind": "claim", "local_id": "claim-local-23", "note": "鬼王令鬼厉收服饕餮带回，动机未明", "chapter_order": 207}
+{"kind": "claim", "local_id": "claim-local-26", "note": "鬼厉自陈'伤天害理的事，我没有做过'——人物立场表态", "chapter_order": 207}
+{"kind": "event", "local_id": "ev-local-3", "stage_id": "stage-013", "note": "本章核心事件：废屋赤光、矮胖道人破出与神秘道人死斗，为后续身份揭示与诛仙剑线索的关键转折。", "chapter_order": 208}
+{"kind": "claim", "local_id": "claim-local-25", "stage_id": "stage-013", "note": "关键陈述：断剑现身并被当场指认为「诛仙剑」被带下青云山（角色说法，需与后续章节互证）。", "chapter_order": 208}
+{"kind": "claim", "local_id": "claim-local-22", "stage_id": "stage-013", "note": "角色陈述：矮胖道人曾被禁锢于废棺、强破诛心锁后仅余六成道行。", "chapter_order": 208}
+{"kind": "claim", "local_id": "claim-local-26", "stage_id": "stage-013", "note": "章末悬置：断剑身份与两名道人身份均未揭明，是跨章衔接的关键待解点。", "chapter_order": 208}
+{"kind": "claim", "local_id": "claim-local-8", "stage_id": "stage-013", "note": "人物转折：小环首次施展鬼道异术后元气大伤并散出鬼力妖气。", "chapter_order": 208}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "chapter_order": 209, "note": "黑木放人入洞、意图对兽神不利的关键动向"}
+{"record_ref_or_local_id": "ev-local-4", "kind": "event", "chapter_order": 209, "note": "黑木自陈三错，涉及封印兽神、五族圣器复活妖孽的旧事"}
+{"record_ref_or_local_id": "ev-local-6", "kind": "event", "chapter_order": 209, "note": "鬼厉与兽神在古洞深处首度对谈"}
+{"record_ref_or_local_id": "claim-local-21", "kind": "claim", "chapter_order": 209, "note": "黑木对封印刷兽神与长生之术之错的自我陈述"}
+{"record_ref_or_local_id": "claim-local-26", "kind": "claim", "chapter_order": 209, "note": "陆雪琪以天琊神剑照路独行的场面"}
+{"local_id": "ev-local-3", "kind": "event", "summary_hint": "八凶玄火法阵启动、赤焰魔兽现身并以烈焰淹没鬼厉，为兽神之战的开端", "chapter_order": 210}
+{"local_id": "ev-local-2", "kind": "event", "summary_hint": "鬼厉公开表明为他人索取饕餮，动机为欠人情", "chapter_order": 210}
+{"local_id": "claim-local-8", "kind": "claim", "summary_hint": "鬼厉自述一生仿佛为别人而活，兽神自问为谁而活", "chapter_order": 210}
+{"local_id": "ev-local-4", "kind": "event", "summary_hint": "陆雪琪脱离队伍独自冲入黑暗深处", "chapter_order": 210}
+{"local_id": "ev-local-5", "kind": "event", "summary_hint": "金瓶儿在洞穴中现身，李洵见之色变", "chapter_order": 210}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 211, "note": "小白首次主动出手拦阻正道门派并放走金瓶儿，动机自陈为看不顺眼焚香谷"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 211, "note": "金瓶儿以虚招脱离焚香谷追击，与李洵的敌对关系进一步坐实"}
+{"kind": "claim", "local_id": "claim-local-10", "chapter_order": 211, "note": "叙述明示『神秘女子小白＝九尾天狐小白』，涉及 char-0225 与 char-0221 的同一人关联"}
+{"kind": "claim", "local_id": "claim-local-16", "chapter_order": 211, "note": "小白自称资历以千年计（『几千年前玩剩下的』），可作为其身份/年岁线索"}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 211, "note": "陆雪琪线推进：抵达洞窟深处绿光与烈焰爆发现场，状态 ongoing"}
+{"buffer_type": "key_event", "local_ref": "ev-local-1", "note": "鬼厉正面击杀赤焰魔兽，展示噬魂魔棒吸取精华之能", "chapter_order": 212}
+{"buffer_type": "key_event", "local_ref": "ev-local-3", "note": "陆雪琪进入古洞并与鬼厉并肩面对兽神", "chapter_order": 212}
+{"buffer_type": "key_claim", "local_ref": "claim-local-37", "note": "兽神自述古洞法阵为玲珑亲布，远胜玄火坛遗迹法阵", "chapter_order": 212}
+{"buffer_type": "key_claim", "local_ref": "claim-local-29", "note": "兽神托付百合于洞口石像前，「她」身份未明", "chapter_order": 212}
+{"buffer_type": "key_claim", "local_ref": "claim-local-20", "note": "重伤兽神之人与鬼厉似有过节，为后续埋线", "chapter_order": 212}
+{"kind": "event", "local_id": "ev-local-3", "note": "stage核心事件：八荒火龙于镇魔古洞石室火焰深处降临", "chapter_order": 213}
+{"kind": "event", "local_id": "ev-local-2", "note": "小白以白色光球法术困住焚香谷众人，随后众人退走", "chapter_order": 213}
+{"kind": "claim", "local_id": "claim-local-9", "note": "娘娘预言：火龙复生降临即为冤孽结束之时（角色转述）", "chapter_order": 213}
+{"kind": "claim", "local_id": "claim-local-32", "note": "八荒火龙龙首首次现身石室", "chapter_order": 213}
+{"kind": "claim", "local_id": "claim-local-28", "note": "鬼厉与陆雪琪在绝境中握手合力结壁的互动事实", "chapter_order": 213}

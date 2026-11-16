@@ -1,0 +1,30 @@
+{
+  "id": "thread-0268",
+  "introduced_at": 190,
+  "kind": "story_thread",
+  "label": "鬼先生托付小环将来救一人",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 190,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 190,
+          "start": 190
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0268-001",
+      "resolution_refs": [],
+      "revealed_at": 190,
+      "role": "foreshadowing",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

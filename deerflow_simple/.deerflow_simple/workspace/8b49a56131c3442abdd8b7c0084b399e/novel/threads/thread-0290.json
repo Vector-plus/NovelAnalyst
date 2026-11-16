@@ -1,0 +1,30 @@
+{
+  "id": "thread-0290",
+  "introduced_at": 210,
+  "kind": "story_thread",
+  "label": "李洵与金瓶儿的旧怨",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 210,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 210,
+          "start": 210
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0290-001",
+      "resolution_refs": [],
+      "revealed_at": 210,
+      "role": "introduce",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

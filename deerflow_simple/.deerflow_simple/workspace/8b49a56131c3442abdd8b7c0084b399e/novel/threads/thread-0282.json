@@ -1,0 +1,30 @@
+{
+  "id": "thread-0282",
+  "introduced_at": 200,
+  "kind": "story_thread",
+  "label": "道玄闭关后性情古怪、通天峰事务由萧逸才代管",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 200,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 200,
+          "start": 200
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0282-001",
+      "resolution_refs": [],
+      "revealed_at": 200,
+      "role": "chapter_advance",
+      "status": "open",
+      "summary": "道玄自与兽神大战后闭关已久且脾气古怪；苏茹直言“知道道玄师兄出了什么事”。其具体情况本章未说明。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0285",
+  "introduced_at": 204,
+  "kind": "story_thread",
+  "label": "义庄异人的身份与来历",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 204,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 204,
+          "start": 204
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0285-001",
+      "resolution_refs": [],
+      "revealed_at": 204,
+      "role": "primary",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

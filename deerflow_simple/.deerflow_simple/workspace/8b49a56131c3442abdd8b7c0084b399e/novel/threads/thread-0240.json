@@ -1,0 +1,30 @@
+{
+  "id": "thread-0240",
+  "introduced_at": 151,
+  "kind": "story_thread",
+  "label": "苍松道人与万毒门内斗的牵连",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 151,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 151,
+          "start": 151
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0240-001",
+      "resolution_refs": [],
+      "revealed_at": 151,
+      "role": "twist",
+      "status": "open",
+      "summary": "秦无炎自认原定计策是让三师兄自相残杀，却因苍松道人那晚插手而演成大规模混战，万毒门实力在内战中耗尽；苍松本人不见踪影。"
+    }
+  ]
+}

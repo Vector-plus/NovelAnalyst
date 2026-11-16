@@ -1,0 +1,43 @@
+{
+  "id": "thread-0279",
+  "introduced_at": 196,
+  "kind": "story_thread",
+  "label": "云易岚问及诛仙剑损毁，文敏返山禀报",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 196,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 196,
+          "start": 196
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7083"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7084"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7085"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0279-001",
+      "resolution_refs": [],
+      "revealed_at": 196,
+      "role": "secondary",
+      "status": "open",
+      "summary": "陆雪琪与文敏因云易岚在山河殿上的一句问话决定由文敏急返青云山禀明长辈；曾书书不知实情。"
+    }
+  ]
+}

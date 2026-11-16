@@ -1,0 +1,30 @@
+{
+  "id": "thread-0250",
+  "introduced_at": 175,
+  "kind": "story_thread",
+  "label": "鬼厉自悟《天书》异术，陆雪琪亦暗研《天书》第三卷",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 175,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "ability",
+      "chapter_ranges": [
+        {
+          "end": 175,
+          "start": 175
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0250-001",
+      "resolution_refs": [],
+      "revealed_at": 175,
+      "role": "primary",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

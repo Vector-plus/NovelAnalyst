@@ -1,0 +1,30 @@
+{
+  "id": "thread-0237",
+  "introduced_at": 151,
+  "kind": "story_thread",
+  "label": "兽妖主力大批转向西南的缘由",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 151,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 151,
+          "start": 151
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0237-001",
+      "resolution_refs": [],
+      "revealed_at": 151,
+      "role": "setup",
+      "status": "open",
+      "summary": "兽妖原本一路北上杀戮，近日大批转向西南，仅余四成继续北上。正道推测或与魔教冲突、或魔教内部异动，尚无定论。"
+    }
+  ]
+}

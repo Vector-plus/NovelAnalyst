@@ -1,0 +1,30 @@
+{
+  "id": "thread-0256",
+  "introduced_at": 182,
+  "kind": "story_thread",
+  "label": "普智法身与玉冰盘的结局",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 182,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 182,
+          "start": 182
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0256-001",
+      "resolution_refs": [],
+      "revealed_at": 182,
+      "role": "closure",
+      "status": "resolved",
+      "summary": "鬼厉请普泓上人火化安葬普智法身；普智法身自行风化、痛苦之色化开而露欣慰笑容；玉冰盘摧毁小屋后自行飞至鬼厉面前，最终亦化为烟尘消散。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0245",
+  "introduced_at": 155,
+  "kind": "story_thread",
+  "label": "神秘少年的身份与行踪",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 155,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "open_mystery",
+      "chapter_ranges": [
+        {
+          "end": 155,
+          "start": 155
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0245-001",
+      "resolution_refs": [],
+      "revealed_at": 155,
+      "role": "supporting",
+      "status": "ongoing",
+      "summary": "曾于荒山野岭深林与鬼厉相遇的神秘少年带着恶兽饕餮出现在空无一人的三福镇酒馆，自称只是路过寻残酒；鬼厉对其身份更加疑惑，当章未有任何揭示。"
+    }
+  ]
+}

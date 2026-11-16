@@ -1,0 +1,34 @@
+{
+  "assessments": [],
+  "entries": [
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [],
+      "kind": "emotional_stage",
+      "safe_through": 177,
+      "summary": "鬼厉与陆雪琪：感情线（第144—177章）（第144—177章）",
+      "tags": [
+        "emotion"
+      ],
+      "target": {
+        "path": "emotions/emo-0009/stages/stage-010.md",
+        "record_id": "doc-emo-0009-stage-010"
+      },
+      "title": "鬼厉与陆雪琪：感情线（第144—177章）"
+    }
+  ],
+  "id": "emo-0009",
+  "introduced_at": 144,
+  "kind": "emotional_index",
+  "label": "",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "participants": [],
+  "revision": 2,
+  "safe_through": 177,
+  "schema_version": "2.0"
+}

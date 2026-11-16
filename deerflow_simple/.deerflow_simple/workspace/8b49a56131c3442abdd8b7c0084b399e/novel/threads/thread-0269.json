@@ -1,0 +1,30 @@
+{
+  "id": "thread-0269",
+  "introduced_at": 193,
+  "kind": "story_thread",
+  "label": "道玄真人异样与青云掌门之位危机",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 193,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 193,
+          "start": 193
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0269-001",
+      "resolution_refs": [],
+      "revealed_at": 193,
+      "role": "main",
+      "status": "escalating",
+      "summary": "六脉首座自行集会逼问，道玄声音戾气深重、言辞癫狂，斥众人逼宫，其真实状态与闭关真伪均未明。"
+    }
+  ]
+}

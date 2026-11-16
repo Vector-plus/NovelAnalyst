@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "主持玉清殿公审，问出大梵般若与噬血珠后一度退殿；第79章被苍松道人当场刺成重伤，仍入幻月洞府引诛仙出世，第82章发动诛仙剑阵击退魔教四大宗主后昏厥于田不易怀中；第84章判定张小凡为绝世祸胎、决意诛杀。"
+    "current_summary": "诛仙古剑断折、遭反噬后携断剑入幻月洞府，禁地封闭、断剑处置无人知晓；为无名老看守立空白灵位守灵、情绪剧烈反常；青云门第四次下达诛仙剑损毁保密令，田不易公开怀疑其被剑戾反噬、苏茹喝止，门内互信现裂痕。"
   },
   "entity_type": "character",
   "entries": [
@@ -53,6 +53,56 @@
         "record_id": "doc-char-0007-stage-005"
       },
       "title": "公审、被刺与发动诛仙剑阵"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 177,
+      "summary": "三派会盟与诛仙剑断阶段（第144—177章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0007/stages/stage-010.md",
+        "record_id": "doc-char-0007-stage-010"
+      },
+      "title": "三派会盟与诛仙剑断阶段"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 186,
+          "start": 178
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0007/index.json",
+          "record_id": "char-0007"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 186,
+      "summary": "道玄反常与诛仙剑保密（天音寺阶段支线）（第178—186章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0007/stages/stage-011.md",
+        "record_id": "doc-char-0007-stage-011"
+      },
+      "title": "道玄反常与诛仙剑保密（天音寺阶段支线）"
     }
   ],
   "id": "char-0007",
@@ -63,7 +113,7 @@
   "label": "道玄真人",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 5,
-  "safe_through": 84,
+  "revision": 9,
+  "safe_through": 186,
   "schema_version": "2.0"
 }

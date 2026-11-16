@@ -1,0 +1,30 @@
+{
+  "id": "thread-0266",
+  "introduced_at": 189,
+  "kind": "story_thread",
+  "label": "小环施术的代价与她的昏迷",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 189,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 189,
+          "start": 189
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0266-001",
+      "resolution_refs": [],
+      "revealed_at": 189,
+      "role": "seed",
+      "status": "open",
+      "summary": "周一仙警告对死人施收魂术起码会毁掉道行根基、损阳寿二十年以上；法术完成后小环立即昏厥，其实际损伤本章未明。"
+    }
+  ]
+}

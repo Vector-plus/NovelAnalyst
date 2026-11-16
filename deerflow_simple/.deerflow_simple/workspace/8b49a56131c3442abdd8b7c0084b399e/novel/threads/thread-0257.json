@@ -1,0 +1,30 @@
+{
+  "id": "thread-0257",
+  "introduced_at": 182,
+  "kind": "story_thread",
+  "label": "鬼厉身心受噬血珠妖力戾气影响",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 182,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 182,
+          "start": 182
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0257-001",
+      "resolution_refs": [],
+      "revealed_at": 182,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "鬼厉坐一日一夜后脸色惨白、起身不稳，手边散发冰凉气息与澎湃诡异妖力，普泓与法相同时察觉；鬼厉自述多年来对噬血珠妖力戾气之烈感同身受。"
+    }
+  ]
+}

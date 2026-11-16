@@ -1,0 +1,30 @@
+{
+  "id": "thread-0252",
+  "introduced_at": 178,
+  "kind": "story_thread",
+  "label": "鬼厉被天音寺秘密救走并安置养伤",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 178,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 178,
+          "start": 178
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0252-001",
+      "resolution_refs": [],
+      "revealed_at": 178,
+      "role": "setup",
+      "status": "open",
+      "summary": "鬼厉在诛仙剑下重伤后被天音寺一方带走，秘密安置在只有寺中少数人知晓的禅房养伤；法相承认是他们所救，但拒绝说明原因。"
+    }
+  ]
+}

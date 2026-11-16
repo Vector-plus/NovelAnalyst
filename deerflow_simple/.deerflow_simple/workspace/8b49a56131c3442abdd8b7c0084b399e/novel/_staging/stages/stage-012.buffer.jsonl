@@ -1,0 +1,85 @@
+{"local_id": "ev-local-4", "kind": "event", "chapter_order": 187, "reason": "本 stage 主线起点：鬼王密令授予鬼厉，南下追杀兽神"}
+{"local_id": "claim-local-19", "kind": "claim", "chapter_order": 187, "reason": "活捉饕餮带回蛮荒为核心机密目标，动因未明，供后续阶段追踪"}
+{"local_id": "claim-local-18", "kind": "claim", "chapter_order": 187, "reason": "鬼厉明确接受任务，行动动机确立"}
+{"local_id": "claim-local-21", "kind": "claim", "chapter_order": 187, "reason": "黑衣人救鬼厉之谜与道行骤进，为伏笔线索"}
+{"local_id": "claim-local-22", "kind": "claim", "chapter_order": 187, "reason": "小灰随鬼厉离去，跨场景衔接证据"}
+{"kind": "event", "ref_or_local_id": "ev-local-5", "note": "本章核心转折：野狗道人为救小环独战两只兽妖并重伤，确立其“疯狗”行为动机", "chapter_order": 188}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "note": "小环舍身挡在周一仙、野狗道人身前；周一仙符录异术首次于本章施展且失手", "chapter_order": 188}
+{"kind": "event", "ref_or_local_id": "ev-local-7", "note": "小环判定野狗道人断气，本章叙述亦称其死亡；后续章节需核对", "chapter_order": 188}
+{"kind": "event", "ref_or_local_id": "ev-local-8", "note": "神秘黑衣蒙面人现身，追踪一道自北向南的白光，身份与白光来历均未明", "chapter_order": 188}
+{"kind": "claim", "ref_or_local_id": "claim-local-3", "note": "势力动向：兽神败而未死，正道各派为擒兽神、图法宝纷纷南下", "chapter_order": 188}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "stage_id": "stage-012", "chapter_order": 189, "note": "野狗道人气绝后经小环收魂术复生，黑衣人出手干预——本阶段重要节点事件"}
+{"ref_or_local_id": "claim-local-18", "kind": "claim", "stage_id": "stage-012", "chapter_order": 189, "note": "黑衣人识得小环血阵与狐岐山大巫师救碧瑶的阵法同源，且闻“大巫师”而身颤"}
+{"ref_or_local_id": "claim-local-24", "kind": "claim", "stage_id": "stage-012", "chapter_order": 189, "note": "黑衣人评价小环鬼道天赋极高、需鬼道明师指点，随后现出犹豫"}
+{"ref_or_local_id": "claim-local-14", "kind": "claim", "stage_id": "stage-012", "chapter_order": 189, "note": "周一仙陈述收魂术代价：曾救金瓶儿损阳寿一年，对死人施法或损二十年以上"}
+{"ref_or_local_id": "claim-local-22", "kind": "claim", "stage_id": "stage-012", "chapter_order": 189, "note": "叙述回顾大巫师救碧瑶的阵法机制（合欢铃残魂）与其殒命原因"}
+{"kind": "event", "local_id": "ev-local-1", "chapter_order": 190, "note": "鬼先生与周一仙一行的首次长谈，鬼道来历与世界观信息集中出现。"}
+{"kind": "event", "local_id": "ev-local-2", "chapter_order": 190, "note": "鬼先生与小环的师徒名分成立，并赠鬼道法宝血玉骨片。"}
+{"kind": "claim", "local_id": "claim-local-4", "chapter_order": 190, "note": "叙述层确认黑衣人＝鬼先生，供后续身份汇总使用。"}
+{"kind": "claim", "local_id": "claim-local-12", "chapter_order": 190, "note": "小环鬼道术法来源（爷爷旧宅枯井井壁），后续伏笔。"}
+{"kind": "claim", "local_id": "claim-local-25", "chapter_order": 190, "note": "血玉骨片能力设定（激发鬼道异法、提升道行层级）。"}
+{"kind": "claim", "local_id": "claim-local-27", "chapter_order": 190, "note": "鬼先生对小环的托付，未明言的“救一个人”。"}
+{"kind": "event", "local_id": "ev-local-5", "note": "金瓶儿生还并现身焚香谷玄火坛，自称奉鬼王宗主意旨协助鬼厉追查兽神", "chapter_order": 191}
+{"kind": "claim", "local_id": "claim-local-20", "note": "镇封兽神关键条件之一：夺下南疆五族神器（兽妖生命之源）", "chapter_order": 191}
+{"kind": "claim", "local_id": "claim-local-22", "note": "镇封地点线索：十万大山深处镇魔古洞，巫女娘娘化石像面向古洞", "chapter_order": 191}
+{"kind": "claim", "local_id": "claim-local-27", "note": "焚香谷谷主云易岚率众先赴中土，浩劫后谷毁而弟子完好，声望受损", "chapter_order": 191}
+{"kind": "claim", "local_id": "claim-local-36", "note": "鬼王宗已知镇魔古洞位置，金瓶儿被派来协助（当事人陈述）", "chapter_order": 191}
+{"buf_id": "buf-192-1", "kind": "event", "ref_or_local_id": "ev-local-3", "note": "焚香谷谷主动用活人血祭以重启八凶玄火法阵，阶段内势力动向关键节点", "chapter_order": 192}
+{"buf_id": "buf-192-2", "kind": "claim", "ref_or_local_id": "claim-local-21", "note": "焚香玉册祖师批录原文，为本阶段“血祭”设定核心陈述（reported）", "chapter_order": 192}
+{"buf_id": "buf-192-3", "kind": "claim", "ref_or_local_id": "claim-local-34", "note": "鬼厉对鬼王鲜血来源起疑，人物转折点起点", "chapter_order": 192}
+{"buf_id": "buf-192-4", "kind": "claim", "ref_or_local_id": "claim-local-29", "note": "金瓶儿判断焚香谷目标为兽神，情报依据仅为其自述", "chapter_order": 192}
+{"buf_id": "buf-192-5", "kind": "event", "ref_or_local_id": "ev-local-1", "note": "玄火坛七日参悟无所得，法阵已损毁的事实基础", "chapter_order": 192}
+{"local_id": "ev-local-1", "kind": "event", "salience": "high", "note": "主角线推进：鬼厉携玄火鉴进入十万大山追查兽神", "chapter_order": 193}
+{"local_id": "ev-local-2", "kind": "event", "salience": "high", "note": "青云门内部权力/掌门危机进入正面逼问阶段", "chapter_order": 193}
+{"local_id": "ev-local-3", "kind": "event", "salience": "high", "note": "道玄言行异样公开化；曾叔常旧事被揭；万剑一生死说法冲突", "chapter_order": 193}
+{"local_id": "claim-local-8", "kind": "claim", "salience": "high", "note": "鬼厉推断怪异少年即兽神（角色推断，非叙述确认）", "chapter_order": 193}
+{"local_id": "claim-local-10", "kind": "claim", "salience": "medium", "note": "焚香谷失去万火之精故无法启动八凶玄火法阵", "chapter_order": 193}
+{"local_id": "claim-local-30", "kind": "claim", "salience": "high", "note": "道玄声音戾气化，为后续异常重大伏笔", "chapter_order": 193}
+{"local_id": "claim-local-32", "kind": "claim", "salience": "medium", "note": "曾叔常早察苍松所谋而不言（道玄转述）", "chapter_order": 193}
+{"local_id": "claim-local-35", "kind": "claim", "salience": "high", "note": "水月追问万剑一是否还活着，与道玄说法冲突", "chapter_order": 193}
+{"local_id": "thread-local-2", "kind": "thread", "salience": "high", "note": "万剑一生死之谜新增关键冲突证据", "chapter_order": 193}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "salience": "high", "note": "云易岚当众求证诛仙古剑折断传言，青云三人失色，本章以死寂收束", "chapter_order": 194}
+{"ref_or_local_id": "claim-local-23", "kind": "claim", "salience": "high", "note": "诛仙古剑折断损毁的传言首次在南疆被正式提出（角色陈述，source=云易岚）", "chapter_order": 194}
+{"ref_or_local_id": "claim-local-6", "kind": "claim", "salience": "high", "note": "金瓶儿将杀生和尚的杀生刀藏于十万大山黑森林悬崖石缝，隐匿不告鬼厉", "chapter_order": 194}
+{"ref_or_local_id": "claim-local-3", "kind": "claim", "salience": "medium", "note": "本阶段目的地明确为镇魔古洞（金瓶儿陈述方位与路程）", "chapter_order": 194}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "salience": "medium", "note": "南疆正道势力云集、焚香谷成为拜访中心，各派间存在未公开的摩擦", "chapter_order": 194}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "salience": "medium", "note": "陆雪琪玉清殿拒婚往事被复述，成为青云与焚香谷之间的芥蒂来源", "chapter_order": 194}
+{"ref_local_id": "ev-local-1", "type": "event", "note": "诛仙古剑损毁秘密外泄，焚香谷当面试探青云门，为本阶段势力交锋关键节点", "chapter_order": 195}
+{"ref_local_id": "claim-local-2", "type": "claim", "note": "明确损毁一事是道玄真人严令不可外传的秘密（显式叙述）", "chapter_order": 195}
+{"ref_local_id": "claim-local-14", "type": "claim", "note": "兽神遁入十万大山深处趋向巢穴——南下追踪方向确立", "chapter_order": 195}
+{"ref_local_id": "claim-local-22", "type": "claim", "note": "青云门三人与焚香谷李洵达成同行协议", "chapter_order": 195}
+{"ref_local_id": "claim-local-18", "type": "claim", "note": "云易岚对李洵的私令「不要忘了自己身上的担子」，动机未揭示", "chapter_order": 195}
+{"ref_local_id": "ev-local-5", "type": "event", "note": "金瓶儿紫芒刃修行暗伤被鬼厉点破，为其道行上限埋线", "chapter_order": 195}
+{"ref_local_id": "claim-local-30", "type": "claim", "note": "金瓶儿提及碧瑶出事十年、鬼厉未与女子独处，涉及其心结线索", "chapter_order": 195}
+{"kind": "claim", "local_id": "claim-local-23", "buffer_note": "道玄真人异状升级：对劝告者范长老、萧逸才动手（田不易转述通天峰消息）", "chapter_order": 196}
+{"kind": "claim", "local_id": "claim-local-29", "buffer_note": "青叶祖师诫碑：诛仙剑灵为无上凶灵，持剑人易堕魔道——解释道玄异状的关键设定（角色陈述）", "chapter_order": 196}
+{"kind": "claim", "local_id": "claim-local-32", "buffer_note": "田不易回顾十年前诛仙剑之役：碧瑶身死、老七由此反出", "chapter_order": 196}
+{"kind": "claim", "local_id": "claim-local-13", "buffer_note": "云易岚在山河殿问及诛仙剑损毁 → 文敏返山禀报，焚香谷可疑线索引子", "chapter_order": 196}
+{"kind": "claim", "local_id": "claim-local-4", "buffer_note": "南疆兽妖巢穴指向镇魔古洞（据族民传说，李洵转述）", "chapter_order": 196}
+{"kind": "event", "local_id": "ev-local-7", "buffer_note": "田不易独自御剑赴通天峰见道玄，悬而未决的行动线", "chapter_order": 196}
+{"target_local_id": "ev-local-1", "kind": "key_event", "reason": "鬼厉与金瓶儿深入黑色山峰、逼近镇魔古洞，是南下寻踪线索的推进节点。", "chapter_order": 197}
+{"target_local_id": "ev-local-4", "kind": "key_event", "reason": "青云弟子私下议论诛仙古剑损毁与云易岚动机，涉及青云门与焚香谷关系变化的疑云。", "chapter_order": 197}
+{"target_local_id": "claim-local-4", "kind": "key_claim", "reason": "交代兽神被诛仙古剑重创后仍遁逃而走，为南疆追索兽神提供状态依据。", "chapter_order": 197}
+{"target_local_id": "claim-local-31", "kind": "key_claim", "reason": "提出青云门内可能有奸细、以及焚香谷示强两种推测，是正邪与两派关系走向的重要疑点。", "chapter_order": 197}
+{"target_local_id": "claim-local-34", "kind": "key_claim", "reason": "曾书书将林中足迹归因于魔教余孽，牵出魔教在十万大山活动的线索。", "chapter_order": 197}
+{"target_local_id": "claim-local-10", "kind": "key_claim", "reason": "小灰一吐之力将果核击入硬石，被金瓶儿视作其道行大进的证据。", "chapter_order": 197}
+{"local_id": "ev-local-2", "ref_type": "event", "chapter_order": 198, "tags": ["道玄真人", "祖师祠堂", "异常状态", "关键异变"], "note": "道玄双眸鬼火、满殿灯火齐亮的首次描写，田不易在场。"}
+{"local_id": "ev-local-5", "ref_type": "event", "chapter_order": 198, "tags": ["镇魔古洞", "凶灵", "遭遇"], "note": "南下寻踪线在洞口遭遇白气巨影，事件仍在进行中。"}
+{"local_id": "claim-local-23", "ref_type": "claim", "chapter_order": 198, "tags": ["兽神", "镇魔古洞", "金瓶儿陈述"], "note": "金瓶儿亲历陈述：兽神自镇魔古洞复生。"}
+{"local_id": "claim-local-28", "ref_type": "claim", "chapter_order": 198, "tags": ["玲珑巫女", "石像", "异力"], "note": "洞口女子石像具使人沉迷之异力，与玲珑巫女实体档案关联。"}
+{"local_id": "claim-local-18", "ref_type": "claim", "chapter_order": 198, "tags": ["田不易", "道玄真人", "当面质问"], "note": "田不易「我们又见面了」，情绪剧烈，可作后续冲突伏笔。"}
+{"kind": "event", "ref_local_id": "ev-local-2", "chapter": 199, "note": "守洞凶灵身份被确认为南疆七英雄之一黑虎，与玲珑巫女传说正式挂钩", "chapter_order": 199}
+{"kind": "event", "ref_local_id": "ev-local-3", "chapter": 199, "note": "鬼厉一行获放行进入镇魔古洞寻杀兽神，为主角方在南疆的核心行动推进", "chapter_order": 199}
+{"kind": "claim", "ref_local_id": "claim-local-22", "chapter": 199, "note": "兽神归返时另携一只来历不明、道行极高的妖孽，非十三妖兽之一，为后续危机伏笔", "chapter_order": 199}
+{"kind": "event", "ref_local_id": "ev-local-4", "chapter": 199, "note": "势力动向：复生兽神的黑木仍在镇魔古洞外窥望，与兄黑虎未正面相见", "chapter_order": 199}
+{"kind": "event", "ref_local_id": "ev-local-5", "chapter": 199, "note": "白衣持天琊仙剑女子率十余人队伍逼近焦黑山峰，疑似陆雪琪线索", "chapter_order": 199}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 200, "note": "本章核心事件：苏茹闯玉清殿索问田不易下落"}
+{"ref_or_local_id": "ev-local-3", "kind": "event", "chapter_order": 200, "note": "章末悬念：萧逸才报“出事了”，指向道玄/祖师祠堂方向"}
+{"ref_or_local_id": "claim-local-19", "kind": "claim", "chapter_order": 200, "note": "苏茹对青云门立誓要说法，态度与立场明确"}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "chapter_order": 200, "note": "墨雪仙剑出鞘级展示（插地无裂纹），苏茹武力线索"}
+{"ref_or_local_id": "claim-local-2", "kind": "claim", "chapter_order": 200, "note": "道玄闭关、通天峰由萧逸才代管，青云门权力状态"}
+{"ref_or_local_id": "claim-local-16", "kind": "claim", "chapter_order": 200, "note": "苏茹称“知道道玄出了什么事”，暗示掌门异状"}
+{"kind": "event", "local_record_id": "ev-local-4", "chapter_order": 201, "significance": "无字灵牌首次出现，是本章最核心的新谜题物件", "entity_refs_or_candidates": [{"path": "characters/char-0002/index.json", "record_id": "char-0002"}, {"candidate_name": "祖师祠堂"}]}
+{"kind": "event", "local_record_id": "ev-local-3", "chapter_order": 201, "significance": "掌门失踪后萧逸才实际主持青云门调度，权力位置变化的关键证据", "entity_refs_or_candidates": [{"path": "characters/char-0040/index.json", "record_id": "char-0040"}, {"path": "characters/char-0330/index.json", "record_id": "char-0330"}, {"path": "characters/char-0015/index.json", "record_id": "char-0015"}]}
+{"kind": "event", "local_record_id": "ev-local-5", "chapter_order": 201, "significance": "兽神重伤状态下与神秘女子达成交易，反派侧的势力动向", "entity_refs_or_candidates": [{"path": "characters/char-0209/index.json", "record_id": "char-0209"}, {"path": "characters/char-0268/index.json", "record_id": "char-0268"}, {"candidate_name": "镇魔古洞神秘女子"}]}
+{"kind": "event", "local_record_id": "ev-local-6", "chapter_order": 201, "significance": "八凶玄火法阵在镇魔古洞重现，与焚香谷玄火坛图案一致，连接南疆双线", "entity_refs_or_candidates": [{"candidate_name": "八凶玄火法阵"}, {"candidate_name": "镇魔古洞"}, {"path": "characters/char-0173/index.json", "record_id": "char-0173"}]}

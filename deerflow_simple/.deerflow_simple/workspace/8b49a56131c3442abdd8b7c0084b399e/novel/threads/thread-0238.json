@@ -1,0 +1,30 @@
+{
+  "id": "thread-0238",
+  "introduced_at": 151,
+  "kind": "story_thread",
+  "label": "正道派弟子赴西南探查（陆雪琪、李洵等）",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 151,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plan",
+      "chapter_ranges": [
+        {
+          "end": 151,
+          "start": 151
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0238-001",
+      "resolution_refs": [],
+      "revealed_at": 151,
+      "role": "setup",
+      "status": "open",
+      "summary": "道玄真人解除陆雪琪望月台面壁之罚，令其领数名弟子赴西南查探、戴罪立功；云易岚之徒李洵亦获准同行。"
+    }
+  ]
+}

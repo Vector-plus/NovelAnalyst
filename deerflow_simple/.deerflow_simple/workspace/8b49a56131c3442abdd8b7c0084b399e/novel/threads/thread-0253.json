@@ -1,0 +1,30 @@
+{
+  "id": "thread-0253",
+  "introduced_at": 178,
+  "kind": "story_thread",
+  "label": "救人缘由待普泓上人揭示 / 普智相关真相",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 178,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 178,
+          "start": 178
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0253-001",
+      "resolution_refs": [],
+      "revealed_at": 178,
+      "role": "setup",
+      "status": "open",
+      "summary": "法相称待鬼厉伤势大好，会由天音寺方丈普泓上人告知为何救他；鬼厉闻“天音寺”即想到普智并心生苦涩。"
+    }
+  ]
+}

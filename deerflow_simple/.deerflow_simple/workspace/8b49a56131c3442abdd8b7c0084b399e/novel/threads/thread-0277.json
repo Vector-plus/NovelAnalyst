@@ -1,0 +1,51 @@
+{
+  "id": "thread-0277",
+  "introduced_at": 196,
+  "kind": "story_thread",
+  "label": "道玄真人异状加剧，对劝告者动手",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 196,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 196,
+          "start": 196
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7093"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7094"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7099"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7100"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7105"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0277-001",
+      "resolution_refs": [],
+      "revealed_at": 196,
+      "role": "core",
+      "status": "escalating",
+      "summary": "据通天峰传下的消息，道玄真人已将前去劝告的范长老打成重伤，萧逸才机警逃脱；田不易据此判断诛仙剑灵之凶已应验祖训，决意亲往查看是否尚有挽救余地。"
+    }
+  ]
+}

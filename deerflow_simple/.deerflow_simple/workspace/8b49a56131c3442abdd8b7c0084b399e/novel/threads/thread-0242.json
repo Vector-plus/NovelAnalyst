@@ -1,0 +1,30 @@
+{
+  "id": "thread-0242",
+  "introduced_at": 155,
+  "kind": "story_thread",
+  "label": "噬血珠反噬与鬼厉身体状况恶化",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 155,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "character_state",
+      "chapter_ranges": [
+        {
+          "end": 155,
+          "start": 155
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0242-001",
+      "resolution_refs": [],
+      "revealed_at": 155,
+      "role": "main",
+      "status": "escalating",
+      "summary": "鬼厉虽因三卷天书真法道行日进而渐悟三家真法，但噬血珠妖力每天在体内游荡，等待与他同归于尽的时机，他自感身体越来越差。"
+    }
+  ]
+}

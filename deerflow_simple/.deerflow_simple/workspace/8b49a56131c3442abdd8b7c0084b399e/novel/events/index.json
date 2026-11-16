@@ -250,18 +250,93 @@
         "record_id": "block-0010"
       },
       "title": "stage-010 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 178,
+          "start": 178
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0011.json",
+          "record_id": "block-0011"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 178,
+      "summary": "stage-011 事件块（第178章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0011.json",
+        "record_id": "block-0011"
+      },
+      "title": "stage-011 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 187,
+          "start": 187
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0012.json",
+          "record_id": "block-0012"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 187,
+      "summary": "stage-012 事件块（第187章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0012.json",
+        "record_id": "block-0012"
+      },
+      "title": "stage-012 事件块"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 202,
+          "start": 202
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "events/block-0013.json",
+          "record_id": "block-0013"
+        }
+      ],
+      "kind": "event_collection",
+      "safe_through": 202,
+      "summary": "stage-013 事件块（第202章起）",
+      "tags": [
+        "event"
+      ],
+      "target": {
+        "path": "events/block-0013.json",
+        "record_id": "block-0013"
+      },
+      "title": "stage-013 事件块"
     }
   ],
   "id": "idx-events",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 145,
-  "safe_through": 144,
+  "revision": 214,
+  "safe_through": 213,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 144,
+        "end": 213,
         "start": 1
       }
     ],

@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "第79章玉清殿上刺伤道玄、公开承认勾结魔教并叛门，自述百年前因万剑一之案而「疯了」，当众揭出水月苦恋万剑一的旧事；第80章交代假扮焚香谷之计出自鬼王，第83章正式与魔教合流并透露诛仙剑阵威力未尽；是否为当年草庙村黑衣人仅为主角推断，未坐实。"
+    "current_summary": "以鬼王宗供奉身份在西南行事：献「以兽妖制万毒门」之计，于万毒门灵堂当场揭破秦无炎所设七尾蜈蚣并向鬼王复命，坐实内应身份；随后被秦无炎当众指认插手毒门内斗，对鬼王仍留隐情。"
   },
   "entity_type": "character",
   "entries": [
@@ -103,6 +103,31 @@
         "record_id": "doc-char-0018-stage-005"
       },
       "title": "玉清殿叛门"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0018/index.json",
+          "record_id": "char-0018"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 177,
+      "summary": "鬼王宗供奉与万毒门内应阶段（第144—177章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0018/stages/stage-010.md",
+        "record_id": "doc-char-0018-stage-010"
+      },
+      "title": "鬼王宗供奉与万毒门内应阶段"
     }
   ],
   "id": "char-0018",
@@ -113,7 +138,7 @@
   "label": "苍松道人",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 9,
-  "safe_through": 84,
+  "revision": 11,
+  "safe_through": 177,
   "schema_version": "2.0"
 }

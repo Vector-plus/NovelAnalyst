@@ -1,0 +1,47 @@
+{
+  "id": "thread-0278",
+  "introduced_at": 196,
+  "kind": "story_thread",
+  "label": "焚香谷消息来源可疑，陆雪琪存疑",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 196,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 196,
+          "start": 196
+        }
+      ],
+      "claim_refs": [
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7078"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7079"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7080"
+        },
+        {
+          "path": "events/block-0012.json",
+          "record_id": "claim-7086"
+        }
+      ],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0278-001",
+      "resolution_refs": [],
+      "revealed_at": 196,
+      "role": "core",
+      "status": "open",
+      "summary": "陆雪琪质疑李洵对十万大山与兽神巢穴消息的来历，李洵的回答被陆雪琪、曾书书视为空洞敷衍，但无从反驳；二人心中认定焚香谷处处古怪。"
+    }
+  ]
+}

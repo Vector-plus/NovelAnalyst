@@ -5,3 +5,182 @@
 {"local_id": "ev-local-5", "kind": "key_event", "title": "妖艳少年现身，妖兽退去", "note": "本阶段核心威胁线的首个悬念节点", "chapter_order": 144}
 {"local_id": "local-17", "kind": "key_statement", "title": "青云门四式真法剑诀", "note": "神兵绝学的世界观补充，由祠堂老人（未具名）陈述", "chapter_order": 144}
 {"local_id": "ev-local-2", "kind": "key_event", "title": "林惊羽与祠堂老人授业对话", "note": "祠堂老人身份之谜与林惊羽战力提升的关键节点", "chapter_order": 144}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "chapter_order": 145, "note": "本阶段核心：云易岚通报南疆「兽神」复生，青云门应允联手并拟邀天音寺，构成三派会盟起点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-46", "chapter_order": 145, "note": "「兽神」名号与南疆十万大山复生时间（一个月前）的关键陈述，来源为云易岚，属 reported"}
+{"kind": "event", "ref_or_local_id": "ev-local-6", "chapter_order": 145, "note": "陆雪琪当殿说出「我不愿」拒绝焚香谷求婚，重要人物转折点"}
+{"kind": "claim", "ref_or_local_id": "claim-local-40", "chapter_order": 145, "note": "云易岚「玉阳境界」被道玄当面点破，其神色一僵，可能是后续伏笔"}
+{"kind": "claim", "ref_or_local_id": "claim-local-7", "chapter_order": 145, "note": "南疆少年被金瓶儿指认为「兽妖」、统御群兽，与「兽神」是否同一存疑，需后续章节核对"}
+{"record_local_id": "ev-local-1", "kind": "event", "tags": ["兽妖浩劫", "南疆", "十万大山", "中土入侵"], "note": "stage-010 主线起点事件：浩劫爆发并蔓延至中土", "chapter_order": 146}
+{"record_local_id": "ev-local-2", "kind": "event", "tags": ["三派会盟", "焚香谷", "青云门", "天音寺", "云易岚"], "note": "正道会盟号召与天音寺响应，阶段核心线索", "chapter_order": 146}
+{"record_local_id": "claim-local-19", "kind": "claim", "tags": ["诛仙剑阵", "青云山", "会盟推断"], "note": "周一仙对会盟与诛仙剑阵的判断（reported）", "chapter_order": 146}
+{"record_local_id": "claim-local-20", "kind": "claim", "tags": ["鬼厉", "诛仙剑阵", "情绪反应"], "note": "鬼厉闻“诛仙剑阵”身子一抖，人物转折线索", "chapter_order": 146}
+{"record_local_id": "ev-local-4", "kind": "event", "tags": ["鬼厉", "小环", "分道", "青云山"], "note": "鬼厉拒绝投奔青云山、独自南行，人物走向分岔点", "chapter_order": 146}
+{"record_local_id": "ev-local-6", "kind": "event", "tags": ["神秘少年", "饕餮", "偶遇"], "note": "新人物与新异兽登场，待后续章节确认身份", "chapter_order": 146}
+{"local_id": "ev-local-5", "kind": "event", "note": "鬼厉与陆雪琪望月台重逢，为stage-010内重要人物线节点", "chapter_order": 147}
+{"local_id": "ev-local-6", "kind": "event", "note": "“下次见面你用剑”之约与碧瑶之问构成后续冲突伏笔", "chapter_order": 147}
+{"local_id": "claim-local-9", "kind": "claim", "note": "奇异少年自称被一女子欺骗并几乎万劫不复的陈述，人物谜团关键证据", "chapter_order": 147}
+{"local_id": "claim-local-21", "kind": "claim", "note": "陆雪琪被掌门罚在望月台反省，同门转述", "chapter_order": 147}
+{"local_id": "claim-local-37", "kind": "claim", "note": "焚香谷提亲已获水月大师与道玄真人应允（角色陈述）", "chapter_order": 147}
+{"local_id": "ev-local-3", "kind": "event", "note": "三大正派会盟青云山、天下云集，为stage-010主线背景", "chapter_order": 147}
+{"entry_kind": "event", "local_ref": "ev-local-2", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "high", "note": "毒神去世、秦无炎受遗命接掌万毒门而诸弟子争位，魔教三派阀格局松动，为鬼王宗扩张的直接契机。"}
+{"entry_kind": "event", "local_ref": "ev-local-4", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "high", "note": "苍松入鬼王宗供奉并献计以兽妖制万毒门；鬼厉与苍松十年后重逢。"}
+{"entry_kind": "event", "local_ref": "ev-local-6", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "high", "note": "鬼先生献上舍弃鬼王宗半数弟子以并吞合欢派的毒计，并被鬼王采纳；同时披露四灵血阵进度与烛龙、饕餮目标。"}
+{"entry_kind": "claim", "local_ref": "claim-local-43", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "high", "note": "伏龙鼎已完全收服黄鸟与夔牛，四灵血阵铭文确认为真——关键能力/图谋进度证据。"}
+{"entry_kind": "claim", "local_ref": "claim-local-53", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "high", "note": "明确四灵兽序列下一目标为蛮荒圣殿的烛龙，其后为南方的饕餮。"}
+{"entry_kind": "claim", "local_ref": "claim-local-23", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "medium", "note": "青龙送大巫师骨灰赴南疆至今未归，南疆兽妖肆虐，留有后续线索。"}
+{"entry_kind": "claim", "local_ref": "claim-local-15", "chapter_order": 148, "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "weight": "medium", "note": "苍松心知鬼厉与张小凡的关联并在心里冷笑，暗示其对鬼王有所隐情。"}
+{"record_ref_or_local_id": "ev-local-1", "kind": "event", "chapter_order": 149, "note": "正道三派青云会盟开启，普泓率天音寺众僧抵达玉清殿"}
+{"record_ref_or_local_id": "claim-local-30", "kind": "claim", "chapter_order": 149, "note": "毒神临终遗命传位关门弟子秦无炎"}
+{"record_ref_or_local_id": "claim-local-33", "kind": "claim", "chapter_order": 149, "note": "秦无炎已清除噬血妖力并秘而不宣——万毒门内斗的关键隐藏信息"}
+{"record_ref_or_local_id": "claim-local-37", "kind": "claim", "chapter_order": 149, "note": "万毒神印公开陈列，成为三派争夺焦点"}
+{"record_ref_or_local_id": "claim-local-24", "kind": "claim", "chapter_order": 149, "note": "陆雪琪被责令望月台反省思过，未出席会盟"}
+{"record_ref_or_local_id": "claim-local-15", "kind": "claim", "chapter_order": 149, "note": "兽妖已至青云山以南七百里，威胁逼近青云山"}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-1", "note": "万毒门内乱爆发：秦无炎暗设七尾蜈蚣被苍松当场揭破，三位师兄率众围灵堂", "chapter_order": 150}
+{"buffer_kind": "event", "ref_or_local_id": "ev-local-3", "note": "兽妖浩劫升级：十三妖兽之一刍吾破城，被鬼王宗五人合诛", "chapter_order": 150}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-16", "note": "苍松向鬼王复命，坐实其为鬼王安插在万毒门的内应", "chapter_order": 150}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-19", "note": "鬼厉察觉鬼王今日状态异常（伏笔），未展开", "chapter_order": 150}
+{"buffer_kind": "claim", "ref_or_local_id": "claim-local-24", "note": "设定关键：刍吾为“兽妖座下十三妖兽之一”，妖兽有层级编制", "chapter_order": 150}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-8", "new_record_ref": null, "note": "万毒门权力更替：秦无炎现身拣起万毒神印并压服长老，为西南方向重大势力动向", "chapter_order": 151}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-2", "new_record_ref": null, "note": "兽妖主力由北转西南，本阶段战略背景的关键变化", "chapter_order": 151}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-3", "new_record_ref": null, "note": "正道派陆雪琪、李洵等弟子赴西南探查，直接影响后续剧情线", "chapter_order": 151}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "claim", "local_id": "claim-local-47", "new_record_ref": null, "note": "秦无炎指认苍松道人插手毒门内斗，跨势力暗线的关键陈述", "chapter_order": 151}
+{"kind": "event", "local_id": "ev-local-2", "reason": "鬼厉噬血珠反噬首次在正文爆发，为其身体状态关键转折，后续解法线索（八凶玄火法阵）由此埋下", "chapter_order": 152}
+{"kind": "event", "local_id": "ev-local-3", "reason": "兽妖洪流冲入毒蛇谷、鬼王亲自督战，是本阶段兽妖浩劫的核心军事行动", "chapter_order": 152}
+{"kind": "event", "local_id": "ev-local-4", "reason": "正道七弟子西南查探取得‘兽妖大胜魔教、毒蛇谷’关键情报，构成本阶段主线调查进展", "chapter_order": 152}
+{"kind": "claim", "local_id": "claim-local-34", "reason": "魔教三大派阀几乎全军覆没这一战力格局变化的关键陈述（出自疯癫魔教弟子，reported）", "chapter_order": 152}
+{"kind": "claim", "local_id": "claim-local-23", "reason": "鬼王‘以天下来弥补碧瑶’的自述，标示其行动动机与野心（reported）", "chapter_order": 152}
+{"kind": "claim", "local_id": "claim-local-43", "reason": "毒蛇谷或为魔教派阀总堂的推断，为后续战场定位线索（reported）", "chapter_order": 152}
+{"kind": "event", "ref_or_local_id": "ev-local-1", "note": "鬼王宗举派北迁蛮荒圣殿：魔教格局重大变动，鬼王宗成stage-010期间新根据地线索。", "chapter_order": 153}
+{"kind": "event", "ref_or_local_id": "ev-local-2", "note": "碧瑶留狐岐山、鬼厉留守照看；鬼王与鬼厉间未解的一问，鬼厉自此离开鬼王宗行动主线。", "chapter_order": 153}
+{"kind": "event", "ref_or_local_id": "ev-local-4", "note": "毒蛇谷惨状被正道七弟子亲眼确认：魔教三大派阀覆没的关键证据，为后续青云山回报作铺垫。", "chapter_order": 153}
+{"kind": "claim", "ref_or_local_id": "claim-local-6", "note": "小白失踪，鬼王亦不知去向——身份/动向悬念。", "chapter_order": 153}
+{"kind": "event", "local_id": "ev-local-4", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "why": "陆雪琪当面拒绝斩断情丝并被水月大师掌掴斥逐，是本阶段陆雪琪线的关键转折点", "chapter_order": 154}
+{"kind": "event", "local_id": "ev-local-1", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "why": "正道中枢确认魔教三大派阀覆没、判定兽妖将攻青云山，势力格局与备战决断的关键节点", "chapter_order": 154}
+{"kind": "claim", "local_id": "claim-local-30", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "why": "陆雪琪立誓「以天琊取他性命」，为后续与鬼厉相遇的关键承诺证据", "chapter_order": 154}
+{"kind": "claim", "local_id": "claim-local-25", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "why": "长辈（含道玄）已知陆雪琪与张小凡之事，显示宗门层面对此情的知情范围", "chapter_order": 154}
+{"kind": "claim", "local_id": "claim-local-3", "stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "why": "鬼王宗首要人物尸首未见，为鬼王宗残存/后续动向留下伏笔证据", "chapter_order": 154}
+{"kind": "event", "ref": "ev-local-3", "chapter": 155, "reason": "本阶段内鬼厉与神秘少年、饕餮的第二次相遇，牵涉少年身份谜题与后续走向", "chapter_order": 155}
+{"kind": "event", "ref": "ev-local-1", "chapter": 155, "reason": "鬼王宗总堂被完全封闭、鬼王率众赴蛮荒圣殿，是阶段内鬼王宗势力的重要动向", "chapter_order": 155}
+{"kind": "claim", "ref": "claim-local-3", "chapter": 155, "reason": "噬血珠反噬与鬼厉身体恶化，为主角状态关键证据", "chapter_order": 155}
+{"kind": "claim", "ref": "claim-local-6", "chapter": 155, "reason": "鬼王及鬼王宗众人前往蛮荒圣殿的势力动向证据", "chapter_order": 155}
+{"kind": "claim", "ref": "claim-local-12", "chapter": 155, "reason": "兽妖浩劫导致城镇荒废、百姓北逃的世界状态证据", "chapter_order": 155}
+{"record_type": "event", "local_id": "ev-local-6", "note": "鬼厉重返大竹峰并独坐张小凡旧居，为“身份与旧情”线的关键场面", "chapter_order": 156}
+{"record_type": "event", "local_id": "ev-local-3", "note": "田不易代宋大仁提亲被水月大师拒绝并争吵，大竹峰与小竹峰关系紧张", "chapter_order": 156}
+{"record_type": "event", "local_id": "ev-local-4", "note": "道玄派萧逸才上大竹峰，青云门为兽妖浩劫大举收容正道道友，第二事未明", "chapter_order": 156}
+{"record_type": "claim", "local_id": "claim-local-14", "note": "陆雪琪回山当日被水月大师重重责罚，为后续线索伏笔", "chapter_order": 156}
+{"record_type": "claim", "local_id": "claim-local-2", "note": "神秘少年提示北方情势紧张并试探鬼厉北上之意", "chapter_order": 156}
+{"record_type": "claim", "local_id": "claim-local-27", "note": "原文明确鬼厉即昔日大竹峰小弟子张小凡，身份关联可用作显式证据", "chapter_order": 156}
+{"local_id": "claim-local-18", "kind": "key_claim", "chapter_order": 157, "note": "道玄正式下定决心撤除青云山七脉山峰的天机印（reported，需向看守老人当面说出）"}
+{"local_id": "claim-local-7", "kind": "key_claim", "chapter_order": 157, "note": "田不易提出撤除七脉天机印的戾气反噬与持剑者道行侵蚀风险"}
+{"local_id": "claim-local-3", "kind": "key_claim", "chapter_order": 157, "note": "田不易当面对萧逸才推断掌门之位将传于他（道玄一方未确认）"}
+{"local_id": "ev-local-4", "kind": "key_event", "chapter_order": 157, "note": "鬼先生现身河阳城义庄，与周一仙、小环、野狗道人相遇"}
+{"local_id": "ev-local-3", "kind": "key_event", "chapter_order": 157, "note": "兽妖传闻蔓延，河阳城成为难民聚集地，青云门派弟子维持秩序"}
+{"kind": "event", "stage_id": "stage-010", "local_id": "ev-local-1", "note": "周一仙一行与鬼先生首次当面遭遇，鬼先生下逐客令", "chapter_order": 158}
+{"kind": "event", "stage_id": "stage-010", "local_id": "ev-local-2", "note": "周一仙据风水与阴气推断鬼先生为鬼道中人，并决定夜探", "chapter_order": 158}
+{"kind": "event", "stage_id": "stage-010", "local_id": "ev-local-3", "note": "夜探义庄，章末阴宅亮起暗绿火光（悬念）", "chapter_order": 158}
+{"kind": "claim", "stage_id": "stage-010", "local_id": "claim-local-5", "note": "周行云灵位（周一仙之子）出现于义庄", "chapter_order": 158}
+{"kind": "claim", "stage_id": "stage-010", "local_id": "claim-local-9", "note": "鬼先生被述为鬼王宗最神秘、似供奉类长老", "chapter_order": 158}
+{"kind": "claim", "stage_id": "stage-010", "local_id": "claim-local-11", "note": "鬼道/南疆巫术线索指向鬼先生", "chapter_order": 158}
+{"kind": "claim", "stage_id": "stage-010", "local_id": "claim-local-22", "note": "阴宅内出现幽幽暗绿火光", "chapter_order": 158}
+{"kind": "event", "local_id": "ev-local-2", "note": "周一仙以失传的“土遁异术”脱身，鬼先生亲口点出其名", "chapter_order": 159}
+{"kind": "event", "local_id": "ev-local-3", "note": "周一仙识破鬼先生鬼道修行方式；鬼先生以五星法阵“鬼嚎破”出手", "chapter_order": 159}
+{"kind": "event", "local_id": "ev-local-4", "note": "鬼厉现身阻止鬼先生杀周一仙三人，双方对峙延续至下一章", "chapter_order": 159}
+{"kind": "claim", "local_id": "claim-159-045", "note": "鬼厉提及周一仙与青云山那位老祖宗有关，属待核实的身份线索", "chapter_order": 159}
+{"kind": "claim", "local_id": "claim-159-047", "note": "鬼先生与鬼厉均自认鬼王宗中人；鬼先生自称不在蛮荒圣殿而来此", "chapter_order": 159}
+{"record_local_id": "claim-local-16", "kind": "claim", "note": "本阶段核心情报：诛仙剑阵之秘指向仅掌门可入的幻月洞府（角色陈述）", "salience": "high", "chapter_order": 160}
+{"record_local_id": "claim-local-13", "kind": "claim", "note": "对青云山决战双方胜算的判断：兽妖七成、正道靠诛仙剑阵（角色陈述）", "salience": "high", "chapter_order": 160}
+{"record_local_id": "claim-local-8", "kind": "claim", "note": "鬼先生否认掌握还魂之法，并自陈与鬼王有交情（角色陈述）", "salience": "medium", "chapter_order": 160}
+{"record_local_id": "claim-local-7", "kind": "claim", "note": "鬼厉指出鬼先生出身南疆巫术鬼道、非魔教", "salience": "medium", "chapter_order": 160}
+{"record_local_id": "ev-local-1", "kind": "event", "note": "鬼厉与鬼先生首次正面斗法并以罢手收场，双方均未尽力", "salience": "high", "chapter_order": 160}
+{"kind": "event", "local_id": "ev-local-3", "note": "兽妖威胁首次以空中巨鸟掳人的形式直接冲击河阳城，全城恐慌；本阶段“兽妖浩劫”推进的关键外部事件。", "weight": "high", "refs": ["claim-33", "claim-34", "claim-35"], "chapter_order": 161}
+{"kind": "claim", "local_id": "claim-29", "note": "鬼厉指出周一仙土遁之术与青云门祖师青云子的关联——周一仙身世线索的关键陈述，后续可能回填。", "weight": "high", "refs": [], "chapter_order": 161}
+{"kind": "claim", "local_id": "claim-11", "note": "水月大师在陆雪琪屋外伫立后默然离去，师徒僵局中水月一侧的态度留白，后续师徒关系走向的证据点。", "weight": "medium", "refs": [], "chapter_order": 161}
+{"kind": "claim", "local_id": "claim-04", "note": "田不易、苏茹带宋大仁向小竹峰提亲被水月大师回绝并与田不易争吵——两峰关系与文敏婚事的推算依据。", "weight": "medium", "refs": [], "chapter_order": 161}
+{"local_id": "ev-local-2", "kind": "event", "note": "正道三派在玉清殿确认兽妖逼近，道玄部署百里防线、河阳城百姓北撤、召六脉首座；本条为兽妖浩劫正面开战前的关键部署", "chapter_order": 162}
+{"claim_local_id": "claim-local-11", "kind": "claim", "note": "道玄当众宣告兽妖已至青云山二百里外（reported，角色说法）", "chapter_order": 162}
+{"claim_local_id": "claim-local-15", "kind": "claim", "note": "萧逸才称河阳城头巨大鸟妖与十三妖兽之一“修罗鸟”极为相似（reported）", "chapter_order": 162}
+{"local_id": "ev-local-3", "kind": "event", "note": "鬼厉向周一仙打探幻月洞府并独自离去，幻月洞府设定信息首度由周一仙口中铺开", "chapter_order": 162}
+{"claim_local_id": "claim-local-24", "kind": "claim", "note": "幻月洞府来历与门禁规则（reported，出自周一仙）", "chapter_order": 162}
+{"local_id": "ev-local-1", "kind": "event", "note": "兽妖群核心出现伞下少年与恶兽饕餮，巨鸟妖归队，兽妖方指挥层首次成型（本章未点名）", "chapter_order": 162}
+{"kind": "event", "local_id": "ev-local-5", "note": "兽妖大军抵河阳城外，正道决战进入临战状态", "chapter_order": 163}
+{"kind": "event", "local_id": "ev-local-7", "note": "鬼厉抵通天峰后山禁地，鬼先生主动提供幻月洞府法阵情报", "chapter_order": 163}
+{"kind": "event", "local_id": "ev-local-8", "note": "祖师祠堂方向的佝偻老人现身并邀茶，身份未明", "chapter_order": 163}
+{"kind": "claim", "local_id": "claim-local-10", "note": "无署名“后院起火！”字条交付林惊羽，成为其后文行动的引线", "chapter_order": 163}
+{"kind": "claim", "local_id": "claim-local-20", "note": "大竹峰守静堂暗供“师兄万剑一灵位”，田不易私下拜祭", "chapter_order": 163}
+{"kind": "claim", "local_id": "claim-local-38", "note": "鬼先生对幻月洞府法阵与古剑诛仙的陈述（reported，未经证实）", "chapter_order": 163}
+{"kind": "claim", "local_id": "claim-local-40", "note": "进入幻月洞府须以太极玄清道上清境界为匙（reported）", "chapter_order": 163}
+{"target_ref_or_local_id": "ev-local-2", "kind": "event", "note": "身份揭示：青云山祖师祠堂扫地老者即万剑一，鬼先生当面道破并有旧交关系（左手指恩情）", "chapter_order": 164}
+{"target_ref_or_local_id": "ev-local-4", "kind": "event", "note": "鬼先生从背后以掌力暗算万剑一，致其骨碎垂死；本章标题“暗算”所指", "chapter_order": 164}
+{"target_ref_or_local_id": "claim-local-17", "kind": "claim", "note": "万剑一当面称鬼厉即十年前被逐出青云、投靠魔教的张小凡（角色陈述，鬼厉未辩解）", "chapter_order": 164}
+{"target_ref_or_local_id": "claim-local-21", "kind": "claim", "note": "鬼厉同时施展太极玄清道、大梵般若与噬魂妖力，佛道魔三法融合，被万剑一认出并震惊", "chapter_order": 164}
+{"target_ref_or_local_id": "claim-local-12", "kind": "claim", "note": "万剑一背景：青云门诸长老首座为之纷争、苍松道人因此背叛青云", "chapter_order": 164}
+{"buffer_type": "event", "local_id": "ev-local-1", "stage_id": "stage-010", "note": "万剑一身死（骨骼尽碎）并以血字留“小心”，为连续多条线索的关键节点", "chapter_order": 165}
+{"buffer_type": "event", "local_id": "ev-local-2", "stage_id": "stage-010", "note": "青云山兽妖攻势正式启动，黑云少年号令兽群", "chapter_order": 165}
+{"buffer_type": "event", "local_id": "ev-local-4", "stage_id": "stage-010", "note": "幻月洞府幻象：涉及鬼厉身世与童年、老和尚形象，需跨章跟踪解读", "chapter_order": 165}
+{"buffer_type": "claim", "local_id": "claim-local-24", "stage_id": "stage-010", "note": "鬼厉对无名古卷与古剑在洞府内的猜测，与青云门根本相关", "chapter_order": 165}
+{"buffer_type": "identity", "local_id": null, "stage_id": "stage-010", "note": "待核实：鬼厉所遇“神秘老人”与万剑一是否同一人", "chapter_order": 165}
+{"kind": "event", "local_id": "ev-local-3", "chapter": 166, "note": "鬼厉与普智相对、普智倒下的关键场景（性质存疑，已在 issue_candidates 标注）", "chapter_order": 166}
+{"kind": "event", "local_id": "ev-local-4", "chapter": 166, "note": "兽妖以怪异号声统一进退并投入巨大妖兽，光幕被破口——决战态势升级", "chapter_order": 166}
+{"kind": "claim", "local_id": "claim-local-9", "chapter": 166, "note": "道玄真人调派萧逸才率近百精英弟子的指挥决定", "chapter_order": 166}
+{"kind": "claim", "local_id": "claim-local-26", "chapter": 166, "note": "陆雪琪战场上的异常状态，疑为后续转折伏笔", "chapter_order": 166}
+{"kind": "claim", "local_id": "claim-local-8", "chapter": 166, "note": "道玄望见天空黑云中的神秘身影", "chapter_order": 166}
+{"record_local_id": "ev-local-1", "kind": "event", "note": "青云山决战中六大妖兽成为战局关键，白骨妖蛇可被天琊神剑所伤", "chapter_order": 167}
+{"record_local_id": "ev-local-2", "kind": "event", "note": "道玄遣空正道最后数十位长老，并向六脉首座托付“原先计议的那件事”", "chapter_order": 167}
+{"record_local_id": "ev-local-3", "kind": "event", "note": "田不易与道玄关于天机印/诛仙古剑反噬的关键对话", "chapter_order": 167}
+{"record_local_id": "ev-local-5", "kind": "event", "note": "幻月洞府洞口首次开启，为后续关键场景", "chapter_order": 167}
+{"record_local_id": "claim-local-15", "kind": "claim", "note": "天机印—诛仙古剑反噬风险的关键陈述（reported，出自田不易）", "chapter_order": 167}
+{"ref_or_local_id": "ev-local-1", "kind": "event", "rationale": "青云山决战中六只巨大妖兽被诛、四位青云长老战死，是 stage 内战局转折的关键节点", "chapter_order": 168}
+{"ref_or_local_id": "ev-local-2", "kind": "event", "rationale": "兽神正式现身战场，万兽啸天，是 stage 标题所指决战的重大节点", "chapter_order": 168}
+{"ref_or_local_id": "claim-local-8", "kind": "claim", "rationale": "道玄真人对兽神身份的当面判断（reported）", "chapter_order": 168}
+{"ref_or_local_id": "ev-local-4", "kind": "event", "rationale": "鬼厉承认杀害祖师祠堂老人，林惊羽与鬼厉关系定性关键证据", "chapter_order": 168}
+{"ref_or_local_id": "claim-local-20", "kind": "claim", "rationale": "叙述并称张小凡/鬼厉，为身份合并候选的依据", "chapter_order": 168}
+{"record_ref_or_local_id": "ev-local-2", "kind": "event", "note": "兽神以六具妖兽尸骨拼合出更强白骨恶灵，青云山战场出现战力跃升", "chapter_order": 169}
+{"record_ref_or_local_id": "ev-local-3", "kind": "event", "note": "正道三大领袖首次集体出手，云易岚焚香谷玄火奇术重创恶灵", "chapter_order": 169}
+{"record_ref_or_local_id": "claim-local-22", "kind": "claim", "note": "焚香谷玄火奇术实战效果：从白骨内部炸出丈余赤焰，为重创恶灵的关键手段", "chapter_order": 169}
+{"record_ref_or_local_id": "claim-local-23", "kind": "claim", "note": "悬念：正道众人欢呼，三大领袖面色阴沉（本章未解释）", "chapter_order": 169}
+{"kind": "event", "local_record_id": "ev-local-2", "chapter_order": 170, "salience": "high", "note": "正道三大领袖中普泓上人于大悲金轮之战中吐血败退，已有两位领袖在兽神手下吃亏"}
+{"kind": "event", "local_record_id": "ev-local-3", "chapter_order": 170, "salience": "high", "note": "诛仙古剑十年后重现，道玄真人持剑临阵，与兽神的最后决战将启"}
+{"kind": "claim", "local_record_id": "claim-local-26", "chapter_order": 170, "salience": "high", "note": "诛仙古剑自寒冰潭由水麒麟吐出，经道玄真人接住，为关键法宝登场事实"}
+{"kind": "claim", "local_record_id": "claim-local-29", "chapter_order": 170, "salience": "medium", "note": "兽神以讥讽口吻评价诛仙古剑为凶戾之剑，为后续伏笔性陈述"}
+{"kind": "key_event", "local_id": "ev-local-3", "chapter_order": 171, "note": "诛仙剑阵首次在决战中完整凝成并发动"}
+{"kind": "key_event", "local_id": "ev-local-4", "chapter_order": 171, "note": "道玄真人（诛仙剑阵）与兽神正面交手开始，胜负未分"}
+{"kind": "key_statement", "local_id": "claim-local-7", "chapter_order": 171, "note": "林惊羽当面向鬼厉宣布情义两断"}
+{"kind": "key_statement", "local_id": "claim-local-30", "chapter_order": 171, "note": "道玄真人劝降条件：降则自闭青云山一生可饶命"}
+{"kind": "turning_point", "local_id": "ev-local-2", "chapter_order": 171, "note": "幻月洞府异动、紫气如柱冲天，打断幻月洞府前对峙"}
+{"kind": "faction_move", "local_id": "claim-local-24", "chapter_order": 171, "note": "青云七脉灵气（通天峰紫气＋六峰六色光芒）合入诛仙古剑，表明七脉合力发动剑阵"}
+{"kind": "event", "local_id": "ev-local-1", "note": "诛仙剑阵击散兽神所御恶灵巨兽（本阶段决战进程节点）", "chapter_order": 172}
+{"kind": "event", "local_id": "ev-local-3", "note": "兽神化为十丈千手百头怪物，战局升级", "chapter_order": 172}
+{"kind": "event", "local_id": "ev-local-4", "note": "林惊羽与鬼厉在幻月洞府前生死相搏", "chapter_order": 172}
+{"kind": "claim", "local_id": "claim-local-6", "note": "兽神本体藏于恶灵躯干黑气中现身", "chapter_order": 172}
+{"kind": "claim", "local_id": "claim-local-10", "note": "兽神警告诛仙古剑凶戾、剑灵反噬（关键陈述）", "chapter_order": 172}
+{"kind": "claim", "local_id": "claim-local-9", "note": "道玄驭剑时面上掠过痛苦之色", "chapter_order": 172}
+{"kind": "claim", "local_id": "claim-local-22", "note": "鬼厉碰撞瞬间脸上掠过金色异芒", "chapter_order": 172}
+{"kind": "claim", "local_id": "claim-local-23", "note": "陆雪琪面上同样闪过金色异光并回望后山", "chapter_order": 172}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-2", "note": "道玄真人违祖师禁制发动天机印，诛仙主剑归一为白色巨剑——本阶段核心转折", "chapter_order": 173}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-1", "note": "道玄以诛仙剑阵对撼兽神受重创，剑阵范围减半", "chapter_order": 173}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "claim", "local_id": "claim-local-11", "note": "道玄胸口中掌、吐血染剑的关键受伤事实", "chapter_order": 173}
+{"stage_ref": {"path": "navigation/stage-plan.json", "record_id": "stage-010"}, "kind": "event", "local_id": "ev-local-3", "note": "陆雪琪悄然离群奔向后山，与主战场线分离", "chapter_order": 173}
+{"kind": "key_event", "local_id": "ev-local-3", "note": "诛仙主剑刺穿兽神，青云山决战正面战局终结", "chapter_order": 174}
+{"kind": "key_event", "local_id": "ev-local-4", "note": "诛仙古剑被震出裂缝；道玄真人反噬昏厥；兽神遁走；诛仙剑失踪", "chapter_order": 174}
+{"kind": "key_claim", "local_id": "claim-local-23", "note": "诛仙古剑剑刃现裂缝——神器受损的关键事实", "chapter_order": 174}
+{"kind": "key_claim", "local_id": "claim-local-25", "note": "道玄真人七窍流血、云端栽倒，正道最高战力受创", "chapter_order": 174}
+{"kind": "key_claim", "local_id": "claim-local-30", "note": "诛仙古剑坠落后山，落在鬼厉/林惊羽/陆雪琪面前", "chapter_order": 174}
+{"kind": "key_claim", "local_id": "claim-local-14", "note": "陆雪琪出手护住鬼厉并与林惊羽对立的关键互动", "chapter_order": 174}
+{"kind": "turning_point", "subject_ref_or_candidate": {"path": "characters/char-0002/index.json", "record_id": "char-0002"}, "local_id": "claim-local-5", "note": "林惊羽承认鬼厉已胜过自己，情绪转入极端", "chapter_order": 174}
+{"kind": "event", "local_id": "ev-local-4", "note": "鬼厉以《天书》异术实战首秀，并刺伤其肩、重创陆雪琪后收手", "chapter_order": 175}
+{"kind": "event", "local_id": "ev-local-5", "note": "鬼厉首次砸击诛仙古剑；本章末悬念点", "chapter_order": 175}
+{"kind": "claim", "local_id": "claim-local-21", "note": "鬼厉异术来源=三卷《天书》自悟（非三门所有）", "chapter_order": 175}
+{"kind": "claim", "local_id": "claim-local-23", "note": "陆雪琪亦私研《天书》第三卷，门中长老未察觉", "chapter_order": 175}
+{"kind": "claim", "local_id": "claim-local-34", "note": "诛仙古剑能吸噬活物精血（与噬血珠同类）", "chapter_order": 175}
+{"kind": "claim", "local_id": "claim-local-30", "note": "诛仙剑刃已有细裂痕", "chapter_order": 175}
+{"kind": "claim", "local_id": "claim-local-17", "note": "青云门人群向后山搜索，逼近幻月洞府", "chapter_order": 175}
+{"record_type": "event", "local_id": "ev-local-4", "reason": "本阶段核心转折：诛仙古剑断裂、天地变色，与 stage-010 标题所指决战终点直接对应", "chapter_order": 176}
+{"record_type": "event", "local_id": "ev-local-5", "reason": "鬼厉重伤逃亡、追捕未决，为阶段收束处的悬念", "chapter_order": 176}
+{"record_type": "claim", "local_id": "claim-local-12", "reason": "鬼厉佛道魔三门真法首次合一并反吸诛仙红气的关键能力陈述", "chapter_order": 176}
+{"record_type": "claim", "local_id": "claim-local-8", "reason": "陆雪琪在鬼厉濒死时的直接反应，为后续关系线提供互动事实", "chapter_order": 176}
+{"record_type": "claim", "local_id": "claim-local-21", "reason": "诛仙古剑断折的原文明确记述，需留存原文片段作后续一致性核对", "chapter_order": 176}
+{"kind": "event", "local_id": "ev-local-3", "chapter_order": 177, "note": "阶段收尾关键事件：重伤的鬼厉在即将被擒时被一批黑衣高手劫走，青云门搜捕失败。"}
+{"kind": "claim", "local_id": "claim-local-18", "chapter_order": 177, "note": "曾叔常明确判断劫人者所用并非魔教道法——指向第三方势力介入鬼厉事件。"}
+{"kind": "claim", "local_id": "claim-local-21", "chapter_order": 177, "note": "鬼先生对「有人对鬼厉感兴趣」感到迷惑，可排除劫人者为其本人。"}
+{"kind": "claim", "local_id": "claim-local-7", "chapter_order": 177, "note": "曾叔常回忆百年前随长门万剑一冲入蛮荒直捣魔教老巢，并认为万剑一「英年早逝」，涉及青云门旧事与万剑一生死认知。"}
+{"kind": "claim", "local_id": "claim-local-20", "chapter_order": 177, "note": "曾书书对鬼厉的暗中倾向（宁其被劫走亦不愿其落于青云门手中），为十年旧交情提供互动证据。"}

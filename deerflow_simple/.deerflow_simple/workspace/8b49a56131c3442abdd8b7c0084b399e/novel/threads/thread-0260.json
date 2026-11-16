@@ -1,0 +1,30 @@
+{
+  "id": "thread-0260",
+  "introduced_at": 187,
+  "kind": "story_thread",
+  "label": "鬼王密令：南疆追杀兽神，活捉饕餮带回蛮荒",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 187,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "quest",
+      "chapter_ranges": [
+        {
+          "end": 187,
+          "start": 187
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0260-001",
+      "resolution_refs": [],
+      "revealed_at": 187,
+      "role": "primary",
+      "status": "open",
+      "summary": "鬼厉应下前往南疆追杀败逃的兽神；鬼王另私下要求无论如何须将兽神身边的恶兽饕餮活着捉回蛮荒，称此事关系甚大，缘由未明。"
+    }
+  ]
+}

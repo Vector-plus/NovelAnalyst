@@ -1,0 +1,30 @@
+{
+  "id": "thread-0275",
+  "introduced_at": 194,
+  "kind": "story_thread",
+  "label": "十万大山恶兽随兽神外出的去向",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 194,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "plot_thread",
+      "chapter_ranges": [
+        {
+          "end": 194,
+          "start": 194
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0275-001",
+      "resolution_refs": [],
+      "revealed_at": 194,
+      "role": "supporting",
+      "status": "open",
+      "summary": ""
+    }
+  ]
+}

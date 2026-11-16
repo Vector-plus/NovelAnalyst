@@ -1,0 +1,30 @@
+{
+  "id": "thread-0259",
+  "introduced_at": 184,
+  "kind": "story_thread",
+  "label": "无字玉壁浮现「天地不仁，以万物为刍狗」",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 184,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 184,
+          "start": 184
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0259-001",
+      "resolution_refs": [],
+      "revealed_at": 184,
+      "role": "main",
+      "status": "open",
+      "summary": "镇压失败之际，无字玉壁上如深深刻镂般现出一排大字「天地不仁，以万物为刍狗」，另有无数金色古拙字体在金光红芒间闪烁跃动，其含义与来历尚未解释。"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "current": {
-    "current_summary": "南下南疆追查焚香谷被袭与同门被杀之事：第120章划下深痕、宣告与鬼厉断情并约定再见为敌，吐血离去；第121章仍主动向正道提供七里峒线索；第127章当面呼「张小凡」并与之正面交手；身上另有一股非青云门的淡金色力量被鬼厉察觉；第129章确认李洵以玉尺伤鬼厉右肩。"
+    "current_summary": "当殿拒焚香谷求婚，拒斩情丝被水月大师掌掴斥逐并立誓以天琊取鬼厉性命；奉命赴西南查探兽妖，青云山决战中疑受异力感应奔向后山，出手护住鬼厉并与林惊羽对立，私研《天书》第三卷，终被鬼厉重创。"
   },
   "entity_type": "character",
   "entries": [
@@ -128,6 +128,31 @@
         "record_id": "doc-char-0002-stage-008"
       },
       "title": "七里峒断情：与鬼厉的公开对立"
+    },
+    {
+      "chapter_ranges": [
+        {
+          "end": 177,
+          "start": 144
+        }
+      ],
+      "entity_refs": [
+        {
+          "path": "characters/char-0002/index.json",
+          "record_id": "char-0002"
+        }
+      ],
+      "kind": "character_stage",
+      "safe_through": 177,
+      "summary": "拒婚、断情与后山抉择阶段（第144—177章）",
+      "tags": [
+        "character"
+      ],
+      "target": {
+        "path": "characters/char-0002/stages/stage-010.md",
+        "record_id": "doc-char-0002-stage-010"
+      },
+      "title": "拒婚、断情与后山抉择阶段"
     }
   ],
   "id": "char-0002",
@@ -138,7 +163,7 @@
   "label": "林惊羽",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
   "related_materials": [],
-  "revision": 11,
-  "safe_through": 133,
+  "revision": 13,
+  "safe_through": 177,
   "schema_version": "2.0"
 }

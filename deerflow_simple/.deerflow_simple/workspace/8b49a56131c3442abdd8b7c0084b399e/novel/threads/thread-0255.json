@@ -1,0 +1,30 @@
+{
+  "id": "thread-0255",
+  "introduced_at": 182,
+  "kind": "story_thread",
+  "label": "普泓上人的归隐之念",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 182,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "foreshadowing",
+      "chapter_ranges": [
+        {
+          "end": 182,
+          "start": 182
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0255-001",
+      "resolution_refs": [],
+      "revealed_at": 182,
+      "role": "setup",
+      "status": "ongoing",
+      "summary": "普泓上人自称在普智去世后便有隐世之心，因门下无人而拖延；如今法相开悟，他表示可放心归去，但称此事并不急迫，需先安顿一切。（其说法为普泓本人陈述）"
+    }
+  ]
+}

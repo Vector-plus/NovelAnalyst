@@ -1,0 +1,30 @@
+{
+  "id": "thread-0263",
+  "introduced_at": 187,
+  "kind": "story_thread",
+  "label": "田不易情绪异常",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 187,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 187,
+          "start": 187
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0263-001",
+      "resolution_refs": [],
+      "revealed_at": 187,
+      "role": "secondary",
+      "status": "open",
+      "summary": "田不易大清早斥狗、下令宰狗，午饭时闭门不出；苏茹称他“有些心思”、情绪不好，并露出奇异神色，具体心事未明。"
+    }
+  ]
+}

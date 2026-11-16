@@ -1,0 +1,30 @@
+{
+  "id": "thread-0258",
+  "introduced_at": 184,
+  "kind": "story_thread",
+  "label": "噬血珠戾气与鬼厉心魔未除",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 184,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 184,
+          "start": 184
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0258-001",
+      "resolution_refs": [],
+      "revealed_at": 184,
+      "role": "main",
+      "status": "open",
+      "summary": "普泓以无字玉壁与佛门伏魔大阵镇压三日，戾气与心魔均未化解；三日后噬魂黑气布满鬼厉面庞，他长啸腾空、佛字真言轰散，玉壁转为金光红芒争斗。"
+    }
+  ]
+}

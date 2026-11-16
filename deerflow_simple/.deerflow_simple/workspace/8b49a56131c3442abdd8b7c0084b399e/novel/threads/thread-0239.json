@@ -1,0 +1,30 @@
+{
+  "id": "thread-0239",
+  "introduced_at": 151,
+  "kind": "story_thread",
+  "label": "万毒门门主之位之争",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 151,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "conflict",
+      "chapter_ranges": [
+        {
+          "end": 151,
+          "start": 151
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0239-001",
+      "resolution_refs": [],
+      "revealed_at": 151,
+      "role": "resolution",
+      "status": "closed",
+      "summary": "毒神死后三派血战数日，段如山夺得万毒神印即中毒身亡，秦无炎现身拣印，长老退让，其掌权之势已成。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0262",
+  "introduced_at": 187,
+  "kind": "story_thread",
+  "label": "鬼厉道行骤进与救他的黑衣人身份",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 187,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 187,
+          "start": 187
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0262-001",
+      "resolution_refs": [],
+      "revealed_at": 187,
+      "role": "secondary",
+      "status": "open",
+      "summary": "鬼先生两次提及鬼厉短期内道行精进异常，并追问那一日救他的那群黑衣人来自何方。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thread-0284",
+  "introduced_at": 203,
+  "kind": "story_thread",
+  "label": "八凶玄火法阵与玄火鉴的参悟条件",
+  "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
+  "revision": 1,
+  "safe_through": 203,
+  "schema_version": "2.0",
+  "updates": [
+    {
+      "category": "mystery",
+      "chapter_ranges": [
+        {
+          "end": 203,
+          "start": 203
+        }
+      ],
+      "claim_refs": [],
+      "claims": [],
+      "event_refs": [],
+      "id": "update-thread-0284-001",
+      "resolution_refs": [],
+      "revealed_at": 203,
+      "role": "main",
+      "status": "ongoing",
+      "summary": "据兽神所述，八凶玄火法阵阵图仅余镇魔古洞与焚香谷玄火坛两处（后者已损毁），且法阵系玲珑为禁制他而设，他死则阵灭，故女子需依赖他发动法阵；女子手中无玄火鉴。"
+    }
+  ]
+}
