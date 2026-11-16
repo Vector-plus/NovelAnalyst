@@ -330,13 +330,13 @@
   "id": "idx-events",
   "kind": "index",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 214,
-  "safe_through": 213,
+  "revision": 216,
+  "safe_through": 215,
   "schema_version": "2.0",
   "scope": {
     "chapter_ranges": [
       {
-        "end": 213,
+        "end": 215,
         "start": 1
       }
     ],

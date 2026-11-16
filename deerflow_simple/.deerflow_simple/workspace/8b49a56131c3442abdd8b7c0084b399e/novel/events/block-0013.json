@@ -9964,12 +9964,1973 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ev-1062",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "鬼厉以佛道魔三法合一挡下八荒火龙首击",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7622"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7623"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7625"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7622",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉在扑面烈焰前祭起噬魂魔棒，令其离开手掌漂浮于身前半空，双手结成类似佛家法印之结印，掌心泛起的却是略带诡异的暗红之光。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7623",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "混杂了魔教异术的种种异象",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "噬魂竖立虚空，顶端噬血珠飘起佛门金色真言，鬼厉胸前与噬魂之间的空气扭曲，凝成一个太极图案，光芒混杂魔教异术而非青云门道家清光。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7624",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "第一次，同时在一个人身上融会贯通",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "叙述称世间最强大的几门修真法门第一次同时在一个人身上融会贯通而施展出来。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7625",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "竟被鬼厉挡了下来",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八荒火龙这一击竟被鬼厉挡了下来，噬魂散出金、青、红三色光芒凝作无形之壁护住主人。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7626",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "趴在鬼厉肩头的猴子小灰三只眼睛变得血红凶恶，向八荒火龙怒吼了一声。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7627",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪扶住颤抖的鬼厉时察觉其整个身体异样火烫，令她手心有灼伤般的痛觉，且鬼厉虽保持结印姿势，双手双臂却不由自主地颤抖。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7628",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "一击无功后，八荒火龙巨大龙首微微摆动并缓缓低下，向两人望去，并未立刻再度发动攻击。"
+            }
+          ],
+          "id": "update-1062",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7625"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7627"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7628"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0036/index.json",
+                "record_id": "char-0036"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0345/index.json",
+                "record_id": "char-0345"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "石室化为熔岩地狱，八荒火龙喷来巨焰。鬼厉祭起噬魂、结佛家法印，胸前凝成混杂魔教异术的太极图案，硬接一击未死，但身受火烫之创，双臂不由自主颤抖。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-1063",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "天琊与噬魂合击击破熔岩火柱",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7629"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7632"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7629",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪祭出天琊神剑，踏上一步将鬼厉的身子挡在身后，决然面对八荒火龙。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7630",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八荒火龙龙首之后的八凶神像光圈开始闪烁，火龙似受催促般再度发出怒吼，地面岩块融解为岩浆之海。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7631",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "岩浆之海上被扯出一个宽达数丈的巨大漩涡，从漩涡深处直射出完全由岩浆组成、足有十人合抱之粗的炽热之柱，冲向鬼厉与陆雪琪。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7632",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪的天琊与鬼厉的噬魂同时飞驰而出，青、蓝二色光辉不避不闪，向熔岩火柱当头刺去。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7633",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "巨大的熔岩火柱颓然倒塌",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "青蓝相间光辉刺穿熔岩火柱，火柱上涌现无数细小口子后颓然倒塌，重新化作岩浆落到脚下的熔岩之海。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7634",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "火柱破后，鬼厉与陆雪琪衣裳到处烧焦烧破、皮肤有受伤痕迹，脸色疲倦，鬼厉胸口与嘴角被血染红；两人相拥而手仍握在一起，法宝散出灿烂光华，随后升至半空面对龙首。"
+            }
+          ],
+          "id": "update-1063",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7633"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7634"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0345/index.json",
+                "record_id": "char-0345"
+              },
+              "role": "initiator"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "八凶神像催动八荒火龙，岩浆漩涡射出十人合抱粗的熔岩之柱。陆雪琪先以天琊挡在鬼厉身前，随后两人同时出手，青蓝二色法宝直刺火柱，将其击穿倒塌。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7630"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7631"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1064",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "兽神融入八荒火龙并喷出纯质之火",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7636"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7638"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7636",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "慢慢融合了进去",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八凶神像光圈再度明亮，其中兽神融身的那团火焰第一次盖过周围神像，整个光圈第一次离开龙首背后缓缓下沉，那团火焰降临火龙头顶并慢慢融入其头颅；八面神像随之黯淡。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7637",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "充斥了人类复杂疯狂情感的眼睛",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "融合之后八荒火龙眼中燃烧的不再是红润透明的火焰，而是一双充斥人类复杂疯狂情感的眼睛。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7638",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "纯质之火",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八荒火龙仰天张口，从龙口中喷出没有任何杂质与喧哗的纯粹火焰「纯质之火」，形如细如人身大小的浑圆火柱飞向鬼厉与陆雪琪。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7639",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "面对纯质之火，天琊慢慢垂下、噬魂回到鬼厉手中，青蓝光华消退；叙述称没有任何人力可以在这无法抗拒的纯质之火中抵挡。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7640",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "纯质之火逼近时，鬼厉的袖袍毫无预兆化作灰色粉末散去，接着是整只手臂的衣物。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7641",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉心中淡淡地想「就这样死了么」，并低低苦笑，认为自己的心愿终究无法了却。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7635",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉身体因痛苦不由自主颤抖、胸口血印扩大时，陆雪琪伸手搂住他的腰将他拉近靠在自己身上；她转头看着他，慢慢点头轻轻笑了，鬼厉也露出带着血的微笑。"
+            }
+          ],
+          "id": "update-1064",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7637"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7639"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7640"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0209/index.json",
+                "record_id": "char-0209"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0345/index.json",
+                "record_id": "char-0345"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "八凶神像光圈再次明亮，携兽神所化火焰离开龙首背后下沉，融入八荒火龙头颅；火龙随即显出人类般复杂疯狂的眼睛，喷出纯净的“纯质之火”。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7635"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1065",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "玄火鉴现出玲珑幻象，兽神扑火而没",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7643"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7644"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7647"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7649"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7642",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "正是玄火鉴",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "最后关头鬼厉大叫一声将陆雪琪拉到身后，其手掌之间突然多了一块似玉非玉、周围一圈翠玉环绕、中间有古老火焰图案的牌子，正是玄火鉴。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7643",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "纯质之火射在玄火鉴上，远处的八凶神像猛然一颤，八荒火龙的龙头也为之一窒，场上所有事物仿佛停顿。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7644",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "贪婪地吸取着这世间最纯质的火焰精华",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "玄火鉴炽热得令鬼厉无法握住，离手后不落地面反升至半空，正中古拙火焰图案在纯质之火焚烧下贪婪吸取火焰精华。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7645",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "竟然和守在镇魔古洞洞口之外的玲珑巫女石像一模一样",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "玄火鉴散发炽热气息与梦幻白色烟雾，烟雾中慢慢凝结成一个衣着古朴、手握法杖的女子身影，其面容与守在镇魔古洞洞口之外的玲珑巫女石像一模一样。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7646",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "兽神全身枯槁",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八荒火龙露出痛苦神色，兽神真身从其龙首上方脱出，火光消散后可见兽神全身枯槁，仿佛油尽灯枯。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7647",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "他竟然真的抱住了，那个躯体",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "兽神眼中只有烟雾中的女子，飞扑而去并抱住那个躯体，女子微笑着张开双臂拥抱他，并用手轻轻抚摸他的头发。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0209/index.json",
+                "record_id": "char-0209"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7648",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "他低声呼唤着",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "兽神低声呼唤「玲珑……玲珑……」，如孩子般满足地闭上眼睛。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7649",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "吞没了所有",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "失去禁制的八荒火龙发出怒吼并向兽神喷出愤怒火焰，兽神与女子的两个身影在火海之中慢慢消失。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7650",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "玄火鉴从半空直落下来落在鬼厉手边，鬼厉在震动中下意识伸手接住。"
+            }
+          ],
+          "id": "update-1065",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7645"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7648"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7650"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0209/index.json",
+                "record_id": "char-0209"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0248/index.json",
+                "record_id": "char-0248"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0345/index.json",
+                "record_id": "char-0345"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "witness"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "纯质之火将临时鬼厉取出玄火鉴，火焰射在鉴上被其吸取；玄火鉴升空，白烟凝成与洞口玲珑巫女石像容貌一致的女子身影。兽神脱离龙首、枯槁扑向女子并被抱住，随后失控的八荒火龙喷火将两者吞没。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7642"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1066",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "石室崩塌、空间吞噬八荒火龙，二人借玄火鉴逃生",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7652"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7651",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "那道巨大的缝隙开始缓缓收缩",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "八荒火龙所处之处的巨大缝隙缓缓收缩，火龙发出充满不甘的咆哮、无法阻挡自己的头颅被空间吞噬，临去向这个空间喷出最后一道可怖之火。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7652",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "所有熔岩一起沸腾爆炸，石壁完全融解，巨大空间如沙子般纷纷倒塌，无数岩浆洪流向四面八方冲射。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7653",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "纯正温和的光环",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉与陆雪琪无力逃生之际，玄火鉴发出一道纯正温和的光环笼罩二人，将他们包裹在光罩中迅速向上方升去。"
+            }
+          ],
+          "id": "update-1066",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7653"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "recipient"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0345/index.json",
+                "record_id": "char-0345"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "空间缝隙缓缓收缩，八荒火龙被吞回，临去喷出最后一道火；熔岩沸腾爆炸、石壁融解、空间倒塌。玄火鉴发出纯正光环笼罩鬼厉与陆雪琪，将两人向上带离。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7651"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1067",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "镇魔古洞洞口：玲珑石像碎裂，黑虎殒没，黑木离去",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7657"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7658"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7660"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7661"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7656",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "竟然瞬间碎裂",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "守护镇魔古洞千万年的玲珑巫女石像在热浪中瞬间碎裂，散做无数小块并被涌来的热浪吞没。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0328/index.json",
+                "record_id": "char-0328"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7657",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑虎如发狂一般狂笑，大声呼喊「来了，来了，这一天终于来了啊」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0328/index.json",
+                "record_id": "char-0328"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7658",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑虎仰天长啸，状如癫狂地呼喊「娘娘，娘娘，您等等我，我就来了啊」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0328/index.json",
+                "record_id": "char-0328"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7659",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "将他的身影吞没了",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑虎守在镇魔古洞洞口仰天狂笑，很快被无数坍塌碎石和疯狂四溅的岩浆洪流吞没。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0252/index.json",
+                "record_id": "char-0252"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7660",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "我还有未了之事",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑木大声说「不，不，我不能就这样，我还有未了之事」。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0252/index.json",
+                "record_id": "char-0252"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7661",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "黑木身形一转，如飞一般离开镇魔古洞这个即将毁灭的地方，未理会黑虎。"
+            }
+          ],
+          "id": "update-1067",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7656"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7659"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0328/index.json",
+                "record_id": "char-0328"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0252/index.json",
+                "record_id": "char-0252"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "洞口玲珑巫女石像瞬间碎裂消散。黑虎狂笑高呼末日到来，又向石像呼喊等待自己，最终被坍塌碎石与岩浆吞没；黑木称尚有未了之事，先行飞身离开。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7656"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1068",
+      "introduced_at": 214,
+      "kind": "event",
+      "safe_through": 214,
+      "title": "十万大山塌陷，火雨三日",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7654"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 214,
+              "start": 214
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7654",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "十万大山中耸立千万年的焦黑山峰在岩浆怒涌中渐渐塌陷，冲天岩浆直插天际。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7655",
+              "revealed_at": 214,
+              "source_refs": [
+                {
+                  "anchor": "一直下了三天三夜",
+                  "chapter_id": "ch-000214",
+                  "chapter_order": 214,
+                  "path": "source/vol-006/ch-000214.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "天际下起火雨，在十万大山之中一直下了三天三夜。"
+            }
+          ],
+          "id": "update-1068",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7655"
+            }
+          ],
+          "participants": [],
+          "related_event_refs": [],
+          "revealed_at": 214,
+          "status": "closed",
+          "story_time": null,
+          "summary": "十万大山无数山峰塌陷，岩浆冲天；天际落火雨，在群山中下了三天三夜。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-1069",
+      "introduced_at": 215,
+      "kind": "event",
+      "safe_through": 215,
+      "title": "焚香谷山河殿密议：天火之谋受挫，遣上官策入十万大山",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7675"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7676"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7678"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 215,
+              "start": 215
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7662",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "焚香谷除李洵等一批精英弟子已进入十万大山外，大多数弟子或在谷中值岗巡逻，或在房中修行，山河殿一带格外冷清。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7663",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "是他的师弟上官策",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "locator": "第3~6段",
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚与其师弟上官策站在山河殿大门内，默然眺望南方十万大山深处冲天而起的巨大火柱（挟赤红岩浆、黑灰云层与岩石碎片），脚下隐隐感到大地微颤。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7664",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "可以毁去镇魔古洞，可以杀死那个妖孽么",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说：「想不到，这世上竟然真的有人可以毁去镇魔古洞，可以杀死那个妖孽么？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0129/index.json",
+                "record_id": "char-0129"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7665",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "当日青云门道玄既然可以重创兽神",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "上官策说：当日青云门道玄既然可以重创兽神，如今有人想出法子杀死兽妖，也不算太过惊讶的事。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7666",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "百年心血，就这般前功尽弃了",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚苦笑着说：「人算终究不如天算，百年心血，就这般前功尽弃了。」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0129/index.json",
+                "record_id": "char-0129"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7667",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "‘焚香玉册’上还有什么其他的法子",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "上官策提到或许「焚香玉册」上还有其他法子，被云易岚哼了一声后立刻住口不再说。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7668",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "上古南疆巫族的遗迹‘玄火坛’",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说焚香谷祖师当年之所以在南疆荒僻之地开宗立派，是因为在此地发现上古南疆巫族遗迹「玄火坛」，并从中发现奇诡强大的巫法之秘；上官策作答确认了这一说法。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7669",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说焚香谷凭古巫族种种神秘巫法加上历代祖师传下的真法道术，才有今日的地位声望。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7670",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "最强大的力量‘天火’，我们却仍然只掌握了皮毛",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说数百年间历代祖师耗尽心血，对南疆古巫族巫法中最强大的力量「天火」仍只掌握了皮毛。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7671",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "当日我继承谷主之位时",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说自己在继承焚香谷谷主之位时，曾在历代祖师面前立下重誓，必定要发现巫族天火之秘，让焚香谷一脉称霸天下、领袖群伦。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7672",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "八凶玄火法阵的阵图，都被毁了",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说探索「天火」之力唯一的钥匙、巫族传下的八凶玄火法阵阵图已被毁，连重中之重的玄火鉴也丢失了。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7673",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "生生将座椅扶手给拗了下来",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚恼怒之下手中用力，生生将座椅扶手拗了下来。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7674",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "所以才有了与虎谋皮",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚说当年困局之下偶然从南疆古籍得知，除玄火坛外镇魔古洞里尚存一处阵图，因此才有「与虎谋皮」之举。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0129/index.json",
+                "record_id": "char-0129"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7675",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "那几个非人非妖的巫族遗民",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "上官策叫住云易岚，提出阵图乃死物、此路不通后可从「人」着手：他猜测镇魔古洞里一切灰飞烟灭之后，那几个非人非妖的巫族遗民中有一人未必甘心同归于尽，或许会幸存下来，此人将是当世对古巫族巫法之谜知晓最多的人。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7676",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "就劳烦你去十万大山里走一趟了",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚点头认可，命上官策前往十万大山走一趟，据其吩咐主要为探访巫族遗民幸存之事，并顺带查看李洵一行人的情况。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7677",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "刚才为兄的心情不佳",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚向师弟表示刚才自己心情不佳，或许说话口气有所不对，请他不要放在心上；上官策回答不会。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7678",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "云易岚转身走入山河殿后堂、消失在阴影中，偌大山河殿上只剩上官策一人默然伫立。"
+            }
+          ],
+          "id": "update-1069",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7676"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0207/index.json",
+                "record_id": "char-0207"
+              },
+              "role": "initiator"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0129/index.json",
+                "record_id": "char-0129"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0080/index.json",
+                "record_id": "char-0080"
+              },
+              "role": "mentioned"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 215,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "云易岚与师弟上官策在山河殿黑暗中对坐，望着十万大山方向冲天火柱。云易岚称有人毁了镇魔古洞、杀了那妖孽，感叹百年心血前功尽弃，并道出焚香谷依玄火坛古巫遗迹立派、历代祖师未能尽掌巫族「天火」、八凶玄火法阵阵图被毁与玄火鉴丢失等内情，恼怒拧断扶手。上官策随后提出「阵图既毁可从人着手」，推测镇魔古洞崩坏后或有一名非人非妖的巫族遗民幸存。云易岚采纳，命其赴十万大山探访此事并顺带查探李洵一行，随后独自入后堂，留下上官策一人在殿中。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7664"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-1070",
+      "introduced_at": 215,
+      "kind": "event",
+      "safe_through": 215,
+      "title": "十万大山火山喷发停息",
+      "updates": [
+        {
+          "action_refs": [],
+          "chapter_ranges": [
+            {
+              "end": 215,
+              "start": 215
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7679",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "三日三夜的疯狂爆发之后，缓缓减弱了下去",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "十万大山的火山在三日三夜的疯狂爆发之后缓缓减弱，漫天火雨停止，天际黑云散去，重投和煦光辉；土地上遍布灼伤痕迹，仍有硫磺焦味与隐约火头。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7680",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "孤悬出山峰一丈左右",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "断崖位于十万大山高峰峰顶，孤悬出山峰约一丈；因离镇魔古洞所在的焦黑山峰较远，镇魔古洞崩塌引发的大喷发对这里波及不大，只有零星火焰碎石点燃几处火头并很快平息。"
+            }
+          ],
+          "id": "update-1070",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7679"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "affected"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "affected"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 215,
+          "status": "completed",
+          "story_time": null,
+          "summary": "镇魔古洞崩塌引发的火山在三日三夜疯狂爆发后减弱，漫天火雨停止，天际黑云散去，重投和煦光辉；大地遍布灼伤痕迹，仅余隐约火头与淡淡硫磺焦味。",
+          "trigger_refs": []
+        }
+      ]
+    },
+    {
+      "id": "ev-1071",
+      "introduced_at": 215,
+      "kind": "event",
+      "safe_through": 215,
+      "title": "断崖夜：鬼厉与陆雪琪苏醒相对",
+      "updates": [
+        {
+          "action_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7682"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7688"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7689"
+            },
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7690"
+            }
+          ],
+          "chapter_ranges": [
+            {
+              "end": 215,
+              "start": 215
+            }
+          ],
+          "claims": [
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7681",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "被通灵神物玄火鉴以玄火灵罩救出",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "当日绝境中的鬼厉与陆雪琪被通灵神物玄火鉴以玄火灵罩救出，因太过精疲力尽很快昏厥；鬼厉再次醒来时，发现自己与陆雪琪已置身断崖之上。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7682",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "原来两个人的手早已握在一起",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪在夜中醒来，与鬼厉相视而笑；她伸手想握住他的手，却发现两人的手早已握在一起，脸上闪过淡淡红晕，随后慢慢坐起。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7683",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "是鬼厉的外套盖在她的身上",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉的外套盖在陆雪琪身上，她向鬼厉看了一眼，什么也没说。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7684",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "天琊神剑倒插在岩石里",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "断崖边上，陆雪琪的天琊神剑倒插在岩石里，鬼厉的噬魂横躺在地上，噬魂的青色光辉与天琊的淡蓝光芒交相辉映。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7685",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "赫然竟是当日跟随在兽神身边的恶兽饕餮",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "二人身后树林深处闪过一个巨大身影，是当日跟随兽神身边的恶兽饕餮；它显得烦躁不安，随后响起熟悉的「吱吱」声似乎在安慰它，片刻后饕餮安静下来。"
+            },
+            {
+              "attributed_to_ref": null,
+              "basis_refs": [
+                {
+                  "anchor": "一个熟悉的“吱吱吱吱”声响了起来",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "certainty": "inferred",
+              "id": "claim-7686",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "一个熟悉的“吱吱吱吱”声响了起来",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "安抚饕餮的「吱吱」声，原文未点名其发出者（据前文语境疑为小灰）。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7687",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "那是饕餮，我来就是为它的",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉对陆雪琪说：「那是饕餮，我来就是为它的。明天，我应该就要……」，话未说完便止住（因被陆雪琪掩口）。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7688",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "轻轻捂住了他的口",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪伸出一只白皙柔软的手掌，轻轻捂住鬼厉的口，使鬼厉沉默下来、身子微微颤抖。"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "basis_refs": [],
+              "certainty": "reported",
+              "id": "claim-7689",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "别管明天了，好么？",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "陆雪琪只是微笑、深深凝视鬼厉，许久后轻轻低低地说：「别管明天了，好么？」"
+            },
+            {
+              "attributed_to_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "basis_refs": [],
+              "certainty": "explicit",
+              "id": "claim-7690",
+              "revealed_at": 215,
+              "source_refs": [
+                {
+                  "anchor": "他悄悄握住她的手，握在掌心",
+                  "chapter_id": "ch-000215",
+                  "chapter_order": 215,
+                  "path": "source/vol-006/ch-000215.txt"
+                }
+              ],
+              "supersedes_refs": [],
+              "text": "鬼厉悄悄握住陆雪琪的手，握在掌心。"
+            }
+          ],
+          "id": "update-1071",
+          "outcome_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7690"
+            }
+          ],
+          "participants": [
+            {
+              "entity_ref": {
+                "path": "characters/char-0173/index.json",
+                "record_id": "char-0173"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0055/index.json",
+                "record_id": "char-0055"
+              },
+              "role": "participant"
+            },
+            {
+              "entity_ref": {
+                "path": "characters/char-0268/index.json",
+                "record_id": "char-0268"
+              },
+              "role": "participant"
+            }
+          ],
+          "related_event_refs": [],
+          "revealed_at": 215,
+          "status": "ongoing",
+          "story_time": null,
+          "summary": "鬼厉与陆雪琪被玄火鉴以玄火灵罩救出后昏厥，醒来已置身十万大山高峰断崖。夜中陆雪琪苏醒，二人相视而笑，她察觉两人手早已相握，身上盖着鬼厉的外套；天琊与噬魂静卧一旁、光芒交映。树林深处出现跟随兽神的恶兽饕餮，被熟悉的「吱吱」声安抚。鬼厉说「我来就是为它的」，话未说完被陆雪琪捂住口，她只说「别管明天了，好么？」，鬼厉悄悄将她的手握在掌心。",
+          "trigger_refs": [
+            {
+              "path": "events/block-0013.json",
+              "record_id": "claim-7685"
+            }
+          ]
+        }
+      ]
     }
   ],
   "id": "block-0013",
   "kind": "event_collection",
   "novel_id": "8b49a56131c3442abdd8b7c0084b399e",
-  "revision": 13,
-  "safe_through": 213,
+  "revision": 15,
+  "safe_through": 215,
   "schema_version": "2.0"
 }

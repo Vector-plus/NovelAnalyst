@@ -192,4 +192,19 @@ python design/doc/scripts/validate_index.py --root novel --novel-id xianni --sou
 建议阅读顺序：`01-需求定义 → 02-架构设计 → 03-核心图设计_* → 04-prompt_* → novel-index-templates`。
 
 ---
+## 八、效果演示
+
+1. 索引生成
+
+![索引生成](design/doc/photo/实例3.png)
+
+2. 解说词生成
+
+![解说词生成](design/doc/photo/实例1.png)
+
+3. 展示解说词
+
+![展示解说词](design/doc/photo/实例2.png)
+
+![展示解说词](design/doc/photo/示例4.png)
 
